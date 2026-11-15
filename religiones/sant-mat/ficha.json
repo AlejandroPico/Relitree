@@ -17,5 +17,10 @@
     "sufismo"
   ],
   "resumen": "Poetas santos del norte de la India, como Kabir, que predicaron un dios sin forma más allá de hindúes y musulmanes.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ek_onkar.svg",
+    "licencia": "CC0",
+    "autor": "Original:  Sukh Vector:  Mrmw"
+  }
 }

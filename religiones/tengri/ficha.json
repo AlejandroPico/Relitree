@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Religión de los pueblos turcos y mongoles: el Cielo Eterno, la madre tierra y los chamanes.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Tengrism1.svg",
+    "licencia": "CC0",
+    "autor": "Modanung"
+  }
 }

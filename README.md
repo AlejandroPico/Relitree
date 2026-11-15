@@ -20,6 +20,5 @@ npm start
 
 - [`agentes.md`](agentes.md): arquitectura, modelo de datos y criterios editoriales.
 - [`tareas.md`](tareas.md): trabajo pendiente.
-- [`docs/EDITOR.md`](docs/EDITOR.md): manual del editor autónomo Atlas Studio.
 
 Los símbolos proceden de Wikimedia Commons bajo dominio público o licencias libres; la atribución de cada uno figura en su ficha y en la enciclopedia.

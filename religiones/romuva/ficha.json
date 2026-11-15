@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Movimiento lituano que retoma la religión báltica a partir del folclore.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Romuva_symbol.svg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "This vector image includes elements that have been taken or adapted from this file:"
+  }
 }

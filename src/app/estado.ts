@@ -12,6 +12,7 @@ export class Estado {
   readonly vista = signal<Vista>({ k: 1, tx: 0, ty: 0, w: 0, h: 0 });
   readonly irA = signal<{ id: string; n: number } | null>(null);
   readonly enciclopedia = signal<string | null>(null);      // id del artículo abierto
+  readonly radial = signal(false);                          // presentación radial en lugar de columnas
 
   readonly regionesOff = signal<Set<string>>(new Set());
   readonly tiposOff = signal<Set<string>>(new Set());
@@ -28,7 +29,7 @@ export class Estado {
     return s;
   });
 
-  /** Tradiciones emparentadas con la selección: linaje ascendente, ramas directas e influencias. */
+  /** Tradiciones emparentadas con la selección: todo el linaje ascendente, todo el árbol que desciende de ella e influencias directas. */
   readonly foco = computed<Set<string> | null>(() => {
     const rel = this.relacion();
     if (rel) return new Set([rel.origen, rel.destino]);
@@ -40,6 +41,12 @@ export class Estado {
       const p: Relacion | undefined = this.datos.relaciones.find((r) => r.destino === actual && r.principal);
       actual = p?.origen;
       if (actual) s.add(actual);
+    }
+    const cola = [id];
+    while (cola.length) {
+      const x = cola.pop()!;
+      for (const r of this.datos.relaciones)
+        if (r.origen === x && r.clase !== 'influencia' && !s.has(r.destino)) { s.add(r.destino); cola.push(r.destino); }
     }
     for (const r of this.datos.relaciones) {
       if (r.origen === id) s.add(r.destino);

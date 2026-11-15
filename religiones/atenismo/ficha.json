@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Reforma de Akenatón que impuso el culto exclusivo al disco solar Atón; fue abolida tras su muerte.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Aten.svg",
+    "licencia": "CC BY 2.5",
+    "autor": "AtonX"
+  }
 }

@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Comunidad filosófico-religiosa que veía en el número el principio del cosmos y practicaba una vida ascética.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Tetractys.svg",
+    "licencia": "Public domain",
+    "autor": "User:Jossifresco"
+  }
 }

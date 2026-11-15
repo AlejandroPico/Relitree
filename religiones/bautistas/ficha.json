@@ -17,5 +17,10 @@
     "anabaptismo"
   ],
   "resumen": "Iglesias congregacionales que practican el bautismo de creyentes por inmersión.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ichthys.svg",
+    "licencia": "Public domain",
+    "autor": "MesserWoland, Erin_Silversmith, AnonMoos"
+  }
 }

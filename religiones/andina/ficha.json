@@ -17,5 +17,10 @@
     "catolica"
   ],
   "resumen": "Culto vivo a la Pachamama y a los apus, entrelazado con el santoral católico.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Figura_repetible_de_la_Chakana.svg",
+    "licencia": "CC0",
+    "autor": "Fiestoforo"
+  }
 }

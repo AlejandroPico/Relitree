@@ -20,6 +20,7 @@ const PORTFOLIO = 'https://alejandropico.github.io/Portfolio/';
 export class App {
   datos = inject(Datos); estado = inject(Estado); i18n = inject(I18n);
   ui = UI; glifos = GLIFOS; repo = REPO; portfolio = PORTFOLIO;
+  editorWeb = 'https://alejandropico.github.io/Editor/'; editorRepo = 'https://github.com/AlejandroPico/Editor';
   temas: Tema[] = ['dia', 'tarde', 'noche', 'auto'];
   panel = signal<Panel>(null);
   tema = signal<Tema>(leer('relitree.tema') as Tema ?? 'auto');
@@ -27,7 +28,6 @@ export class App {
   consulta = signal('');
   resultados = computed(() => this.datos.buscar(this.consulta()));
   instalable = signal<any>(null);
-  zoom = computed(() => Math.round(this.estado.vista().k * 100));
   private lienzo = viewChild(Lienzo);
 
   sel = computed(() => this.datos.porId.get(this.estado.seleccion() ?? '') ?? null);
@@ -63,7 +63,7 @@ export class App {
   info(e: MouseEvent) { this.abrir(e.altKey ? 'herramientas' : 'acerca'); }
   ir(r: Religion) { this.panel.set(null); this.consulta.set(''); this.estado.elegir(r, true); }
   color(r: Religion) { return this.datos.region.get(r.region)!.color; }
-  acercar(f: number) { this.lienzo()?.zoom(f); }
+  cambiarVista() { this.estado.elegir(null); this.estado.radial.update((v) => !v); }
   exportar() { this.lienzo()?.exportar(); }
   instalar() { this.instalable()?.prompt(); this.instalable.set(null); }
   wiki(r: Religion) { return `https://${this.i18n.idioma}.wikipedia.org/w/index.php?search=${encodeURIComponent(r.nombre)}`; }

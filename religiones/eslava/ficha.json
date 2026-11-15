@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Paganismo de los pueblos eslavos, con Perún como dios del trueno y un rico mundo de espíritus domésticos.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Thunder_mark_(2).svg",
+    "licencia": "Public domain",
+    "autor": "Eckhardt Etheling"
+  }
 }

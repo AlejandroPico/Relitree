@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Sistema de Aleister Crowley cuyo eje es descubrir y cumplir la verdadera voluntad.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Crowley_unicursal_hexagram.svg",
+    "licencia": "Public domain",
+    "autor": "Elembis"
+  }
 }

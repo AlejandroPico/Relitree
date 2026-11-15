@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Culto cretense de santuarios en cumbres y cuevas, figuras femeninas, el toro y el hacha doble.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Labrys-symbol-transparent.svg",
+    "licencia": "Public domain",
+    "autor": "AnonMoos"
+  }
 }

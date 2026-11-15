@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Fe del pueblo mari del Volga, que sigue celebrando sacrificios en bosques sagrados.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Mari_Native_Religion_Symbol.svg",
+    "licencia": "Public domain",
+    "autor": "Original: Mari people Vector:  Rubýñ"
+  }
 }

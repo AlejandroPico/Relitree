@@ -17,5 +17,10 @@
     "griega"
   ],
   "resumen": "Culto egipcio helenizado de la diosa Isis, difundido por todo el Mediterráneo romano.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Tyet_of_Isis.svg",
+    "licencia": "CC0",
+    "autor": "PharaohCrab"
+  }
 }

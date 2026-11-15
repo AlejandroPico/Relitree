@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Religión revelada a Nakayama Miki, que invita a una «vida gozosa».",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Tenrikyo_emblem.svg",
+    "licencia": "Public domain",
+    "autor": "Dennis Akihiko Tanaka"
+  }
 }

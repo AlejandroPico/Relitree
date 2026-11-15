@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Ciudades-templo consagradas a dioses como An, Enlil, Enki e Inanna; primera mitología escrita.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Cuneiform_sumer_dingir.svg",
+    "licencia": "Public domain",
+    "autor": "Geoff Richards (User:Qef)"
+  }
 }

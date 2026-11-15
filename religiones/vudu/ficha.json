@@ -18,5 +18,10 @@
     "taino"
   ],
   "resumen": "Religión nacida en Saint-Domingue de tradiciones fon, kongo y yoruba bajo formas católicas.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:VeveLegba.svg",
+    "licencia": "Public domain",
+    "autor": "chris 論"
+  }
 }

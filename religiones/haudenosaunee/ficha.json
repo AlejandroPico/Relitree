@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Ceremonias de agradecimiento, la Gran Ley de la Paz y las sociedades de curación.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Iroquois_Confederacy.svg",
+    "licencia": "Public domain",
+    "autor": "Rick Hill, Harold Johnson, and Tim Johnson"
+  }
 }

@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Chamanismo de Corea, con sus rituales gut oficiados por mudang.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Taegeuk.svg",
+    "licencia": "Public domain",
+    "autor": "Betalph"
+  }
 }

@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Religión de Cartago, heredera de la fenicia, presidida por Baal Hammón y Tanit.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Tanit-Symbol.svg",
+    "licencia": "Public domain",
+    "autor": "Original uploads by Erin_Silversmith, recent by AnonMoos"
+  }
 }

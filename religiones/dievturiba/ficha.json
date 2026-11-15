@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Reconstrucción letona basada en las canciones populares o dainas.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Auseklis.svg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "RootOfAllLight"
+  }
 }

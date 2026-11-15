@@ -17,5 +17,10 @@
     "platonismo"
   ],
   "resumen": "Textos atribuidos a Hermes Trismegisto, mezcla de sabiduría egipcia y filosofía griega, base del esoterismo occidental.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Caduceus.svg",
+    "licencia": "Public domain",
+    "autor": "Original:  Rama Vector:  Eliot Lash"
+  }
 }

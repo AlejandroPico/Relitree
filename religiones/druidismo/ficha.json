@@ -17,5 +17,10 @@
     "masoneria"
   ],
   "resumen": "Recreación moderna de la figura del druida, entre lo fraternal, lo cultural y lo religioso.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Awen_symbol_final.svg",
+    "licencia": "Public domain",
+    "autor": "w:User:MithrandirMage"
+  }
 }

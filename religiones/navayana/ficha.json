@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Budismo social de B. R. Ambedkar, adoptado por millones de dalits.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ashoka_Chakra.svg",
+    "licencia": "Public domain",
+    "autor": "Original: Government of India Vector:  MapGrid"
+  }
 }

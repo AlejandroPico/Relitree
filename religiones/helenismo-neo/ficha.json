@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Recuperación contemporánea del culto a los dioses olímpicos, sobre todo en Grecia.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Hellenism_symbol.svg",
+    "licencia": "Public domain",
+    "autor": "Vectorization: Own work"
+  }
 }

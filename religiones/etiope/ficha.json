@@ -18,5 +18,10 @@
     "judaismo"
   ],
   "resumen": "Cristianismo de Aksum, con canon bíblico propio y prácticas de raíz judía.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ethiopian_cross_(bold).svg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Kwamikagami"
+  }
 }

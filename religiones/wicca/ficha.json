@@ -17,5 +17,10 @@
     "celta"
   ],
   "resumen": "Brujería moderna dada a conocer por Gerald Gardner: una diosa y un dios, ocho festividades y magia ritual.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pentacle_1.svg",
+    "licencia": "Public domain",
+    "autor": "Wikimedia Commons"
+  }
 }

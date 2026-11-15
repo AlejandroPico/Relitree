@@ -12,8 +12,8 @@ religiones/<id>/        ← FUENTE CANÓNICA. Una carpeta por religión
 enciclopedia/temas/     ← artículos generales (NN-slug.md → id "tema:slug")
 backend/                ← Python: valida, calcula el trazado y genera SQLite
    relitree/modelo.py      regiones, tipos, carga y validación de fichas
-   relitree/escala.py      escala temporal por tramos (px por año) y marcas del eje
-   relitree/trazado.py     asignación automática de carriles (x) por región
+   relitree/escala.py      escala temporal adaptativa: cada tramo recibe espacio según cuántas tradiciones nacen en él
+   relitree/trazado.py     trazado automático: carril (x) de cada religión y altura de su línea de vida
    relitree/construir.py   → public/datos/relitree.sqlite + public/datos/iconos/
    relitree/iconos.py      descarga símbolos libres de Wikimedia Commons
    relitree/sembrar.py     siembra inicial desde backend/semilla/religiones.txt
@@ -21,15 +21,25 @@ backend/                ← Python: valida, calcula el trazado y genera SQLite
 src/app/                ← Angular 22 (standalone, signals, sin zone.js)
    datos.ts                carga la SQLite con sql.js (WebAssembly) y la consulta
    estado.ts               selección, filtros, capas, vista
-   lienzo.ts               SVG del árbol, zoom/desplazamiento, ejes anclados, exportación SVG
+   lienzo.ts               SVG del árbol en dos presentaciones (columnas y radial), zoom, ejes anclados, etiquetas sin solape, exportación SVG
    app.ts / app.html       barra superior, paneles flotantes, panel de detalle
    enciclopedia.ts         lector de la enciclopedia (índice, artículo, lectura en voz alta)
    i18n.ts                 textos de interfaz en es, ca, en, fr, de, pt, it (detección automática)
    glifos.ts               iconos de interfaz y glifos por tipo (dibujo propio)
-public/editor/          ← Atlas Studio, el editor autónomo anterior (se conserva tal cual)
 ```
 
 `public/datos/` es un artefacto generado: no se versiona ni se edita a mano.
+
+## Cómo se dibuja el árbol
+
+- **Nodo** = símbolo + nombre + fechas, colocado en el año de inicio. Aro discontinuo = tradición extinguida.
+- **Línea de vida**: sube desde el nodo solo hasta donde hace falta: hasta su última rama o, si es un tronco (importancia ≥ 4), hasta su final o el presente. Si sigue más allá de su extinción para alcanzar una rama tardía, ese tramo es punteado. Así un carril aloja muchas tradiciones apiladas.
+- **Rama**: línea horizontal (arco en la vista radial) desde la línea del origen hasta el nodo, siempre visible, con degradado si cambia de territorio. Renacimientos: punteada. Segundas fuentes: curva fina continua. Influencias: curva discontinua (las que cruzan territorios solo se muestran al seleccionar).
+- **Grosor** por importancia: 1,2 · 2,2 · 5 · 10 · 18 px.
+- **Selección**: resalta todo el linaje ascendente, todo el árbol que desciende y las influencias directas.
+- **Etiquetas**: en cada nivel de zoom se muestran todas las que caben sin pisarse, por orden de importancia.
+- **Vista radial**: la misma geometría en polares (ángulo = posición horizontal, radio = tiempo; lo más antiguo en el centro).
+- El trazado coloca las tradiciones en orden cronológico, cada una en el carril libre más cercano a su origen, evitando que una rama pase sobre un símbolo.
 
 ## Flujo de trabajo
 
@@ -65,12 +75,13 @@ Primera línea `# Título` (se ignora al renderizar). Markdown normal con tablas
 - **Iconos:** solo símbolos de dominio público o licencia libre (Wikimedia Commons), con la licencia anotada en la ficha; nunca logotipos registrados de organizaciones. Si no hay símbolo libre, se usa el glifo del tipo.
 - Las fechas antiguas son aproximadas; en prehistoria se representan evidencias arqueológicas, no doctrinas.
 - Una rama es una decisión editorial: cuando el origen es discutido, se elige el consenso mayoritario y se explica en el artículo.
-- Tono neutral y respetuoso con todas las tradiciones.
+- Tono neutral y respetuoso con todas las tradiciones, contando tanto sus luces como sus sombras, con hechos.
 
 ## Convenciones de interfaz (preferencias de Alejandro)
 
 - Sin títulos sobre el lienzo; minimalismo, mucho aire; nada de cajetines ni filas de divisores.
-- Barra superior: buscar · filtros y capas · leyenda · enciclopedia (libro abierto) · zoom · tema · Acerca de. **Alt + clic en Acerca de** abre Herramientas (exportar SVG, editor, SQLite).
+- Barra superior fija con todos los botones juntos: buscar · filtros y capas · leyenda · enciclopedia (libro abierto) · vista radial/columnas · tema · Acerca de. Sin controles de zoom (rueda, pellizco, teclas + − 0). **Alt + clic en Acerca de** abre Herramientas (exportar SVG, enlaces al editor Atlas, SQLite).
+- El editor es un proyecto aparte: https://github.com/AlejandroPico/Editor (web: https://alejandropico.github.io/Editor/). Aquí solo se enlaza.
 - Temas día / tarde / noche / automático (según fecha y hora locales).
 - Todo vectorial: nada de imágenes de mapa de bits en el árbol.
 - `favicon.svg` en la raíz del proyecto (lo lee el portfolio) y copia en `public/`.

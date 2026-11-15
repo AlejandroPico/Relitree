@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Tres milenios de templos, realeza divina, juicio de los muertos y un panteón encabezado por Ra, Osiris, Isis y Amón.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ankh.svg",
+    "licencia": "Public domain",
+    "autor": "No machine-readable author provided. AmosWolfe assumed (based on copyright claims)."
+  }
 }

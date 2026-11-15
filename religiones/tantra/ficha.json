@@ -17,5 +17,10 @@
     "shaktismo"
   ],
   "resumen": "Corrientes rituales y esotéricas que emplean mantras, diagramas y el cuerpo como vía de liberación.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Star_polygon_6-2.svg",
+    "licencia": "Public domain",
+    "autor": "Inductiveload"
+  }
 }

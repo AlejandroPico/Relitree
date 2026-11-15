@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Devoción a Vishnu y sus avatares, en especial Krishna y Rama.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Brahma_Madhya_Gaudiya_Tilaka.svg",
+    "licencia": "Public domain",
+    "autor": "Christopher J. Fynn, based on Snthakur's jpg"
+  }
 }

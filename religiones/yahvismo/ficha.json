@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Culto del antiguo Israel a Yahvé, que pasó de convivir con otros dioses a exigir exclusividad.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Devine_name_in_PaleoHebrew.svg",
+    "licencia": "Public domain",
+    "autor": "Shrine Book"
+  }
 }

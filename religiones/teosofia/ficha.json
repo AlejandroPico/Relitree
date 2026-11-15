@@ -19,5 +19,10 @@
     "hermetismo"
   ],
   "resumen": "Sociedad fundada por Helena Blavatsky que buscó una sabiduría común a todas las religiones.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Theosophicalseal.svg",
+    "licencia": "Public domain",
+    "autor": "Frater5 (probable main designer of original emblem, Madame Blavatsky, died 1891)"
+  }
 }

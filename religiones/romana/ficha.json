@@ -18,5 +18,10 @@
     "griega"
   ],
   "resumen": "Culto público de Roma: observancia escrupulosa de los ritos, dioses del Estado y del hogar, y más tarde culto imperial.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Fasces.svg",
+    "licencia": "Public domain",
+    "autor": "Wikimedia Commons"
+  }
 }

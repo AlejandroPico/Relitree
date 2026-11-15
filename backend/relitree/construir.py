@@ -51,6 +51,9 @@ def main() -> int:
     SALIDA.mkdir(parents=True, exist_ok=True)
     iconos = SALIDA / "iconos"
     iconos.mkdir(exist_ok=True)
+    for viejo in iconos.glob("*.svg"):                 # iconos de fichas que ya no lo tienen
+        if not (modelo.DIR_RELIGIONES / viejo.stem / "icono.svg").exists():
+            viejo.unlink()
     bd_ruta = SALIDA / "relitree.sqlite"
     tmp = bd_ruta.with_suffix(".tmp")
     tmp.unlink(missing_ok=True)

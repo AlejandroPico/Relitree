@@ -17,5 +17,10 @@
     "tantra"
   ],
   "resumen": "Budismo tántrico de mantras, mandalas y transmisión de maestro a discípulo.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Vajra_symbol.svg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Christopher J. Fynn"
+  }
 }

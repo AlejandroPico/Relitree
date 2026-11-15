@@ -15,7 +15,8 @@ export const UI: Record<string, string> = {
   noche: 'M20 14.5A8.5 8.5 0 1 1 9.5 4a7 7 0 0 0 10.5 10.5Z',
   auto: 'M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18ZM12 3v18M12 7l5 0M12 12h8M12 17h5',
   enlace: 'M14 5h5v5M19 5l-8 8M17 14v5H5V7h5',
-  mas: 'M12 5v14M5 12h14', menos: 'M5 12h14',
+  radial: 'M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18ZM12 7.5a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9ZM12 3v4.5M19.8 16.5l-3.9-2.25M4.2 16.5l3.9-2.25',
+  columnas: 'M5 4v16M10 9v11M14.5 4v16M19 12v8M5 9h5M14.5 12H19',
 };
 
 export interface Glifo { d: string; relleno?: boolean; }

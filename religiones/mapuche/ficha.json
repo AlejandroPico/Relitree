@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Tradición del sur andino: la machi, el nguillatún y el equilibrio entre fuerzas opuestas.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Gu%C3%B1elve.svg",
+    "licencia": "Public domain",
+    "autor": "Wikimedia Commons"
+  }
 }

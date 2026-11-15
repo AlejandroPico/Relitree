@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Ciudades-templo, calendario sagrado, sacrificio de sangre y mitos como los del Popol Vuh; pervive en comunidades actuales.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ha%27_K%27in_Xook.svg",
+    "licencia": "CC0",
+    "autor": "Gen. Quon"
+  }
 }

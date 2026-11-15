@@ -17,5 +17,10 @@
     "catolica"
   ],
   "resumen": "Iglesia oriental del Líbano, en comunión con Roma.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Maronite_cross_(bold).svg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Kwamikagami"
+  }
 }

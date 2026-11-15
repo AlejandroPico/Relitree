@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Cultos de los pueblos germánicos continentales a dioses como Wodan, Donar y Tiwaz.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sun_cross.svg",
+    "licencia": "Public domain",
+    "autor": "No machine-readable author provided. Melian assumed (based on copyright claims)."
+  }
 }

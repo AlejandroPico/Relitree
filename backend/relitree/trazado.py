@@ -1,84 +1,140 @@
 """Trazado automático del árbol: asigna a cada religión un carril (x) dentro de su región.
 
-Cada tradición es una línea de vida vertical (del inicio al final o al presente). Las hijas
-se colocan alternando a izquierda y derecha de su origen, las más recientes más cerca, de modo
-que las ramas horizontales no se cruzan entre hermanas. Un carril se reutiliza cuando la
-tradición anterior ya se ha extinguido, para compactar sin amontonar.
+Cada tradición ocupa un nodo (símbolo + etiqueta) y, encima, una línea de vida que solo sube
+hasta donde hace falta: hasta su última rama o, si es un tronco (importancia ≥ 4), hasta su
+final o el presente. Así un mismo carril aloja muchas tradiciones apiladas en el tiempo.
+
+Se colocan en orden cronológico. Cada una busca el carril libre más cercano al de su origen,
+comprobando que la rama horizontal que la une a él no atraviese ningún nodo ya colocado.
 """
 from __future__ import annotations
 from .modelo import Religion, REGION_IDS, ANIO_ACTUAL
+from . import escala
 from .escala import y_de
 
-ANCHO_CARRIL = 136
-MARGEN_REGION = 60
-ALTO_ETIQUETA = 84      # espacio reservado bajo el nodo para nombre y fecha
-HOLGURA = 26
-RETROCESO = 6           # carriles hacia atrás en los que se intenta reutilizar hueco
+ANCHO_CARRIL = 150
+MARGEN_REGION = 90
+HOLGURA = 16
+TRONCO = 4              # importancia mínima para que la línea llegue a su final o al presente
 
 
 def radio(importancia: int) -> float:
     return 13 + importancia * 3.2
 
 
-def indirecta(padre: Religion, hija: Religion) -> bool:
-    """Filiación a distancia: renacimientos y herencias que saltan más de tres siglos de vacío."""
-    rel = hija.padres[0].get("relacion", "derivacion")
-    return rel == "renacimiento" or (padre.fin is not None and hija.inicio - padre.fin > 300)
+def lineas(nombre: str, maximo: int = 17) -> int:
+    """Número de líneas de la etiqueta (misma partición que el front, máximo tres)."""
+    n, actual = 0, ""
+    for palabra in nombre.split(" "):
+        if actual and len(actual) + 1 + len(palabra) > maximo:
+            n += 1; actual = palabra
+        else:
+            actual = f"{actual} {palabra}".strip()
+    return min(3, n + (1 if actual else 0))
+
+
+def alto_etiqueta(r: Religion) -> float:
+    return 8 + 15 * lineas(r.nombre) + 18
 
 
 def calcular(religiones: dict[str, Religion]) -> dict:
+    escala.configurar([r.inicio for r in religiones.values()])
     hijos: dict[str, list[Religion]] = {}
     for r in religiones.values():
         if r.padre:
             hijos.setdefault(r.padre, []).append(r)
 
-    def locales(r: Religion) -> list[Religion]:
-        return sorted((h for h in hijos.get(r.id, []) if h.region == r.region),
-                      key=lambda h: -h.inicio)
+    def cima(r: Religion) -> float:
+        """Coordenada y hasta la que sube la línea de vida."""
+        y = y_de(r.inicio)
+        if r.importancia >= TRONCO:
+            y = min(y, y_de(r.fin if r.fin is not None else ANIO_ACTUAL))
+        for h in hijos.get(r.id, []):
+            y = min(y, y_de(h.inicio))
+        return y
 
-    def secuencia(r: Religion) -> list[Religion]:
-        izq, der = [], []
-        for i, h in enumerate(locales(r)):
-            (der if i % 2 == 0 else izq).append(secuencia(h))
-        salida: list[Religion] = []
-        for bloque in reversed(izq): salida += bloque
-        salida.append(r)
-        for bloque in der: salida += bloque
-        return salida
+    idx = {reg: n for n, reg in enumerate(REGION_IDS)}
+    # por región: carril → lista de (arriba, abajo, y del nodo, radio) ; pasillos de ramas (y, desde, hasta)
+    ocupado: dict[str, dict[int, list[tuple[float, float, float, float]]]] = {reg: {} for reg in REGION_IDS}
+    pasillos: dict[str, list[tuple[float, float, float]]] = {reg: [] for reg in REGION_IDS}
+    carril: dict[str, int] = {}
+    INF = 10 ** 6
 
-    def intervalo(r: Religion) -> tuple[float, float]:
-        arriba = y_de(r.fin if r.fin is not None else ANIO_ACTUAL)
-        for h in hijos.get(r.id, []):           # prolongación hasta la última hija directa
-            if not indirecta(r, h):
-                arriba = min(arriba, y_de(h.inicio))
-        return arriba - radio(r.importancia) - HOLGURA, y_de(r.inicio) + ALTO_ETIQUETA + HOLGURA
+    def libre(reg: str, c: int, arriba: float, abajo: float, y0: float, rad: float, estricto: bool = True) -> bool:
+        for a, b, _, _ in ocupado[reg].get(c, []):
+            if not (abajo <= a or arriba >= b):
+                return False
+        if not estricto:
+            return True
+        # ninguna rama ajena debe pasar por encima del símbolo (sí puede pasar bajo la etiqueta)
+        return not any(d <= c <= h and abs(y - y0) <= rad + 8 for y, d, h in pasillos[reg])
+
+    def tramos(r: Religion, c: int) -> list[tuple[str, float, float]]:
+        """Carriles que cruza la rama desde el origen: (región, desde, hasta), extremos excluidos."""
+        p = religiones.get(r.padre) if r.padre else None
+        if p is None:
+            return []
+        cp = carril[p.id]
+        if p.region == r.region:
+            return [(r.region, min(cp, c) + 1, max(cp, c) - 1)] if abs(cp - c) > 1 else []
+        a, b = idx[p.region], idx[r.region]
+        if a < b:
+            medio = [(REGION_IDS[n], -INF, INF) for n in range(a + 1, b)]
+            return [(p.region, cp + 1, INF), *medio, (r.region, -INF, c - 1)]
+        medio = [(REGION_IDS[n], -INF, INF) for n in range(b + 1, a)]
+        return [(p.region, -INF, cp - 1), *medio, (r.region, c + 1, INF)]
+
+    def rama_limpia(r: Religion, c: int, y: float) -> bool:
+        for reg, d, h in tramos(r, c):
+            for k, lista in ocupado[reg].items():
+                if d <= k <= h and any(abs(y - yn) <= rn + 8 for _, _, yn, rn in lista):
+                    return False
+        return True
+
+    orden = sorted(religiones.values(), key=lambda r: (r.inicio, -r.importancia, r.id))
+    pendientes, colocadas = list(orden), set()
+    while pendientes:                               # el origen siempre antes que sus ramas
+        r = next(x for x in pendientes if x.padre is None or x.padre in colocadas)
+        pendientes.remove(r)
+        y = y_de(r.inicio)
+        arriba = cima(r) - HOLGURA
+        rad = radio(r.importancia)
+        abajo = y + rad + alto_etiqueta(r) + HOLGURA
+        arriba = min(arriba, y - rad - HOLGURA)
+        usados = ocupado[r.region]
+        lo, hi = (min(usados), max(usados)) if usados else (0, -1)
+        p = religiones.get(r.padre) if r.padre else None
+        if p is None:
+            deseado = (lo + hi) // 2
+        elif p.region == r.region:
+            deseado = carril[p.id]
+        else:
+            deseado = lo if idx[p.region] < idx[r.region] else hi
+        candidatos = sorted(range(lo, hi + 1), key=lambda c: (abs(c - deseado), c))
+        elegido = next((c for c in candidatos if libre(r.region, c, arriba, abajo, y, rad) and rama_limpia(r, c, y)), None)
+        if elegido is None:                         # sin cruce limpio posible: basta con que el hueco esté libre
+            elegido = next((c for c in candidatos if libre(r.region, c, arriba, abajo, y, rad, False)), None)
+        if elegido is None:                         # sin hueco: carril nuevo en el borde más cercano
+            elegido = lo - 1 if deseado - lo < hi - deseado else hi + 1
+        usados.setdefault(elegido, []).append((arriba, abajo, y, rad))
+        for reg, d, h in tramos(r, elegido):
+            pasillos[reg].append((y, d, h))
+        carril[r.id] = elegido
+        colocadas.add(r.id)
 
     posiciones: dict[str, dict] = {}
     regiones_out, x0 = [], 0.0
-    for idx, reg in enumerate(REGION_IDS):
-        def clave(r: Religion):
-            p = religiones.get(r.padre) if r.padre else None
-            lado = 0 if p is None else (-1 if REGION_IDS.index(p.region) < idx else 1)
-            return (lado, r.inicio if lado <= 0 else -r.inicio)
-        raices = sorted((r for r in religiones.values() if r.region == reg and
-                         (r.padre is None or religiones[r.padre].region != reg)), key=clave)
-        carriles: list[list[tuple[float, float]]] = []
-        for raiz in raices:
-            for r in secuencia(raiz):
-                a, b = intervalo(r)
-                elegido = None
-                for c in range(len(carriles) - 1, max(-1, len(carriles) - 1 - RETROCESO), -1):
-                    if all(b <= oa or a >= ob for oa, ob in carriles[c]):
-                        elegido = c; break
-                if elegido is None:
-                    carriles.append([]); elegido = len(carriles) - 1
-                carriles[elegido].append((a, b))
+    for reg in REGION_IDS:
+        usados = ocupado[reg]
+        lo, hi = (min(usados), max(usados)) if usados else (0, 0)
+        for r in religiones.values():
+            if r.region == reg:
                 posiciones[r.id] = {
-                    "x": round(x0 + MARGEN_REGION + elegido * ANCHO_CARRIL + ANCHO_CARRIL / 2, 1),
+                    "x": round(x0 + MARGEN_REGION + (carril[r.id] - lo + 0.5) * ANCHO_CARRIL, 1),
                     "y": round(y_de(r.inicio), 1),
-                    "y_fin": round(y_de(r.fin if r.fin is not None else ANIO_ACTUAL), 1),
+                    "y_fin": round(cima(r), 1),
                 }
-        ancho = 2 * MARGEN_REGION + max(1, len(carriles)) * ANCHO_CARRIL
+        ancho = 2 * MARGEN_REGION + (hi - lo + 1) * ANCHO_CARRIL
         regiones_out.append({"id": reg, "x": round(x0, 1), "ancho": round(ancho, 1)})
         x0 += ancho
     return {"posiciones": posiciones, "regiones": regiones_out, "ancho_total": round(x0, 1)}

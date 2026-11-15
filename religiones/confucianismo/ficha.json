@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Enseñanza de Confucio: humanidad, piedad filial y rito como base del orden social.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Old_ru_character_(Confucianism).svg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "RaphaelQS"
+  }
 }

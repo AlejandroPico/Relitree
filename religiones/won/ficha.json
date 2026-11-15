@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Budismo coreano moderno cuyo símbolo es un círculo.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Won-Buddhism_symbol(No_base).svg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Takuyakoz"
+  }
 }

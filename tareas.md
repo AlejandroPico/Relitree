@@ -3,8 +3,8 @@
 Solo figura lo que falta; lo terminado se elimina de la lista.
 
 ## Fase A · Iconos
-- Completar símbolos libres para las tradiciones que aún usan el glifo de su tipo (`python -m relitree.iconos`, ampliando `backend/semilla/iconos.json`).
-- Revisar uno a uno los iconos descargados: que sean el símbolo más reconocido y que se lean bien a tamaño pequeño.
+- Símbolos libres para las tradiciones que aún usan el glifo de su tipo (`python -m relitree.iconos`, ampliando `backend/semilla/iconos.json`).
+- Revisión fina de los iconos descargados por búsqueda automática: que sean el símbolo más reconocido y se lean bien en pequeño.
 - Dibujar símbolos propios para tradiciones sin emblema libre (p. ej. culturas arqueológicas).
 
 ## Fase B · Ampliación del árbol
@@ -15,7 +15,8 @@ Solo figura lo que falta; lo terminado se elimina de la lista.
 - Revisar fechas e importancias con bibliografía especializada por región.
 
 ## Fase C · Enciclopedia
-- Artículos extensos por tradición (orígenes, creencias, textos, ritos, ramas, curiosidades), empezando por las de importancia 5 y 4.
+- Artículos extensos por tradición con el modelo de `religiones/cristianismo/articulo.md` (orígenes, creencias, textos, ritos, divisiones, luces, sombras, curiosidades), empezando por las de importancia 5 y 4.
+- Un artículo propio por cada concilio ecuménico y por cada gran cisma, enlazados entre sí.
 - Panteones: fichas de deidades (India, Egipto, Grecia, Mesopotamia, Mesoamérica…) enlazadas desde cada religión.
 - Temas generales: glosario, textos sagrados, calendarios y festividades, cismas y reformas, mapa de fieles hoy.
 - Diagramas interactivos dentro de los artículos.
@@ -26,4 +27,5 @@ Solo figura lo que falta; lo terminado se elimina de la lista.
 - Acontecimientos sobre las líneas de vida (concilios, textos, migraciones).
 - Etiquetas flotantes para las líneas cuyo nodo queda fuera de pantalla.
 - Iconos PNG para la instalación como aplicación en todos los navegadores.
-- Exportar el árbol al formato del editor Atlas Studio.
+- Exportar el árbol al formato del editor Atlas.
+- Vista radial: rótulos curvos y mejor reparto angular de las épocas antiguas.

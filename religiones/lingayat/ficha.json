@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Movimiento de Basava, devoto de Shiva, que rechazó castas y rituales de templo.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Lingayat_flag.svg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "FactCheck105"
+  }
 }

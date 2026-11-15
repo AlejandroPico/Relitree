@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Iglesias que rechazaron el concilio de Calcedonia: copta, siríaca, armenia y etíope.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Western_Syriac_Cross.svg",
+    "licencia": "Public domain",
+    "autor": "Rafy"
+  }
 }

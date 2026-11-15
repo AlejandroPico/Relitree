@@ -17,5 +17,10 @@
     "cabala"
   ],
   "resumen": "Corriente esotérica nacida de unos manifiestos alemanes que anunciaban una fraternidad secreta de sabios.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rose_Cross_Lamen.svg",
+    "licencia": "Public domain",
+    "autor": "Fuzzypeg"
+  }
 }

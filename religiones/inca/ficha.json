@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Religión imperial del Sol, con Viracocha, la Pachamama, las huacas y las momias de los soberanos.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Tawa_chakana.svg",
+    "licencia": "CC BY-SA 2.5",
+    "autor": "Huhsunqu"
+  }
 }

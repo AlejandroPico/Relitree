@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Culto a los antepasados de los moái y, más tarde, la ceremonia del hombre-pájaro.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Reimiro.svg",
+    "licencia": "Public domain",
+    "autor": "B1mbo"
+  }
 }

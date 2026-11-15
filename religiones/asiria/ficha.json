@@ -17,5 +17,10 @@
     "babilonica"
   ],
   "resumen": "Culto imperial al dios Asur, vinculado a la realeza y a la guerra.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Winged_Ashur_Sun_Cross.svg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "RootOfAllLight"
+  }
 }

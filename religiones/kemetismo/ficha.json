@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Reconstrucción moderna de la religión del antiguo Egipto.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Eye_of_Horus_bw.svg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Jeff Dahl"
+  }
 }

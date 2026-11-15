@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Corriente griega de salvación personal, con pureza de vida y creencia en la transmigración del alma.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Lyre.svg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Alexey Gomankov based on Urbi et orbi"
+  }
 }

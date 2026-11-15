@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Fraternidad iniciática de simbolismo constructor; no es una religión, pero influyó en muchos movimientos esotéricos.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Square_compasses.svg",
+    "licencia": "CC BY-SA 3.0",
+    "autor": "MesserWoland"
+  }
 }

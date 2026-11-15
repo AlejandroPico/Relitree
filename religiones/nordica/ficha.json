@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Religión escandinava de la era vikinga: Odín, Thor, Freyja y el destino final del Ragnarök.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Valknut.svg",
+    "licencia": "CC BY 2.0",
+    "autor": "Nyo and Liftarn"
+  }
 }

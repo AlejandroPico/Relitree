@@ -17,5 +17,10 @@
     "gnosticismo"
   ],
   "resumen": "Religión gnóstica de Mesopotamia que venera a Juan el Bautista y practica bautismos repetidos en agua corriente.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Darfash_-_Mandaean_cross.svg",
+    "licencia": "CC BY-SA 3.0",
+    "autor": "Dragovit"
+  }
 }

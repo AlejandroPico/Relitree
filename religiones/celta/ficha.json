@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Religión de galos, britanos e irlandeses: druidas, arboledas sagradas, dioses tribales y fiestas estacionales.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Triskele-Symbol1.svg",
+    "licencia": "Public domain",
+    "autor": "Based on work by User:AnonMoos; The original uploader was Dariusofthedark at English Wikipedia."
+  }
 }

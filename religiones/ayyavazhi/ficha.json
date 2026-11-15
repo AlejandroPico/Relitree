@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Tradición del sur de la India nacida de las enseñanzas de Ayya Vaikundar.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ayyavazhi_lotus.svg",
+    "licencia": "CC BY-SA 2.5",
+    "autor": "Huhsunqu"
+  }
 }

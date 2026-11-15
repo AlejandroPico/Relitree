@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Religión de Babilonia, presidida por Marduk, con el Enuma Elish y una refinada astrología.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ishtar-star-symbol.svg",
+    "licencia": "Public domain",
+    "autor": "Raphael 75"
+  }
 }

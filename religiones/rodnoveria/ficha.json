@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Fe nativa eslava reconstruida en Rusia, Ucrania y Polonia.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Kolovrat.svg",
+    "licencia": "CC BY-SA 3.0",
+    "autor": "Sw1972"
+  }
 }

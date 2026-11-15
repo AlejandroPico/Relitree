@@ -15,5 +15,10 @@
   ],
   "influencias": [],
   "resumen": "Cultos de Tiro, Sidón y Biblos a Melqart, Astarté y Eshmún, llevados por mar a todo el Mediterráneo.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Tanit-Symbol.svg",
+    "licencia": "Public domain",
+    "autor": "Original uploads by Erin_Silversmith, recent by AnonMoos"
+  }
 }

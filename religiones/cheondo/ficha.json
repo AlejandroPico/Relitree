@@ -17,5 +17,10 @@
     "neoconfucianismo"
   ],
   "resumen": "Religión coreana nacida del movimiento Donghak: el Cielo reside en cada persona.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Cheondoism_symbol.svg",
+    "licencia": "Public domain",
+    "autor": "Aethelwolf Emsworth."
+  }
 }

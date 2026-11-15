@@ -8,12 +8,9 @@
     <button class="ico" [class.activo]="panel() === 'filtros'" [title]="i18n.t('filtros')" (click)="abrir('filtros')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['capas']"/></svg></button>
     <button class="ico" [class.activo]="panel() === 'leyenda'" [title]="i18n.t('leyenda')" (click)="abrir('leyenda')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['leyenda']"/></svg></button>
     <button class="ico" [title]="i18n.t('enciclopedia')" (click)="estado.enciclopedia.set(estado.seleccion() ?? 'tema:como-leer')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['libro']"/></svg></button>
-    <span class="hueco"></span>
-    <button class="ico mini" (click)="acercar(0.8)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['menos']"/></svg></button>
-    <span class="zoom">{{ zoom() }}%</span>
-    <button class="ico mini" (click)="acercar(1.25)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['mas']"/></svg></button>
+    <button class="ico" [title]="i18n.t(estado.radial() ? 'columnas' : 'radial')" (click)="cambiarVista()"><svg viewBox="0 0 24 24"><path [attr.d]="ui[estado.radial() ? 'columnas' : 'radial']"/></svg></button>
     <button class="ico" [class.activo]="panel() === 'tema'" [title]="i18n.t('tema')" (click)="abrir('tema')"><svg viewBox="0 0 24 24"><path [attr.d]="ui[tema()]"/></svg></button>
-    <button class="ico" [class.activo]="panel() === 'acerca'" [title]="i18n.t('acerca')" (click)="info($event)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['info']"/></svg></button>
+    <button class="ico" [class.activo]="panel() === 'acerca' || panel() === 'herramientas'" [title]="i18n.t('acerca')" (click)="info($event)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['info']"/></svg></button>
   </header>
 
   @switch (panel()) {
@@ -56,8 +53,8 @@
         <p><svg viewBox="0 0 60 16"><path d="M4 13C30 13 30 3 56 3" stroke-width="1.8"/></svg>{{ i18n.t('lSecundaria') }}</p>
         <p><svg viewBox="0 0 60 16"><path d="M4 8H56" stroke-width="3" stroke-dasharray="1 7"/></svg>{{ i18n.t('lRenacer') }}</p>
         <p><svg viewBox="0 0 60 16"><path d="M4 13C30 13 30 3 56 3" stroke-width="1.5" stroke-dasharray="6 5"/></svg>{{ i18n.t('lInfluencia') }}</p>
-        <p><svg viewBox="0 0 60 16"><path d="M30 15V6M20 6H40" stroke-width="2.6"/></svg>{{ i18n.t('lFin') }}</p>
-        <p><svg viewBox="0 0 60 16"><path d="M4 8H18" stroke-width="2"/><path d="M23 8H37" stroke-width="5"/><path d="M42 8H56" stroke-width="10"/></svg>{{ i18n.t('grosor') }}</p>
+        <p><svg viewBox="0 0 60 16"><circle cx="30" cy="8" r="6.5" stroke-width="1.8" stroke-dasharray="3 2.4"/></svg>{{ i18n.t('lFin') }}</p>
+        <p><svg viewBox="0 0 60 16"><path d="M4 8H18" stroke-width="1.2"/><path d="M23 8H37" stroke-width="5"/><path d="M42 8H56" stroke-width="12" stroke-linecap="butt"/></svg>{{ i18n.t('grosor') }}</p>
         <h4>{{ i18n.t('territorios') }}</h4>
         <div class="fichas">@for (r of datos.regiones; track r.id) { <span><i [style.background]="r.color"></i>{{ r.nombre }}</span> }</div>
         <h4>{{ i18n.t('tipos') }}</h4>
@@ -79,7 +76,8 @@
       <div class="flotante acerca">
         <h4>{{ i18n.t('herramientas') }}</h4>
         <a (click)="exportar()"><svg viewBox="0 0 24 24"><path [attr.d]="ui['descargar']"/></svg>{{ i18n.t('exportar') }}</a>
-        <a href="editor/Atlas-Studio.html" download><svg viewBox="0 0 24 24"><path [attr.d]="ui['descargar']"/></svg>{{ i18n.t('editor') }}</a>
+        <a [href]="editorWeb" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path [attr.d]="ui['enlace']"/></svg>{{ i18n.t('editor') }}</a>
+        <a [href]="editorRepo" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path [attr.d]="ui['enlace']"/></svg>{{ i18n.t('editorRepo') }}</a>
         <a href="datos/relitree.sqlite" download><svg viewBox="0 0 24 24"><path [attr.d]="ui['descargar']"/></svg>relitree.sqlite</a>
       </div>
     }

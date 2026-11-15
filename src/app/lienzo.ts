@@ -4,32 +4,34 @@ import { Estado } from './estado';
 import { I18n } from './i18n';
 import { GLIFOS } from './glifos';
 
-const GROSOR = [0, 2, 3.2, 5, 7.5, 11];
+const GROSOR = [0, 1.2, 2.2, 5, 10, 18];
+const R_INT = 260;          // radio interior de la vista radial (lo más antiguo)
+const HUECO = 0.32;         // radianes libres arriba, donde se rotulan las fechas
 
 /** Estilos del mundo vectorial. Se inyectan también en el SVG exportado. */
 export const CSS_LIENZO = `
-.banda{opacity:.045}
-.rejilla{stroke:var(--texto);stroke-opacity:.045;stroke-width:1;vector-effect:non-scaling-stroke}
-.vida line,.rama line,.rama path{stroke-linecap:round;fill:none}
-.ext{stroke-dasharray:1 9;stroke-linecap:round}
-.punteada{stroke-dasharray:1 9}
-.inf{fill:none;stroke-width:1.5;stroke-dasharray:7 6;opacity:.38}
-.toque{stroke:transparent!important;stroke-width:16;fill:none;cursor:pointer;pointer-events:stroke}
+.banda{opacity:.05}
+.rejilla{fill:none;stroke:var(--texto);stroke-opacity:.05;stroke-width:1;vector-effect:non-scaling-stroke}
+.vida path,.rama path{fill:none;stroke-linecap:butt;stroke-linejoin:round}
+.vida .post{stroke-dasharray:2 7}
+.rama .punteada{stroke-dasharray:2 7}
+.inf{fill:none;stroke-dasharray:7 6;opacity:.45}
+.toque{stroke:transparent!important;stroke-width:16px!important;fill:none;cursor:pointer;pointer-events:stroke}
 .nodo{cursor:pointer}
-.nodo circle{fill:var(--fondo);stroke-width:2.6}
+.nodo circle.base{fill:var(--fondo);stroke-width:2.6}
 .nodo circle.claro{fill:#f6f3ea}
+.nodo circle.tinte{opacity:.2}
+.nodo.extinta circle.base{stroke-dasharray:4 3.2}
 .nodo .glifo{fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
 .nodo .glifo.relleno{stroke:none}
-.nodo text{text-anchor:middle;font-family:var(--fuente);paint-order:stroke;stroke:var(--fondo);stroke-width:4.5px;stroke-linejoin:round}
+.nodo text,.rotulo{text-anchor:middle;font-family:var(--fuente);paint-order:stroke;stroke:var(--fondo);stroke-width:4.5px;stroke-linejoin:round}
 .nodo .nombre{font-size:13px;font-weight:600;fill:var(--texto);letter-spacing:.1px}
 .nodo .fecha{font-size:10.5px;fill:var(--tenue);font-variant-numeric:tabular-nums}
-.nodo .halo{fill:none;stroke:var(--acento);stroke-width:2;opacity:0}
+.nodo .halo{fill:none;stroke:var(--acento);stroke-width:2.4;opacity:0}
 .nodo.sel .halo{opacity:1}
-.nodo:hover circle.base{stroke-width:4}
-.copa{text-anchor:middle;font:500 10.5px var(--fuente);fill:var(--tenue)}
-.talon{cursor:pointer}
-.talon text{font:500 10px var(--fuente);opacity:.85}
-.tenue{opacity:.13}
+.rotulo.region{font-size:250px;font-weight:650;letter-spacing:10px;text-transform:uppercase;stroke-width:40px}
+.rotulo.anio{font-size:84px;fill:var(--tenue);stroke-width:30px}
+.tenue{opacity:.1}
 .oculto{display:none}
 `;
 
@@ -38,9 +40,7 @@ export const CSS_LIENZO = `
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     <div class="eje-tiempo">
-      @for (m of marcas(); track m.anio) {
-        <span [style.top.px]="m.y">{{ m.texto }}</span>
-      }
+      @for (m of marcas(); track m.anio) { <span [style.top.px]="m.y">{{ m.texto }}</span> }
     </div>`,
 })
 export class EjeTiempo {
@@ -51,7 +51,7 @@ export class EjeTiempo {
     let ultimo = -1e9;
     for (const anio of this.datos.marcas) {
       const y = this.datos.yDe(anio) * v.k + v.ty;
-      if (y < 96 || y > v.h - 8 || y - ultimo < 30) continue;
+      if (y < 52 || y > v.h - 8 || y - ultimo < 30) continue;
       ultimo = y;
       out.push({ anio, y, texto: this.i18n.anio(anio) });
     }
@@ -81,9 +81,19 @@ export class EjeRegiones {
   });
 }
 
-interface Rama { rel: Relacion; d: string; trazo: string; w: number; punteada: boolean; a: string; b: string; larga?: Talon; }
-/** Rama a distancia: solo se dibujan dos talones difuminados hasta que se selecciona. */
-interface Talon { xh: number; yh: number; fh: string; xp: number; yp: number; fp: string; tx: number; ancla: string; texto: string; color: string; }
+interface Rama { rel: Relacion; d: string; trazo: string; w: number; punteada: boolean; a: string; b: string; }
+interface Vida { r: Religion; d: string; post: string | null; w: number; }
+interface Punto { r: Religion; x: number; y: number; }
+
+/** Geometría del árbol en una de las dos presentaciones: columnas (territorios × tiempo) o radial. */
+interface Escena {
+  ancho: number; alto: number;
+  bandas: { d: string; color: string }[]; rejilla: string[];
+  vidas: Vida[]; ramas: Rama[]; influencias: Rama[]; lejanas: Rama[];
+  nodos: Punto[]; degradados: { id: string; x1: number; y1: number; x2: number; y2: number; c1: string; c2: string }[];
+  rotulos: { x: number; y: number; texto: string; clase: string; color: string | null }[];
+  pos: Map<string, [number, number]>;
+}
 
 @Component({
   selector: 'app-lienzo',
@@ -92,90 +102,68 @@ interface Talon { xh: number; yh: number; fh: string; xp: number; yp: number; fp
   template: `
     <svg #svg class="lienzo" xmlns="http://www.w3.org/2000/svg"
          (pointerdown)="abajo($event)" (pointermove)="mover($event)" (pointerup)="arriba($event)" (pointercancel)="arriba($event)"
-         (wheel)="rueda($event)" (click)="clicFondo($event)">
+         (wheel)="rueda($event)" (click)="clicFondo()">
+      @let e = escena();
       <g #mundo>
         <defs>
-          @for (g of degradados; track g.id) {
-            <linearGradient [attr.id]="g.id" gradientUnits="userSpaceOnUse" [attr.x1]="g.x1" [attr.x2]="g.x2" y1="0" y2="0">
+          @for (g of e.degradados; track g.id) {
+            <linearGradient [attr.id]="g.id" gradientUnits="userSpaceOnUse" [attr.x1]="g.x1" [attr.y1]="g.y1" [attr.x2]="g.x2" [attr.y2]="g.y2">
               <stop offset="0" [attr.stop-color]="g.c1"/><stop offset="1" [attr.stop-color]="g.c2"/>
             </linearGradient>
           }
-          @for (r of datos.regiones; track r.id) {
-            <linearGradient [attr.id]="'f-' + r.id + '-d'"><stop offset="0" [attr.stop-color]="r.color"/><stop offset="1" [attr.stop-color]="r.color" stop-opacity="0"/></linearGradient>
-            <linearGradient [attr.id]="'f-' + r.id + '-i'"><stop offset="0" [attr.stop-color]="r.color" stop-opacity="0"/><stop offset="1" [attr.stop-color]="r.color"/></linearGradient>
-          }
         </defs>
-        @for (r of datos.regiones; track r.id) {
-          <rect class="banda" [attr.x]="r.x" y="0" [attr.width]="r.ancho" [attr.height]="datos.alto" [attr.fill]="r.color"/>
-        }
-        @if (estado.capaRejilla()) {
-          @for (m of rejilla; track m) { <line class="rejilla" x1="0" [attr.x2]="datos.ancho" [attr.y1]="m" [attr.y2]="m"/> }
-        }
+        @for (b of e.bandas; track $index) { <path class="banda" [attr.d]="b.d" [attr.fill]="b.color"/> }
+        @if (estado.capaRejilla()) { @for (m of e.rejilla; track $index) { <path class="rejilla" [attr.d]="m"/> } }
+        @for (t of e.rotulos; track $index) { <text class="rotulo" [class]="'rotulo ' + t.clase" [attr.x]="t.x" [attr.y]="t.y" [attr.fill]="t.color">{{ t.texto }}</text> }
         @if (estado.capaInfluencias()) {
-          @for (i of influencias; track $index) {
+          @for (i of e.influencias; track $index) {
             <g class="rama" [class.tenue]="tenueRel(i)" [class.oculto]="ocultaRel(i)">
-              <path class="inf" [attr.d]="i.d" [attr.stroke]="i.trazo" [style.opacity]="activa(i) ? 1 : null"/>
+              <path class="inf" [attr.d]="i.d" [attr.stroke]="i.trazo" [style.stroke-width]="ancho(1.3)" [style.opacity]="activa(i) ? 1 : null"/>
               <path class="toque" [attr.d]="i.d" (click)="elegirRel($event, i.rel)"/>
             </g>
           }
+          @for (i of e.lejanas; track $index) {
+            @if (activa(i)) { <path class="inf" style="opacity:1" [attr.d]="i.d" [attr.stroke]="i.trazo" [style.stroke-width]="ancho(1.6)"/> }
+          }
         }
-        @for (i of lejanas; track $index) {
-          @if (activa(i)) { <path class="inf" style="opacity:1" [attr.d]="i.d" [attr.stroke]="i.trazo"/> }
-        }
-        @for (r of datos.religiones; track r.id) {
-          <g class="vida" [class.tenue]="tenue(r.id)" [class.oculto]="oculto(r.id)">
-            <line [attr.x1]="r.x" [attr.x2]="r.x" [attr.y1]="r.y" [attr.y2]="r.yFin" [attr.stroke]="color(r)" [attr.stroke-width]="grosor(r)"/>
-            @if (ext.get(r.id); as e) {
-              <line class="ext" [attr.x1]="r.x" [attr.x2]="r.x" [attr.y1]="r.yFin" [attr.y2]="e" [attr.stroke]="color(r)" [attr.stroke-width]="grosor(r) * .6"/>
-            }
-            @if (r.fin !== null) {
-              <line [attr.x1]="r.x - 7 - grosor(r)" [attr.x2]="r.x + 7 + grosor(r)" [attr.y1]="r.yFin" [attr.y2]="r.yFin" [attr.stroke]="color(r)" stroke-width="2.4"/>
-            }
-            @if (r.fin === null) {
-              <text class="copa" [attr.x]="r.x" [attr.y]="r.yFin - 14 - (r.lineas.length - 1) * 12">
-                @for (l of r.lineas; track $index) { <tspan [attr.x]="r.x" [attr.dy]="$index ? 12 : 0">{{ l }}</tspan> }
-              </text>
-            }
-            <line class="toque" [attr.x1]="r.x" [attr.x2]="r.x" [attr.y1]="r.y" [attr.y2]="r.yFin" (click)="elegir($event, r)"><title>{{ r.nombre }}</title></line>
-          </g>
-        }
-        @for (a of ramas; track $index) {
+        @for (a of e.ramas; track $index) {
           <g class="rama" [class.tenue]="tenueRel(a)" [class.oculto]="ocultaRel(a)">
-            @if (a.larga && !activa(a)) {
-              <g class="talon" (click)="elegirRel($event, a.rel)">
-                <rect [attr.x]="a.larga.xh" [attr.y]="a.larga.yh - a.w / 2" width="110" [attr.height]="a.w" [attr.fill]="a.larga.fh"/>
-                <rect [attr.x]="a.larga.xp" [attr.y]="a.larga.yp - a.w / 2" width="110" [attr.height]="a.w" [attr.fill]="a.larga.fp"/>
-                <text [attr.x]="a.larga.tx" [attr.y]="a.larga.yh - a.w / 2 - 6" [attr.text-anchor]="a.larga.ancla" [attr.fill]="a.larga.color">{{ a.larga.texto }}</text>
-              </g>
-            } @else {
-              <path [attr.d]="a.d" [attr.stroke]="a.trazo" [attr.stroke-width]="a.w" [class.punteada]="a.punteada"/>
-              <path class="toque" [attr.d]="a.d" (click)="elegirRel($event, a.rel)"/>
-            }
+            <path [attr.d]="a.d" [attr.stroke]="a.trazo" [style.stroke-width]="ancho(a.w)" [class.punteada]="a.punteada"/>
+            <path class="toque" [attr.d]="a.d" (click)="elegirRel($event, a.rel)"/>
           </g>
         }
-        @for (r of datos.religiones; track r.id) {
-          <g class="nodo" [attr.data-imp]="r.importancia" [attr.transform]="'translate(' + r.x + ' ' + r.y + ')'"
-             [class.sel]="estado.seleccion() === r.id" [class.tenue]="tenue(r.id)" [class.oculto]="oculto(r.id)" (click)="elegir($event, r)">
+        @for (v of e.vidas; track v.r.id) {
+          <g class="vida" [class.tenue]="tenue(v.r.id)" [class.oculto]="oculto(v.r.id)">
+            <path [attr.d]="v.d" [attr.stroke]="color(v.r)" [style.stroke-width]="ancho(v.w)"/>
+            @if (v.post) { <path class="post" [attr.d]="v.post" [attr.stroke]="color(v.r)" [style.stroke-width]="ancho(v.w * .55)"/> }
+            <path class="toque" [attr.d]="v.d + (v.post ?? '')" (click)="elegir($event, v.r)"><title>{{ v.r.nombre }}</title></path>
+          </g>
+        }
+        @for (n of e.nodos; track n.r.id) {
+          <g class="nodo" [attr.data-imp]="n.r.importancia" [attr.transform]="'translate(' + n.x + ' ' + n.y + ')'" [class.extinta]="n.r.fin !== null"
+             [class.sel]="estado.seleccion() === n.r.id" [class.tenue]="tenue(n.r.id)" [class.oculto]="oculto(n.r.id)" (click)="elegir($event, n.r)">
             <g class="esc">
-              <circle class="halo" [attr.r]="r.r + 6"/>
-              <circle class="base" [class.claro]="r.icono" [attr.r]="r.r" [attr.stroke]="color(r)"/>
-              @if (r.icono) {
-                <image [attr.href]="r.icono" [attr.x]="-r.r * .64" [attr.y]="-r.r * .64" [attr.width]="r.r * 1.28" [attr.height]="r.r * 1.28"/>
+              <circle class="halo" [attr.r]="n.r.r + 6"/>
+              <circle class="base" [class.claro]="n.r.icono" [attr.r]="n.r.r" [attr.stroke]="color(n.r)"/>
+              @if (!n.r.icono) { <circle class="tinte" [attr.r]="n.r.r - 1.3" [attr.fill]="color(n.r)"/> }
+              @if (n.r.icono) {
+                <image [attr.href]="n.r.icono" [attr.x]="-n.r.r * .64" [attr.y]="-n.r.r * .64" [attr.width]="n.r.r * 1.28" [attr.height]="n.r.r * 1.28"/>
               } @else {
-                <path class="glifo" [class.relleno]="glifo(r).relleno" [attr.d]="glifo(r).d" [attr.transform]="'scale(' + r.r / 15 + ')'"
-                      [attr.stroke]="color(r)" [attr.fill]="glifo(r).relleno ? color(r) : 'none'"/>
+                <path class="glifo" [class.relleno]="glifo(n.r).relleno" [attr.d]="glifo(n.r).d" [attr.transform]="'scale(' + n.r.r / 15 + ')'"
+                      [attr.stroke]="color(n.r)" [attr.fill]="glifo(n.r).relleno ? color(n.r) : 'none'"/>
               }
-              <text class="nombre" [attr.y]="r.r + 5">
-                @for (l of r.lineas; track $index) { <tspan x="0" dy="15">{{ l }}</tspan> }
-              </text>
-              <text class="fecha" [attr.y]="r.r + 20 + r.lineas.length * 15">{{ i18n.periodo(r.inicio, r.fin) }}</text>
+              <g class="etq" [attr.transform]="'translate(0 ' + (n.r.r + 3) + ')'"><g class="esc2">
+                <text class="nombre" y="0">
+                  @for (l of n.r.lineas; track $index) { <tspan x="0" dy="15">{{ l }}</tspan> }
+                </text>
+                <text class="fecha" [attr.y]="15 + n.r.lineas.length * 15">{{ i18n.periodo(n.r.inicio, n.r.fin) }}</text>
+              </g></g>
             </g>
           </g>
         }
       </g>
     </svg>
-    <app-eje-regiones/>
-    <app-eje-tiempo/>`,
+    @if (!estado.radial()) { <app-eje-regiones/> <app-eje-tiempo/> }`,
 })
 export class Lienzo {
   datos = inject(Datos); estado = inject(Estado); i18n = inject(I18n);
@@ -184,56 +172,93 @@ export class Lienzo {
   private k = 0.3; private tx = 0; private ty = 0; private kMin = 0.02;
   private punteros = new Map<number, { x: number; y: number }>();
   private arrastre = 0; private pendiente = 0; private animacion = 0;
+  private etq: SVGGElement[] = []; private prioridad: number[] = [];
 
-  ext = new Map<string, number>();
-  ramas: Rama[] = []; influencias: Rama[] = []; lejanas: Rama[] = [];
-  degradados: { id: string; x1: number; x2: number; c1: string; c2: string }[] = [];
-  rejilla = this.datos.marcas.map((m) => this.datos.yDe(m));
+  escena = computed<Escena>(() => this.construir(this.estado.radial()));
 
   constructor() {
-    const d = this.datos;
+    effect(() => { const o = this.estado.irA(); if (o) this.volar(o.id); });
+    effect(() => { this.escena(); this.etq = []; setTimeout(() => this.inicio()); });
+    effect(() => { this.estado.seleccion(); this.estado.ocultos(); setTimeout(() => this.aplicar()); });
+  }
+
+  // ---- Geometría ---------------------------------------------------------------------
+  private construir(radial: boolean): Escena {
+    const d = this.datos, A = d.ancho, H = d.alto;
+    const R_EXT = R_INT + H, C = R_EXT + 900;
+    const ang = (x: number) => HUECO / 2 + (x / A) * (2 * Math.PI - HUECO);
+    const rad = (y: number) => R_INT + (H - y);
+    const P = (x: number, y: number): [number, number] =>
+      radial ? [C + rad(y) * Math.sin(ang(x)), C - rad(y) * Math.cos(ang(x))] : [x, y];
+    const f = (n: number) => +n.toFixed(1);
+    const pt = (x: number, y: number) => { const [X, Y] = P(x, y); return `${f(X)} ${f(Y)}`; };
+    const vert = (x: number, y1: number, y2: number) => `M${pt(x, y1)}L${pt(x, y2)}`;
+    const arco = (y: number, x1: number, x2: number) => {       // continúa un trazo ya iniciado en (x1, y)
+      if (!radial) return `L${pt(x2, y)}`;
+      const r = f(rad(y)), grande = Math.abs(ang(x2) - ang(x1)) > Math.PI ? 1 : 0;
+      return `A${r} ${r} 0 ${grande} ${x2 > x1 ? 1 : 0} ${pt(x2, y)}`;
+    };
+    const curva = (x1: number, y1: number, x2: number, y2: number) => {
+      const mx = (x1 + x2) / 2, comba = y1 === y2 ? 46 : 0;
+      if (!radial) return `M${x1} ${y1}C${mx} ${y1 - comba} ${mx} ${y2 - comba} ${x2} ${y2}`;
+      let s = '';
+      for (let i = 0; i <= 24; i++) {
+        const t = i / 24, u = 1 - t;
+        const x = u * u * u * x1 + 3 * u * u * t * mx + 3 * u * t * t * mx + t * t * t * x2;
+        const y = u * u * u * y1 + 3 * u * u * t * (y1 - comba) + 3 * u * t * t * (y2 - comba) + t * t * t * y2;
+        s += (i ? 'L' : 'M') + pt(x, y);
+      }
+      return s;
+    };
+
+    const e: Escena = { ancho: radial ? 2 * C : A, alto: radial ? 2 * C : H, bandas: [], rejilla: [], vidas: [], ramas: [], influencias: [], lejanas: [], nodos: [], degradados: [], rotulos: [], pos: new Map() };
+    for (const g of d.regiones) {
+      const x1 = g.x, x2 = g.x + g.ancho;
+      e.bandas.push({ color: g.color, d: radial
+        ? `M${pt(x1, H)}L${pt(x1, 0)}${arco(0, x1, x2)}L${pt(x2, H)}A${R_INT} ${R_INT} 0 0 0 ${pt(x1, H)}Z`
+        : `M${x1} 0H${x2}V${H}H${x1}Z` });
+      if (radial) { const [X, Y] = P((x1 + x2) / 2, -420); e.rotulos.push({ x: X, y: Y, texto: g.nombre, clase: 'region', color: g.color }); }
+    }
+    let previa = -1e9;
+    for (const m of d.marcas) {
+      const y = d.yDe(m);
+      e.rejilla.push(radial ? `M${pt(0, y)}${arco(y, 0, A / 2)}${arco(y, A / 2, A)}` : `M0 ${y}H${A}`);
+      if (radial && Math.abs(y - previa) > 420) { previa = y; e.rotulos.push({ x: C, y: C - rad(y) + 28, texto: this.i18n.anio(m), clase: 'anio', color: null }); }
+    }
+    for (const r of d.religiones) {
+      const [X, Y] = P(r.x, r.y);
+      e.pos.set(r.id, [X, Y]); e.nodos.push({ r, x: X, y: Y });
+      if (r.yFin < r.y - 0.5) {
+        const yVida = Math.min(r.y, this.datos.yDe(r.fin ?? 2026)), corte = Math.max(r.yFin, yVida);
+        e.vidas.push({ r, w: GROSOR[r.importancia], d: vert(r.x, r.y, corte), post: r.yFin < corte - 0.5 ? vert(r.x, corte, r.yFin) : null });
+      }
+    }
     for (const rel of d.relaciones) {
       const p = d.porId.get(rel.origen)!, c = d.porId.get(rel.destino)!;
-      const lado = Math.sign(c.x - p.x);
-      const xf = c.x - lado * (c.r + 1);
+      const lado = Math.sign(c.x - p.x) || 1, xf = c.x - lado * (c.r + 1);
       let trazo = d.region.get(c.region)!.color;
-      if (p.region !== c.region && lado !== 0) {
-        const id = `g-${p.id}-${c.id}`;
-        this.degradados.push({ id, x1: p.x, x2: c.x, c1: d.region.get(p.region)!.color, c2: trazo });
+      const sy = Math.min(p.y, Math.max(p.yFin, c.y));
+      if (p.region !== c.region) {
+        const id = `g${radial ? 'r' : 'c'}-${p.id}-${c.id}-${rel.clase}`, [a1, b1] = P(p.x, sy), [a2, b2] = P(c.x, c.y);
+        e.degradados.push({ id, x1: a1, y1: b1, x2: a2, y2: b2, c1: d.region.get(p.region)!.color, c2: trazo });
         trazo = `url(#${id})`;
       }
       const w = GROSOR[c.importancia];
-      const indirecta = rel.clase === 'renacimiento' || (p.fin !== null && c.inicio - p.fin > 300);
-      const lejos = p.region !== c.region || indirecta;
-      const talon = (): Talon => {
-        const yp = Math.min(p.y, Math.max(p.yFin, c.y)), l = lado || 1;
-        return {
-          xh: l > 0 ? xf - 110 : xf, yh: c.y, fh: `url(#f-${p.region}-${l > 0 ? 'i' : 'd'})`,
-          xp: l > 0 ? p.x : p.x - 110, yp, fp: `url(#f-${c.region}-${l > 0 ? 'd' : 'i'})`,
-          tx: l > 0 ? xf - 8 : xf + 8, ancla: l > 0 ? 'end' : 'start', texto: p.nombre, color: d.region.get(p.region)!.color,
-        };
-      };
       if (rel.principal) {
-        if (c.y < p.yFin && !indirecta) this.ext.set(p.id, Math.min(this.ext.get(p.id) ?? p.yFin, c.y));
-        const sy = Math.min(p.y, Math.max(p.yFin, c.y));
-        const camino = sy === c.y ? `M${p.x} ${c.y}H${xf}` : `M${p.x} ${sy}V${c.y}H${xf}`;
-        if (lado !== 0 || lejos) this.ramas.push({ rel, d: camino, trazo, w, punteada: rel.clase === 'renacimiento', a: p.id, b: c.id, larga: lejos ? talon() : undefined });
-      } else if (rel.clase === 'influencia' && (p.region !== c.region || Math.abs(p.x - c.x) > 1100)) {
-        const sy = Math.min(p.y, Math.max(p.yFin, c.y)), mx = (p.x + c.x) / 2;
-        this.lejanas.push({ rel, d: `M${p.x} ${sy}C${mx} ${sy} ${mx} ${c.y} ${xf} ${c.y}`, trazo, w: 1.5, punteada: false, a: p.id, b: c.id });
+        const rc = radial ? 0 : Math.min(24, Math.abs(xf - p.x) / 2, Math.max(0, p.y - c.y));
+        const camino = rc > 1 ? `M${p.x} ${c.y + rc}Q${p.x} ${c.y} ${p.x + lado * rc} ${c.y}H${xf}` : `M${pt(p.x, c.y)}${arco(c.y, p.x, xf)}`;
+        e.ramas.push({ rel, d: camino, trazo, w, punteada: rel.clase === 'renacimiento', a: p.id, b: c.id });
       } else {
-        const sy = Math.min(p.y, Math.max(p.yFin, c.y)), mx = (p.x + c.x) / 2, arco = sy === c.y ? 46 : 0;
-        const camino = `M${p.x} ${sy}C${mx} ${sy - arco} ${mx} ${c.y - arco} ${xf} ${c.y}`;
-        const obj = { rel, d: camino, trazo, w: Math.max(1.8, w * 0.45), punteada: false, a: p.id, b: c.id };
-        (rel.clase === 'influencia' ? this.influencias : this.ramas).push(obj);
+        const lejos = rel.clase === 'influencia' && (p.region !== c.region || Math.abs(p.x - c.x) > 1500);
+        const obj = { rel, d: curva(p.x, sy, xf, c.y), trazo, w: Math.max(1.6, w * 0.4), punteada: false, a: p.id, b: c.id };
+        (rel.clase !== 'influencia' ? e.ramas : lejos ? e.lejanas : e.influencias).push(obj);
       }
     }
-    effect(() => { const o = this.estado.irA(); if (o) this.volar(o.id); });
-    queueMicrotask(() => this.inicio());
+    return e;
   }
 
   color(r: Religion) { return this.datos.region.get(r.region)!.color; }
-  grosor(r: Religion) { return GROSOR[r.importancia]; }
+  ancho(w: number) { return `calc(${w}px * var(--escw, 1))`; }
   glifo(r: Religion) { return GLIFOS[r.tipo] ?? GLIFOS['mon']; }
   tenue(id: string) { const f = this.estado.foco(); return !!f && !f.has(id); }
   oculto(id: string) { return this.estado.ocultos().has(id); }
@@ -241,39 +266,62 @@ export class Lienzo {
     const f = this.estado.foco(); if (!f) return false;
     const s = this.estado.seleccion(), rel = this.estado.relacion();
     if (rel) return rel !== a.rel;
-    return !(f.has(a.a) && f.has(a.b) && (a.rel.principal || a.a === s || a.b === s));
+    return !(f.has(a.a) && f.has(a.b) && (a.rel.clase !== 'influencia' || a.a === s || a.b === s));
   }
   activa(a: Rama) { return !!this.estado.foco() && !this.tenueRel(a); }
   ocultaRel(a: Rama) { const o = this.estado.ocultos(); return o.has(a.a) || o.has(a.b); }
 
   elegir(e: Event, r: Religion) { e.stopPropagation(); if (this.arrastre < 5) this.estado.elegir(r); }
   elegirRel(e: Event, rel: Relacion) { e.stopPropagation(); if (this.arrastre < 5) this.estado.elegirRelacion(rel); }
-  clicFondo(_: Event) { if (this.arrastre < 5) this.estado.elegir(null); }
+  clicFondo() { if (this.arrastre < 5) this.estado.elegir(null); }
 
   // ---- Vista: desplazamiento y zoom -------------------------------------------------
   private tam() { const b = this.svg().nativeElement.getBoundingClientRect(); return { w: b.width, h: b.height }; }
+  /** Vista inicial: el árbol completo encajado en pantalla. */
   private inicio() {
-    const { w, h } = this.tam();
-    this.kMin = Math.min(w / this.datos.ancho, h / this.datos.alto) * 0.9;
-    const cristianismo = this.datos.porId.get('cristianismo');
-    this.k = Math.max(this.kMin, Math.min(0.42, w / 4200));
-    const cx = cristianismo?.x ?? this.datos.ancho / 2;
-    this.tx = w / 2 - cx * this.k; this.ty = h / 2 - this.datos.yDe(700) * this.k;
+    const { w, h } = this.tam(), e = this.escena(), radial = this.estado.radial();
+    const mx = radial ? 20 : 84, my = radial ? 20 : 50;
+    this.kMin = Math.min((w - mx - 16) / e.ancho, (h - my - 12) / e.alto) * 0.92;
+    this.k = this.kMin / 0.92;
+    this.tx = mx + (w - mx - e.ancho * this.k) / 2; this.ty = my + (h - my - e.alto * this.k) / 2;
     this.aplicar();
   }
   private aplicar() {
-    const { w, h } = this.tam(), d = this.datos, m = 240;
+    const { w, h } = this.tam(), e = this.escena(), m = 240;
     this.k = Math.max(this.kMin, Math.min(8, this.k));
-    this.tx = Math.min(w - m, Math.max(m - d.ancho * this.k, this.tx));
-    this.ty = Math.min(h - m, Math.max(m - d.alto * this.k, this.ty));
-    const g = this.mundo().nativeElement, s = this.svg().nativeElement;
-    g.setAttribute('transform', `translate(${this.tx} ${this.ty}) scale(${this.k})`);
-    s.style.setProperty('--esc', String(Math.max(1, Math.min(13, 0.66 / this.k))));
-    s.dataset['lod'] = this.k >= 0.72 ? '1' : this.k >= 0.46 ? '2' : this.k >= 0.27 ? '3' : this.k >= 0.13 ? '4' : '5';
+    this.tx = Math.min(w - m, Math.max(m - e.ancho * this.k, this.tx));
+    this.ty = Math.min(h - m, Math.max(m - e.alto * this.k, this.ty));
+    const g = this.mundo().nativeElement, s = this.svg().nativeElement, k = this.k;
+    g.setAttribute('transform', `translate(${this.tx} ${this.ty}) scale(${k})`);
+    const escN = Math.max(1, Math.min(4.5, 0.34 / k)), escL = Math.max(1, Math.min(11, 0.72 / k));
+    s.style.setProperty('--esc', String(escN));
+    s.style.setProperty('--esc2', String(escL / escN));
+    s.style.setProperty('--escw', String(Math.max(1, Math.min(3.2, 0.3 / k))));
+    s.dataset['lod'] = k >= 0.6 ? '1' : k >= 0.4 ? '2' : k >= 0.24 ? '3' : k >= 0.12 ? '4' : '5';
     if (!this.pendiente) this.pendiente = requestAnimationFrame(() => {
       this.pendiente = 0;
+      this.etiquetas(w, h, escN, escL);
       this.estado.vista.set({ k: this.k, tx: this.tx, ty: this.ty, w, h });
     });
+  }
+  /** Muestra tantas etiquetas como quepan sin pisarse, dando prioridad a las tradiciones de más peso. */
+  private etiquetas(w: number, h: number, escN: number, escL: number) {
+    const nodos = this.escena().nodos, k = this.k;
+    if (this.etq.length !== nodos.length || !this.etq[0]?.isConnected) {
+      this.etq = Array.from(this.mundo().nativeElement.querySelectorAll<SVGGElement>('.etq'));
+      this.prioridad = nodos.map((_, i) => i).sort((a, b) => nodos[b].r.importancia - nodos[a].r.importancia || nodos[a].r.inicio - nodos[b].r.inicio);
+      if (this.etq.length !== nodos.length) { this.etq = []; return; }
+    }
+    const puestas: number[][] = [], sel = this.estado.seleccion(), legible = 13 * escL * k >= 7.5;
+    for (const i of this.prioridad) {
+      const n = nodos[i], sx = n.x * k + this.tx, sy = n.y * k + this.ty;
+      if (sx < -160 || sx > w + 160 || sy < -160 || sy > h + 160) continue;
+      const car = Math.max(...n.r.lineas.map((l) => l.length), 11);
+      const mw = (car * 7.3 * escL * k) / 2 + 3, y0 = sy + (n.r.r + 3) * escN * k, y1 = y0 + (n.r.lineas.length * 15 + 20) * escL * k;
+      const libre = legible && !puestas.some((p) => sx - mw < p[2] && sx + mw > p[0] && y0 < p[3] && y1 > p[1]);
+      if (libre || n.r.id === sel) puestas.push([sx - mw, y0, sx + mw, y1]);
+      this.etq[i].style.display = libre || n.r.id === sel ? '' : 'none';
+    }
   }
   zoom(factor: number, cx?: number, cy?: number) {
     const { w, h } = this.tam(); cx ??= w / 2; cy ??= h / 2;
@@ -314,6 +362,7 @@ export class Lienzo {
     const paso = 90;
     if (e.key === '+' || e.key === '=') this.zoom(1.25);
     else if (e.key === '-') this.zoom(0.8);
+    else if (e.key === '0') this.inicio();
     else if (e.key === 'ArrowLeft') { this.tx += paso; this.aplicar(); }
     else if (e.key === 'ArrowRight') { this.tx -= paso; this.aplicar(); }
     else if (e.key === 'ArrowUp') { this.ty += paso; this.aplicar(); }
@@ -323,10 +372,10 @@ export class Lienzo {
 
   /** Desplazamiento animado hasta una tradición. */
   volar(id: string) {
-    const r = this.datos.porId.get(id); if (!r) return;
+    const p = this.escena().pos.get(id); if (!p) return;
     const { w, h } = this.tam();
-    const k1 = Math.max(this.k, 0.95), a = { k: this.k, tx: this.tx, ty: this.ty };
-    const b = { k: k1, tx: (w - 380) / 2 - r.x * k1, ty: h / 2 - r.y * k1 };
+    const k1 = Math.max(this.k, 0.8), a = { k: this.k, tx: this.tx, ty: this.ty };
+    const b = { k: k1, tx: (w + 380) / 2 - p[0] * k1, ty: h / 2 - p[1] * k1 };
     const t0 = performance.now(), dur = 850;
     cancelAnimationFrame(this.animacion);
     const paso = (t: number) => {
@@ -341,7 +390,7 @@ export class Lienzo {
 
   /** Exporta el árbol completo como SVG vectorial autónomo (iconos incrustados). */
   async exportar(): Promise<void> {
-    const d = this.datos, css = getComputedStyle(document.documentElement);
+    const e = this.escena(), css = getComputedStyle(document.documentElement);
     const v = (n: string) => css.getPropertyValue(n).trim();
     const copia = this.mundo().nativeElement.cloneNode(true) as SVGGElement;
     copia.removeAttribute('transform');
@@ -354,7 +403,7 @@ export class Lienzo {
       } catch { img.remove(); }
     }
     const estilos = CSS_LIENZO.replace(/var\(--(\w+)\)/g, (_, n) => v('--' + n));
-    const svg = `<?xml version="1.0" encoding="UTF-8"?>\n<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${d.ancho} ${d.alto}" width="${d.ancho}" height="${d.alto}">` +
+    const svg = `<?xml version="1.0" encoding="UTF-8"?>\n<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${e.ancho} ${e.alto}" width="${e.ancho}" height="${e.alto}">` +
       `<style>${estilos}</style><rect width="100%" height="100%" fill="${v('--fondo')}"/>${new XMLSerializer().serializeToString(copia)}</svg>`;
     const a = document.createElement('a');
     a.href = URL.createObjectURL(new Blob([svg], { type: 'image/svg+xml' }));

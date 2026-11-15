@@ -1,127 +1,491 @@
 {
- "cristianismo": ["Christian cross.svg", "Latin cross.svg"],
- "catolica": ["Emblem of the Papacy SE.svg", "Emblem of Vatican City State.svg"],
- "ortodoxa": ["Orthodox cross.svg", "Cross of the Russian Orthodox Church 01.svg", "OrthodoxCross(black,contoured).svg"],
- "copta": ["Coptic cross.svg", "Coptic-Cross.svg"],
- "etiope": ["Ethiopian Cross.svg", "Ethiopian cross.svg"],
- "armenia": ["Armenian cross.svg", "Armenian Cross.svg"],
- "iglesia-oriente": ["Church of the East cross.svg", "Nestorian cross.svg", "Saint Thomas Cross.svg"],
- "luteranismo": ["Lutherrose.svg", "Luther rose.svg", "Luther seal.svg"],
- "reformada": ["Huguenot cross.svg", "Croix huguenote.svg"],
- "anglicanismo": ["Canterbury cross.svg", "Anglican rose.svg"],
- "cuaqueros": ["Quaker star-T.svg", "Quaker star.svg"],
- "unitarismo": ["Flaming Chalice.svg", "Flaming chalice.svg"],
- "husitas": ["Hussite chalice.svg", "Kalich.svg"],
- "catarismo": ["Cross of Toulouse.svg", "Occitan cross.svg", "Cathar cross.svg"],
- "gnosticismo": ["Gnostic cross.svg", "Gnostic Cross.svg", "Ouroboros-simple.svg"],
- "rabinico": ["Star of David.svg"],
- "judaismo": ["Menorah.svg", "Menora.svg", "Temple menorah.svg"],
- "cabala": ["Tree of life bahir Hebrew.svg", "Kabbalistic Tree of Life (Sephiroth).svg", "Tree of Life, Medieval.svg"],
- "jasidismo": ["Chai symbol.svg", "Chai.svg"],
- "samaritanismo": ["Samaritan symbol.svg"],
- "islam": ["Star and Crescent.svg", "Star and crescent.svg"],
- "sunismo": ["Allah-green.svg", "Allah.svg", "Allah3.svg"],
- "chiismo": ["Shia Islam symbol.svg", "Zulfiqar.svg", "Ali.svg"],
- "sufismo": ["Sufism symbol.svg", "Naqshbandi.svg"],
- "drusos": ["Druze star.svg", "Star of Druze.svg"],
- "bahai": ["Bahai star.svg", "Baháʼí star.svg", "Bahai 9-point star.svg"],
- "babismo": ["Haykal.svg", "Babi star.svg"],
- "ahmadia": ["Liwa-e-Ahmadiyya.svg", "Minaret-ul-Masih.svg"],
- "yazidismo": ["Yazidi symbol.svg", "Melek Taus.svg", "Yezidi sun.svg"],
- "mandeismo": ["Darfash.svg", "Mandaean drabsha.svg", "Drabsha.svg"],
- "zoroastrismo": ["Faravahar.svg", "Faravahar-Gold.svg"],
- "maniqueismo": ["Manichaean cross.svg", "Cross of Light.svg"],
- "hinduismo": ["Om symbol.svg", "Om.svg", "Aum Om black.svg"],
- "visnuismo": ["Vaishnava tilaka.svg", "Urdhva Pundra.svg", "Sudarshana Chakra.svg"],
- "shivaismo": ["Trishula.svg", "Trishul.svg", "Trident of Shiva.svg"],
- "shaktismo": ["Sri Yantra 256bw.svg", "Sri Yantra.svg", "SriYantra construct.svg"],
- "tantra": ["Shatkona.svg", "Sri Yantra Correct Colors Johari 1974.svg"],
- "ayyavazhi": ["Ayyavazhi symbol.svg", "Ayyavazhi.svg", "Ayyavazhi-symbol.svg"],
- "jainismo": ["Jain Prateek Chihna.svg", "Jainism.svg", "Jain hand.svg"],
- "sijismo": ["Khanda.svg", "Khanda (Sikh Symbol).svg"],
- "budismo": ["Dharma Wheel.svg", "Dharmachakra.svg", "Dharma wheel.svg"],
- "theravada": ["Dharma Wheel (2).svg", "Dhamma Cakka.svg", "Dharmacakra flag (Thailand).svg"],
- "mahayana": ["Lotus-buddha.svg", "Lotus flower symbol.svg", "Padma.svg"],
- "vajrayana": ["Vajra.svg", "Double vajra.svg", "Vishvavajra.svg"],
- "tibetano": ["Endless knot.svg", "EndlessKnot3d.svg", "Endlessknot.svg"],
- "zen": ["Enso.svg", "Ensō.svg"],
- "chan": ["Ensō.svg", "Enso2.svg"],
- "tierra-pura": ["Lotus flower symbol.svg"],
- "taoismo": ["Yin yang.svg", "Yin and Yang symbol.svg", "Yin and Yang.svg"],
- "confucianismo": ["Confucianism symbol.svg", "Confucian symbol.svg", "Symbol of Confucianism.svg"],
- "china-pop": ["Chinese folk religion symbol.svg", "禄 lù or 子 zi symbol---black.svg", "Shou.svg"],
- "shinto": ["Shinto torii icon vermillion.svg", "Torii.svg", "Torii gate.svg"],
- "tenrikyo": ["Tenrikyo emblem.svg", "Tenrikyo symbol.svg"],
- "cheondo": ["Cheondoism symbol.svg", "Cheondogyo symbol.svg", "Cheondoism flag.svg"],
- "muismo": ["Taegeuk.svg", "Sam Taegeuk.svg", "Samtaegeuk.svg"],
- "caodai": ["Cao Dai symbol.svg", "Caodaism symbol.svg", "Cao Dai Eye.svg"],
- "tengri": ["Tengrism symbol.svg", "Tengri symbol.svg", "Tengri.svg"],
- "bon": ["Yungdrung.svg", "Bon symbol.svg"],
- "egipto": ["Ankh.svg"],
- "kemetismo": ["Eye of Horus bw.svg", "Eye of Horus.svg"],
- "atenismo": ["Aten disk.svg", "Aten.svg"],
- "punica": ["Tanit-Symbol.svg", "Symbol of Tanit.svg", "Tanit symbol.svg"],
- "hermetismo": ["Caduceus.svg", "Caduceus large.svg"],
- "sumeria": ["Cuneiform sumer dingir.svg", "Dingir.svg"],
- "babilonica": ["Ishtar-star-symbol.svg", "Star of Ishtar.svg", "Ishtar star.svg"],
- "asiria": ["Ashur symbol.svg", "Assyrian star.svg", "Symbol of Ashur.svg"],
- "griega": ["Greek temple icon.svg", "Lyre icon.svg", "Laurel wreath.svg"],
- "helenismo-neo": ["Hellenism symbol.svg", "Dodecatheon symbol.svg"],
- "romana": ["Fasces.svg", "Aquila.svg", "Roman SPQR banner.svg"],
- "pitagorismo": ["Tetractys.svg"],
- "celta": ["Triskele-Symbol1.svg", "Triskele-Symbol-spiral.svg", "Triskelion.svg"],
- "druidismo": ["Awen symbol final.svg", "Awen.svg"],
- "nordica": ["Valknut.svg", "Valknut-Symbol-borromean.svg"],
- "asatru": ["Mjollnir icon.svg", "Mjölnir icon.svg", "Mjollnir.svg"],
- "germanica": ["Sun cross.svg", "Sunwheel.svg", "Sonnenrad.svg"],
- "eslava": ["Thundermark.svg", "Symbol of Perun.svg", "Gromoviti znaci.svg"],
- "rodnoveria": ["Kolovrat.svg", "Kolovrat symbol.svg", "Hands of God.svg"],
- "romuva": ["Romuva symbol.svg", "Romuva.svg", "Gediminas columns.svg"],
- "dievturiba": ["Dievturi symbol.svg", "Jumis.svg", "Auseklis.svg"],
- "wicca": ["Pentacle 1.svg", "Pentacle.svg", "Pentacle 2.svg"],
- "thelema": ["Unicursal hexagram.svg", "Crowley unicursal hexagram.svg"],
- "rosacruz": ["Rose Cross Lamen.svg", "Rosy Cross.svg", "Rose cross.svg"],
- "masoneria": ["Square compasses.svg", "Square and Compasses.svg"],
- "golden-dawn": ["Golden Dawn Rose Cross.svg", "Hermetic Rose Cross.svg"],
- "teosofia": ["Theosophical Society seal.svg", "Theosophical Seal.svg", "Emblem Theosophical Society.svg"],
- "satanismo": ["Inverted pentagram.svg", "Pentagram inverted.svg", "Leviathan cross.svg"],
- "raelismo": ["Raelian symbol.svg", "Raelian symbol 2.svg"],
- "rastafari": ["Lion of Judah.svg", "Lion of Judah emblem.svg"],
- "vudu": ["VeveDamballa.svg", "Veve Papa Legba.svg", "VeveLegba.svg"],
- "inca": ["Chakana.svg", "Inca cross.svg"],
- "andina": ["Chacana.svg", "Cruz andina.svg"],
- "mapuche": ["Guñelve.svg", "Gunelve.svg", "Kultrun.svg"],
- "mexica": ["Ollin.svg", "Aztec calendar.svg", "Nahui Ollin.svg"],
- "maya": ["Maya-Dresden-kin.svg", "Hunab Ku.svg", "Kin maya.svg"],
- "hawai": ["Kanaka Maoli flag emblem.svg", "Kahili.svg"],
- "maori": ["Koru.svg", "Koru flag symbol.svg"],
- "peyote": ["Native American Church symbol.svg", "Peyote bird.svg"],
- "navajo": ["Navajo whirling log.svg", "Zia Sun Symbol.svg"],
- "pueblo": ["Zia Sun Symbol.svg", "Zia sun symbol.svg"],
- "llanuras": ["Medicine Wheel.svg", "Medicine wheel.svg"],
- "aborigen": ["Australian Aboriginal Flag.svg"],
- "espiritismo": ["Spiritism symbol.svg"],
- "mormonismo": ["Angel Moroni.svg", "Angel Moroni icon.svg"],
- "metodismo": ["Methodist cross and flame.svg"],
- "pentecostalismo": ["Dove of the Holy Spirit.svg", "Holy Spirit dove.svg", "Dove icon.svg"],
- "bautistas": ["Ichthys.svg", "Ichthus.svg"],
- "arrianismo": ["Chi Rho.svg", "Simple Labarum2.svg"],
- "mitraismo": ["Phrygian cap.svg", "Mithraic symbol.svg"],
- "isis": ["Tyet.svg", "Isis knot.svg"],
- "orfismo": ["Lyre.svg", "Greek lyre.svg"],
- "siberia": ["Shaman drum.svg", "Sami drum symbol.svg"],
- "sami": ["Sami sun symbol.svg", "Beaivi.svg"],
- "santeria": ["Elegua.svg", "Eleggua symbol.svg"],
- "yoruba": ["Opon Ifa.svg", "Yoruba religion symbol.svg"],
- "akan": ["Gye Nyame.svg", "Gye nyame.svg", "Adinkra Gye Nyame.svg"],
- "won": ["Il Won Sang.svg", "Won Buddhism symbol.svg"],
- "unificacion": ["Unification Church symbol.svg"],
- "nacion-islam": ["Nation of Islam flag.svg", "Flag of the Nation of Islam.svg"],
- "alevismo": ["Alevism symbol.svg", "Zulfiqar.svg"],
- "ismailismo": ["Ismaili symbol.svg", "Fatimid flag.svg"],
- "sant-mat": ["Ik Onkar.svg", "Ek Onkar.svg"],
- "iskcon": ["ISKCON tilaka.svg", "Gaudiya tilaka.svg"],
- "shingon": ["Siddham a.svg", "A in Siddham.svg"],
- "nichiren": ["Nichiren crest.svg", "Tachibana mon.svg"],
- "jodo": ["Sagarifuji mon.svg", "Sagari fuji.svg"]
+ "archivos": {
+  "cristianismo": [
+   "Christian cross.svg",
+   "Latin cross.svg"
+  ],
+  "catolica": [
+   "Emblem of the Papacy SE.svg",
+   "Emblem of Vatican City State.svg"
+  ],
+  "ortodoxa": [
+   "Orthodox cross.svg",
+   "Cross of the Russian Orthodox Church 01.svg",
+   "OrthodoxCross(black,contoured).svg"
+  ],
+  "copta": [
+   "Coptic cross.svg",
+   "Coptic-Cross.svg"
+  ],
+  "etiope": [
+   "Ethiopian Cross.svg",
+   "Ethiopian cross.svg"
+  ],
+  "iglesia-oriente": [
+   "Church of the East cross.svg",
+   "Nestorian cross.svg",
+   "Saint Thomas Cross.svg"
+  ],
+  "luteranismo": [
+   "Lutherrose.svg",
+   "Luther rose.svg",
+   "Luther seal.svg"
+  ],
+  "reformada": [
+   "Huguenot cross.svg",
+   "Croix huguenote.svg"
+  ],
+  "anglicanismo": [
+   "Canterbury cross.svg",
+   "Anglican rose.svg"
+  ],
+  "cuaqueros": [
+   "Quaker star-T.svg",
+   "Quaker star.svg"
+  ],
+  "unitarismo": [
+   "Flaming Chalice.svg",
+   "Flaming chalice.svg"
+  ],
+  "catarismo": [
+   "Cross of Toulouse.svg",
+   "Occitan cross.svg",
+   "Cathar cross.svg"
+  ],
+  "gnosticismo": [
+   "Gnostic cross.svg",
+   "Gnostic Cross.svg",
+   "Ouroboros-simple.svg"
+  ],
+  "rabinico": [
+   "Star of David.svg"
+  ],
+  "judaismo": [
+   "Menorah.svg",
+   "Menora.svg",
+   "Temple menorah.svg"
+  ],
+  "cabala": [
+   "Tree of life bahir Hebrew.svg",
+   "Kabbalistic Tree of Life (Sephiroth).svg",
+   "Tree of Life, Medieval.svg"
+  ],
+  "jasidismo": [
+   "Chai symbol.svg",
+   "Chai.svg"
+  ],
+  "samaritanismo": [
+   "Samaritan symbol.svg"
+  ],
+  "islam": [
+   "Star and Crescent.svg",
+   "Star and crescent.svg"
+  ],
+  "sunismo": [
+   "Allah-green.svg",
+   "Allah.svg",
+   "Allah3.svg"
+  ],
+  "sufismo": [
+   "Sufism symbol.svg",
+   "Naqshbandi.svg"
+  ],
+  "drusos": [
+   "Druze star.svg",
+   "Star of Druze.svg"
+  ],
+  "bahai": [
+   "Bahai star.svg",
+   "Baháʼí star.svg",
+   "Bahai 9-point star.svg"
+  ],
+  "babismo": [
+   "Haykal.svg",
+   "Babi star.svg"
+  ],
+  "ahmadia": [
+   "Liwa-e-Ahmadiyya.svg",
+   "Minaret-ul-Masih.svg"
+  ],
+  "yazidismo": [
+   "Yazidi symbol.svg",
+   "Melek Taus.svg",
+   "Yezidi sun.svg"
+  ],
+  "mandeismo": [
+   "Darfash.svg",
+   "Mandaean drabsha.svg",
+   "Drabsha.svg"
+  ],
+  "zoroastrismo": [
+   "Faravahar.svg",
+   "Faravahar-Gold.svg"
+  ],
+  "maniqueismo": [
+   "Manichaean cross.svg",
+   "Cross of Light.svg"
+  ],
+  "hinduismo": [
+   "Om symbol.svg",
+   "Om.svg",
+   "Aum Om black.svg"
+  ],
+  "visnuismo": [
+   "Vaishnava tilaka.svg",
+   "Urdhva Pundra.svg",
+   "Sudarshana Chakra.svg"
+  ],
+  "shivaismo": [
+   "Trishula.svg",
+   "Trishul.svg",
+   "Trident of Shiva.svg"
+  ],
+  "shaktismo": [
+   "Sri Yantra 256bw.svg",
+   "Sri Yantra.svg",
+   "SriYantra construct.svg"
+  ],
+  "tantra": [
+   "Shatkona.svg",
+   "Sri Yantra Correct Colors Johari 1974.svg"
+  ],
+  "ayyavazhi": [
+   "Ayyavazhi symbol.svg",
+   "Ayyavazhi.svg",
+   "Ayyavazhi-symbol.svg"
+  ],
+  "jainismo": [
+   "Jain Prateek Chihna.svg",
+   "Jainism.svg",
+   "Jain hand.svg"
+  ],
+  "sijismo": [
+   "Khanda.svg",
+   "Khanda (Sikh Symbol).svg"
+  ],
+  "budismo": [
+   "Dharma Wheel.svg",
+   "Dharmachakra.svg",
+   "Dharma wheel.svg"
+  ],
+  "theravada": [
+   "Dharma Wheel (2).svg",
+   "Dhamma Cakka.svg",
+   "Dharmacakra flag (Thailand).svg"
+  ],
+  "mahayana": [
+   "Lotus-buddha.svg",
+   "Lotus flower symbol.svg",
+   "Padma.svg"
+  ],
+  "vajrayana": [
+   "Vajra.svg",
+   "Double vajra.svg",
+   "Vishvavajra.svg"
+  ],
+  "tibetano": [
+   "Endless knot.svg",
+   "EndlessKnot3d.svg",
+   "Endlessknot.svg"
+  ],
+  "zen": [
+   "Enso.svg",
+   "Ensō.svg"
+  ],
+  "tierra-pura": [
+   "Lotus flower symbol.svg"
+  ],
+  "taoismo": [
+   "Yin yang.svg",
+   "Yin and Yang symbol.svg",
+   "Yin and Yang.svg"
+  ],
+  "confucianismo": [
+   "Confucianism symbol.svg",
+   "Confucian symbol.svg",
+   "Symbol of Confucianism.svg"
+  ],
+  "china-pop": [
+   "Chinese folk religion symbol.svg",
+   "禄 lù or 子 zi symbol---black.svg",
+   "Shou.svg"
+  ],
+  "shinto": [
+   "Shinto torii icon vermillion.svg",
+   "Torii.svg",
+   "Torii gate.svg"
+  ],
+  "tenrikyo": [
+   "Tenrikyo emblem.svg",
+   "Tenrikyo symbol.svg"
+  ],
+  "cheondo": [
+   "Cheondoism symbol.svg",
+   "Cheondogyo symbol.svg",
+   "Cheondoism flag.svg"
+  ],
+  "muismo": [
+   "Taegeuk.svg",
+   "Sam Taegeuk.svg",
+   "Samtaegeuk.svg"
+  ],
+  "tengri": [
+   "Tengrism symbol.svg",
+   "Tengri symbol.svg",
+   "Tengri.svg"
+  ],
+  "egipto": [
+   "Ankh.svg"
+  ],
+  "kemetismo": [
+   "Eye of Horus bw.svg",
+   "Eye of Horus.svg"
+  ],
+  "atenismo": [
+   "Aten disk.svg",
+   "Aten.svg"
+  ],
+  "punica": [
+   "Tanit-Symbol.svg",
+   "Symbol of Tanit.svg",
+   "Tanit symbol.svg"
+  ],
+  "hermetismo": [
+   "Caduceus.svg",
+   "Caduceus large.svg"
+  ],
+  "sumeria": [
+   "Cuneiform sumer dingir.svg",
+   "Dingir.svg"
+  ],
+  "babilonica": [
+   "Ishtar-star-symbol.svg",
+   "Star of Ishtar.svg",
+   "Ishtar star.svg"
+  ],
+  "asiria": [
+   "Ashur symbol.svg",
+   "Assyrian star.svg",
+   "Symbol of Ashur.svg"
+  ],
+  "helenismo-neo": [
+   "Hellenism symbol.svg",
+   "Dodecatheon symbol.svg"
+  ],
+  "romana": [
+   "Fasces.svg",
+   "Aquila.svg",
+   "Roman SPQR banner.svg"
+  ],
+  "pitagorismo": [
+   "Tetractys.svg"
+  ],
+  "celta": [
+   "Triskele-Symbol1.svg",
+   "Triskele-Symbol-spiral.svg",
+   "Triskelion.svg"
+  ],
+  "druidismo": [
+   "Awen symbol final.svg",
+   "Awen.svg"
+  ],
+  "nordica": [
+   "Valknut.svg",
+   "Valknut-Symbol-borromean.svg"
+  ],
+  "germanica": [
+   "Sun cross.svg",
+   "Sunwheel.svg",
+   "Sonnenrad.svg"
+  ],
+  "eslava": [
+   "Thundermark.svg",
+   "Symbol of Perun.svg",
+   "Gromoviti znaci.svg"
+  ],
+  "rodnoveria": [
+   "Kolovrat.svg",
+   "Kolovrat symbol.svg",
+   "Hands of God.svg"
+  ],
+  "romuva": [
+   "Romuva symbol.svg",
+   "Romuva.svg",
+   "Gediminas columns.svg"
+  ],
+  "dievturiba": [
+   "Dievturi symbol.svg",
+   "Jumis.svg",
+   "Auseklis.svg"
+  ],
+  "wicca": [
+   "Pentacle 1.svg",
+   "Pentacle.svg",
+   "Pentacle 2.svg"
+  ],
+  "thelema": [
+   "Unicursal hexagram.svg",
+   "Crowley unicursal hexagram.svg"
+  ],
+  "rosacruz": [
+   "Rose Cross Lamen.svg",
+   "Rosy Cross.svg",
+   "Rose cross.svg"
+  ],
+  "masoneria": [
+   "Square compasses.svg",
+   "Square and Compasses.svg"
+  ],
+  "golden-dawn": [
+   "Golden Dawn Rose Cross.svg",
+   "Hermetic Rose Cross.svg"
+  ],
+  "teosofia": [
+   "Theosophical Society seal.svg",
+   "Theosophical Seal.svg",
+   "Emblem Theosophical Society.svg"
+  ],
+  "satanismo": [
+   "Inverted pentagram.svg",
+   "Pentagram inverted.svg",
+   "Leviathan cross.svg"
+  ],
+  "vudu": [
+   "VeveDamballa.svg",
+   "Veve Papa Legba.svg",
+   "VeveLegba.svg"
+  ],
+  "inca": [
+   "Chakana.svg",
+   "Inca cross.svg"
+  ],
+  "andina": [
+   "Chacana.svg",
+   "Cruz andina.svg"
+  ],
+  "mapuche": [
+   "Guñelve.svg",
+   "Gunelve.svg",
+   "Kultrun.svg"
+  ],
+  "maya": [
+   "Maya-Dresden-kin.svg",
+   "Hunab Ku.svg",
+   "Kin maya.svg"
+  ],
+  "llanuras": [
+   "Medicine Wheel.svg",
+   "Medicine wheel.svg"
+  ],
+  "bautistas": [
+   "Ichthys.svg",
+   "Ichthus.svg"
+  ],
+  "isis": [
+   "Tyet.svg",
+   "Isis knot.svg"
+  ],
+  "orfismo": [
+   "Lyre.svg",
+   "Greek lyre.svg"
+  ],
+  "yoruba": [
+   "Opon Ifa.svg",
+   "Yoruba religion symbol.svg"
+  ],
+  "akan": [
+   "Gye Nyame.svg",
+   "Gye nyame.svg",
+   "Adinkra Gye Nyame.svg"
+  ],
+  "won": [
+   "Il Won Sang.svg",
+   "Won Buddhism symbol.svg"
+  ],
+  "sant-mat": [
+   "Ik Onkar.svg",
+   "Ek Onkar.svg"
+  ],
+  "shingon": [
+   "Siddham a.svg",
+   "A in Siddham.svg"
+  ]
+ },
+ "busquedas": {
+  "etiope": "Ethiopian cross",
+  "miafisismo": "Syriac cross",
+  "siriaca": "Syriac Orthodox cross",
+  "maronita": "Maronite cross",
+  "babismo": "Bab haykal star",
+  "yazidismo": "Yazidi symbol",
+  "mandeismo": "Mandaean darfash",
+  "maniqueismo": "Manichaeism symbol",
+  "visnuismo": "Vaishnavism tilaka symbol",
+  "tantra": "Shatkona",
+  "ayyavazhi": "Ayyavazhi symbol",
+  "vajrayana": "Vajra symbol",
+  "confucianismo": "Confucianism symbol",
+  "tenrikyo": "Tenrikyo emblem",
+  "cheondo": "Cheondoism symbol",
+  "muismo": "Taegeuk",
+  "tengri": "Tengrism symbol",
+  "egipto": "Ankh",
+  "kemetismo": "Eye of Horus",
+  "atenismo": "Aten sun disk",
+  "punica": "Tanit symbol",
+  "hermetismo": "Caduceus",
+  "sumeria": "Dingir cuneiform",
+  "babilonica": "Star of Ishtar",
+  "asiria": "Ashur god symbol",
+  "helenismo-neo": "Hellenism religion symbol",
+  "romana": "Roman aquila eagle",
+  "pitagorismo": "Tetractys",
+  "celta": "Triskelion",
+  "druidismo": "Awen symbol",
+  "nordica": "Valknut",
+  "germanica": "Sun cross",
+  "eslava": "Perun symbol thunder mark",
+  "rodnoveria": "Kolovrat",
+  "romuva": "Romuva symbol",
+  "dievturiba": "Dievturiba symbol",
+  "wicca": "Pentacle",
+  "thelema": "Unicursal hexagram",
+  "rosacruz": "Rose Cross",
+  "masoneria": "Square and Compasses",
+  "golden-dawn": "Golden Dawn rose cross",
+  "teosofia": "Theosophical Society seal",
+  "satanismo": "inverted pentagram",
+  "vudu": "Veve vodou",
+  "inca": "Chakana",
+  "mapuche": "Guñelve",
+  "maya": "Maya glyph kin",
+  "llanuras": "Medicine wheel symbol",
+  "bautistas": "Ichthys",
+  "isis": "Tyet Isis knot",
+  "akan": "Gye Nyame",
+  "yoruba": "Ifa Yoruba symbol",
+  "won": "Won Buddhism symbol",
+  "sant-mat": "Ik Onkar",
+  "shingon": "Siddham letter a",
+  "valdenses": "Waldensian emblem lux lucet",
+  "yahvismo": "Tetragrammaton paleo-Hebrew",
+  "duodecimano": "Twelver Shia symbol",
+  "rapanui": "Reimiro",
+  "haudenosaunee": "Haudenosaunee flag Hiawatha belt",
+  "taino": "Taino sun symbol",
+  "mari": "Mari native religion symbol",
+  "minoica": "Labrys",
+  "sufismo": "Sufi winged heart",
+  "samaritanismo": "Samaritan",
+  "fenicia": "Phoenician Tanit",
+  "zen": "Enso",
+  "vedica": "Agni Vedic fire altar",
+  "lingayat": "Ishtalinga",
+  "polinesia": "Polynesian tiki",
+  "andina": "Chakana Andean cross",
+  "navayana": "Ashoka Chakra",
+  "micronesia": "Micronesian stick chart",
+  "candomble": "Candomble",
+  "umbanda": "Umbanda"
+ }
 }

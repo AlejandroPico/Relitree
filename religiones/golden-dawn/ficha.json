@@ -18,5 +18,10 @@
     "cabala"
   ],
   "resumen": "Orden mágica británica que sistematizó el ocultismo ceremonial moderno.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rose_Cross_Lamen.svg",
+    "licencia": "Public domain",
+    "autor": "Fuzzypeg"
+  }
 }
