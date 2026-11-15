@@ -1,0 +1,19 @@
+{
+  "id": "nilo",
+  "nombre": "Religiones nilóticas",
+  "alias": [],
+  "region": "afr",
+  "inicio": -3000,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "afr-msa",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Creencias de pueblos pastores como dinka, nuer o masáis, con una divinidad celeste ligada a la lluvia y al ganado.",
+  "icono": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "judaismo-ortodoxo",
+  "nombre": "Judaísmo ortodoxo moderno",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1851,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "rabinico",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Respuesta tradicionalista a la Reforma, fiel a la ley judía en su integridad.",
+  "icono": null
+}

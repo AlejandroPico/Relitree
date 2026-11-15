@@ -1,0 +1,19 @@
+{
+  "id": "ramakrishna",
+  "nombre": "Misión Ramakrishna",
+  "alias": [],
+  "region": "asm",
+  "inicio": 1897,
+  "fin": null,
+  "tipo": "pan",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "advaita",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Orden fundada por Vivekananda, que presentó el vedanta como religión universal.",
+  "icono": null
+}

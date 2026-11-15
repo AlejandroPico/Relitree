@@ -1,0 +1,19 @@
+{
+  "id": "tupi-guarani",
+  "nombre": "Religión tupí-guaraní",
+  "alias": [],
+  "region": "sam",
+  "inicio": -500,
+  "fin": null,
+  "tipo": "cha",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "amazonia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Tradición de los cantos sagrados y la búsqueda de la Tierra sin Mal.",
+  "icono": null
+}

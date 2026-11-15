@@ -1,0 +1,21 @@
+{
+  "id": "isis",
+  "nombre": "Misterios de Isis",
+  "alias": [],
+  "region": "eur",
+  "inicio": -300,
+  "fin": 400,
+  "tipo": "mis",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "egipto",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "griega"
+  ],
+  "resumen": "Culto egipcio helenizado de la diosa Isis, difundido por todo el Mediterráneo romano.",
+  "icono": null
+}

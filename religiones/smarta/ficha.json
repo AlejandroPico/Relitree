@@ -1,0 +1,19 @@
+{
+  "id": "smarta",
+  "nombre": "Tradición smarta",
+  "alias": [],
+  "region": "asm",
+  "inicio": 800,
+  "fin": null,
+  "tipo": "pan",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "advaita",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Corriente que venera cinco deidades como formas de un mismo absoluto.",
+  "icono": null
+}

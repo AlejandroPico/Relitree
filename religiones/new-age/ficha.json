@@ -1,0 +1,22 @@
+{
+  "id": "new-age",
+  "nombre": "Nueva Era",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1970,
+  "fin": null,
+  "tipo": "nmr",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "teosofia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "nuevo-pensamiento",
+    "advaita"
+  ],
+  "resumen": "Red difusa de espiritualidades alternativas: holismo, energías, canalización y crecimiento personal.",
+  "icono": null
+}

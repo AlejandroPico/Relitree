@@ -1,0 +1,19 @@
+{
+  "id": "babismo",
+  "nombre": "Babismo",
+  "alias": [],
+  "region": "opr",
+  "inicio": 1844,
+  "fin": 1863,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "duodecimano",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Movimiento mesiánico persa del Báb, que anunció una nueva revelación.",
+  "icono": null
+}

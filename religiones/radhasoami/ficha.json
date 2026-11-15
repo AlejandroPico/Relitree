@@ -1,0 +1,19 @@
+{
+  "id": "radhasoami",
+  "nombre": "Radha Soami",
+  "alias": [],
+  "region": "asm",
+  "inicio": 1861,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "sant-mat",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Movimiento de meditación en el sonido interior bajo la guía de un maestro vivo.",
+  "icono": null
+}

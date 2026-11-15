@@ -1,0 +1,19 @@
+{
+  "id": "pitagorismo",
+  "nombre": "Pitagorismo",
+  "alias": [],
+  "region": "eur",
+  "inicio": -530,
+  "fin": 100,
+  "tipo": "fil",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "orfismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Comunidad filosófico-religiosa que veía en el número el principio del cosmos y practicaba una vida ascética.",
+  "icono": null
+}

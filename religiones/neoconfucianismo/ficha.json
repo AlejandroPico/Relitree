@@ -1,0 +1,22 @@
+{
+  "id": "neoconfucianismo",
+  "nombre": "Neoconfucianismo",
+  "alias": [],
+  "region": "aso",
+  "inicio": 1000,
+  "fin": null,
+  "tipo": "fil",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "confucianismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "chan",
+    "taoismo"
+  ],
+  "resumen": "Renovación metafísica del confucianismo, sistematizada por Zhu Xi.",
+  "icono": null
+}

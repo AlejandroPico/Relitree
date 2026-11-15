@@ -1,0 +1,22 @@
+{
+  "id": "santeria",
+  "nombre": "Santería (Regla de Ocha)",
+  "alias": [],
+  "region": "mes",
+  "inicio": 1800,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "yoruba",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "catolica",
+    "espiritismo"
+  ],
+  "resumen": "Religión afrocubana de los orishas, identificados con santos católicos.",
+  "icono": null
+}

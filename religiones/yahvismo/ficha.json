@@ -1,0 +1,19 @@
+{
+  "id": "yahvismo",
+  "nombre": "Yahvismo israelita",
+  "alias": [],
+  "region": "opr",
+  "inicio": -1200,
+  "fin": -586,
+  "tipo": "hen",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "cananea",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Culto del antiguo Israel a Yahvé, que pasó de convivir con otros dioses a exigir exclusividad.",
+  "icono": null
+}

@@ -1,0 +1,137 @@
+@if (!datos.listo()) {
+  <div class="cargando">{{ datos.error() ?? i18n.t('cargando') }}</div>
+} @else {
+  <app-lienzo/>
+
+  <header class="barra">
+    <button class="ico" [class.activo]="panel() === 'buscar'" [title]="i18n.t('buscar')" (click)="abrir('buscar')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['buscar']"/></svg></button>
+    <button class="ico" [class.activo]="panel() === 'filtros'" [title]="i18n.t('filtros')" (click)="abrir('filtros')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['capas']"/></svg></button>
+    <button class="ico" [class.activo]="panel() === 'leyenda'" [title]="i18n.t('leyenda')" (click)="abrir('leyenda')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['leyenda']"/></svg></button>
+    <button class="ico" [title]="i18n.t('enciclopedia')" (click)="estado.enciclopedia.set(estado.seleccion() ?? 'tema:como-leer')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['libro']"/></svg></button>
+    <span class="hueco"></span>
+    <button class="ico mini" (click)="acercar(0.8)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['menos']"/></svg></button>
+    <span class="zoom">{{ zoom() }}%</span>
+    <button class="ico mini" (click)="acercar(1.25)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['mas']"/></svg></button>
+    <button class="ico" [class.activo]="panel() === 'tema'" [title]="i18n.t('tema')" (click)="abrir('tema')"><svg viewBox="0 0 24 24"><path [attr.d]="ui[tema()]"/></svg></button>
+    <button class="ico" [class.activo]="panel() === 'acerca'" [title]="i18n.t('acerca')" (click)="info($event)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['info']"/></svg></button>
+  </header>
+
+  @switch (panel()) {
+    @case ('buscar') {
+      <div class="flotante buscador">
+        <input type="search" [placeholder]="i18n.t('buscarAyuda')" [value]="consulta()" (input)="consulta.set($any($event.target).value)"
+               (keydown.enter)="resultados()[0] && ir(resultados()[0])"/>
+        @for (r of resultados(); track r.id) {
+          <a (click)="ir(r)"><i [style.background]="color(r)"></i>{{ r.nombre }}<small>{{ i18n.periodo(r.inicio, r.fin) }}</small></a>
+        }
+      </div>
+    }
+    @case ('filtros') {
+      <div class="flotante filtros">
+        <h4>{{ i18n.t('capas') }}</h4>
+        <label><input type="checkbox" [checked]="estado.capaInfluencias()" (change)="estado.capaInfluencias.set($any($event.target).checked)"/>{{ i18n.t('influencias') }}</label>
+        <label><input type="checkbox" [checked]="estado.capaExtintas()" (change)="estado.capaExtintas.set($any($event.target).checked)"/>{{ i18n.t('extintas') }}</label>
+        <label><input type="checkbox" [checked]="estado.capaRejilla()" (change)="estado.capaRejilla.set($any($event.target).checked)"/>{{ i18n.t('rejilla') }}</label>
+        <label class="rango">{{ i18n.t('importancia') }}
+          <input type="range" min="1" max="5" [value]="estado.impMin()" (input)="estado.impMin.set(+$any($event.target).value)"/><b>{{ estado.impMin() }}</b></label>
+        <h4>{{ i18n.t('territorios') }} <a (click)="todos('regionesOff', idsRegiones(), true)">{{ i18n.t('todo') }}</a><a (click)="todos('regionesOff', idsRegiones(), false)">{{ i18n.t('nada') }}</a></h4>
+        <div class="fichas">
+          @for (r of datos.regiones; track r.id) {
+            <button [class.off]="estado.regionesOff().has(r.id)" (click)="estado.alternar(estado.regionesOff, r.id)"><i [style.background]="r.color"></i>{{ r.nombre }}</button>
+          }
+        </div>
+        <h4>{{ i18n.t('tipos') }} <a (click)="todos('tiposOff', idsTipos(), true)">{{ i18n.t('todo') }}</a><a (click)="todos('tiposOff', idsTipos(), false)">{{ i18n.t('nada') }}</a></h4>
+        <div class="fichas">
+          @for (t of datos.tipos; track t[0]) {
+            <button [class.off]="estado.tiposOff().has(t[0])" (click)="estado.alternar(estado.tiposOff, t[0])">
+              <svg viewBox="-10 -10 20 20"><path [attr.d]="glifos[t[0]].d" [class.relleno]="glifos[t[0]].relleno"/></svg>{{ t[1] }}</button>
+          }
+        </div>
+      </div>
+    }
+    @case ('leyenda') {
+      <div class="flotante leyenda">
+        <p><svg viewBox="0 0 60 16"><path d="M4 8H56" stroke-width="5"/></svg>{{ i18n.t('lVida') }}</p>
+        <p><svg viewBox="0 0 60 16"><path d="M4 13V5H56" stroke-width="3"/></svg>{{ i18n.t('lRama') }}</p>
+        <p><svg viewBox="0 0 60 16"><path d="M4 13C30 13 30 3 56 3" stroke-width="1.8"/></svg>{{ i18n.t('lSecundaria') }}</p>
+        <p><svg viewBox="0 0 60 16"><path d="M4 8H56" stroke-width="3" stroke-dasharray="1 7"/></svg>{{ i18n.t('lRenacer') }}</p>
+        <p><svg viewBox="0 0 60 16"><path d="M4 13C30 13 30 3 56 3" stroke-width="1.5" stroke-dasharray="6 5"/></svg>{{ i18n.t('lInfluencia') }}</p>
+        <p><svg viewBox="0 0 60 16"><path d="M30 15V6M20 6H40" stroke-width="2.6"/></svg>{{ i18n.t('lFin') }}</p>
+        <p><svg viewBox="0 0 60 16"><path d="M4 8H18" stroke-width="2"/><path d="M23 8H37" stroke-width="5"/><path d="M42 8H56" stroke-width="10"/></svg>{{ i18n.t('grosor') }}</p>
+        <h4>{{ i18n.t('territorios') }}</h4>
+        <div class="fichas">@for (r of datos.regiones; track r.id) { <span><i [style.background]="r.color"></i>{{ r.nombre }}</span> }</div>
+        <h4>{{ i18n.t('tipos') }}</h4>
+        <div class="fichas">
+          @for (t of datos.tipos; track t[0]) {
+            <span><svg viewBox="-10 -10 20 20"><path [attr.d]="glifos[t[0]].d" [class.relleno]="glifos[t[0]].relleno"/></svg>{{ t[1] }}</span>
+          }
+        </div>
+      </div>
+    }
+    @case ('tema') {
+      <div class="flotante temas">
+        @for (t of temas; track t) {
+          <button class="ico" [class.activo]="tema() === t" [title]="i18n.t(t)" (click)="tema.set(t); panel.set(null)"><svg viewBox="0 0 24 24"><path [attr.d]="ui[t]"/></svg></button>
+        }
+      </div>
+    }
+    @case ('herramientas') {
+      <div class="flotante acerca">
+        <h4>{{ i18n.t('herramientas') }}</h4>
+        <a (click)="exportar()"><svg viewBox="0 0 24 24"><path [attr.d]="ui['descargar']"/></svg>{{ i18n.t('exportar') }}</a>
+        <a href="editor/Atlas-Studio.html" download><svg viewBox="0 0 24 24"><path [attr.d]="ui['descargar']"/></svg>{{ i18n.t('editor') }}</a>
+        <a href="datos/relitree.sqlite" download><svg viewBox="0 0 24 24"><path [attr.d]="ui['descargar']"/></svg>relitree.sqlite</a>
+      </div>
+    }
+    @case ('acerca') {
+      <div class="flotante acerca">
+        <div class="marca"><img src="favicon.svg" alt=""/><div><h3>Relitree</h3><small>{{ i18n.t('version') }} {{ datos.meta['version'] }}</small></div></div>
+        <p>{{ i18n.t('descripcion') }}</p>
+        @if (instalable()) { <a (click)="instalar()"><svg viewBox="0 0 24 24"><path [attr.d]="ui['descargar']"/></svg>{{ i18n.t('instalar') }}</a> }
+        <a [href]="repo" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path [attr.d]="ui['enlace']"/></svg>{{ i18n.t('repo') }}</a>
+        <a [href]="portfolio" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path [attr.d]="ui['enlace']"/></svg>{{ i18n.t('portfolio') }}</a>
+        <small class="autor">{{ i18n.t('autor') }}: Alejandro Pico Pérez</small>
+      </div>
+    }
+  }
+
+  @if (sel(); as r) {
+    <aside class="detalle">
+      <button class="ico cerrar" [title]="i18n.t('cerrar')" (click)="estado.elegir(null)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['cerrar']"/></svg></button>
+      <svg class="simbolo" viewBox="-20 -20 40 40" [style.color]="color(r)">
+        <circle r="18"/>
+        @if (r.icono) { <image [attr.href]="r.icono" x="-11.5" y="-11.5" width="23" height="23"/> }
+        @else { <path [attr.d]="glifos[r.tipo].d" [class.relleno]="glifos[r.tipo].relleno"/> }
+      </svg>
+      <h2>{{ r.nombre }}</h2>
+      <p class="datos"><span [style.color]="color(r)">{{ datos.region.get(r.region)!.nombre }}</span> · {{ datos.tipos.get(r.tipo) }}</p>
+      <p class="datos">{{ i18n.periodo(r.inicio, r.fin) }}</p>
+      <p class="resumen">{{ r.resumen }}</p>
+      @for (b of vinculos(); track b.titulo) {
+        <h4>{{ b.titulo }}</h4>
+        <div class="lista">
+          @for (v of b.items; track v.r.id) { <a (click)="estado.elegir(v.r, true)"><i [style.background]="color(v.r)"></i>{{ v.r.nombre }}<small>{{ v.nota }}</small></a> }
+        </div>
+      }
+      <div class="acciones">
+        <a (click)="estado.enciclopedia.set(r.id)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['libro']"/></svg>{{ i18n.t('abrirEnc') }}</a>
+        <a (click)="estado.elegir(r, true)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['diana']"/></svg>{{ i18n.t('verArbol') }}</a>
+        <a [href]="wiki(r)" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path [attr.d]="ui['enlace']"/></svg>{{ i18n.t('wikipedia') }}</a>
+      </div>
+    </aside>
+  }
+  @if (rel(); as x) {
+    <aside class="detalle">
+      <button class="ico cerrar" [title]="i18n.t('cerrar')" (click)="estado.elegir(null)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['cerrar']"/></svg></button>
+      <p class="datos etiqueta">{{ i18n.t('r_' + x.clase) }} · {{ i18n.anio(x.b.inicio) }}</p>
+      <div class="lista grande">
+        <a (click)="estado.elegir(x.a, true)"><i [style.background]="color(x.a)"></i>{{ x.a.nombre }}<small>{{ i18n.periodo(x.a.inicio, x.a.fin) }}</small></a>
+        <span class="flecha">↓</span>
+        <a (click)="estado.elegir(x.b, true)"><i [style.background]="color(x.b)"></i>{{ x.b.nombre }}<small>{{ i18n.periodo(x.b.inicio, x.b.fin) }}</small></a>
+      </div>
+      <p class="resumen">{{ x.b.resumen }}</p>
+    </aside>
+  }
+
+  @if (estado.enciclopedia()) { <app-enciclopedia/> }
+}

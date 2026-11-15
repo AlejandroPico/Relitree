@@ -1,0 +1,19 @@
+{
+  "id": "maya",
+  "nombre": "Religión maya",
+  "alias": [],
+  "region": "mes",
+  "inicio": -1000,
+  "fin": null,
+  "tipo": "pol",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "olmeca",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Ciudades-templo, calendario sagrado, sacrificio de sangre y mitos como los del Popol Vuh; pervive en comunidades actuales.",
+  "icono": null
+}

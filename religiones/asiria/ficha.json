@@ -1,0 +1,21 @@
+{
+  "id": "asiria",
+  "nombre": "Religión asiria",
+  "alias": [],
+  "region": "opr",
+  "inicio": -2000,
+  "fin": -600,
+  "tipo": "pol",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "acadia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "babilonica"
+  ],
+  "resumen": "Culto imperial al dios Asur, vinculado a la realeza y a la guerra.",
+  "icono": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "estoicismo",
+  "nombre": "Estoicismo",
+  "alias": [],
+  "region": "eur",
+  "inicio": -300,
+  "fin": 300,
+  "tipo": "fil",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "griega",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Escuela que identifica a la divinidad con la razón que ordena el universo y propone vivir conforme a la naturaleza.",
+  "icono": null
+}

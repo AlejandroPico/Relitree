@@ -1,0 +1,24 @@
+{
+  "id": "copta",
+  "nombre": "Iglesia copta",
+  "alias": [],
+  "region": "afr",
+  "inicio": 451,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "miafisismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Iglesia de Egipto, de tradición alejandrina, cuna del monacato cristiano.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Coptic_cross.svg",
+    "licencia": "CC BY 3.0",
+    "autor": "Sagredo"
+  }
+}

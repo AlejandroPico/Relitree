@@ -1,0 +1,24 @@
+{
+  "id": "sijismo",
+  "nombre": "Sijismo",
+  "alias": [],
+  "region": "asm",
+  "inicio": 1499,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "sant-mat",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Fe fundada por Gurú Nanak en el Panyab: un solo Dios, igualdad y servicio, guiada hoy por el Gurú Granth Sahib.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Khanda.svg",
+    "licencia": "Public domain",
+    "autor": "Self-made"
+  }
+}

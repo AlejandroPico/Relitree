@@ -1,0 +1,19 @@
+{
+  "id": "inca",
+  "nombre": "Religión inca",
+  "alias": [],
+  "region": "sam",
+  "inicio": 1200,
+  "fin": 1572,
+  "tipo": "pol",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "tiwanaku",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Religión imperial del Sol, con Viracocha, la Pachamama, las huacas y las momias de los soberanos.",
+  "icono": null
+}

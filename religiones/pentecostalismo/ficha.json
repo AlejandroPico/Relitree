@@ -1,0 +1,19 @@
+{
+  "id": "pentecostalismo",
+  "nombre": "Pentecostalismo",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1901,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "metodismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Avivamiento del bautismo en el Espíritu Santo, las lenguas y la sanación; el cristianismo de mayor crecimiento.",
+  "icono": null
+}

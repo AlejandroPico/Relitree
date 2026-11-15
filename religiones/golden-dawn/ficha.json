@@ -1,0 +1,22 @@
+{
+  "id": "golden-dawn",
+  "nombre": "Orden Hermética de la Aurora Dorada",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1888,
+  "fin": 1903,
+  "tipo": "eso",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "rosacruz",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "masoneria",
+    "cabala"
+  ],
+  "resumen": "Orden mágica británica que sistematizó el ocultismo ceremonial moderno.",
+  "icono": null
+}

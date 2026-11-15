@@ -1,0 +1,19 @@
+{
+  "id": "judaismo-reconst",
+  "nombre": "Judaísmo reconstruccionista",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1922,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "judaismo-conservador",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Corriente que entiende el judaísmo como civilización religiosa en evolución.",
+  "icono": null
+}

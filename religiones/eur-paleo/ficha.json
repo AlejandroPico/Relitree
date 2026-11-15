@@ -1,0 +1,19 @@
+{
+  "id": "eur-paleo",
+  "nombre": "Arte y rito del Paleolítico superior europeo",
+  "alias": [],
+  "region": "eur",
+  "inicio": -40000,
+  "fin": -9500,
+  "tipo": "rit",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "levante-paleo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Santuarios pintados en cuevas, figuras femeninas y el hombre-león: un universo simbólico de cazadores de la Edad de Hielo.",
+  "icono": null
+}

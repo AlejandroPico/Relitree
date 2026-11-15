@@ -1,0 +1,26 @@
+{
+  "id": "drusos",
+  "nombre": "Fe drusa",
+  "alias": [],
+  "region": "opr",
+  "inicio": 1017,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "ismailismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [
+    "neoplatonismo"
+  ],
+  "resumen": "Religión cerrada del Levante que cree en la reencarnación y en la unicidad absoluta de Dios.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Druze_star.svg",
+    "licencia": "Public domain",
+    "autor": "Erin Silversmith"
+  }
+}

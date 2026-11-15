@@ -1,0 +1,19 @@
+{
+  "id": "pueblo",
+  "nombre": "Religiones pueblo",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1300,
+  "fin": null,
+  "tipo": "ani",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "pueblo-anc",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Ceremonial de hopis, zuñis y otros pueblos, con danzas de katsinas para pedir la lluvia.",
+  "icono": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "inuit",
+  "nombre": "Religión inuit",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1000,
+  "fin": null,
+  "tipo": "cha",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "paleoesquimal",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Tradición ártica del angakkuq y de Sedna, señora de los animales marinos.",
+  "icono": null
+}

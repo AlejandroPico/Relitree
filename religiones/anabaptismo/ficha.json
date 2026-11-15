@@ -1,0 +1,19 @@
+{
+  "id": "anabaptismo",
+  "nombre": "Anabaptismo",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1525,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "catolica",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Reforma radical: bautismo de adultos, separación de Iglesia y Estado y, en general, pacifismo.",
+  "icono": null
+}

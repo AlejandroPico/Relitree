@@ -1,0 +1,19 @@
+{
+  "id": "asatru",
+  "nombre": "Ásatrú (paganismo germánico moderno)",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1972,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "nordica",
+      "relacion": "renacimiento"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Reconstrucción del culto a los dioses nórdicos, reconocida oficialmente en Islandia en 1973.",
+  "icono": null
+}

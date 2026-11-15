@@ -1,0 +1,21 @@
+{
+  "id": "cananea",
+  "nombre": "Religión cananea",
+  "alias": [],
+  "region": "opr",
+  "inicio": -3000,
+  "fin": -500,
+  "tipo": "pol",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "natuf",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "sumeria"
+  ],
+  "resumen": "Panteón del Levante encabezado por El, Baal y Asherá, conocido por los textos de Ugarit.",
+  "icono": null
+}

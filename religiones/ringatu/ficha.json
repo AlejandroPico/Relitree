@@ -1,0 +1,21 @@
+{
+  "id": "ringatu",
+  "nombre": "Ringatū",
+  "alias": [],
+  "region": "oce",
+  "inicio": 1868,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "maori",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "anglicanismo"
+  ],
+  "resumen": "Fe maorí fundada por Te Kooti, inspirada en el Antiguo Testamento.",
+  "icono": null
+}

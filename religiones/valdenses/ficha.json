@@ -1,0 +1,19 @@
+{
+  "id": "valdenses",
+  "nombre": "Valdenses",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1173,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "catolica",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Movimiento de pobreza evangélica iniciado por Pedro Valdo, más tarde unido a la Reforma.",
+  "icono": null
+}

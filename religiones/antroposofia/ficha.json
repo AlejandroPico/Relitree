@@ -1,0 +1,19 @@
+{
+  "id": "antroposofia",
+  "nombre": "Antroposofía",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1912,
+  "fin": null,
+  "tipo": "eso",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "teosofia",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Ciencia espiritual de Rudolf Steiner, origen de la pedagogía Waldorf y la agricultura biodinámica.",
+  "icono": null
+}

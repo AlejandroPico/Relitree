@@ -1,0 +1,19 @@
+{
+  "id": "john-frum",
+  "nombre": "Movimiento John Frum",
+  "alias": [],
+  "region": "oce",
+  "inicio": 1940,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "cargo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Culto de la isla de Tanna, en Vanuatu, en torno a un salvador de aspecto estadounidense.",
+  "icono": null
+}

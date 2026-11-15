@@ -1,0 +1,19 @@
+{
+  "id": "hawai",
+  "nombre": "Religión hawaiana",
+  "alias": [],
+  "region": "oce",
+  "inicio": 1000,
+  "fin": null,
+  "tipo": "pol",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "polinesia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Sistema del kapu, con los dioses Kū, Kāne, Lono y Kanaloa y sus templos heiau.",
+  "icono": null
+}

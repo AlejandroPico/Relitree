@@ -1,0 +1,26 @@
+{
+  "id": "shaktismo",
+  "nombre": "Shaktismo",
+  "alias": [],
+  "region": "asm",
+  "inicio": 500,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "hinduismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "dravidica"
+  ],
+  "resumen": "Culto a la Diosa como energía suprema, en formas como Durga y Kali.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:SriYantra_color.svg",
+    "licencia": "CC BY-SA 3.0",
+    "autor": "SharkD (Michael Horvath)"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "haudenosaunee",
+  "nombre": "Religión haudenosaunee (iroquesa)",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1100,
+  "fin": null,
+  "tipo": "ani",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "arcaico-nam",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Ceremonias de agradecimiento, la Gran Ley de la Paz y las sociedades de curación.",
+  "icono": null
+}

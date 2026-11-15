@@ -1,0 +1,19 @@
+{
+  "id": "ajivika",
+  "nombre": "Ajivika",
+  "alias": [],
+  "region": "asm",
+  "inicio": -500,
+  "fin": 1300,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "sramana",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Escuela ascética que sostenía un destino inexorable.",
+  "icono": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "navayana",
+  "nombre": "Budismo navayana",
+  "alias": [],
+  "region": "asm",
+  "inicio": 1956,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "theravada",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Budismo social de B. R. Ambedkar, adoptado por millones de dalits.",
+  "icono": null
+}

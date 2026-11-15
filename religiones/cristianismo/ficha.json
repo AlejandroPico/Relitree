@@ -1,0 +1,26 @@
+{
+  "id": "cristianismo",
+  "nombre": "Cristianismo",
+  "alias": [],
+  "region": "opr",
+  "inicio": 30,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 5,
+  "padres": [
+    {
+      "id": "judaismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "griega"
+  ],
+  "resumen": "Nace del judaísmo en torno a Jesús de Nazaret, confesado como Mesías e Hijo de Dios; hoy es la religión con más fieles.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Christian_cross.svg",
+    "licencia": "Public domain",
+    "autor": "Boris23 (talk · contribs)"
+  }
+}

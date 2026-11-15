@@ -1,0 +1,21 @@
+{
+  "id": "druidismo",
+  "nombre": "Neodruidismo",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1781,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "celta",
+      "relacion": "renacimiento"
+    }
+  ],
+  "influencias": [
+    "masoneria"
+  ],
+  "resumen": "Recreación moderna de la figura del druida, entre lo fraternal, lo cultural y lo religioso.",
+  "icono": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kush",
+  "nombre": "Religión de Kush y Meroe",
+  "alias": [],
+  "region": "afr",
+  "inicio": -1000,
+  "fin": 350,
+  "tipo": "pol",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "egipto",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Culto nubio que adoptó a Amón y creó dioses propios como el león Apedemak.",
+  "icono": null
+}

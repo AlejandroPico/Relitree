@@ -1,0 +1,19 @@
+{
+  "id": "shingon",
+  "nombre": "Shingon",
+  "alias": [],
+  "region": "aso",
+  "inicio": 806,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "vajrayana",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Budismo esotérico japonés fundado por Kūkai.",
+  "icono": null
+}

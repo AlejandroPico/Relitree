@@ -1,0 +1,21 @@
+{
+  "id": "navajo",
+  "nombre": "Religión diné (navajo)",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1400,
+  "fin": null,
+  "tipo": "ani",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "arcaico-nam",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "pueblo"
+  ],
+  "resumen": "Ceremonias de canto y pinturas de arena para restaurar la armonía o hózhó.",
+  "icono": null
+}

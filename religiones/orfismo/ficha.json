@@ -1,0 +1,19 @@
+{
+  "id": "orfismo",
+  "nombre": "Orfismo",
+  "alias": [],
+  "region": "eur",
+  "inicio": -550,
+  "fin": 300,
+  "tipo": "mis",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "griega",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Corriente griega de salvación personal, con pureza de vida y creencia en la transmigración del alma.",
+  "icono": null
+}

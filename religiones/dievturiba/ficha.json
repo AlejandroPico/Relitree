@@ -1,0 +1,19 @@
+{
+  "id": "dievturiba",
+  "nombre": "Dievturība",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1925,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "baltica",
+      "relacion": "renacimiento"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Reconstrucción letona basada en las canciones populares o dainas.",
+  "icono": null
+}

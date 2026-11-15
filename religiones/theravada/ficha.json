@@ -1,0 +1,24 @@
+{
+  "id": "theravada",
+  "nombre": "Budismo theravada",
+  "alias": [],
+  "region": "asm",
+  "inicio": -250,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "budismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Escuela de los Ancianos, fiel al canon pali; predomina en Sri Lanka y el Sudeste Asiático.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel_(2).svg",
+    "licencia": "Public domain",
+    "autor": "Shazz, Esteban.barahona"
+  }
+}

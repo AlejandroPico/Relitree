@@ -1,0 +1,19 @@
+{
+  "id": "uralica",
+  "nombre": "Religiones urálicas",
+  "alias": [],
+  "region": "asn",
+  "inicio": -4000,
+  "fin": null,
+  "tipo": "ani",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "siberia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Creencias de los pueblos fino-ugrios y samoyedos: espíritus de la naturaleza, culto al oso y arboledas sagradas.",
+  "icono": null
+}

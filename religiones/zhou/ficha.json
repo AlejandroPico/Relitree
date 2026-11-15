@@ -1,0 +1,19 @@
+{
+  "id": "zhou",
+  "nombre": "Religión Zhou",
+  "alias": [],
+  "region": "aso",
+  "inicio": -1046,
+  "fin": -256,
+  "tipo": "ant",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "shang",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Culto al Cielo y doctrina del Mandato Celestial, que legitima o depone a los gobernantes.",
+  "icono": null
+}

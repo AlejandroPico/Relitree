@@ -1,0 +1,19 @@
+{
+  "id": "caral",
+  "nombre": "Religión de Caral",
+  "alias": [],
+  "region": "sam",
+  "inicio": -3000,
+  "fin": -1800,
+  "tipo": "rit",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "arcaico-and",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Primera civilización de América: pirámides y plazas circulares hundidas en la costa peruana.",
+  "icono": null
+}

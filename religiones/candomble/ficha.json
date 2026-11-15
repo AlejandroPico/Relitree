@@ -1,0 +1,22 @@
+{
+  "id": "candomble",
+  "nombre": "Candomblé",
+  "alias": [],
+  "region": "sam",
+  "inicio": 1830,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "yoruba",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "bantu",
+    "catolica"
+  ],
+  "resumen": "Religión afrobrasileña de los orixás, nacida en Bahía.",
+  "icono": null
+}

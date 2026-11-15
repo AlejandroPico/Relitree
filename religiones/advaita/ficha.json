@@ -1,0 +1,19 @@
+{
+  "id": "advaita",
+  "nombre": "Vedanta advaita",
+  "alias": [],
+  "region": "asm",
+  "inicio": 800,
+  "fin": null,
+  "tipo": "pan",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "hinduismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Filosofía no dualista de Shankara: el yo y el absoluto son una sola realidad.",
+  "icono": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "nazca",
+  "nombre": "Religión nazca",
+  "alias": [],
+  "region": "sam",
+  "inicio": -100,
+  "fin": 800,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "chavin",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Cultura de los geoglifos del desierto, ligados al agua y la fertilidad.",
+  "icono": null
+}

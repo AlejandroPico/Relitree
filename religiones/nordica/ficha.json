@@ -1,0 +1,19 @@
+{
+  "id": "nordica",
+  "nombre": "Religión nórdica",
+  "alias": [],
+  "region": "eur",
+  "inicio": 500,
+  "fin": 1100,
+  "tipo": "pol",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "germanica",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Religión escandinava de la era vikinga: Odín, Thor, Freyja y el destino final del Ragnarök.",
+  "icono": null
+}

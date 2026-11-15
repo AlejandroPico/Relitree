@@ -1,0 +1,19 @@
+{
+  "id": "olmeca",
+  "nombre": "Religión olmeca",
+  "alias": [],
+  "region": "mes",
+  "inicio": -1500,
+  "fin": -400,
+  "tipo": "pol",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "arcaico-mes",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Primera gran tradición ceremonial de Mesoamérica: cabezas colosales, el jaguar y el dios del maíz.",
+  "icono": null
+}

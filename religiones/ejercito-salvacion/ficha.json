@@ -1,0 +1,19 @@
+{
+  "id": "ejercito-salvacion",
+  "nombre": "Ejército de Salvación",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1865,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "metodismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Iglesia de organización militar volcada en la asistencia social.",
+  "icono": null
+}

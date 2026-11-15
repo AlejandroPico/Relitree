@@ -1,0 +1,19 @@
+{
+  "id": "ahmadia",
+  "nombre": "Ahmadía",
+  "alias": [],
+  "region": "asm",
+  "inicio": 1889,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "sunismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Movimiento del Panyab cuyo fundador, Mirza Ghulam Ahmad, se proclamó mesías.",
+  "icono": null
+}

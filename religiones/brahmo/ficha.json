@@ -1,0 +1,21 @@
+{
+  "id": "brahmo",
+  "nombre": "Brahmo Samaj",
+  "alias": [],
+  "region": "asm",
+  "inicio": 1828,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "hinduismo",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [
+    "unitarismo"
+  ],
+  "resumen": "Reforma monoteísta bengalí que rechazó imágenes y castas.",
+  "icono": null
+}

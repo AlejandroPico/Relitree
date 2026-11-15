@@ -1,0 +1,19 @@
+{
+  "id": "indo-irania",
+  "nombre": "Religión indoirania",
+  "alias": [],
+  "region": "asn",
+  "inicio": -2500,
+  "fin": -1500,
+  "tipo": "pol",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "pie",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Religión de las estepas de Asia central, tronco común de los Vedas y del Avesta.",
+  "icono": null
+}

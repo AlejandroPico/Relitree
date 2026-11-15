@@ -1,0 +1,24 @@
+{
+  "id": "cuaqueros",
+  "nombre": "Cuáqueros",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1650,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "anglicanismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Sociedad Religiosa de los Amigos: culto en silencio, luz interior y testimonio de paz.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Quaker_star-T.svg",
+    "licencia": "Public domain",
+    "autor": "AnonMoos, based on image files and symbol"
+  }
+}

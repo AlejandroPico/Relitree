@@ -1,0 +1,21 @@
+{
+  "id": "wicca",
+  "nombre": "Wicca",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1954,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "golden-dawn",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "celta"
+  ],
+  "resumen": "Brujería moderna dada a conocer por Gerald Gardner: una diosa y un dios, ocho festividades y magia ritual.",
+  "icono": null
+}

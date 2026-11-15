@@ -1,0 +1,21 @@
+{
+  "id": "islam-nusantara",
+  "nombre": "Islam del archipiélago malayo",
+  "alias": [],
+  "region": "sea",
+  "inicio": 1300,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "sunismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "sufismo"
+  ],
+  "resumen": "Islam difundido por mercaderes y maestros sufíes en Sumatra, Java y Malasia.",
+  "icono": null
+}

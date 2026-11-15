@@ -1,0 +1,24 @@
+{
+  "id": "bahai",
+  "nombre": "Fe bahá'í",
+  "alias": [],
+  "region": "opr",
+  "inicio": 1863,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "babismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Religión de Bahá'u'lláh: unidad de Dios, de las religiones y de la humanidad.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Bahai_star.svg",
+    "licencia": "Public domain",
+    "autor": "Wikimedia Commons"
+  }
+}

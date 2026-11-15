@@ -1,0 +1,19 @@
+{
+  "id": "dogon",
+  "nombre": "Religión dogón",
+  "alias": [],
+  "region": "afr",
+  "inicio": 1400,
+  "fin": null,
+  "tipo": "ani",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "afr-oeste",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Cosmología de los acantilados de Bandiagara: el creador Amma, los gemelos Nommo y grandes ceremonias de máscaras.",
+  "icono": null
+}

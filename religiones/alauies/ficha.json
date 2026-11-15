@@ -1,0 +1,21 @@
+{
+  "id": "alauies",
+  "nombre": "Alauismo",
+  "alias": [],
+  "region": "opr",
+  "inicio": 870,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "chiismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [
+    "gnosticismo"
+  ],
+  "resumen": "Tradición esotérica de Siria que venera a Alí como manifestación divina.",
+  "icono": null
+}

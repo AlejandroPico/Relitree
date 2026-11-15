@@ -1,0 +1,19 @@
+{
+  "id": "anat-neo",
+  "nombre": "Neolítico de Anatolia",
+  "alias": [],
+  "region": "opr",
+  "inicio": -7400,
+  "fin": -5500,
+  "tipo": "rit",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "natuf",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Santuarios domésticos de Çatalhöyük con bucráneos, figuras femeninas y enterramientos bajo el suelo de las casas.",
+  "icono": null
+}

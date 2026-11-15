@@ -1,0 +1,19 @@
+{
+  "id": "polinesia",
+  "nombre": "Religiones polinesias",
+  "alias": [],
+  "region": "oce",
+  "inicio": -800,
+  "fin": null,
+  "tipo": "pol",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "lapita",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Panteón compartido de Tangaroa, Tāne, Tū y Rongo, con las nociones de mana y tapu.",
+  "icono": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "muridiyya",
+  "nombre": "Muridiyya",
+  "alias": [],
+  "region": "afr",
+  "inicio": 1883,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "sufismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Cofradía sufí senegalesa fundada por Amadou Bamba, que santifica el trabajo y tiene su centro en Touba.",
+  "icono": null
+}

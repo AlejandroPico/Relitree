@@ -1,0 +1,19 @@
+{
+  "id": "mongol",
+  "nombre": "Chamanismo mongol",
+  "alias": [],
+  "region": "asn",
+  "inicio": 1200,
+  "fin": null,
+  "tipo": "cha",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "tengri",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Religión del imperio de Gengis Kan y sus herederos, hoy revitalizada.",
+  "icono": null
+}

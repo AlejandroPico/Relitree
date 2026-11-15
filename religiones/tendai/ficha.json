@@ -1,0 +1,19 @@
+{
+  "id": "tendai",
+  "nombre": "Tendai",
+  "alias": [],
+  "region": "aso",
+  "inicio": 806,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "tiantai",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Versión japonesa del Tiantai, con sede en el monte Hiei.",
+  "icono": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "zen",
+  "nombre": "Zen",
+  "alias": [],
+  "region": "aso",
+  "inicio": 1191,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "chan",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Forma japonesa del chan, con las escuelas rinzai y sōtō.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Enso.svg",
+    "licencia": "CC0",
+    "autor": "Kendrick Shaw"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "samaritanismo",
+  "nombre": "Samaritanismo",
+  "alias": [],
+  "region": "opr",
+  "inicio": -400,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "yahvismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Comunidad que solo acepta el Pentateuco y venera el monte Garizim.",
+  "icono": null
+}

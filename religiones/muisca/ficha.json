@@ -1,0 +1,19 @@
+{
+  "id": "muisca",
+  "nombre": "Religión muisca",
+  "alias": [],
+  "region": "sam",
+  "inicio": 600,
+  "fin": 1540,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "arcaico-and",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Culto al sol y a las lagunas de los Andes colombianos, origen de la leyenda de El Dorado.",
+  "icono": null
+}

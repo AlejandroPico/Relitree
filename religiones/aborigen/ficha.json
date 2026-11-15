@@ -1,0 +1,19 @@
+{
+  "id": "aborigen",
+  "nombre": "El Sueño (religiones aborígenes australianas)",
+  "alias": [],
+  "region": "oce",
+  "inicio": -50000,
+  "fin": null,
+  "tipo": "ani",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "sea-paleo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Tradición continua más antigua del planeta: seres ancestrales que modelaron el territorio, líneas de canto y lazos totémicos con la tierra.",
+  "icono": null
+}

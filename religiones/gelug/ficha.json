@@ -1,0 +1,19 @@
+{
+  "id": "gelug",
+  "nombre": "Escuela gelug",
+  "alias": [],
+  "region": "aso",
+  "inicio": 1409,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "tibetano",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Orden reformada de Tsongkhapa, a la que pertenecen los dalái lamas.",
+  "icono": null
+}

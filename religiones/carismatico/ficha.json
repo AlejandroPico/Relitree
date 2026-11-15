@@ -1,0 +1,22 @@
+{
+  "id": "carismatico",
+  "nombre": "Movimiento carismático",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1960,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "pentecostalismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "catolica",
+    "anglicanismo"
+  ],
+  "resumen": "Renovación de tipo pentecostal dentro de las iglesias históricas.",
+  "icono": null
+}

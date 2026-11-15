@@ -1,0 +1,24 @@
+{
+  "id": "mahayana",
+  "nombre": "Budismo mahayana",
+  "alias": [],
+  "region": "asm",
+  "inicio": 50,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 5,
+  "padres": [
+    {
+      "id": "budismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "El Gran Vehículo: ideal del bodhisattva, que pospone su liberación para ayudar a todos los seres.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Lotus-buddha.svg",
+    "licencia": "Public domain",
+    "autor": "Jim Wisniewski"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "zurvanismo",
+  "nombre": "Zurvanismo",
+  "alias": [],
+  "region": "opr",
+  "inicio": -400,
+  "fin": 900,
+  "tipo": "dua",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "zoroastrismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Variante que situaba al Tiempo infinito como origen de los dos espíritus gemelos.",
+  "icono": null
+}

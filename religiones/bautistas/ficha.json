@@ -1,0 +1,21 @@
+{
+  "id": "bautistas",
+  "nombre": "Iglesias bautistas",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1609,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "anglicanismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "anabaptismo"
+  ],
+  "resumen": "Iglesias congregacionales que practican el bautismo de creyentes por inmersión.",
+  "icono": null
+}

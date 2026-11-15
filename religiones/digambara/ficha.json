@@ -1,0 +1,19 @@
+{
+  "id": "digambara",
+  "nombre": "Jainismo digambara",
+  "alias": [],
+  "region": "asm",
+  "inicio": 80,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "jainismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Rama cuyos monjes renuncian a toda posesión, incluso al vestido.",
+  "icono": null
+}

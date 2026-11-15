@@ -1,0 +1,19 @@
+{
+  "id": "visnuismo",
+  "nombre": "Vaishnavismo",
+  "alias": [],
+  "region": "asm",
+  "inicio": -200,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "hinduismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Devoción a Vishnu y sus avatares, en especial Krishna y Rama.",
+  "icono": null
+}

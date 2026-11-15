@@ -1,0 +1,19 @@
+{
+  "id": "ayyavazhi",
+  "nombre": "Ayyavazhi",
+  "alias": [],
+  "region": "asm",
+  "inicio": 1840,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "visnuismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Tradición del sur de la India nacida de las enseñanzas de Ayya Vaikundar.",
+  "icono": null
+}

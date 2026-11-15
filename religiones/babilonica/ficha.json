@@ -1,0 +1,19 @@
+{
+  "id": "babilonica",
+  "nombre": "Religión babilónica",
+  "alias": [],
+  "region": "opr",
+  "inicio": -1894,
+  "fin": -100,
+  "tipo": "pol",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "acadia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Religión de Babilonia, presidida por Marduk, con el Enuma Elish y una refinada astrología.",
+  "icono": null
+}

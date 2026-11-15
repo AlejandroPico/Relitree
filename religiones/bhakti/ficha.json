@@ -1,0 +1,21 @@
+{
+  "id": "bhakti",
+  "nombre": "Movimiento bhakti",
+  "alias": [],
+  "region": "asm",
+  "inicio": 600,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "visnuismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "shivaismo"
+  ],
+  "resumen": "Oleada de devoción personal y poesía en lenguas vernáculas, abierta a todas las castas.",
+  "icono": null
+}

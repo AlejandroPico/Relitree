@@ -1,0 +1,19 @@
+{
+  "id": "mexica",
+  "nombre": "Religión mexica",
+  "alias": [],
+  "region": "mes",
+  "inicio": 1325,
+  "fin": 1521,
+  "tipo": "pol",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "tolteca",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Religión de Tenochtitlan: Huitzilopochtli, Tláloc y el sacrificio que sostiene al sol.",
+  "icono": null
+}

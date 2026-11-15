@@ -1,0 +1,19 @@
+{
+  "id": "paleoesquimal",
+  "nombre": "Tradiciones paleoesquimales",
+  "alias": [],
+  "region": "nam",
+  "inicio": -2500,
+  "fin": 1000,
+  "tipo": "cha",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "siberia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Culturas árticas como Dorset, con chamanismo y arte en miniatura de marfil.",
+  "icono": null
+}

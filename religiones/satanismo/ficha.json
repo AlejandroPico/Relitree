@@ -1,0 +1,19 @@
+{
+  "id": "satanismo",
+  "nombre": "Satanismo moderno",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1966,
+  "fin": null,
+  "tipo": "nmr",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "thelema",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Corrientes nacidas con la Iglesia de Satán de LaVey; en su mayoría ateas, usan a Satán como símbolo de individualismo.",
+  "icono": null
+}

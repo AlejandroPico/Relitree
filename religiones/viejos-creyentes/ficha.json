@@ -1,0 +1,19 @@
+{
+  "id": "viejos-creyentes",
+  "nombre": "Viejos creyentes",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1666,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "ortodoxa",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Fieles rusos que rechazaron las reformas litúrgicas del patriarca Nikon.",
+  "icono": null
+}

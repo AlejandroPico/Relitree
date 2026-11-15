@@ -1,0 +1,21 @@
+{
+  "id": "vajrayana",
+  "nombre": "Budismo vajrayana",
+  "alias": [],
+  "region": "asm",
+  "inicio": 600,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "mahayana",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "tantra"
+  ],
+  "resumen": "Budismo tántrico de mantras, mandalas y transmisión de maestro a discípulo.",
+  "icono": null
+}

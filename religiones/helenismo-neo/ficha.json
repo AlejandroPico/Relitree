@@ -1,0 +1,19 @@
+{
+  "id": "helenismo-neo",
+  "nombre": "Helenismo moderno",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1997,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "griega",
+      "relacion": "renacimiento"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Recuperación contemporánea del culto a los dioses olímpicos, sobre todo en Grecia.",
+  "icono": null
+}

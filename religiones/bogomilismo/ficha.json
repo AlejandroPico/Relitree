@@ -1,0 +1,19 @@
+{
+  "id": "bogomilismo",
+  "nombre": "Bogomilismo",
+  "alias": [],
+  "region": "eur",
+  "inicio": 950,
+  "fin": 1450,
+  "tipo": "dua",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "paulicianos",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Movimiento dualista búlgaro que rechazaba la jerarquía y el mundo material.",
+  "icono": null
+}

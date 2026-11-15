@@ -1,0 +1,19 @@
+{
+  "id": "irania",
+  "nombre": "Religión irania antigua",
+  "alias": [],
+  "region": "opr",
+  "inicio": -1500,
+  "fin": -500,
+  "tipo": "pol",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "indo-irania",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Politeísmo de medos y persas anterior a Zaratustra, con culto al fuego y a Mitra.",
+  "icono": null
+}

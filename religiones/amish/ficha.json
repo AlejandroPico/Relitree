@@ -1,0 +1,19 @@
+{
+  "id": "amish",
+  "nombre": "Amish",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1693,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "menonitas",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Comunidades de vida sencilla y separada, surgidas en Suiza y Alsacia y hoy asentadas en Norteamérica.",
+  "icono": null
+}

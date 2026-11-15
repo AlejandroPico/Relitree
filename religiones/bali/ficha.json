@@ -1,0 +1,21 @@
+{
+  "id": "bali",
+  "nombre": "Hinduismo balinés",
+  "alias": [],
+  "region": "sea",
+  "inicio": 800,
+  "fin": null,
+  "tipo": "pol",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "hindu-sea",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "austronesia"
+  ],
+  "resumen": "Agama Hindu Dharma: hinduismo isleño fundido con culto a antepasados y espíritus locales.",
+  "icono": null
+}

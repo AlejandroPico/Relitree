@@ -1,0 +1,19 @@
+{
+  "id": "ismailismo",
+  "nombre": "Ismailismo",
+  "alias": [],
+  "region": "opr",
+  "inicio": 765,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "chiismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Chiismo de los siete imanes, de interpretación esotérica; fundó el califato fatimí.",
+  "icono": null
+}

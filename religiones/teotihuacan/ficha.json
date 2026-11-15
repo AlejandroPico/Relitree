@@ -1,0 +1,19 @@
+{
+  "id": "teotihuacan",
+  "nombre": "Religión de Teotihuacan",
+  "alias": [],
+  "region": "mes",
+  "inicio": -100,
+  "fin": 600,
+  "tipo": "pol",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "olmeca",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Culto de la gran metrópoli del altiplano: la Serpiente Emplumada, el dios de las tormentas y una gran diosa.",
+  "icono": null
+}

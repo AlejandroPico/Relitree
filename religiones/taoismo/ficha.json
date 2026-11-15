@@ -1,0 +1,24 @@
+{
+  "id": "taoismo",
+  "nombre": "Taoísmo",
+  "alias": [],
+  "region": "aso",
+  "inicio": -400,
+  "fin": null,
+  "tipo": "pan",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "zhou",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Tradición del Dao De Jing y el Zhuangzi: seguir el curso natural del Tao; más tarde religión con panteón y alquimia.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Yin_yang.svg",
+    "licencia": "Public domain",
+    "autor": "Gregory Maxwell"
+  }
+}

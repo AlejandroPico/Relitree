@@ -1,0 +1,19 @@
+{
+  "id": "adventismo",
+  "nombre": "Adventismo",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1844,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "bautistas",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Movimiento que espera el inminente regreso de Cristo; su rama mayor guarda el sábado.",
+  "icono": null
+}

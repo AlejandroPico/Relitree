@@ -1,4 +1,4 @@
-name: Validate and deploy GitHub Pages
+name: Validar y publicar en GitHub Pages
 
 on:
   push:
@@ -18,35 +18,28 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v7
-
-      - name: Setup Node.js 24
-        uses: actions/setup-node@v6
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+          cache: pip
+          cache-dependency-path: backend/requirements.txt
+      - uses: actions/setup-node@v6
         with:
           node-version: '24'
-          check-latest: true
           cache: npm
-
-      - name: Install dependencies
+      - name: Dependencias de Python
+        run: pip install -r backend/requirements.txt
+      - name: Dependencias de Node
         run: npm ci --no-audit --no-fund
-
-      - name: Validate Svelte and TypeScript
-        run: npm run check
-
-      - name: Run tests
-        run: npm run test
-
-      - name: Build site and SQLite database
+      - name: Pruebas de datos y trazado
+        run: npm test
+      - name: Base de datos SQLite y compilación de Angular
         run: npm run build
-
-      - name: Configure Pages
-        uses: actions/configure-pages@v6
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v5
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
         with:
-          path: ./dist
+          path: ./dist/relitree/browser
 
   deploy:
     needs: build
@@ -55,6 +48,5 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy
-        id: deployment
+      - id: deployment
         uses: actions/deploy-pages@v5

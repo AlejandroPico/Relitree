@@ -1,0 +1,19 @@
+{
+  "id": "donatismo",
+  "nombre": "Donatismo",
+  "alias": [],
+  "region": "afr",
+  "inicio": 311,
+  "fin": 700,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "cristianismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Iglesia rigorista del norte de África que negaba la validez de los sacramentos de clérigos indignos.",
+  "icono": null
+}

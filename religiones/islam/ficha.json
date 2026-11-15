@@ -1,0 +1,27 @@
+{
+  "id": "islam",
+  "nombre": "Islam",
+  "alias": [],
+  "region": "opr",
+  "inicio": 610,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 5,
+  "padres": [
+    {
+      "id": "arabia-pre",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "rabinico",
+    "cristianismo"
+  ],
+  "resumen": "Monoteísmo predicado por Mahoma en Arabia, basado en el Corán, que se presenta como culminación de la tradición de Abraham.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Star_and_Crescent.svg",
+    "licencia": "Public domain",
+    "autor": "Original uploader was Kbolino at en.wikipedia.org"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "dravidica",
+  "nombre": "Religión popular dravídica",
+  "alias": [],
+  "region": "asm",
+  "inicio": -1500,
+  "fin": null,
+  "tipo": "ani",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "indo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Cultos de aldea del sur de la India a diosas madres, héroes y espíritus, luego integrados en el hinduismo.",
+  "icono": null
+}

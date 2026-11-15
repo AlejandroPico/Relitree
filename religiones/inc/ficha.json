@@ -1,0 +1,19 @@
+{
+  "id": "inc",
+  "nombre": "Iglesia ni Cristo",
+  "alias": [],
+  "region": "sea",
+  "inicio": 1914,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "adventismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Iglesia filipina no trinitaria fundada por Felix Manalo.",
+  "icono": null
+}

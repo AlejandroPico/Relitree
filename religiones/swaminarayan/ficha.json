@@ -1,0 +1,19 @@
+{
+  "id": "swaminarayan",
+  "nombre": "Swaminarayan",
+  "alias": [],
+  "region": "asm",
+  "inicio": 1801,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "visnuismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Movimiento devocional y reformista del Guyarat.",
+  "icono": null
+}

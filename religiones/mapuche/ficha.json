@@ -1,0 +1,19 @@
+{
+  "id": "mapuche",
+  "nombre": "Religión mapuche",
+  "alias": [],
+  "region": "sam",
+  "inicio": 600,
+  "fin": null,
+  "tipo": "cha",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "arcaico-and",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Tradición del sur andino: la machi, el nguillatún y el equilibrio entre fuerzas opuestas.",
+  "icono": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "afr-msa",
+  "nombre": "Simbolismo de la Edad de Piedra Media",
+  "alias": [],
+  "region": "afr",
+  "inicio": -100000,
+  "fin": -25000,
+  "tipo": "rit",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "origen",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Ocre grabado, cuentas de concha y enterramientos intencionados en yacimientos como Blombos o Border Cave, indicios de un mundo ritual plenamente moderno.",
+  "icono": null
+}

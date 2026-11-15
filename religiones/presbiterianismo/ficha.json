@@ -1,0 +1,19 @@
+{
+  "id": "presbiterianismo",
+  "nombre": "Presbiterianismo",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1560,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "reformada",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Rama reformada escocesa gobernada por asambleas de ancianos.",
+  "icono": null
+}

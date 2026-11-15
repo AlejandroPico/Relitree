@@ -1,0 +1,19 @@
+{
+  "id": "sea-paleo",
+  "nombre": "Arte rupestre de Sondalandia",
+  "alias": [],
+  "region": "sea",
+  "inicio": -50000,
+  "fin": -3000,
+  "tipo": "rit",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "sasia-pre",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Pinturas figurativas de Sulawesi y Borneo, entre las más antiguas del mundo, obra de los primeros pobladores del Sudeste Asiático insular.",
+  "icono": null
+}

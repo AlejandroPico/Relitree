@@ -1,0 +1,21 @@
+{
+  "id": "bon",
+  "nombre": "Bon",
+  "alias": [],
+  "region": "aso",
+  "inicio": -500,
+  "fin": null,
+  "tipo": "cha",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "siberia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "tibetano"
+  ],
+  "resumen": "Religión autóctona del Tíbet, con su fundador mítico Tonpa Shenrab; hoy convive con el budismo.",
+  "icono": null
+}

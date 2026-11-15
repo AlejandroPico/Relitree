@@ -1,0 +1,19 @@
+{
+  "id": "egipto",
+  "nombre": "Religión del antiguo Egipto",
+  "alias": [],
+  "region": "afr",
+  "inicio": -3100,
+  "fin": 540,
+  "tipo": "pol",
+  "importancia": 5,
+  "padres": [
+    {
+      "id": "afr-msa",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Tres milenios de templos, realeza divina, juicio de los muertos y un panteón encabezado por Ra, Osiris, Isis y Amón.",
+  "icono": null
+}

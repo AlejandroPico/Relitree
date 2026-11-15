@@ -1,0 +1,19 @@
+{
+  "id": "svetambara",
+  "nombre": "Jainismo shvetambara",
+  "alias": [],
+  "region": "asm",
+  "inicio": 80,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "jainismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Rama de monjes y monjas vestidos de blanco, con canon escrito propio.",
+  "icono": null
+}

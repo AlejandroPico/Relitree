@@ -1,0 +1,19 @@
+{
+  "id": "llanuras",
+  "nombre": "Religiones de las Grandes Llanuras",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1700,
+  "fin": null,
+  "tipo": "ani",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "arcaico-nam",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Danza del Sol, búsqueda de visión y pipa sagrada de lakotas, cheyenes y otros pueblos.",
+  "icono": null
+}

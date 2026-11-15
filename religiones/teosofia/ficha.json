@@ -1,0 +1,23 @@
+{
+  "id": "teosofia",
+  "nombre": "Teosofía",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1875,
+  "fin": null,
+  "tipo": "eso",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "espiritualismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "advaita",
+    "budismo",
+    "hermetismo"
+  ],
+  "resumen": "Sociedad fundada por Helena Blavatsky que buscó una sabiduría común a todas las religiones.",
+  "icono": null
+}

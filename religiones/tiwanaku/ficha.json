@@ -1,0 +1,19 @@
+{
+  "id": "tiwanaku",
+  "nombre": "Religión de Tiwanaku y Wari",
+  "alias": [],
+  "region": "sam",
+  "inicio": 500,
+  "fin": 1000,
+  "tipo": "pol",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "chavin",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Culto del altiplano al Dios de los Báculos, extendido por dos grandes estados.",
+  "icono": null
+}

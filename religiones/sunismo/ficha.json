@@ -1,0 +1,24 @@
+{
+  "id": "sunismo",
+  "nombre": "Islam suní",
+  "alias": [],
+  "region": "opr",
+  "inicio": 632,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 5,
+  "padres": [
+    {
+      "id": "islam",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Rama mayoritaria, que sigue la tradición del Profeta y reconoce a los primeros califas.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Allah-green.svg",
+    "licencia": "Public domain",
+    "autor": "The original uploader was Mr100percent at  Wikipedia."
+  }
+}

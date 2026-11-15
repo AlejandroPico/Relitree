@@ -1,0 +1,21 @@
+{
+  "id": "nuevo-pensamiento",
+  "nombre": "Nuevo Pensamiento",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1860,
+  "fin": null,
+  "tipo": "nmr",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "swedenborg",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "espiritualismo"
+  ],
+  "resumen": "Corriente de sanación mental y pensamiento positivo.",
+  "icono": null
+}

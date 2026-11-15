@@ -1,0 +1,19 @@
+{
+  "id": "minoica",
+  "nombre": "Religión minoica",
+  "alias": [],
+  "region": "eur",
+  "inicio": -3000,
+  "fin": -1100,
+  "tipo": "pol",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "eur-neo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Culto cretense de santuarios en cumbres y cuevas, figuras femeninas, el toro y el hacha doble.",
+  "icono": null
+}

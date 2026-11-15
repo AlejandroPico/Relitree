@@ -1,0 +1,19 @@
+{
+  "id": "vodun",
+  "nombre": "Vodún de África occidental",
+  "alias": [],
+  "region": "afr",
+  "inicio": 1000,
+  "fin": null,
+  "tipo": "pol",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "afr-oeste",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Religión de los pueblos fon y ewé: los vodún son fuerzas de la naturaleza y de los linajes, honradas con posesión ritual.",
+  "icono": null
+}

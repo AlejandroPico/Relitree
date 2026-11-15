@@ -1,0 +1,21 @@
+{
+  "id": "griega",
+  "nombre": "Religión griega antigua",
+  "alias": [],
+  "region": "eur",
+  "inicio": -800,
+  "fin": 400,
+  "tipo": "pol",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "micenica",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "fenicia"
+  ],
+  "resumen": "Culto cívico a los dioses olímpicos, con sacrificios, oráculos, festivales y una mitología que marcó a Occidente.",
+  "icono": null
+}

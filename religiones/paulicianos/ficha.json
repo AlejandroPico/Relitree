@@ -1,0 +1,21 @@
+{
+  "id": "paulicianos",
+  "nombre": "Paulicianos",
+  "alias": [],
+  "region": "opr",
+  "inicio": 650,
+  "fin": 900,
+  "tipo": "dua",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "cristianismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "maniqueismo"
+  ],
+  "resumen": "Secta dualista de Armenia y Anatolia, enemiga del culto a las imágenes.",
+  "icono": null
+}

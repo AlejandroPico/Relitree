@@ -1,0 +1,21 @@
+{
+  "id": "loto-blanco",
+  "nombre": "Sociedades del Loto Blanco",
+  "alias": [],
+  "region": "aso",
+  "inicio": 1130,
+  "fin": 1800,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "tierra-pura",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "maniqueismo"
+  ],
+  "resumen": "Movimientos laicos y milenaristas, origen de varias rebeliones.",
+  "icono": null
+}

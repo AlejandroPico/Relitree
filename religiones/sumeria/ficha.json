@@ -1,0 +1,19 @@
+{
+  "id": "sumeria",
+  "nombre": "Religión sumeria",
+  "alias": [],
+  "region": "opr",
+  "inicio": -3500,
+  "fin": -2000,
+  "tipo": "pol",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "ubaid",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Ciudades-templo consagradas a dioses como An, Enlil, Enki e Inanna; primera mitología escrita.",
+  "icono": null
+}

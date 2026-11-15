@@ -1,0 +1,22 @@
+{
+  "id": "umbanda",
+  "nombre": "Umbanda",
+  "alias": [],
+  "region": "sam",
+  "inicio": 1908,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "candomble",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "espiritismo",
+    "catolica"
+  ],
+  "resumen": "Religión brasileña que combina tradición africana, espiritismo y catolicismo.",
+  "icono": null
+}

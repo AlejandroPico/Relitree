@@ -1,0 +1,24 @@
+{
+  "id": "catarismo",
+  "nombre": "Catarismo",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1143,
+  "fin": 1330,
+  "tipo": "dua",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "bogomilismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Iglesia dualista del sur de Francia e Italia, destruida por la cruzada albigense y la Inquisición.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Cathar_cross.svg",
+    "licencia": "CC BY-SA 2.5",
+    "autor": "Huhsunqu"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "igbo",
+  "nombre": "Odinani (religión igbo)",
+  "alias": [],
+  "region": "afr",
+  "inicio": 900,
+  "fin": null,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "afr-oeste",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Religión del pueblo igbo: el dios Chukwu, la diosa de la tierra Ala y el espíritu personal o chi.",
+  "icono": null
+}

@@ -1,0 +1,342 @@
+# id|nombre|region|inicio|fin|tipo|importancia|padres|influencias|resumen
+# --- PREHISTORIA ---
+origen|Primeros comportamientos simbólicos|afr|-300000|-100000|rit|5|||Uso de pigmentos, cuidado de los muertos y objetos sin función práctica entre los primeros Homo sapiens africanos: el sustrato más antiguo que la arqueología puede asociar a un pensamiento simbólico.
+afr-msa|Simbolismo de la Edad de Piedra Media|afr|-100000|-25000|rit|4|origen||Ocre grabado, cuentas de concha y enterramientos intencionados en yacimientos como Blombos o Border Cave, indicios de un mundo ritual plenamente moderno.
+san|Tradiciones san|afr|-25000||cha|3|afr-msa||Religión de los cazadores-recolectores del África austral, centrada en la danza de trance, los sanadores y un arte rupestre de miles de años.
+levante-paleo|Ritos funerarios del Paleolítico en el Levante|opr|-100000|-12500|rit|5|origen||Enterramientos con ofrendas de Qafzeh y Skhul: las sepulturas intencionadas más antiguas conocidas, en el corredor de salida de África.
+eur-paleo|Arte y rito del Paleolítico superior europeo|eur|-40000|-9500|rit|4|levante-paleo||Santuarios pintados en cuevas, figuras femeninas y el hombre-león: un universo simbólico de cazadores de la Edad de Hielo.
+asn-paleo|Paleolítico superior de Eurasia septentrional|asn|-35000|-8000|rit|4|levante-paleo||Enterramientos ricamente adornados (Sungir, Mal'tá) y figurillas de marfil de los cazadores de mamut de la estepa fría.
+sasia-pre|Tradiciones prehistóricas del sur de Asia|asm|-65000|-3300|rit|4|levante-paleo||Arte rupestre de Bhimbetka y cultos aldeanos tempranos como Mehrgarh, sustrato de las religiones posteriores del subcontinente.
+sea-paleo|Arte rupestre de Sondalandia|sea|-50000|-3000|rit|3|sasia-pre||Pinturas figurativas de Sulawesi y Borneo, entre las más antiguas del mundo, obra de los primeros pobladores del Sudeste Asiático insular.
+aborigen|El Sueño (religiones aborígenes australianas)|oce|-50000||ani|4|sea-paleo||Tradición continua más antigua del planeta: seres ancestrales que modelaron el territorio, líneas de canto y lazos totémicos con la tierra.
+serpiente|Culto de la Serpiente Arcoíris|oce|-6000||ani|1|aborigen||Gran ser creador ligado al agua, presente en el arte rupestre de la Tierra de Arnhem desde hace miles de años.
+papua|Religiones papúes|oce|-45000||ani|3|sea-paleo||Cientos de tradiciones de Nueva Guinea basadas en espíritus de los antepasados, casas ceremoniales e intercambio ritual.
+aso-paleo|Ritos prehistóricos de Asia oriental|aso|-35000|-7000|rit|4|sasia-pre||Sepulturas con ocre y adornos como las de la Cueva Superior de Zhoukoudian, primeros indicios rituales del Extremo Oriente.
+natuf|Natufiense y santuarios del Neolítico precerámico|opr|-12500|-6500|rit|4|levante-paleo||Primeras comunidades sedentarias del Creciente Fértil: cráneos modelados, culto a los antepasados y los recintos monumentales de Göbekli Tepe.
+anat-neo|Neolítico de Anatolia|opr|-7400|-5500|rit|3|natuf||Santuarios domésticos de Çatalhöyük con bucráneos, figuras femeninas y enterramientos bajo el suelo de las casas.
+eur-neo|Megalitismo y Neolítico europeo|eur|-5500|-2000|ant|4|anat-neo|eur-paleo|Agricultores llegados de Anatolia que levantaron dólmenes, alineamientos y recintos como Stonehenge, orientados al sol y dedicados a los antepasados.
+malta-templos|Templos megalíticos de Malta|eur|-3600|-2500|rit|1|eur-neo||Santuarios de piedra como Ġgantija y Ħaġar Qim, con estatuas corpulentas y un hipogeo excavado en la roca.
+# --- ÁFRICA ---
+afr-oeste|Religiones tradicionales de África occidental|afr|-3000||ani|4|afr-msa||Sustrato común de la región: un dios supremo distante, divinidades intermediarias, antepasados venerados y adivinación.
+bantu|Religiones bantúes|afr|-1500||ant|4|afr-oeste||Tradiciones difundidas con la expansión bantú por África central y austral: culto a los antepasados, fuerza vital y especialistas rituales.
+nilo|Religiones nilóticas|afr|-3000||mon|2|afr-msa||Creencias de pueblos pastores como dinka, nuer o masáis, con una divinidad celeste ligada a la lluvia y al ganado.
+bereber|Religión bereber antigua|afr|-3000|700|pol|2|afr-msa|egipto,punica|Cultos del norte de África a los astros, las rocas y los muertos, con santuarios funerarios y divinidades compartidas con Egipto y Cartago.
+egipto|Religión del antiguo Egipto|afr|-3100|540|pol|5|afr-msa||Tres milenios de templos, realeza divina, juicio de los muertos y un panteón encabezado por Ra, Osiris, Isis y Amón.
+atenismo|Atonismo|afr|-1350|-1335|mon|1|egipto||Reforma de Akenatón que impuso el culto exclusivo al disco solar Atón; fue abolida tras su muerte.
+kush|Religión de Kush y Meroe|afr|-1000|350|pol|2|egipto||Culto nubio que adoptó a Amón y creó dioses propios como el león Apedemak.
+punica|Religión púnica|afr|-800|-146|pol|2|fenicia||Religión de Cartago, heredera de la fenicia, presidida por Baal Hammón y Tanit.
+yoruba|Religión yoruba|afr|-500||pol|3|afr-oeste||Tradición de Ifé y Oyo: el creador Olodumare, los orishas y el sistema adivinatorio de Ifá.
+igbo|Odinani (religión igbo)|afr|900||pol|1|afr-oeste||Religión del pueblo igbo: el dios Chukwu, la diosa de la tierra Ala y el espíritu personal o chi.
+akan|Religión akan|afr|1000||pol|2|afr-oeste||Creencias de asantes y fantes: el dios Nyame, los espíritus abosom y los taburetes de los antepasados.
+vodun|Vodún de África occidental|afr|1000||pol|3|afr-oeste||Religión de los pueblos fon y ewé: los vodún son fuerzas de la naturaleza y de los linajes, honradas con posesión ritual.
+serer|Religión serer|afr|1000||mon|1|afr-oeste||Tradición senegambiana en torno a la divinidad Roog y los pangool, espíritus ancestrales.
+dogon|Religión dogón|afr|1400||ani|1|afr-oeste||Cosmología de los acantilados de Bandiagara: el creador Amma, los gemelos Nommo y grandes ceremonias de máscaras.
+zulu|Religión zulú|afr|1500||ant|1|bantu||Culto a los amadlozi o antepasados, con el creador Unkulunkulu y los adivinos sangoma.
+bwiti|Bwiti|afr|1890||sin|1|bantu|catolica|Religión iniciática de Gabón que combina culto a los antepasados, cristianismo y el uso ritual de la iboga.
+aladura|Iglesias aladura|afr|1918||mon|1|anglicanismo|yoruba|Iglesias proféticas nigerianas centradas en la oración, la sanación y las visiones.
+kimbangu|Kimbanguismo|afr|1921||mon|2|bautistas|bantu|Iglesia fundada en el Congo por el profeta Simon Kimbangu, una de las mayores iglesias independientes africanas.
+zion-cc|Iglesias sionistas africanas|afr|1910||mon|2|pentecostalismo|bantu|Iglesias de sanación del África austral que unen cristianismo carismático y formas rituales locales.
+muridiyya|Muridiyya|afr|1883||mon|1|sufismo||Cofradía sufí senegalesa fundada por Amadou Bamba, que santifica el trabajo y tiene su centro en Touba.
+tijaniyya|Tijaniyya|afr|1784||mon|1|sufismo||Orden sufí nacida en el Magreb y extendida por toda África occidental.
+donatismo|Donatismo|afr|311|700|mon|1|cristianismo:cisma||Iglesia rigorista del norte de África que negaba la validez de los sacramentos de clérigos indignos.
+copta|Iglesia copta|afr|451||mon|3|miafisismo||Iglesia de Egipto, de tradición alejandrina, cuna del monacato cristiano.
+etiope|Iglesia ortodoxa etíope Tewahedo|afr|330||mon|3|cristianismo|miafisismo,judaismo|Cristianismo de Aksum, con canon bíblico propio y prácticas de raíz judía.
+# --- EUROPA ---
+pie|Religión protoindoeuropea|eur|-4500|-2500|pol|5|asn-paleo|eur-neo|Religión reconstruida de los pastores de la estepa póntica: un padre cielo, gemelos divinos y el sacrificio del caballo.
+minoica|Religión minoica|eur|-3000|-1100|pol|2|eur-neo||Culto cretense de santuarios en cumbres y cuevas, figuras femeninas, el toro y el hacha doble.
+micenica|Religión micénica|eur|-1600|-1100|pol|2|pie|minoica|Religión de los palacios griegos de la Edad del Bronce; sus tablillas ya nombran a Zeus, Hera y Poseidón.
+griega|Religión griega antigua|eur|-800|400|pol|4|micenica|fenicia|Culto cívico a los dioses olímpicos, con sacrificios, oráculos, festivales y una mitología que marcó a Occidente.
+eleusis|Misterios de Eleusis|eur|-1500|392|mis|1|micenica||Iniciaciones secretas en honor de Deméter y Perséfone que prometían una suerte mejor tras la muerte.
+orfismo|Orfismo|eur|-550|300|mis|1|griega||Corriente griega de salvación personal, con pureza de vida y creencia en la transmigración del alma.
+pitagorismo|Pitagorismo|eur|-530|100|fil|1|orfismo||Comunidad filosófico-religiosa que veía en el número el principio del cosmos y practicaba una vida ascética.
+platonismo|Platonismo|eur|-387|100|fil|2|pitagorismo||Filosofía de Platón: un mundo de formas eternas y un alma inmortal, de enorme huella en la teología posterior.
+estoicismo|Estoicismo|eur|-300|300|fil|2|griega||Escuela que identifica a la divinidad con la razón que ordena el universo y propone vivir conforme a la naturaleza.
+epicureismo|Epicureísmo|eur|-307|300|fil|1|griega||Filosofía atomista que busca la serenidad y sostiene que los dioses no intervienen en el mundo.
+neoplatonismo|Neoplatonismo|eur|250|529|pan|2|platonismo||Sistema de Plotino: todo emana del Uno y el alma puede retornar a él; última gran filosofía religiosa pagana.
+etrusca|Religión etrusca|eur|-800|-100|pol|2|eur-neo|griega|Religión revelada de Etruria, célebre por sus libros sagrados y la adivinación por el hígado y el rayo.
+romana|Religión romana|eur|-753|392|pol|4|pie|etrusca,griega|Culto público de Roma: observancia escrupulosa de los ritos, dioses del Estado y del hogar, y más tarde culto imperial.
+isis|Misterios de Isis|eur|-300|400|mis|1|egipto|griega|Culto egipcio helenizado de la diosa Isis, difundido por todo el Mediterráneo romano.
+mitraismo|Misterios de Mitra|eur|80|400|mis|2|romana|irania|Culto iniciático de soldados y funcionarios romanos, celebrado en cuevas en torno al dios que sacrifica al toro.
+celta|Religión celta|eur|-800|500|pol|3|pie||Religión de galos, britanos e irlandeses: druidas, arboledas sagradas, dioses tribales y fiestas estacionales.
+germanica|Religión germánica|eur|-500|800|pol|3|pie||Cultos de los pueblos germánicos continentales a dioses como Wodan, Donar y Tiwaz.
+nordica|Religión nórdica|eur|500|1100|pol|3|germanica||Religión escandinava de la era vikinga: Odín, Thor, Freyja y el destino final del Ragnarök.
+baltica|Religión báltica|eur|-500|1400|pol|2|pie||Paganismo de lituanos, letones y prusianos, el último de Europa en ser cristianizado.
+eslava|Religión eslava|eur|500|1200|pol|2|pie||Paganismo de los pueblos eslavos, con Perún como dios del trueno y un rico mundo de espíritus domésticos.
+arrianismo|Arrianismo|eur|318|700|mon|2|cristianismo:cisma||Doctrina que subordinaba el Hijo al Padre; condenada en Nicea, perduró entre godos, vándalos y lombardos.
+ortodoxa|Iglesia ortodoxa|eur|1054||mon|5|cristianismo:cisma||Comunión de iglesias de tradición bizantina, fiel a los siete primeros concilios y separada de Roma desde el cisma de 1054.
+viejos-creyentes|Viejos creyentes|eur|1666||mon|1|ortodoxa:cisma||Fieles rusos que rechazaron las reformas litúrgicas del patriarca Nikon.
+catolica|Iglesia católica|eur|1054||mon|5|cristianismo:cisma||Iglesia en comunión con el obispo de Roma; la mayor confesión cristiana, con veintiún concilios ecuménicos reconocidos.
+bogomilismo|Bogomilismo|eur|950|1450|dua|1|paulicianos||Movimiento dualista búlgaro que rechazaba la jerarquía y el mundo material.
+catarismo|Catarismo|eur|1143|1330|dua|2|bogomilismo||Iglesia dualista del sur de Francia e Italia, destruida por la cruzada albigense y la Inquisición.
+valdenses|Valdenses|eur|1173||mon|1|catolica:reforma||Movimiento de pobreza evangélica iniciado por Pedro Valdo, más tarde unido a la Reforma.
+husitas|Husitas|eur|1415||mon|1|catolica:reforma||Reforma bohemia inspirada en Jan Hus, precursora del protestantismo.
+luteranismo|Luteranismo|eur|1517||mon|4|catolica:reforma||Primera gran iglesia de la Reforma: justificación por la fe y autoridad de la Escritura.
+reformada|Iglesias reformadas (calvinismo)|eur|1536||mon|4|catolica:reforma||Tradición de Zuinglio y Calvino, centrada en la soberanía de Dios y una liturgia sobria.
+presbiterianismo|Presbiterianismo|eur|1560||mon|2|reformada||Rama reformada escocesa gobernada por asambleas de ancianos.
+anabaptismo|Anabaptismo|eur|1525||mon|2|catolica:reforma||Reforma radical: bautismo de adultos, separación de Iglesia y Estado y, en general, pacifismo.
+menonitas|Menonitas|eur|1536||mon|1|anabaptismo||Anabaptistas pacifistas seguidores de Menno Simons.
+amish|Amish|eur|1693||mon|1|menonitas:cisma||Comunidades de vida sencilla y separada, surgidas en Suiza y Alsacia y hoy asentadas en Norteamérica.
+anglicanismo|Anglicanismo|eur|1534||mon|4|catolica:cisma|reformada|Iglesia de Inglaterra y su comunión mundial, a medio camino entre catolicismo y Reforma.
+bautistas|Iglesias bautistas|eur|1609||mon|3|anglicanismo|anabaptismo|Iglesias congregacionales que practican el bautismo de creyentes por inmersión.
+cuaqueros|Cuáqueros|eur|1650||mon|1|anglicanismo||Sociedad Religiosa de los Amigos: culto en silencio, luz interior y testimonio de paz.
+metodismo|Metodismo|eur|1738||mon|3|anglicanismo:reforma||Avivamiento de John Wesley que acentúa la santidad personal y la acción social.
+ejercito-salvacion|Ejército de Salvación|eur|1865||mon|1|metodismo||Iglesia de organización militar volcada en la asistencia social.
+unitarismo|Unitarismo|eur|1565||mon|1|reformada:cisma||Cristianismo que rechaza la Trinidad, nacido en Polonia y Transilvania.
+veterocatolicos|Iglesias veterocatólicas|eur|1870||mon|1|catolica:cisma||Iglesias separadas de Roma tras rechazar la infalibilidad papal.
+rosacruz|Rosacrucismo|eur|1614||eso|1|hermetismo|cabala|Corriente esotérica nacida de unos manifiestos alemanes que anunciaban una fraternidad secreta de sabios.
+masoneria|Masonería|eur|1717||eso|2|rosacruz||Fraternidad iniciática de simbolismo constructor; no es una religión, pero influyó en muchos movimientos esotéricos.
+espiritismo|Espiritismo|eur|1857||nmr|2|espiritualismo|catolica|Doctrina codificada por Allan Kardec: comunicación con los espíritus y progreso a través de la reencarnación.
+golden-dawn|Orden Hermética de la Aurora Dorada|eur|1888|1903|eso|1|rosacruz|masoneria,cabala|Orden mágica británica que sistematizó el ocultismo ceremonial moderno.
+thelema|Thelema|eur|1904||eso|1|golden-dawn||Sistema de Aleister Crowley cuyo eje es descubrir y cumplir la verdadera voluntad.
+antroposofia|Antroposofía|eur|1912||eso|1|teosofia:cisma||Ciencia espiritual de Rudolf Steiner, origen de la pedagogía Waldorf y la agricultura biodinámica.
+druidismo|Neodruidismo|eur|1781||neo|1|celta:renacimiento|masoneria|Recreación moderna de la figura del druida, entre lo fraternal, lo cultural y lo religioso.
+wicca|Wicca|eur|1954||neo|2|golden-dawn|celta|Brujería moderna dada a conocer por Gerald Gardner: una diosa y un dios, ocho festividades y magia ritual.
+asatru|Ásatrú (paganismo germánico moderno)|eur|1972||neo|1|nordica:renacimiento||Reconstrucción del culto a los dioses nórdicos, reconocida oficialmente en Islandia en 1973.
+rodnoveria|Rodnoveria|eur|1978||neo|1|eslava:renacimiento||Fe nativa eslava reconstruida en Rusia, Ucrania y Polonia.
+romuva|Romuva|eur|1967||neo|1|baltica:renacimiento||Movimiento lituano que retoma la religión báltica a partir del folclore.
+dievturiba|Dievturība|eur|1925||neo|1|baltica:renacimiento||Reconstrucción letona basada en las canciones populares o dainas.
+helenismo-neo|Helenismo moderno|eur|1997||neo|1|griega:renacimiento||Recuperación contemporánea del culto a los dioses olímpicos, sobre todo en Grecia.
+satanismo|Satanismo moderno|nam|1966||nmr|1|thelema||Corrientes nacidas con la Iglesia de Satán de LaVey; en su mayoría ateas, usan a Satán como símbolo de individualismo.
+# --- ORIENTE PRÓXIMO ---
+ubaid|Culturas de Ubaid y Uruk|opr|-6500|-3500|pol|3|natuf||Primeros templos de Mesopotamia, levantados sobre plataformas en Eridu y Uruk.
+sumeria|Religión sumeria|opr|-3500|-2000|pol|4|ubaid||Ciudades-templo consagradas a dioses como An, Enlil, Enki e Inanna; primera mitología escrita.
+acadia|Religión acadia|opr|-2334|-1900|pol|2|sumeria||Fusión del panteón sumerio con los dioses semitas bajo el imperio de Sargón.
+babilonica|Religión babilónica|opr|-1894|-100|pol|3|acadia||Religión de Babilonia, presidida por Marduk, con el Enuma Elish y una refinada astrología.
+asiria|Religión asiria|opr|-2000|-600|pol|2|acadia|babilonica|Culto imperial al dios Asur, vinculado a la realeza y a la guerra.
+elamita|Religión elamita|opr|-2700|-539|pol|1|ubaid||Religión del suroeste de Irán, con zigurats como Chogha Zanbil.
+cananea|Religión cananea|opr|-3000|-500|pol|3|natuf|sumeria|Panteón del Levante encabezado por El, Baal y Asherá, conocido por los textos de Ugarit.
+fenicia|Religión fenicia|opr|-1500|-300|pol|2|cananea||Cultos de Tiro, Sidón y Biblos a Melqart, Astarté y Eshmún, llevados por mar a todo el Mediterráneo.
+hitita|Religión hitita|opr|-1700|-1180|pol|2|pie|anat-neo,sumeria|El reino de los «mil dioses», que integró divinidades indoeuropeas, hatianas y hurritas.
+arabia-pre|Politeísmo árabe preislámico|opr|-1000|630|pol|2|cananea||Cultos tribales de Arabia a divinidades astrales y betilos, con santuarios de peregrinación como La Meca.
+yahvismo|Yahvismo israelita|opr|-1200|-586|hen|3|cananea||Culto del antiguo Israel a Yahvé, que pasó de convivir con otros dioses a exigir exclusividad.
+judaismo|Judaísmo del Segundo Templo|opr|-516|70|mon|5|yahvismo|zoroastrismo,griega|Tras el exilio, religión monoteísta de la Torá y el Templo de Jerusalén, con fariseos, saduceos y esenios.
+samaritanismo|Samaritanismo|opr|-400||mon|1|yahvismo:cisma||Comunidad que solo acepta el Pentateuco y venera el monte Garizim.
+rabinico|Judaísmo rabínico|opr|70||mon|4|judaismo||Judaísmo de la sinagoga, la Mishná y el Talmud, surgido tras la destrucción del Templo.
+caraismo|Caraísmo|opr|760||mon|1|rabinico:cisma||Corriente judía que rechaza la ley oral y se atiene solo a la Biblia hebrea.
+cabala|Cábala|eur|1180||eso|2|rabinico|neoplatonismo|Mística judía medieval de Provenza y España, con el Zohar y la doctrina de las sefirot.
+jasidismo|Jasidismo|eur|1740||mon|2|rabinico|cabala|Avivamiento místico y popular del judaísmo de Europa oriental, iniciado por el Baal Shem Tov.
+judaismo-reformista|Judaísmo reformista|eur|1810||mon|2|rabinico:reforma||Corriente liberal nacida en Alemania que adapta la práctica judía a la modernidad.
+judaismo-ortodoxo|Judaísmo ortodoxo moderno|eur|1851||mon|2|rabinico||Respuesta tradicionalista a la Reforma, fiel a la ley judía en su integridad.
+judaismo-conservador|Judaísmo conservador|nam|1886||mon|1|judaismo-reformista:cisma||Vía intermedia que conserva la tradición admitiendo su evolución histórica.
+cristianismo|Cristianismo|opr|30||mon|5|judaismo|griega|Nace del judaísmo en torno a Jesús de Nazaret, confesado como Mesías e Hijo de Dios; hoy es la religión con más fieles.
+gnosticismo|Gnosticismo|opr|100|500|dua|2|cristianismo|platonismo,judaismo|Corrientes que buscaban la salvación por un conocimiento secreto y veían el mundo material como obra de un dios inferior.
+marcionismo|Marcionismo|opr|144|500|dua|1|cristianismo:cisma||Iglesia de Marción, que rechazaba el Antiguo Testamento y distinguía dos dioses.
+montanismo|Montanismo|opr|156|550|mon|1|cristianismo:cisma||Movimiento profético y rigorista surgido en Frigia.
+hermetismo|Hermetismo|afr|100|500|eso|2|egipto|platonismo|Textos atribuidos a Hermes Trismegisto, mezcla de sabiduría egipcia y filosofía griega, base del esoterismo occidental.
+mandeismo|Mandeísmo|opr|100||dua|1|judaismo|gnosticismo|Religión gnóstica de Mesopotamia que venera a Juan el Bautista y practica bautismos repetidos en agua corriente.
+maniqueismo|Maniqueísmo|opr|240|1400|dua|3|gnosticismo|zoroastrismo,budismo|Religión universal del profeta Mani: lucha cósmica entre luz y tinieblas; llegó del Mediterráneo hasta China.
+paulicianos|Paulicianos|opr|650|900|dua|1|cristianismo|maniqueismo|Secta dualista de Armenia y Anatolia, enemiga del culto a las imágenes.
+iglesia-oriente|Iglesia del Oriente|opr|431||mon|3|cristianismo:cisma||Cristianismo siríaco de Persia, mal llamado nestoriano, que misionó hasta la India y China.
+miafisismo|Iglesias ortodoxas orientales|opr|451||mon|3|cristianismo:cisma||Iglesias que rechazaron el concilio de Calcedonia: copta, siríaca, armenia y etíope.
+armenia|Iglesia apostólica armenia|opr|301||mon|2|cristianismo|miafisismo|Iglesia nacional de Armenia, primer reino que adoptó oficialmente el cristianismo.
+siriaca|Iglesia ortodoxa siríaca|opr|451||mon|1|miafisismo||Iglesia de tradición antioquena y lengua siríaca.
+maronita|Iglesia maronita|opr|685||mon|1|cristianismo|catolica|Iglesia oriental del Líbano, en comunión con Roma.
+islam|Islam|opr|610||mon|5|arabia-pre|rabinico,cristianismo|Monoteísmo predicado por Mahoma en Arabia, basado en el Corán, que se presenta como culminación de la tradición de Abraham.
+sunismo|Islam suní|opr|632||mon|5|islam||Rama mayoritaria, que sigue la tradición del Profeta y reconoce a los primeros califas.
+chiismo|Islam chií|opr|661||mon|4|islam:cisma||Rama que reserva la guía de la comunidad a Alí y sus descendientes, los imanes.
+jariyismo|Jariyismo|opr|657|900|mon|1|islam:cisma||Primera escisión del islam: rigoristas que rechazaron el arbitraje entre Alí y Muawiya.
+ibadismo|Ibadismo|opr|700||mon|1|jariyismo||Heredero moderado del jariyismo, mayoritario en Omán.
+zaidismo|Zaidismo|opr|740||mon|1|chiismo:cisma||Rama chií del Yemen, la más próxima al sunismo.
+ismailismo|Ismailismo|opr|765||mon|2|chiismo:cisma||Chiismo de los siete imanes, de interpretación esotérica; fundó el califato fatimí.
+duodecimano|Chiismo duodecimano|opr|874||mon|3|chiismo||Corriente chií mayoritaria, que espera el retorno del duodécimo imán oculto.
+alauies|Alauismo|opr|870||sin|1|chiismo:cisma|gnosticismo|Tradición esotérica de Siria que venera a Alí como manifestación divina.
+drusos|Fe drusa|opr|1017||mon|1|ismailismo:cisma|neoplatonismo|Religión cerrada del Levante que cree en la reencarnación y en la unicidad absoluta de Dios.
+alevismo|Alevismo|opr|1250||sin|1|chiismo|sufismo,tengri|Tradición anatolia que une devoción a Alí, mística sufí y herencia turca.
+sufismo|Sufismo|opr|800||mon|3|sunismo|neoplatonismo|Dimensión mística del islam, organizada en cofradías que buscan la experiencia directa de Dios.
+mevlevi|Orden mevleví|opr|1273||mon|1|sufismo||Cofradía de los derviches giradores, fundada por los seguidores de Rumi.
+wahabismo|Wahabismo|opr|1744||mon|2|sunismo:reforma||Reforma puritana de Arabia que rechaza toda práctica considerada innovación.
+babismo|Babismo|opr|1844|1863|mon|1|duodecimano:cisma||Movimiento mesiánico persa del Báb, que anunció una nueva revelación.
+bahai|Fe bahá'í|opr|1863||mon|2|babismo||Religión de Bahá'u'lláh: unidad de Dios, de las religiones y de la humanidad.
+irania|Religión irania antigua|opr|-1500|-500|pol|3|indo-irania||Politeísmo de medos y persas anterior a Zaratustra, con culto al fuego y a Mitra.
+zoroastrismo|Zoroastrismo|opr|-1000||dua|4|irania:reforma||Religión de Zaratustra: Ahura Mazda, la elección entre verdad y mentira, y el juicio final.
+zurvanismo|Zurvanismo|opr|-400|900|dua|1|zoroastrismo:cisma||Variante que situaba al Tiempo infinito como origen de los dos espíritus gemelos.
+mazdakismo|Mazdakismo|opr|490|800|dua|1|zoroastrismo:reforma|maniqueismo|Movimiento igualitario persa que predicaba la comunidad de bienes.
+yazidismo|Yazidismo|opr|1100||mon|1|irania|sufismo|Religión kurda que venera a siete ángeles encabezados por Melek Taus, el Ángel Pavo Real.
+yarsanismo|Yarsanismo|opr|1400||sin|1|irania|chiismo|Tradición kurda de la «gente de la verdad», con manifestaciones sucesivas de lo divino.
+# --- ASIA CENTRAL Y SEPTENTRIONAL ---
+siberia|Chamanismo siberiano|asn|-8000||cha|4|asn-paleo||Tradiciones de la taiga y la tundra en las que el chamán viaja entre mundos con ayuda de espíritus auxiliares.
+uralica|Religiones urálicas|asn|-4000||ani|3|siberia||Creencias de los pueblos fino-ugrios y samoyedos: espíritus de la naturaleza, culto al oso y arboledas sagradas.
+sami|Religión sami|eur|-1000||cha|1|uralica||Tradición de Laponia con sus chamanes noaidi, tambores rituales y lugares sagrados sieidi.
+finesa|Paganismo finés|eur|-1000|1300|pol|1|uralica||Religión del dios del cielo Ukko y de los cantos recogidos después en el Kalevala.
+mari|Religión tradicional mari|eur|500||pol|1|uralica||Fe del pueblo mari del Volga, que sigue celebrando sacrificios en bosques sagrados.
+indo-irania|Religión indoirania|asn|-2500|-1500|pol|4|pie||Religión de las estepas de Asia central, tronco común de los Vedas y del Avesta.
+escita|Religión escita|asn|-800|300|pol|1|indo-irania||Cultos de los jinetes nómadas de la estepa, con enterramientos principescos en kurganes.
+tengri|Tengrismo|asn|-400||cha|3|siberia||Religión de los pueblos turcos y mongoles: el Cielo Eterno, la madre tierra y los chamanes.
+mongol|Chamanismo mongol|asn|1200||cha|2|tengri||Religión del imperio de Gengis Kan y sus herederos, hoy revitalizada.
+burjanismo|Burjanismo|asn|1904|1930|mon|1|tengri|tibetano|Movimiento mesiánico del Altái que anunciaba el regreso del Kan Blanco.
+paleoesquimal|Tradiciones paleoesquimales|nam|-2500|1000|cha|1|siberia||Culturas árticas como Dorset, con chamanismo y arte en miniatura de marfil.
+# --- ASIA MERIDIONAL ---
+indo|Religión del valle del Indo|asm|-3300|-1300|rit|3|sasia-pre||Civilización de Harappa y Mohenjo-Daro: baños rituales, sellos con animales y figurillas, sin textos descifrados.
+dravidica|Religión popular dravídica|asm|-1500||ani|2|indo||Cultos de aldea del sur de la India a diosas madres, héroes y espíritus, luego integrados en el hinduismo.
+vedica|Religión védica|asm|-1500|-500|pol|4|indo-irania|indo|Religión de los himnos del Rigveda: sacrificio de fuego, soma y dioses como Indra, Agni y Varuna.
+brahmanismo|Brahmanismo|asm|-900|-200|pan|3|vedica||Etapa del ritual sacerdotal y de las Upanishads, que formulan las ideas de brahman, atman y karma.
+sramana|Movimientos shramánicos|asm|-700|-200|nte|3|sasia-pre|brahmanismo|Ascetas errantes del Ganges que rechazaban la autoridad védica y buscaban la liberación del ciclo de renacimientos.
+jainismo|Jainismo|asm|-600||nte|3|sramana||Vía de la no violencia absoluta y el ascetismo enseñada por los tirthankaras, el último de ellos Mahavira.
+digambara|Jainismo digambara|asm|80||nte|1|jainismo:cisma||Rama cuyos monjes renuncian a toda posesión, incluso al vestido.
+svetambara|Jainismo shvetambara|asm|80||nte|1|jainismo:cisma||Rama de monjes y monjas vestidos de blanco, con canon escrito propio.
+ajivika|Ajivika|asm|-500|1300|nte|1|sramana||Escuela ascética que sostenía un destino inexorable.
+charvaka|Charvaka|asm|-600|1200|fil|1|sramana||Escuela materialista india que negaba el karma, el más allá y la autoridad de los Vedas.
+budismo|Budismo|asm|-450||nte|5|sramana||Camino enseñado por Siddhartha Gautama para extinguir el sufrimiento: cuatro nobles verdades y óctuple sendero.
+theravada|Budismo theravada|asm|-250||nte|4|budismo||Escuela de los Ancianos, fiel al canon pali; predomina en Sri Lanka y el Sudeste Asiático.
+mahayana|Budismo mahayana|asm|50||nte|5|budismo||El Gran Vehículo: ideal del bodhisattva, que pospone su liberación para ayudar a todos los seres.
+vajrayana|Budismo vajrayana|asm|600||nte|3|mahayana|tantra|Budismo tántrico de mantras, mandalas y transmisión de maestro a discípulo.
+navayana|Budismo navayana|asm|1956||nte|1|theravada:reforma||Budismo social de B. R. Ambedkar, adoptado por millones de dalits.
+hinduismo|Hinduismo clásico|asm|-200||pol|5|brahmanismo|dravidica,sramana|Síntesis de las epopeyas y los Puranas: dharma, devoción a grandes deidades y culto en templos.
+visnuismo|Vaishnavismo|asm|-200||mon|4|hinduismo||Devoción a Vishnu y sus avatares, en especial Krishna y Rama.
+shivaismo|Shaivismo|asm|-200||mon|4|hinduismo||Tradiciones centradas en Shiva, desde el ascetismo yóguico hasta el culto en grandes templos.
+shaktismo|Shaktismo|asm|500||mon|3|hinduismo|dravidica|Culto a la Diosa como energía suprema, en formas como Durga y Kali.
+tantra|Tantrismo|asm|500||eso|2|shivaismo|shaktismo|Corrientes rituales y esotéricas que emplean mantras, diagramas y el cuerpo como vía de liberación.
+bhakti|Movimiento bhakti|asm|600||mon|3|visnuismo|shivaismo|Oleada de devoción personal y poesía en lenguas vernáculas, abierta a todas las castas.
+advaita|Vedanta advaita|asm|800||pan|2|hinduismo||Filosofía no dualista de Shankara: el yo y el absoluto son una sola realidad.
+smarta|Tradición smarta|asm|800||pan|2|advaita||Corriente que venera cinco deidades como formas de un mismo absoluto.
+lingayat|Lingayatismo|asm|1150||mon|1|shivaismo:reforma||Movimiento de Basava, devoto de Shiva, que rechazó castas y rituales de templo.
+sant-mat|Tradición sant|asm|1300||mon|2|bhakti|sufismo|Poetas santos del norte de la India, como Kabir, que predicaron un dios sin forma más allá de hindúes y musulmanes.
+sijismo|Sijismo|asm|1499||mon|4|sant-mat||Fe fundada por Gurú Nanak en el Panyab: un solo Dios, igualdad y servicio, guiada hoy por el Gurú Granth Sahib.
+gaudiya|Vaishnavismo gaudiya|asm|1510||mon|2|bhakti||Devoción extática a Krishna y Radha difundida por Chaitanya en Bengala.
+iskcon|Hare Krishna (ISKCON)|nam|1966||mon|1|gaudiya||Sociedad fundada en Nueva York por Prabhupada que llevó el krishnaísmo a Occidente.
+swaminarayan|Swaminarayan|asm|1801||mon|1|visnuismo||Movimiento devocional y reformista del Guyarat.
+brahmo|Brahmo Samaj|asm|1828||mon|1|hinduismo:reforma|unitarismo|Reforma monoteísta bengalí que rechazó imágenes y castas.
+arya-samaj|Arya Samaj|asm|1875||mon|1|hinduismo:reforma||Movimiento de retorno a los Vedas fundado por Dayananda Saraswati.
+ramakrishna|Misión Ramakrishna|asm|1897||pan|1|advaita||Orden fundada por Vivekananda, que presentó el vedanta como religión universal.
+radhasoami|Radha Soami|asm|1861||mon|1|sant-mat||Movimiento de meditación en el sonido interior bajo la guía de un maestro vivo.
+ayyavazhi|Ayyavazhi|asm|1840||mon|1|visnuismo:cisma||Tradición del sur de la India nacida de las enseñanzas de Ayya Vaikundar.
+ahmadia|Ahmadía|asm|1889||mon|1|sunismo:cisma||Movimiento del Panyab cuyo fundador, Mirza Ghulam Ahmad, se proclamó mesías.
+parsis|Zoroastrismo parsi|asm|720||dua|1|zoroastrismo||Comunidad zoroástrica refugiada en la India tras la conquista islámica de Persia.
+meditacion-t|Meditación Trascendental|asm|1955||nmr|1|advaita||Técnica de meditación con mantra difundida por Maharishi Mahesh Yogi.
+# --- ASIA ORIENTAL ---
+china-neo|Cultos neolíticos de China|aso|-7000|-1600|ant|4|aso-paleo||Culturas de Yangshao, Hongshan y Liangzhu: altares, jades rituales y culto a los antepasados.
+shang|Religión Shang|aso|-1600|-1046|ant|3|china-neo||Adivinación con huesos oraculares, sacrificios a los antepasados reales y al dios supremo Di.
+zhou|Religión Zhou|aso|-1046|-256|ant|3|shang||Culto al Cielo y doctrina del Mandato Celestial, que legitima o depone a los gobernantes.
+confucianismo|Confucianismo|aso|-500||fil|4|zhou||Enseñanza de Confucio: humanidad, piedad filial y rito como base del orden social.
+mohismo|Mohismo|aso|-450|-200|fil|1|zhou||Escuela de Mozi que predicaba el amor universal y la voluntad del Cielo.
+taoismo|Taoísmo|aso|-400||pan|4|zhou||Tradición del Dao De Jing y el Zhuangzi: seguir el curso natural del Tao; más tarde religión con panteón y alquimia.
+china-pop|Religión tradicional china|aso|-200||pol|4|zhou|taoismo,confucianismo,budismo-chino|Culto a los antepasados, a deidades locales y a los espíritus, tejido con elementos de las tres enseñanzas.
+maestros-cel|Camino de los Maestros Celestiales|aso|142||pol|2|taoismo||Primera iglesia taoísta organizada, fundada por Zhang Daoling.
+quanzhen|Escuela Quanzhen|aso|1167||pan|1|taoismo|chan|Taoísmo monástico de la Perfección Completa, centrado en la alquimia interior.
+neoconfucianismo|Neoconfucianismo|aso|1000||fil|2|confucianismo|chan,taoismo|Renovación metafísica del confucianismo, sistematizada por Zhu Xi.
+budismo-chino|Budismo chino|aso|67||nte|4|mahayana||Budismo llegado por la Ruta de la Seda y transformado en escuelas propias.
+tiantai|Tiantai|aso|575||nte|2|budismo-chino||Escuela del Sutra del Loto, que ordenó todas las enseñanzas budistas en un sistema.
+tierra-pura|Budismo de la Tierra Pura|aso|402||nte|3|budismo-chino||Devoción al buda Amitabha para renacer en su paraíso occidental.
+chan|Budismo chan|aso|520||nte|3|budismo-chino|taoismo|Escuela de la meditación y el despertar súbito, que la tradición remonta a Bodhidharma.
+loto-blanco|Sociedades del Loto Blanco|aso|1130|1800|sin|1|tierra-pura|maniqueismo|Movimientos laicos y milenaristas, origen de varias rebeliones.
+yiguandao|Yiguandao|aso|1877||sin|1|loto-blanco||Religión salvacionista que venera a la Madre Eterna y une las cinco enseñanzas.
+taiping|Reino Celestial Taiping|aso|1851|1864|sin|1|bautistas|china-pop|Movimiento de Hong Xiuquan, que se creía hermano menor de Jesús y desató una guerra civil.
+falun|Falun Gong|aso|1992||nmr|1|budismo-chino|taoismo|Práctica de qigong y cultivo moral fundada por Li Hongzhi.
+bon|Bon|aso|-500||cha|2|siberia|tibetano|Religión autóctona del Tíbet, con su fundador mítico Tonpa Shenrab; hoy convive con el budismo.
+tibetano|Budismo tibetano|aso|775||nte|3|vajrayana|bon|Budismo de monasterios, lamas reencarnados y enseñanzas tántricas.
+gelug|Escuela gelug|aso|1409||nte|1|tibetano:reforma||Orden reformada de Tsongkhapa, a la que pertenecen los dalái lamas.
+jomon|Cultos Jōmon|aso|-14000|-300|ani|2|aso-paleo||Figurillas dogū y círculos de piedra de los cazadores-recolectores del Japón prehistórico.
+shinto|Sintoísmo|aso|-300||pol|4|jomon|china-pop|Vía de los kami, espíritus de la naturaleza y los linajes, venerados en santuarios.
+shugendo|Shugendō|aso|700||sin|1|shinto|shingon|Ascetismo de montaña que mezcla culto a los kami, budismo esotérico y taoísmo.
+tendai|Tendai|aso|806||nte|2|tiantai||Versión japonesa del Tiantai, con sede en el monte Hiei.
+shingon|Shingon|aso|806||nte|2|vajrayana||Budismo esotérico japonés fundado por Kūkai.
+jodo|Jōdo-shū y Jōdo Shinshū|aso|1175||nte|3|tendai|tierra-pura|Escuelas japonesas de la Tierra Pura, de Hōnen y Shinran: confianza total en el buda Amida.
+zen|Zen|aso|1191||nte|3|chan||Forma japonesa del chan, con las escuelas rinzai y sōtō.
+nichiren|Budismo nichiren|aso|1253||nte|2|tendai:reforma||Escuela que proclama la fe exclusiva en el Sutra del Loto.
+soka|Soka Gakkai|aso|1930||nte|1|nichiren||Movimiento laico nichiren, de gran difusión internacional.
+tenrikyo|Tenrikyō|aso|1838||mon|1|shinto||Religión revelada a Nakayama Miki, que invita a una «vida gozosa».
+omoto|Ōmoto|aso|1892||nmr|1|shinto||Nueva religión japonesa de inspiración profética y universalista.
+muismo|Muismo coreano|aso|-1000||cha|2|siberia||Chamanismo de Corea, con sus rituales gut oficiados por mudang.
+seon|Budismo coreano (seon)|aso|800||nte|2|chan||Tradición meditativa de Corea, hoy dominante en la orden Jogye.
+cheondo|Cheondoísmo|aso|1860||pan|1|muismo|neoconfucianismo|Religión coreana nacida del movimiento Donghak: el Cielo reside en cada persona.
+won|Budismo won|aso|1916||nte|1|seon:reforma||Budismo coreano moderno cuyo símbolo es un círculo.
+unificacion|Iglesia de la Unificación|aso|1954||nmr|1|presbiterianismo|muismo|Movimiento del reverendo Moon, conocido por sus bodas multitudinarias.
+# --- SUDESTE ASIÁTICO ---
+austronesia|Religiones austronesias|sea|-3000||ani|4|china-neo|sea-paleo|Creencias de los navegantes salidos de Taiwán: antepasados, espíritus del lugar, mana y tabú.
+anitismo|Anitismo filipino|sea|-1000||ani|2|austronesia||Religiones indígenas de Filipinas, con sus espíritus anito y chamanas babaylan.
+kaharingan|Kaharingan|sea|-500||ani|1|austronesia||Religión de los dayak de Borneo, célebre por sus segundos funerales.
+austroasiatica|Religiones austroasiáticas|sea|-2500||ani|2|sea-paleo||Cultos a espíritus del territorio de los pueblos mon-jemer.
+tai-phi|Culto tai a los espíritus|sea|500||ani|1|austroasiatica|theravada-sea|Veneración de los phi y de los genios tutelares, viva junto al budismo.
+nat|Culto birmano a los nat|sea|1050||ani|1|austroasiatica|theravada-sea|Panteón de treinta y siete espíritus oficializado por los reyes de Pagan.
+hindu-sea|Hinduismo del Sudeste Asiático|sea|100|1500|pol|3|hinduismo||Reinos indianizados como Funan, Champa, Angkor y Majapahit, con templos a Shiva y Vishnu.
+bali|Hinduismo balinés|sea|800||pol|2|hindu-sea|austronesia|Agama Hindu Dharma: hinduismo isleño fundido con culto a antepasados y espíritus locales.
+theravada-sea|Theravada del Sudeste Asiático|sea|1050||nte|4|theravada||Budismo de Birmania, Tailandia, Laos y Camboya, adoptado por los reyes desde el siglo XI.
+thien|Budismo vietnamita (thiền)|sea|580||nte|2|chan||Tradición meditativa de Vietnam.
+dao-mau|Đạo Mẫu|sea|1500||pol|1|austroasiatica|taoismo|Culto vietnamita a las diosas madres, con ceremonias de médiums.
+islam-nusantara|Islam del archipiélago malayo|sea|1300||mon|3|sunismo|sufismo|Islam difundido por mercaderes y maestros sufíes en Sumatra, Java y Malasia.
+kejawen|Kejawèn|sea|1500||sin|1|islam-nusantara|hindu-sea,austronesia|Espiritualidad javanesa que entrelaza animismo, hinduismo-budismo e islam.
+aglipayana|Iglesia Filipina Independiente|sea|1902||mon|1|catolica:cisma||Iglesia nacional surgida de la revolución filipina.
+inc|Iglesia ni Cristo|sea|1914||mon|1|adventismo||Iglesia filipina no trinitaria fundada por Felix Manalo.
+caodai|Caodaísmo|sea|1926||sin|2|dao-mau|budismo-chino,catolica,espiritismo|Religión vietnamita que reúne budismo, taoísmo, confucianismo y cristianismo bajo el Ojo divino.
+hoa-hao|Hòa Hảo|sea|1939||nte|1|thien:reforma||Budismo laico y campesino del delta del Mekong.
+# --- OCEANÍA ---
+lapita|Tradición lapita|oce|-1500|-500|ani|3|austronesia||Cultura de navegantes y alfareros que pobló la Melanesia insular y la Polinesia occidental.
+melanesia|Religiones melanesias|oce|-1500||ani|3|lapita|papua|Tradiciones de espíritus ancestrales, sociedades secretas y poder espiritual o mana.
+micronesia|Religiones micronesias|oce|-1500||ani|2|austronesia||Creencias de los atolones del Pacífico occidental, con navegantes-sacerdotes y culto a los antepasados.
+polinesia|Religiones polinesias|oce|-800||pol|4|lapita||Panteón compartido de Tangaroa, Tāne, Tū y Rongo, con las nociones de mana y tapu.
+hawai|Religión hawaiana|oce|1000||pol|2|polinesia||Sistema del kapu, con los dioses Kū, Kāne, Lono y Kanaloa y sus templos heiau.
+maori|Religión maorí|oce|1300||pol|2|polinesia||Tradición de Aotearoa: Rangi y Papa, los atua y la genealogía sagrada o whakapapa.
+rapanui|Religión rapanui|oce|1200|1870|pol|1|polinesia||Culto a los antepasados de los moái y, más tarde, la ceremonia del hombre-pájaro.
+cargo|Cultos cargo|oce|1885||sin|1|melanesia|metodismo|Movimientos milenaristas melanesios que esperan la llegada de bienes enviados por los antepasados.
+john-frum|Movimiento John Frum|oce|1940||sin|1|cargo||Culto de la isla de Tanna, en Vanuatu, en torno a un salvador de aspecto estadounidense.
+ringatu|Ringatū|oce|1868||sin|1|maori|anglicanismo|Fe maorí fundada por Te Kooti, inspirada en el Antiguo Testamento.
+ratana|Iglesia Rātana|oce|1925||mon|1|maori|metodismo|Movimiento cristiano maorí de sanación, con gran peso político.
+# --- NORTEAMÉRICA ---
+paleoindios|Tradiciones paleoindias|nam|-15000|-8000|cha|4|asn-paleo||Creencias de los primeros pobladores de América, conocidas por sepulturas con ocre como la de Anzick.
+arcaico-nam|Tradiciones arcaicas de Norteamérica|nam|-8000|-1000|cha|3|paleoindios||Cazadores-recolectores que levantaron los primeros montículos, como Watson Brake y Poverty Point.
+hopewell|Tradiciones Adena y Hopewell|nam|-500|500|ant|2|arcaico-nam||Constructores de túmulos y grandes recintos geométricos en el valle del Ohio.
+misisipi|Complejo ceremonial misisipiano|nam|800|1600|pol|2|hopewell|tolteca|Sociedades de grandes montículos-plataforma, como Cahokia, con iconografía solar y de guerreros-ave.
+pueblo-anc|Pueblos ancestrales|nam|500|1300|ani|2|arcaico-nam||Culturas del Chaco y Mesa Verde, con cámaras ceremoniales o kivas.
+pueblo|Religiones pueblo|nam|1300||ani|2|pueblo-anc||Ceremonial de hopis, zuñis y otros pueblos, con danzas de katsinas para pedir la lluvia.
+navajo|Religión diné (navajo)|nam|1400||ani|2|arcaico-nam|pueblo|Ceremonias de canto y pinturas de arena para restaurar la armonía o hózhó.
+costa-nw|Tradiciones de la costa noroeste|nam|-1000||ani|2|arcaico-nam||Pueblos del salmón y el cedro: tótems, sociedades de danzantes y el potlatch.
+inuit|Religión inuit|nam|1000||cha|2|paleoesquimal||Tradición ártica del angakkuq y de Sedna, señora de los animales marinos.
+haudenosaunee|Religión haudenosaunee (iroquesa)|nam|1100||ani|2|arcaico-nam||Ceremonias de agradecimiento, la Gran Ley de la Paz y las sociedades de curación.
+handsome-lake|Código de Handsome Lake|nam|1799||sin|1|haudenosaunee|cuaqueros|Reforma de la Casa Larga predicada por el profeta seneca Handsome Lake.
+llanuras|Religiones de las Grandes Llanuras|nam|1700||ani|2|arcaico-nam||Danza del Sol, búsqueda de visión y pipa sagrada de lakotas, cheyenes y otros pueblos.
+midewiwin|Midewiwin|nam|1600||cha|1|arcaico-nam||Gran Sociedad de Medicina de los ojibwas y pueblos vecinos.
+danza-espiritus|Danza de los Espíritus|nam|1889|1891|sin|1|llanuras|mormonismo|Movimiento profético de Wovoka que anunciaba el regreso de los muertos y del bisonte.
+peyote|Iglesia Nativa Americana|nam|1880||sin|2|llanuras|wixarika,metodismo|Religión intertribal que une el sacramento del peyote con elementos cristianos.
+espiritualismo|Espiritualismo|nam|1848||nmr|2|cuaqueros|swedenborg|Movimiento nacido en Nueva York en torno a la comunicación con los muertos mediante médiums.
+swedenborg|Nueva Iglesia (swedenborgianismo)|eur|1787||mon|1|luteranismo:cisma||Iglesia basada en las visiones del científico sueco Emanuel Swedenborg.
+mormonismo|Mormonismo|nam|1830||mon|3|reformada|masoneria|Movimiento de los Santos de los Últimos Días, fundado por Joseph Smith a partir del Libro de Mormón.
+adventismo|Adventismo|nam|1844||mon|2|bautistas||Movimiento que espera el inminente regreso de Cristo; su rama mayor guarda el sábado.
+testigos|Testigos de Jehová|nam|1879||mon|2|adventismo||Movimiento no trinitario iniciado por Charles Taze Russell, conocido por su predicación puerta a puerta.
+ciencia-cristiana|Ciencia Cristiana|nam|1879||mon|1|reformada|nuevo-pensamiento|Iglesia de Mary Baker Eddy, que entiende la curación como realidad espiritual.
+nuevo-pensamiento|Nuevo Pensamiento|nam|1860||nmr|1|swedenborg|espiritualismo|Corriente de sanación mental y pensamiento positivo.
+teosofia|Teosofía|nam|1875||eso|2|espiritualismo|advaita,budismo,hermetismo|Sociedad fundada por Helena Blavatsky que buscó una sabiduría común a todas las religiones.
+pentecostalismo|Pentecostalismo|nam|1901||mon|4|metodismo||Avivamiento del bautismo en el Espíritu Santo, las lenguas y la sanación; el cristianismo de mayor crecimiento.
+carismatico|Movimiento carismático|nam|1960||mon|2|pentecostalismo|catolica,anglicanismo|Renovación de tipo pentecostal dentro de las iglesias históricas.
+nacion-islam|Nación del Islam|nam|1930||mon|1|sunismo:cisma||Movimiento afroamericano de afirmación negra fundado en Detroit.
+judaismo-reconst|Judaísmo reconstruccionista|nam|1922||mon|1|judaismo-conservador:cisma||Corriente que entiende el judaísmo como civilización religiosa en evolución.
+cienciologia|Cienciología|nam|1954||nmr|1|nuevo-pensamiento||Movimiento de L. Ron Hubbard, desarrollado a partir de la dianética.
+new-age|Nueva Era|nam|1970||nmr|2|teosofia|nuevo-pensamiento,advaita|Red difusa de espiritualidades alternativas: holismo, energías, canalización y crecimiento personal.
+kemetismo|Kemetismo|nam|1988||neo|1|egipto:renacimiento||Reconstrucción moderna de la religión del antiguo Egipto.
+raelismo|Movimiento raeliano|eur|1974||nmr|1|new-age||Religión ovni que atribuye la creación de la humanidad a extraterrestres.
+# --- MESOAMÉRICA Y CARIBE ---
+arcaico-mes|Tradiciones arcaicas de Mesoamérica|mes|-8000|-2000|cha|3|paleoindios||Primeros cultivadores del maíz, con ritos domésticos y culto a los muertos.
+olmeca|Religión olmeca|mes|-1500|-400|pol|3|arcaico-mes||Primera gran tradición ceremonial de Mesoamérica: cabezas colosales, el jaguar y el dios del maíz.
+zapoteca|Religión zapoteca|mes|-500|1521|pol|2|olmeca||Religión de Monte Albán, con el dios de la lluvia Cocijo y culto a los antepasados nobles.
+maya|Religión maya|mes|-1000||pol|4|olmeca||Ciudades-templo, calendario sagrado, sacrificio de sangre y mitos como los del Popol Vuh; pervive en comunidades actuales.
+teotihuacan|Religión de Teotihuacan|mes|-100|600|pol|3|olmeca||Culto de la gran metrópoli del altiplano: la Serpiente Emplumada, el dios de las tormentas y una gran diosa.
+tolteca|Religión tolteca|mes|900|1168|pol|2|teotihuacan||Religión de Tula, difusora del culto a Quetzalcóatl.
+mexica|Religión mexica|mes|1325|1521|pol|4|tolteca||Religión de Tenochtitlan: Huitzilopochtli, Tláloc y el sacrificio que sostiene al sol.
+wixarika|Religión wixárika (huichol)|mes|200||ani|1|arcaico-mes||Tradición de la peregrinación a Wirikuta y del peyote, el venado y el maíz.
+taino|Religión taína|mes|600|1550|ani|2|arawak||Religión de las Antillas: los cemíes, la ceremonia de la cohoba y el juego de pelota.
+maya-catolica|Catolicismo indígena mesoamericano|mes|1524||sin|2|maya|catolica,mexica|Fusión de santos católicos, cerros sagrados y calendario ritual prehispánico.
+vudu|Vudú haitiano|mes|1700||sin|3|vodun|catolica,taino|Religión nacida en Saint-Domingue de tradiciones fon, kongo y yoruba bajo formas católicas.
+santeria|Santería (Regla de Ocha)|mes|1800||sin|3|yoruba|catolica,espiritismo|Religión afrocubana de los orishas, identificados con santos católicos.
+palo|Palo Monte|mes|1800||sin|1|bantu|catolica|Tradición afrocubana de raíz kongo, centrada en los espíritus de los muertos.
+obeah|Obeah|mes|1700||sin|1|akan||Prácticas espirituales y curativas del Caribe anglófono.
+rastafari|Rastafari|mes|1930||mon|2|etiope|bautistas|Movimiento jamaicano que ve en Haile Selassie al Mesías y en África la tierra prometida.
+luz-mundo|La Luz del Mundo|mes|1926||mon|1|pentecostalismo:cisma||Iglesia no trinitaria fundada en Guadalajara, México.
+santa-muerte|Culto a la Santa Muerte|mes|1960||sin|1|maya-catolica||Devoción popular mexicana a la muerte personificada como santa.
+# --- SUDAMÉRICA ---
+arcaico-and|Tradiciones arcaicas andinas|sam|-9000|-3000|cha|3|paleoindios||Primeros cazadores y pescadores de los Andes; los chinchorro momificaron a sus muertos antes que Egipto.
+amazonia|Chamanismo amazónico|sam|-8000||cha|3|paleoindios||Tradiciones de la selva: chamanes, plantas visionarias y un mundo donde animales y espíritus son personas.
+arawak|Religiones arahuacas|sam|-1500||ani|2|amazonia||Creencias de los pueblos arahuacos, extendidos del Amazonas al Caribe.
+tupi-guarani|Religión tupí-guaraní|sam|-500||cha|2|amazonia||Tradición de los cantos sagrados y la búsqueda de la Tierra sin Mal.
+caral|Religión de Caral|sam|-3000|-1800|rit|2|arcaico-and||Primera civilización de América: pirámides y plazas circulares hundidas en la costa peruana.
+chavin|Culto de Chavín|sam|-900|-200|pol|3|caral|amazonia|Centro de peregrinación andino con deidades de rasgos de jaguar, águila y serpiente.
+nazca|Religión nazca|sam|-100|800|pol|1|chavin||Cultura de los geoglifos del desierto, ligados al agua y la fertilidad.
+moche|Religión moche|sam|100|800|pol|2|chavin||Religión de la costa norte peruana, con ceremonias de sacrificio representadas en su cerámica.
+tiwanaku|Religión de Tiwanaku y Wari|sam|500|1000|pol|3|chavin||Culto del altiplano al Dios de los Báculos, extendido por dos grandes estados.
+muisca|Religión muisca|sam|600|1540|pol|1|arcaico-and||Culto al sol y a las lagunas de los Andes colombianos, origen de la leyenda de El Dorado.
+mapuche|Religión mapuche|sam|600||cha|2|arcaico-and||Tradición del sur andino: la machi, el nguillatún y el equilibrio entre fuerzas opuestas.
+inca|Religión inca|sam|1200|1572|pol|4|tiwanaku||Religión imperial del Sol, con Viracocha, la Pachamama, las huacas y las momias de los soberanos.
+andina|Religión andina contemporánea|sam|1572||sin|3|inca|catolica|Culto vivo a la Pachamama y a los apus, entrelazado con el santoral católico.
+candomble|Candomblé|sam|1830||sin|3|yoruba|bantu,catolica|Religión afrobrasileña de los orixás, nacida en Bahía.
+umbanda|Umbanda|sam|1908||sin|2|candomble|espiritismo,catolica|Religión brasileña que combina tradición africana, espiritismo y catolicismo.
+maria-lionza|Culto de María Lionza|sam|1900||sin|1|arawak|catolica,espiritismo|Devoción venezolana a una diosa indígena y sus cortes de espíritus.
+santo-daime|Santo Daime|sam|1930||sin|1|amazonia|catolica,espiritismo|Religión amazónica brasileña que emplea la ayahuasca como sacramento.
+iurd|Iglesia Universal del Reino de Dios|sam|1977||mon|1|pentecostalismo||Iglesia neopentecostal brasileña de alcance mundial.

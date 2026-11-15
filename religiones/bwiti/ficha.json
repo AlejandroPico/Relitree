@@ -1,0 +1,21 @@
+{
+  "id": "bwiti",
+  "nombre": "Bwiti",
+  "alias": [],
+  "region": "afr",
+  "inicio": 1890,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "bantu",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "catolica"
+  ],
+  "resumen": "Religión iniciática de Gabón que combina culto a los antepasados, cristianismo y el uso ritual de la iboga.",
+  "icono": null
+}

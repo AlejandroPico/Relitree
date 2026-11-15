@@ -1,0 +1,19 @@
+{
+  "id": "eslava",
+  "nombre": "Religión eslava",
+  "alias": [],
+  "region": "eur",
+  "inicio": 500,
+  "fin": 1200,
+  "tipo": "pol",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "pie",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Paganismo de los pueblos eslavos, con Perún como dios del trueno y un rico mundo de espíritus domésticos.",
+  "icono": null
+}

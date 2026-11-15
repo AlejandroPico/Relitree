@@ -1,0 +1,19 @@
+{
+  "id": "gaudiya",
+  "nombre": "Vaishnavismo gaudiya",
+  "alias": [],
+  "region": "asm",
+  "inicio": 1510,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "bhakti",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Devoción extática a Krishna y Radha difundida por Chaitanya en Bengala.",
+  "icono": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "lingayat",
+  "nombre": "Lingayatismo",
+  "alias": [],
+  "region": "asm",
+  "inicio": 1150,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "shivaismo",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Movimiento de Basava, devoto de Shiva, que rechazó castas y rituales de templo.",
+  "icono": null
+}

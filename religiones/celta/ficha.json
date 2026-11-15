@@ -1,0 +1,19 @@
+{
+  "id": "celta",
+  "nombre": "Religión celta",
+  "alias": [],
+  "region": "eur",
+  "inicio": -800,
+  "fin": 500,
+  "tipo": "pol",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "pie",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Religión de galos, britanos e irlandeses: druidas, arboledas sagradas, dioses tribales y fiestas estacionales.",
+  "icono": null
+}

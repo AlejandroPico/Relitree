@@ -1,0 +1,19 @@
+{
+  "id": "judaismo-conservador",
+  "nombre": "Judaísmo conservador",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1886,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "judaismo-reformista",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Vía intermedia que conserva la tradición admitiendo su evolución histórica.",
+  "icono": null
+}

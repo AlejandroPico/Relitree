@@ -1,0 +1,19 @@
+{
+  "id": "zaidismo",
+  "nombre": "Zaidismo",
+  "alias": [],
+  "region": "opr",
+  "inicio": 740,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "chiismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Rama chií del Yemen, la más próxima al sunismo.",
+  "icono": null
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mitraismo",
+  "nombre": "Misterios de Mitra",
+  "alias": [],
+  "region": "eur",
+  "inicio": 80,
+  "fin": 400,
+  "tipo": "mis",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "romana",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "irania"
+  ],
+  "resumen": "Culto iniciático de soldados y funcionarios romanos, celebrado en cuevas en torno al dios que sacrifica al toro.",
+  "icono": null
+}

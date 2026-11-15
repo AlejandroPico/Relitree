@@ -1,0 +1,21 @@
+{
+  "id": "espiritualismo",
+  "nombre": "Espiritualismo",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1848,
+  "fin": null,
+  "tipo": "nmr",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "cuaqueros",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "swedenborg"
+  ],
+  "resumen": "Movimiento nacido en Nueva York en torno a la comunicación con los muertos mediante médiums.",
+  "icono": null
+}

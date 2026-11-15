@@ -1,0 +1,26 @@
+{
+  "id": "cabala",
+  "nombre": "Cábala",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1180,
+  "fin": null,
+  "tipo": "eso",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "rabinico",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "neoplatonismo"
+  ],
+  "resumen": "Mística judía medieval de Provenza y España, con el Zohar y la doctrina de las sefirot.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Tree_of_life_bahir_Hebrew.svg",
+    "licencia": "Public domain",
+    "autor": "User:AnonMoos"
+  }
+}

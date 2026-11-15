@@ -1,0 +1,19 @@
+{
+  "id": "tijaniyya",
+  "nombre": "Tijaniyya",
+  "alias": [],
+  "region": "afr",
+  "inicio": 1784,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "sufismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Orden sufí nacida en el Magreb y extendida por toda África occidental.",
+  "icono": null
+}

@@ -1,0 +1,21 @@
+{
+  "id": "tai-phi",
+  "nombre": "Culto tai a los espíritus",
+  "alias": [],
+  "region": "sea",
+  "inicio": 500,
+  "fin": null,
+  "tipo": "ani",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "austroasiatica",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "theravada-sea"
+  ],
+  "resumen": "Veneración de los phi y de los genios tutelares, viva junto al budismo.",
+  "icono": null
+}

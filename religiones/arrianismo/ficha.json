@@ -1,0 +1,19 @@
+{
+  "id": "arrianismo",
+  "nombre": "Arrianismo",
+  "alias": [],
+  "region": "eur",
+  "inicio": 318,
+  "fin": 700,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "cristianismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Doctrina que subordinaba el Hijo al Padre; condenada en Nicea, perduró entre godos, vándalos y lombardos.",
+  "icono": null
+}

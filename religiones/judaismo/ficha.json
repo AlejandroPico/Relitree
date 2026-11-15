@@ -1,0 +1,27 @@
+{
+  "id": "judaismo",
+  "nombre": "Judaísmo del Segundo Templo",
+  "alias": [],
+  "region": "opr",
+  "inicio": -516,
+  "fin": 70,
+  "tipo": "mon",
+  "importancia": 5,
+  "padres": [
+    {
+      "id": "yahvismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "zoroastrismo",
+    "griega"
+  ],
+  "resumen": "Tras el exilio, religión monoteísta de la Torá y el Templo de Jerusalén, con fariseos, saduceos y esenios.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Menorah.svg",
+    "licencia": "Public domain",
+    "autor": "Frater5"
+  }
+}

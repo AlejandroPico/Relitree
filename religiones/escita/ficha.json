@@ -1,0 +1,19 @@
+{
+  "id": "escita",
+  "nombre": "Religión escita",
+  "alias": [],
+  "region": "asn",
+  "inicio": -800,
+  "fin": 300,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "indo-irania",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Cultos de los jinetes nómadas de la estepa, con enterramientos principescos en kurganes.",
+  "icono": null
+}

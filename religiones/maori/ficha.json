@@ -1,0 +1,19 @@
+{
+  "id": "maori",
+  "nombre": "Religión maorí",
+  "alias": [],
+  "region": "oce",
+  "inicio": 1300,
+  "fin": null,
+  "tipo": "pol",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "polinesia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Tradición de Aotearoa: Rangi y Papa, los atua y la genealogía sagrada o whakapapa.",
+  "icono": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aso-paleo",
+  "nombre": "Ritos prehistóricos de Asia oriental",
+  "alias": [],
+  "region": "aso",
+  "inicio": -35000,
+  "fin": -7000,
+  "tipo": "rit",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "sasia-pre",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Sepulturas con ocre y adornos como las de la Cueva Superior de Zhoukoudian, primeros indicios rituales del Extremo Oriente.",
+  "icono": null
+}

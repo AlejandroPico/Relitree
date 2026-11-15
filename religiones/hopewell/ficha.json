@@ -1,0 +1,19 @@
+{
+  "id": "hopewell",
+  "nombre": "Tradiciones Adena y Hopewell",
+  "alias": [],
+  "region": "nam",
+  "inicio": -500,
+  "fin": 500,
+  "tipo": "ant",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "arcaico-nam",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Constructores de túmulos y grandes recintos geométricos en el valle del Ohio.",
+  "icono": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "menonitas",
+  "nombre": "Menonitas",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1536,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "anabaptismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Anabaptistas pacifistas seguidores de Menno Simons.",
+  "icono": null
+}

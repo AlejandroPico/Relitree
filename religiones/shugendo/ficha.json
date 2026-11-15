@@ -1,0 +1,21 @@
+{
+  "id": "shugendo",
+  "nombre": "Shugendō",
+  "alias": [],
+  "region": "aso",
+  "inicio": 700,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "shinto",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "shingon"
+  ],
+  "resumen": "Ascetismo de montaña que mezcla culto a los kami, budismo esotérico y taoísmo.",
+  "icono": null
+}

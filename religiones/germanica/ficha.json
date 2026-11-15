@@ -1,0 +1,19 @@
+{
+  "id": "germanica",
+  "nombre": "Religión germánica",
+  "alias": [],
+  "region": "eur",
+  "inicio": -500,
+  "fin": 800,
+  "tipo": "pol",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "pie",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Cultos de los pueblos germánicos continentales a dioses como Wodan, Donar y Tiwaz.",
+  "icono": null
+}

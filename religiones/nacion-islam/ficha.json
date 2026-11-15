@@ -1,0 +1,19 @@
+{
+  "id": "nacion-islam",
+  "nombre": "Nación del Islam",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1930,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "sunismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Movimiento afroamericano de afirmación negra fundado en Detroit.",
+  "icono": null
+}

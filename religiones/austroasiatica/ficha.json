@@ -1,0 +1,19 @@
+{
+  "id": "austroasiatica",
+  "nombre": "Religiones austroasiáticas",
+  "alias": [],
+  "region": "sea",
+  "inicio": -2500,
+  "fin": null,
+  "tipo": "ani",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "sea-paleo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Cultos a espíritus del territorio de los pueblos mon-jemer.",
+  "icono": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "taino",
+  "nombre": "Religión taína",
+  "alias": [],
+  "region": "mes",
+  "inicio": 600,
+  "fin": 1550,
+  "tipo": "ani",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "arawak",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Religión de las Antillas: los cemíes, la ceremonia de la cohoba y el juego de pelota.",
+  "icono": null
+}

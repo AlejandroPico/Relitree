@@ -1,0 +1,19 @@
+{
+  "id": "fenicia",
+  "nombre": "Religión fenicia",
+  "alias": [],
+  "region": "opr",
+  "inicio": -1500,
+  "fin": -300,
+  "tipo": "pol",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "cananea",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Cultos de Tiro, Sidón y Biblos a Melqart, Astarté y Eshmún, llevados por mar a todo el Mediterráneo.",
+  "icono": null
+}

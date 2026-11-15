@@ -1,0 +1,21 @@
+{
+  "id": "cargo",
+  "nombre": "Cultos cargo",
+  "alias": [],
+  "region": "oce",
+  "inicio": 1885,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "melanesia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "metodismo"
+  ],
+  "resumen": "Movimientos milenaristas melanesios que esperan la llegada de bienes enviados por los antepasados.",
+  "icono": null
+}

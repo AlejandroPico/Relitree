@@ -1,0 +1,19 @@
+{
+  "id": "tengri",
+  "nombre": "Tengrismo",
+  "alias": [],
+  "region": "asn",
+  "inicio": -400,
+  "fin": null,
+  "tipo": "cha",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "siberia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Religión de los pueblos turcos y mongoles: el Cielo Eterno, la madre tierra y los chamanes.",
+  "icono": null
+}

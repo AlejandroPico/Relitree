@@ -1,0 +1,21 @@
+{
+  "id": "rosacruz",
+  "nombre": "Rosacrucismo",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1614,
+  "fin": null,
+  "tipo": "eso",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "hermetismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "cabala"
+  ],
+  "resumen": "Corriente esotérica nacida de unos manifiestos alemanes que anunciaban una fraternidad secreta de sabios.",
+  "icono": null
+}

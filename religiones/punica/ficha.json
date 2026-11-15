@@ -1,0 +1,19 @@
+{
+  "id": "punica",
+  "nombre": "Religión púnica",
+  "alias": [],
+  "region": "afr",
+  "inicio": -800,
+  "fin": -146,
+  "tipo": "pol",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "fenicia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Religión de Cartago, heredera de la fenicia, presidida por Baal Hammón y Tanit.",
+  "icono": null
+}

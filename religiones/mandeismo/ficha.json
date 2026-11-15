@@ -1,0 +1,21 @@
+{
+  "id": "mandeismo",
+  "nombre": "Mandeísmo",
+  "alias": [],
+  "region": "opr",
+  "inicio": 100,
+  "fin": null,
+  "tipo": "dua",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "judaismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "gnosticismo"
+  ],
+  "resumen": "Religión gnóstica de Mesopotamia que venera a Juan el Bautista y practica bautismos repetidos en agua corriente.",
+  "icono": null
+}

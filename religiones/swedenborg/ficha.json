@@ -1,0 +1,19 @@
+{
+  "id": "swedenborg",
+  "nombre": "Nueva Iglesia (swedenborgianismo)",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1787,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "luteranismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Iglesia basada en las visiones del científico sueco Emanuel Swedenborg.",
+  "icono": null
+}

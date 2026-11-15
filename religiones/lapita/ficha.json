@@ -1,0 +1,19 @@
+{
+  "id": "lapita",
+  "nombre": "Tradición lapita",
+  "alias": [],
+  "region": "oce",
+  "inicio": -1500,
+  "fin": -500,
+  "tipo": "ani",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "austronesia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Cultura de navegantes y alfareros que pobló la Melanesia insular y la Polinesia occidental.",
+  "icono": null
+}

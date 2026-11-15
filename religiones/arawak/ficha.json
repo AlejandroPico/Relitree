@@ -1,0 +1,19 @@
+{
+  "id": "arawak",
+  "nombre": "Religiones arahuacas",
+  "alias": [],
+  "region": "sam",
+  "inicio": -1500,
+  "fin": null,
+  "tipo": "ani",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "amazonia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Creencias de los pueblos arahuacos, extendidos del Amazonas al Caribe.",
+  "icono": null
+}

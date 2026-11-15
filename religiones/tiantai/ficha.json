@@ -1,0 +1,19 @@
+{
+  "id": "tiantai",
+  "nombre": "Tiantai",
+  "alias": [],
+  "region": "aso",
+  "inicio": 575,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "budismo-chino",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Escuela del Sutra del Loto, que ordenó todas las enseñanzas budistas en un sistema.",
+  "icono": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sami",
+  "nombre": "Religión sami",
+  "alias": [],
+  "region": "eur",
+  "inicio": -1000,
+  "fin": null,
+  "tipo": "cha",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "uralica",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Tradición de Laponia con sus chamanes noaidi, tambores rituales y lugares sagrados sieidi.",
+  "icono": null
+}

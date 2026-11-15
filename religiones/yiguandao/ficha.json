@@ -1,0 +1,19 @@
+{
+  "id": "yiguandao",
+  "nombre": "Yiguandao",
+  "alias": [],
+  "region": "aso",
+  "inicio": 1877,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "loto-blanco",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Religión salvacionista que venera a la Madre Eterna y une las cinco enseñanzas.",
+  "icono": null
+}

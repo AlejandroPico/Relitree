@@ -1,0 +1,19 @@
+{
+  "id": "thelema",
+  "nombre": "Thelema",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1904,
+  "fin": null,
+  "tipo": "eso",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "golden-dawn",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Sistema de Aleister Crowley cuyo eje es descubrir y cumplir la verdadera voluntad.",
+  "icono": null
+}

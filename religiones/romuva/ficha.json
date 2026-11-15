@@ -1,0 +1,19 @@
+{
+  "id": "romuva",
+  "nombre": "Romuva",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1967,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "baltica",
+      "relacion": "renacimiento"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Movimiento lituano que retoma la religión báltica a partir del folclore.",
+  "icono": null
+}

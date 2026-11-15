@@ -1,0 +1,24 @@
+{
+  "id": "catolica",
+  "nombre": "Iglesia católica",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1054,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 5,
+  "padres": [
+    {
+      "id": "cristianismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Iglesia en comunión con el obispo de Roma; la mayor confesión cristiana, con veintiún concilios ecuménicos reconocidos.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Emblem_of_the_Papacy_SE.svg",
+    "licencia": "Public domain",
+    "autor": "Cronholm144 created this image using a file by Hautala - Emblem of the Holy See (6).svg, who had created his file using "
+  }
+}

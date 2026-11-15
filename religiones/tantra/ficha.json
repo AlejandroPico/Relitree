@@ -1,0 +1,21 @@
+{
+  "id": "tantra",
+  "nombre": "Tantrismo",
+  "alias": [],
+  "region": "asm",
+  "inicio": 500,
+  "fin": null,
+  "tipo": "eso",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "shivaismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "shaktismo"
+  ],
+  "resumen": "Corrientes rituales y esotéricas que emplean mantras, diagramas y el cuerpo como vía de liberación.",
+  "icono": null
+}

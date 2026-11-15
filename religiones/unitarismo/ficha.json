@@ -1,0 +1,24 @@
+{
+  "id": "unitarismo",
+  "nombre": "Unitarismo",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1565,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "reformada",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Cristianismo que rechaza la Trinidad, nacido en Polonia y Transilvania.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Flaming_Chalice.svg",
+    "licencia": "Public domain",
+    "autor": "United States Department of Veterans Affairs"
+  }
+}

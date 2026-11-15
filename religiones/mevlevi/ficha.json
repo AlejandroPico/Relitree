@@ -1,0 +1,19 @@
+{
+  "id": "mevlevi",
+  "nombre": "Orden mevleví",
+  "alias": [],
+  "region": "opr",
+  "inicio": 1273,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "sufismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Cofradía de los derviches giradores, fundada por los seguidores de Rumi.",
+  "icono": null
+}

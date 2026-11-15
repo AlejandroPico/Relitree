@@ -1,0 +1,19 @@
+{
+  "id": "luz-mundo",
+  "nombre": "La Luz del Mundo",
+  "alias": [],
+  "region": "mes",
+  "inicio": 1926,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "pentecostalismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Iglesia no trinitaria fundada en Guadalajara, México.",
+  "icono": null
+}

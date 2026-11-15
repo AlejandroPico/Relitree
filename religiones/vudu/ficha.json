@@ -1,0 +1,22 @@
+{
+  "id": "vudu",
+  "nombre": "Vudú haitiano",
+  "alias": [],
+  "region": "mes",
+  "inicio": 1700,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "vodun",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "catolica",
+    "taino"
+  ],
+  "resumen": "Religión nacida en Saint-Domingue de tradiciones fon, kongo y yoruba bajo formas católicas.",
+  "icono": null
+}

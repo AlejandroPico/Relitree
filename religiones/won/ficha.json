@@ -1,0 +1,19 @@
+{
+  "id": "won",
+  "nombre": "Budismo won",
+  "alias": [],
+  "region": "aso",
+  "inicio": 1916,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "seon",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Budismo coreano moderno cuyo símbolo es un círculo.",
+  "icono": null
+}

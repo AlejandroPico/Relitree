@@ -1,0 +1,19 @@
+{
+  "id": "mohismo",
+  "nombre": "Mohismo",
+  "alias": [],
+  "region": "aso",
+  "inicio": -450,
+  "fin": -200,
+  "tipo": "fil",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "zhou",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Escuela de Mozi que predicaba el amor universal y la voluntad del Cielo.",
+  "icono": null
+}

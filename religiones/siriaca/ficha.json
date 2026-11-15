@@ -1,0 +1,19 @@
+{
+  "id": "siriaca",
+  "nombre": "Iglesia ortodoxa siríaca",
+  "alias": [],
+  "region": "opr",
+  "inicio": 451,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "miafisismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Iglesia de tradición antioquena y lengua siríaca.",
+  "icono": null
+}

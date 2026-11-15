@@ -1,0 +1,21 @@
+{
+  "id": "burjanismo",
+  "nombre": "Burjanismo",
+  "alias": [],
+  "region": "asn",
+  "inicio": 1904,
+  "fin": 1930,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "tengri",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "tibetano"
+  ],
+  "resumen": "Movimiento mesiánico del Altái que anunciaba el regreso del Kan Blanco.",
+  "icono": null
+}

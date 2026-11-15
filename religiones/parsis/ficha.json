@@ -1,0 +1,19 @@
+{
+  "id": "parsis",
+  "nombre": "Zoroastrismo parsi",
+  "alias": [],
+  "region": "asm",
+  "inicio": 720,
+  "fin": null,
+  "tipo": "dua",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "zoroastrismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Comunidad zoroástrica refugiada en la India tras la conquista islámica de Persia.",
+  "icono": null
+}

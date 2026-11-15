@@ -1,0 +1,22 @@
+{
+  "id": "romana",
+  "nombre": "Religión romana",
+  "alias": [],
+  "region": "eur",
+  "inicio": -753,
+  "fin": 392,
+  "tipo": "pol",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "pie",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "etrusca",
+    "griega"
+  ],
+  "resumen": "Culto público de Roma: observancia escrupulosa de los ritos, dioses del Estado y del hogar, y más tarde culto imperial.",
+  "icono": null
+}

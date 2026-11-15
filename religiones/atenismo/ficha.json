@@ -1,0 +1,19 @@
+{
+  "id": "atenismo",
+  "nombre": "Atonismo",
+  "alias": [],
+  "region": "afr",
+  "inicio": -1350,
+  "fin": -1335,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "egipto",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Reforma de Akenatón que impuso el culto exclusivo al disco solar Atón; fue abolida tras su muerte.",
+  "icono": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "miafisismo",
+  "nombre": "Iglesias ortodoxas orientales",
+  "alias": [],
+  "region": "opr",
+  "inicio": 451,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "cristianismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Iglesias que rechazaron el concilio de Calcedonia: copta, siríaca, armenia y etíope.",
+  "icono": null
+}

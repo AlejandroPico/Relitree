@@ -1,0 +1,19 @@
+{
+  "id": "caraismo",
+  "nombre": "Caraísmo",
+  "alias": [],
+  "region": "opr",
+  "inicio": 760,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "rabinico",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Corriente judía que rechaza la ley oral y se atiene solo a la Biblia hebrea.",
+  "icono": null
+}

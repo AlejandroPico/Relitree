@@ -1,0 +1,19 @@
+{
+  "id": "ibadismo",
+  "nombre": "Ibadismo",
+  "alias": [],
+  "region": "opr",
+  "inicio": 700,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "jariyismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Heredero moderado del jariyismo, mayoritario en Omán.",
+  "icono": null
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kejawen",
+  "nombre": "Kejawèn",
+  "alias": [],
+  "region": "sea",
+  "inicio": 1500,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "islam-nusantara",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "hindu-sea",
+    "austronesia"
+  ],
+  "resumen": "Espiritualidad javanesa que entrelaza animismo, hinduismo-budismo e islam.",
+  "icono": null
+}

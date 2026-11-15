@@ -1,0 +1,19 @@
+{
+  "id": "iurd",
+  "nombre": "Iglesia Universal del Reino de Dios",
+  "alias": [],
+  "region": "sam",
+  "inicio": 1977,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "pentecostalismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Iglesia neopentecostal brasileña de alcance mundial.",
+  "icono": null
+}

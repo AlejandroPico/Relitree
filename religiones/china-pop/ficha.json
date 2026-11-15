@@ -1,0 +1,28 @@
+{
+  "id": "china-pop",
+  "nombre": "Religión tradicional china",
+  "alias": [],
+  "region": "aso",
+  "inicio": -200,
+  "fin": null,
+  "tipo": "pol",
+  "importancia": 4,
+  "padres": [
+    {
+      "id": "zhou",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "taoismo",
+    "confucianismo",
+    "budismo-chino"
+  ],
+  "resumen": "Culto a los antepasados, a deidades locales y a los espíritus, tejido con elementos de las tres enseñanzas.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:%E7%A6%84_l%C3%B9_or_%E5%AD%90_zi_symbol---black.svg",
+    "licencia": "Public domain",
+    "autor": "Aethelwolf Emsworth."
+  }
+}

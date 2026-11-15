@@ -1,0 +1,19 @@
+{
+  "id": "masoneria",
+  "nombre": "Masonería",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1717,
+  "fin": null,
+  "tipo": "eso",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "rosacruz",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Fraternidad iniciática de simbolismo constructor; no es una religión, pero influyó en muchos movimientos esotéricos.",
+  "icono": null
+}

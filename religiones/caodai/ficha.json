@@ -1,0 +1,23 @@
+{
+  "id": "caodai",
+  "nombre": "Caodaísmo",
+  "alias": [],
+  "region": "sea",
+  "inicio": 1926,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "dao-mau",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "budismo-chino",
+    "catolica",
+    "espiritismo"
+  ],
+  "resumen": "Religión vietnamita que reúne budismo, taoísmo, confucianismo y cristianismo bajo el Ojo divino.",
+  "icono": null
+}

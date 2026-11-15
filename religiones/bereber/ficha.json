@@ -1,0 +1,22 @@
+{
+  "id": "bereber",
+  "nombre": "Religión bereber antigua",
+  "alias": [],
+  "region": "afr",
+  "inicio": -3000,
+  "fin": 700,
+  "tipo": "pol",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "afr-msa",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "egipto",
+    "punica"
+  ],
+  "resumen": "Cultos del norte de África a los astros, las rocas y los muertos, con santuarios funerarios y divinidades compartidas con Egipto y Cartago.",
+  "icono": null
+}

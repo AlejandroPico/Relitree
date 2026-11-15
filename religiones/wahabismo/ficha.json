@@ -1,0 +1,19 @@
+{
+  "id": "wahabismo",
+  "nombre": "Wahabismo",
+  "alias": [],
+  "region": "opr",
+  "inicio": 1744,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "sunismo",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Reforma puritana de Arabia que rechaza toda práctica considerada innovación.",
+  "icono": null
+}

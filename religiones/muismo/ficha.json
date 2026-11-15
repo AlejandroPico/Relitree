@@ -1,0 +1,19 @@
+{
+  "id": "muismo",
+  "nombre": "Muismo coreano",
+  "alias": [],
+  "region": "aso",
+  "inicio": -1000,
+  "fin": null,
+  "tipo": "cha",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "siberia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Chamanismo de Corea, con sus rituales gut oficiados por mudang.",
+  "icono": null
+}

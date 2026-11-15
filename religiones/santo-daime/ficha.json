@@ -1,0 +1,22 @@
+{
+  "id": "santo-daime",
+  "nombre": "Santo Daime",
+  "alias": [],
+  "region": "sam",
+  "inicio": 1930,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "amazonia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "catolica",
+    "espiritismo"
+  ],
+  "resumen": "Religión amazónica brasileña que emplea la ayahuasca como sacramento.",
+  "icono": null
+}

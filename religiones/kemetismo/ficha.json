@@ -1,0 +1,19 @@
+{
+  "id": "kemetismo",
+  "nombre": "Kemetismo",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1988,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "egipto",
+      "relacion": "renacimiento"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Reconstrucción moderna de la religión del antiguo Egipto.",
+  "icono": null
+}

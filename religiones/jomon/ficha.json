@@ -1,0 +1,19 @@
+{
+  "id": "jomon",
+  "nombre": "Cultos Jōmon",
+  "alias": [],
+  "region": "aso",
+  "inicio": -14000,
+  "fin": -300,
+  "tipo": "ani",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "aso-paleo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Figurillas dogū y círculos de piedra de los cazadores-recolectores del Japón prehistórico.",
+  "icono": null
+}

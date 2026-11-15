@@ -1,0 +1,26 @@
+{
+  "id": "tibetano",
+  "nombre": "Budismo tibetano",
+  "alias": [],
+  "region": "aso",
+  "inicio": 775,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "vajrayana",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "bon"
+  ],
+  "resumen": "Budismo de monasterios, lamas reencarnados y enseñanzas tántricas.",
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:EndlessKnot3d.svg",
+    "licencia": "Public domain",
+    "autor": "EndlessKnot03d.png: en:User:Rickjpelleg, first uploaded to en.wikipedia on 20:13, 28 October 2005\nderivative work: Svgal"
+  }
+}

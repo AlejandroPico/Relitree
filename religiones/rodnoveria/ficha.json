@@ -1,0 +1,19 @@
+{
+  "id": "rodnoveria",
+  "nombre": "Rodnoveria",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1978,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "eslava",
+      "relacion": "renacimiento"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Fe nativa eslava reconstruida en Rusia, Ucrania y Polonia.",
+  "icono": null
+}

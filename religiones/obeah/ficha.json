@@ -1,0 +1,19 @@
+{
+  "id": "obeah",
+  "nombre": "Obeah",
+  "alias": [],
+  "region": "mes",
+  "inicio": 1700,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "akan",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Prácticas espirituales y curativas del Caribe anglófono.",
+  "icono": null
+}

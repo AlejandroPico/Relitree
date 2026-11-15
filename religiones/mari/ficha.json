@@ -1,0 +1,19 @@
+{
+  "id": "mari",
+  "nombre": "Religión tradicional mari",
+  "alias": [],
+  "region": "eur",
+  "inicio": 500,
+  "fin": null,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "uralica",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Fe del pueblo mari del Volga, que sigue celebrando sacrificios en bosques sagrados.",
+  "icono": null
+}

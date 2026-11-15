@@ -1,0 +1,19 @@
+{
+  "id": "maestros-cel",
+  "nombre": "Camino de los Maestros Celestiales",
+  "alias": [],
+  "region": "aso",
+  "inicio": 142,
+  "fin": null,
+  "tipo": "pol",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "taoismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Primera iglesia taoísta organizada, fundada por Zhang Daoling.",
+  "icono": null
+}

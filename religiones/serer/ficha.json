@@ -1,0 +1,19 @@
+{
+  "id": "serer",
+  "nombre": "Religión serer",
+  "alias": [],
+  "region": "afr",
+  "inicio": 1000,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "afr-oeste",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Tradición senegambiana en torno a la divinidad Roog y los pangool, espíritus ancestrales.",
+  "icono": null
+}

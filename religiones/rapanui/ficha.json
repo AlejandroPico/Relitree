@@ -1,0 +1,19 @@
+{
+  "id": "rapanui",
+  "nombre": "Religión rapanui",
+  "alias": [],
+  "region": "oce",
+  "inicio": 1200,
+  "fin": 1870,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "polinesia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Culto a los antepasados de los moái y, más tarde, la ceremonia del hombre-pájaro.",
+  "icono": null
+}

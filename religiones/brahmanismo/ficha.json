@@ -1,0 +1,19 @@
+{
+  "id": "brahmanismo",
+  "nombre": "Brahmanismo",
+  "alias": [],
+  "region": "asm",
+  "inicio": -900,
+  "fin": -200,
+  "tipo": "pan",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "vedica",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Etapa del ritual sacerdotal y de las Upanishads, que formulan las ideas de brahman, atman y karma.",
+  "icono": null
+}

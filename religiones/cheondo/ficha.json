@@ -1,0 +1,21 @@
+{
+  "id": "cheondo",
+  "nombre": "Cheondoísmo",
+  "alias": [],
+  "region": "aso",
+  "inicio": 1860,
+  "fin": null,
+  "tipo": "pan",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "muismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "neoconfucianismo"
+  ],
+  "resumen": "Religión coreana nacida del movimiento Donghak: el Cielo reside en cada persona.",
+  "icono": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "metodismo",
+  "nombre": "Metodismo",
+  "alias": [],
+  "region": "eur",
+  "inicio": 1738,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "anglicanismo",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Avivamiento de John Wesley que acentúa la santidad personal y la acción social.",
+  "icono": null
+}

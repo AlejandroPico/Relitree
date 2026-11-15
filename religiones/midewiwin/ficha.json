@@ -1,0 +1,19 @@
+{
+  "id": "midewiwin",
+  "nombre": "Midewiwin",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1600,
+  "fin": null,
+  "tipo": "cha",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "arcaico-nam",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Gran Sociedad de Medicina de los ojibwas y pueblos vecinos.",
+  "icono": null
+}

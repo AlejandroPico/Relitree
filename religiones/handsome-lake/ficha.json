@@ -1,0 +1,21 @@
+{
+  "id": "handsome-lake",
+  "nombre": "Código de Handsome Lake",
+  "alias": [],
+  "region": "nam",
+  "inicio": 1799,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "haudenosaunee",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "cuaqueros"
+  ],
+  "resumen": "Reforma de la Casa Larga predicada por el profeta seneca Handsome Lake.",
+  "icono": null
+}

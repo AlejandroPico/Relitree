@@ -1,0 +1,19 @@
+{
+  "id": "montanismo",
+  "nombre": "Montanismo",
+  "alias": [],
+  "region": "opr",
+  "inicio": 156,
+  "fin": 550,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "cristianismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Movimiento profético y rigorista surgido en Frigia.",
+  "icono": null
+}

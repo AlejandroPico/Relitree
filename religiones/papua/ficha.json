@@ -1,0 +1,19 @@
+{
+  "id": "papua",
+  "nombre": "Religiones papúes",
+  "alias": [],
+  "region": "oce",
+  "inicio": -45000,
+  "fin": null,
+  "tipo": "ani",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "sea-paleo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Cientos de tradiciones de Nueva Guinea basadas en espíritus de los antepasados, casas ceremoniales e intercambio ritual.",
+  "icono": null
+}

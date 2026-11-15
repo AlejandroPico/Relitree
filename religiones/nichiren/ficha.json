@@ -1,0 +1,19 @@
+{
+  "id": "nichiren",
+  "nombre": "Budismo nichiren",
+  "alias": [],
+  "region": "aso",
+  "inicio": 1253,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "tendai",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "resumen": "Escuela que proclama la fe exclusiva en el Sutra del Loto.",
+  "icono": null
+}
