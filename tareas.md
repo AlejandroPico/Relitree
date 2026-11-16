@@ -2,11 +2,22 @@
 
 Solo figura lo que falta; lo terminado se elimina de la lista.
 
-## Fase A · Enciclopedia (trabajo principal pendiente)
-- Definir con Alejandro el alcance y la estructura detallada antes de empezar.
-- Reescribir Cristianismo como historia completa y extensa, con subartículos: cada concilio, cada cruzada, persecuciones, Constantino, Padres de la Iglesia, papado, Inquisición, Reforma, misiones… (ver el estándar en `agentes.md`).
-- Mismo tratamiento para el resto de tradiciones, empezando por las de importancia 5 y 4.
-- Panteones y fichas de deidades; diagramas interactivos; lectura en voz alta desde el punto donde se hace clic.
+## Fase A · Enciclopedia (78 fases, 859 artículos; detalle en `enciclopedia/PLAN.md`)
+- E00 · Infraestructura (índice en árbol, pestañas, fichas, imágenes, validación de 5.000 palabras)
+- E01 · Temas generales
+- E02–E22 · Cristianismo (fundamentos, apóstoles, 21 concilios, cismas e Inquisición, cruzadas, Reforma, expansión, época contemporánea, papas, santos y 105 tradiciones)
+- E23–E26 · Judaísmo
+- E27–E33 · Islam
+- E34–E41 · Hinduismo (más de 100 deidades) y sijismo
+- E42–E48 · Budismo y jainismo
+- E49–E52 · China, Japón y Corea
+- E53–E55 · Irán y Oriente Próximo antiguo
+- E56–E59 · África
+- E60–E64 · Europa antigua, filosofía y esoterismo
+- E65–E66 · Asia central, meridional y Sudeste
+- E67–E73 · Américas
+- E74–E76 · Oceanía
+- E77 · Revisión final
 
 ## Fase B · Datos
 - Cifras de fieles para las tradiciones vivas que aún no tienen (solo con fuente).

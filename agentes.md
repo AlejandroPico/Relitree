@@ -79,15 +79,34 @@ Nombre, alias y resumen NO van en la ficha: van en `i18n/es/religiones.json`.
 
 **Alta de tradiciones:** añadir líneas a `backend/semilla/religiones.txt` y ejecutar `python -m relitree.sembrar` (solo crea las que no existen), o crear a mano la carpeta, la entrada de i18n y el artículo.
 
-## Enciclopedia (estándar exigido)
+## Enciclopedia: normas (obligatorias en todas las fases y todas las religiones)
 
-Trabajo de fondo pendiente, pensado para sesiones dedicadas. Lo que hay ahora son resúmenes y un esqueleto cronológico de Cristianismo.
+El plan completo, con la lista de artículos de cada fase, está en `enciclopedia/PLAN.md` (fases E00–E77).
 
-- Cada artículo principal es una **historia completa y extensa** de la tradición, ordenada cronológicamente (edad antigua, media, moderna, contemporánea): cómo nació, por qué, cómo evolucionó, sus figuras principales, sus cismas y derivaciones, su relación con el poder, sus doctrinas y prácticas en cada época. Nivel universitario; nada de resúmenes. Nada de apartados genéricos del tipo «luces» y «sombras»: los hechos, buenos y malos, se cuentan en su momento histórico.
-- Todo episodio importante (cada concilio, cada cruzada, cada cisma, cada orden, cada figura mayor) tiene su **subartículo** propio en `religiones/<id>/<slug>.md`, enlazado desde el principal.
-- Los concilios, cruzadas, etc. pertenecen a su religión, no a «temas generales».
-- Referencia de estilo y extensión: la enciclopedia del proyecto Historicmap.
-- Enlaces internos: `[[id]]`, `[[id|texto]]`, `[[id/slug|texto]]`. Primera línea `# Título`.
+**Extensión**
+1. Todo artículo tiene **como mínimo 5.000 palabras**. Sin excepciones: ni resúmenes ni versiones abreviadas. Los artículos principales de las grandes religiones superan con mucho ese mínimo.
+2. Cuando sobre una tradición se sabe poco (culturas arqueológicas, religiones extinguidas mal documentadas, movimientos breves), la extensión se alcanza con contenido real: contexto histórico y geográfico, registro arqueológico, fuentes antiguas y su fiabilidad, interpretaciones académicas y sus debates, comparación con tradiciones vecinas, legado y recepción. **Nunca se inventa**: lo hipotético se señala como hipótesis.
+
+**Enfoque**
+3. Cada religión se explica con el detalle con que la conocería alguien formado dentro de ella: creencias, mitos, doctrinas, mandamientos y normas, textos sagrados, ritos, calendario, festividades, vida cotidiana, organización, lugares sagrados y **simbología** (apartado obligatorio). Si está extinguida, todo lo que se sabe y cómo se sabe.
+4. Historia completa y cronológica (Antigüedad, Edad Media, Moderna y Contemporánea cuando proceda): orígenes, causas, desarrollo, momentos de fuerza y de debilidad, relación con el poder, persecuciones sufridas y ejercidas, cismas y derivaciones.
+5. Sin apartados genéricos tipo «luces y sombras»: los hechos, honrosos o vergonzosos, se cuentan en su momento histórico y con detalle. La polémica no se evita; se documenta y se presentan las posturas enfrentadas.
+6. Tono neutral y respetuoso: se exponen las creencias como creencias («según la tradición…», «los fieles sostienen…») y se distingue lo que afirma la fe de lo que establece la investigación histórica.
+
+**Estructura**
+7. Todo episodio, figura o concepto mayor tiene **artículo propio** enlazado desde el principal: cada concilio, cada cruzada y guerra santa, cada cisma, cada revuelta, cada fundador, profeta, apóstol, papa o líder mayor, cada texto sagrado. Cuantas más subdivisiones, mejor.
+8. Las listas extensas (papas, califas, imanes, gurús, patriarcas, dalái lamas, tirthankaras…) son completas: cada miembro con su propio apartado; los principales, además, con artículo propio. Las figuras menores pueden agruparse en artículos colectivos de ≥ 5.000 palabras.
+9. Panteones: cada deidad con su apartado (iconografía, mitos, culto, símbolos, festividades, lugares). Hinduismo: **al menos 100 deidades**. Mismo criterio para los panteones egipcio, mesopotámico, griego, romano, nórdico, celta, mexica, maya, inca y yoruba.
+10. Índice lateral en árbol, con anidación ilimitada (religión → categorías → subcategorías → artículos). Dentro del artículo, pestañas para las grandes secciones y desplegables cuando ayuden.
+11. Recursos visuales: imágenes de Wikimedia Commons descargadas al repositorio con autor y licencia; diagramas, cronologías, mapas y tablas propios. Vídeo solo de fuentes institucionales oficiales (museos, universidades, organismos públicos, las propias instituciones religiosas), nunca de canales particulares.
+
+**Rigor**
+12. Cada artículo termina con sus fuentes (bibliografía académica y obras de referencia). Fechas, cifras y citas se contrastan antes de dar el artículo por completo. Las citas de textos sagrados, en traducciones de dominio público o parafraseadas.
+13. Cabecera YAML en cada archivo: `estado` (borrador | completo), `fase`, `palabras`, `fuentes`. Las pruebas fallan si un artículo `completo` tiene menos de 5.000 palabras.
+
+**Archivos**
+14. Artículo principal: `enciclopedia/es/religiones/<id>.md`. Subartículos: `enciclopedia/es/religiones/<id>/<categoria>/<slug>.md`, con tantos niveles de carpeta como haga falta; cada carpeta lleva un `_indice.md` con su título y orden. Temas generales: `enciclopedia/es/temas/`. Imágenes: `enciclopedia/medios/`.
+15. Al cerrar cada fase: actualizar `PLAN.md` y `tareas.md`, y dar los comandos PowerShell de git y de ejecución local.
 
 ## Criterios editoriales (obligatorios)
 
