@@ -1,7 +1,5 @@
 {
   "id": "arcaico-nam",
-  "nombre": "Tradiciones arcaicas de Norteamérica",
-  "alias": [],
   "region": "nam",
   "inicio": -8000,
   "fin": -1000,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Cazadores-recolectores que levantaron los primeros montículos, como Watson Brake y Poverty Point.",
   "icono": null
 }

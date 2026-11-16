@@ -1,7 +1,5 @@
 {
   "id": "omoto",
-  "nombre": "Ōmoto",
-  "alias": [],
   "region": "aso",
   "inicio": 1892,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Nueva religión japonesa de inspiración profética y universalista.",
   "icono": null
 }

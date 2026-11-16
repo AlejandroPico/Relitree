@@ -1,0 +1,18 @@
+{
+  "id": "iconoclasia",
+  "region": "eur",
+  "inicio": 726,
+  "fin": 843,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "cristianismo",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [
+    "islam"
+  ],
+  "icono": null
+}

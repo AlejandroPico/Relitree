@@ -1,0 +1,21 @@
+{
+  "id": "shinto-estatal",
+  "region": "aso",
+  "inicio": 1868,
+  "fin": 1945,
+  "tipo": "pol",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "shinto",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Kamon_of_the_Imperial_House_of_Japan.svg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Fonsecafrancesco04"
+  }
+}

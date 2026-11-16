@@ -1,0 +1,21 @@
+{
+  "id": "ortodoxa-serbia",
+  "region": "eur",
+  "inicio": 1219,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "ortodoxa",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ocilo.svg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Kikifruit"
+  }
+}

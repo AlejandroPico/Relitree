@@ -1,7 +1,5 @@
 {
   "id": "ortodoxa",
-  "nombre": "Iglesia ortodoxa",
-  "alias": [],
   "region": "eur",
   "inicio": 1054,
   "fin": null,
@@ -14,11 +12,12 @@
     }
   ],
   "influencias": [],
-  "resumen": "Comunión de iglesias de tradición bizantina, fiel a los siete primeros concilios y separada de Roma desde el cisma de 1054.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Orthodox_cross.svg",
     "licencia": "Public domain",
     "autor": "Bashar Khallouf"
-  }
+  },
+  "fieles": 230000000,
+  "fieles_fuente": "Estimación aproximada"
 }

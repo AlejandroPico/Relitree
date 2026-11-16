@@ -1,0 +1,16 @@
+{
+  "id": "beta-israel",
+  "region": "afr",
+  "inicio": 350,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "judaismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pashupata",
+  "region": "asm",
+  "inicio": 100,
+  "fin": 1400,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "shivaismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

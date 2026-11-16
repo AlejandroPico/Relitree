@@ -1,0 +1,16 @@
+{
+  "id": "xiantiandao",
+  "region": "aso",
+  "inicio": 1650,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "luoismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

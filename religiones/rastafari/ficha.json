@@ -1,7 +1,5 @@
 {
   "id": "rastafari",
-  "nombre": "Rastafari",
-  "alias": [],
   "region": "mes",
   "inicio": 1930,
   "fin": null,
@@ -16,6 +14,7 @@
   "influencias": [
     "bautistas"
   ],
-  "resumen": "Movimiento jamaicano que ve en Haile Selassie al Mesías y en África la tierra prometida.",
-  "icono": null
+  "icono": null,
+  "fieles": 800000,
+  "fieles_fuente": "Estimación aproximada"
 }

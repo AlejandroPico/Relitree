@@ -1,7 +1,5 @@
 {
   "id": "shugendo",
-  "nombre": "Shugendō",
-  "alias": [],
   "region": "aso",
   "inicio": 700,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "shingon"
   ],
-  "resumen": "Ascetismo de montaña que mezcla culto a los kami, budismo esotérico y taoísmo.",
   "icono": null
 }

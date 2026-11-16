@@ -1,7 +1,5 @@
 {
   "id": "levante-paleo",
-  "nombre": "Ritos funerarios del Paleolítico en el Levante",
-  "alias": [],
   "region": "opr",
   "inicio": -100000,
   "fin": -12500,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Enterramientos con ofrendas de Qafzeh y Skhul: las sepulturas intencionadas más antiguas conocidas, en el corredor de salida de África.",
   "icono": null
 }

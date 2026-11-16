@@ -1,7 +1,5 @@
 {
   "id": "amish",
-  "nombre": "Amish",
-  "alias": [],
   "region": "eur",
   "inicio": 1693,
   "fin": null,
@@ -14,6 +12,7 @@
     }
   ],
   "influencias": [],
-  "resumen": "Comunidades de vida sencilla y separada, surgidas en Suiza y Alsacia y hoy asentadas en Norteamérica.",
-  "icono": null
+  "icono": null,
+  "fieles": 400000,
+  "fieles_fuente": "Estimación aproximada"
 }

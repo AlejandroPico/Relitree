@@ -1,7 +1,5 @@
 {
   "id": "reformada",
-  "nombre": "Iglesias reformadas (calvinismo)",
-  "alias": [],
   "region": "eur",
   "inicio": 1536,
   "fin": null,
@@ -14,11 +12,12 @@
     }
   ],
   "influencias": [],
-  "resumen": "Tradición de Zuinglio y Calvino, centrada en la soberanía de Dios y una liturgia sobria.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Huguenot_cross.svg",
     "licencia": "CC BY-SA 4.0",
     "autor": "Wikimedia Commons"
-  }
+  },
+  "fieles": 75000000,
+  "fieles_fuente": "Estimación aproximada"
 }

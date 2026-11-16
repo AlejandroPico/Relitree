@@ -1,7 +1,5 @@
 {
   "id": "yazidismo",
-  "nombre": "Yazidismo",
-  "alias": [],
   "region": "opr",
   "inicio": 1100,
   "fin": null,
@@ -16,6 +14,7 @@
   "influencias": [
     "sufismo"
   ],
-  "resumen": "Religión kurda que venera a siete ángeles encabezados por Melek Taus, el Ángel Pavo Real.",
-  "icono": null
+  "icono": null,
+  "fieles": 800000,
+  "fieles_fuente": "Estimación aproximada"
 }

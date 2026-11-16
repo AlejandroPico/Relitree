@@ -1,7 +1,5 @@
 {
   "id": "arcaico-mes",
-  "nombre": "Tradiciones arcaicas de Mesoamérica",
-  "alias": [],
   "region": "mes",
   "inicio": -8000,
   "fin": -2000,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Primeros cultivadores del maíz, con ritos domésticos y culto a los muertos.",
   "icono": null
 }

@@ -1,0 +1,20 @@
+{
+  "id": "uniatas",
+  "region": "eur",
+  "inicio": 1596,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "ortodoxa",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [
+    "catolica"
+  ],
+  "icono": null,
+  "fieles": 18000000,
+  "fieles_fuente": "Estimación aproximada"
+}

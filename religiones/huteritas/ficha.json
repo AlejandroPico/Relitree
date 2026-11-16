@@ -1,0 +1,16 @@
+{
+  "id": "huteritas",
+  "region": "eur",
+  "inicio": 1528,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "anabaptismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

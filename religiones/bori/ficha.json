@@ -1,0 +1,18 @@
+{
+  "id": "bori",
+  "region": "afr",
+  "inicio": 1000,
+  "fin": null,
+  "tipo": "cha",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "afr-oeste",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "sunismo"
+  ],
+  "icono": null
+}

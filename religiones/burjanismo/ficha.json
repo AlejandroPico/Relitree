@@ -1,7 +1,5 @@
 {
   "id": "burjanismo",
-  "nombre": "Burjanismo",
-  "alias": [],
   "region": "asn",
   "inicio": 1904,
   "fin": 1930,
@@ -16,6 +14,5 @@
   "influencias": [
     "tibetano"
   ],
-  "resumen": "Movimiento mesiánico del Altái que anunciaba el regreso del Kan Blanco.",
   "icono": null
 }

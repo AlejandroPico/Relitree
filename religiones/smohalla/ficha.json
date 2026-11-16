@@ -1,0 +1,16 @@
+{
+  "id": "smohalla",
+  "region": "nam",
+  "inicio": 1850,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "costa-nw",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

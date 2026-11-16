@@ -1,7 +1,5 @@
 {
   "id": "thelema",
-  "nombre": "Thelema",
-  "alias": [],
   "region": "eur",
   "inicio": 1904,
   "fin": null,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Sistema de Aleister Crowley cuyo eje es descubrir y cumplir la verdadera voluntad.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Crowley_unicursal_hexagram.svg",

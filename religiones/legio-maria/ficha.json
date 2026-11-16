@@ -1,0 +1,16 @@
+{
+  "id": "legio-maria",
+  "region": "afr",
+  "inicio": 1963,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "catolica",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

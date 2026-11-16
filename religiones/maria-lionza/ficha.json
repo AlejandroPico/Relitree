@@ -1,7 +1,5 @@
 {
   "id": "maria-lionza",
-  "nombre": "Culto de María Lionza",
-  "alias": [],
   "region": "sam",
   "inicio": 1900,
   "fin": null,
@@ -17,6 +15,5 @@
     "catolica",
     "espiritismo"
   ],
-  "resumen": "Devoción venezolana a una diosa indígena y sus cortes de espíritus.",
   "icono": null
 }

@@ -1,0 +1,16 @@
+{
+  "id": "madhyamaka",
+  "region": "asm",
+  "inicio": 150,
+  "fin": null,
+  "tipo": "fil",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "mahayana",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

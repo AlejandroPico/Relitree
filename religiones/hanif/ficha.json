@@ -1,0 +1,19 @@
+{
+  "id": "hanif",
+  "region": "opr",
+  "inicio": 500,
+  "fin": 630,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "arabia-pre",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "rabinico",
+    "cristianismo"
+  ],
+  "icono": null
+}

@@ -1,0 +1,21 @@
+{
+  "id": "vasca",
+  "region": "eur",
+  "inicio": -2000,
+  "fin": 1200,
+  "tipo": "ani",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "eur-neo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Lauburu.svg",
+    "licencia": "Public domain",
+    "autor": "Vectorization:  Ariane Schmidt"
+  }
+}

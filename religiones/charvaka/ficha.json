@@ -1,7 +1,5 @@
 {
   "id": "charvaka",
-  "nombre": "Charvaka",
-  "alias": [],
   "region": "asm",
   "inicio": -600,
   "fin": 1200,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Escuela materialista india que negaba el karma, el más allá y la autoridad de los Vedas.",
   "icono": null
 }

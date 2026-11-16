@@ -1,0 +1,16 @@
+{
+  "id": "jabad",
+  "region": "eur",
+  "inicio": 1775,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "jasidismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

@@ -1,0 +1,16 @@
+{
+  "id": "totonaca",
+  "region": "mes",
+  "inicio": 300,
+  "fin": null,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "teotihuacan",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

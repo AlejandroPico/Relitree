@@ -1,0 +1,18 @@
+{
+  "id": "seicho",
+  "region": "aso",
+  "inicio": 1930,
+  "fin": null,
+  "tipo": "nmr",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "omoto",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "nuevo-pensamiento"
+  ],
+  "icono": null
+}

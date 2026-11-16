@@ -1,7 +1,5 @@
 {
   "id": "jodo",
-  "nombre": "Jōdo-shū y Jōdo Shinshū",
-  "alias": [],
   "region": "aso",
   "inicio": 1175,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "tierra-pura"
   ],
-  "resumen": "Escuelas japonesas de la Tierra Pura, de Hōnen y Shinran: confianza total en el buda Amida.",
   "icono": null
 }

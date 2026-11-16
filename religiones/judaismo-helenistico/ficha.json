@@ -1,0 +1,18 @@
+{
+  "id": "judaismo-helenistico",
+  "region": "afr",
+  "inicio": -300,
+  "fin": 100,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "judaismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "platonismo"
+  ],
+  "icono": null
+}

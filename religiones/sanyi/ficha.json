@@ -1,0 +1,19 @@
+{
+  "id": "sanyi",
+  "region": "aso",
+  "inicio": 1560,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "neoconfucianismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "taoismo",
+    "chan"
+  ],
+  "icono": null
+}

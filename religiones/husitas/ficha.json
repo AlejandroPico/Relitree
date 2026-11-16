@@ -1,7 +1,5 @@
 {
   "id": "husitas",
-  "nombre": "Husitas",
-  "alias": [],
   "region": "eur",
   "inicio": 1415,
   "fin": null,
@@ -14,6 +12,10 @@
     }
   ],
   "influencias": [],
-  "resumen": "Reforma bohemia inspirada en Jan Hus, precursora del protestantismo.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Hussite_flag.svg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "ThecentreCZ"
+  }
 }

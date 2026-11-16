@@ -1,7 +1,5 @@
 {
   "id": "alevismo",
-  "nombre": "Alevismo",
-  "alias": [],
   "region": "opr",
   "inicio": 1250,
   "fin": null,
@@ -17,6 +15,7 @@
     "sufismo",
     "tengri"
   ],
-  "resumen": "Tradición anatolia que une devoción a Alí, mística sufí y herencia turca.",
-  "icono": null
+  "icono": null,
+  "fieles": 15000000,
+  "fieles_fuente": "Estimación aproximada"
 }

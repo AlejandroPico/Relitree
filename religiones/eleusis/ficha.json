@@ -1,7 +1,5 @@
 {
   "id": "eleusis",
-  "nombre": "Misterios de Eleusis",
-  "alias": [],
   "region": "eur",
   "inicio": -1500,
   "fin": 392,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Iniciaciones secretas en honor de Deméter y Perséfone que prometían una suerte mejor tras la muerte.",
   "icono": null
 }

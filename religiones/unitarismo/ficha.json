@@ -1,7 +1,5 @@
 {
   "id": "unitarismo",
-  "nombre": "Unitarismo",
-  "alias": [],
   "region": "eur",
   "inicio": 1565,
   "fin": null,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Cristianismo que rechaza la Trinidad, nacido en Polonia y Transilvania.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Flaming_Chalice.svg",

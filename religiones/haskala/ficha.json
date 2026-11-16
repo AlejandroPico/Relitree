@@ -1,0 +1,16 @@
+{
+  "id": "haskala",
+  "region": "eur",
+  "inicio": 1770,
+  "fin": 1880,
+  "tipo": "fil",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "rabinico",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "neochamanismo",
+  "region": "nam",
+  "inicio": 1980,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "new-age",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "amazonia",
+    "siberia"
+  ],
+  "icono": null
+}

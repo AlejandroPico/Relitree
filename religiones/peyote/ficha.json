@@ -1,7 +1,5 @@
 {
   "id": "peyote",
-  "nombre": "Iglesia Nativa Americana",
-  "alias": [],
   "region": "nam",
   "inicio": 1880,
   "fin": null,
@@ -17,6 +15,5 @@
     "wixarika",
     "metodismo"
   ],
-  "resumen": "Religión intertribal que une el sacramento del peyote con elementos cristianos.",
   "icono": null
 }

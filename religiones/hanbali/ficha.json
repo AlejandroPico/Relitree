@@ -1,0 +1,16 @@
+{
+  "id": "hanbali",
+  "region": "opr",
+  "inicio": 855,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "sunismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

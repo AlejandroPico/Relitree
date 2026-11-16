@@ -1,7 +1,5 @@
 {
   "id": "zulu",
-  "nombre": "Religión zulú",
-  "alias": [],
   "region": "afr",
   "inicio": 1500,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Culto a los amadlozi o antepasados, con el creador Unkulunkulu y los adivinos sangoma.",
   "icono": null
 }

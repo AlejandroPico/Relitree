@@ -1,7 +1,5 @@
 {
   "id": "afr-oeste",
-  "nombre": "Religiones tradicionales de África occidental",
-  "alias": [],
   "region": "afr",
   "inicio": -3000,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Sustrato común de la región: un dios supremo distante, divinidades intermediarias, antepasados venerados y adivinación.",
   "icono": null
 }

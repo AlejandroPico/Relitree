@@ -1,7 +1,5 @@
 {
   "id": "kejawen",
-  "nombre": "Kejawèn",
-  "alias": [],
   "region": "sea",
   "inicio": 1500,
   "fin": null,
@@ -17,6 +15,5 @@
     "hindu-sea",
     "austronesia"
   ],
-  "resumen": "Espiritualidad javanesa que entrelaza animismo, hinduismo-budismo e islam.",
   "icono": null
 }

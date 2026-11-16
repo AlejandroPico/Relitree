@@ -1,0 +1,16 @@
+{
+  "id": "nuevo-confucianismo",
+  "region": "aso",
+  "inicio": 1921,
+  "fin": null,
+  "tipo": "fil",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "neoconfucianismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

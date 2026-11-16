@@ -1,0 +1,16 @@
+{
+  "id": "ser-supremo",
+  "region": "eur",
+  "inicio": 1794,
+  "fin": 1794,
+  "tipo": "fil",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "deismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

@@ -1,0 +1,16 @@
+{
+  "id": "taki-onqoy",
+  "region": "sam",
+  "inicio": 1564,
+  "fin": 1572,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "inca",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

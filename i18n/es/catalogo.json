@@ -1,0 +1,33 @@
+{
+  "regiones": {
+    "afr": "África",
+    "eur": "Europa",
+    "opr": "Oriente Próximo",
+    "asn": "Asia Central y Septentrional",
+    "asm": "Asia Meridional",
+    "aso": "Asia Oriental",
+    "sea": "Sudeste Asiático",
+    "oce": "Oceanía",
+    "nam": "Norteamérica",
+    "mes": "Mesoamérica y Caribe",
+    "sam": "Sudamérica"
+  },
+  "tipos": {
+    "rit": "Ritual prehistórico",
+    "ani": "Animismo",
+    "cha": "Chamanismo",
+    "ant": "Culto a los antepasados",
+    "pol": "Politeísmo",
+    "hen": "Henoteísmo",
+    "mon": "Monoteísmo",
+    "dua": "Dualismo",
+    "pan": "Panteísmo o monismo",
+    "nte": "No teísta",
+    "fil": "Filosofía",
+    "mis": "Culto mistérico",
+    "eso": "Esoterismo",
+    "sin": "Sincretismo",
+    "neo": "Neopaganismo",
+    "nmr": "Nuevo movimiento religioso"
+  }
+}

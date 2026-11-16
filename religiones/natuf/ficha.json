@@ -1,7 +1,5 @@
 {
   "id": "natuf",
-  "nombre": "Natufiense y santuarios del Neolítico precerámico",
-  "alias": [],
   "region": "opr",
   "inicio": -12500,
   "fin": -6500,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Primeras comunidades sedentarias del Creciente Fértil: cráneos modelados, culto a los antepasados y los recintos monumentales de Göbekli Tepe.",
   "icono": null
 }

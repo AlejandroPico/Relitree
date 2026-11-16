@@ -1,7 +1,5 @@
 {
   "id": "asiria",
-  "nombre": "Religión asiria",
-  "alias": [],
   "region": "opr",
   "inicio": -2000,
   "fin": -600,
@@ -16,7 +14,6 @@
   "influencias": [
     "babilonica"
   ],
-  "resumen": "Culto imperial al dios Asur, vinculado a la realeza y a la guerra.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Winged_Ashur_Sun_Cross.svg",

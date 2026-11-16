@@ -1,7 +1,5 @@
 {
   "id": "san",
-  "nombre": "Tradiciones san",
-  "alias": [],
   "region": "afr",
   "inicio": -25000,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Religión de los cazadores-recolectores del África austral, centrada en la danza de trance, los sanadores y un arte rupestre de miles de años.",
   "icono": null
 }

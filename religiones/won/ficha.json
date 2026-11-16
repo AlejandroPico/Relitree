@@ -1,7 +1,5 @@
 {
   "id": "won",
-  "nombre": "Budismo won",
-  "alias": [],
   "region": "aso",
   "inicio": 1916,
   "fin": null,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Budismo coreano moderno cuyo símbolo es un círculo.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Won-Buddhism_symbol(No_base).svg",

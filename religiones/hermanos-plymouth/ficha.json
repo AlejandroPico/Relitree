@@ -1,0 +1,16 @@
+{
+  "id": "hermanos-plymouth",
+  "region": "eur",
+  "inicio": 1827,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "anglicanismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

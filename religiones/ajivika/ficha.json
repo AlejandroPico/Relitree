@@ -1,7 +1,5 @@
 {
   "id": "ajivika",
-  "nombre": "Ajivika",
-  "alias": [],
   "region": "asm",
   "inicio": -500,
   "fin": 1300,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Escuela ascética que sostenía un destino inexorable.",
   "icono": null
 }

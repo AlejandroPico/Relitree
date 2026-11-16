@@ -1,0 +1,16 @@
+{
+  "id": "sekai",
+  "region": "aso",
+  "inicio": 1935,
+  "fin": null,
+  "tipo": "nmr",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "omoto",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

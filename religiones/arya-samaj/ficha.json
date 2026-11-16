@@ -1,7 +1,5 @@
 {
   "id": "arya-samaj",
-  "nombre": "Arya Samaj",
-  "alias": [],
   "region": "asm",
   "inicio": 1875,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Movimiento de retorno a los Vedas fundado por Dayananda Saraswati.",
   "icono": null
 }

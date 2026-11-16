@@ -1,0 +1,21 @@
+{
+  "id": "culto-imperial",
+  "region": "eur",
+  "inicio": -27,
+  "fin": 392,
+  "tipo": "pol",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "romana",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Greek_Roman_Laurel_wreath_vector.svg",
+    "licencia": "CC0",
+    "autor": "dalovar"
+  }
+}

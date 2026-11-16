@@ -1,7 +1,5 @@
 {
   "id": "maniqueismo",
-  "nombre": "Maniqueísmo",
-  "alias": [],
   "region": "opr",
   "inicio": 240,
   "fin": 1400,
@@ -17,6 +15,5 @@
     "zoroastrismo",
     "budismo"
   ],
-  "resumen": "Religión universal del profeta Mani: lucha cósmica entre luz y tinieblas; llegó del Mediterráneo hasta China.",
   "icono": null
 }

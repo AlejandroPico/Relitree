@@ -1,7 +1,5 @@
 {
   "id": "raelismo",
-  "nombre": "Movimiento raeliano",
-  "alias": [],
   "region": "eur",
   "inicio": 1974,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Religión ovni que atribuye la creación de la humanidad a extraterrestres.",
   "icono": null
 }

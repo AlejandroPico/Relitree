@@ -1,7 +1,5 @@
 {
   "id": "hitita",
-  "nombre": "Religión hitita",
-  "alias": [],
   "region": "opr",
   "inicio": -1700,
   "fin": -1180,
@@ -17,6 +15,5 @@
     "anat-neo",
     "sumeria"
   ],
-  "resumen": "El reino de los «mil dioses», que integró divinidades indoeuropeas, hatianas y hurritas.",
   "icono": null
 }

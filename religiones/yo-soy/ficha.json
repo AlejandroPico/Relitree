@@ -1,0 +1,16 @@
+{
+  "id": "yo-soy",
+  "region": "nam",
+  "inicio": 1930,
+  "fin": null,
+  "tipo": "eso",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "teosofia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

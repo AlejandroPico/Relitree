@@ -1,7 +1,5 @@
 {
   "id": "judaismo-reconst",
-  "nombre": "Judaísmo reconstruccionista",
-  "alias": [],
   "region": "nam",
   "inicio": 1922,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Corriente que entiende el judaísmo como civilización religiosa en evolución.",
   "icono": null
 }

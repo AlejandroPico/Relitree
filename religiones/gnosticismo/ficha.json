@@ -1,7 +1,5 @@
 {
   "id": "gnosticismo",
-  "nombre": "Gnosticismo",
-  "alias": [],
   "region": "opr",
   "inicio": 100,
   "fin": 500,
@@ -17,7 +15,6 @@
     "platonismo",
     "judaismo"
   ],
-  "resumen": "Corrientes que buscaban la salvación por un conocimiento secreto y veían el mundo material como obra de un dios inferior.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Ouroboros-simple.svg",

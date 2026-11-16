@@ -1,7 +1,5 @@
 {
   "id": "yoruba",
-  "nombre": "Religión yoruba",
-  "alias": [],
   "region": "afr",
   "inicio": -500,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Tradición de Ifé y Oyo: el creador Olodumare, los orishas y el sistema adivinatorio de Ifá.",
   "icono": null
 }

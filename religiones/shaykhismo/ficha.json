@@ -1,0 +1,16 @@
+{
+  "id": "shaykhismo",
+  "region": "opr",
+  "inicio": 1800,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "duodecimano",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

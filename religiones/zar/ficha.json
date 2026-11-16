@@ -1,0 +1,18 @@
+{
+  "id": "zar",
+  "region": "afr",
+  "inicio": 1700,
+  "fin": null,
+  "tipo": "cha",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "cusita",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "sunismo"
+  ],
+  "icono": null
+}

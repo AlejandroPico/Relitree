@@ -1,0 +1,16 @@
+{
+  "id": "palmariana",
+  "region": "eur",
+  "inicio": 1978,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "catolica",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

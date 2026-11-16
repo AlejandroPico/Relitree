@@ -1,0 +1,16 @@
+{
+  "id": "celta-crist",
+  "region": "eur",
+  "inicio": 430,
+  "fin": 1100,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "cristianismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

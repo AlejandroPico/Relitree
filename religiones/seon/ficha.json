@@ -1,7 +1,5 @@
 {
   "id": "seon",
-  "nombre": "Budismo coreano (seon)",
-  "alias": [],
   "region": "aso",
   "inicio": 800,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Tradición meditativa de Corea, hoy dominante en la orden Jogye.",
   "icono": null
 }

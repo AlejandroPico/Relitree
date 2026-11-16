@@ -1,7 +1,5 @@
 {
   "id": "budismo-chino",
-  "nombre": "Budismo chino",
-  "alias": [],
   "region": "aso",
   "inicio": 67,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Budismo llegado por la Ruta de la Seda y transformado en escuelas propias.",
   "icono": null
 }

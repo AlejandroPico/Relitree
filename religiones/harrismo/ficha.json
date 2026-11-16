@@ -1,0 +1,18 @@
+{
+  "id": "harrismo",
+  "region": "afr",
+  "inicio": 1913,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "metodismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "afr-oeste"
+  ],
+  "icono": null
+}

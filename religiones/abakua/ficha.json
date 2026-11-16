@@ -1,0 +1,16 @@
+{
+  "id": "abakua",
+  "region": "mes",
+  "inicio": 1836,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "afr-oeste",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

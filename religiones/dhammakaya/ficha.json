@@ -1,0 +1,16 @@
+{
+  "id": "dhammakaya",
+  "region": "sea",
+  "inicio": 1970,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "theravada-sea",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

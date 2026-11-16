@@ -1,0 +1,20 @@
+{
+  "id": "din-i-ilahi",
+  "region": "asm",
+  "inicio": 1582,
+  "fin": 1605,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "sunismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "hinduismo",
+    "zoroastrismo",
+    "jainismo"
+  ],
+  "icono": null
+}

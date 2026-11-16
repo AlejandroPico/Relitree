@@ -1,7 +1,5 @@
 {
   "id": "cienciologia",
-  "nombre": "Cienciología",
-  "alias": [],
   "region": "nam",
   "inicio": 1954,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Movimiento de L. Ron Hubbard, desarrollado a partir de la dianética.",
   "icono": null
 }

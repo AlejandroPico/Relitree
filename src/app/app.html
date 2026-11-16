@@ -1,5 +1,5 @@
 @if (!datos.listo()) {
-  <div class="cargando">{{ datos.error() ?? i18n.t('cargando') }}</div>
+  <div class="cargando">{{ datos.error() ?? '…' }}</div>
 } @else {
   <app-lienzo/>
 
@@ -95,39 +95,51 @@
 
   @if (sel(); as r) {
     <aside class="detalle">
-      <button class="ico cerrar" [title]="i18n.t('cerrar')" (click)="estado.elegir(null)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['cerrar']"/></svg></button>
-      <svg class="simbolo" viewBox="-20 -20 40 40" [style.color]="color(r)">
-        <circle r="18"/>
-        @if (r.icono) { <image [attr.href]="r.icono" x="-11.5" y="-11.5" width="23" height="23"/> }
-        @else { <path [attr.d]="glifos[r.tipo].d" [class.relleno]="glifos[r.tipo].relleno"/> }
-      </svg>
-      <h2>{{ r.nombre }}</h2>
-      <p class="datos"><span [style.color]="color(r)">{{ datos.region.get(r.region)!.nombre }}</span> · {{ datos.tipos.get(r.tipo) }}</p>
-      <p class="datos">{{ i18n.periodo(r.inicio, r.fin) }}</p>
-      <p class="resumen">{{ r.resumen }}</p>
-      @for (b of vinculos(); track b.titulo) {
-        <h4>{{ b.titulo }}</h4>
-        <div class="lista">
-          @for (v of b.items; track v.r.id) { <a (click)="estado.elegir(v.r, true)"><i [style.background]="color(v.r)"></i>{{ v.r.nombre }}<small>{{ v.nota }}</small></a> }
+      <header class="cabeza">
+        <svg class="simbolo" viewBox="-20 -20 40 40" [style.color]="color(r)">
+          <circle r="18"/>
+          @if (r.icono) { <image [attr.href]="r.icono" x="-11.5" y="-11.5" width="23" height="23"/> }
+          @else { <path [attr.d]="glifos[r.tipo].d" [class.relleno]="glifos[r.tipo].relleno"/> }
+        </svg>
+        <div>
+          <h2>{{ r.nombre }}</h2>
+          <p class="datos">{{ i18n.periodo(r.inicio, r.fin) }}</p>
         </div>
-      }
-      <div class="acciones">
-        <a (click)="estado.enciclopedia.set(r.id)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['libro']"/></svg>{{ i18n.t('abrirEnc') }}</a>
-        <a (click)="estado.elegir(r, true)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['diana']"/></svg>{{ i18n.t('verArbol') }}</a>
-        <a [href]="wiki(r)" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path [attr.d]="ui['enlace']"/></svg>{{ i18n.t('wikipedia') }}</a>
+        <button class="ico cerrar" [title]="i18n.t('cerrar')" (click)="estado.elegir(null)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['cerrar']"/></svg></button>
+      </header>
+      <div class="cuerpo">
+        <p class="datos"><span [style.color]="color(r)">{{ datos.region.get(r.region)!.nombre }}</span> · {{ datos.tipos.get(r.tipo) }}</p>
+        @if (r.fieles) { <p class="fieles"><b>{{ i18n.cantidad(r.fieles) }}</b> {{ i18n.t('fieles') }}<small>{{ r.fielesFuente }}</small></p> }
+        <p class="resumen">{{ r.resumen }}</p>
+        @for (b of vinculos(); track b.titulo) {
+          <h4>{{ b.titulo }}</h4>
+          <div class="lista">
+            @for (v of b.items; track v.r.id) { <a (click)="estado.elegir(v.r, true)"><i [style.background]="color(v.r)"></i>{{ v.r.nombre }}<small>{{ v.nota }}</small></a> }
+          </div>
+        }
+        <div class="acciones">
+          <a (click)="estado.enciclopedia.set(r.id)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['libro']"/></svg>{{ i18n.t('abrirEnc') }}</a>
+          <a (click)="estado.elegir(r, true)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['diana']"/></svg>{{ i18n.t('verArbol') }}</a>
+          <a [href]="wiki(r)" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path [attr.d]="ui['enlace']"/></svg>{{ i18n.t('wikipedia') }}</a>
+        </div>
+        @if (r.heredado) { <p class="nota">{{ i18n.t('simboloHeredado') }}</p> }
       </div>
     </aside>
   }
   @if (rel(); as x) {
     <aside class="detalle">
-      <button class="ico cerrar" [title]="i18n.t('cerrar')" (click)="estado.elegir(null)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['cerrar']"/></svg></button>
-      <p class="datos etiqueta">{{ i18n.t('r_' + x.clase) }} · {{ i18n.anio(x.b.inicio) }}</p>
-      <div class="lista grande">
-        <a (click)="estado.elegir(x.a, true)"><i [style.background]="color(x.a)"></i>{{ x.a.nombre }}<small>{{ i18n.periodo(x.a.inicio, x.a.fin) }}</small></a>
-        <span class="flecha">↓</span>
-        <a (click)="estado.elegir(x.b, true)"><i [style.background]="color(x.b)"></i>{{ x.b.nombre }}<small>{{ i18n.periodo(x.b.inicio, x.b.fin) }}</small></a>
+      <header class="cabeza sola">
+        <p class="datos etiqueta">{{ i18n.t('r_' + x.clase) }} · {{ i18n.anio(x.b.inicio) }}</p>
+        <button class="ico cerrar" [title]="i18n.t('cerrar')" (click)="estado.elegir(null)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['cerrar']"/></svg></button>
+      </header>
+      <div class="cuerpo">
+        <div class="lista grande">
+          <a (click)="estado.elegir(x.a, true)"><i [style.background]="color(x.a)"></i>{{ x.a.nombre }}<small>{{ i18n.periodo(x.a.inicio, x.a.fin) }}</small></a>
+          <span class="flecha">↓</span>
+          <a (click)="estado.elegir(x.b, true)"><i [style.background]="color(x.b)"></i>{{ x.b.nombre }}<small>{{ i18n.periodo(x.b.inicio, x.b.fin) }}</small></a>
+        </div>
+        <p class="resumen">{{ x.b.resumen }}</p>
       </div>
-      <p class="resumen">{{ x.b.resumen }}</p>
     </aside>
   }
 

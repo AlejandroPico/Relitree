@@ -1,7 +1,5 @@
 {
   "id": "micenica",
-  "nombre": "Religión micénica",
-  "alias": [],
   "region": "eur",
   "inicio": -1600,
   "fin": -1100,
@@ -16,6 +14,5 @@
   "influencias": [
     "minoica"
   ],
-  "resumen": "Religión de los palacios griegos de la Edad del Bronce; sus tablillas ya nombran a Zeus, Hera y Poseidón.",
   "icono": null
 }

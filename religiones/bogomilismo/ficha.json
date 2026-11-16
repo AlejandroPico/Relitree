@@ -1,7 +1,5 @@
 {
   "id": "bogomilismo",
-  "nombre": "Bogomilismo",
-  "alias": [],
   "region": "eur",
   "inicio": 950,
   "fin": 1450,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Movimiento dualista búlgaro que rechazaba la jerarquía y el mundo material.",
   "icono": null
 }

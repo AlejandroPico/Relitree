@@ -1,0 +1,23 @@
+{
+  "id": "ortodoxa-rusa",
+  "region": "eur",
+  "inicio": 1448,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "ortodoxa",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:OrthodoxCross.svg",
+    "licencia": "Public domain",
+    "autor": "Ariane Schmidt"
+  },
+  "fieles": 100000000,
+  "fieles_fuente": "Estimación aproximada"
+}

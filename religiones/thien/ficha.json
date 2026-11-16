@@ -1,7 +1,5 @@
 {
   "id": "thien",
-  "nombre": "Budismo vietnamita (thiền)",
-  "alias": [],
   "region": "sea",
   "inicio": 580,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Tradición meditativa de Vietnam.",
   "icono": null
 }

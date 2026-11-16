@@ -1,0 +1,18 @@
+{
+  "id": "barelvi",
+  "region": "asm",
+  "inicio": 1904,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "hanafi",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "sufismo"
+  ],
+  "icono": null
+}

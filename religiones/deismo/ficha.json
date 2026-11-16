@@ -1,0 +1,16 @@
+{
+  "id": "deismo",
+  "region": "eur",
+  "inicio": 1650,
+  "fin": 1850,
+  "tipo": "fil",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "anglicanismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

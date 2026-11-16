@@ -1,0 +1,21 @@
+{
+  "id": "tangata-manu",
+  "region": "oce",
+  "inicio": 1600,
+  "fin": 1867,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "rapanui",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Easter_Island_flag_1876_to_1888.svg",
+    "licencia": "CC0",
+    "autor": "Centralismo"
+  }
+}

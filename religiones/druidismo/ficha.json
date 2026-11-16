@@ -1,7 +1,5 @@
 {
   "id": "druidismo",
-  "nombre": "Neodruidismo",
-  "alias": [],
   "region": "eur",
   "inicio": 1781,
   "fin": null,
@@ -16,7 +14,6 @@
   "influencias": [
     "masoneria"
   ],
-  "resumen": "Recreación moderna de la figura del druida, entre lo fraternal, lo cultural y lo religioso.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Awen_symbol_final.svg",

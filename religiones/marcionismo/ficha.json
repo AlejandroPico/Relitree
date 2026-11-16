@@ -1,7 +1,5 @@
 {
   "id": "marcionismo",
-  "nombre": "Marcionismo",
-  "alias": [],
   "region": "opr",
   "inicio": 144,
   "fin": 500,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Iglesia de Marción, que rechazaba el Antiguo Testamento y distinguía dos dioses.",
   "icono": null
 }

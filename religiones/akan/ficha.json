@@ -1,7 +1,5 @@
 {
   "id": "akan",
-  "nombre": "Religión akan",
-  "alias": [],
   "region": "afr",
   "inicio": 1000,
   "fin": null,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Creencias de asantes y fantes: el dios Nyame, los espíritus abosom y los taburetes de los antepasados.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Gye_Nyame_(Adinkra_Symbol).svg",

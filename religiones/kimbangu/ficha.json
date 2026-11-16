@@ -1,7 +1,5 @@
 {
   "id": "kimbangu",
-  "nombre": "Kimbanguismo",
-  "alias": [],
   "region": "afr",
   "inicio": 1921,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "bantu"
   ],
-  "resumen": "Iglesia fundada en el Congo por el profeta Simon Kimbangu, una de las mayores iglesias independientes africanas.",
   "icono": null
 }

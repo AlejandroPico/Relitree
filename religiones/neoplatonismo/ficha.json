@@ -1,7 +1,5 @@
 {
   "id": "neoplatonismo",
-  "nombre": "Neoplatonismo",
-  "alias": [],
   "region": "eur",
   "inicio": 250,
   "fin": 529,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Sistema de Plotino: todo emana del Uno y el alma puede retornar a él; última gran filosofía religiosa pagana.",
   "icono": null
 }

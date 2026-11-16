@@ -1,0 +1,18 @@
+{
+  "id": "ravidassia",
+  "region": "asm",
+  "inicio": 2010,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "sant-mat",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "sijismo"
+  ],
+  "icono": null
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tambor-mina",
+  "region": "sam",
+  "inicio": 1840,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "vodun",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

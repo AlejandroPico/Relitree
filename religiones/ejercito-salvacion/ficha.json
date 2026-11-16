@@ -1,7 +1,5 @@
 {
   "id": "ejercito-salvacion",
-  "nombre": "Ejército de Salvación",
-  "alias": [],
   "region": "eur",
   "inicio": 1865,
   "fin": null,
@@ -14,6 +12,7 @@
     }
   ],
   "influencias": [],
-  "resumen": "Iglesia de organización militar volcada en la asistencia social.",
-  "icono": null
+  "icono": null,
+  "fieles": 1700000,
+  "fieles_fuente": "Estimación aproximada"
 }

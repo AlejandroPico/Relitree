@@ -1,0 +1,18 @@
+{
+  "id": "jeungsanismo",
+  "region": "aso",
+  "inicio": 1901,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "cheondo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [
+    "muismo"
+  ],
+  "icono": null
+}

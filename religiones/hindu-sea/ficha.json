@@ -1,7 +1,5 @@
 {
   "id": "hindu-sea",
-  "nombre": "Hinduismo del Sudeste Asiático",
-  "alias": [],
   "region": "sea",
   "inicio": 100,
   "fin": 1500,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Reinos indianizados como Funan, Champa, Angkor y Majapahit, con templos a Shiva y Vishnu.",
   "icono": null
 }

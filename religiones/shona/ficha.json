@@ -1,0 +1,16 @@
+{
+  "id": "shona",
+  "region": "afr",
+  "inicio": 1200,
+  "fin": null,
+  "tipo": "ant",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "bantu",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

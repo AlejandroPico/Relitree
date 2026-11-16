@@ -1,7 +1,5 @@
 {
   "id": "vajrayana",
-  "nombre": "Budismo vajrayana",
-  "alias": [],
   "region": "asm",
   "inicio": 600,
   "fin": null,
@@ -16,7 +14,6 @@
   "influencias": [
     "tantra"
   ],
-  "resumen": "Budismo tántrico de mantras, mandalas y transmisión de maestro a discípulo.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Vajra_symbol.svg",

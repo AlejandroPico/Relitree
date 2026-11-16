@@ -1,0 +1,16 @@
+{
+  "id": "qarmatas",
+  "region": "opr",
+  "inicio": 899,
+  "fin": 1077,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "ismailismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

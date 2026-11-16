@@ -1,7 +1,5 @@
 {
   "id": "zion-cc",
-  "nombre": "Iglesias sionistas africanas",
-  "alias": [],
   "region": "afr",
   "inicio": 1910,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "bantu"
   ],
-  "resumen": "Iglesias de sanación del África austral que unen cristianismo carismático y formas rituales locales.",
   "icono": null
 }

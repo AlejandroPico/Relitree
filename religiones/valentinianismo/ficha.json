@@ -1,0 +1,16 @@
+{
+  "id": "valentinianismo",
+  "region": "opr",
+  "inicio": 140,
+  "fin": 400,
+  "tipo": "dua",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "gnosticismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

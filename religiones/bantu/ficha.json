@@ -1,7 +1,5 @@
 {
   "id": "bantu",
-  "nombre": "Religiones bantúes",
-  "alias": [],
   "region": "afr",
   "inicio": -1500,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Tradiciones difundidas con la expansión bantú por África central y austral: culto a los antepasados, fuerza vital y especialistas rituales.",
   "icono": null
 }

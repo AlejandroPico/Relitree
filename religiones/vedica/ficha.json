@@ -1,7 +1,5 @@
 {
   "id": "vedica",
-  "nombre": "Religión védica",
-  "alias": [],
   "region": "asm",
   "inicio": -1500,
   "fin": -500,
@@ -16,6 +14,5 @@
   "influencias": [
     "indo"
   ],
-  "resumen": "Religión de los himnos del Rigveda: sacrificio de fuego, soma y dioses como Indra, Agni y Varuna.",
   "icono": null
 }

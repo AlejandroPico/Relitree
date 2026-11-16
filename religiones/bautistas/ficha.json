@@ -1,7 +1,5 @@
 {
   "id": "bautistas",
-  "nombre": "Iglesias bautistas",
-  "alias": [],
   "region": "eur",
   "inicio": 1609,
   "fin": null,
@@ -16,11 +14,12 @@
   "influencias": [
     "anabaptismo"
   ],
-  "resumen": "Iglesias congregacionales que practican el bautismo de creyentes por inmersión.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Ichthys.svg",
     "licencia": "Public domain",
     "autor": "MesserWoland, Erin_Silversmith, AnonMoos"
-  }
+  },
+  "fieles": 100000000,
+  "fieles_fuente": "Estimación aproximada"
 }

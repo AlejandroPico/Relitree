@@ -1,0 +1,16 @@
+{
+  "id": "shafii",
+  "region": "opr",
+  "inicio": 820,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "sunismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

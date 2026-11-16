@@ -1,7 +1,5 @@
 {
   "id": "shang",
-  "nombre": "Religión Shang",
-  "alias": [],
   "region": "aso",
   "inicio": -1600,
   "fin": -1046,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Adivinación con huesos oraculares, sacrificios a los antepasados reales y al dios supremo Di.",
   "icono": null
 }

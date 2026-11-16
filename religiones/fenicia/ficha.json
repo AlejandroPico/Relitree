@@ -1,7 +1,5 @@
 {
   "id": "fenicia",
-  "nombre": "Religión fenicia",
-  "alias": [],
   "region": "opr",
   "inicio": -1500,
   "fin": -300,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Cultos de Tiro, Sidón y Biblos a Melqart, Astarté y Eshmún, llevados por mar a todo el Mediterráneo.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Tanit-Symbol.svg",

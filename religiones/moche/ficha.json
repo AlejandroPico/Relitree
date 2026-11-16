@@ -1,7 +1,5 @@
 {
   "id": "moche",
-  "nombre": "Religión moche",
-  "alias": [],
   "region": "sam",
   "inicio": 100,
   "fin": 800,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Religión de la costa norte peruana, con ceremonias de sacrificio representadas en su cerámica.",
   "icono": null
 }

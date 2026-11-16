@@ -1,7 +1,5 @@
 {
   "id": "iglesia-oriente",
-  "nombre": "Iglesia del Oriente",
-  "alias": [],
   "region": "opr",
   "inicio": 431,
   "fin": null,
@@ -14,11 +12,12 @@
     }
   ],
   "influencias": [],
-  "resumen": "Cristianismo siríaco de Persia, mal llamado nestoriano, que misionó hasta la India y China.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Saint_Thomas_Cross.svg",
     "licencia": "CC BY-SA 4.0",
     "autor": "ChristopherJEkd"
-  }
+  },
+  "fieles": 400000,
+  "fieles_fuente": "Estimación aproximada"
 }

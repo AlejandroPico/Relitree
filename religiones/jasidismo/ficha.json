@@ -1,7 +1,5 @@
 {
   "id": "jasidismo",
-  "nombre": "Jasidismo",
-  "alias": [],
   "region": "eur",
   "inicio": 1740,
   "fin": null,
@@ -16,7 +14,6 @@
   "influencias": [
     "cabala"
   ],
-  "resumen": "Avivamiento místico y popular del judaísmo de Europa oriental, iniciado por el Baal Shem Tov.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Chai.svg",

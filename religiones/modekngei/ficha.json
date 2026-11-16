@@ -1,0 +1,18 @@
+{
+  "id": "modekngei",
+  "region": "oce",
+  "inicio": 1915,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "micronesia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "catolica"
+  ],
+  "icono": null
+}

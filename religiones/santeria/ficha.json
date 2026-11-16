@@ -1,7 +1,5 @@
 {
   "id": "santeria",
-  "nombre": "Santería (Regla de Ocha)",
-  "alias": [],
   "region": "mes",
   "inicio": 1800,
   "fin": null,
@@ -17,6 +15,5 @@
     "catolica",
     "espiritismo"
   ],
-  "resumen": "Religión afrocubana de los orishas, identificados con santos católicos.",
   "icono": null
 }

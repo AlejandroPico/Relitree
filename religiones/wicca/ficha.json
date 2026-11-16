@@ -1,7 +1,5 @@
 {
   "id": "wicca",
-  "nombre": "Wicca",
-  "alias": [],
   "region": "eur",
   "inicio": 1954,
   "fin": null,
@@ -16,7 +14,6 @@
   "influencias": [
     "celta"
   ],
-  "resumen": "Brujería moderna dada a conocer por Gerald Gardner: una diosa y un dios, ocho festividades y magia ritual.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Pentacle_1.svg",

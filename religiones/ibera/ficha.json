@@ -1,0 +1,19 @@
+{
+  "id": "ibera",
+  "region": "eur",
+  "inicio": -600,
+  "fin": -50,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "eur-neo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "fenicia",
+    "griega"
+  ],
+  "icono": null
+}

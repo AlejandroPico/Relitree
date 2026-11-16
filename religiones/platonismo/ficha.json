@@ -1,7 +1,5 @@
 {
   "id": "platonismo",
-  "nombre": "Platonismo",
-  "alias": [],
   "region": "eur",
   "inicio": -387,
   "fin": 100,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Filosofía de Platón: un mundo de formas eternas y un alma inmortal, de enorme huella en la teología posterior.",
   "icono": null
 }

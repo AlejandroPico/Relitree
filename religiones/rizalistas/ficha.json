@@ -1,0 +1,18 @@
+{
+  "id": "rizalistas",
+  "region": "sea",
+  "inicio": 1900,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "anitismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "catolica"
+  ],
+  "icono": null
+}

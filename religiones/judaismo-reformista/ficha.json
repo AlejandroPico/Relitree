@@ -1,7 +1,5 @@
 {
   "id": "judaismo-reformista",
-  "nombre": "Judaísmo reformista",
-  "alias": [],
   "region": "eur",
   "inicio": 1810,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Corriente liberal nacida en Alemania que adapta la práctica judía a la modernidad.",
   "icono": null
 }

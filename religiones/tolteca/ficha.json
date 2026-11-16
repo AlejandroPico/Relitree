@@ -1,7 +1,5 @@
 {
   "id": "tolteca",
-  "nombre": "Religión tolteca",
-  "alias": [],
   "region": "mes",
   "inicio": 900,
   "fin": 1168,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Religión de Tula, difusora del culto a Quetzalcóatl.",
   "icono": null
 }

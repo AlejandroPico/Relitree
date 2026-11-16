@@ -1,7 +1,5 @@
 {
   "id": "meditacion-t",
-  "nombre": "Meditación Trascendental",
-  "alias": [],
   "region": "asm",
   "inicio": 1955,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Técnica de meditación con mantra difundida por Maharishi Mahesh Yogi.",
   "icono": null
 }

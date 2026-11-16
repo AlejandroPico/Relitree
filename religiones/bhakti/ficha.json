@@ -1,7 +1,5 @@
 {
   "id": "bhakti",
-  "nombre": "Movimiento bhakti",
-  "alias": [],
   "region": "asm",
   "inicio": 600,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "shivaismo"
   ],
-  "resumen": "Oleada de devoción personal y poesía en lenguas vernáculas, abierta a todas las castas.",
   "icono": null
 }

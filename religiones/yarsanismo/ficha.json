@@ -1,7 +1,5 @@
 {
   "id": "yarsanismo",
-  "nombre": "Yarsanismo",
-  "alias": [],
   "region": "opr",
   "inicio": 1400,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "chiismo"
   ],
-  "resumen": "Tradición kurda de la «gente de la verdad», con manifestaciones sucesivas de lo divino.",
   "icono": null
 }

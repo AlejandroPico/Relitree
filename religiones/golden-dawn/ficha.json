@@ -1,7 +1,5 @@
 {
   "id": "golden-dawn",
-  "nombre": "Orden Hermética de la Aurora Dorada",
-  "alias": [],
   "region": "eur",
   "inicio": 1888,
   "fin": 1903,
@@ -17,7 +15,6 @@
     "masoneria",
     "cabala"
   ],
-  "resumen": "Orden mágica británica que sistematizó el ocultismo ceremonial moderno.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Rose_Cross_Lamen.svg",

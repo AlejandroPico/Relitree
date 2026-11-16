@@ -1,7 +1,5 @@
 {
   "id": "candomble",
-  "nombre": "Candomblé",
-  "alias": [],
   "region": "sam",
   "inicio": 1830,
   "fin": null,
@@ -17,7 +15,6 @@
     "bantu",
     "catolica"
   ],
-  "resumen": "Religión afrobrasileña de los orixás, nacida en Bahía.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Of%C3%A1_candombl%C3%A9.svg",

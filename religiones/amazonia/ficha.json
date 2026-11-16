@@ -1,7 +1,5 @@
 {
   "id": "amazonia",
-  "nombre": "Chamanismo amazónico",
-  "alias": [],
   "region": "sam",
   "inicio": -8000,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Tradiciones de la selva: chamanes, plantas visionarias y un mundo donde animales y espíritus son personas.",
   "icono": null
 }

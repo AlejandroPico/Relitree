@@ -1,7 +1,5 @@
 {
   "id": "bahai",
-  "nombre": "Fe bahá'í",
-  "alias": [],
   "region": "opr",
   "inicio": 1863,
   "fin": null,
@@ -14,11 +12,12 @@
     }
   ],
   "influencias": [],
-  "resumen": "Religión de Bahá'u'lláh: unidad de Dios, de las religiones y de la humanidad.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Bahai_star.svg",
     "licencia": "Public domain",
     "autor": "Wikimedia Commons"
-  }
+  },
+  "fieles": 6000000,
+  "fieles_fuente": "Estimación aproximada"
 }

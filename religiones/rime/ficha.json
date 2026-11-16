@@ -1,0 +1,19 @@
+{
+  "id": "rime",
+  "region": "aso",
+  "inicio": 1850,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "nyingma",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "kagyu",
+    "sakya"
+  ],
+  "icono": null
+}

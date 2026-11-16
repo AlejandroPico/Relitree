@@ -1,0 +1,16 @@
+{
+  "id": "masai",
+  "region": "afr",
+  "inicio": 1500,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "nilo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

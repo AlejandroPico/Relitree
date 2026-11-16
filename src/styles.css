@@ -76,17 +76,26 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .acerca a:hover, .acciones a:hover { background: color-mix(in srgb, var(--texto) 7%, transparent); color: var(--acento); }
 .acerca .autor { margin: 10px 0 0; padding: 0; }
 
-/* ---- Panel de detalle ---- */
-.detalle { position: fixed; top: 56px; left: 12px; bottom: 12px; width: 372px; padding: 26px 26px 20px; overflow: auto; animation: entra .28s cubic-bezier(.2, .8, .2, 1); }
+/* ---- Panel de detalle: cabecera fija y cuerpo desplazable sin barra ---- */
+.detalle { position: fixed; top: 56px; left: 12px; max-height: calc(100vh - 68px); width: 372px; display: flex; flex-direction: column; overflow: hidden; animation: entra .28s cubic-bezier(.2, .8, .2, 1); }
 @keyframes entra { from { transform: translateX(-24px); opacity: 0; } }
-.detalle .cerrar { position: absolute; top: 10px; right: 10px; }
+.cabeza { flex: none; display: grid; grid-template-columns: auto 1fr auto; gap: 14px; align-items: center; padding: 20px 14px 14px 24px; }
+.cabeza.sola { grid-template-columns: 1fr auto; }
+.cabeza .simbolo { width: 58px; height: 58px; margin: 0; }
+.cabeza .cerrar { align-self: start; }
+.cuerpo { overflow-y: auto; padding: 2px 24px 22px; scrollbar-width: none; overscroll-behavior: contain; -webkit-mask-image: linear-gradient(transparent, #000 14px, #000 calc(100% - 22px), transparent); mask-image: linear-gradient(transparent, #000 14px, #000 calc(100% - 22px), transparent); }
+.cuerpo::-webkit-scrollbar { display: none; }
+.cuerpo > :first-child { margin-top: 10px; }
+.fieles { margin-top: 12px; font-size: 13px; color: var(--tenue); display: flex; align-items: baseline; gap: 6px; }
+.fieles b { font: 600 19px var(--serif); color: var(--texto); }
+.nota { margin-top: 16px; font-size: 11.5px; color: var(--tenue); }
 .simbolo { width: 76px; height: 76px; display: block; margin-bottom: 14px; }
 .simbolo circle { fill: none; stroke: currentColor; stroke-width: 1.6; }
 .simbolo:has(image) circle { fill: #f6f3ea; }
 .simbolo path { fill: none; stroke: currentColor; stroke-width: 1.3; stroke-linecap: round; stroke-linejoin: round; }
-.detalle h2 { font: 600 25px/1.18 var(--serif); letter-spacing: -.01em; margin-bottom: 8px; }
+.detalle h2 { font: 600 22px/1.16 var(--serif); letter-spacing: -.01em; margin-bottom: 4px; }
 .datos { color: var(--tenue); font-size: 12.5px; font-variant-numeric: tabular-nums; }
-.etiqueta { text-transform: uppercase; letter-spacing: .09em; font-weight: 600; margin: 6px 0 14px; }
+.etiqueta { text-transform: uppercase; letter-spacing: .09em; font-weight: 600; }
 .resumen { margin-top: 14px; font: 16px/1.58 var(--serif); }
 .lista.grande a { font: 600 18px var(--serif); } .flecha { display: block; padding: 2px 6px; color: var(--tenue); }
 .acciones { margin-top: 22px; }
@@ -96,6 +105,14 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 @keyframes aparece { from { opacity: 0; } }
 .enciclopedia nav { padding: 18px 8px 0 18px; display: flex; flex-direction: column; min-height: 0; }
 .enciclopedia .indice { overflow: auto; flex: 1; padding: 6px 8px 30px 0; }
+.enciclopedia .orden { display: flex; gap: 4px; margin: 10px 0 2px; }
+.enciclopedia .orden button { border: 0; background: none; cursor: pointer; padding: 4px 10px; border-radius: 999px; font-size: 12px; color: var(--tenue); }
+.enciclopedia .orden button.activo { color: var(--texto); background: color-mix(in srgb, var(--texto) 9%, transparent); }
+.enciclopedia summary { cursor: pointer; list-style: none; font-size: 11px; font-weight: 600; letter-spacing: .09em; text-transform: uppercase; margin: 16px 0 6px; display: flex; justify-content: space-between; }
+.enciclopedia summary::-webkit-details-marker { display: none; }
+.enciclopedia summary small { color: var(--tenue); letter-spacing: 0; }
+.enciclopedia .indice a.sub { padding-left: 24px; font-size: 12.5px; }
+.enciclopedia .indice { scrollbar-width: thin; }
 .enciclopedia .indice a { display: block; padding: 4px 9px; border-radius: 7px; font-size: 13.5px; color: var(--tenue); }
 .enciclopedia .indice a:hover { color: var(--texto); }
 .enciclopedia .indice a.activo { color: var(--texto); background: color-mix(in srgb, var(--texto) 8%, transparent); }
@@ -125,3 +142,4 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
   .flotante { left: 8px; right: 8px; width: auto; }
   .enciclopedia { grid-template-columns: 1fr; } .enciclopedia nav { display: none; }
 }
+.volver { margin: -14px 0 22px; } .volver a { color: var(--acento); }

@@ -1,7 +1,5 @@
 {
   "id": "donatismo",
-  "nombre": "Donatismo",
-  "alias": [],
   "region": "afr",
   "inicio": 311,
   "fin": 700,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Iglesia rigorista del norte de África que negaba la validez de los sacramentos de clérigos indignos.",
   "icono": null
 }

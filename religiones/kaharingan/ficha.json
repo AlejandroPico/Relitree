@@ -1,7 +1,5 @@
 {
   "id": "kaharingan",
-  "nombre": "Kaharingan",
-  "alias": [],
   "region": "sea",
   "inicio": -500,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Religión de los dayak de Borneo, célebre por sus segundos funerales.",
   "icono": null
 }

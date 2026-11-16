@@ -1,0 +1,16 @@
+{
+  "id": "pushtimarg",
+  "region": "asm",
+  "inicio": 1500,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "visnuismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

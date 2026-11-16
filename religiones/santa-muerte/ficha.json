@@ -1,7 +1,5 @@
 {
   "id": "santa-muerte",
-  "nombre": "Culto a la Santa Muerte",
-  "alias": [],
   "region": "mes",
   "inicio": 1960,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Devoción popular mexicana a la muerte personificada como santa.",
   "icono": null
 }

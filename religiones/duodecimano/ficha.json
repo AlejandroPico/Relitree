@@ -1,7 +1,5 @@
 {
   "id": "duodecimano",
-  "nombre": "Chiismo duodecimano",
-  "alias": [],
   "region": "opr",
   "inicio": 874,
   "fin": null,
@@ -14,6 +12,7 @@
     }
   ],
   "influencias": [],
-  "resumen": "Corriente chií mayoritaria, que espera el retorno del duodécimo imán oculto.",
-  "icono": null
+  "icono": null,
+  "fieles": 170000000,
+  "fieles_fuente": "Estimación aproximada"
 }

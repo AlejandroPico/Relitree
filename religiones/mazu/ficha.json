@@ -1,0 +1,16 @@
+{
+  "id": "mazu",
+  "region": "aso",
+  "inicio": 980,
+  "fin": null,
+  "tipo": "pol",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "china-pop",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

@@ -1,7 +1,5 @@
 {
   "id": "antroposofia",
-  "nombre": "Antroposofía",
-  "alias": [],
   "region": "eur",
   "inicio": 1912,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Ciencia espiritual de Rudolf Steiner, origen de la pedagogía Waldorf y la agricultura biodinámica.",
   "icono": null
 }

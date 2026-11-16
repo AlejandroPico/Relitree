@@ -1,0 +1,21 @@
+{
+  "id": "celta-reconstr",
+  "region": "nam",
+  "inicio": 1985,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "celta",
+      "relacion": "renacimiento"
+    }
+  ],
+  "influencias": [],
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Triquetra-Double.svg",
+    "licencia": "Public domain",
+    "autor": "original raster image and vector PostScript source code by AnonMoos, initial vectorization by Erin Silversmith"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "garifuna",
+  "region": "mes",
+  "inicio": 1700,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "arawak",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "afr-oeste"
+  ],
+  "icono": null
+}

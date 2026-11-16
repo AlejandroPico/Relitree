@@ -1,7 +1,5 @@
 {
   "id": "jainismo",
-  "nombre": "Jainismo",
-  "alias": [],
   "region": "asm",
   "inicio": -600,
   "fin": null,
@@ -14,11 +12,12 @@
     }
   ],
   "influencias": [],
-  "resumen": "Vía de la no violencia absoluta y el ascetismo enseñada por los tirthankaras, el último de ellos Mahavira.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Jain_Prateek_Chihna.svg",
     "licencia": "CC BY-SA 3.0",
     "autor": "Original:  Mpanchratan Vector:  Chainwit."
-  }
+  },
+  "fieles": 5000000,
+  "fieles_fuente": "Estimación aproximada"
 }

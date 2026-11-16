@@ -1,0 +1,16 @@
+{
+  "id": "kegon",
+  "region": "aso",
+  "inicio": 740,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "huayan",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

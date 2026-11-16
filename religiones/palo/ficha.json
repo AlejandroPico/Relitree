@@ -1,7 +1,5 @@
 {
   "id": "palo",
-  "nombre": "Palo Monte",
-  "alias": [],
   "region": "mes",
   "inicio": 1800,
   "fin": null,
@@ -9,13 +7,12 @@
   "importancia": 1,
   "padres": [
     {
-      "id": "bantu",
+      "id": "kongo",
       "relacion": "derivacion"
     }
   ],
   "influencias": [
     "catolica"
   ],
-  "resumen": "Tradición afrocubana de raíz kongo, centrada en los espíritus de los muertos.",
   "icono": null
 }

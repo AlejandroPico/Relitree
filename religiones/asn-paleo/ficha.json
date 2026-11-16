@@ -1,7 +1,5 @@
 {
   "id": "asn-paleo",
-  "nombre": "Paleolítico superior de Eurasia septentrional",
-  "alias": [],
   "region": "asn",
   "inicio": -35000,
   "fin": -8000,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Enterramientos ricamente adornados (Sungir, Mal'tá) y figurillas de marfil de los cazadores de mamut de la estepa fría.",
   "icono": null
 }

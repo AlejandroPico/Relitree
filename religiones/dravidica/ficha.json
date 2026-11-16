@@ -1,7 +1,5 @@
 {
   "id": "dravidica",
-  "nombre": "Religión popular dravídica",
-  "alias": [],
   "region": "asm",
   "inicio": -1500,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Cultos de aldea del sur de la India a diosas madres, héroes y espíritus, luego integrados en el hinduismo.",
   "icono": null
 }

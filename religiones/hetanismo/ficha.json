@@ -1,0 +1,16 @@
+{
+  "id": "hetanismo",
+  "region": "opr",
+  "inicio": 1991,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "armenia-pagana",
+      "relacion": "renacimiento"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

@@ -1,7 +1,5 @@
 {
   "id": "wahabismo",
-  "nombre": "Wahabismo",
-  "alias": [],
   "region": "opr",
   "inicio": 1744,
   "fin": null,
@@ -9,11 +7,10 @@
   "importancia": 2,
   "padres": [
     {
-      "id": "sunismo",
+      "id": "hanbali",
       "relacion": "reforma"
     }
   ],
   "influencias": [],
-  "resumen": "Reforma puritana de Arabia que rechaza toda práctica considerada innovación.",
   "icono": null
 }

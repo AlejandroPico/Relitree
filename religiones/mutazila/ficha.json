@@ -1,0 +1,16 @@
+{
+  "id": "mutazila",
+  "region": "opr",
+  "inicio": 750,
+  "fin": 1200,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "sunismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

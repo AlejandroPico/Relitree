@@ -1,7 +1,5 @@
 {
   "id": "teosofia",
-  "nombre": "Teosofía",
-  "alias": [],
   "region": "nam",
   "inicio": 1875,
   "fin": null,
@@ -18,7 +16,6 @@
     "budismo",
     "hermetismo"
   ],
-  "resumen": "Sociedad fundada por Helena Blavatsky que buscó una sabiduría común a todas las religiones.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Theosophicalseal.svg",

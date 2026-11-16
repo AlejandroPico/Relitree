@@ -1,7 +1,5 @@
 {
   "id": "tenrikyo",
-  "nombre": "Tenrikyō",
-  "alias": [],
   "region": "aso",
   "inicio": 1838,
   "fin": null,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Religión revelada a Nakayama Miki, que invita a una «vida gozosa».",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Tenrikyo_emblem.svg",

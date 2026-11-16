@@ -1,7 +1,5 @@
 {
   "id": "hermetismo",
-  "nombre": "Hermetismo",
-  "alias": [],
   "region": "afr",
   "inicio": 100,
   "fin": 500,
@@ -16,7 +14,6 @@
   "influencias": [
     "platonismo"
   ],
-  "resumen": "Textos atribuidos a Hermes Trismegisto, mezcla de sabiduría egipcia y filosofía griega, base del esoterismo occidental.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Caduceus.svg",

@@ -1,7 +1,5 @@
 {
   "id": "alauies",
-  "nombre": "Alauismo",
-  "alias": [],
   "region": "opr",
   "inicio": 870,
   "fin": null,
@@ -16,6 +14,7 @@
   "influencias": [
     "gnosticismo"
   ],
-  "resumen": "Tradición esotérica de Siria que venera a Alí como manifestación divina.",
-  "icono": null
+  "icono": null,
+  "fieles": 4000000,
+  "fieles_fuente": "Estimación aproximada"
 }

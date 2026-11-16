@@ -1,7 +1,5 @@
 {
   "id": "zaidismo",
-  "nombre": "Zaidismo",
-  "alias": [],
   "region": "opr",
   "inicio": 740,
   "fin": null,
@@ -14,6 +12,7 @@
     }
   ],
   "influencias": [],
-  "resumen": "Rama chií del Yemen, la más próxima al sunismo.",
-  "icono": null
+  "icono": null,
+  "fieles": 10000000,
+  "fieles_fuente": "Estimación aproximada"
 }

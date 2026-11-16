@@ -1,0 +1,16 @@
+{
+  "id": "budismo-mongol",
+  "region": "asn",
+  "inicio": 1578,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "gelug",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

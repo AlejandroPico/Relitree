@@ -1,0 +1,16 @@
+{
+  "id": "aluk",
+  "region": "sea",
+  "inicio": -500,
+  "fin": null,
+  "tipo": "ant",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "austronesia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

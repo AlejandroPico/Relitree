@@ -1,7 +1,5 @@
 {
   "id": "china-neo",
-  "nombre": "Cultos neolíticos de China",
-  "alias": [],
   "region": "aso",
   "inicio": -7000,
   "fin": -1600,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Culturas de Yangshao, Hongshan y Liangzhu: altares, jades rituales y culto a los antepasados.",
   "icono": null
 }

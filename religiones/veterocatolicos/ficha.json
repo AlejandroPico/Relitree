@@ -1,7 +1,5 @@
 {
   "id": "veterocatolicos",
-  "nombre": "Iglesias veterocatólicas",
-  "alias": [],
   "region": "eur",
   "inicio": 1870,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Iglesias separadas de Roma tras rechazar la infalibilidad papal.",
   "icono": null
 }

@@ -1,7 +1,5 @@
 {
   "id": "arabia-pre",
-  "nombre": "Politeísmo árabe preislámico",
-  "alias": [],
   "region": "opr",
   "inicio": -1000,
   "fin": 630,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Cultos tribales de Arabia a divinidades astrales y betilos, con santuarios de peregrinación como La Meca.",
   "icono": null
 }

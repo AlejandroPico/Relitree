@@ -1,7 +1,5 @@
 {
   "id": "bereber",
-  "nombre": "Religión bereber antigua",
-  "alias": [],
   "region": "afr",
   "inicio": -3000,
   "fin": 700,
@@ -17,6 +15,10 @@
     "egipto",
     "punica"
   ],
-  "resumen": "Cultos del norte de África a los astros, las rocas y los muertos, con santuarios funerarios y divinidades compartidas con Egipto y Cartago.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Tifinagh_Letter_Yaz.svg",
+    "licencia": "CC BY-SA 3.0",
+    "autor": "Alex Great"
+  }
 }

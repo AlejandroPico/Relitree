@@ -1,7 +1,5 @@
 {
   "id": "elamita",
-  "nombre": "Religión elamita",
-  "alias": [],
   "region": "opr",
   "inicio": -2700,
   "fin": -539,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Religión del suroeste de Irán, con zigurats como Chogha Zanbil.",
   "icono": null
 }

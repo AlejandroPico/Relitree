@@ -1,7 +1,5 @@
 {
   "id": "nat",
-  "nombre": "Culto birmano a los nat",
-  "alias": [],
   "region": "sea",
   "inicio": 1050,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "theravada-sea"
   ],
-  "resumen": "Panteón de treinta y siete espíritus oficializado por los reyes de Pagan.",
   "icono": null
 }

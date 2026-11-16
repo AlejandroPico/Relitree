@@ -1,7 +1,5 @@
 {
   "id": "austronesia",
-  "nombre": "Religiones austronesias",
-  "alias": [],
   "region": "sea",
   "inicio": -3000,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "sea-paleo"
   ],
-  "resumen": "Creencias de los navegantes salidos de Taiwán: antepasados, espíritus del lugar, mana y tabú.",
   "icono": null
 }

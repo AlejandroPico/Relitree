@@ -1,7 +1,5 @@
 {
   "id": "sant-mat",
-  "nombre": "Tradición sant",
-  "alias": [],
   "region": "asm",
   "inicio": 1300,
   "fin": null,
@@ -16,7 +14,6 @@
   "influencias": [
     "sufismo"
   ],
-  "resumen": "Poetas santos del norte de la India, como Kabir, que predicaron un dios sin forma más allá de hindúes y musulmanes.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Ek_onkar.svg",

@@ -1,7 +1,5 @@
 {
   "id": "ubaid",
-  "nombre": "Culturas de Ubaid y Uruk",
-  "alias": [],
   "region": "opr",
   "inicio": -6500,
   "fin": -3500,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Primeros templos de Mesopotamia, levantados sobre plataformas en Eridu y Uruk.",
   "icono": null
 }

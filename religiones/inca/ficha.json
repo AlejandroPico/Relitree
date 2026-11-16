@@ -1,7 +1,5 @@
 {
   "id": "inca",
-  "nombre": "Religión inca",
-  "alias": [],
   "region": "sam",
   "inicio": 1200,
   "fin": 1572,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Religión imperial del Sol, con Viracocha, la Pachamama, las huacas y las momias de los soberanos.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Tawa_chakana.svg",

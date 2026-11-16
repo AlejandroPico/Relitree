@@ -1,7 +1,5 @@
 {
   "id": "aladura",
-  "nombre": "Iglesias aladura",
-  "alias": [],
   "region": "afr",
   "inicio": 1918,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "yoruba"
   ],
-  "resumen": "Iglesias proféticas nigerianas centradas en la oración, la sanación y las visiones.",
   "icono": null
 }

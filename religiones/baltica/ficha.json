@@ -1,7 +1,5 @@
 {
   "id": "baltica",
-  "nombre": "Religión báltica",
-  "alias": [],
   "region": "eur",
   "inicio": -500,
   "fin": 1400,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Paganismo de lituanos, letones y prusianos, el último de Europa en ser cristianizado.",
   "icono": null
 }

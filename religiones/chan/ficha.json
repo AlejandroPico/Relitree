@@ -1,7 +1,5 @@
 {
   "id": "chan",
-  "nombre": "Budismo chan",
-  "alias": [],
   "region": "aso",
   "inicio": 520,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "taoismo"
   ],
-  "resumen": "Escuela de la meditación y el despertar súbito, que la tradición remonta a Bodhidharma.",
   "icono": null
 }

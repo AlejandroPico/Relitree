@@ -1,7 +1,5 @@
 {
   "id": "nuevo-pensamiento",
-  "nombre": "Nuevo Pensamiento",
-  "alias": [],
   "region": "nam",
   "inicio": 1860,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "espiritualismo"
   ],
-  "resumen": "Corriente de sanación mental y pensamiento positivo.",
   "icono": null
 }

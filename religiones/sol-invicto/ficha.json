@@ -1,0 +1,18 @@
+{
+  "id": "sol-invicto",
+  "region": "eur",
+  "inicio": 274,
+  "fin": 392,
+  "tipo": "hen",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "romana",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "mitraismo"
+  ],
+  "icono": null
+}

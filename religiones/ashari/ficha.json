@@ -1,0 +1,18 @@
+{
+  "id": "ashari",
+  "region": "opr",
+  "inicio": 915,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "sunismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "mutazila"
+  ],
+  "icono": null
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sabeos-harran",
+  "region": "opr",
+  "inicio": -600,
+  "fin": 1100,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "babilonica",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "neoplatonismo",
+    "hermetismo"
+  ],
+  "icono": null
+}

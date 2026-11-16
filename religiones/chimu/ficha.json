@@ -1,0 +1,16 @@
+{
+  "id": "chimu",
+  "region": "sam",
+  "inicio": 900,
+  "fin": 1470,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "moche",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

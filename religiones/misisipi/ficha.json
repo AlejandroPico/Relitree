@@ -1,7 +1,5 @@
 {
   "id": "misisipi",
-  "nombre": "Complejo ceremonial misisipiano",
-  "alias": [],
   "region": "nam",
   "inicio": 800,
   "fin": 1600,
@@ -16,6 +14,5 @@
   "influencias": [
     "tolteca"
   ],
-  "resumen": "Sociedades de grandes montículos-plataforma, como Cahokia, con iconografía solar y de guerreros-ave.",
   "icono": null
 }

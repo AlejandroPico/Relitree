@@ -1,0 +1,18 @@
+{
+  "id": "priscilianismo",
+  "region": "eur",
+  "inicio": 370,
+  "fin": 580,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "cristianismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [
+    "gnosticismo"
+  ],
+  "icono": null
+}

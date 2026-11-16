@@ -1,0 +1,16 @@
+{
+  "id": "soto",
+  "region": "aso",
+  "inicio": 1227,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "zen",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

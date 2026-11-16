@@ -1,0 +1,18 @@
+{
+  "id": "cachemir",
+  "region": "asm",
+  "inicio": 850,
+  "fin": null,
+  "tipo": "pan",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "shivaismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "tantra"
+  ],
+  "icono": null
+}

@@ -1,7 +1,5 @@
 {
   "id": "egipto",
-  "nombre": "Religión del antiguo Egipto",
-  "alias": [],
   "region": "afr",
   "inicio": -3100,
   "fin": 540,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Tres milenios de templos, realeza divina, juicio de los muertos y un panteón encabezado por Ra, Osiris, Isis y Amón.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Ankh.svg",

@@ -1,7 +1,5 @@
 {
   "id": "sasia-pre",
-  "nombre": "Tradiciones prehistóricas del sur de Asia",
-  "alias": [],
   "region": "asm",
   "inicio": -65000,
   "fin": -3300,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Arte rupestre de Bhimbetka y cultos aldeanos tempranos como Mehrgarh, sustrato de las religiones posteriores del subcontinente.",
   "icono": null
 }

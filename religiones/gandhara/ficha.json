@@ -1,0 +1,18 @@
+{
+  "id": "gandhara",
+  "region": "asn",
+  "inicio": -180,
+  "fin": 500,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "sarvastivada",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "griega"
+  ],
+  "icono": null
+}

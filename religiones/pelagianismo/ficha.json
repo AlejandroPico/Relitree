@@ -1,0 +1,16 @@
+{
+  "id": "pelagianismo",
+  "region": "eur",
+  "inicio": 410,
+  "fin": 530,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "cristianismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

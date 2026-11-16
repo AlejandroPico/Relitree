@@ -1,0 +1,16 @@
+{
+  "id": "cusita",
+  "region": "afr",
+  "inicio": -3000,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "afr-msa",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

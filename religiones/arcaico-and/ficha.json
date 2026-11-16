@@ -1,7 +1,5 @@
 {
   "id": "arcaico-and",
-  "nombre": "Tradiciones arcaicas andinas",
-  "alias": [],
   "region": "sam",
   "inicio": -9000,
   "fin": -3000,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Primeros cazadores y pescadores de los Andes; los chinchorro momificaron a sus muertos antes que Egipto.",
   "icono": null
 }

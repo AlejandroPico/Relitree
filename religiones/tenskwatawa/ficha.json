@@ -1,0 +1,16 @@
+{
+  "id": "tenskwatawa",
+  "region": "nam",
+  "inicio": 1805,
+  "fin": 1813,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "misisipi",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

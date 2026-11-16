@@ -1,7 +1,5 @@
 {
   "id": "griega",
-  "nombre": "Religión griega antigua",
-  "alias": [],
   "region": "eur",
   "inicio": -800,
   "fin": 400,
@@ -16,6 +14,5 @@
   "influencias": [
     "fenicia"
   ],
-  "resumen": "Culto cívico a los dioses olímpicos, con sacrificios, oráculos, festivales y una mitología que marcó a Occidente.",
   "icono": null
 }

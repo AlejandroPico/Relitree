@@ -1,7 +1,5 @@
 {
   "id": "hinduismo",
-  "nombre": "Hinduismo clásico",
-  "alias": [],
   "region": "asm",
   "inicio": -200,
   "fin": null,
@@ -17,11 +15,12 @@
     "dravidica",
     "sramana"
   ],
-  "resumen": "Síntesis de las epopeyas y los Puranas: dharma, devoción a grandes deidades y culto en templos.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Om_symbol.svg",
     "licencia": "Public domain",
     "autor": "The Unicode Consortium"
-  }
+  },
+  "fieles": 1200000000,
+  "fieles_fuente": "Pew Research Center, 2020"
 }

@@ -1,0 +1,16 @@
+{
+  "id": "qadiriyya",
+  "region": "opr",
+  "inicio": 1166,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "sufismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

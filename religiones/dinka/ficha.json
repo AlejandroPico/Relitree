@@ -1,0 +1,16 @@
+{
+  "id": "dinka",
+  "region": "afr",
+  "inicio": 1000,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "nilo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

@@ -1,7 +1,5 @@
 {
   "id": "kemetismo",
-  "nombre": "Kemetismo",
-  "alias": [],
   "region": "nam",
   "inicio": 1988,
   "fin": null,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Reconstrucción moderna de la religión del antiguo Egipto.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Eye_of_Horus_bw.svg",

@@ -1,0 +1,16 @@
+{
+  "id": "nubia-cristiana",
+  "region": "afr",
+  "inicio": 543,
+  "fin": 1500,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "copta",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

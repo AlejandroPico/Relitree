@@ -1,7 +1,5 @@
 {
   "id": "espiritismo",
-  "nombre": "Espiritismo",
-  "alias": [],
   "region": "eur",
   "inicio": 1857,
   "fin": null,
@@ -16,6 +14,7 @@
   "influencias": [
     "catolica"
   ],
-  "resumen": "Doctrina codificada por Allan Kardec: comunicación con los espíritus y progreso a través de la reencarnación.",
-  "icono": null
+  "icono": null,
+  "fieles": 13000000,
+  "fieles_fuente": "Estimación aproximada"
 }

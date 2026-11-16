@@ -1,0 +1,18 @@
+{
+  "id": "shaker-india",
+  "region": "nam",
+  "inicio": 1881,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "costa-nw",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "catolica"
+  ],
+  "icono": null
+}

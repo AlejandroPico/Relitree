@@ -1,0 +1,18 @@
+{
+  "id": "salafismo",
+  "region": "afr",
+  "inicio": 1880,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "sunismo",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [
+    "wahabismo"
+  ],
+  "icono": null
+}

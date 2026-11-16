@@ -1,0 +1,21 @@
+{
+  "id": "jesuitas",
+  "region": "eur",
+  "inicio": 1540,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "catolica",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ihs-logo.svg",
+    "licencia": "Public domain",
+    "autor": "Moranski"
+  }
+}

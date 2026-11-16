@@ -1,0 +1,16 @@
+{
+  "id": "buu-son",
+  "region": "sea",
+  "inicio": 1849,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "thien",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

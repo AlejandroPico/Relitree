@@ -1,0 +1,16 @@
+{
+  "id": "huayan",
+  "region": "aso",
+  "inicio": 600,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "budismo-chino",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

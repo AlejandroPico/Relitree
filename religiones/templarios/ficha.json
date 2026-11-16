@@ -1,0 +1,21 @@
+{
+  "id": "templarios",
+  "region": "eur",
+  "inicio": 1119,
+  "fin": 1312,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "catolica",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Knights_Templar_Cross_Patt%C3%A9e.svg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "RootOfAllLight"
+  }
+}

@@ -1,7 +1,5 @@
 {
   "id": "zapoteca",
-  "nombre": "Religión zapoteca",
-  "alias": [],
   "region": "mes",
   "inicio": -500,
   "fin": 1521,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Religión de Monte Albán, con el dios de la lluvia Cocijo y culto a los antepasados nobles.",
   "icono": null
 }

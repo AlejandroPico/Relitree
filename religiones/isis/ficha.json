@@ -1,7 +1,5 @@
 {
   "id": "isis",
-  "nombre": "Misterios de Isis",
-  "alias": [],
   "region": "eur",
   "inicio": -300,
   "fin": 400,
@@ -16,7 +14,6 @@
   "influencias": [
     "griega"
   ],
-  "resumen": "Culto egipcio helenizado de la diosa Isis, difundido por todo el Mediterráneo romano.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Tyet_of_Isis.svg",

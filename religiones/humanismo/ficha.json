@@ -1,0 +1,16 @@
+{
+  "id": "humanismo",
+  "region": "nam",
+  "inicio": 1933,
+  "fin": null,
+  "tipo": "fil",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "unitarismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

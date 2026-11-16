@@ -1,0 +1,16 @@
+{
+  "id": "escuelas-tempranas",
+  "region": "asm",
+  "inicio": -350,
+  "fin": 700,
+  "tipo": "nte",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "budismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

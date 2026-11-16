@@ -1,7 +1,5 @@
 {
   "id": "serpiente",
-  "nombre": "Culto de la Serpiente Arcoíris",
-  "alias": [],
   "region": "oce",
   "inicio": -6000,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Gran ser creador ligado al agua, presente en el arte rupestre de la Tierra de Arnhem desde hace miles de años.",
   "icono": null
 }

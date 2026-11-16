@@ -1,0 +1,16 @@
+{
+  "id": "winti",
+  "region": "sam",
+  "inicio": 1700,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "akan",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

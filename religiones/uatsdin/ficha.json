@@ -1,0 +1,21 @@
+{
+  "id": "uatsdin",
+  "region": "asn",
+  "inicio": 1980,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "escita",
+      "relacion": "renacimiento"
+    }
+  ],
+  "influencias": [],
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Assianism_symbol.svg",
+    "licencia": "Public domain",
+    "autor": "Eckhardt Etheling."
+  }
+}

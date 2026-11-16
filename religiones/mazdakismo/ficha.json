@@ -1,7 +1,5 @@
 {
   "id": "mazdakismo",
-  "nombre": "Mazdakismo",
-  "alias": [],
   "region": "opr",
   "inicio": 490,
   "fin": 800,
@@ -16,6 +14,5 @@
   "influencias": [
     "maniqueismo"
   ],
-  "resumen": "Movimiento igualitario persa que predicaba la comunidad de bienes.",
   "icono": null
 }

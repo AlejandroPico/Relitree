@@ -1,0 +1,16 @@
+{
+  "id": "reiyukai",
+  "region": "aso",
+  "inicio": 1925,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "nichiren",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

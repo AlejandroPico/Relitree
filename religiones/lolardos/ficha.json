@@ -1,0 +1,16 @@
+{
+  "id": "lolardos",
+  "region": "eur",
+  "inicio": 1380,
+  "fin": 1530,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "catolica",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

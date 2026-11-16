@@ -1,0 +1,16 @@
+{
+  "id": "jansenismo",
+  "region": "eur",
+  "inicio": 1640,
+  "fin": 1800,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "catolica",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

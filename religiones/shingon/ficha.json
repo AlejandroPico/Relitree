@@ -1,7 +1,5 @@
 {
   "id": "shingon",
-  "nombre": "Shingon",
-  "alias": [],
   "region": "aso",
   "inicio": 806,
   "fin": null,
@@ -9,12 +7,11 @@
   "importancia": 2,
   "padres": [
     {
-      "id": "vajrayana",
+      "id": "zhenyan",
       "relacion": "derivacion"
     }
   ],
   "influencias": [],
-  "resumen": "Budismo esotérico japonés fundado por Kūkai.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Siddham_a.svg",

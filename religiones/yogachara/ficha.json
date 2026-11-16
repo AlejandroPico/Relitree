@@ -1,0 +1,16 @@
+{
+  "id": "yogachara",
+  "region": "asm",
+  "inicio": 350,
+  "fin": null,
+  "tipo": "fil",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "mahayana",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

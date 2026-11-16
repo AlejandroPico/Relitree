@@ -1,0 +1,16 @@
+{
+  "id": "teologia-liberacion",
+  "region": "sam",
+  "inicio": 1968,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "catolica",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

@@ -1,7 +1,5 @@
 {
   "id": "dao-mau",
-  "nombre": "Đạo Mẫu",
-  "alias": [],
   "region": "sea",
   "inicio": 1500,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "taoismo"
   ],
-  "resumen": "Culto vietnamita a las diosas madres, con ceremonias de médiums.",
   "icono": null
 }

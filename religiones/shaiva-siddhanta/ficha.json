@@ -1,0 +1,16 @@
+{
+  "id": "shaiva-siddhanta",
+  "region": "asm",
+  "inicio": 600,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "shivaismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

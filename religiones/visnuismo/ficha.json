@@ -1,7 +1,5 @@
 {
   "id": "visnuismo",
-  "nombre": "Vaishnavismo",
-  "alias": [],
   "region": "asm",
   "inicio": -200,
   "fin": null,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Devoción a Vishnu y sus avatares, en especial Krishna y Rama.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Brahma_Madhya_Gaudiya_Tilaka.svg",

@@ -1,7 +1,5 @@
 {
   "id": "mormonismo",
-  "nombre": "Mormonismo",
-  "alias": [],
   "region": "nam",
   "inicio": 1830,
   "fin": null,
@@ -16,6 +14,7 @@
   "influencias": [
     "masoneria"
   ],
-  "resumen": "Movimiento de los Santos de los Últimos Días, fundado por Joseph Smith a partir del Libro de Mormón.",
-  "icono": null
+  "icono": null,
+  "fieles": 17000000,
+  "fieles_fuente": "Estimación aproximada"
 }

@@ -1,7 +1,5 @@
 {
   "id": "maya-catolica",
-  "nombre": "Catolicismo indígena mesoamericano",
-  "alias": [],
   "region": "mes",
   "inicio": 1524,
   "fin": null,
@@ -17,6 +15,5 @@
     "catolica",
     "mexica"
   ],
-  "resumen": "Fusión de santos católicos, cerros sagrados y calendario ritual prehispánico.",
   "icono": null
 }

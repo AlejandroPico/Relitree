@@ -1,0 +1,18 @@
+{
+  "id": "martinismo",
+  "region": "eur",
+  "inicio": 1770,
+  "fin": null,
+  "tipo": "eso",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "masoneria",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "cabala"
+  ],
+  "icono": null
+}

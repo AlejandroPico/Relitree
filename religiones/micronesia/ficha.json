@@ -1,7 +1,5 @@
 {
   "id": "micronesia",
-  "nombre": "Religiones micronesias",
-  "alias": [],
   "region": "oce",
   "inicio": -1500,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Creencias de los atolones del Pacífico occidental, con navegantes-sacerdotes y culto a los antepasados.",
   "icono": null
 }

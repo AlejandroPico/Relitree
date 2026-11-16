@@ -1,0 +1,16 @@
+{
+  "id": "fundamentalismo",
+  "region": "nam",
+  "inicio": 1910,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "evangelicalismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

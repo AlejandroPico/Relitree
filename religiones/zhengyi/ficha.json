@@ -1,0 +1,16 @@
+{
+  "id": "zhengyi",
+  "region": "aso",
+  "inicio": 1304,
+  "fin": null,
+  "tipo": "pol",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "maestros-cel",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "shakers",
+  "region": "nam",
+  "inicio": 1774,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "cuaqueros",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null,
+  "fieles": 3,
+  "fieles_fuente": "Estimación aproximada"
+}

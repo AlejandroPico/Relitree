@@ -1,7 +1,5 @@
 {
   "id": "etiope",
-  "nombre": "Iglesia ortodoxa etíope Tewahedo",
-  "alias": [],
   "region": "afr",
   "inicio": 330,
   "fin": null,
@@ -17,11 +15,12 @@
     "miafisismo",
     "judaismo"
   ],
-  "resumen": "Cristianismo de Aksum, con canon bíblico propio y prácticas de raíz judía.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Ethiopian_cross_(bold).svg",
     "licencia": "CC BY-SA 4.0",
     "autor": "Kwamikagami"
-  }
+  },
+  "fieles": 40000000,
+  "fieles_fuente": "Estimación aproximada"
 }

@@ -1,7 +1,5 @@
 {
   "id": "danza-espiritus",
-  "nombre": "Danza de los Espíritus",
-  "alias": [],
   "region": "nam",
   "inicio": 1889,
   "fin": 1891,
@@ -16,6 +14,5 @@
   "influencias": [
     "mormonismo"
   ],
-  "resumen": "Movimiento profético de Wovoka que anunciaba el regreso de los muertos y del bisonte.",
   "icono": null
 }

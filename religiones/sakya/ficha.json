@@ -1,0 +1,16 @@
+{
+  "id": "sakya",
+  "region": "aso",
+  "inicio": 1073,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "tibetano",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

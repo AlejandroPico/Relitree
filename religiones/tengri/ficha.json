@@ -1,7 +1,5 @@
 {
   "id": "tengri",
-  "nombre": "Tengrismo",
-  "alias": [],
   "region": "asn",
   "inicio": -400,
   "fin": null,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Religión de los pueblos turcos y mongoles: el Cielo Eterno, la madre tierra y los chamanes.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Tengrism1.svg",

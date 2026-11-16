@@ -1,0 +1,18 @@
+{
+  "id": "bektashi",
+  "region": "opr",
+  "inicio": 1300,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "sufismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "chiismo"
+  ],
+  "icono": null
+}

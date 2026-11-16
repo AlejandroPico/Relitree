@@ -1,7 +1,5 @@
 {
   "id": "costa-nw",
-  "nombre": "Tradiciones de la costa noroeste",
-  "alias": [],
   "region": "nam",
   "inicio": -1000,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Pueblos del salmón y el cedro: tótems, sociedades de danzantes y el potlatch.",
   "icono": null
 }

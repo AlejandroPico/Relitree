@@ -1,6 +1,6 @@
 import { ChangeDetectionStrategy, Component, ElementRef, OnDestroy, computed, inject, signal, viewChild } from '@angular/core';
 import { DomSanitizer } from '@angular/platform-browser';
-import { Datos, normalizar } from './datos';
+import { Articulo, Datos, normalizar } from './datos';
 import { Estado } from './estado';
 import { I18n } from './i18n';
 import { GLIFOS, UI } from './glifos';
@@ -12,12 +12,18 @@ import { GLIFOS, UI } from './glifos';
     <section class="enciclopedia">
       <nav>
         <input type="search" [placeholder]="i18n.t('filtrar')" [value]="filtro()" (input)="filtro.set($any($event.target).value)"/>
+        <div class="orden">
+          <button [class.activo]="!porTerritorio()" (click)="porTerritorio.set(false)">{{ i18n.t('ordenAZ') }}</button>
+          <button [class.activo]="porTerritorio()" (click)="porTerritorio.set(true)">{{ i18n.t('ordenTerritorio') }}</button>
+        </div>
         <div class="indice">
           @for (g of grupos(); track g.id) {
-            <h4 [style.color]="g.color">{{ g.nombre }}</h4>
-            @for (a of g.articulos; track a.id) {
-              <a [class.activo]="a.id === estado.enciclopedia()" (click)="abrir(a.id)">{{ a.titulo }}</a>
-            }
+            <details [open]="g.abierto">
+              <summary [style.color]="g.color">{{ g.nombre }}<small>{{ g.total }}</small></summary>
+              @for (a of g.articulos; track a.id) {
+                <a [class.activo]="a.id === estado.enciclopedia()" [class.sub]="a.padre" (click)="abrir(a.id)">{{ a.titulo }}</a>
+              }
+            </details>
           }
         </div>
       </nav>
@@ -44,7 +50,12 @@ import { GLIFOS, UI } from './glifos';
                 </div>
               </div>
             } @else { <h1>{{ a.titulo }}</h1> }
+            @if (padre(); as p) { <p class="datos volver">{{ i18n.t('parteDe') }} <a [attr.data-ir]="p.id">{{ p.titulo }}</a></p> }
             <div class="prosa" [innerHTML]="html()"></div>
+            @if (desarrollo().length) {
+              <h2>{{ i18n.t('desarrollo') }}</h2>
+              <p class="enlaces">@for (d of desarrollo(); track d.id) { <a [attr.data-ir]="d.id">{{ d.titulo }}</a> }</p>
+            }
             @if (religion(); as r) {
               @for (b of bloques(); track b.titulo) {
                 <h2>{{ b.titulo }}</h2>
@@ -64,19 +75,32 @@ export class Enciclopedia implements OnDestroy {
   private san = inject(DomSanitizer);
   ui = UI; glifos = GLIFOS;
   filtro = signal('');
+  porTerritorio = signal(false);
   hablando = signal(false);
   private cuerpo = viewChild.required<ElementRef<HTMLElement>>('cuerpo');
 
   articulo = computed(() => { const id = this.estado.enciclopedia(); return id ? this.datos.articulo(id) : null; });
   religion = computed(() => this.datos.porId.get(this.estado.enciclopedia() ?? '') ?? null);
+  padre = computed(() => { const p = this.articulo()?.padre; return p ? this.datos.indice.find((a) => a.id === p) ?? null : null; });
   html = computed(() => this.san.bypassSecurityTrustHtml(this.articulo()?.html ?? ''));   // HTML generado por nuestro propio backend
+  /** Subartículos de desarrollo del artículo abierto (o sus hermanos, si se está leyendo uno). */
+  desarrollo = computed(() => {
+    const a = this.articulo(); if (!a) return [];
+    const raiz = a.padre ?? a.id;
+    return this.datos.indice.filter((x) => x.padre === raiz);
+  });
   grupos = computed(() => {
-    const q = normalizar(this.filtro());
+    const q = normalizar(this.filtro()), actual = this.articulo();
     const pasa = (t: string) => !q || normalizar(t).includes(q);
-    const temas = { id: 'tema', nombre: this.i18n.t('temas'), color: 'var(--acento)', articulos: this.datos.indice.filter((a) => a.grupo === 'tema' && pasa(a.titulo)) };
-    return [temas, ...this.datos.regiones.map((r) => ({
-      id: r.id, nombre: r.nombre, color: r.color, articulos: this.datos.indice.filter((a) => a.grupo === r.id && pasa(a.titulo)),
-    }))].filter((g) => g.articulos.length);
+    // cada artículo principal seguido de sus subartículos
+    const ordenar = (lista: Articulo[]) => lista.filter((a) => !a.padre).flatMap((a) => [a, ...lista.filter((x) => x.padre === a.id)]);
+    const de = (grupo: string | null) => ordenar(this.datos.indice.filter((a) => (grupo ? a.grupo === grupo : a.grupo !== 'tema'))).filter((a) => pasa(a.titulo));
+    const g = (id: string, nombre: string, color: string, articulos: Articulo[], abierto: boolean) => ({ id, nombre, color, articulos, total: articulos.length, abierto: abierto || !!q });
+    const temas = g('tema', this.i18n.t('temas'), 'var(--acento)', this.datos.indice.filter((a) => a.grupo === 'tema' && pasa(a.titulo)), true);
+    const resto = this.porTerritorio()
+      ? this.datos.regiones.map((r) => g(r.id, r.nombre, r.color, de(r.id), actual?.grupo === r.id))
+      : [g('todas', this.i18n.t('religiones'), 'var(--tenue)', de(null), true)];
+    return [temas, ...resto].filter((x) => x.total);
   });
   bloques = computed(() => {
     const r = this.religion(); if (!r) return [];

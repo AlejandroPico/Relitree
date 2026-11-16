@@ -1,0 +1,16 @@
+{
+  "id": "restauracionismo",
+  "region": "nam",
+  "inicio": 1809,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "presbiterianismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

@@ -1,7 +1,5 @@
 {
   "id": "nordica",
-  "nombre": "Religión nórdica",
-  "alias": [],
   "region": "eur",
   "inicio": 500,
   "fin": 1100,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Religión escandinava de la era vikinga: Odín, Thor, Freyja y el destino final del Ragnarök.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Valknut.svg",

@@ -1,7 +1,5 @@
 {
   "id": "indo",
-  "nombre": "Religión del valle del Indo",
-  "alias": [],
   "region": "asm",
   "inicio": -3300,
   "fin": -1300,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Civilización de Harappa y Mohenjo-Daro: baños rituales, sellos con animales y figurillas, sin textos descifrados.",
   "icono": null
 }

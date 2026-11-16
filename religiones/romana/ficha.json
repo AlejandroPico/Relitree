@@ -1,7 +1,5 @@
 {
   "id": "romana",
-  "nombre": "Religión romana",
-  "alias": [],
   "region": "eur",
   "inicio": -753,
   "fin": 392,
@@ -17,7 +15,6 @@
     "etrusca",
     "griega"
   ],
-  "resumen": "Culto público de Roma: observancia escrupulosa de los ritos, dioses del Estado y del hogar, y más tarde culto imperial.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Fasces.svg",

@@ -1,7 +1,5 @@
 {
   "id": "haudenosaunee",
-  "nombre": "Religión haudenosaunee (iroquesa)",
-  "alias": [],
   "region": "nam",
   "inicio": 1100,
   "fin": null,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Ceremonias de agradecimiento, la Gran Ley de la Paz y las sociedades de curación.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Iroquois_Confederacy.svg",

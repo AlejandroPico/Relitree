@@ -1,7 +1,5 @@
 {
   "id": "islam",
-  "nombre": "Islam",
-  "alias": [],
   "region": "opr",
   "inicio": 610,
   "fin": null,
@@ -17,11 +15,12 @@
     "rabinico",
     "cristianismo"
   ],
-  "resumen": "Monoteísmo predicado por Mahoma en Arabia, basado en el Corán, que se presenta como culminación de la tradición de Abraham.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Star_and_Crescent.svg",
     "licencia": "Public domain",
     "autor": "Original uploader was Kbolino at en.wikipedia.org"
-  }
+  },
+  "fieles": 2000000000,
+  "fieles_fuente": "Pew Research Center, 2020"
 }

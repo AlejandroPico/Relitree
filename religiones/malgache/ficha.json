@@ -1,0 +1,18 @@
+{
+  "id": "malgache",
+  "region": "afr",
+  "inicio": 500,
+  "fin": null,
+  "tipo": "ant",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "austronesia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "bantu"
+  ],
+  "icono": null
+}

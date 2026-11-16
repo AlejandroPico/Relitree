@@ -1,7 +1,5 @@
 {
   "id": "taoismo",
-  "nombre": "Taoísmo",
-  "alias": [],
   "region": "aso",
   "inicio": -400,
   "fin": null,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Tradición del Dao De Jing y el Zhuangzi: seguir el curso natural del Tao; más tarde religión con panteón y alquimia.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Yin_yang.svg",

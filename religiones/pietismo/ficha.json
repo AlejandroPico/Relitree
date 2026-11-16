@@ -1,0 +1,16 @@
+{
+  "id": "pietismo",
+  "region": "eur",
+  "inicio": 1675,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "luteranismo",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

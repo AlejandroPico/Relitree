@@ -1,0 +1,21 @@
+{
+  "id": "armenia-pagana",
+  "region": "opr",
+  "inicio": -600,
+  "fin": 301,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "irania",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Right-Facing_and_Left_Facing_Armenian_Eternity_Sign.svg",
+    "licencia": "CC BY-SA 3.0",
+    "autor": "Vahram Mekhitarian"
+  }
+}

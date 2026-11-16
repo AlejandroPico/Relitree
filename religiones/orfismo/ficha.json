@@ -1,7 +1,5 @@
 {
   "id": "orfismo",
-  "nombre": "Orfismo",
-  "alias": [],
   "region": "eur",
   "inicio": -550,
   "fin": 300,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Corriente griega de salvación personal, con pureza de vida y creencia en la transmigración del alma.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Lyre.svg",

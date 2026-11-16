@@ -1,7 +1,5 @@
 {
   "id": "ahmadia",
-  "nombre": "Ahmadía",
-  "alias": [],
   "region": "asm",
   "inicio": 1889,
   "fin": null,
@@ -14,6 +12,7 @@
     }
   ],
   "influencias": [],
-  "resumen": "Movimiento del Panyab cuyo fundador, Mirza Ghulam Ahmad, se proclamó mesías.",
-  "icono": null
+  "icono": null,
+  "fieles": 15000000,
+  "fieles_fuente": "Estimación aproximada"
 }

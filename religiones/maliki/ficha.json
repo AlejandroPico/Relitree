@@ -1,0 +1,16 @@
+{
+  "id": "maliki",
+  "region": "opr",
+  "inicio": 795,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "sunismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

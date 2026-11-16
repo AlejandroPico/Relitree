@@ -1,0 +1,16 @@
+{
+  "id": "judaismo-humanista",
+  "region": "nam",
+  "inicio": 1963,
+  "fin": null,
+  "tipo": "fil",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "judaismo-reformista",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

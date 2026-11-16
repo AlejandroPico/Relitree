@@ -1,0 +1,16 @@
+{
+  "id": "suomenusko",
+  "region": "eur",
+  "inicio": 1995,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "finesa",
+      "relacion": "renacimiento"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

@@ -1,0 +1,16 @@
+{
+  "id": "fariseos",
+  "region": "opr",
+  "inicio": -150,
+  "fin": 70,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "judaismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

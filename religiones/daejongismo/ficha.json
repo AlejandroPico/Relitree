@@ -1,0 +1,16 @@
+{
+  "id": "daejongismo",
+  "region": "aso",
+  "inicio": 1909,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "muismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

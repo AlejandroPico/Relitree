@@ -1,7 +1,5 @@
 {
   "id": "rapanui",
-  "nombre": "Religión rapanui",
-  "alias": [],
   "region": "oce",
   "inicio": 1200,
   "fin": 1870,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Culto a los antepasados de los moái y, más tarde, la ceremonia del hombre-pájaro.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Reimiro.svg",

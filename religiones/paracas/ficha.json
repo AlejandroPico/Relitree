@@ -1,0 +1,16 @@
+{
+  "id": "paracas",
+  "region": "sam",
+  "inicio": -800,
+  "fin": -100,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "chavin",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

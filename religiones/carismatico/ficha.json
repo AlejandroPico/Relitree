@@ -1,7 +1,5 @@
 {
   "id": "carismatico",
-  "nombre": "Movimiento carismático",
-  "alias": [],
   "region": "nam",
   "inicio": 1960,
   "fin": null,
@@ -17,6 +15,5 @@
     "catolica",
     "anglicanismo"
   ],
-  "resumen": "Renovación de tipo pentecostal dentro de las iglesias históricas.",
   "icono": null
 }

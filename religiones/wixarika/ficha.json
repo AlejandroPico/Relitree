@@ -1,7 +1,5 @@
 {
   "id": "wixarika",
-  "nombre": "Religión wixárika (huichol)",
-  "alias": [],
   "region": "mes",
   "inicio": 200,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Tradición de la peregrinación a Wirikuta y del peyote, el venado y el maíz.",
   "icono": null
 }

@@ -1,0 +1,16 @@
+{
+  "id": "chishti",
+  "region": "asm",
+  "inicio": 1193,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "sufismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

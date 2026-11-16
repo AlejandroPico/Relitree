@@ -1,0 +1,16 @@
+{
+  "id": "mimamsa",
+  "region": "asm",
+  "inicio": -300,
+  "fin": null,
+  "tipo": "fil",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "brahmanismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

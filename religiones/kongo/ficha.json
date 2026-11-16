@@ -1,0 +1,21 @@
+{
+  "id": "kongo",
+  "region": "afr",
+  "inicio": 1300,
+  "fin": null,
+  "tipo": "ant",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "bantu",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Kongo_Cosmogram_(Black).svg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Midnight-Blue766"
+  }
+}

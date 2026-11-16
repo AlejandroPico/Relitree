@@ -1,0 +1,2582 @@
+{
+ "aborigen": {
+  "nombre": "El Sueño (religiones aborígenes australianas)",
+  "alias": [],
+  "resumen": "Tradición continua más antigua del planeta: seres ancestrales que modelaron el territorio, líneas de canto y lazos totémicos con la tierra."
+ },
+ "acadia": {
+  "nombre": "Religión acadia",
+  "alias": [],
+  "resumen": "Fusión del panteón sumerio con los dioses semitas bajo el imperio de Sargón."
+ },
+ "advaita": {
+  "nombre": "Vedanta advaita",
+  "alias": [],
+  "resumen": "Filosofía no dualista de Shankara: el yo y el absoluto son una sola realidad."
+ },
+ "adventismo": {
+  "nombre": "Adventismo",
+  "alias": [],
+  "resumen": "Movimiento que espera el inminente regreso de Cristo; su rama mayor guarda el sábado."
+ },
+ "afr-msa": {
+  "nombre": "Simbolismo de la Edad de Piedra Media",
+  "alias": [],
+  "resumen": "Ocre grabado, cuentas de concha y enterramientos intencionados en yacimientos como Blombos o Border Cave, indicios de un mundo ritual plenamente moderno."
+ },
+ "afr-oeste": {
+  "nombre": "Religiones tradicionales de África occidental",
+  "alias": [],
+  "resumen": "Sustrato común de la región: un dios supremo distante, divinidades intermediarias, antepasados venerados y adivinación."
+ },
+ "aglipayana": {
+  "nombre": "Iglesia Filipina Independiente",
+  "alias": [],
+  "resumen": "Iglesia nacional surgida de la revolución filipina."
+ },
+ "ahmadia": {
+  "nombre": "Ahmadía",
+  "alias": [],
+  "resumen": "Movimiento del Panyab cuyo fundador, Mirza Ghulam Ahmad, se proclamó mesías."
+ },
+ "ajivika": {
+  "nombre": "Ajivika",
+  "alias": [],
+  "resumen": "Escuela ascética que sostenía un destino inexorable."
+ },
+ "akan": {
+  "nombre": "Religión akan",
+  "alias": [],
+  "resumen": "Creencias de asantes y fantes: el dios Nyame, los espíritus abosom y los taburetes de los antepasados."
+ },
+ "aladura": {
+  "nombre": "Iglesias aladura",
+  "alias": [],
+  "resumen": "Iglesias proféticas nigerianas centradas en la oración, la sanación y las visiones."
+ },
+ "alauies": {
+  "nombre": "Alauismo",
+  "alias": [],
+  "resumen": "Tradición esotérica de Siria que venera a Alí como manifestación divina."
+ },
+ "alevismo": {
+  "nombre": "Alevismo",
+  "alias": [],
+  "resumen": "Tradición anatolia que une devoción a Alí, mística sufí y herencia turca."
+ },
+ "amazonia": {
+  "nombre": "Chamanismo amazónico",
+  "alias": [],
+  "resumen": "Tradiciones de la selva: chamanes, plantas visionarias y un mundo donde animales y espíritus son personas."
+ },
+ "amish": {
+  "nombre": "Amish",
+  "alias": [],
+  "resumen": "Comunidades de vida sencilla y separada, surgidas en Suiza y Alsacia y hoy asentadas en Norteamérica."
+ },
+ "anabaptismo": {
+  "nombre": "Anabaptismo",
+  "alias": [],
+  "resumen": "Reforma radical: bautismo de adultos, separación de Iglesia y Estado y, en general, pacifismo."
+ },
+ "anat-neo": {
+  "nombre": "Neolítico de Anatolia",
+  "alias": [],
+  "resumen": "Santuarios domésticos de Çatalhöyük con bucráneos, figuras femeninas y enterramientos bajo el suelo de las casas."
+ },
+ "andina": {
+  "nombre": "Religión andina contemporánea",
+  "alias": [],
+  "resumen": "Culto vivo a la Pachamama y a los apus, entrelazado con el santoral católico."
+ },
+ "anglicanismo": {
+  "nombre": "Anglicanismo",
+  "alias": [],
+  "resumen": "Iglesia de Inglaterra y su comunión mundial, a medio camino entre catolicismo y Reforma."
+ },
+ "anitismo": {
+  "nombre": "Anitismo filipino",
+  "alias": [],
+  "resumen": "Religiones indígenas de Filipinas, con sus espíritus anito y chamanas babaylan."
+ },
+ "antroposofia": {
+  "nombre": "Antroposofía",
+  "alias": [],
+  "resumen": "Ciencia espiritual de Rudolf Steiner, origen de la pedagogía Waldorf y la agricultura biodinámica."
+ },
+ "arabia-pre": {
+  "nombre": "Politeísmo árabe preislámico",
+  "alias": [],
+  "resumen": "Cultos tribales de Arabia a divinidades astrales y betilos, con santuarios de peregrinación como La Meca."
+ },
+ "arawak": {
+  "nombre": "Religiones arahuacas",
+  "alias": [],
+  "resumen": "Creencias de los pueblos arahuacos, extendidos del Amazonas al Caribe."
+ },
+ "arcaico-and": {
+  "nombre": "Tradiciones arcaicas andinas",
+  "alias": [],
+  "resumen": "Primeros cazadores y pescadores de los Andes; los chinchorro momificaron a sus muertos antes que Egipto."
+ },
+ "arcaico-mes": {
+  "nombre": "Tradiciones arcaicas de Mesoamérica",
+  "alias": [],
+  "resumen": "Primeros cultivadores del maíz, con ritos domésticos y culto a los muertos."
+ },
+ "arcaico-nam": {
+  "nombre": "Tradiciones arcaicas de Norteamérica",
+  "alias": [],
+  "resumen": "Cazadores-recolectores que levantaron los primeros montículos, como Watson Brake y Poverty Point."
+ },
+ "armenia": {
+  "nombre": "Iglesia apostólica armenia",
+  "alias": [],
+  "resumen": "Iglesia nacional de Armenia, primer reino que adoptó oficialmente el cristianismo."
+ },
+ "arrianismo": {
+  "nombre": "Arrianismo",
+  "alias": [],
+  "resumen": "Doctrina que subordinaba el Hijo al Padre; condenada en Nicea, perduró entre godos, vándalos y lombardos."
+ },
+ "arya-samaj": {
+  "nombre": "Arya Samaj",
+  "alias": [],
+  "resumen": "Movimiento de retorno a los Vedas fundado por Dayananda Saraswati."
+ },
+ "asatru": {
+  "nombre": "Ásatrú (paganismo germánico moderno)",
+  "alias": [],
+  "resumen": "Reconstrucción del culto a los dioses nórdicos, reconocida oficialmente en Islandia en 1973."
+ },
+ "asiria": {
+  "nombre": "Religión asiria",
+  "alias": [],
+  "resumen": "Culto imperial al dios Asur, vinculado a la realeza y a la guerra."
+ },
+ "asn-paleo": {
+  "nombre": "Paleolítico superior de Eurasia septentrional",
+  "alias": [],
+  "resumen": "Enterramientos ricamente adornados (Sungir, Mal'tá) y figurillas de marfil de los cazadores de mamut de la estepa fría."
+ },
+ "aso-paleo": {
+  "nombre": "Ritos prehistóricos de Asia oriental",
+  "alias": [],
+  "resumen": "Sepulturas con ocre y adornos como las de la Cueva Superior de Zhoukoudian, primeros indicios rituales del Extremo Oriente."
+ },
+ "atenismo": {
+  "nombre": "Atonismo",
+  "alias": [],
+  "resumen": "Reforma de Akenatón que impuso el culto exclusivo al disco solar Atón; fue abolida tras su muerte."
+ },
+ "austroasiatica": {
+  "nombre": "Religiones austroasiáticas",
+  "alias": [],
+  "resumen": "Cultos a espíritus del territorio de los pueblos mon-jemer."
+ },
+ "austronesia": {
+  "nombre": "Religiones austronesias",
+  "alias": [],
+  "resumen": "Creencias de los navegantes salidos de Taiwán: antepasados, espíritus del lugar, mana y tabú."
+ },
+ "ayyavazhi": {
+  "nombre": "Ayyavazhi",
+  "alias": [],
+  "resumen": "Tradición del sur de la India nacida de las enseñanzas de Ayya Vaikundar."
+ },
+ "babilonica": {
+  "nombre": "Religión babilónica",
+  "alias": [],
+  "resumen": "Religión de Babilonia, presidida por Marduk, con el Enuma Elish y una refinada astrología."
+ },
+ "babismo": {
+  "nombre": "Babismo",
+  "alias": [],
+  "resumen": "Movimiento mesiánico persa del Báb, que anunció una nueva revelación."
+ },
+ "bahai": {
+  "nombre": "Fe bahá'í",
+  "alias": [],
+  "resumen": "Religión de Bahá'u'lláh: unidad de Dios, de las religiones y de la humanidad."
+ },
+ "bali": {
+  "nombre": "Hinduismo balinés",
+  "alias": [],
+  "resumen": "Agama Hindu Dharma: hinduismo isleño fundido con culto a antepasados y espíritus locales."
+ },
+ "baltica": {
+  "nombre": "Religión báltica",
+  "alias": [],
+  "resumen": "Paganismo de lituanos, letones y prusianos, el último de Europa en ser cristianizado."
+ },
+ "bantu": {
+  "nombre": "Religiones bantúes",
+  "alias": [],
+  "resumen": "Tradiciones difundidas con la expansión bantú por África central y austral: culto a los antepasados, fuerza vital y especialistas rituales."
+ },
+ "bautistas": {
+  "nombre": "Iglesias bautistas",
+  "alias": [],
+  "resumen": "Iglesias congregacionales que practican el bautismo de creyentes por inmersión."
+ },
+ "bereber": {
+  "nombre": "Religión bereber antigua",
+  "alias": [],
+  "resumen": "Cultos del norte de África a los astros, las rocas y los muertos, con santuarios funerarios y divinidades compartidas con Egipto y Cartago."
+ },
+ "bhakti": {
+  "nombre": "Movimiento bhakti",
+  "alias": [],
+  "resumen": "Oleada de devoción personal y poesía en lenguas vernáculas, abierta a todas las castas."
+ },
+ "bogomilismo": {
+  "nombre": "Bogomilismo",
+  "alias": [],
+  "resumen": "Movimiento dualista búlgaro que rechazaba la jerarquía y el mundo material."
+ },
+ "bon": {
+  "nombre": "Bon",
+  "alias": [],
+  "resumen": "Religión autóctona del Tíbet, con su fundador mítico Tonpa Shenrab; hoy convive con el budismo."
+ },
+ "brahmanismo": {
+  "nombre": "Brahmanismo",
+  "alias": [],
+  "resumen": "Etapa del ritual sacerdotal y de las Upanishads, que formulan las ideas de brahman, atman y karma."
+ },
+ "brahmo": {
+  "nombre": "Brahmo Samaj",
+  "alias": [],
+  "resumen": "Reforma monoteísta bengalí que rechazó imágenes y castas."
+ },
+ "budismo": {
+  "nombre": "Budismo",
+  "alias": [],
+  "resumen": "Camino enseñado por Siddhartha Gautama para extinguir el sufrimiento: cuatro nobles verdades y óctuple sendero."
+ },
+ "budismo-chino": {
+  "nombre": "Budismo chino",
+  "alias": [],
+  "resumen": "Budismo llegado por la Ruta de la Seda y transformado en escuelas propias."
+ },
+ "burjanismo": {
+  "nombre": "Burjanismo",
+  "alias": [],
+  "resumen": "Movimiento mesiánico del Altái que anunciaba el regreso del Kan Blanco."
+ },
+ "bwiti": {
+  "nombre": "Bwiti",
+  "alias": [],
+  "resumen": "Religión iniciática de Gabón que combina culto a los antepasados, cristianismo y el uso ritual de la iboga."
+ },
+ "cabala": {
+  "nombre": "Cábala",
+  "alias": [],
+  "resumen": "Mística judía medieval de Provenza y España, con el Zohar y la doctrina de las sefirot."
+ },
+ "cananea": {
+  "nombre": "Religión cananea",
+  "alias": [],
+  "resumen": "Panteón del Levante encabezado por El, Baal y Asherá, conocido por los textos de Ugarit."
+ },
+ "candomble": {
+  "nombre": "Candomblé",
+  "alias": [],
+  "resumen": "Religión afrobrasileña de los orixás, nacida en Bahía."
+ },
+ "caodai": {
+  "nombre": "Caodaísmo",
+  "alias": [],
+  "resumen": "Religión vietnamita que reúne budismo, taoísmo, confucianismo y cristianismo bajo el Ojo divino."
+ },
+ "caraismo": {
+  "nombre": "Caraísmo",
+  "alias": [],
+  "resumen": "Corriente judía que rechaza la ley oral y se atiene solo a la Biblia hebrea."
+ },
+ "caral": {
+  "nombre": "Religión de Caral",
+  "alias": [],
+  "resumen": "Primera civilización de América: pirámides y plazas circulares hundidas en la costa peruana."
+ },
+ "cargo": {
+  "nombre": "Cultos cargo",
+  "alias": [],
+  "resumen": "Movimientos milenaristas melanesios que esperan la llegada de bienes enviados por los antepasados."
+ },
+ "carismatico": {
+  "nombre": "Movimiento carismático",
+  "alias": [],
+  "resumen": "Renovación de tipo pentecostal dentro de las iglesias históricas."
+ },
+ "catarismo": {
+  "nombre": "Catarismo",
+  "alias": [],
+  "resumen": "Iglesia dualista del sur de Francia e Italia, destruida por la cruzada albigense y la Inquisición."
+ },
+ "catolica": {
+  "nombre": "Iglesia católica",
+  "alias": [],
+  "resumen": "Iglesia en comunión con el obispo de Roma; la mayor confesión cristiana, con veintiún concilios ecuménicos reconocidos."
+ },
+ "celta": {
+  "nombre": "Religión celta",
+  "alias": [],
+  "resumen": "Religión de galos, britanos e irlandeses: druidas, arboledas sagradas, dioses tribales y fiestas estacionales."
+ },
+ "chan": {
+  "nombre": "Budismo chan",
+  "alias": [],
+  "resumen": "Escuela de la meditación y el despertar súbito, que la tradición remonta a Bodhidharma."
+ },
+ "charvaka": {
+  "nombre": "Charvaka",
+  "alias": [],
+  "resumen": "Escuela materialista india que negaba el karma, el más allá y la autoridad de los Vedas."
+ },
+ "chavin": {
+  "nombre": "Culto de Chavín",
+  "alias": [],
+  "resumen": "Centro de peregrinación andino con deidades de rasgos de jaguar, águila y serpiente."
+ },
+ "cheondo": {
+  "nombre": "Cheondoísmo",
+  "alias": [],
+  "resumen": "Religión coreana nacida del movimiento Donghak: el Cielo reside en cada persona."
+ },
+ "chiismo": {
+  "nombre": "Islam chií",
+  "alias": [],
+  "resumen": "Rama que reserva la guía de la comunidad a Alí y sus descendientes, los imanes."
+ },
+ "china-neo": {
+  "nombre": "Cultos neolíticos de China",
+  "alias": [],
+  "resumen": "Culturas de Yangshao, Hongshan y Liangzhu: altares, jades rituales y culto a los antepasados."
+ },
+ "china-pop": {
+  "nombre": "Religión tradicional china",
+  "alias": [],
+  "resumen": "Culto a los antepasados, a deidades locales y a los espíritus, tejido con elementos de las tres enseñanzas."
+ },
+ "ciencia-cristiana": {
+  "nombre": "Ciencia Cristiana",
+  "alias": [],
+  "resumen": "Iglesia de Mary Baker Eddy, que entiende la curación como realidad espiritual."
+ },
+ "cienciologia": {
+  "nombre": "Cienciología",
+  "alias": [],
+  "resumen": "Movimiento de L. Ron Hubbard, desarrollado a partir de la dianética."
+ },
+ "confucianismo": {
+  "nombre": "Confucianismo",
+  "alias": [],
+  "resumen": "Enseñanza de Confucio: humanidad, piedad filial y rito como base del orden social."
+ },
+ "copta": {
+  "nombre": "Iglesia copta",
+  "alias": [],
+  "resumen": "Iglesia de Egipto, de tradición alejandrina, cuna del monacato cristiano."
+ },
+ "costa-nw": {
+  "nombre": "Tradiciones de la costa noroeste",
+  "alias": [],
+  "resumen": "Pueblos del salmón y el cedro: tótems, sociedades de danzantes y el potlatch."
+ },
+ "cristianismo": {
+  "nombre": "Cristianismo",
+  "alias": [],
+  "resumen": "Nace del judaísmo en torno a Jesús de Nazaret, confesado como Mesías e Hijo de Dios; hoy es la religión con más fieles."
+ },
+ "cuaqueros": {
+  "nombre": "Cuáqueros",
+  "alias": [],
+  "resumen": "Sociedad Religiosa de los Amigos: culto en silencio, luz interior y testimonio de paz."
+ },
+ "danza-espiritus": {
+  "nombre": "Danza de los Espíritus",
+  "alias": [],
+  "resumen": "Movimiento profético de Wovoka que anunciaba el regreso de los muertos y del bisonte."
+ },
+ "dao-mau": {
+  "nombre": "Đạo Mẫu",
+  "alias": [],
+  "resumen": "Culto vietnamita a las diosas madres, con ceremonias de médiums."
+ },
+ "dievturiba": {
+  "nombre": "Dievturība",
+  "alias": [],
+  "resumen": "Reconstrucción letona basada en las canciones populares o dainas."
+ },
+ "digambara": {
+  "nombre": "Jainismo digambara",
+  "alias": [],
+  "resumen": "Rama cuyos monjes renuncian a toda posesión, incluso al vestido."
+ },
+ "dogon": {
+  "nombre": "Religión dogón",
+  "alias": [],
+  "resumen": "Cosmología de los acantilados de Bandiagara: el creador Amma, los gemelos Nommo y grandes ceremonias de máscaras."
+ },
+ "donatismo": {
+  "nombre": "Donatismo",
+  "alias": [],
+  "resumen": "Iglesia rigorista del norte de África que negaba la validez de los sacramentos de clérigos indignos."
+ },
+ "dravidica": {
+  "nombre": "Religión popular dravídica",
+  "alias": [],
+  "resumen": "Cultos de aldea del sur de la India a diosas madres, héroes y espíritus, luego integrados en el hinduismo."
+ },
+ "druidismo": {
+  "nombre": "Neodruidismo",
+  "alias": [],
+  "resumen": "Recreación moderna de la figura del druida, entre lo fraternal, lo cultural y lo religioso."
+ },
+ "drusos": {
+  "nombre": "Fe drusa",
+  "alias": [],
+  "resumen": "Religión cerrada del Levante que cree en la reencarnación y en la unicidad absoluta de Dios."
+ },
+ "duodecimano": {
+  "nombre": "Chiismo duodecimano",
+  "alias": [],
+  "resumen": "Corriente chií mayoritaria, que espera el retorno del duodécimo imán oculto."
+ },
+ "egipto": {
+  "nombre": "Religión del antiguo Egipto",
+  "alias": [],
+  "resumen": "Tres milenios de templos, realeza divina, juicio de los muertos y un panteón encabezado por Ra, Osiris, Isis y Amón."
+ },
+ "ejercito-salvacion": {
+  "nombre": "Ejército de Salvación",
+  "alias": [],
+  "resumen": "Iglesia de organización militar volcada en la asistencia social."
+ },
+ "elamita": {
+  "nombre": "Religión elamita",
+  "alias": [],
+  "resumen": "Religión del suroeste de Irán, con zigurats como Chogha Zanbil."
+ },
+ "eleusis": {
+  "nombre": "Misterios de Eleusis",
+  "alias": [],
+  "resumen": "Iniciaciones secretas en honor de Deméter y Perséfone que prometían una suerte mejor tras la muerte."
+ },
+ "epicureismo": {
+  "nombre": "Epicureísmo",
+  "alias": [],
+  "resumen": "Filosofía atomista que busca la serenidad y sostiene que los dioses no intervienen en el mundo."
+ },
+ "escita": {
+  "nombre": "Religión escita",
+  "alias": [],
+  "resumen": "Cultos de los jinetes nómadas de la estepa, con enterramientos principescos en kurganes."
+ },
+ "eslava": {
+  "nombre": "Religión eslava",
+  "alias": [],
+  "resumen": "Paganismo de los pueblos eslavos, con Perún como dios del trueno y un rico mundo de espíritus domésticos."
+ },
+ "espiritismo": {
+  "nombre": "Espiritismo",
+  "alias": [],
+  "resumen": "Doctrina codificada por Allan Kardec: comunicación con los espíritus y progreso a través de la reencarnación."
+ },
+ "espiritualismo": {
+  "nombre": "Espiritualismo",
+  "alias": [],
+  "resumen": "Movimiento nacido en Nueva York en torno a la comunicación con los muertos mediante médiums."
+ },
+ "estoicismo": {
+  "nombre": "Estoicismo",
+  "alias": [],
+  "resumen": "Escuela que identifica a la divinidad con la razón que ordena el universo y propone vivir conforme a la naturaleza."
+ },
+ "etiope": {
+  "nombre": "Iglesia ortodoxa etíope Tewahedo",
+  "alias": [],
+  "resumen": "Cristianismo de Aksum, con canon bíblico propio y prácticas de raíz judía."
+ },
+ "etrusca": {
+  "nombre": "Religión etrusca",
+  "alias": [],
+  "resumen": "Religión revelada de Etruria, célebre por sus libros sagrados y la adivinación por el hígado y el rayo."
+ },
+ "eur-neo": {
+  "nombre": "Megalitismo y Neolítico europeo",
+  "alias": [],
+  "resumen": "Agricultores llegados de Anatolia que levantaron dólmenes, alineamientos y recintos como Stonehenge, orientados al sol y dedicados a los antepasados."
+ },
+ "eur-paleo": {
+  "nombre": "Arte y rito del Paleolítico superior europeo",
+  "alias": [],
+  "resumen": "Santuarios pintados en cuevas, figuras femeninas y el hombre-león: un universo simbólico de cazadores de la Edad de Hielo."
+ },
+ "falun": {
+  "nombre": "Falun Gong",
+  "alias": [],
+  "resumen": "Práctica de qigong y cultivo moral fundada por Li Hongzhi."
+ },
+ "fenicia": {
+  "nombre": "Religión fenicia",
+  "alias": [],
+  "resumen": "Cultos de Tiro, Sidón y Biblos a Melqart, Astarté y Eshmún, llevados por mar a todo el Mediterráneo."
+ },
+ "finesa": {
+  "nombre": "Paganismo finés",
+  "alias": [],
+  "resumen": "Religión del dios del cielo Ukko y de los cantos recogidos después en el Kalevala."
+ },
+ "gaudiya": {
+  "nombre": "Vaishnavismo gaudiya",
+  "alias": [],
+  "resumen": "Devoción extática a Krishna y Radha difundida por Chaitanya en Bengala."
+ },
+ "gelug": {
+  "nombre": "Escuela gelug",
+  "alias": [],
+  "resumen": "Orden reformada de Tsongkhapa, a la que pertenecen los dalái lamas."
+ },
+ "germanica": {
+  "nombre": "Religión germánica",
+  "alias": [],
+  "resumen": "Cultos de los pueblos germánicos continentales a dioses como Wodan, Donar y Tiwaz."
+ },
+ "gnosticismo": {
+  "nombre": "Gnosticismo",
+  "alias": [],
+  "resumen": "Corrientes que buscaban la salvación por un conocimiento secreto y veían el mundo material como obra de un dios inferior."
+ },
+ "golden-dawn": {
+  "nombre": "Orden Hermética de la Aurora Dorada",
+  "alias": [],
+  "resumen": "Orden mágica británica que sistematizó el ocultismo ceremonial moderno."
+ },
+ "griega": {
+  "nombre": "Religión griega antigua",
+  "alias": [],
+  "resumen": "Culto cívico a los dioses olímpicos, con sacrificios, oráculos, festivales y una mitología que marcó a Occidente."
+ },
+ "handsome-lake": {
+  "nombre": "Código de Handsome Lake",
+  "alias": [],
+  "resumen": "Reforma de la Casa Larga predicada por el profeta seneca Handsome Lake."
+ },
+ "haudenosaunee": {
+  "nombre": "Religión haudenosaunee (iroquesa)",
+  "alias": [],
+  "resumen": "Ceremonias de agradecimiento, la Gran Ley de la Paz y las sociedades de curación."
+ },
+ "hawai": {
+  "nombre": "Religión hawaiana",
+  "alias": [],
+  "resumen": "Sistema del kapu, con los dioses Kū, Kāne, Lono y Kanaloa y sus templos heiau."
+ },
+ "helenismo-neo": {
+  "nombre": "Helenismo moderno",
+  "alias": [],
+  "resumen": "Recuperación contemporánea del culto a los dioses olímpicos, sobre todo en Grecia."
+ },
+ "hermetismo": {
+  "nombre": "Hermetismo",
+  "alias": [],
+  "resumen": "Textos atribuidos a Hermes Trismegisto, mezcla de sabiduría egipcia y filosofía griega, base del esoterismo occidental."
+ },
+ "hindu-sea": {
+  "nombre": "Hinduismo del Sudeste Asiático",
+  "alias": [],
+  "resumen": "Reinos indianizados como Funan, Champa, Angkor y Majapahit, con templos a Shiva y Vishnu."
+ },
+ "hinduismo": {
+  "nombre": "Hinduismo clásico",
+  "alias": [],
+  "resumen": "Síntesis de las epopeyas y los Puranas: dharma, devoción a grandes deidades y culto en templos."
+ },
+ "hitita": {
+  "nombre": "Religión hitita",
+  "alias": [],
+  "resumen": "El reino de los «mil dioses», que integró divinidades indoeuropeas, hatianas y hurritas."
+ },
+ "hoa-hao": {
+  "nombre": "Hòa Hảo",
+  "alias": [],
+  "resumen": "Budismo laico y campesino del delta del Mekong."
+ },
+ "hopewell": {
+  "nombre": "Tradiciones Adena y Hopewell",
+  "alias": [],
+  "resumen": "Constructores de túmulos y grandes recintos geométricos en el valle del Ohio."
+ },
+ "husitas": {
+  "nombre": "Husitas",
+  "alias": [],
+  "resumen": "Reforma bohemia inspirada en Jan Hus, precursora del protestantismo."
+ },
+ "ibadismo": {
+  "nombre": "Ibadismo",
+  "alias": [],
+  "resumen": "Heredero moderado del jariyismo, mayoritario en Omán."
+ },
+ "igbo": {
+  "nombre": "Odinani (religión igbo)",
+  "alias": [],
+  "resumen": "Religión del pueblo igbo: el dios Chukwu, la diosa de la tierra Ala y el espíritu personal o chi."
+ },
+ "iglesia-oriente": {
+  "nombre": "Iglesia del Oriente",
+  "alias": [],
+  "resumen": "Cristianismo siríaco de Persia, mal llamado nestoriano, que misionó hasta la India y China."
+ },
+ "inc": {
+  "nombre": "Iglesia ni Cristo",
+  "alias": [],
+  "resumen": "Iglesia filipina no trinitaria fundada por Felix Manalo."
+ },
+ "inca": {
+  "nombre": "Religión inca",
+  "alias": [],
+  "resumen": "Religión imperial del Sol, con Viracocha, la Pachamama, las huacas y las momias de los soberanos."
+ },
+ "indo": {
+  "nombre": "Religión del valle del Indo",
+  "alias": [],
+  "resumen": "Civilización de Harappa y Mohenjo-Daro: baños rituales, sellos con animales y figurillas, sin textos descifrados."
+ },
+ "indo-irania": {
+  "nombre": "Religión indoirania",
+  "alias": [],
+  "resumen": "Religión de las estepas de Asia central, tronco común de los Vedas y del Avesta."
+ },
+ "inuit": {
+  "nombre": "Religión inuit",
+  "alias": [],
+  "resumen": "Tradición ártica del angakkuq y de Sedna, señora de los animales marinos."
+ },
+ "irania": {
+  "nombre": "Religión irania antigua",
+  "alias": [],
+  "resumen": "Politeísmo de medos y persas anterior a Zaratustra, con culto al fuego y a Mitra."
+ },
+ "isis": {
+  "nombre": "Misterios de Isis",
+  "alias": [],
+  "resumen": "Culto egipcio helenizado de la diosa Isis, difundido por todo el Mediterráneo romano."
+ },
+ "iskcon": {
+  "nombre": "Hare Krishna (ISKCON)",
+  "alias": [],
+  "resumen": "Sociedad fundada en Nueva York por Prabhupada que llevó el krishnaísmo a Occidente."
+ },
+ "islam": {
+  "nombre": "Islam",
+  "alias": [],
+  "resumen": "Monoteísmo predicado por Mahoma en Arabia, basado en el Corán, que se presenta como culminación de la tradición de Abraham."
+ },
+ "islam-nusantara": {
+  "nombre": "Islam del archipiélago malayo",
+  "alias": [],
+  "resumen": "Islam difundido por mercaderes y maestros sufíes en Sumatra, Java y Malasia."
+ },
+ "ismailismo": {
+  "nombre": "Ismailismo",
+  "alias": [],
+  "resumen": "Chiismo de los siete imanes, de interpretación esotérica; fundó el califato fatimí."
+ },
+ "iurd": {
+  "nombre": "Iglesia Universal del Reino de Dios",
+  "alias": [],
+  "resumen": "Iglesia neopentecostal brasileña de alcance mundial."
+ },
+ "jainismo": {
+  "nombre": "Jainismo",
+  "alias": [],
+  "resumen": "Vía de la no violencia absoluta y el ascetismo enseñada por los tirthankaras, el último de ellos Mahavira."
+ },
+ "jariyismo": {
+  "nombre": "Jariyismo",
+  "alias": [],
+  "resumen": "Primera escisión del islam: rigoristas que rechazaron el arbitraje entre Alí y Muawiya."
+ },
+ "jasidismo": {
+  "nombre": "Jasidismo",
+  "alias": [],
+  "resumen": "Avivamiento místico y popular del judaísmo de Europa oriental, iniciado por el Baal Shem Tov."
+ },
+ "jodo": {
+  "nombre": "Jōdo-shū y Jōdo Shinshū",
+  "alias": [],
+  "resumen": "Escuelas japonesas de la Tierra Pura, de Hōnen y Shinran: confianza total en el buda Amida."
+ },
+ "john-frum": {
+  "nombre": "Movimiento John Frum",
+  "alias": [],
+  "resumen": "Culto de la isla de Tanna, en Vanuatu, en torno a un salvador de aspecto estadounidense."
+ },
+ "jomon": {
+  "nombre": "Cultos Jōmon",
+  "alias": [],
+  "resumen": "Figurillas dogū y círculos de piedra de los cazadores-recolectores del Japón prehistórico."
+ },
+ "judaismo": {
+  "nombre": "Judaísmo del Segundo Templo",
+  "alias": [],
+  "resumen": "Tras el exilio, religión monoteísta de la Torá y el Templo de Jerusalén, con fariseos, saduceos y esenios."
+ },
+ "judaismo-conservador": {
+  "nombre": "Judaísmo conservador",
+  "alias": [],
+  "resumen": "Vía intermedia que conserva la tradición admitiendo su evolución histórica."
+ },
+ "judaismo-ortodoxo": {
+  "nombre": "Judaísmo ortodoxo moderno",
+  "alias": [],
+  "resumen": "Respuesta tradicionalista a la Reforma, fiel a la ley judía en su integridad."
+ },
+ "judaismo-reconst": {
+  "nombre": "Judaísmo reconstruccionista",
+  "alias": [],
+  "resumen": "Corriente que entiende el judaísmo como civilización religiosa en evolución."
+ },
+ "judaismo-reformista": {
+  "nombre": "Judaísmo reformista",
+  "alias": [],
+  "resumen": "Corriente liberal nacida en Alemania que adapta la práctica judía a la modernidad."
+ },
+ "kaharingan": {
+  "nombre": "Kaharingan",
+  "alias": [],
+  "resumen": "Religión de los dayak de Borneo, célebre por sus segundos funerales."
+ },
+ "kejawen": {
+  "nombre": "Kejawèn",
+  "alias": [],
+  "resumen": "Espiritualidad javanesa que entrelaza animismo, hinduismo-budismo e islam."
+ },
+ "kemetismo": {
+  "nombre": "Kemetismo",
+  "alias": [],
+  "resumen": "Reconstrucción moderna de la religión del antiguo Egipto."
+ },
+ "kimbangu": {
+  "nombre": "Kimbanguismo",
+  "alias": [],
+  "resumen": "Iglesia fundada en el Congo por el profeta Simon Kimbangu, una de las mayores iglesias independientes africanas."
+ },
+ "kush": {
+  "nombre": "Religión de Kush y Meroe",
+  "alias": [],
+  "resumen": "Culto nubio que adoptó a Amón y creó dioses propios como el león Apedemak."
+ },
+ "lapita": {
+  "nombre": "Tradición lapita",
+  "alias": [],
+  "resumen": "Cultura de navegantes y alfareros que pobló la Melanesia insular y la Polinesia occidental."
+ },
+ "levante-paleo": {
+  "nombre": "Ritos funerarios del Paleolítico en el Levante",
+  "alias": [],
+  "resumen": "Enterramientos con ofrendas de Qafzeh y Skhul: las sepulturas intencionadas más antiguas conocidas, en el corredor de salida de África."
+ },
+ "lingayat": {
+  "nombre": "Lingayatismo",
+  "alias": [],
+  "resumen": "Movimiento de Basava, devoto de Shiva, que rechazó castas y rituales de templo."
+ },
+ "llanuras": {
+  "nombre": "Religiones de las Grandes Llanuras",
+  "alias": [],
+  "resumen": "Danza del Sol, búsqueda de visión y pipa sagrada de lakotas, cheyenes y otros pueblos."
+ },
+ "loto-blanco": {
+  "nombre": "Sociedades del Loto Blanco",
+  "alias": [],
+  "resumen": "Movimientos laicos y milenaristas, origen de varias rebeliones."
+ },
+ "luteranismo": {
+  "nombre": "Luteranismo",
+  "alias": [],
+  "resumen": "Primera gran iglesia de la Reforma: justificación por la fe y autoridad de la Escritura."
+ },
+ "luz-mundo": {
+  "nombre": "La Luz del Mundo",
+  "alias": [],
+  "resumen": "Iglesia no trinitaria fundada en Guadalajara, México."
+ },
+ "maestros-cel": {
+  "nombre": "Camino de los Maestros Celestiales",
+  "alias": [],
+  "resumen": "Primera iglesia taoísta organizada, fundada por Zhang Daoling."
+ },
+ "mahayana": {
+  "nombre": "Budismo mahayana",
+  "alias": [],
+  "resumen": "El Gran Vehículo: ideal del bodhisattva, que pospone su liberación para ayudar a todos los seres."
+ },
+ "malta-templos": {
+  "nombre": "Templos megalíticos de Malta",
+  "alias": [],
+  "resumen": "Santuarios de piedra como Ġgantija y Ħaġar Qim, con estatuas corpulentas y un hipogeo excavado en la roca."
+ },
+ "mandeismo": {
+  "nombre": "Mandeísmo",
+  "alias": [],
+  "resumen": "Religión gnóstica de Mesopotamia que venera a Juan el Bautista y practica bautismos repetidos en agua corriente."
+ },
+ "maniqueismo": {
+  "nombre": "Maniqueísmo",
+  "alias": [],
+  "resumen": "Religión universal del profeta Mani: lucha cósmica entre luz y tinieblas; llegó del Mediterráneo hasta China."
+ },
+ "maori": {
+  "nombre": "Religión maorí",
+  "alias": [],
+  "resumen": "Tradición de Aotearoa: Rangi y Papa, los atua y la genealogía sagrada o whakapapa."
+ },
+ "mapuche": {
+  "nombre": "Religión mapuche",
+  "alias": [],
+  "resumen": "Tradición del sur andino: la machi, el nguillatún y el equilibrio entre fuerzas opuestas."
+ },
+ "marcionismo": {
+  "nombre": "Marcionismo",
+  "alias": [],
+  "resumen": "Iglesia de Marción, que rechazaba el Antiguo Testamento y distinguía dos dioses."
+ },
+ "mari": {
+  "nombre": "Religión tradicional mari",
+  "alias": [],
+  "resumen": "Fe del pueblo mari del Volga, que sigue celebrando sacrificios en bosques sagrados."
+ },
+ "maria-lionza": {
+  "nombre": "Culto de María Lionza",
+  "alias": [],
+  "resumen": "Devoción venezolana a una diosa indígena y sus cortes de espíritus."
+ },
+ "maronita": {
+  "nombre": "Iglesia maronita",
+  "alias": [],
+  "resumen": "Iglesia oriental del Líbano, en comunión con Roma."
+ },
+ "masoneria": {
+  "nombre": "Masonería",
+  "alias": [],
+  "resumen": "Fraternidad iniciática de simbolismo constructor; no es una religión, pero influyó en muchos movimientos esotéricos."
+ },
+ "maya": {
+  "nombre": "Religión maya",
+  "alias": [],
+  "resumen": "Ciudades-templo, calendario sagrado, sacrificio de sangre y mitos como los del Popol Vuh; pervive en comunidades actuales."
+ },
+ "maya-catolica": {
+  "nombre": "Catolicismo indígena mesoamericano",
+  "alias": [],
+  "resumen": "Fusión de santos católicos, cerros sagrados y calendario ritual prehispánico."
+ },
+ "mazdakismo": {
+  "nombre": "Mazdakismo",
+  "alias": [],
+  "resumen": "Movimiento igualitario persa que predicaba la comunidad de bienes."
+ },
+ "meditacion-t": {
+  "nombre": "Meditación Trascendental",
+  "alias": [],
+  "resumen": "Técnica de meditación con mantra difundida por Maharishi Mahesh Yogi."
+ },
+ "melanesia": {
+  "nombre": "Religiones melanesias",
+  "alias": [],
+  "resumen": "Tradiciones de espíritus ancestrales, sociedades secretas y poder espiritual o mana."
+ },
+ "menonitas": {
+  "nombre": "Menonitas",
+  "alias": [],
+  "resumen": "Anabaptistas pacifistas seguidores de Menno Simons."
+ },
+ "metodismo": {
+  "nombre": "Metodismo",
+  "alias": [],
+  "resumen": "Avivamiento de John Wesley que acentúa la santidad personal y la acción social."
+ },
+ "mevlevi": {
+  "nombre": "Orden mevleví",
+  "alias": [],
+  "resumen": "Cofradía de los derviches giradores, fundada por los seguidores de Rumi."
+ },
+ "mexica": {
+  "nombre": "Religión mexica",
+  "alias": [],
+  "resumen": "Religión de Tenochtitlan: Huitzilopochtli, Tláloc y el sacrificio que sostiene al sol."
+ },
+ "miafisismo": {
+  "nombre": "Iglesias ortodoxas orientales",
+  "alias": [],
+  "resumen": "Iglesias que rechazaron el concilio de Calcedonia: copta, siríaca, armenia y etíope."
+ },
+ "micenica": {
+  "nombre": "Religión micénica",
+  "alias": [],
+  "resumen": "Religión de los palacios griegos de la Edad del Bronce; sus tablillas ya nombran a Zeus, Hera y Poseidón."
+ },
+ "micronesia": {
+  "nombre": "Religiones micronesias",
+  "alias": [],
+  "resumen": "Creencias de los atolones del Pacífico occidental, con navegantes-sacerdotes y culto a los antepasados."
+ },
+ "midewiwin": {
+  "nombre": "Midewiwin",
+  "alias": [],
+  "resumen": "Gran Sociedad de Medicina de los ojibwas y pueblos vecinos."
+ },
+ "minoica": {
+  "nombre": "Religión minoica",
+  "alias": [],
+  "resumen": "Culto cretense de santuarios en cumbres y cuevas, figuras femeninas, el toro y el hacha doble."
+ },
+ "misisipi": {
+  "nombre": "Complejo ceremonial misisipiano",
+  "alias": [],
+  "resumen": "Sociedades de grandes montículos-plataforma, como Cahokia, con iconografía solar y de guerreros-ave."
+ },
+ "mitraismo": {
+  "nombre": "Misterios de Mitra",
+  "alias": [],
+  "resumen": "Culto iniciático de soldados y funcionarios romanos, celebrado en cuevas en torno al dios que sacrifica al toro."
+ },
+ "moche": {
+  "nombre": "Religión moche",
+  "alias": [],
+  "resumen": "Religión de la costa norte peruana, con ceremonias de sacrificio representadas en su cerámica."
+ },
+ "mohismo": {
+  "nombre": "Mohismo",
+  "alias": [],
+  "resumen": "Escuela de Mozi que predicaba el amor universal y la voluntad del Cielo."
+ },
+ "mongol": {
+  "nombre": "Chamanismo mongol",
+  "alias": [],
+  "resumen": "Religión del imperio de Gengis Kan y sus herederos, hoy revitalizada."
+ },
+ "montanismo": {
+  "nombre": "Montanismo",
+  "alias": [],
+  "resumen": "Movimiento profético y rigorista surgido en Frigia."
+ },
+ "mormonismo": {
+  "nombre": "Mormonismo",
+  "alias": [],
+  "resumen": "Movimiento de los Santos de los Últimos Días, fundado por Joseph Smith a partir del Libro de Mormón."
+ },
+ "muisca": {
+  "nombre": "Religión muisca",
+  "alias": [],
+  "resumen": "Culto al sol y a las lagunas de los Andes colombianos, origen de la leyenda de El Dorado."
+ },
+ "muismo": {
+  "nombre": "Muismo coreano",
+  "alias": [],
+  "resumen": "Chamanismo de Corea, con sus rituales gut oficiados por mudang."
+ },
+ "muridiyya": {
+  "nombre": "Muridiyya",
+  "alias": [],
+  "resumen": "Cofradía sufí senegalesa fundada por Amadou Bamba, que santifica el trabajo y tiene su centro en Touba."
+ },
+ "nacion-islam": {
+  "nombre": "Nación del Islam",
+  "alias": [],
+  "resumen": "Movimiento afroamericano de afirmación negra fundado en Detroit."
+ },
+ "nat": {
+  "nombre": "Culto birmano a los nat",
+  "alias": [],
+  "resumen": "Panteón de treinta y siete espíritus oficializado por los reyes de Pagan."
+ },
+ "natuf": {
+  "nombre": "Natufiense y santuarios del Neolítico precerámico",
+  "alias": [],
+  "resumen": "Primeras comunidades sedentarias del Creciente Fértil: cráneos modelados, culto a los antepasados y los recintos monumentales de Göbekli Tepe."
+ },
+ "navajo": {
+  "nombre": "Religión diné (navajo)",
+  "alias": [],
+  "resumen": "Ceremonias de canto y pinturas de arena para restaurar la armonía o hózhó."
+ },
+ "navayana": {
+  "nombre": "Budismo navayana",
+  "alias": [],
+  "resumen": "Budismo social de B. R. Ambedkar, adoptado por millones de dalits."
+ },
+ "nazca": {
+  "nombre": "Religión nazca",
+  "alias": [],
+  "resumen": "Cultura de los geoglifos del desierto, ligados al agua y la fertilidad."
+ },
+ "neoconfucianismo": {
+  "nombre": "Neoconfucianismo",
+  "alias": [],
+  "resumen": "Renovación metafísica del confucianismo, sistematizada por Zhu Xi."
+ },
+ "neoplatonismo": {
+  "nombre": "Neoplatonismo",
+  "alias": [],
+  "resumen": "Sistema de Plotino: todo emana del Uno y el alma puede retornar a él; última gran filosofía religiosa pagana."
+ },
+ "new-age": {
+  "nombre": "Nueva Era",
+  "alias": [],
+  "resumen": "Red difusa de espiritualidades alternativas: holismo, energías, canalización y crecimiento personal."
+ },
+ "nichiren": {
+  "nombre": "Budismo nichiren",
+  "alias": [],
+  "resumen": "Escuela que proclama la fe exclusiva en el Sutra del Loto."
+ },
+ "nilo": {
+  "nombre": "Religiones nilóticas",
+  "alias": [],
+  "resumen": "Creencias de pueblos pastores como dinka, nuer o masáis, con una divinidad celeste ligada a la lluvia y al ganado."
+ },
+ "nordica": {
+  "nombre": "Religión nórdica",
+  "alias": [],
+  "resumen": "Religión escandinava de la era vikinga: Odín, Thor, Freyja y el destino final del Ragnarök."
+ },
+ "nuevo-pensamiento": {
+  "nombre": "Nuevo Pensamiento",
+  "alias": [],
+  "resumen": "Corriente de sanación mental y pensamiento positivo."
+ },
+ "obeah": {
+  "nombre": "Obeah",
+  "alias": [],
+  "resumen": "Prácticas espirituales y curativas del Caribe anglófono."
+ },
+ "olmeca": {
+  "nombre": "Religión olmeca",
+  "alias": [],
+  "resumen": "Primera gran tradición ceremonial de Mesoamérica: cabezas colosales, el jaguar y el dios del maíz."
+ },
+ "omoto": {
+  "nombre": "Ōmoto",
+  "alias": [],
+  "resumen": "Nueva religión japonesa de inspiración profética y universalista."
+ },
+ "orfismo": {
+  "nombre": "Orfismo",
+  "alias": [],
+  "resumen": "Corriente griega de salvación personal, con pureza de vida y creencia en la transmigración del alma."
+ },
+ "origen": {
+  "nombre": "Primeros comportamientos simbólicos",
+  "alias": [],
+  "resumen": "Uso de pigmentos, cuidado de los muertos y objetos sin función práctica entre los primeros Homo sapiens africanos: el sustrato más antiguo que la arqueología puede asociar a un pensamiento simbólico."
+ },
+ "ortodoxa": {
+  "nombre": "Iglesia ortodoxa",
+  "alias": [],
+  "resumen": "Comunión de iglesias de tradición bizantina, fiel a los siete primeros concilios y separada de Roma desde el cisma de 1054."
+ },
+ "paleoesquimal": {
+  "nombre": "Tradiciones paleoesquimales",
+  "alias": [],
+  "resumen": "Culturas árticas como Dorset, con chamanismo y arte en miniatura de marfil."
+ },
+ "paleoindios": {
+  "nombre": "Tradiciones paleoindias",
+  "alias": [],
+  "resumen": "Creencias de los primeros pobladores de América, conocidas por sepulturas con ocre como la de Anzick."
+ },
+ "palo": {
+  "nombre": "Palo Monte",
+  "alias": [],
+  "resumen": "Tradición afrocubana de raíz kongo, centrada en los espíritus de los muertos."
+ },
+ "papua": {
+  "nombre": "Religiones papúes",
+  "alias": [],
+  "resumen": "Cientos de tradiciones de Nueva Guinea basadas en espíritus de los antepasados, casas ceremoniales e intercambio ritual."
+ },
+ "parsis": {
+  "nombre": "Zoroastrismo parsi",
+  "alias": [],
+  "resumen": "Comunidad zoroástrica refugiada en la India tras la conquista islámica de Persia."
+ },
+ "paulicianos": {
+  "nombre": "Paulicianos",
+  "alias": [],
+  "resumen": "Secta dualista de Armenia y Anatolia, enemiga del culto a las imágenes."
+ },
+ "pentecostalismo": {
+  "nombre": "Pentecostalismo",
+  "alias": [],
+  "resumen": "Avivamiento del bautismo en el Espíritu Santo, las lenguas y la sanación; el cristianismo de mayor crecimiento."
+ },
+ "peyote": {
+  "nombre": "Iglesia Nativa Americana",
+  "alias": [],
+  "resumen": "Religión intertribal que une el sacramento del peyote con elementos cristianos."
+ },
+ "pie": {
+  "nombre": "Religión protoindoeuropea",
+  "alias": [],
+  "resumen": "Religión reconstruida de los pastores de la estepa póntica: un padre cielo, gemelos divinos y el sacrificio del caballo."
+ },
+ "pitagorismo": {
+  "nombre": "Pitagorismo",
+  "alias": [],
+  "resumen": "Comunidad filosófico-religiosa que veía en el número el principio del cosmos y practicaba una vida ascética."
+ },
+ "platonismo": {
+  "nombre": "Platonismo",
+  "alias": [],
+  "resumen": "Filosofía de Platón: un mundo de formas eternas y un alma inmortal, de enorme huella en la teología posterior."
+ },
+ "polinesia": {
+  "nombre": "Religiones polinesias",
+  "alias": [],
+  "resumen": "Panteón compartido de Tangaroa, Tāne, Tū y Rongo, con las nociones de mana y tapu."
+ },
+ "presbiterianismo": {
+  "nombre": "Presbiterianismo",
+  "alias": [],
+  "resumen": "Rama reformada escocesa gobernada por asambleas de ancianos."
+ },
+ "pueblo": {
+  "nombre": "Religiones pueblo",
+  "alias": [],
+  "resumen": "Ceremonial de hopis, zuñis y otros pueblos, con danzas de katsinas para pedir la lluvia."
+ },
+ "pueblo-anc": {
+  "nombre": "Pueblos ancestrales",
+  "alias": [],
+  "resumen": "Culturas del Chaco y Mesa Verde, con cámaras ceremoniales o kivas."
+ },
+ "punica": {
+  "nombre": "Religión púnica",
+  "alias": [],
+  "resumen": "Religión de Cartago, heredera de la fenicia, presidida por Baal Hammón y Tanit."
+ },
+ "quanzhen": {
+  "nombre": "Escuela Quanzhen",
+  "alias": [],
+  "resumen": "Taoísmo monástico de la Perfección Completa, centrado en la alquimia interior."
+ },
+ "rabinico": {
+  "nombre": "Judaísmo rabínico",
+  "alias": [],
+  "resumen": "Judaísmo de la sinagoga, la Mishná y el Talmud, surgido tras la destrucción del Templo."
+ },
+ "radhasoami": {
+  "nombre": "Radha Soami",
+  "alias": [],
+  "resumen": "Movimiento de meditación en el sonido interior bajo la guía de un maestro vivo."
+ },
+ "raelismo": {
+  "nombre": "Movimiento raeliano",
+  "alias": [],
+  "resumen": "Religión ovni que atribuye la creación de la humanidad a extraterrestres."
+ },
+ "ramakrishna": {
+  "nombre": "Misión Ramakrishna",
+  "alias": [],
+  "resumen": "Orden fundada por Vivekananda, que presentó el vedanta como religión universal."
+ },
+ "rapanui": {
+  "nombre": "Religión rapanui",
+  "alias": [],
+  "resumen": "Culto a los antepasados de los moái y, más tarde, la ceremonia del hombre-pájaro."
+ },
+ "rastafari": {
+  "nombre": "Rastafari",
+  "alias": [],
+  "resumen": "Movimiento jamaicano que ve en Haile Selassie al Mesías y en África la tierra prometida."
+ },
+ "ratana": {
+  "nombre": "Iglesia Rātana",
+  "alias": [],
+  "resumen": "Movimiento cristiano maorí de sanación, con gran peso político."
+ },
+ "reformada": {
+  "nombre": "Iglesias reformadas (calvinismo)",
+  "alias": [],
+  "resumen": "Tradición de Zuinglio y Calvino, centrada en la soberanía de Dios y una liturgia sobria."
+ },
+ "ringatu": {
+  "nombre": "Ringatū",
+  "alias": [],
+  "resumen": "Fe maorí fundada por Te Kooti, inspirada en el Antiguo Testamento."
+ },
+ "rodnoveria": {
+  "nombre": "Rodnoveria",
+  "alias": [],
+  "resumen": "Fe nativa eslava reconstruida en Rusia, Ucrania y Polonia."
+ },
+ "romana": {
+  "nombre": "Religión romana",
+  "alias": [],
+  "resumen": "Culto público de Roma: observancia escrupulosa de los ritos, dioses del Estado y del hogar, y más tarde culto imperial."
+ },
+ "romuva": {
+  "nombre": "Romuva",
+  "alias": [],
+  "resumen": "Movimiento lituano que retoma la religión báltica a partir del folclore."
+ },
+ "rosacruz": {
+  "nombre": "Rosacrucismo",
+  "alias": [],
+  "resumen": "Corriente esotérica nacida de unos manifiestos alemanes que anunciaban una fraternidad secreta de sabios."
+ },
+ "samaritanismo": {
+  "nombre": "Samaritanismo",
+  "alias": [],
+  "resumen": "Comunidad que solo acepta el Pentateuco y venera el monte Garizim."
+ },
+ "sami": {
+  "nombre": "Religión sami",
+  "alias": [],
+  "resumen": "Tradición de Laponia con sus chamanes noaidi, tambores rituales y lugares sagrados sieidi."
+ },
+ "san": {
+  "nombre": "Tradiciones san",
+  "alias": [],
+  "resumen": "Religión de los cazadores-recolectores del África austral, centrada en la danza de trance, los sanadores y un arte rupestre de miles de años."
+ },
+ "sant-mat": {
+  "nombre": "Tradición sant",
+  "alias": [],
+  "resumen": "Poetas santos del norte de la India, como Kabir, que predicaron un dios sin forma más allá de hindúes y musulmanes."
+ },
+ "santa-muerte": {
+  "nombre": "Culto a la Santa Muerte",
+  "alias": [],
+  "resumen": "Devoción popular mexicana a la muerte personificada como santa."
+ },
+ "santeria": {
+  "nombre": "Santería (Regla de Ocha)",
+  "alias": [],
+  "resumen": "Religión afrocubana de los orishas, identificados con santos católicos."
+ },
+ "santo-daime": {
+  "nombre": "Santo Daime",
+  "alias": [],
+  "resumen": "Religión amazónica brasileña que emplea la ayahuasca como sacramento."
+ },
+ "sasia-pre": {
+  "nombre": "Tradiciones prehistóricas del sur de Asia",
+  "alias": [],
+  "resumen": "Arte rupestre de Bhimbetka y cultos aldeanos tempranos como Mehrgarh, sustrato de las religiones posteriores del subcontinente."
+ },
+ "satanismo": {
+  "nombre": "Satanismo moderno",
+  "alias": [],
+  "resumen": "Corrientes nacidas con la Iglesia de Satán de LaVey; en su mayoría ateas, usan a Satán como símbolo de individualismo."
+ },
+ "sea-paleo": {
+  "nombre": "Arte rupestre de Sondalandia",
+  "alias": [],
+  "resumen": "Pinturas figurativas de Sulawesi y Borneo, entre las más antiguas del mundo, obra de los primeros pobladores del Sudeste Asiático insular."
+ },
+ "seon": {
+  "nombre": "Budismo coreano (seon)",
+  "alias": [],
+  "resumen": "Tradición meditativa de Corea, hoy dominante en la orden Jogye."
+ },
+ "serer": {
+  "nombre": "Religión serer",
+  "alias": [],
+  "resumen": "Tradición senegambiana en torno a la divinidad Roog y los pangool, espíritus ancestrales."
+ },
+ "serpiente": {
+  "nombre": "Culto de la Serpiente Arcoíris",
+  "alias": [],
+  "resumen": "Gran ser creador ligado al agua, presente en el arte rupestre de la Tierra de Arnhem desde hace miles de años."
+ },
+ "shaktismo": {
+  "nombre": "Shaktismo",
+  "alias": [],
+  "resumen": "Culto a la Diosa como energía suprema, en formas como Durga y Kali."
+ },
+ "shang": {
+  "nombre": "Religión Shang",
+  "alias": [],
+  "resumen": "Adivinación con huesos oraculares, sacrificios a los antepasados reales y al dios supremo Di."
+ },
+ "shingon": {
+  "nombre": "Shingon",
+  "alias": [],
+  "resumen": "Budismo esotérico japonés fundado por Kūkai."
+ },
+ "shinto": {
+  "nombre": "Sintoísmo",
+  "alias": [],
+  "resumen": "Vía de los kami, espíritus de la naturaleza y los linajes, venerados en santuarios."
+ },
+ "shivaismo": {
+  "nombre": "Shaivismo",
+  "alias": [],
+  "resumen": "Tradiciones centradas en Shiva, desde el ascetismo yóguico hasta el culto en grandes templos."
+ },
+ "shugendo": {
+  "nombre": "Shugendō",
+  "alias": [],
+  "resumen": "Ascetismo de montaña que mezcla culto a los kami, budismo esotérico y taoísmo."
+ },
+ "siberia": {
+  "nombre": "Chamanismo siberiano",
+  "alias": [],
+  "resumen": "Tradiciones de la taiga y la tundra en las que el chamán viaja entre mundos con ayuda de espíritus auxiliares."
+ },
+ "sijismo": {
+  "nombre": "Sijismo",
+  "alias": [],
+  "resumen": "Fe fundada por Gurú Nanak en el Panyab: un solo Dios, igualdad y servicio, guiada hoy por el Gurú Granth Sahib."
+ },
+ "siriaca": {
+  "nombre": "Iglesia ortodoxa siríaca",
+  "alias": [],
+  "resumen": "Iglesia de tradición antioquena y lengua siríaca."
+ },
+ "smarta": {
+  "nombre": "Tradición smarta",
+  "alias": [],
+  "resumen": "Corriente que venera cinco deidades como formas de un mismo absoluto."
+ },
+ "soka": {
+  "nombre": "Soka Gakkai",
+  "alias": [],
+  "resumen": "Movimiento laico nichiren, de gran difusión internacional."
+ },
+ "sramana": {
+  "nombre": "Movimientos shramánicos",
+  "alias": [],
+  "resumen": "Ascetas errantes del Ganges que rechazaban la autoridad védica y buscaban la liberación del ciclo de renacimientos."
+ },
+ "sufismo": {
+  "nombre": "Sufismo",
+  "alias": [],
+  "resumen": "Dimensión mística del islam, organizada en cofradías que buscan la experiencia directa de Dios."
+ },
+ "sumeria": {
+  "nombre": "Religión sumeria",
+  "alias": [],
+  "resumen": "Ciudades-templo consagradas a dioses como An, Enlil, Enki e Inanna; primera mitología escrita."
+ },
+ "sunismo": {
+  "nombre": "Islam suní",
+  "alias": [],
+  "resumen": "Rama mayoritaria, que sigue la tradición del Profeta y reconoce a los primeros califas."
+ },
+ "svetambara": {
+  "nombre": "Jainismo shvetambara",
+  "alias": [],
+  "resumen": "Rama de monjes y monjas vestidos de blanco, con canon escrito propio."
+ },
+ "swaminarayan": {
+  "nombre": "Swaminarayan",
+  "alias": [],
+  "resumen": "Movimiento devocional y reformista del Guyarat."
+ },
+ "swedenborg": {
+  "nombre": "Nueva Iglesia (swedenborgianismo)",
+  "alias": [],
+  "resumen": "Iglesia basada en las visiones del científico sueco Emanuel Swedenborg."
+ },
+ "tai-phi": {
+  "nombre": "Culto tai a los espíritus",
+  "alias": [],
+  "resumen": "Veneración de los phi y de los genios tutelares, viva junto al budismo."
+ },
+ "taino": {
+  "nombre": "Religión taína",
+  "alias": [],
+  "resumen": "Religión de las Antillas: los cemíes, la ceremonia de la cohoba y el juego de pelota."
+ },
+ "taiping": {
+  "nombre": "Reino Celestial Taiping",
+  "alias": [],
+  "resumen": "Movimiento de Hong Xiuquan, que se creía hermano menor de Jesús y desató una guerra civil."
+ },
+ "tantra": {
+  "nombre": "Tantrismo",
+  "alias": [],
+  "resumen": "Corrientes rituales y esotéricas que emplean mantras, diagramas y el cuerpo como vía de liberación."
+ },
+ "taoismo": {
+  "nombre": "Taoísmo",
+  "alias": [],
+  "resumen": "Tradición del Dao De Jing y el Zhuangzi: seguir el curso natural del Tao; más tarde religión con panteón y alquimia."
+ },
+ "tendai": {
+  "nombre": "Tendai",
+  "alias": [],
+  "resumen": "Versión japonesa del Tiantai, con sede en el monte Hiei."
+ },
+ "tengri": {
+  "nombre": "Tengrismo",
+  "alias": [],
+  "resumen": "Religión de los pueblos turcos y mongoles: el Cielo Eterno, la madre tierra y los chamanes."
+ },
+ "tenrikyo": {
+  "nombre": "Tenrikyō",
+  "alias": [],
+  "resumen": "Religión revelada a Nakayama Miki, que invita a una «vida gozosa»."
+ },
+ "teosofia": {
+  "nombre": "Teosofía",
+  "alias": [],
+  "resumen": "Sociedad fundada por Helena Blavatsky que buscó una sabiduría común a todas las religiones."
+ },
+ "teotihuacan": {
+  "nombre": "Religión de Teotihuacan",
+  "alias": [],
+  "resumen": "Culto de la gran metrópoli del altiplano: la Serpiente Emplumada, el dios de las tormentas y una gran diosa."
+ },
+ "testigos": {
+  "nombre": "Testigos de Jehová",
+  "alias": [],
+  "resumen": "Movimiento no trinitario iniciado por Charles Taze Russell, conocido por su predicación puerta a puerta."
+ },
+ "thelema": {
+  "nombre": "Thelema",
+  "alias": [],
+  "resumen": "Sistema de Aleister Crowley cuyo eje es descubrir y cumplir la verdadera voluntad."
+ },
+ "theravada": {
+  "nombre": "Budismo theravada",
+  "alias": [],
+  "resumen": "Escuela de los Ancianos, fiel al canon pali; predomina en Sri Lanka y el Sudeste Asiático."
+ },
+ "theravada-sea": {
+  "nombre": "Theravada del Sudeste Asiático",
+  "alias": [],
+  "resumen": "Budismo de Birmania, Tailandia, Laos y Camboya, adoptado por los reyes desde el siglo XI."
+ },
+ "thien": {
+  "nombre": "Budismo vietnamita (thiền)",
+  "alias": [],
+  "resumen": "Tradición meditativa de Vietnam."
+ },
+ "tiantai": {
+  "nombre": "Tiantai",
+  "alias": [],
+  "resumen": "Escuela del Sutra del Loto, que ordenó todas las enseñanzas budistas en un sistema."
+ },
+ "tibetano": {
+  "nombre": "Budismo tibetano",
+  "alias": [],
+  "resumen": "Budismo de monasterios, lamas reencarnados y enseñanzas tántricas."
+ },
+ "tierra-pura": {
+  "nombre": "Budismo de la Tierra Pura",
+  "alias": [],
+  "resumen": "Devoción al buda Amitabha para renacer en su paraíso occidental."
+ },
+ "tijaniyya": {
+  "nombre": "Tijaniyya",
+  "alias": [],
+  "resumen": "Orden sufí nacida en el Magreb y extendida por toda África occidental."
+ },
+ "tiwanaku": {
+  "nombre": "Religión de Tiwanaku y Wari",
+  "alias": [],
+  "resumen": "Culto del altiplano al Dios de los Báculos, extendido por dos grandes estados."
+ },
+ "tolteca": {
+  "nombre": "Religión tolteca",
+  "alias": [],
+  "resumen": "Religión de Tula, difusora del culto a Quetzalcóatl."
+ },
+ "tupi-guarani": {
+  "nombre": "Religión tupí-guaraní",
+  "alias": [],
+  "resumen": "Tradición de los cantos sagrados y la búsqueda de la Tierra sin Mal."
+ },
+ "ubaid": {
+  "nombre": "Culturas de Ubaid y Uruk",
+  "alias": [],
+  "resumen": "Primeros templos de Mesopotamia, levantados sobre plataformas en Eridu y Uruk."
+ },
+ "umbanda": {
+  "nombre": "Umbanda",
+  "alias": [],
+  "resumen": "Religión brasileña que combina tradición africana, espiritismo y catolicismo."
+ },
+ "unificacion": {
+  "nombre": "Iglesia de la Unificación",
+  "alias": [],
+  "resumen": "Movimiento del reverendo Moon, conocido por sus bodas multitudinarias."
+ },
+ "unitarismo": {
+  "nombre": "Unitarismo",
+  "alias": [],
+  "resumen": "Cristianismo que rechaza la Trinidad, nacido en Polonia y Transilvania."
+ },
+ "uralica": {
+  "nombre": "Religiones urálicas",
+  "alias": [],
+  "resumen": "Creencias de los pueblos fino-ugrios y samoyedos: espíritus de la naturaleza, culto al oso y arboledas sagradas."
+ },
+ "vajrayana": {
+  "nombre": "Budismo vajrayana",
+  "alias": [],
+  "resumen": "Budismo tántrico de mantras, mandalas y transmisión de maestro a discípulo."
+ },
+ "valdenses": {
+  "nombre": "Valdenses",
+  "alias": [],
+  "resumen": "Movimiento de pobreza evangélica iniciado por Pedro Valdo, más tarde unido a la Reforma."
+ },
+ "vedica": {
+  "nombre": "Religión védica",
+  "alias": [],
+  "resumen": "Religión de los himnos del Rigveda: sacrificio de fuego, soma y dioses como Indra, Agni y Varuna."
+ },
+ "veterocatolicos": {
+  "nombre": "Iglesias veterocatólicas",
+  "alias": [],
+  "resumen": "Iglesias separadas de Roma tras rechazar la infalibilidad papal."
+ },
+ "viejos-creyentes": {
+  "nombre": "Viejos creyentes",
+  "alias": [],
+  "resumen": "Fieles rusos que rechazaron las reformas litúrgicas del patriarca Nikon."
+ },
+ "visnuismo": {
+  "nombre": "Vaishnavismo",
+  "alias": [],
+  "resumen": "Devoción a Vishnu y sus avatares, en especial Krishna y Rama."
+ },
+ "vodun": {
+  "nombre": "Vodún de África occidental",
+  "alias": [],
+  "resumen": "Religión de los pueblos fon y ewé: los vodún son fuerzas de la naturaleza y de los linajes, honradas con posesión ritual."
+ },
+ "vudu": {
+  "nombre": "Vudú haitiano",
+  "alias": [],
+  "resumen": "Religión nacida en Saint-Domingue de tradiciones fon, kongo y yoruba bajo formas católicas."
+ },
+ "wahabismo": {
+  "nombre": "Wahabismo",
+  "alias": [],
+  "resumen": "Reforma puritana de Arabia que rechaza toda práctica considerada innovación."
+ },
+ "wicca": {
+  "nombre": "Wicca",
+  "alias": [],
+  "resumen": "Brujería moderna dada a conocer por Gerald Gardner: una diosa y un dios, ocho festividades y magia ritual."
+ },
+ "wixarika": {
+  "nombre": "Religión wixárika (huichol)",
+  "alias": [],
+  "resumen": "Tradición de la peregrinación a Wirikuta y del peyote, el venado y el maíz."
+ },
+ "won": {
+  "nombre": "Budismo won",
+  "alias": [],
+  "resumen": "Budismo coreano moderno cuyo símbolo es un círculo."
+ },
+ "yahvismo": {
+  "nombre": "Yahvismo israelita",
+  "alias": [],
+  "resumen": "Culto del antiguo Israel a Yahvé, que pasó de convivir con otros dioses a exigir exclusividad."
+ },
+ "yarsanismo": {
+  "nombre": "Yarsanismo",
+  "alias": [],
+  "resumen": "Tradición kurda de la «gente de la verdad», con manifestaciones sucesivas de lo divino."
+ },
+ "yazidismo": {
+  "nombre": "Yazidismo",
+  "alias": [],
+  "resumen": "Religión kurda que venera a siete ángeles encabezados por Melek Taus, el Ángel Pavo Real."
+ },
+ "yiguandao": {
+  "nombre": "Yiguandao",
+  "alias": [],
+  "resumen": "Religión salvacionista que venera a la Madre Eterna y une las cinco enseñanzas."
+ },
+ "yoruba": {
+  "nombre": "Religión yoruba",
+  "alias": [],
+  "resumen": "Tradición de Ifé y Oyo: el creador Olodumare, los orishas y el sistema adivinatorio de Ifá."
+ },
+ "zaidismo": {
+  "nombre": "Zaidismo",
+  "alias": [],
+  "resumen": "Rama chií del Yemen, la más próxima al sunismo."
+ },
+ "zapoteca": {
+  "nombre": "Religión zapoteca",
+  "alias": [],
+  "resumen": "Religión de Monte Albán, con el dios de la lluvia Cocijo y culto a los antepasados nobles."
+ },
+ "zen": {
+  "nombre": "Zen",
+  "alias": [],
+  "resumen": "Forma japonesa del chan, con las escuelas rinzai y sōtō."
+ },
+ "zhou": {
+  "nombre": "Religión Zhou",
+  "alias": [],
+  "resumen": "Culto al Cielo y doctrina del Mandato Celestial, que legitima o depone a los gobernantes."
+ },
+ "zion-cc": {
+  "nombre": "Iglesias sionistas africanas",
+  "alias": [],
+  "resumen": "Iglesias de sanación del África austral que unen cristianismo carismático y formas rituales locales."
+ },
+ "zoroastrismo": {
+  "nombre": "Zoroastrismo",
+  "alias": [],
+  "resumen": "Religión de Zaratustra: Ahura Mazda, la elección entre verdad y mentira, y el juicio final."
+ },
+ "zulu": {
+  "nombre": "Religión zulú",
+  "alias": [],
+  "resumen": "Culto a los amadlozi o antepasados, con el creador Unkulunkulu y los adivinos sangoma."
+ },
+ "zurvanismo": {
+  "nombre": "Zurvanismo",
+  "alias": [],
+  "resumen": "Variante que situaba al Tiempo infinito como origen de los dos espíritus gemelos."
+ },
+ "ebionitas": {
+  "nombre": "Ebionitas",
+  "alias": [],
+  "resumen": "Judeocristianos que seguían guardando la Ley de Moisés y veían en Jesús a un profeta humano."
+ },
+ "elcasaitas": {
+  "nombre": "Elcasaítas",
+  "alias": [],
+  "resumen": "Secta bautista judeocristiana de Mesopotamia en la que se crio Mani, el fundador del maniqueísmo."
+ },
+ "valentinianismo": {
+  "nombre": "Valentinianismo",
+  "alias": [],
+  "resumen": "La escuela gnóstica más influyente, con un elaborado mito de emanaciones divinas o eones."
+ },
+ "monacato": {
+  "nombre": "Monacato cristiano",
+  "alias": [],
+  "resumen": "Vida de retiro, oración y ascesis nacida en el desierto egipcio con Antonio y Pacomio."
+ },
+ "cristianos-santo-tomas": {
+  "nombre": "Cristianos de Santo Tomás",
+  "alias": [],
+  "resumen": "Antigua cristiandad de Kerala, que remonta su origen a la predicación del apóstol Tomás."
+ },
+ "priscilianismo": {
+  "nombre": "Priscilianismo",
+  "alias": [],
+  "resumen": "Movimiento ascético de Hispania; su fundador, Prisciliano, fue el primer hereje ejecutado por el poder civil."
+ },
+ "pelagianismo": {
+  "nombre": "Pelagianismo",
+  "alias": [],
+  "resumen": "Doctrina que negaba el pecado original y afirmaba que el ser humano puede obrar el bien sin la gracia."
+ },
+ "celta-crist": {
+  "nombre": "Cristianismo celta",
+  "alias": [],
+  "resumen": "Cristianismo monástico de Irlanda y Britania, con usos propios y gran impulso misionero."
+ },
+ "benedictinos": {
+  "nombre": "Orden benedictina",
+  "alias": [],
+  "resumen": "Monjes que siguen la Regla de san Benito, «reza y trabaja», columna de la Europa medieval."
+ },
+ "nubia-cristiana": {
+  "nombre": "Cristianismo nubio",
+  "alias": [],
+  "resumen": "Reinos cristianos del Nilo medio —Nobatia, Makuria y Alodia— que resistieron un milenio."
+ },
+ "iconoclasia": {
+  "nombre": "Iconoclasia bizantina",
+  "alias": [],
+  "resumen": "Movimiento imperial que prohibió y destruyó las imágenes sagradas durante más de un siglo."
+ },
+ "cistercienses": {
+  "nombre": "Orden cisterciense",
+  "alias": [],
+  "resumen": "Reforma austera del monacato benedictino, impulsada por Bernardo de Claraval."
+ },
+ "templarios": {
+  "nombre": "Orden del Temple",
+  "alias": [],
+  "resumen": "Orden de monjes guerreros nacida en las cruzadas y disuelta tras un proceso por herejía."
+ },
+ "franciscanos": {
+  "nombre": "Orden franciscana",
+  "alias": [],
+  "resumen": "Frailes mendicantes fundados por Francisco de Asís, entregados a la pobreza y la predicación."
+ },
+ "dominicos": {
+  "nombre": "Orden dominicana",
+  "alias": [],
+  "resumen": "Orden de predicadores fundada por Domingo de Guzmán, clave en las universidades y en la Inquisición."
+ },
+ "ortodoxa-serbia": {
+  "nombre": "Iglesia ortodoxa serbia",
+  "alias": [],
+  "resumen": "Iglesia nacional serbia, autocéfala desde san Sava."
+ },
+ "hesicasmo": {
+  "nombre": "Hesicasmo",
+  "alias": [],
+  "resumen": "Tradición mística ortodoxa de la oración del corazón y la contemplación de la luz divina."
+ },
+ "lolardos": {
+  "nombre": "Lolardos",
+  "alias": [],
+  "resumen": "Seguidores de John Wyclif, que tradujeron la Biblia al inglés y criticaron la riqueza del clero."
+ },
+ "ortodoxa-rusa": {
+  "nombre": "Iglesia ortodoxa rusa",
+  "alias": [],
+  "resumen": "La mayor iglesia ortodoxa, independiente de Constantinopla desde 1448 y patriarcado desde 1589."
+ },
+ "moravos": {
+  "nombre": "Hermanos moravos",
+  "alias": [],
+  "resumen": "Iglesia nacida del husitismo, pionera de las misiones protestantes."
+ },
+ "huteritas": {
+  "nombre": "Huteritas",
+  "alias": [],
+  "resumen": "Anabaptistas que viven en colonias con comunidad total de bienes."
+ },
+ "jesuitas": {
+  "nombre": "Compañía de Jesús",
+  "alias": [],
+  "resumen": "Orden fundada por Ignacio de Loyola, punta de lanza de la Contrarreforma, la enseñanza y las misiones."
+ },
+ "puritanismo": {
+  "nombre": "Puritanismo",
+  "alias": [],
+  "resumen": "Movimiento que quiso purificar la Iglesia de Inglaterra de todo resto católico."
+ },
+ "congregacionalismo": {
+  "nombre": "Congregacionalismo",
+  "alias": [],
+  "resumen": "Iglesias en las que cada congregación local se gobierna a sí misma."
+ },
+ "uniatas": {
+  "nombre": "Iglesias católicas orientales",
+  "alias": [],
+  "resumen": "Iglesias de rito oriental que entraron en comunión con Roma conservando su liturgia."
+ },
+ "arminianismo": {
+  "nombre": "Arminianismo",
+  "alias": [],
+  "resumen": "Corriente que, frente a la predestinación calvinista, defiende el libre albedrío."
+ },
+ "jansenismo": {
+  "nombre": "Jansenismo",
+  "alias": [],
+  "resumen": "Movimiento católico rigorista de inspiración agustiniana, condenado por Roma."
+ },
+ "pietismo": {
+  "nombre": "Pietismo",
+  "alias": [],
+  "resumen": "Renovación luterana centrada en la devoción personal y la lectura de la Biblia."
+ },
+ "evangelicalismo": {
+  "nombre": "Evangelicalismo",
+  "alias": [],
+  "resumen": "Gran corriente protestante que insiste en la conversión personal, la Biblia y la misión."
+ },
+ "shakers": {
+  "nombre": "Shakers",
+  "alias": [],
+  "resumen": "Comunidades célibes de vida sencilla, famosas por sus danzas rituales y su artesanía."
+ },
+ "restauracionismo": {
+  "nombre": "Movimiento de Restauración",
+  "alias": [],
+  "resumen": "Movimiento de Stone y Campbell que quiso volver a la iglesia del Nuevo Testamento."
+ },
+ "hermanos-plymouth": {
+  "nombre": "Hermanos de Plymouth",
+  "alias": [],
+  "resumen": "Asambleas sin clero, cuna de la doctrina del arrebatamiento."
+ },
+ "santidad": {
+  "nombre": "Movimiento de santidad",
+  "alias": [],
+  "resumen": "Avivamiento wesleyano que busca una segunda experiencia de santificación total."
+ },
+ "fundamentalismo": {
+  "nombre": "Fundamentalismo cristiano",
+  "alias": [],
+  "resumen": "Reacción contra la teología liberal que defiende la inerrancia literal de la Biblia."
+ },
+ "harrismo": {
+  "nombre": "Iglesia harrista",
+  "alias": [],
+  "resumen": "Iglesia de Costa de Marfil nacida de la predicación del profeta William Wadé Harris."
+ },
+ "shembe": {
+  "nombre": "Iglesia Nazaret Bautista (Shembe)",
+  "alias": [],
+  "resumen": "Iglesia zulú fundada por Isaiah Shembe, que une cristianismo y tradición africana."
+ },
+ "kitawala": {
+  "nombre": "Kitawala",
+  "alias": [],
+  "resumen": "Movimiento milenarista y anticolonial de África central derivado de la Watch Tower."
+ },
+ "legio-maria": {
+  "nombre": "Legio Maria",
+  "alias": [],
+  "resumen": "La mayor iglesia africana escindida del catolicismo, nacida en Kenia."
+ },
+ "teologia-liberacion": {
+  "nombre": "Teología de la liberación",
+  "alias": [],
+  "resumen": "Corriente latinoamericana que lee el Evangelio desde la opción por los pobres."
+ },
+ "israelitas": {
+  "nombre": "Israelitas del Nuevo Pacto Universal",
+  "alias": [],
+  "resumen": "Movimiento peruano que une Antiguo Testamento, mesianismo andino y vida agraria."
+ },
+ "lefebvristas": {
+  "nombre": "Tradicionalismo católico",
+  "alias": [],
+  "resumen": "Grupos que rechazan las reformas del Concilio Vaticano II y conservan la misa tridentina."
+ },
+ "palmariana": {
+  "nombre": "Iglesia palmariana",
+  "alias": [],
+  "resumen": "Iglesia cismática de El Palmar de Troya, en Sevilla, con sus propios papas."
+ },
+ "judaismo-helenistico": {
+  "nombre": "Judaísmo helenístico",
+  "alias": [],
+  "resumen": "Judaísmo de lengua griega de Alejandría, autor de la Septuaginta y de la obra de Filón."
+ },
+ "fariseos": {
+  "nombre": "Fariseos",
+  "alias": [],
+  "resumen": "Corriente de maestros de la Ley oral, de la que nace el judaísmo rabínico."
+ },
+ "saduceos": {
+  "nombre": "Saduceos",
+  "alias": [],
+  "resumen": "Aristocracia sacerdotal del Templo, que solo aceptaba la Torá escrita."
+ },
+ "esenios": {
+  "nombre": "Esenios",
+  "alias": [],
+  "resumen": "Comunidades apartadas de vida ascética, vinculadas a los manuscritos del mar Muerto."
+ },
+ "beta-israel": {
+  "nombre": "Beta Israel",
+  "alias": [],
+  "resumen": "Judíos de Etiopía, con tradiciones propias anteriores al Talmud."
+ },
+ "sabateismo": {
+  "nombre": "Sabateísmo",
+  "alias": [],
+  "resumen": "Movimiento mesiánico en torno a Sabbatai Zevi, que acabó convertido al islam."
+ },
+ "haskala": {
+  "nombre": "Haskalá",
+  "alias": [],
+  "resumen": "Ilustración judía, que abrió las comunidades a la cultura y la ciencia europeas."
+ },
+ "jabad": {
+  "nombre": "Jabad-Lubavitch",
+  "alias": [],
+  "resumen": "Dinastía jasídica de vocación intelectual y misionera, hoy presente en todo el mundo."
+ },
+ "judaismo-humanista": {
+  "nombre": "Judaísmo humanista",
+  "alias": [],
+  "resumen": "Corriente no teísta que celebra la cultura y la historia judías."
+ },
+ "hanif": {
+  "nombre": "Hanifismo",
+  "alias": [],
+  "resumen": "Monoteístas árabes anteriores al islam, ni judíos ni cristianos."
+ },
+ "mutazila": {
+  "nombre": "Mutazilismo",
+  "alias": [],
+  "resumen": "Escuela teológica racionalista que defendía el libre albedrío y el Corán creado."
+ },
+ "hanafi": {
+  "nombre": "Escuela hanafí",
+  "alias": [],
+  "resumen": "La escuela jurídica suní más extendida, de Turquía a la India."
+ },
+ "maliki": {
+  "nombre": "Escuela malikí",
+  "alias": [],
+  "resumen": "Escuela jurídica basada en la práctica de Medina, dominante en el Magreb y África occidental."
+ },
+ "shafii": {
+  "nombre": "Escuela shafií",
+  "alias": [],
+  "resumen": "Escuela jurídica predominante en África oriental y el Sudeste Asiático."
+ },
+ "hanbali": {
+  "nombre": "Escuela hanbalí",
+  "alias": [],
+  "resumen": "La escuela jurídica más literalista, hoy oficial en Arabia Saudí."
+ },
+ "qarmatas": {
+  "nombre": "Cármatas",
+  "alias": [],
+  "resumen": "Movimiento ismailí revolucionario que saqueó La Meca y se llevó la Piedra Negra."
+ },
+ "ashari": {
+  "nombre": "Asharismo",
+  "alias": [],
+  "resumen": "Teología que se convirtió en la ortodoxia suní al conciliar razón y revelación."
+ },
+ "nizaries": {
+  "nombre": "Nizaríes",
+  "alias": [],
+  "resumen": "Rama ismailí del Aga Kan; en la Edad Media fueron los temidos «asesinos» de Alamut."
+ },
+ "bohras": {
+  "nombre": "Bohras (mustalíes)",
+  "alias": [],
+  "resumen": "Rama ismailí asentada en el Guyarat y el Yemen."
+ },
+ "qadiriyya": {
+  "nombre": "Qadiriyya",
+  "alias": [],
+  "resumen": "La cofradía sufí más antigua y difundida, nacida en Bagdad."
+ },
+ "chishti": {
+  "nombre": "Orden chishtí",
+  "alias": [],
+  "resumen": "Cofradía sufí de la India, célebre por su música devocional qawwali."
+ },
+ "shadhili": {
+  "nombre": "Shadhiliyya",
+  "alias": [],
+  "resumen": "Cofradía sufí nacida en el Magreb y Egipto."
+ },
+ "bektashi": {
+  "nombre": "Bektashismo",
+  "alias": [],
+  "resumen": "Orden sufí de Anatolia y los Balcanes, ligada a los jenízaros."
+ },
+ "naqshbandi": {
+  "nombre": "Naqshbandiyya",
+  "alias": [],
+  "resumen": "Cofradía sufí de Asia central, de práctica sobria y recuerdo silencioso de Dios."
+ },
+ "din-i-ilahi": {
+  "nombre": "Din-i Ilahi",
+  "alias": [],
+  "resumen": "Religión sincrética creada por el emperador mogol Akbar, que no le sobrevivió."
+ },
+ "shaykhismo": {
+  "nombre": "Shaijismo",
+  "alias": [],
+  "resumen": "Escuela chií mística que preparó el terreno al babismo."
+ },
+ "sanusiyya": {
+  "nombre": "Sanusiyya",
+  "alias": [],
+  "resumen": "Cofradía reformista del Sáhara que encabezó la resistencia libia."
+ },
+ "deobandi": {
+  "nombre": "Movimiento deobandí",
+  "alias": [],
+  "resumen": "Corriente rigorista nacida en un seminario del norte de la India."
+ },
+ "salafismo": {
+  "nombre": "Salafismo",
+  "alias": [],
+  "resumen": "Movimiento que propone volver al islam de las primeras generaciones."
+ },
+ "barelvi": {
+  "nombre": "Movimiento barelví",
+  "alias": [],
+  "resumen": "Corriente mayoritaria del islam surasiático, defensora de la devoción a los santos."
+ },
+ "moorish": {
+  "nombre": "Templo de la Ciencia Morisca",
+  "alias": [],
+  "resumen": "Movimiento afroamericano de Noble Drew Ali, precursor de la Nación del Islam."
+ },
+ "hurrita": {
+  "nombre": "Religión hurrita",
+  "alias": [],
+  "resumen": "Panteón del reino de Mitanni, encabezado por Teshub, dios de la tormenta."
+ },
+ "cibeles": {
+  "nombre": "Culto de Cibeles",
+  "alias": [],
+  "resumen": "Culto frigio de la Gran Madre y de Atis, llevado a Roma en el 204 a. C."
+ },
+ "armenia-pagana": {
+  "nombre": "Paganismo armenio",
+  "alias": [],
+  "resumen": "Religión de la Armenia antigua, con Aramazd, Anahit y Vahagn."
+ },
+ "sabeos-harran": {
+  "nombre": "Sabeos de Harrán",
+  "alias": [],
+  "resumen": "Últimos adoradores de los astros de Mesopotamia, tolerados bajo el islam."
+ },
+ "nabatea": {
+  "nombre": "Religión nabatea",
+  "alias": [],
+  "resumen": "Cultos de Petra a Dushara y Al-Uzza."
+ },
+ "vasca": {
+  "nombre": "Mitología vasca",
+  "alias": [],
+  "resumen": "Creencias precristianas del País Vasco, con Mari, Sugaar y los genios del bosque."
+ },
+ "tracia": {
+  "nombre": "Religión tracia",
+  "alias": [],
+  "resumen": "Cultos de tracios y dacios, con el jinete tracio y el dios Zalmoxis."
+ },
+ "ibera": {
+  "nombre": "Religión íbera",
+  "alias": [],
+  "resumen": "Santuarios, exvotos y damas oferentes de los pueblos íberos del Levante y el sur peninsular."
+ },
+ "dionisismo": {
+  "nombre": "Misterios dionisíacos",
+  "alias": [],
+  "resumen": "Culto extático de Dioniso, con vino, música y promesa de vida tras la muerte."
+ },
+ "guanche": {
+  "nombre": "Religión guanche",
+  "alias": [],
+  "resumen": "Creencias de los antiguos canarios: Achamán, Magec y momificación de los muertos."
+ },
+ "culto-imperial": {
+  "nombre": "Culto imperial romano",
+  "alias": [],
+  "resumen": "Veneración del emperador y de Roma como vínculo político del Imperio."
+ },
+ "alquimia": {
+  "nombre": "Alquimia",
+  "alias": [],
+  "resumen": "Arte de transmutar la materia y perfeccionar el alma, de Alejandría al Renacimiento."
+ },
+ "sol-invicto": {
+  "nombre": "Culto del Sol Invicto",
+  "alias": [],
+  "resumen": "Culto solar oficial del Imperio tardío; su fiesta caía el 25 de diciembre."
+ },
+ "deismo": {
+  "nombre": "Deísmo",
+  "alias": [],
+  "resumen": "Religión racional de la Ilustración: un Dios creador que no interviene ni se revela."
+ },
+ "martinismo": {
+  "nombre": "Martinismo",
+  "alias": [],
+  "resumen": "Corriente esotérica cristiana de Martínez de Pasqually y Saint-Martin."
+ },
+ "ser-supremo": {
+  "nombre": "Culto del Ser Supremo",
+  "alias": [],
+  "resumen": "Religión cívica instaurada por Robespierre durante la Revolución francesa."
+ },
+ "positivismo": {
+  "nombre": "Religión de la Humanidad",
+  "alias": [],
+  "resumen": "Religión laica ideada por Auguste Comte, con templos todavía abiertos en Brasil."
+ },
+ "yo-soy": {
+  "nombre": "Actividad «Yo Soy»",
+  "alias": [],
+  "resumen": "Movimiento de los maestros ascendidos, origen de muchas corrientes de la Nueva Era."
+ },
+ "humanismo": {
+  "nombre": "Humanismo secular",
+  "alias": [],
+  "resumen": "Postura de vida no religiosa basada en la razón, la ciencia y la ética."
+ },
+ "diosa": {
+  "nombre": "Movimiento de la Diosa",
+  "alias": [],
+  "resumen": "Espiritualidad feminista centrada en lo divino femenino."
+ },
+ "stregheria": {
+  "nombre": "Stregheria",
+  "alias": [],
+  "resumen": "Brujería moderna de inspiración italiana."
+ },
+ "neochamanismo": {
+  "nombre": "Neochamanismo",
+  "alias": [],
+  "resumen": "Adaptación occidental de técnicas chamánicas de trance y sanación."
+ },
+ "celta-reconstr": {
+  "nombre": "Reconstruccionismo celta",
+  "alias": [],
+  "resumen": "Recuperación rigurosa del paganismo celta a partir de fuentes históricas."
+ },
+ "uatsdin": {
+  "nombre": "Uatsdin (fe oseta)",
+  "alias": [],
+  "resumen": "Renacimiento de la religión tradicional de los osetios, herederos de escitas y alanos."
+ },
+ "hetanismo": {
+  "nombre": "Hetanismo",
+  "alias": [],
+  "resumen": "Neopaganismo armenio."
+ },
+ "suomenusko": {
+  "nombre": "Suomenusko",
+  "alias": [],
+  "resumen": "Reconstrucción moderna del paganismo finés."
+ },
+ "nova-roma": {
+  "nombre": "Cultus deorum moderno",
+  "alias": [],
+  "resumen": "Reconstrucción contemporánea de la religión romana."
+ },
+ "cusita": {
+  "nombre": "Religiones cusitas",
+  "alias": [],
+  "resumen": "Creencias del Cuerno de África en torno a Waaq, dios del cielo."
+ },
+ "waaqeffanna": {
+  "nombre": "Waaqeffanna",
+  "alias": [],
+  "resumen": "Religión tradicional del pueblo oromo, hoy en renacimiento."
+ },
+ "bori": {
+  "nombre": "Bori",
+  "alias": [],
+  "resumen": "Culto hausa de posesión por espíritus, vivo junto al islam."
+ },
+ "dinka": {
+  "nombre": "Religión dinka",
+  "alias": [],
+  "resumen": "Religión del Nilo Blanco: la divinidad Nhialic y los clanes de maestros del arpón."
+ },
+ "shona": {
+  "nombre": "Religión shona",
+  "alias": [],
+  "resumen": "Culto al dios Mwari y a los espíritus ancestrales, ligado al Gran Zimbabue."
+ },
+ "kongo": {
+  "nombre": "Religión kongo",
+  "alias": [],
+  "resumen": "Cosmología del reino del Kongo: Nzambi, los antepasados y los objetos de poder nkisi."
+ },
+ "masai": {
+  "nombre": "Religión masái",
+  "alias": [],
+  "resumen": "Culto al dios Enkai y autoridad ritual del laibon."
+ },
+ "zar": {
+  "nombre": "Culto zar",
+  "alias": [],
+  "resumen": "Culto de posesión y curación de Etiopía, Sudán y Egipto."
+ },
+ "malgache": {
+  "nombre": "Religión tradicional malgache",
+  "alias": [],
+  "resumen": "Culto a los antepasados de Madagascar, con la ceremonia de dar la vuelta a los muertos."
+ },
+ "samkhya": {
+  "nombre": "Samkhya",
+  "alias": [],
+  "resumen": "Filosofía dualista de espíritu y materia, base teórica del yoga."
+ },
+ "escuelas-tempranas": {
+  "nombre": "Escuelas budistas tempranas",
+  "alias": [],
+  "resumen": "Las dieciocho escuelas surgidas tras los primeros concilios budistas."
+ },
+ "mimamsa": {
+  "nombre": "Mimamsa",
+  "alias": [],
+  "resumen": "Escuela de interpretación del ritual védico."
+ },
+ "sarvastivada": {
+  "nombre": "Sarvastivada",
+  "alias": [],
+  "resumen": "Escuela budista del noroeste de la India, clave en la difusión hacia Asia central."
+ },
+ "yoga": {
+  "nombre": "Yoga clásico",
+  "alias": [],
+  "resumen": "Disciplina de ocho pasos sistematizada en los Yoga Sutras de Patanjali."
+ },
+ "pashupata": {
+  "nombre": "Pashupata",
+  "alias": [],
+  "resumen": "La más antigua orden ascética shivaíta."
+ },
+ "madhyamaka": {
+  "nombre": "Madhyamaka",
+  "alias": [],
+  "resumen": "Escuela de Nagarjuna: todo fenómeno está vacío de existencia propia."
+ },
+ "yogachara": {
+  "nombre": "Yogachara",
+  "alias": [],
+  "resumen": "Escuela budista de «solo mente», de Asanga y Vasubandhu."
+ },
+ "shaiva-siddhanta": {
+  "nombre": "Shaiva siddhanta",
+  "alias": [],
+  "resumen": "Shivaísmo devocional y ritual del sur de la India."
+ },
+ "cachemir": {
+  "nombre": "Shivaísmo de Cachemira",
+  "alias": [],
+  "resumen": "Tradición no dualista de Abhinavagupta: todo es la conciencia de Shiva."
+ },
+ "nath": {
+  "nombre": "Tradición nath",
+  "alias": [],
+  "resumen": "Yoguis seguidores de Gorakhnath, creadores del hatha yoga."
+ },
+ "sri-vaishnavismo": {
+  "nombre": "Sri vaishnavismo",
+  "alias": [],
+  "resumen": "Tradición de Ramanuja, que une devoción y no dualismo cualificado."
+ },
+ "dvaita": {
+  "nombre": "Dvaita vedanta",
+  "alias": [],
+  "resumen": "Escuela dualista de Madhva: Dios y las almas son eternamente distintos."
+ },
+ "varkari": {
+  "nombre": "Tradición varkari",
+  "alias": [],
+  "resumen": "Devoción marathi a Vithoba, con grandes peregrinaciones a pie."
+ },
+ "ramanandi": {
+  "nombre": "Tradición ramanandi",
+  "alias": [],
+  "resumen": "La mayor orden ascética de la India, devota de Rama."
+ },
+ "pushtimarg": {
+  "nombre": "Pushtimarg",
+  "alias": [],
+  "resumen": "«Camino de la gracia» de Vallabha, centrado en Krishna niño."
+ },
+ "kabir-panth": {
+  "nombre": "Kabir Panth",
+  "alias": [],
+  "resumen": "Seguidores del poeta Kabir, críticos con castas y ritos."
+ },
+ "sthanakvasi": {
+  "nombre": "Sthanakvasi",
+  "alias": [],
+  "resumen": "Rama jainista que rechaza el culto a las imágenes."
+ },
+ "khalsa": {
+  "nombre": "Khalsa",
+  "alias": [],
+  "resumen": "Orden de sijs iniciados creada por Gurú Gobind Singh, con sus cinco símbolos."
+ },
+ "terapanth": {
+  "nombre": "Terapanth",
+  "alias": [],
+  "resumen": "Rama jainista reformada bajo la guía de un único maestro."
+ },
+ "namdhari": {
+  "nombre": "Namdhari",
+  "alias": [],
+  "resumen": "Rama sij que reconoce una línea de gurús vivos."
+ },
+ "ravidassia": {
+  "nombre": "Ravidassia",
+  "alias": [],
+  "resumen": "Religión de los seguidores del santo Ravidas, separada formalmente del sijismo en 2010."
+ },
+ "gandhara": {
+  "nombre": "Budismo de Gandhara",
+  "alias": [],
+  "resumen": "Budismo grecoindio que creó las primeras imágenes de Buda."
+ },
+ "xuanxue": {
+  "nombre": "Xuanxue",
+  "alias": [],
+  "resumen": "«Estudio de lo misterioso»: metafísica taoísta de las Seis Dinastías."
+ },
+ "shangqing": {
+  "nombre": "Escuela Shangqing",
+  "alias": [],
+  "resumen": "Taoísmo de la Suprema Claridad, basado en la meditación y la visualización."
+ },
+ "lingbao": {
+  "nombre": "Escuela Lingbao",
+  "alias": [],
+  "resumen": "Taoísmo del Tesoro Numinoso, creador de la gran liturgia taoísta."
+ },
+ "huayan": {
+  "nombre": "Huayan",
+  "alias": [],
+  "resumen": "Escuela del Sutra de la Guirnalda: todo fenómeno contiene y refleja a los demás."
+ },
+ "zhenyan": {
+  "nombre": "Budismo esotérico chino",
+  "alias": [],
+  "resumen": "Tantrismo llevado a la China Tang, de donde pasó a Japón."
+ },
+ "kegon": {
+  "nombre": "Kegon",
+  "alias": [],
+  "resumen": "Versión japonesa del Huayan, con sede en el Tōdai-ji de Nara."
+ },
+ "mazu": {
+  "nombre": "Culto de Mazu",
+  "alias": [],
+  "resumen": "Devoción a la diosa del mar, protectora de marineros en toda la costa china."
+ },
+ "nyingma": {
+  "nombre": "Escuela nyingma",
+  "alias": [],
+  "resumen": "La escuela «antigua» del budismo tibetano, heredera de Padmasambhava."
+ },
+ "kagyu": {
+  "nombre": "Escuela kagyu",
+  "alias": [],
+  "resumen": "Escuela de la transmisión oral, de Marpa y Milarepa."
+ },
+ "sakya": {
+  "nombre": "Escuela sakya",
+  "alias": [],
+  "resumen": "Escuela que gobernó el Tíbet con el apoyo mongol."
+ },
+ "soto": {
+  "nombre": "Sōtō",
+  "alias": [],
+  "resumen": "La mayor escuela zen de Japón, fundada por Dōgen: simplemente sentarse."
+ },
+ "zhengyi": {
+  "nombre": "Taoísmo Zhengyi",
+  "alias": [],
+  "resumen": "Rama de sacerdotes casados que ofician los rituales de la comunidad."
+ },
+ "luoismo": {
+  "nombre": "Luoísmo",
+  "alias": [],
+  "resumen": "Enseñanza de Luo Qing, matriz de muchas sectas populares chinas."
+ },
+ "sanyi": {
+  "nombre": "Enseñanza de las Tres en Una",
+  "alias": [],
+  "resumen": "Religión de Lin Zhao'en que funde confucianismo, taoísmo y budismo."
+ },
+ "budismo-mongol": {
+  "nombre": "Budismo mongol",
+  "alias": [],
+  "resumen": "Budismo tibetano adoptado por los mongoles tras la conversión de Altan Kan."
+ },
+ "xiantiandao": {
+  "nombre": "Xiantiandao",
+  "alias": [],
+  "resumen": "«Vía del Cielo Anterior», tronco de las religiones salvacionistas chinas modernas."
+ },
+ "kurozumikyo": {
+  "nombre": "Kurozumikyō",
+  "alias": [],
+  "resumen": "Primera de las nuevas religiones sintoístas, devota de la diosa solar."
+ },
+ "rime": {
+  "nombre": "Movimiento rimé",
+  "alias": [],
+  "resumen": "Corriente no sectaria que preservó las enseñanzas de todas las escuelas tibetanas."
+ },
+ "konkokyo": {
+  "nombre": "Konkōkyō",
+  "alias": [],
+  "resumen": "Nueva religión sintoísta de mediación entre el fiel y la divinidad."
+ },
+ "shinto-estatal": {
+  "nombre": "Sintoísmo estatal",
+  "alias": [],
+  "resumen": "Culto oficial al emperador impuesto en el Japón imperial."
+ },
+ "jeungsanismo": {
+  "nombre": "Jeungsanismo",
+  "alias": [],
+  "resumen": "Familia de religiones coreanas que veneran a Kang Jeungsan como Dios encarnado."
+ },
+ "daejongismo": {
+  "nombre": "Daejongismo",
+  "alias": [],
+  "resumen": "Religión coreana que rinde culto a Dangun, el fundador mítico de Corea."
+ },
+ "nuevo-confucianismo": {
+  "nombre": "Nuevo confucianismo",
+  "alias": [],
+  "resumen": "Renovación del pensamiento confuciano en diálogo con la filosofía occidental."
+ },
+ "reiyukai": {
+  "nombre": "Reiyūkai",
+  "alias": [],
+  "resumen": "Movimiento laico que une el Sutra del Loto y el culto a los antepasados."
+ },
+ "seicho": {
+  "nombre": "Seichō-no-Ie",
+  "alias": [],
+  "resumen": "Nueva religión japonesa de pensamiento positivo."
+ },
+ "sekai": {
+  "nombre": "Iglesia Mesiánica Mundial",
+  "alias": [],
+  "resumen": "Religión de Mokichi Okada, conocida por la imposición de manos johrei."
+ },
+ "rissho": {
+  "nombre": "Risshō Kōsei Kai",
+  "alias": [],
+  "resumen": "Gran movimiento budista laico japonés, activo en el diálogo interreligioso."
+ },
+ "aiyy": {
+  "nombre": "Fe aiyy",
+  "alias": [],
+  "resumen": "Renacimiento de la religión tradicional de los yakutos."
+ },
+ "marapu": {
+  "nombre": "Marapu",
+  "alias": [],
+  "resumen": "Religión de la isla de Sumba, con tumbas megalíticas todavía en uso."
+ },
+ "aluk": {
+  "nombre": "Aluk To Dolo",
+  "alias": [],
+  "resumen": "«Camino de los antepasados» de los toraja, célebre por sus funerales."
+ },
+ "wiwitan": {
+  "nombre": "Sunda Wiwitan",
+  "alias": [],
+  "resumen": "Religión ancestral de los sundaneses de Java occidental."
+ },
+ "dhammayuttika": {
+  "nombre": "Dhammayuttika",
+  "alias": [],
+  "resumen": "Orden reformada fundada por el futuro rey Mongkut de Siam."
+ },
+ "buu-son": {
+  "nombre": "Bửu Sơn Kỳ Hương",
+  "alias": [],
+  "resumen": "Budismo milenarista del sur de Vietnam."
+ },
+ "vipassana": {
+  "nombre": "Movimiento vipassana",
+  "alias": [],
+  "resumen": "Renovación birmana que abrió la meditación de visión interior a los laicos."
+ },
+ "rizalistas": {
+  "nombre": "Rizalistas",
+  "alias": [],
+  "resumen": "Grupos filipinos que veneran al héroe José Rizal como figura divina."
+ },
+ "subud": {
+  "nombre": "Subud",
+  "alias": [],
+  "resumen": "Movimiento espiritual indonesio basado en el ejercicio latihan."
+ },
+ "dhammakaya": {
+  "nombre": "Dhammakaya",
+  "alias": [],
+  "resumen": "Movimiento budista tailandés de masas, con un templo gigantesco."
+ },
+ "tangata-manu": {
+  "nombre": "Culto del hombre-pájaro",
+  "alias": [],
+  "resumen": "Competición ritual de Rapa Nui por el primer huevo del charrán, en honor de Makemake."
+ },
+ "pai-marire": {
+  "nombre": "Pai Mārire",
+  "alias": [],
+  "resumen": "Movimiento profético maorí de resistencia, llamado también Hauhau."
+ },
+ "modekngei": {
+  "nombre": "Modekngei",
+  "alias": [],
+  "resumen": "Religión de Palaos que une creencias tradicionales y cristianismo."
+ },
+ "cherokee": {
+  "nombre": "Religión cherokee",
+  "alias": [],
+  "resumen": "Ceremonial del maíz verde y búsqueda del equilibrio entre mundos."
+ },
+ "tenskwatawa": {
+  "nombre": "Movimiento del Profeta shawnee",
+  "alias": [],
+  "resumen": "Renacimiento religioso panindio predicado por Tenskwatawa, hermano de Tecumseh."
+ },
+ "smohalla": {
+  "nombre": "Religión de los Soñadores",
+  "alias": [],
+  "resumen": "Movimiento profético de la Meseta que rechazaba el modo de vida de los colonos."
+ },
+ "shaker-india": {
+  "nombre": "Iglesia Shaker india",
+  "alias": [],
+  "resumen": "Iglesia nativa del noroeste fundada por John Slocum."
+ },
+ "mixteca": {
+  "nombre": "Religión mixteca",
+  "alias": [],
+  "resumen": "Religión de los señoríos mixtecos, narrada en sus códices pintados."
+ },
+ "totonaca": {
+  "nombre": "Religión totonaca",
+  "alias": [],
+  "resumen": "Tradición de El Tajín y del ritual de los voladores."
+ },
+ "garifuna": {
+  "nombre": "Dugu garífuna",
+  "alias": [],
+  "resumen": "Culto a los antepasados del pueblo garífuna, afroindígena del Caribe."
+ },
+ "abakua": {
+  "nombre": "Abakuá",
+  "alias": [],
+  "resumen": "Sociedad secreta masculina afrocubana, heredera de las del río Cross."
+ },
+ "paracas": {
+  "nombre": "Religión paracas",
+  "alias": [],
+  "resumen": "Cultura del desierto peruano, célebre por sus fardos funerarios y sus mantos."
+ },
+ "chimu": {
+  "nombre": "Religión chimú",
+  "alias": [],
+  "resumen": "Religión del reino de Chimor, devota de la Luna y del mar."
+ },
+ "taki-onqoy": {
+  "nombre": "Taki Unquy",
+  "alias": [],
+  "resumen": "Movimiento andino que anunciaba el regreso de las huacas contra los españoles."
+ },
+ "winti": {
+  "nombre": "Winti",
+  "alias": [],
+  "resumen": "Religión afrosurinamesa de espíritus y antepasados."
+ },
+ "jurema": {
+  "nombre": "Jurema sagrada",
+  "alias": [],
+  "resumen": "Tradición del nordeste de Brasil en torno a la bebida de la jurema."
+ },
+ "tambor-mina": {
+  "nombre": "Tambor de Mina",
+  "alias": [],
+  "resumen": "Religión afrobrasileña de Maranhão, de raíz fon."
+ },
+ "udv": {
+  "nombre": "União do Vegetal",
+  "alias": [],
+  "resumen": "Religión brasileña de la ayahuasca."
+ }
+}

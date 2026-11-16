@@ -1,0 +1,16 @@
+{
+  "id": "bohras",
+  "region": "asm",
+  "inicio": 1094,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "ismailismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

@@ -1,7 +1,5 @@
 {
   "id": "falun",
-  "nombre": "Falun Gong",
-  "alias": [],
   "region": "aso",
   "inicio": 1992,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "taoismo"
   ],
-  "resumen": "Práctica de qigong y cultivo moral fundada por Li Hongzhi.",
   "icono": null
 }

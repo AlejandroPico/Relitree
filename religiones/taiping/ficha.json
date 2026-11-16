@@ -1,7 +1,5 @@
 {
   "id": "taiping",
-  "nombre": "Reino Celestial Taiping",
-  "alias": [],
   "region": "aso",
   "inicio": 1851,
   "fin": 1864,
@@ -16,6 +14,5 @@
   "influencias": [
     "china-pop"
   ],
-  "resumen": "Movimiento de Hong Xiuquan, que se creía hermano menor de Jesús y desató una guerra civil.",
   "icono": null
 }

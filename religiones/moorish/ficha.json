@@ -1,0 +1,16 @@
+{
+  "id": "moorish",
+  "region": "nam",
+  "inicio": 1913,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "sunismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

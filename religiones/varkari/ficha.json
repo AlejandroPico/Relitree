@@ -1,0 +1,16 @@
+{
+  "id": "varkari",
+  "region": "asm",
+  "inicio": 1290,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "bhakti",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

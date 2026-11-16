@@ -1,7 +1,5 @@
 {
   "id": "chavin",
-  "nombre": "Culto de Chavín",
-  "alias": [],
   "region": "sam",
   "inicio": -900,
   "fin": -200,
@@ -16,6 +14,5 @@
   "influencias": [
     "amazonia"
   ],
-  "resumen": "Centro de peregrinación andino con deidades de rasgos de jaguar, águila y serpiente.",
   "icono": null
 }

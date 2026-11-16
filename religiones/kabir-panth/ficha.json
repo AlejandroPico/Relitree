@@ -1,0 +1,16 @@
+{
+  "id": "kabir-panth",
+  "region": "asm",
+  "inicio": 1500,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "sant-mat",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

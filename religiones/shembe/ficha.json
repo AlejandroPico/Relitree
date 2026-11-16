@@ -1,0 +1,18 @@
+{
+  "id": "shembe",
+  "region": "afr",
+  "inicio": 1910,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "bautistas",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "zulu"
+  ],
+  "icono": null
+}

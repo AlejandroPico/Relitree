@@ -1,0 +1,16 @@
+{
+  "id": "positivismo",
+  "region": "eur",
+  "inicio": 1849,
+  "fin": null,
+  "tipo": "fil",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "deismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

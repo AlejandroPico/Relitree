@@ -1,0 +1,16 @@
+{
+  "id": "wiwitan",
+  "region": "sea",
+  "inicio": -200,
+  "fin": null,
+  "tipo": "ani",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "austronesia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

@@ -1,7 +1,5 @@
 {
   "id": "anitismo",
-  "nombre": "Anitismo filipino",
-  "alias": [],
   "region": "sea",
   "inicio": -1000,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Religiones indígenas de Filipinas, con sus espíritus anito y chamanas babaylan.",
   "icono": null
 }

@@ -1,0 +1,16 @@
+{
+  "id": "hanafi",
+  "region": "opr",
+  "inicio": 767,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 3,
+  "padres": [
+    {
+      "id": "sunismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

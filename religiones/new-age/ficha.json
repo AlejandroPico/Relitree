@@ -1,7 +1,5 @@
 {
   "id": "new-age",
-  "nombre": "Nueva Era",
-  "alias": [],
   "region": "nam",
   "inicio": 1970,
   "fin": null,
@@ -17,6 +15,5 @@
     "nuevo-pensamiento",
     "advaita"
   ],
-  "resumen": "Red difusa de espiritualidades alternativas: holismo, energías, canalización y crecimiento personal.",
   "icono": null
 }

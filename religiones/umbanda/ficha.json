@@ -1,7 +1,5 @@
 {
   "id": "umbanda",
-  "nombre": "Umbanda",
-  "alias": [],
   "region": "sam",
   "inicio": 1908,
   "fin": null,
@@ -17,6 +15,5 @@
     "espiritismo",
     "catolica"
   ],
-  "resumen": "Religión brasileña que combina tradición africana, espiritismo y catolicismo.",
   "icono": null
 }

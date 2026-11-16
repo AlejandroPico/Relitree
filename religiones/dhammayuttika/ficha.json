@@ -1,0 +1,16 @@
+{
+  "id": "dhammayuttika",
+  "region": "sea",
+  "inicio": 1833,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "theravada-sea",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

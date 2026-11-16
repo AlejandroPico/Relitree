@@ -1,0 +1,18 @@
+{
+  "id": "lingbao",
+  "region": "aso",
+  "inicio": 400,
+  "fin": null,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "maestros-cel",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "budismo-chino"
+  ],
+  "icono": null
+}

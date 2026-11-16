@@ -1,0 +1,16 @@
+{
+  "id": "elcasaitas",
+  "region": "opr",
+  "inicio": 100,
+  "fin": 400,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "ebionitas",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

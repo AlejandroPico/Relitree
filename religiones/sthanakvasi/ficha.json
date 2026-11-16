@@ -1,0 +1,16 @@
+{
+  "id": "sthanakvasi",
+  "region": "asm",
+  "inicio": 1653,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "svetambara",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

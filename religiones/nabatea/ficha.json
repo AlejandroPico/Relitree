@@ -1,0 +1,16 @@
+{
+  "id": "nabatea",
+  "region": "opr",
+  "inicio": -300,
+  "fin": 400,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "arabia-pre",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

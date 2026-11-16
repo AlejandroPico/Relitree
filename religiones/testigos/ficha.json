@@ -1,7 +1,5 @@
 {
   "id": "testigos",
-  "nombre": "Testigos de Jehová",
-  "alias": [],
   "region": "nam",
   "inicio": 1879,
   "fin": null,
@@ -14,6 +12,7 @@
     }
   ],
   "influencias": [],
-  "resumen": "Movimiento no trinitario iniciado por Charles Taze Russell, conocido por su predicación puerta a puerta.",
-  "icono": null
+  "icono": null,
+  "fieles": 8800000,
+  "fieles_fuente": "Estimación aproximada"
 }

@@ -340,3 +340,201 @@ umbanda|Umbanda|sam|1908||sin|2|candomble|espiritismo,catolica|Religión brasile
 maria-lionza|Culto de María Lionza|sam|1900||sin|1|arawak|catolica,espiritismo|Devoción venezolana a una diosa indígena y sus cortes de espíritus.
 santo-daime|Santo Daime|sam|1930||sin|1|amazonia|catolica,espiritismo|Religión amazónica brasileña que emplea la ayahuasca como sacramento.
 iurd|Iglesia Universal del Reino de Dios|sam|1977||mon|1|pentecostalismo||Iglesia neopentecostal brasileña de alcance mundial.
+# ================= AMPLIACIÓN 2 =================
+# --- Cristianismo ---
+ebionitas|Ebionitas|opr|70|400|mon|1|cristianismo:cisma|judaismo|Judeocristianos que seguían guardando la Ley de Moisés y veían en Jesús a un profeta humano.
+elcasaitas|Elcasaítas|opr|100|400|mon|1|ebionitas||Secta bautista judeocristiana de Mesopotamia en la que se crio Mani, el fundador del maniqueísmo.
+valentinianismo|Valentinianismo|opr|140|400|dua|1|gnosticismo||La escuela gnóstica más influyente, con un elaborado mito de emanaciones divinas o eones.
+monacato|Monacato cristiano|afr|270||mon|2|cristianismo||Vida de retiro, oración y ascesis nacida en el desierto egipcio con Antonio y Pacomio.
+cristianos-santo-tomas|Cristianos de Santo Tomás|asm|345||mon|1|cristianismo|iglesia-oriente|Antigua cristiandad de Kerala, que remonta su origen a la predicación del apóstol Tomás.
+priscilianismo|Priscilianismo|eur|370|580|mon|1|cristianismo:cisma|gnosticismo|Movimiento ascético de Hispania; su fundador, Prisciliano, fue el primer hereje ejecutado por el poder civil.
+pelagianismo|Pelagianismo|eur|410|530|mon|1|cristianismo:cisma||Doctrina que negaba el pecado original y afirmaba que el ser humano puede obrar el bien sin la gracia.
+celta-crist|Cristianismo celta|eur|430|1100|mon|1|cristianismo||Cristianismo monástico de Irlanda y Britania, con usos propios y gran impulso misionero.
+benedictinos|Orden benedictina|eur|529||mon|2|monacato||Monjes que siguen la Regla de san Benito, «reza y trabaja», columna de la Europa medieval.
+nubia-cristiana|Cristianismo nubio|afr|543|1500|mon|1|copta||Reinos cristianos del Nilo medio —Nobatia, Makuria y Alodia— que resistieron un milenio.
+iconoclasia|Iconoclasia bizantina|eur|726|843|mon|1|cristianismo:reforma|islam|Movimiento imperial que prohibió y destruyó las imágenes sagradas durante más de un siglo.
+cistercienses|Orden cisterciense|eur|1098||mon|1|benedictinos:reforma||Reforma austera del monacato benedictino, impulsada por Bernardo de Claraval.
+templarios|Orden del Temple|eur|1119|1312|mon|1|catolica||Orden de monjes guerreros nacida en las cruzadas y disuelta tras un proceso por herejía.
+franciscanos|Orden franciscana|eur|1209||mon|2|catolica:reforma||Frailes mendicantes fundados por Francisco de Asís, entregados a la pobreza y la predicación.
+dominicos|Orden dominicana|eur|1216||mon|2|catolica||Orden de predicadores fundada por Domingo de Guzmán, clave en las universidades y en la Inquisición.
+ortodoxa-serbia|Iglesia ortodoxa serbia|eur|1219||mon|1|ortodoxa||Iglesia nacional serbia, autocéfala desde san Sava.
+hesicasmo|Hesicasmo|eur|1340||mon|1|ortodoxa||Tradición mística ortodoxa de la oración del corazón y la contemplación de la luz divina.
+lolardos|Lolardos|eur|1380|1530|mon|1|catolica:reforma||Seguidores de John Wyclif, que tradujeron la Biblia al inglés y criticaron la riqueza del clero.
+ortodoxa-rusa|Iglesia ortodoxa rusa|eur|1448||mon|3|ortodoxa||La mayor iglesia ortodoxa, independiente de Constantinopla desde 1448 y patriarcado desde 1589.
+moravos|Hermanos moravos|eur|1457||mon|1|husitas||Iglesia nacida del husitismo, pionera de las misiones protestantes.
+huteritas|Huteritas|eur|1528||mon|1|anabaptismo||Anabaptistas que viven en colonias con comunidad total de bienes.
+jesuitas|Compañía de Jesús|eur|1540||mon|2|catolica||Orden fundada por Ignacio de Loyola, punta de lanza de la Contrarreforma, la enseñanza y las misiones.
+puritanismo|Puritanismo|eur|1560|1700|mon|2|anglicanismo:reforma|reformada|Movimiento que quiso purificar la Iglesia de Inglaterra de todo resto católico.
+congregacionalismo|Congregacionalismo|eur|1582||mon|1|puritanismo||Iglesias en las que cada congregación local se gobierna a sí misma.
+uniatas|Iglesias católicas orientales|eur|1596||mon|2|ortodoxa:cisma|catolica|Iglesias de rito oriental que entraron en comunión con Roma conservando su liturgia.
+arminianismo|Arminianismo|eur|1610||mon|1|reformada:cisma||Corriente que, frente a la predestinación calvinista, defiende el libre albedrío.
+jansenismo|Jansenismo|eur|1640|1800|mon|1|catolica:reforma||Movimiento católico rigorista de inspiración agustiniana, condenado por Roma.
+pietismo|Pietismo|eur|1675||mon|1|luteranismo:reforma||Renovación luterana centrada en la devoción personal y la lectura de la Biblia.
+evangelicalismo|Evangelicalismo|eur|1738||mon|4|anglicanismo|pietismo,puritanismo|Gran corriente protestante que insiste en la conversión personal, la Biblia y la misión.
+shakers|Shakers|nam|1774||mon|1|cuaqueros||Comunidades célibes de vida sencilla, famosas por sus danzas rituales y su artesanía.
+restauracionismo|Movimiento de Restauración|nam|1809||mon|1|presbiterianismo:cisma||Movimiento de Stone y Campbell que quiso volver a la iglesia del Nuevo Testamento.
+hermanos-plymouth|Hermanos de Plymouth|eur|1827||mon|1|anglicanismo:cisma||Asambleas sin clero, cuna de la doctrina del arrebatamiento.
+santidad|Movimiento de santidad|nam|1840||mon|2|metodismo||Avivamiento wesleyano que busca una segunda experiencia de santificación total.
+fundamentalismo|Fundamentalismo cristiano|nam|1910||mon|2|evangelicalismo||Reacción contra la teología liberal que defiende la inerrancia literal de la Biblia.
+harrismo|Iglesia harrista|afr|1913||mon|1|metodismo|afr-oeste|Iglesia de Costa de Marfil nacida de la predicación del profeta William Wadé Harris.
+shembe|Iglesia Nazaret Bautista (Shembe)|afr|1910||sin|1|bautistas|zulu|Iglesia zulú fundada por Isaiah Shembe, que une cristianismo y tradición africana.
+kitawala|Kitawala|afr|1925||mon|1|testigos||Movimiento milenarista y anticolonial de África central derivado de la Watch Tower.
+legio-maria|Legio Maria|afr|1963||mon|1|catolica:cisma||La mayor iglesia africana escindida del catolicismo, nacida en Kenia.
+teologia-liberacion|Teología de la liberación|sam|1968||mon|1|catolica:reforma||Corriente latinoamericana que lee el Evangelio desde la opción por los pobres.
+israelitas|Israelitas del Nuevo Pacto Universal|sam|1968||sin|1|adventismo|inca|Movimiento peruano que une Antiguo Testamento, mesianismo andino y vida agraria.
+lefebvristas|Tradicionalismo católico|eur|1970||mon|1|catolica:cisma||Grupos que rechazan las reformas del Concilio Vaticano II y conservan la misa tridentina.
+palmariana|Iglesia palmariana|eur|1978||mon|1|catolica:cisma||Iglesia cismática de El Palmar de Troya, en Sevilla, con sus propios papas.
+# --- Judaísmo ---
+judaismo-helenistico|Judaísmo helenístico|afr|-300|100|mon|1|judaismo|platonismo|Judaísmo de lengua griega de Alejandría, autor de la Septuaginta y de la obra de Filón.
+fariseos|Fariseos|opr|-150|70|mon|2|judaismo||Corriente de maestros de la Ley oral, de la que nace el judaísmo rabínico.
+saduceos|Saduceos|opr|-150|70|mon|1|judaismo||Aristocracia sacerdotal del Templo, que solo aceptaba la Torá escrita.
+esenios|Esenios|opr|-150|68|mon|1|judaismo||Comunidades apartadas de vida ascética, vinculadas a los manuscritos del mar Muerto.
+beta-israel|Beta Israel|afr|350||mon|1|judaismo||Judíos de Etiopía, con tradiciones propias anteriores al Talmud.
+sabateismo|Sabateísmo|opr|1665|1800|mon|1|cabala:cisma||Movimiento mesiánico en torno a Sabbatai Zevi, que acabó convertido al islam.
+haskala|Haskalá|eur|1770|1880|fil|1|rabinico:reforma||Ilustración judía, que abrió las comunidades a la cultura y la ciencia europeas.
+jabad|Jabad-Lubavitch|eur|1775||mon|1|jasidismo||Dinastía jasídica de vocación intelectual y misionera, hoy presente en todo el mundo.
+judaismo-humanista|Judaísmo humanista|nam|1963||fil|1|judaismo-reformista:cisma||Corriente no teísta que celebra la cultura y la historia judías.
+# --- Islam ---
+hanif|Hanifismo|opr|500|630|mon|1|arabia-pre|rabinico,cristianismo|Monoteístas árabes anteriores al islam, ni judíos ni cristianos.
+mutazila|Mutazilismo|opr|750|1200|mon|1|sunismo||Escuela teológica racionalista que defendía el libre albedrío y el Corán creado.
+hanafi|Escuela hanafí|opr|767||mon|3|sunismo||La escuela jurídica suní más extendida, de Turquía a la India.
+maliki|Escuela malikí|opr|795||mon|3|sunismo||Escuela jurídica basada en la práctica de Medina, dominante en el Magreb y África occidental.
+shafii|Escuela shafií|opr|820||mon|3|sunismo||Escuela jurídica predominante en África oriental y el Sudeste Asiático.
+hanbali|Escuela hanbalí|opr|855||mon|2|sunismo||La escuela jurídica más literalista, hoy oficial en Arabia Saudí.
+qarmatas|Cármatas|opr|899|1077|mon|1|ismailismo:cisma||Movimiento ismailí revolucionario que saqueó La Meca y se llevó la Piedra Negra.
+ashari|Asharismo|opr|915||mon|2|sunismo|mutazila|Teología que se convirtió en la ortodoxia suní al conciliar razón y revelación.
+nizaries|Nizaríes|opr|1094||mon|1|ismailismo:cisma||Rama ismailí del Aga Kan; en la Edad Media fueron los temidos «asesinos» de Alamut.
+bohras|Bohras (mustalíes)|asm|1094||mon|1|ismailismo:cisma||Rama ismailí asentada en el Guyarat y el Yemen.
+qadiriyya|Qadiriyya|opr|1166||mon|2|sufismo||La cofradía sufí más antigua y difundida, nacida en Bagdad.
+chishti|Orden chishtí|asm|1193||mon|1|sufismo||Cofradía sufí de la India, célebre por su música devocional qawwali.
+shadhili|Shadhiliyya|afr|1250||mon|1|sufismo||Cofradía sufí nacida en el Magreb y Egipto.
+bektashi|Bektashismo|opr|1300||sin|1|sufismo|chiismo|Orden sufí de Anatolia y los Balcanes, ligada a los jenízaros.
+naqshbandi|Naqshbandiyya|asn|1380||mon|2|sufismo||Cofradía sufí de Asia central, de práctica sobria y recuerdo silencioso de Dios.
+din-i-ilahi|Din-i Ilahi|asm|1582|1605|sin|1|sunismo|hinduismo,zoroastrismo,jainismo|Religión sincrética creada por el emperador mogol Akbar, que no le sobrevivió.
+shaykhismo|Shaijismo|opr|1800||mon|1|duodecimano||Escuela chií mística que preparó el terreno al babismo.
+sanusiyya|Sanusiyya|afr|1837||mon|1|sufismo||Cofradía reformista del Sáhara que encabezó la resistencia libia.
+deobandi|Movimiento deobandí|asm|1866||mon|2|hanafi:reforma||Corriente rigorista nacida en un seminario del norte de la India.
+salafismo|Salafismo|afr|1880||mon|2|sunismo:reforma|wahabismo|Movimiento que propone volver al islam de las primeras generaciones.
+barelvi|Movimiento barelví|asm|1904||mon|2|hanafi|sufismo|Corriente mayoritaria del islam surasiático, defensora de la devoción a los santos.
+moorish|Templo de la Ciencia Morisca|nam|1913||sin|1|sunismo||Movimiento afroamericano de Noble Drew Ali, precursor de la Nación del Islam.
+# --- Próximo Oriente antiguo y Mediterráneo ---
+hurrita|Religión hurrita|opr|-2300|-1200|pol|1|sumeria||Panteón del reino de Mitanni, encabezado por Teshub, dios de la tormenta.
+cibeles|Culto de Cibeles|opr|-700|400|mis|1|hitita||Culto frigio de la Gran Madre y de Atis, llevado a Roma en el 204 a. C.
+armenia-pagana|Paganismo armenio|opr|-600|301|pol|1|irania||Religión de la Armenia antigua, con Aramazd, Anahit y Vahagn.
+sabeos-harran|Sabeos de Harrán|opr|-600|1100|pol|1|babilonica|neoplatonismo,hermetismo|Últimos adoradores de los astros de Mesopotamia, tolerados bajo el islam.
+nabatea|Religión nabatea|opr|-300|400|pol|1|arabia-pre||Cultos de Petra a Dushara y Al-Uzza.
+vasca|Mitología vasca|eur|-2000|1200|ani|1|eur-neo||Creencias precristianas del País Vasco, con Mari, Sugaar y los genios del bosque.
+tracia|Religión tracia|eur|-1000|400|pol|1|pie||Cultos de tracios y dacios, con el jinete tracio y el dios Zalmoxis.
+ibera|Religión íbera|eur|-600|-50|pol|1|eur-neo|fenicia,griega|Santuarios, exvotos y damas oferentes de los pueblos íberos del Levante y el sur peninsular.
+dionisismo|Misterios dionisíacos|eur|-600|400|mis|1|griega||Culto extático de Dioniso, con vino, música y promesa de vida tras la muerte.
+guanche|Religión guanche|afr|-500|1496|pol|1|bereber||Creencias de los antiguos canarios: Achamán, Magec y momificación de los muertos.
+culto-imperial|Culto imperial romano|eur|-27|392|pol|2|romana||Veneración del emperador y de Roma como vínculo político del Imperio.
+alquimia|Alquimia|afr|200|1700|eso|1|hermetismo||Arte de transmutar la materia y perfeccionar el alma, de Alejandría al Renacimiento.
+sol-invicto|Culto del Sol Invicto|eur|274|392|hen|1|romana|mitraismo|Culto solar oficial del Imperio tardío; su fiesta caía el 25 de diciembre.
+# --- Filosofías y corrientes modernas de Occidente ---
+deismo|Deísmo|eur|1650|1850|fil|2|anglicanismo||Religión racional de la Ilustración: un Dios creador que no interviene ni se revela.
+martinismo|Martinismo|eur|1770||eso|1|masoneria|cabala|Corriente esotérica cristiana de Martínez de Pasqually y Saint-Martin.
+ser-supremo|Culto del Ser Supremo|eur|1794|1794|fil|1|deismo||Religión cívica instaurada por Robespierre durante la Revolución francesa.
+positivismo|Religión de la Humanidad|eur|1849||fil|1|deismo||Religión laica ideada por Auguste Comte, con templos todavía abiertos en Brasil.
+yo-soy|Actividad «Yo Soy»|nam|1930||eso|1|teosofia||Movimiento de los maestros ascendidos, origen de muchas corrientes de la Nueva Era.
+humanismo|Humanismo secular|nam|1933||fil|2|unitarismo||Postura de vida no religiosa basada en la razón, la ciencia y la ética.
+diosa|Movimiento de la Diosa|nam|1975||neo|1|wicca||Espiritualidad feminista centrada en lo divino femenino.
+stregheria|Stregheria|nam|1975||neo|1|wicca||Brujería moderna de inspiración italiana.
+neochamanismo|Neochamanismo|nam|1980||neo|1|new-age|amazonia,siberia|Adaptación occidental de técnicas chamánicas de trance y sanación.
+celta-reconstr|Reconstruccionismo celta|nam|1985||neo|1|celta:renacimiento||Recuperación rigurosa del paganismo celta a partir de fuentes históricas.
+uatsdin|Uatsdin (fe oseta)|asn|1980||neo|1|escita:renacimiento||Renacimiento de la religión tradicional de los osetios, herederos de escitas y alanos.
+hetanismo|Hetanismo|opr|1991||neo|1|armenia-pagana:renacimiento||Neopaganismo armenio.
+suomenusko|Suomenusko|eur|1995||neo|1|finesa:renacimiento||Reconstrucción moderna del paganismo finés.
+nova-roma|Cultus deorum moderno|eur|1998||neo|1|romana:renacimiento||Reconstrucción contemporánea de la religión romana.
+# --- África ---
+cusita|Religiones cusitas|afr|-3000||mon|2|afr-msa||Creencias del Cuerno de África en torno a Waaq, dios del cielo.
+waaqeffanna|Waaqeffanna|afr|500||mon|1|cusita||Religión tradicional del pueblo oromo, hoy en renacimiento.
+bori|Bori|afr|1000||cha|1|afr-oeste|sunismo|Culto hausa de posesión por espíritus, vivo junto al islam.
+dinka|Religión dinka|afr|1000||mon|1|nilo||Religión del Nilo Blanco: la divinidad Nhialic y los clanes de maestros del arpón.
+shona|Religión shona|afr|1200||ant|1|bantu||Culto al dios Mwari y a los espíritus ancestrales, ligado al Gran Zimbabue.
+kongo|Religión kongo|afr|1300||ant|2|bantu||Cosmología del reino del Kongo: Nzambi, los antepasados y los objetos de poder nkisi.
+masai|Religión masái|afr|1500||mon|1|nilo||Culto al dios Enkai y autoridad ritual del laibon.
+zar|Culto zar|afr|1700||cha|1|cusita|sunismo|Culto de posesión y curación de Etiopía, Sudán y Egipto.
+malgache|Religión tradicional malgache|afr|500||ant|1|austronesia|bantu|Culto a los antepasados de Madagascar, con la ceremonia de dar la vuelta a los muertos.
+# --- Asia meridional ---
+samkhya|Samkhya|asm|-600||fil|1|brahmanismo||Filosofía dualista de espíritu y materia, base teórica del yoga.
+escuelas-tempranas|Escuelas budistas tempranas|asm|-350|700|nte|2|budismo||Las dieciocho escuelas surgidas tras los primeros concilios budistas.
+mimamsa|Mimamsa|asm|-300||fil|1|brahmanismo||Escuela de interpretación del ritual védico.
+sarvastivada|Sarvastivada|asm|-250|700|nte|1|escuelas-tempranas||Escuela budista del noroeste de la India, clave en la difusión hacia Asia central.
+yoga|Yoga clásico|asm|-200||fil|2|samkhya||Disciplina de ocho pasos sistematizada en los Yoga Sutras de Patanjali.
+pashupata|Pashupata|asm|100|1400|mon|1|shivaismo||La más antigua orden ascética shivaíta.
+madhyamaka|Madhyamaka|asm|150||fil|1|mahayana||Escuela de Nagarjuna: todo fenómeno está vacío de existencia propia.
+yogachara|Yogachara|asm|350||fil|1|mahayana||Escuela budista de «solo mente», de Asanga y Vasubandhu.
+shaiva-siddhanta|Shaiva siddhanta|asm|600||mon|1|shivaismo||Shivaísmo devocional y ritual del sur de la India.
+cachemir|Shivaísmo de Cachemira|asm|850||pan|1|shivaismo|tantra|Tradición no dualista de Abhinavagupta: todo es la conciencia de Shiva.
+nath|Tradición nath|asm|1000||mon|1|shivaismo|tantra|Yoguis seguidores de Gorakhnath, creadores del hatha yoga.
+sri-vaishnavismo|Sri vaishnavismo|asm|1100||mon|2|visnuismo||Tradición de Ramanuja, que une devoción y no dualismo cualificado.
+dvaita|Dvaita vedanta|asm|1250||mon|1|visnuismo||Escuela dualista de Madhva: Dios y las almas son eternamente distintos.
+varkari|Tradición varkari|asm|1290||mon|1|bhakti||Devoción marathi a Vithoba, con grandes peregrinaciones a pie.
+ramanandi|Tradición ramanandi|asm|1400||mon|1|visnuismo||La mayor orden ascética de la India, devota de Rama.
+pushtimarg|Pushtimarg|asm|1500||mon|1|visnuismo||«Camino de la gracia» de Vallabha, centrado en Krishna niño.
+kabir-panth|Kabir Panth|asm|1500||mon|1|sant-mat||Seguidores del poeta Kabir, críticos con castas y ritos.
+sthanakvasi|Sthanakvasi|asm|1653||nte|1|svetambara:reforma||Rama jainista que rechaza el culto a las imágenes.
+khalsa|Khalsa|asm|1699||mon|2|sijismo||Orden de sijs iniciados creada por Gurú Gobind Singh, con sus cinco símbolos.
+terapanth|Terapanth|asm|1760||nte|1|svetambara:reforma||Rama jainista reformada bajo la guía de un único maestro.
+namdhari|Namdhari|asm|1857||mon|1|sijismo:cisma||Rama sij que reconoce una línea de gurús vivos.
+ravidassia|Ravidassia|asm|2010||mon|1|sant-mat|sijismo|Religión de los seguidores del santo Ravidas, separada formalmente del sijismo en 2010.
+# --- Asia central y oriental ---
+gandhara|Budismo de Gandhara|asn|-180|500|nte|1|sarvastivada|griega|Budismo grecoindio que creó las primeras imágenes de Buda.
+xuanxue|Xuanxue|aso|220|420|fil|1|taoismo|confucianismo|«Estudio de lo misterioso»: metafísica taoísta de las Seis Dinastías.
+shangqing|Escuela Shangqing|aso|364||pol|1|maestros-cel||Taoísmo de la Suprema Claridad, basado en la meditación y la visualización.
+lingbao|Escuela Lingbao|aso|400||pol|1|maestros-cel|budismo-chino|Taoísmo del Tesoro Numinoso, creador de la gran liturgia taoísta.
+huayan|Huayan|aso|600||nte|1|budismo-chino||Escuela del Sutra de la Guirnalda: todo fenómeno contiene y refleja a los demás.
+zhenyan|Budismo esotérico chino|aso|716|900|nte|1|vajrayana||Tantrismo llevado a la China Tang, de donde pasó a Japón.
+kegon|Kegon|aso|740||nte|1|huayan||Versión japonesa del Huayan, con sede en el Tōdai-ji de Nara.
+mazu|Culto de Mazu|aso|980||pol|2|china-pop||Devoción a la diosa del mar, protectora de marineros en toda la costa china.
+nyingma|Escuela nyingma|aso|1000||nte|1|tibetano||La escuela «antigua» del budismo tibetano, heredera de Padmasambhava.
+kagyu|Escuela kagyu|aso|1050||nte|1|tibetano||Escuela de la transmisión oral, de Marpa y Milarepa.
+sakya|Escuela sakya|aso|1073||nte|1|tibetano||Escuela que gobernó el Tíbet con el apoyo mongol.
+soto|Sōtō|aso|1227||nte|2|zen||La mayor escuela zen de Japón, fundada por Dōgen: simplemente sentarse.
+zhengyi|Taoísmo Zhengyi|aso|1304||pol|2|maestros-cel||Rama de sacerdotes casados que ofician los rituales de la comunidad.
+luoismo|Luoísmo|aso|1509||sin|1|chan||Enseñanza de Luo Qing, matriz de muchas sectas populares chinas.
+sanyi|Enseñanza de las Tres en Una|aso|1560||sin|1|neoconfucianismo|taoismo,chan|Religión de Lin Zhao'en que funde confucianismo, taoísmo y budismo.
+budismo-mongol|Budismo mongol|asn|1578||nte|2|gelug||Budismo tibetano adoptado por los mongoles tras la conversión de Altan Kan.
+xiantiandao|Xiantiandao|aso|1650||sin|1|luoismo||«Vía del Cielo Anterior», tronco de las religiones salvacionistas chinas modernas.
+kurozumikyo|Kurozumikyō|aso|1814||mon|1|shinto||Primera de las nuevas religiones sintoístas, devota de la diosa solar.
+rime|Movimiento rimé|aso|1850||nte|1|nyingma|kagyu,sakya|Corriente no sectaria que preservó las enseñanzas de todas las escuelas tibetanas.
+konkokyo|Konkōkyō|aso|1859||mon|1|shinto||Nueva religión sintoísta de mediación entre el fiel y la divinidad.
+shinto-estatal|Sintoísmo estatal|aso|1868|1945|pol|2|shinto||Culto oficial al emperador impuesto en el Japón imperial.
+jeungsanismo|Jeungsanismo|aso|1901||sin|1|cheondo:cisma|muismo|Familia de religiones coreanas que veneran a Kang Jeungsan como Dios encarnado.
+daejongismo|Daejongismo|aso|1909||neo|1|muismo||Religión coreana que rinde culto a Dangun, el fundador mítico de Corea.
+nuevo-confucianismo|Nuevo confucianismo|aso|1921||fil|1|neoconfucianismo||Renovación del pensamiento confuciano en diálogo con la filosofía occidental.
+reiyukai|Reiyūkai|aso|1925||nte|1|nichiren||Movimiento laico que une el Sutra del Loto y el culto a los antepasados.
+seicho|Seichō-no-Ie|aso|1930||nmr|1|omoto|nuevo-pensamiento|Nueva religión japonesa de pensamiento positivo.
+sekai|Iglesia Mesiánica Mundial|aso|1935||nmr|1|omoto||Religión de Mokichi Okada, conocida por la imposición de manos johrei.
+rissho|Risshō Kōsei Kai|aso|1938||nte|1|reiyukai:cisma||Gran movimiento budista laico japonés, activo en el diálogo interreligioso.
+aiyy|Fe aiyy|asn|1990||neo|1|tengri||Renacimiento de la religión tradicional de los yakutos.
+# --- Sudeste Asiático y Oceanía ---
+marapu|Marapu|sea|-500||ant|1|austronesia||Religión de la isla de Sumba, con tumbas megalíticas todavía en uso.
+aluk|Aluk To Dolo|sea|-500||ant|1|austronesia||«Camino de los antepasados» de los toraja, célebre por sus funerales.
+wiwitan|Sunda Wiwitan|sea|-200||ani|1|austronesia||Religión ancestral de los sundaneses de Java occidental.
+dhammayuttika|Dhammayuttika|sea|1833||nte|1|theravada-sea:reforma||Orden reformada fundada por el futuro rey Mongkut de Siam.
+buu-son|Bửu Sơn Kỳ Hương|sea|1849||nte|1|thien||Budismo milenarista del sur de Vietnam.
+vipassana|Movimiento vipassana|sea|1890||nte|2|theravada-sea:reforma||Renovación birmana que abrió la meditación de visión interior a los laicos.
+rizalistas|Rizalistas|sea|1900||sin|1|anitismo|catolica|Grupos filipinos que veneran al héroe José Rizal como figura divina.
+subud|Subud|sea|1925||nmr|1|kejawen||Movimiento espiritual indonesio basado en el ejercicio latihan.
+dhammakaya|Dhammakaya|sea|1970||nte|1|theravada-sea||Movimiento budista tailandés de masas, con un templo gigantesco.
+tangata-manu|Culto del hombre-pájaro|oce|1600|1867|pol|1|rapanui||Competición ritual de Rapa Nui por el primer huevo del charrán, en honor de Makemake.
+pai-marire|Pai Mārire|oce|1862||sin|1|maori|anglicanismo|Movimiento profético maorí de resistencia, llamado también Hauhau.
+modekngei|Modekngei|oce|1915||sin|1|micronesia|catolica|Religión de Palaos que une creencias tradicionales y cristianismo.
+# --- América ---
+cherokee|Religión cherokee|nam|1000||ani|1|misisipi||Ceremonial del maíz verde y búsqueda del equilibrio entre mundos.
+tenskwatawa|Movimiento del Profeta shawnee|nam|1805|1813|sin|1|misisipi||Renacimiento religioso panindio predicado por Tenskwatawa, hermano de Tecumseh.
+smohalla|Religión de los Soñadores|nam|1850||sin|1|costa-nw||Movimiento profético de la Meseta que rechazaba el modo de vida de los colonos.
+shaker-india|Iglesia Shaker india|nam|1881||sin|1|costa-nw|catolica|Iglesia nativa del noroeste fundada por John Slocum.
+mixteca|Religión mixteca|mes|900|1521|pol|1|zapoteca||Religión de los señoríos mixtecos, narrada en sus códices pintados.
+totonaca|Religión totonaca|mes|300||pol|1|teotihuacan||Tradición de El Tajín y del ritual de los voladores.
+garifuna|Dugu garífuna|mes|1700||sin|1|arawak|afr-oeste|Culto a los antepasados del pueblo garífuna, afroindígena del Caribe.
+abakua|Abakuá|mes|1836||sin|1|afr-oeste||Sociedad secreta masculina afrocubana, heredera de las del río Cross.
+paracas|Religión paracas|sam|-800|-100|pol|1|chavin||Cultura del desierto peruano, célebre por sus fardos funerarios y sus mantos.
+chimu|Religión chimú|sam|900|1470|pol|1|moche||Religión del reino de Chimor, devota de la Luna y del mar.
+taki-onqoy|Taki Unquy|sam|1564|1572|pol|1|inca||Movimiento andino que anunciaba el regreso de las huacas contra los españoles.
+winti|Winti|sam|1700||sin|1|akan||Religión afrosurinamesa de espíritus y antepasados.
+jurema|Jurema sagrada|sam|1700||sin|1|tupi-guarani|catolica|Tradición del nordeste de Brasil en torno a la bebida de la jurema.
+tambor-mina|Tambor de Mina|sam|1840||sin|1|vodun||Religión afrobrasileña de Maranhão, de raíz fon.
+udv|União do Vegetal|sam|1961||sin|1|amazonia|espiritismo|Religión brasileña de la ayahuasca.

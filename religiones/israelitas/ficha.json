@@ -1,0 +1,18 @@
+{
+  "id": "israelitas",
+  "region": "sam",
+  "inicio": 1968,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "adventismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "inca"
+  ],
+  "icono": null
+}

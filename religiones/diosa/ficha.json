@@ -1,0 +1,21 @@
+{
+  "id": "diosa",
+  "region": "nam",
+  "inicio": 1975,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "wicca",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Triple_Goddess_Symbol.svg",
+    "licencia": "Public domain",
+    "autor": "AnonMoos"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "yoga",
+  "region": "asm",
+  "inicio": -200,
+  "fin": null,
+  "tipo": "fil",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "samkhya",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

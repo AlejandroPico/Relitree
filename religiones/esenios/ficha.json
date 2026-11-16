@@ -1,0 +1,16 @@
+{
+  "id": "esenios",
+  "region": "opr",
+  "inicio": -150,
+  "fin": 68,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "judaismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

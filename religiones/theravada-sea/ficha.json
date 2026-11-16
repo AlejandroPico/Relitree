@@ -1,7 +1,5 @@
 {
   "id": "theravada-sea",
-  "nombre": "Theravada del Sudeste Asiático",
-  "alias": [],
   "region": "sea",
   "inicio": 1050,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Budismo de Birmania, Tailandia, Laos y Camboya, adoptado por los reyes desde el siglo XI.",
   "icono": null
 }

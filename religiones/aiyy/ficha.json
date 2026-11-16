@@ -1,0 +1,16 @@
+{
+  "id": "aiyy",
+  "region": "asn",
+  "inicio": 1990,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "tengri",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

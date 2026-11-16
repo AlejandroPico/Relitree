@@ -1,0 +1,16 @@
+{
+  "id": "rissho",
+  "region": "aso",
+  "inicio": 1938,
+  "fin": null,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "reiyukai",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

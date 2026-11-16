@@ -1,0 +1,18 @@
+{
+  "id": "xuanxue",
+  "region": "aso",
+  "inicio": 220,
+  "fin": 420,
+  "tipo": "fil",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "taoismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "confucianismo"
+  ],
+  "icono": null
+}

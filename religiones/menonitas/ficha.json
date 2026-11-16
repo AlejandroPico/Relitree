@@ -1,7 +1,5 @@
 {
   "id": "menonitas",
-  "nombre": "Menonitas",
-  "alias": [],
   "region": "eur",
   "inicio": 1536,
   "fin": null,
@@ -14,6 +12,7 @@
     }
   ],
   "influencias": [],
-  "resumen": "Anabaptistas pacifistas seguidores de Menno Simons.",
-  "icono": null
+  "icono": null,
+  "fieles": 2100000,
+  "fieles_fuente": "Estimación aproximada"
 }

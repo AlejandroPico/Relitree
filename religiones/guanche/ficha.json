@@ -1,0 +1,16 @@
+{
+  "id": "guanche",
+  "region": "afr",
+  "inicio": -500,
+  "fin": 1496,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "bereber",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

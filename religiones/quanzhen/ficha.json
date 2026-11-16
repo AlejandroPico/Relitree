@@ -1,7 +1,5 @@
 {
   "id": "quanzhen",
-  "nombre": "Escuela Quanzhen",
-  "alias": [],
   "region": "aso",
   "inicio": 1167,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "chan"
   ],
-  "resumen": "Taoísmo monástico de la Perfección Completa, centrado en la alquimia interior.",
   "icono": null
 }

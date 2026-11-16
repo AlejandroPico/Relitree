@@ -1,7 +1,5 @@
 {
   "id": "pie",
-  "nombre": "Religión protoindoeuropea",
-  "alias": [],
   "region": "eur",
   "inicio": -4500,
   "fin": -2500,
@@ -16,6 +14,5 @@
   "influencias": [
     "eur-neo"
   ],
-  "resumen": "Religión reconstruida de los pastores de la estepa póntica: un padre cielo, gemelos divinos y el sacrificio del caballo.",
   "icono": null
 }

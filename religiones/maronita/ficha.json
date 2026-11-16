@@ -1,7 +1,5 @@
 {
   "id": "maronita",
-  "nombre": "Iglesia maronita",
-  "alias": [],
   "region": "opr",
   "inicio": 685,
   "fin": null,
@@ -16,11 +14,12 @@
   "influencias": [
     "catolica"
   ],
-  "resumen": "Iglesia oriental del Líbano, en comunión con Roma.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Maronite_cross_(bold).svg",
     "licencia": "CC BY-SA 4.0",
     "autor": "Kwamikagami"
-  }
+  },
+  "fieles": 3500000,
+  "fieles_fuente": "Estimación aproximada"
 }

@@ -1,0 +1,16 @@
+{
+  "id": "hurrita",
+  "region": "opr",
+  "inicio": -2300,
+  "fin": -1200,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "sumeria",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

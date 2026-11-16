@@ -1,0 +1,16 @@
+{
+  "id": "saduceos",
+  "region": "opr",
+  "inicio": -150,
+  "fin": 70,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "judaismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

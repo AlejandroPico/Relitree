@@ -1,7 +1,5 @@
 {
   "id": "mari",
-  "nombre": "Religión tradicional mari",
-  "alias": [],
   "region": "eur",
   "inicio": 500,
   "fin": null,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Fe del pueblo mari del Volga, que sigue celebrando sacrificios en bosques sagrados.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Mari_Native_Religion_Symbol.svg",

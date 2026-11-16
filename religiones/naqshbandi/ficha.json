@@ -1,0 +1,16 @@
+{
+  "id": "naqshbandi",
+  "region": "asn",
+  "inicio": 1380,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "sufismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

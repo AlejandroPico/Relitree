@@ -1,0 +1,16 @@
+{
+  "id": "konkokyo",
+  "region": "aso",
+  "inicio": 1859,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "shinto",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

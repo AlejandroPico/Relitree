@@ -1,0 +1,16 @@
+{
+  "id": "luoismo",
+  "region": "aso",
+  "inicio": 1509,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "chan",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

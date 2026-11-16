@@ -1,7 +1,5 @@
 {
   "id": "ayyavazhi",
-  "nombre": "Ayyavazhi",
-  "alias": [],
   "region": "asm",
   "inicio": 1840,
   "fin": null,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Tradición del sur de la India nacida de las enseñanzas de Ayya Vaikundar.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Ayyavazhi_lotus.svg",

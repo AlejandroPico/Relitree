@@ -1,7 +1,5 @@
 {
   "id": "radhasoami",
-  "nombre": "Radha Soami",
-  "alias": [],
   "region": "asm",
   "inicio": 1861,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Movimiento de meditación en el sonido interior bajo la guía de un maestro vivo.",
   "icono": null
 }

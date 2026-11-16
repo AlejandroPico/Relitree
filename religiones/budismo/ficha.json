@@ -1,7 +1,5 @@
 {
   "id": "budismo",
-  "nombre": "Budismo",
-  "alias": [],
   "region": "asm",
   "inicio": -450,
   "fin": null,
@@ -14,11 +12,12 @@
     }
   ],
   "influencias": [],
-  "resumen": "Camino enseñado por Siddhartha Gautama para extinguir el sufrimiento: cuatro nobles verdades y óctuple sendero.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Dharma_wheel.svg",
     "licencia": "Public domain",
     "autor": "Viniciuscb at English Wikipedia"
-  }
+  },
+  "fieles": 324000000,
+  "fieles_fuente": "Pew Research Center, 2020"
 }

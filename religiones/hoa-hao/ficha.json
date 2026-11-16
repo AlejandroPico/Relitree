@@ -1,7 +1,5 @@
 {
   "id": "hoa-hao",
-  "nombre": "Hòa Hảo",
-  "alias": [],
   "region": "sea",
   "inicio": 1939,
   "fin": null,
@@ -9,11 +7,12 @@
   "importancia": 1,
   "padres": [
     {
-      "id": "thien",
+      "id": "buu-son",
       "relacion": "reforma"
     }
   ],
   "influencias": [],
-  "resumen": "Budismo laico y campesino del delta del Mekong.",
-  "icono": null
+  "icono": null,
+  "fieles": 1500000,
+  "fieles_fuente": "Estimación aproximada"
 }

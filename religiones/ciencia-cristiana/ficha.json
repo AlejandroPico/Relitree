@@ -1,7 +1,5 @@
 {
   "id": "ciencia-cristiana",
-  "nombre": "Ciencia Cristiana",
-  "alias": [],
   "region": "nam",
   "inicio": 1879,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "nuevo-pensamiento"
   ],
-  "resumen": "Iglesia de Mary Baker Eddy, que entiende la curación como realidad espiritual.",
   "icono": null
 }

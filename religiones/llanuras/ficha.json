@@ -1,7 +1,5 @@
 {
   "id": "llanuras",
-  "nombre": "Religiones de las Grandes Llanuras",
-  "alias": [],
   "region": "nam",
   "inicio": 1700,
   "fin": null,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Danza del Sol, búsqueda de visión y pipa sagrada de lakotas, cheyenes y otros pueblos.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Medicine_Wheel.svg",

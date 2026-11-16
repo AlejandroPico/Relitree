@@ -1,0 +1,16 @@
+{
+  "id": "stregheria",
+  "region": "nam",
+  "inicio": 1975,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "wicca",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

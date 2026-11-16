@@ -1,7 +1,5 @@
 {
   "id": "pueblo-anc",
-  "nombre": "Pueblos ancestrales",
-  "alias": [],
   "region": "nam",
   "inicio": 500,
   "fin": 1300,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Culturas del Chaco y Mesa Verde, con cámaras ceremoniales o kivas.",
   "icono": null
 }

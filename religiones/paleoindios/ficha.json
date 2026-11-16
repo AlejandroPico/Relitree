@@ -1,7 +1,5 @@
 {
   "id": "paleoindios",
-  "nombre": "Tradiciones paleoindias",
-  "alias": [],
   "region": "nam",
   "inicio": -15000,
   "fin": -8000,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Creencias de los primeros pobladores de América, conocidas por sepulturas con ocre como la de Anzick.",
   "icono": null
 }

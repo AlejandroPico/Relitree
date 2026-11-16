@@ -1,7 +1,5 @@
 {
   "id": "samaritanismo",
-  "nombre": "Samaritanismo",
-  "alias": [],
   "region": "opr",
   "inicio": -400,
   "fin": null,
@@ -14,6 +12,7 @@
     }
   ],
   "influencias": [],
-  "resumen": "Comunidad que solo acepta el Pentateuco y venera el monte Garizim.",
-  "icono": null
+  "icono": null,
+  "fieles": 900,
+  "fieles_fuente": "Estimación aproximada"
 }

@@ -1,7 +1,5 @@
 {
   "id": "anglicanismo",
-  "nombre": "Anglicanismo",
-  "alias": [],
   "region": "eur",
   "inicio": 1534,
   "fin": null,
@@ -16,11 +14,12 @@
   "influencias": [
     "reformada"
   ],
-  "resumen": "Iglesia de Inglaterra y su comunión mundial, a medio camino entre catolicismo y Reforma.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Anglican_rose.svg",
     "licencia": "Public domain",
     "autor": "Anglican_rose.PNG: JaMikePA at en.wikipedia\nderivative work: Gregor Shapiro"
-  }
+  },
+  "fieles": 85000000,
+  "fieles_fuente": "Estimación aproximada"
 }

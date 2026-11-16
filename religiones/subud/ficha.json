@@ -1,0 +1,16 @@
+{
+  "id": "subud",
+  "region": "sea",
+  "inicio": 1925,
+  "fin": null,
+  "tipo": "nmr",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "kejawen",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

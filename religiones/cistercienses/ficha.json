@@ -1,0 +1,21 @@
+{
+  "id": "cistercienses",
+  "region": "eur",
+  "inicio": 1098,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "benedictinos",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Cistercian_Order.svg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Tardigradius"
+  }
+}

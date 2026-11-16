@@ -1,7 +1,5 @@
 {
   "id": "unificacion",
-  "nombre": "Iglesia de la Unificación",
-  "alias": [],
   "region": "aso",
   "inicio": 1954,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "muismo"
   ],
-  "resumen": "Movimiento del reverendo Moon, conocido por sus bodas multitudinarias.",
   "icono": null
 }

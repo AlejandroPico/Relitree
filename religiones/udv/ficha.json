@@ -1,0 +1,18 @@
+{
+  "id": "udv",
+  "region": "sam",
+  "inicio": 1961,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "amazonia",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "espiritismo"
+  ],
+  "icono": null
+}

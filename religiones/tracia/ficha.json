@@ -1,0 +1,16 @@
+{
+  "id": "tracia",
+  "region": "eur",
+  "inicio": -1000,
+  "fin": 400,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "pie",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

@@ -1,7 +1,5 @@
 {
   "id": "acadia",
-  "nombre": "Religión acadia",
-  "alias": [],
   "region": "opr",
   "inicio": -2334,
   "fin": -1900,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Fusión del panteón sumerio con los dioses semitas bajo el imperio de Sargón.",
   "icono": null
 }

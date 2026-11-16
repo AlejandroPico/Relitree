@@ -1,0 +1,16 @@
+{
+  "id": "samkhya",
+  "region": "asm",
+  "inicio": -600,
+  "fin": null,
+  "tipo": "fil",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "brahmanismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

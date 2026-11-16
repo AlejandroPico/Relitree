@@ -1,7 +1,5 @@
 {
   "id": "shinto",
-  "nombre": "Sintoísmo",
-  "alias": [],
   "region": "aso",
   "inicio": -300,
   "fin": null,
@@ -16,7 +14,6 @@
   "influencias": [
     "china-pop"
   ],
-  "resumen": "Vía de los kami, espíritus de la naturaleza y los linajes, venerados en santuarios.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Shinto_torii_icon_vermillion.svg",

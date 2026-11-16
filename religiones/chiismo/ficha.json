@@ -1,7 +1,5 @@
 {
   "id": "chiismo",
-  "nombre": "Islam chií",
-  "alias": [],
   "region": "opr",
   "inicio": 661,
   "fin": null,
@@ -14,6 +12,7 @@
     }
   ],
   "influencias": [],
-  "resumen": "Rama que reserva la guía de la comunidad a Alí y sus descendientes, los imanes.",
-  "icono": null
+  "icono": null,
+  "fieles": 200000000,
+  "fieles_fuente": "Estimación aproximada"
 }

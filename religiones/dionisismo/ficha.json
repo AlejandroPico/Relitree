@@ -1,0 +1,16 @@
+{
+  "id": "dionisismo",
+  "region": "eur",
+  "inicio": -600,
+  "fin": 400,
+  "tipo": "mis",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "griega",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

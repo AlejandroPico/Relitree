@@ -1,7 +1,5 @@
 {
   "id": "inc",
-  "nombre": "Iglesia ni Cristo",
-  "alias": [],
   "region": "sea",
   "inicio": 1914,
   "fin": null,
@@ -14,6 +12,7 @@
     }
   ],
   "influencias": [],
-  "resumen": "Iglesia filipina no trinitaria fundada por Felix Manalo.",
-  "icono": null
+  "icono": null,
+  "fieles": 2800000,
+  "fieles_fuente": "Estimación aproximada"
 }

@@ -1,7 +1,5 @@
 {
   "id": "sumeria",
-  "nombre": "Religión sumeria",
-  "alias": [],
   "region": "opr",
   "inicio": -3500,
   "fin": -2000,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Ciudades-templo consagradas a dioses como An, Enlil, Enki e Inanna; primera mitología escrita.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Cuneiform_sumer_dingir.svg",

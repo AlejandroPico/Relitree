@@ -1,7 +1,5 @@
 {
   "id": "finesa",
-  "nombre": "Paganismo finés",
-  "alias": [],
   "region": "eur",
   "inicio": -1000,
   "fin": 1300,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Religión del dios del cielo Ukko y de los cantos recogidos después en el Kalevala.",
   "icono": null
 }

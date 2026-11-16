@@ -1,0 +1,16 @@
+{
+  "id": "deobandi",
+  "region": "asm",
+  "inicio": 1866,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "hanafi",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

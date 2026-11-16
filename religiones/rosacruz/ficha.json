@@ -1,7 +1,5 @@
 {
   "id": "rosacruz",
-  "nombre": "Rosacrucismo",
-  "alias": [],
   "region": "eur",
   "inicio": 1614,
   "fin": null,
@@ -16,7 +14,6 @@
   "influencias": [
     "cabala"
   ],
-  "resumen": "Corriente esotérica nacida de unos manifiestos alemanes que anunciaban una fraternidad secreta de sabios.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Rose_Cross_Lamen.svg",

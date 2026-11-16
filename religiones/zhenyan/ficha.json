@@ -1,0 +1,16 @@
+{
+  "id": "zhenyan",
+  "region": "aso",
+  "inicio": 716,
+  "fin": 900,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "vajrayana",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

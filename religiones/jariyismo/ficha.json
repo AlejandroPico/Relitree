@@ -1,7 +1,5 @@
 {
   "id": "jariyismo",
-  "nombre": "Jariyismo",
-  "alias": [],
   "region": "opr",
   "inicio": 657,
   "fin": 900,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Primera escisión del islam: rigoristas que rechazaron el arbitraje entre Alí y Muawiya.",
   "icono": null
 }

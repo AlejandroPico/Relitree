@@ -1,7 +1,5 @@
 {
   "id": "malta-templos",
-  "nombre": "Templos megalíticos de Malta",
-  "alias": [],
   "region": "eur",
   "inicio": -3600,
   "fin": -2500,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Santuarios de piedra como Ġgantija y Ħaġar Qim, con estatuas corpulentas y un hipogeo excavado en la roca.",
   "icono": null
 }

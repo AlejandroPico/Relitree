@@ -1,7 +1,5 @@
 {
   "id": "aglipayana",
-  "nombre": "Iglesia Filipina Independiente",
-  "alias": [],
   "region": "sea",
   "inicio": 1902,
   "fin": null,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Iglesia nacional surgida de la revolución filipina.",
   "icono": null
 }

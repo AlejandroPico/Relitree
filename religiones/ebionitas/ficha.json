@@ -1,0 +1,18 @@
+{
+  "id": "ebionitas",
+  "region": "opr",
+  "inicio": 70,
+  "fin": 400,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "cristianismo",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [
+    "judaismo"
+  ],
+  "icono": null
+}

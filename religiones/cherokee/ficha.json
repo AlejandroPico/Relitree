@@ -1,0 +1,16 @@
+{
+  "id": "cherokee",
+  "region": "nam",
+  "inicio": 1000,
+  "fin": null,
+  "tipo": "ani",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "misisipi",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

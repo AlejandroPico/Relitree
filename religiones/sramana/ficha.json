@@ -1,7 +1,5 @@
 {
   "id": "sramana",
-  "nombre": "Movimientos shramánicos",
-  "alias": [],
   "region": "asm",
   "inicio": -700,
   "fin": -200,
@@ -16,6 +14,5 @@
   "influencias": [
     "brahmanismo"
   ],
-  "resumen": "Ascetas errantes del Ganges que rechazaban la autoridad védica y buscaban la liberación del ciclo de renacimientos.",
   "icono": null
 }

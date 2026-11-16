@@ -1,0 +1,16 @@
+{
+  "id": "sarvastivada",
+  "region": "asm",
+  "inicio": -250,
+  "fin": 700,
+  "tipo": "nte",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "escuelas-tempranas",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

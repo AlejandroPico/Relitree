@@ -1,0 +1,18 @@
+{
+  "id": "puritanismo",
+  "region": "eur",
+  "inicio": 1560,
+  "fin": 1700,
+  "tipo": "mon",
+  "importancia": 2,
+  "padres": [
+    {
+      "id": "anglicanismo",
+      "relacion": "reforma"
+    }
+  ],
+  "influencias": [
+    "reformada"
+  ],
+  "icono": null
+}

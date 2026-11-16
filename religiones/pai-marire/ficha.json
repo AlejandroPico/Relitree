@@ -1,0 +1,18 @@
+{
+  "id": "pai-marire",
+  "region": "oce",
+  "inicio": 1862,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "maori",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "anglicanismo"
+  ],
+  "icono": null
+}

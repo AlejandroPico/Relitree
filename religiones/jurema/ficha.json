@@ -1,0 +1,18 @@
+{
+  "id": "jurema",
+  "region": "sam",
+  "inicio": 1700,
+  "fin": null,
+  "tipo": "sin",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "tupi-guarani",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "catolica"
+  ],
+  "icono": null
+}

@@ -1,7 +1,5 @@
 {
   "id": "zoroastrismo",
-  "nombre": "Zoroastrismo",
-  "alias": [],
   "region": "opr",
   "inicio": -1000,
   "fin": null,
@@ -14,11 +12,12 @@
     }
   ],
   "influencias": [],
-  "resumen": "Religión de Zaratustra: Ahura Mazda, la elección entre verdad y mentira, y el juicio final.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Faravahar.svg",
     "licencia": "CC BY-SA 3.0",
     "autor": "The original uploader was Ploxhoi at English Wikipedia. / Kevin McCormick"
-  }
+  },
+  "fieles": 115000,
+  "fieles_fuente": "Estimación aproximada"
 }

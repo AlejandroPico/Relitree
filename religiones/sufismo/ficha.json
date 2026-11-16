@@ -1,7 +1,5 @@
 {
   "id": "sufismo",
-  "nombre": "Sufismo",
-  "alias": [],
   "region": "opr",
   "inicio": 800,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "neoplatonismo"
   ],
-  "resumen": "Dimensión mística del islam, organizada en cofradías que buscan la experiencia directa de Dios.",
   "icono": null
 }

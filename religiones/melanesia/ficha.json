@@ -1,7 +1,5 @@
 {
   "id": "melanesia",
-  "nombre": "Religiones melanesias",
-  "alias": [],
   "region": "oce",
   "inicio": -1500,
   "fin": null,
@@ -16,6 +14,5 @@
   "influencias": [
     "papua"
   ],
-  "resumen": "Tradiciones de espíritus ancestrales, sociedades secretas y poder espiritual o mana.",
   "icono": null
 }

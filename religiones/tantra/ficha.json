@@ -1,7 +1,5 @@
 {
   "id": "tantra",
-  "nombre": "Tantrismo",
-  "alias": [],
   "region": "asm",
   "inicio": 500,
   "fin": null,
@@ -16,7 +14,6 @@
   "influencias": [
     "shaktismo"
   ],
-  "resumen": "Corrientes rituales y esotéricas que emplean mantras, diagramas y el cuerpo como vía de liberación.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Star_polygon_6-2.svg",

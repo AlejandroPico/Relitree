@@ -1,7 +1,5 @@
 {
   "id": "rabinico",
-  "nombre": "Judaísmo rabínico",
-  "alias": [],
   "region": "opr",
   "inicio": 70,
   "fin": null,
@@ -9,16 +7,17 @@
   "importancia": 4,
   "padres": [
     {
-      "id": "judaismo",
+      "id": "fariseos",
       "relacion": "derivacion"
     }
   ],
   "influencias": [],
-  "resumen": "Judaísmo de la sinagoga, la Mishná y el Talmud, surgido tras la destrucción del Templo.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Star_of_David.svg",
     "licencia": "Public domain",
     "autor": "Zscout370"
-  }
+  },
+  "fieles": 15700000,
+  "fieles_fuente": "Estimación aproximada"
 }

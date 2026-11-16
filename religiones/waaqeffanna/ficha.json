@@ -1,0 +1,16 @@
+{
+  "id": "waaqeffanna",
+  "region": "afr",
+  "inicio": 500,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "cusita",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

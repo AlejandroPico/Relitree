@@ -1,7 +1,5 @@
 {
   "id": "eur-neo",
-  "nombre": "Megalitismo y Neolítico europeo",
-  "alias": [],
   "region": "eur",
   "inicio": -5500,
   "fin": -2000,
@@ -16,6 +14,5 @@
   "influencias": [
     "eur-paleo"
   ],
-  "resumen": "Agricultores llegados de Anatolia que levantaron dólmenes, alineamientos y recintos como Stonehenge, orientados al sol y dedicados a los antepasados.",
   "icono": null
 }

@@ -1,7 +1,5 @@
 {
   "id": "muismo",
-  "nombre": "Muismo coreano",
-  "alias": [],
   "region": "aso",
   "inicio": -1000,
   "fin": null,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Chamanismo de Corea, con sus rituales gut oficiados por mudang.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Taegeuk.svg",

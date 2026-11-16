@@ -1,0 +1,16 @@
+{
+  "id": "cibeles",
+  "region": "opr",
+  "inicio": -700,
+  "fin": 400,
+  "tipo": "mis",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "hitita",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

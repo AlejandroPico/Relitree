@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="600" height="660" viewBox="0 0 600 660" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<title>Dominican shield: sable, a pile inverted argent</title>
+<defs><path id="Shield" d="M300,656.849
+C300,656.849 3,545.094 3,261.076 V3.82385 H597 V261.076
+C597,545.094 300,656.849 300,656.849Z"/>
+<path id="PileInv" d="M0,660 L300,30 L600,660Z"/>
+<clipPath id="clip1"><use xlink:href="#Shield"/></clipPath></defs>
+<use xlink:href="#Shield"/>
+<g clip-path="url(#clip1)"><use xlink:href="#PileInv" style="fill:#ffffff"/></g>
+<use xlink:href="#Shield" style="fill:none;stroke:#000000;stroke-width:3"/>
+</svg>

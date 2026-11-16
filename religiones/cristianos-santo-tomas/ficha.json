@@ -1,0 +1,18 @@
+{
+  "id": "cristianos-santo-tomas",
+  "region": "asm",
+  "inicio": 345,
+  "fin": null,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "cristianismo",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [
+    "iglesia-oriente"
+  ],
+  "icono": null
+}

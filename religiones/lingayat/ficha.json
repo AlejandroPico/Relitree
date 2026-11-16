@@ -1,7 +1,5 @@
 {
   "id": "lingayat",
-  "nombre": "Lingayatismo",
-  "alias": [],
   "region": "asm",
   "inicio": 1150,
   "fin": null,
@@ -14,7 +12,6 @@
     }
   ],
   "influencias": [],
-  "resumen": "Movimiento de Basava, devoto de Shiva, que rechazó castas y rituales de templo.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Lingayat_flag.svg",

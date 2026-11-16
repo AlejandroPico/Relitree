@@ -1,7 +1,5 @@
 {
   "id": "presbiterianismo",
-  "nombre": "Presbiterianismo",
-  "alias": [],
   "region": "eur",
   "inicio": 1560,
   "fin": null,
@@ -14,6 +12,10 @@
     }
   ],
   "influencias": [],
-  "resumen": "Rama reformada escocesa gobernada por asambleas de ancianos.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Burning_bush_icon.svg",
+    "licencia": "Public domain",
+    "autor": "Original: Presbyterian Church in Ireland\nDerivative work: Hogweard"
+  }
 }

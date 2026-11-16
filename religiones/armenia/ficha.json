@@ -1,7 +1,5 @@
 {
   "id": "armenia",
-  "nombre": "Iglesia apostólica armenia",
-  "alias": [],
   "region": "opr",
   "inicio": 301,
   "fin": null,
@@ -16,6 +14,12 @@
   "influencias": [
     "miafisismo"
   ],
-  "resumen": "Iglesia nacional de Armenia, primer reino que adoptó oficialmente el cristianismo.",
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Right-Facing_and_Left_Facing_Armenian_Eternity_Sign.svg",
+    "licencia": "CC BY-SA 3.0",
+    "autor": "Vahram Mekhitarian"
+  },
+  "fieles": 9000000,
+  "fieles_fuente": "Estimación aproximada"
 }

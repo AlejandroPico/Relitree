@@ -1,7 +1,5 @@
 {
   "id": "shaktismo",
-  "nombre": "Shaktismo",
-  "alias": [],
   "region": "asm",
   "inicio": 500,
   "fin": null,
@@ -16,7 +14,6 @@
   "influencias": [
     "dravidica"
   ],
-  "resumen": "Culto a la Diosa como energía suprema, en formas como Durga y Kali.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:SriYantra_color.svg",

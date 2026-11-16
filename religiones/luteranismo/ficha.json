@@ -1,7 +1,5 @@
 {
   "id": "luteranismo",
-  "nombre": "Luteranismo",
-  "alias": [],
   "region": "eur",
   "inicio": 1517,
   "fin": null,
@@ -14,11 +12,12 @@
     }
   ],
   "influencias": [],
-  "resumen": "Primera gran iglesia de la Reforma: justificación por la fe y autoridad de la Escritura.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Lutherrose.svg",
     "licencia": "CC BY-SA 3.0",
     "autor": "Jed"
-  }
+  },
+  "fieles": 75000000,
+  "fieles_fuente": "Estimación aproximada"
 }

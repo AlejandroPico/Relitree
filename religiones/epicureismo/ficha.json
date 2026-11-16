@@ -1,7 +1,5 @@
 {
   "id": "epicureismo",
-  "nombre": "Epicureísmo",
-  "alias": [],
   "region": "eur",
   "inicio": -307,
   "fin": 300,
@@ -14,6 +12,5 @@
     }
   ],
   "influencias": [],
-  "resumen": "Filosofía atomista que busca la serenidad y sostiene que los dioses no intervienen en el mundo.",
   "icono": null
 }

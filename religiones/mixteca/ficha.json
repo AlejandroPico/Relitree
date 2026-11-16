@@ -1,0 +1,16 @@
+{
+  "id": "mixteca",
+  "region": "mes",
+  "inicio": 900,
+  "fin": 1521,
+  "tipo": "pol",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "zapoteca",
+      "relacion": "derivacion"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

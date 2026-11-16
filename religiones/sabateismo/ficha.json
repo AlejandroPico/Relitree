@@ -1,0 +1,16 @@
+{
+  "id": "sabateismo",
+  "region": "opr",
+  "inicio": 1665,
+  "fin": 1800,
+  "tipo": "mon",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "cabala",
+      "relacion": "cisma"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}

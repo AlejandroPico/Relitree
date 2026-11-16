@@ -1,7 +1,5 @@
 {
   "id": "vudu",
-  "nombre": "Vudú haitiano",
-  "alias": [],
   "region": "mes",
   "inicio": 1700,
   "fin": null,
@@ -17,7 +15,6 @@
     "catolica",
     "taino"
   ],
-  "resumen": "Religión nacida en Saint-Domingue de tradiciones fon, kongo y yoruba bajo formas católicas.",
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:VeveLegba.svg",

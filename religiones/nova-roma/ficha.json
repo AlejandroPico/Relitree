@@ -1,0 +1,16 @@
+{
+  "id": "nova-roma",
+  "region": "eur",
+  "inicio": 1998,
+  "fin": null,
+  "tipo": "neo",
+  "importancia": 1,
+  "padres": [
+    {
+      "id": "romana",
+      "relacion": "renacimiento"
+    }
+  ],
+  "influencias": [],
+  "icono": null
+}
