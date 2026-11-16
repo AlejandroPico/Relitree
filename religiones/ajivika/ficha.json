@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "ovillo del destino de los ajivikas",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

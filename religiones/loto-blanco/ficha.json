@@ -14,5 +14,11 @@
   "influencias": [
     "maniqueismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "flor de loto blanco",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

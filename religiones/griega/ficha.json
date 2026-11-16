@@ -14,5 +14,11 @@
   "influencias": [
     "fenicia"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "templo griego",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

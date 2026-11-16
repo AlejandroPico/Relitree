@@ -15,5 +15,11 @@
     "catolica",
     "mexica"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "cruz foliada, el árbol del mundo maya",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

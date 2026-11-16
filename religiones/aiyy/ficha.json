@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "serge, el poste ritual yakuto",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

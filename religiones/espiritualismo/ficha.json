@@ -14,5 +14,11 @@
   "influencias": [
     "swedenborg"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "girasol del espiritualismo",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

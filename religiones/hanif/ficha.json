@@ -15,5 +15,11 @@
     "rabinico",
     "cristianismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "cubo sagrado de piedra",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

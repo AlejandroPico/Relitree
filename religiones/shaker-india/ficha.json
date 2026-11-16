@@ -14,5 +14,11 @@
   "influencias": [
     "catolica"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "campanillas del culto Shaker indio",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

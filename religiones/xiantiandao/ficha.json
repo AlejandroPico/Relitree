@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "lámpara de la Madre Eterna",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

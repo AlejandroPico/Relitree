@@ -28,7 +28,7 @@ RELACIONES = {"derivacion", "cisma", "reforma", "sincretismo", "renacimiento"}
 # Troncos cuyo símbolo heredan las ramas que no tienen uno propio (como en cualquier atlas de religiones).
 FAMILIAS_ICONO = {"cristianismo", "islam", "budismo", "hinduismo", "jainismo", "judaismo", "rabinico",
                   "sijismo", "taoismo", "shinto", "zoroastrismo"}
-SIN_HERENCIA = {"sin", "neo", "nmr", "eso", "fil"}      # tipos que no heredan símbolo de su tronco
+SIN_HERENCIA = {"neo", "nmr", "eso", "fil"}      # tipos que no heredan símbolo de su tronco
 
 
 @dataclass
@@ -45,7 +45,8 @@ class Religion:
     influencias: list[str] = field(default_factory=list)
     alias: list[str] = field(default_factory=list)
     icono: dict | None = None                               # {archivo, fuente, licencia, autor}
-    fieles: int | None = None                               # estimación actual de fieles
+    fieles: int | None = None                               # estimación actual de fieles (mínimo del rango)
+    fieles_max: int | None = None                           # máximo, cuando las fuentes dan un rango
     fieles_fuente: str | None = None
 
     @property
@@ -76,7 +77,7 @@ def cargar(directorio: Path = DIR_RELIGIONES) -> dict[str, Religion]:
             importancia=ficha.get("importancia", 1), resumen=t.get("resumen", ""),
             padres=ficha.get("padres", []), influencias=ficha.get("influencias", []),
             alias=t.get("alias", []), icono=ficha.get("icono"),
-            fieles=ficha.get("fieles"), fieles_fuente=ficha.get("fieles_fuente"),
+            fieles=ficha.get("fieles"), fieles_max=ficha.get("fieles_max"), fieles_fuente=ficha.get("fieles_fuente"),
         )
     return religiones
 
@@ -92,6 +93,8 @@ def validar(religiones: dict[str, Religion]) -> list[str]:
         if r.fin is not None and r.fin < r.inicio: e.append(f"{r.id}: termina antes de empezar")
         if r.inicio > ANIO_ACTUAL: e.append(f"{r.id}: inicio en el futuro")
         if r.fieles is not None and r.fin is not None: e.append(f"{r.id}: tiene fieles pero figura como extinguida")
+        if r.fieles is not None and not r.fieles_fuente: e.append(f"{r.id}: cifra de fieles sin fuente")
+        if r.fieles_max is not None and (r.fieles is None or r.fieles_max < r.fieles): e.append(f"{r.id}: rango de fieles incoherente")
         for p in r.padres:
             if p["id"] not in religiones: e.append(f"{r.id}: padre inexistente {p['id']}"); continue
             if p.get("relacion", "derivacion") not in RELACIONES: e.append(f"{r.id}: relación desconocida")
@@ -110,6 +113,9 @@ def icono_de(r: Religion, religiones: dict[str, Religion]) -> tuple[str | None, 
     """Id de la religión cuyo icono.svg debe mostrarse y si es heredado de su tronco."""
     if (DIR_RELIGIONES / r.id / "icono.svg").exists():
         return r.id, False
+    # un renacimiento moderno adopta el símbolo de la religión que revive
+    if r.padres and r.padres[0].get("relacion") == "renacimiento" and (DIR_RELIGIONES / r.padre / "icono.svg").exists():
+        return r.padre, False
     if r.tipo in SIN_HERENCIA:
         return None, False
     actual = religiones.get(r.padre) if r.padre else None

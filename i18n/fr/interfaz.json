@@ -61,10 +61,11 @@
   "millones": "millions",
   "millon": "million",
   "fieles": "Fidèles aujourd'hui",
-  "simboloHeredado": "Symbole de sa tradition mère",
+  "simboloHeredado": "Sans emblème propre : le symbole de sa tradition mère est affiché, atténué",
   "ordenAZ": "Ordre alphabétique",
   "ordenTerritorio": "Par territoires",
   "religiones": "Religions et traditions",
   "desarrollo": "Articles de développement",
-  "parteDe": "Fait partie de"
+  "parteDe": "Fait partie de",
+  "simboloPropio": "dessin original inspiré du motif"
 }

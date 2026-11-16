@@ -14,5 +14,11 @@
   "influencias": [
     "papua"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "tambor de hendidura melanesio",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

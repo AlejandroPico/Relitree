@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "corona mural de la Gran Madre",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

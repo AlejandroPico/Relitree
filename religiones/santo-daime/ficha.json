@@ -15,5 +15,11 @@
     "catolica",
     "espiritismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "cruz de dos travesaños",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

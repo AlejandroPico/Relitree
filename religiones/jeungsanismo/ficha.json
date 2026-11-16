@@ -14,5 +14,11 @@
   "influencias": [
     "muismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "sol y luna de la estepa",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

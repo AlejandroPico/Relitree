@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Yoonir, la estrella serer",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

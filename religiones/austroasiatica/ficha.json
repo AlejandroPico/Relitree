@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "tambor de bronce de Dong Son",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

@@ -15,5 +15,11 @@
     "neoplatonismo",
     "hermetismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "creciente del dios lunar Sin sobre su estandarte",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

@@ -16,6 +16,7 @@
     "tengri"
   ],
   "icono": null,
-  "fieles": 15000000,
-  "fieles_fuente": "Estimación aproximada"
+  "fieles": 10000000,
+  "fieles_max": 20000000,
+  "fieles_fuente": "Wikipedia, Islam by country (0,5–1 % de los musulmanes)"
 }

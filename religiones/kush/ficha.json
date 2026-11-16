@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "pirámides de Meroe",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

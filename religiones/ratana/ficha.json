@@ -14,5 +14,11 @@
   "influencias": [
     "metodismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "estrella y luna creciente",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

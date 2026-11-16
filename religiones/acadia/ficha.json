@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "estrella de ocho puntas de Ishtar y Shamash",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

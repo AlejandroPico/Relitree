@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "collar de cuentas de concha perforada",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

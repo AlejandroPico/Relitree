@@ -22,6 +22,7 @@ backend/                ← Python: valida, calcula el trazado y genera SQLite
    relitree/trazado.py     trazado automático: carril (x) de cada religión y altura de su línea de vida
    relitree/construir.py   → public/datos/relitree.sqlite + public/datos/iconos/
    relitree/iconos.py      descarga símbolos libres de Wikimedia Commons
+   relitree/simbolos.py    biblioteca de símbolos propios (motivos vectoriales originales) y su asignación
    relitree/sembrar.py     alta de tradiciones nuevas desde backend/semilla/religiones.txt
    tests/                  pytest
 src/app/                ← Angular 22 (standalone, signals, sin zone.js). Sin textos en el código.
@@ -64,12 +65,17 @@ El idioma base es `es`. Para traducir: copiar `i18n/es/` a `i18n/<idioma>/` y `e
 | `importancia` | 1–5. Grosor de línea, tamaño del nodo y prioridad de su etiqueta. |
 | `padres` | `[{id, relacion}]`. El primero es el origen principal. `relacion`: derivacion, cisma, reforma, sincretismo, renacimiento. |
 | `influencias` | Ids de tradiciones que influyeron sin ser origen. |
-| `fieles`, `fieles_fuente` | Estimación actual de fieles y su fuente. Solo en tradiciones vivas. Hay que verificar cada cifra con fuente antes de darla por buena. |
+| `fieles`, `fieles_max`, `fieles_fuente` | Fieles actuales (mínimo y, si las fuentes dan un rango, máximo) y su fuente. Solo en tradiciones vivas. **Nunca una cifra sin fuente**: la validación lo rechaza. |
 | `icono` | `null` o `{archivo, fuente, licencia, autor}` (lo rellena `iconos.py`). |
 
 Nombre, alias y resumen NO van en la ficha: van en `i18n/es/religiones.json`.
 
-**Símbolos heredados:** una rama sin `icono.svg` muestra el símbolo de su tronco (`modelo.FAMILIAS_ICONO`: cristianismo, islam, budismo, hinduismo…), salvo sincretismos, neopaganismos, filosofías y nuevos movimientos. El resto usa el glifo de su tipo.
+**Símbolos**, por orden de preferencia:
+1. Emblema libre de Wikimedia Commons (`iconos.py`), con autor y licencia en la ficha.
+2. Dibujo propio (`simbolos.py`): motivo característico de la cultura (pilar en T de Göbekli Tepe, kanaga dogón, tambor de Dong Son…). `ficha.icono.fuente = "propio"` y `motivo` describe lo dibujado. Para añadir uno: definir el motivo con `@motivo`, asignarlo en `ASIGNACION` y ejecutar `python -m relitree.simbolos <id>` (`--forzar` para redibujar los propios).
+3. Renacimiento moderno: adopta el símbolo de la religión que revive.
+4. Rama sin emblema propio: muestra el símbolo de su tronco (`modelo.FAMILIAS_ICONO`) **atenuado y más pequeño**, para que se vea que no es la matriz. No heredan neopaganismos, filosofías, esoterismo ni nuevos movimientos.
+5. Si nada de lo anterior, el glifo de su tipo. Nunca se usan logotipos registrados de organizaciones (Cienciología, Falun Gong, Unificación…).
 
 **Alta de tradiciones:** añadir líneas a `backend/semilla/religiones.txt` y ejecutar `python -m relitree.sembrar` (solo crea las que no existen), o crear a mano la carpeta, la entrada de i18n y el artículo.
 

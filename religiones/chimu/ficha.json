@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "tumi, el cuchillo ceremonial",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

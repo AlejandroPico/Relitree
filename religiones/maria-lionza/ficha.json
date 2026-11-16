@@ -15,5 +15,11 @@
     "catolica",
     "espiritismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "danta, montura de la diosa María Lionza",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

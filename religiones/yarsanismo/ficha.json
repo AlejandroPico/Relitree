@@ -14,5 +14,11 @@
   "influencias": [
     "chiismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "laúd tambur del culto yarsán",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

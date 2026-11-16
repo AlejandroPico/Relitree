@@ -61,10 +61,11 @@
   "millones": "million",
   "millon": "million",
   "fieles": "Followers today",
-  "simboloHeredado": "Symbol of its parent tradition",
+  "simboloHeredado": "No emblem of its own: its parent tradition's symbol is shown, faded",
   "ordenAZ": "Alphabetical order",
   "ordenTerritorio": "By territory",
   "religiones": "Religions and traditions",
   "desarrollo": "In-depth articles",
-  "parteDe": "Part of"
+  "parteDe": "Part of",
+  "simboloPropio": "original drawing based on the motif"
 }

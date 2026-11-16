@@ -14,5 +14,11 @@
   "influencias": [
     "cabala"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "hexagrama y círculo de la tradición esotérica",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

@@ -23,7 +23,7 @@ CREATE TABLE tipos (id TEXT PRIMARY KEY, orden INTEGER);
 CREATE TABLE religiones (
   id TEXT PRIMARY KEY, region TEXT REFERENCES regiones(id), inicio INTEGER, fin INTEGER,
   tipo TEXT REFERENCES tipos(id), importancia INTEGER, x REAL, y REAL, y_fin REAL,
-  icono TEXT, icono_credito TEXT, icono_heredado INTEGER, fieles INTEGER, fieles_fuente TEXT);
+  icono TEXT, icono_credito TEXT, icono_heredado INTEGER, fieles INTEGER, fieles_max INTEGER, fieles_fuente TEXT);
 CREATE TABLE textos (idioma TEXT, id TEXT, nombre TEXT, busqueda TEXT, resumen TEXT, PRIMARY KEY (idioma, id));
 CREATE TABLE relaciones (origen TEXT, destino TEXT, clase TEXT, principal INTEGER);
 CREATE TABLE articulos (idioma TEXT, id TEXT, grupo TEXT, padre TEXT, titulo TEXT, busqueda TEXT, html TEXT, PRIMARY KEY (idioma, id));
@@ -87,9 +87,9 @@ def main() -> int:
             shutil.copyfile(modelo.DIR_RELIGIONES / origen / "icono.svg", iconos / f"{origen}.svg")
             icono = f"datos/iconos/{origen}.svg"
             credito = json.dumps(religiones[origen].icono, ensure_ascii=False) if religiones[origen].icono else None
-        bd.execute("INSERT INTO religiones VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+        bd.execute("INSERT INTO religiones VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
                    (r.id, r.region, r.inicio, r.fin, r.tipo, r.importancia, p["x"], p["y"], p["y_fin"],
-                    icono, credito, int(heredado), r.fieles, r.fieles_fuente))
+                    icono, credito, int(heredado), r.fieles, r.fieles_max, r.fieles_fuente))
         for n, padre in enumerate(r.padres):
             bd.execute("INSERT INTO relaciones VALUES (?,?,?,?)",
                        (padre["id"], r.id, padre.get("relacion", "derivacion"), 1 if n == 0 else 0))

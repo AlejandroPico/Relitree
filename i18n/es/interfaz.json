@@ -61,10 +61,11 @@
   "millones": "millones",
   "millon": "millón",
   "fieles": "Fieles hoy",
-  "simboloHeredado": "Símbolo de su tronco",
+  "simboloHeredado": "Sin emblema propio: se muestra, atenuado, el símbolo de su tronco",
   "ordenAZ": "Orden alfabético",
   "ordenTerritorio": "Por territorios",
   "religiones": "Religiones y tradiciones",
   "desarrollo": "Artículos de desarrollo",
-  "parteDe": "Forma parte de"
+  "parteDe": "Forma parte de",
+  "simboloPropio": "dibujo propio basado en el motivo"
 }

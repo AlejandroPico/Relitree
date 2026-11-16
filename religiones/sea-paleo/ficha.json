@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "mano en negativo del arte rupestre",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

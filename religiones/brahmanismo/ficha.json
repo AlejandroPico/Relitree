@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "kalasha, la vasija ritual",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

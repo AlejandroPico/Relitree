@@ -14,5 +14,11 @@
   "influencias": [
     "catolica"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "bai, la casa de reunión de Palaos",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

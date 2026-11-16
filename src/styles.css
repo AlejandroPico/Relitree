@@ -88,10 +88,13 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .cuerpo > :first-child { margin-top: 10px; }
 .fieles { margin-top: 12px; font-size: 13px; color: var(--tenue); display: flex; align-items: baseline; gap: 6px; }
 .fieles b { font: 600 19px var(--serif); color: var(--texto); }
+.fuente { font-size: 11px; color: var(--tenue); margin-top: 2px; }
 .nota { margin-top: 16px; font-size: 11.5px; color: var(--tenue); }
 .simbolo { width: 76px; height: 76px; display: block; margin-bottom: 14px; }
 .simbolo circle { fill: none; stroke: currentColor; stroke-width: 1.6; }
 .simbolo:has(image) circle { fill: #f6f3ea; }
+.simbolo.heredado circle { fill-opacity: .5; }
+.simbolo.heredado image { opacity: .5; }
 .simbolo path { fill: none; stroke: currentColor; stroke-width: 1.3; stroke-linecap: round; stroke-linejoin: round; }
 .detalle h2 { font: 600 22px/1.16 var(--serif); letter-spacing: -.01em; margin-bottom: 4px; }
 .datos { color: var(--tenue); font-size: 12.5px; font-variant-numeric: tabular-nums; }

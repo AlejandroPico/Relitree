@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "bulul, guardián del arroz",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

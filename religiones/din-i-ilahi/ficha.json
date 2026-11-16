@@ -16,5 +16,11 @@
     "zoroastrismo",
     "jainismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "disco solar de rayos triangulares",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

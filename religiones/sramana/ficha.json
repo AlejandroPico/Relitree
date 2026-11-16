@@ -14,5 +14,11 @@
   "influencias": [
     "brahmanismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "cuenco de limosna y bastón del asceta",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

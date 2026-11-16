@@ -14,5 +14,11 @@
   "influencias": [
     "taoismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "abanico de las ceremonias de médiums",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

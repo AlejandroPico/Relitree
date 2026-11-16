@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "ocre grabado con trama cruzada (Blombos)",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

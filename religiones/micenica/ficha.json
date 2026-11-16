@@ -14,5 +14,11 @@
   "influencias": [
     "minoica"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "puerta de los Leones de Micenas",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

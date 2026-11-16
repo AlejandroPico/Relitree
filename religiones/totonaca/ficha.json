@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "palo de los voladores",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

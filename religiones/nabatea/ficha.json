@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "betilo, piedra sagrada con ojos",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

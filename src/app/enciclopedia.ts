@@ -39,14 +39,14 @@ import { GLIFOS, UI } from './glifos';
           <div class="texto">
             @if (religion(); as r) {
               <div class="cabecera">
-                <svg class="simbolo" viewBox="-20 -20 40 40" [style.color]="color(r.region)">
+                <svg class="simbolo" viewBox="-20 -20 40 40" [style.color]="color(r.region)" [class.heredado]="r.heredado">
                   <circle r="18"/>
-                  @if (r.icono) { <image [attr.href]="r.icono" x="-11.5" y="-11.5" width="23" height="23"/> }
+                  @if (r.icono) { <image [attr.href]="r.icono" [attr.x]="r.heredado ? -8 : -11.5" [attr.y]="r.heredado ? -8 : -11.5" [attr.width]="r.heredado ? 16 : 23" [attr.height]="r.heredado ? 16 : 23"/> }
                   @else { <path [attr.d]="glifos[r.tipo].d" [class.relleno]="glifos[r.tipo].relleno"/> }
                 </svg>
                 <div>
                   <h1>{{ a.titulo }}</h1>
-                  <p class="datos">{{ datos.tipos.get(r.tipo) }} · {{ datos.region.get(r.region)!.nombre }} · {{ i18n.periodo(r.inicio, r.fin) }}</p>
+                  <p class="datos">{{ datos.tipos.get(r.tipo) }} · {{ datos.region.get(r.region)!.nombre }} · {{ i18n.periodo(r.inicio, r.fin) }}@if (r.fieles) { · {{ i18n.cantidad(r.fieles, r.fielesMax) }} {{ i18n.t('fieles').toLowerCase() }} }</p>
                 </div>
               </div>
             } @else { <h1>{{ a.titulo }}</h1> }
@@ -63,7 +63,11 @@ import { GLIFOS, UI } from './glifos';
                   @for (e of b.items; track e.id) { <a [attr.data-ir]="e.id">{{ e.nombre }}<small>{{ e.nota }}</small></a> }
                 </p>
               }
-              @if (r.credito; as c) { <p class="credito">{{ i18n.t('creditoIcono') }}: {{ c.autor }} · {{ c.licencia }} · <a [href]="c.fuente" target="_blank" rel="noopener">Wikimedia Commons</a></p> }
+              @if (r.credito; as c) {
+                @if (c.fuente === 'propio') { <p class="credito">{{ i18n.t('creditoIcono') }}: {{ i18n.t('simboloPropio') }} {{ c.motivo }}.</p> }
+                @else { <p class="credito">{{ i18n.t('creditoIcono') }}: {{ c.autor }} · {{ c.licencia }} · <a [href]="c.fuente" target="_blank" rel="noopener">Wikimedia Commons</a></p> }
+              }
+              @if (r.heredado) { <p class="credito">{{ i18n.t('simboloHeredado') }}.</p> }
             }
           </div>
         }

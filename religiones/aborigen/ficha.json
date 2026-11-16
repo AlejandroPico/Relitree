@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "círculos concéntricos y puntos de la pintura del Sueño",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

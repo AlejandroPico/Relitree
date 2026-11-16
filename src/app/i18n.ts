@@ -27,8 +27,13 @@ export class I18n {
     return `${this.anio(inicio)} – ${fin === null ? this.t('hoy') : this.anio(fin)}`;
   }
   /** «≈ 1.400 millones», «≈ 26 millones», «≈ 80.000». */
-  cantidad(n: number): string {
+  cantidad(n: number, max?: number | null): string {
     const f = (x: number) => x.toLocaleString(this.idioma, { maximumFractionDigits: x < 10 ? 1 : 0 });
+    if (max && max > n) {
+      if (n >= 1e6) return `${f(n / 1e6)}–${f(max / 1e6)} ${this.t('millones')}`;
+      if (max < 1e6) return `${f(n)}–${f(max)}`;
+      return `${f(n)} – ${f(max / 1e6)} ${this.t(max >= 2e6 ? 'millones' : 'millon')}`;
+    }
     return '≈ ' + (n >= 1e6 ? `${f(n / 1e6)} ${this.t(n >= 2e6 ? 'millones' : 'millon')}` : f(n));
   }
 }

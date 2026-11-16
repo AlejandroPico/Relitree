@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "terraplenes concéntricos de Poverty Point",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

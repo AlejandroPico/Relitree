@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "anteojeras y colmillos de Tláloc",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

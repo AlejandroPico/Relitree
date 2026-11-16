@@ -14,5 +14,11 @@
   "influencias": [
     "bantu"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "poste funerario aloalo malgache",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

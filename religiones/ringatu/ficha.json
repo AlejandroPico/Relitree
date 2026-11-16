@@ -14,5 +14,11 @@
   "influencias": [
     "anglicanismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "mano alzada (ringa tū)",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "tambor sami con el sol romboidal",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

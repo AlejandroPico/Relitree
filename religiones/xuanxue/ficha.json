@@ -14,5 +14,11 @@
   "influencias": [
     "confucianismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "hexagrama del Yijing",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

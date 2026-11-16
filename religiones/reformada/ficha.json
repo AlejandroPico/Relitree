@@ -18,6 +18,7 @@
     "licencia": "CC BY-SA 4.0",
     "autor": "Wikimedia Commons"
   },
-  "fieles": 75000000,
-  "fieles_fuente": "Estimación aproximada"
+  "fieles": 70000000,
+  "fieles_max": 80000000,
+  "fieles_fuente": "Wikipedia, List of Christian denominations by number of members"
 }

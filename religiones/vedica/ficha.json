@@ -14,5 +14,11 @@
   "influencias": [
     "indo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "fuego sagrado sobre el altar",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

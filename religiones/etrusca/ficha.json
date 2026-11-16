@@ -14,5 +14,11 @@
   "influencias": [
     "griega"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "lituus, el báculo augural",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

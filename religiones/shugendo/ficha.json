@@ -14,5 +14,11 @@
   "influencias": [
     "shingon"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "caracola horagai de los ascetas de montaña",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

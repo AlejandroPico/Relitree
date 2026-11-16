@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "bucráneo de los santuarios de Çatalhöyük",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

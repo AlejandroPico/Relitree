@@ -15,5 +15,11 @@
     "anat-neo",
     "sumeria"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "estandarte solar de Alaca Höyük",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

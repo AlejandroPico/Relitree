@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "figura dogū de ojos de anteojera",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

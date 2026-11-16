@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "los ocho niveles de conciencia",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

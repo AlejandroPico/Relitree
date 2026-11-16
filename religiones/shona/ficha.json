@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "ave de esteatita del Gran Zimbabue",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

@@ -15,5 +15,11 @@
     "amazonia",
     "siberia"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "tambor y pluma del chamanismo moderno",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

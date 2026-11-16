@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "tocado de plumas amazónico",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

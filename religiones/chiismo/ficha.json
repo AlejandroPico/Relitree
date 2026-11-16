@@ -14,5 +14,6 @@
   "influencias": [],
   "icono": null,
   "fieles": 200000000,
-  "fieles_fuente": "Estimación aproximada"
+  "fieles_max": 260000000,
+  "fieles_fuente": "Pew Research Center: 10–13 % de los musulmanes"
 }

@@ -96,9 +96,9 @@
   @if (sel(); as r) {
     <aside class="detalle">
       <header class="cabeza">
-        <svg class="simbolo" viewBox="-20 -20 40 40" [style.color]="color(r)">
+        <svg class="simbolo" viewBox="-20 -20 40 40" [style.color]="color(r)" [class.heredado]="r.heredado">
           <circle r="18"/>
-          @if (r.icono) { <image [attr.href]="r.icono" x="-11.5" y="-11.5" width="23" height="23"/> }
+          @if (r.icono) { <image [attr.href]="r.icono" [attr.x]="r.heredado ? -8 : -11.5" [attr.y]="r.heredado ? -8 : -11.5" [attr.width]="r.heredado ? 16 : 23" [attr.height]="r.heredado ? 16 : 23"/> }
           @else { <path [attr.d]="glifos[r.tipo].d" [class.relleno]="glifos[r.tipo].relleno"/> }
         </svg>
         <div>
@@ -109,7 +109,7 @@
       </header>
       <div class="cuerpo">
         <p class="datos"><span [style.color]="color(r)">{{ datos.region.get(r.region)!.nombre }}</span> · {{ datos.tipos.get(r.tipo) }}</p>
-        @if (r.fieles) { <p class="fieles"><b>{{ i18n.cantidad(r.fieles) }}</b> {{ i18n.t('fieles') }}<small>{{ r.fielesFuente }}</small></p> }
+        @if (r.fieles) { <p class="fieles"><b>{{ i18n.cantidad(r.fieles, r.fielesMax) }}</b> {{ i18n.t('fieles') }}</p><p class="fuente">{{ r.fielesFuente }}</p> }
         <p class="resumen">{{ r.resumen }}</p>
         @for (b of vinculos(); track b.titulo) {
           <h4>{{ b.titulo }}</h4>

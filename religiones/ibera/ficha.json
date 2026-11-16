@@ -15,5 +15,11 @@
     "fenicia",
     "griega"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "exvoto íbero de bronce",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

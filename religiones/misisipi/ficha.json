@@ -14,5 +14,11 @@
   "influencias": [
     "tolteca"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "mano con ojo del complejo misisipiano",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

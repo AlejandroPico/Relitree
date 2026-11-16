@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "enterramiento en posición fetal con ofrendas",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

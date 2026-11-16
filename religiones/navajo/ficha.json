@@ -14,5 +14,11 @@
   "influencias": [
     "pueblo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "círculo de las cuatro montañas sagradas",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

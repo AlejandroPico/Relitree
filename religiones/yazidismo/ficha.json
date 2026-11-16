@@ -14,7 +14,14 @@
   "influencias": [
     "sufismo"
   ],
-  "icono": null,
-  "fieles": 800000,
-  "fieles_fuente": "Estimación aproximada"
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Melek Taus, el Ángel Pavo Real",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  },
+  "fieles": 700000,
+  "fieles_max": 1500000,
+  "fieles_fuente": "Wikipedia, Yazidis"
 }

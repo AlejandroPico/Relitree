@@ -14,5 +14,11 @@
   "influencias": [
     "catolica"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "arpa ngombi del rito bwiti",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

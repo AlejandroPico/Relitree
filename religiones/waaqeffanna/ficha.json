@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "odaa, el sicómoro sagrado oromo",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

@@ -15,5 +15,13 @@
     "espiritismo",
     "catolica"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "collares de cuentas (elekes)",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  },
+  "fieles": 1850000,
+  "fieles_fuente": "IBGE, censo de Brasil 2022 (umbanda y candomblé juntos, solo Brasil)"
 }

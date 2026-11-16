@@ -14,5 +14,11 @@
   "influencias": [
     "mormonismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "ave y estrellas de las camisas de la Danza de los Espíritus",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

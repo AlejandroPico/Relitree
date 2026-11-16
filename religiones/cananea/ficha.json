@@ -14,5 +14,11 @@
   "influencias": [
     "sumeria"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "árbol sagrado de Asherá",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

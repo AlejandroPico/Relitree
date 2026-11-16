@@ -15,5 +15,11 @@
     "taoismo",
     "chan"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "tres enseñanzas en una",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "estrella de siete puntas de los siete clanes",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

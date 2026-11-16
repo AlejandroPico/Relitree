@@ -14,5 +14,11 @@
   "influencias": [
     "eur-neo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "rueda solar del cielo diurno",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

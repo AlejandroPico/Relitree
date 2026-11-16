@@ -7,8 +7,8 @@ export interface Region { id: string; orden: number; nombre: string; color: stri
 export interface Religion {
   id: string; nombre: string; region: string; inicio: number; fin: number | null; tipo: string;
   importancia: number; resumen: string; x: number; y: number; yFin: number;
-  icono: string | null; credito: { fuente?: string; licencia?: string; autor?: string } | null; heredado: boolean;
-  fieles: number | null; fielesFuente: string | null;
+  icono: string | null; credito: { fuente?: string; licencia?: string; autor?: string; motivo?: string } | null; heredado: boolean;
+  fieles: number | null; fielesMax: number | null; fielesFuente: string | null;
   lineas: string[]; r: number;
 }
 export interface Relacion { origen: string; destino: string; clase: string; principal: boolean; }
@@ -64,7 +64,7 @@ export class Datos {
         return {
           ...f, nombre: t.nombre, resumen: t.resumen, yFin: f.y_fin, heredado: !!f.icono_heredado,
           credito: f.icono_credito && !f.icono_heredado ? JSON.parse(f.icono_credito) : null,
-          fielesFuente: f.fieles_fuente, lineas: partir(t.nombre), r: 13 + f.importancia * 3.2,
+          fielesFuente: f.fieles_fuente, fielesMax: f.fieles_max, lineas: partir(t.nombre), r: 13 + f.importancia * 3.2,
         };
       });
       this.religiones.forEach((r) => this.porId.set(r.id, r));

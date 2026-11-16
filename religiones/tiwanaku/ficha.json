@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Puerta del Sol de Tiwanaku",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

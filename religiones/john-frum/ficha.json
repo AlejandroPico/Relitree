@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "cruz roja sobre poste (John Frum)",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

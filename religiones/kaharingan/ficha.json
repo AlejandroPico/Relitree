@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "cálao, el ave sagrada dayak",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

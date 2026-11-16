@@ -20,6 +20,7 @@
     "licencia": "CC BY-SA 3.0",
     "autor": "Dragovit"
   },
-  "fieles": 80000,
-  "fieles_fuente": "Estimación aproximada"
+  "fieles": 60000,
+  "fieles_max": 100000,
+  "fieles_fuente": "Universidad de Exeter, proyecto Mandaean Priests"
 }

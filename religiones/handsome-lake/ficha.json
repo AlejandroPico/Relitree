@@ -14,5 +14,11 @@
   "influencias": [
     "cuaqueros"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "casa comunal haudenosaunee",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

@@ -61,10 +61,11 @@
   "millones": "milions",
   "millon": "milió",
   "fieles": "Fidels avui",
-  "simboloHeredado": "Símbol del seu tronc",
+  "simboloHeredado": "Sense emblema propi: es mostra, atenuat, el símbol del seu tronc",
   "ordenAZ": "Ordre alfabètic",
   "ordenTerritorio": "Per territoris",
   "religiones": "Religions i tradicions",
   "desarrollo": "Articles de desenvolupament",
-  "parteDe": "Forma part de"
+  "parteDe": "Forma part de",
+  "simboloPropio": "dibuix propi basat en el motiu"
 }

@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "sello del valle del Indo con hoja de pipal",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

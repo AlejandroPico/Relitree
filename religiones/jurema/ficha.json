@@ -14,5 +14,11 @@
   "influencias": [
     "catolica"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "liana y hoja sagradas",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

@@ -15,5 +15,11 @@
     "hindu-sea",
     "austronesia"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "gunungan del teatro de sombras javanés",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

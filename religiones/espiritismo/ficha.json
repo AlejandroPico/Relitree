@@ -14,7 +14,13 @@
   "influencias": [
     "catolica"
   ],
-  "icono": null,
-  "fieles": 13000000,
-  "fieles_fuente": "Estimación aproximada"
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "cepa con racimo, emblema del espiritismo",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  },
+  "fieles": 15000000,
+  "fieles_fuente": "Wikipedia, List of religious populations"
 }

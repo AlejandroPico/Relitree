@@ -14,5 +14,11 @@
   "influencias": [
     "metodismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "avión del culto cargo",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

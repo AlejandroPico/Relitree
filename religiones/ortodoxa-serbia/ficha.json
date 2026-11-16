@@ -17,5 +17,8 @@
     "fuente": "https://commons.wikimedia.org/wiki/File:Ocilo.svg",
     "licencia": "CC BY-SA 4.0",
     "autor": "Kikifruit"
-  }
+  },
+  "fieles": 8000000,
+  "fieles_max": 12000000,
+  "fieles_fuente": "Wikipedia, List of Christian denominations by number of members"
 }

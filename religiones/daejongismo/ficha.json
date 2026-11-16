@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "círculo, cuadrado y triángulo: cielo, tierra y ser humano",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

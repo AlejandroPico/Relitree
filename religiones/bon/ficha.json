@@ -14,5 +14,11 @@
   "influencias": [
     "tibetano"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "yungdrung, la esvástica levógira del bon",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

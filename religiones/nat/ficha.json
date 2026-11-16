@@ -14,5 +14,11 @@
   "influencias": [
     "theravada-sea"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "coco de ofrenda a los espíritus",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

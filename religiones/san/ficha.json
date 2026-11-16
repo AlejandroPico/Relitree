@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "danzante en trance del arte rupestre san",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

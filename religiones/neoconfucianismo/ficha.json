@@ -15,5 +15,11 @@
     "chan",
     "taoismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "diagrama del Supremo Último de Zhou Dunyi",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

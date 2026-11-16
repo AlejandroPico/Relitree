@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "pilar en T de Göbekli Tepe",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

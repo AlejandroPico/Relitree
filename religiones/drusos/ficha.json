@@ -20,6 +20,7 @@
     "licencia": "Public domain",
     "autor": "Erin Silversmith"
   },
-  "fieles": 1000000,
-  "fieles_fuente": "Estimación aproximada"
+  "fieles": 800000,
+  "fieles_max": 1000000,
+  "fieles_fuente": "Wikipedia, Druze"
 }

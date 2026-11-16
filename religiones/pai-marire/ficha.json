@@ -14,5 +14,11 @@
   "influencias": [
     "anglicanismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "poste niu del culto Pai Mārire",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

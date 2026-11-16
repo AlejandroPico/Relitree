@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "vasija lapita de decoración dentada",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

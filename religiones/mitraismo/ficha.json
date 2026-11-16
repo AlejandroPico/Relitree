@@ -14,5 +14,11 @@
   "influencias": [
     "irania"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "gorro frigio y las siete estrellas de Mitra",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

@@ -14,5 +14,11 @@
   "influencias": [
     "eur-paleo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "trilito megalítico",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

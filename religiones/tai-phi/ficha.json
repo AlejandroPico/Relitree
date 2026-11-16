@@ -14,5 +14,11 @@
   "influencias": [
     "theravada-sea"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "casa de los espíritus sobre columna",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

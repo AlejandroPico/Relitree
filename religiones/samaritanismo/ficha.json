@@ -12,7 +12,13 @@
     }
   ],
   "influencias": [],
-  "icono": null,
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "monte sagrado con el altar en la cima",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  },
   "fieles": 900,
-  "fieles_fuente": "Estimación aproximada"
+  "fieles_fuente": "Wikipedia, Samaritans (2024)"
 }

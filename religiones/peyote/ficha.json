@@ -15,5 +15,11 @@
     "wixarika",
     "metodismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "ave acuática de la Iglesia Nativa Americana",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

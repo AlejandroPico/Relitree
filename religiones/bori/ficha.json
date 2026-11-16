@@ -14,5 +14,11 @@
   "influencias": [
     "sunismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "tambor ritual",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

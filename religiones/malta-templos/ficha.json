@@ -12,5 +12,11 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "espirales de los templos de Malta",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree"
+  }
 }

@@ -21,6 +21,8 @@ export const CSS_LIENZO = `
 .nodo circle.base{fill:var(--fondo);stroke-width:2.6}
 .nodo circle.claro{fill:#f6f3ea}
 .nodo circle.tinte{opacity:.2}
+.nodo.heredado circle.claro{fill-opacity:.5}
+.nodo.heredado image{opacity:.5}
 .nodo.extinta circle.base{stroke-dasharray:4 3.2}
 .nodo .glifo{fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
 .nodo .glifo.relleno{stroke:none}
@@ -140,14 +142,14 @@ interface Escena {
           </g>
         }
         @for (n of e.nodos; track n.r.id) {
-          <g class="nodo" [attr.data-imp]="n.r.importancia" [attr.transform]="'translate(' + n.x + ' ' + n.y + ')'" [class.extinta]="n.r.fin !== null"
+          <g class="nodo" [attr.data-imp]="n.r.importancia" [attr.transform]="'translate(' + n.x + ' ' + n.y + ')'" [class.extinta]="n.r.fin !== null" [class.heredado]="n.r.heredado"
              [class.sel]="estado.seleccion() === n.r.id" [class.tenue]="tenue(n.r.id)" [class.oculto]="oculto(n.r.id)" (click)="elegir($event, n.r)">
             <g class="esc">
               <circle class="halo" [attr.r]="n.r.r + 6"/>
               <circle class="base" [class.claro]="n.r.icono" [attr.r]="n.r.r" [attr.stroke]="color(n.r)"/>
               @if (!n.r.icono) { <circle class="tinte" [attr.r]="n.r.r - 1.3" [attr.fill]="color(n.r)"/> }
               @if (n.r.icono) {
-                <image [attr.href]="n.r.icono" [attr.x]="-n.r.r * .64" [attr.y]="-n.r.r * .64" [attr.width]="n.r.r * 1.28" [attr.height]="n.r.r * 1.28"/>
+                <image [attr.href]="n.r.icono" [attr.x]="-n.r.r * esc(n.r)" [attr.y]="-n.r.r * esc(n.r)" [attr.width]="n.r.r * esc(n.r) * 2" [attr.height]="n.r.r * esc(n.r) * 2"/>
               } @else {
                 <path class="glifo" [class.relleno]="glifo(n.r).relleno" [attr.d]="glifo(n.r).d" [attr.transform]="'scale(' + n.r.r / 15 + ')'"
                       [attr.stroke]="color(n.r)" [attr.fill]="glifo(n.r).relleno ? color(n.r) : 'none'"/>
@@ -258,6 +260,8 @@ export class Lienzo {
   }
 
   color(r: Religion) { return this.datos.region.get(r.region)!.color; }
+  /** Un símbolo heredado del tronco se dibuja más pequeño y atenuado: no es el emblema propio. */
+  esc(r: Religion) { return r.heredado ? 0.46 : 0.64; }
   ancho(w: number) { return `calc(${w}px * var(--escw, 1))`; }
   glifo(r: Religion) { return GLIFOS[r.tipo] ?? GLIFOS['mon']; }
   tenue(id: string) { const f = this.estado.foco(); return !!f && !f.has(id); }
