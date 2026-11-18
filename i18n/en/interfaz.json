@@ -67,5 +67,18 @@
   "religiones": "Religions and traditions",
   "desarrollo": "In-depth articles",
   "parteDe": "Part of",
-  "simboloPropio": "original drawing based on the motif"
+  "simboloPropio": "original drawing based on the motif",
+  "lectorAnterior": "Previous paragraph",
+  "lectorSiguiente": "Next paragraph",
+  "lectorDetener": "Stop reading",
+  "lectorAjustes": "Reading settings",
+  "lectorPausa": "Pause reading",
+  "lectorContinuar": "Resume reading",
+  "lectorVoz": "Voice",
+  "lectorAutomatica": "Automatic (Spanish)",
+  "lectorVelocidad": "Speed",
+  "lectorTono": "Pitch",
+  "lectorVolumen": "Volume",
+  "lectorNoDisponible": "Read aloud is unavailable in this browser.",
+  "lectorError": "Reading was interrupted."
 }

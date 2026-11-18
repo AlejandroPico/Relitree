@@ -67,5 +67,18 @@
   "religiones": "Religionen und Traditionen",
   "desarrollo": "Vertiefende Artikel",
   "parteDe": "Teil von",
-  "simboloPropio": "eigene Zeichnung nach dem Motiv"
+  "simboloPropio": "eigene Zeichnung nach dem Motiv",
+  "lectorAnterior": "Vorheriger Absatz",
+  "lectorSiguiente": "Nächster Absatz",
+  "lectorDetener": "Vorlesen beenden",
+  "lectorAjustes": "Vorleseeinstellungen",
+  "lectorPausa": "Vorlesen pausieren",
+  "lectorContinuar": "Vorlesen fortsetzen",
+  "lectorVoz": "Stimme",
+  "lectorAutomatica": "Automatisch (Spanisch)",
+  "lectorVelocidad": "Geschwindigkeit",
+  "lectorTono": "Tonhöhe",
+  "lectorVolumen": "Lautstärke",
+  "lectorNoDisponible": "Vorlesen ist in diesem Browser nicht verfügbar.",
+  "lectorError": "Das Vorlesen wurde unterbrochen."
 }

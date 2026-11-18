@@ -12,7 +12,8 @@ Cada fase se trabaja en una sesión. Al terminarla se marcan sus artículos como
 - Imágenes de Wikimedia Commons descargadas al repositorio con autor y licencia; vídeo solo de instituciones oficiales
 - Cabecera YAML en cada artículo: estado (borrador/completo), palabras, fuentes
 - Contador de palabras y validación: un artículo «completo» con menos de 5.000 palabras hace fallar las pruebas
-- Búsqueda dentro del texto de toda la enciclopedia; lectura en voz alta desde el punto donde se hace clic
+- Búsqueda dentro del texto de toda la enciclopedia.
+- Reproductor de lectura en voz alta implementado. Incluye avance y retroceso por párrafos, lectura desde el párrafo seleccionado y ajustes de voz, velocidad, tono y volumen.
 
 ## Fase E01 · Temas generales
 
@@ -47,6 +48,8 @@ Avance editorial: «Cristianismo» y «La vida de Jesús de Nazaret» se han des
 - Pablo de Tarso
 
 ## Fase E03 · Cristianismo · Apóstoles y primeros siglos
+
+Las doce entradas iniciales están escritas, enlazadas y publicadas con fuentes. Conservan el estado de borrador hasta su ampliación y revisión.
 
 - Los apóstoles (I): Andrés, Santiago el Mayor, Juan
 - Los apóstoles (II): Felipe, Bartolomé, Tomás

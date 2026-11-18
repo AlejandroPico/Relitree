@@ -1,12 +1,20 @@
 # Tareas pendientes
 
-Solo figura lo que falta; lo terminado se elimina de la lista.
+El registro de entregas recoge el trabajo incorporado. Las fases pendientes detallan lo que falta para cerrarlas.
+
+## Registro de entregas
+
+- [x] E00 · Reproductor de la enciclopedia con navegación por párrafos y ajustes de lectura.
+- [x] E01 · «Cómo leer el árbol» y «Tipos de religión».
+- [x] E02 · «Cristianismo» y «La vida de Jesús de Nazaret».
+- [x] E03 · Doce entradas iniciales con fuentes y enlaces.
 
 ## Fase A · Enciclopedia (78 fases, 859 artículos; detalle en `enciclopedia/PLAN.md`)
 - E00 · Infraestructura (pestañas, fichas, galerías, búsqueda de texto y validación de 5.000 palabras)
 - E01 · Temas generales. Textos ampliados: «Cómo leer el árbol» y «Tipos de religión». Quedan por desarrollar y revisar los otros ocho temas, con sus fuentes y recursos visuales.
 - E02 · Cristianismo: fundamentos. Artículo general y vida de Jesús desarrollados. Quedan por ampliar y revisar los otros diez artículos.
-- E03–E22 · Cristianismo (apóstoles, 21 concilios, cismas e Inquisición, cruzadas, Reforma, expansión, época contemporánea, papas, santos y 105 tradiciones)
+- E03 · Apóstoles y primeros siglos. Quedan por ampliar y revisar los doce borradores.
+- E04–E22 · Cristianismo (21 concilios, cismas e Inquisición, cruzadas, Reforma, expansión, época contemporánea, papas, santos y 105 tradiciones)
 - E23–E26 · Judaísmo
 - E27–E33 · Islam
 - E34–E41 · Hinduismo (más de 100 deidades) y sijismo

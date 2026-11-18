@@ -124,7 +124,33 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .enciclopedia .indice a:hover { color: var(--texto); }
 .enciclopedia .indice a.activo { color: var(--texto); background: color-mix(in srgb, var(--texto) 8%, transparent); }
 .enciclopedia article { overflow: auto; position: relative; }
-.enciclopedia header { position: sticky; top: 0; display: flex; justify-content: flex-end; gap: 2px; padding: 8px 12px; background: linear-gradient(var(--fondo) 60%, transparent); z-index: 1; }
+.enciclopedia header { position: sticky; top: 0; display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); align-items: center; gap: 4px; padding: 8px 12px; background: linear-gradient(var(--fondo) 70%, transparent); z-index: 1; }
+.enc-cabecera-indice { grid-column: 1; justify-self: start; }
+.enc-cabecera-acciones { grid-column: 3; justify-self: end; display: flex; gap: 2px; }
+.enciclopedia app-lector-enciclopedia { grid-column: 2; grid-row: 1; justify-self: center; }
+.lector { position: relative; display: flex; align-items: center; gap: 3px; padding: 4px 7px; border: 1px solid color-mix(in srgb, var(--texto) 13%, transparent); border-radius: 999px; background: var(--barra); }
+.lector button { display: grid; place-items: center; padding: 0; width: 30px; height: 32px; border: 0; border-radius: 50%; background: none; color: var(--texto); cursor: pointer; }
+.lector button:hover:not(:disabled), .lector button[aria-expanded="true"] { background: color-mix(in srgb, var(--texto) 10%, transparent); }
+.lector button:disabled { opacity: .35; cursor: default; }
+.lector svg { width: 16px; height: 16px; fill: currentColor; stroke: currentColor; stroke-width: 1.5; stroke-linecap: round; }
+.lector .lector-play { width: 40px; height: 40px; background: var(--acento); color: var(--fondo); }
+.lector .lector-play:hover:not(:disabled) { background: color-mix(in srgb, var(--acento) 85%, var(--texto)); }
+.lector[data-estado="pausa"] .lector-play { background: transparent; color: var(--acento); box-shadow: inset 0 0 0 2px var(--acento); }
+.lector .lector-icono-ajustes { fill: none; }
+.lector-progreso { position: absolute; left: 0; bottom: -2px; height: 2px; background: var(--acento); border-radius: 2px; pointer-events: none; }
+.lector-ajustes, .lector-aviso:not(:empty) { position: absolute; top: calc(100% + 8px); left: 50%; transform: translateX(-50%); width: min(260px, 85vw); padding: 12px; background: var(--barra); box-shadow: var(--sombra); border: 1px solid color-mix(in srgb, var(--texto) 14%, transparent); color: var(--texto); }
+.lector-ajustes { z-index: 1; display: grid; gap: 10px; }
+.lector-ajustes[hidden], .lector-aviso:empty { display: none; }
+.lector-ajustes label { display: grid; gap: 3px; }
+.lector-ajustes label span { display: flex; justify-content: space-between; gap: 8px; }
+.lector-ajustes select, .lector-ajustes input { width: 100%; min-width: 0; accent-color: var(--acento); color: var(--texto); background: var(--fondo); }
+.prosa .lector-parrafo { background: color-mix(in srgb, var(--acento) 14%, transparent); outline: 2px solid color-mix(in srgb, var(--acento) 38%, transparent); outline-offset: 2px; }
+@media (max-width: 540px) {
+  .enciclopedia header { grid-template-columns: 1fr auto; row-gap: 3px; }
+  .enc-cabecera-acciones { grid-column: 2; }
+  .enciclopedia app-lector-enciclopedia { grid-column: 1 / -1; grid-row: 2; }
+}
+
 .enciclopedia .texto { padding: 0 6vw 90px 3vw; max-width: 1500px; }
 .enciclopedia .cabecera { display: flex; gap: 22px; align-items: center; margin-bottom: 26px; }
 .enciclopedia .cabecera .simbolo { margin: 0; width: 92px; height: 92px; flex: none; }

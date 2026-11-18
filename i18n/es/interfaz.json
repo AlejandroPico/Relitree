@@ -70,5 +70,18 @@
   "religiones": "Religiones y tradiciones",
   "desarrollo": "Artículos de desarrollo",
   "parteDe": "Forma parte de",
-  "simboloPropio": "dibujo propio basado en el motivo"
+  "simboloPropio": "dibujo propio basado en el motivo",
+  "lectorAnterior": "Párrafo anterior",
+  "lectorSiguiente": "Párrafo siguiente",
+  "lectorDetener": "Detener lectura",
+  "lectorAjustes": "Ajustes de lectura",
+  "lectorPausa": "Pausar lectura",
+  "lectorContinuar": "Continuar lectura",
+  "lectorVoz": "Voz",
+  "lectorAutomatica": "Automática (español)",
+  "lectorVelocidad": "Velocidad",
+  "lectorTono": "Tono",
+  "lectorVolumen": "Volumen",
+  "lectorNoDisponible": "La lectura en voz alta no está disponible en este navegador.",
+  "lectorError": "La lectura se ha interrumpido."
 }

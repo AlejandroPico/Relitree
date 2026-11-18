@@ -1,8 +1,9 @@
-import { ChangeDetectionStrategy, Component, ElementRef, OnDestroy, computed, inject, signal, viewChild } from '@angular/core';
+import { ChangeDetectionStrategy, Component, ElementRef, computed, inject, signal, viewChild } from '@angular/core';
 import { DomSanitizer } from '@angular/platform-browser';
 import { NgTemplateOutlet } from '@angular/common';
 import { Articulo, Datos, normalizar } from './datos';
 import { Estado } from './estado';
+import { LectorEnciclopedia } from './lector-enciclopedia';
 import { I18n } from './i18n';
 import { GLIFOS, UI } from './glifos';
 
@@ -16,7 +17,7 @@ interface EntradaIndice {
 
 @Component({
   selector: 'app-enciclopedia',
-  imports: [NgTemplateOutlet],
+  imports: [NgTemplateOutlet, LectorEnciclopedia],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     <section class="enciclopedia">
@@ -57,15 +58,21 @@ interface EntradaIndice {
       </ng-template>
       <article #cuerpo (click)="clic($event)">
         <header>
+          <div class="enc-cabecera-indice">
           <button type="button" class="indice-movil" aria-controls="indice-enciclopedia"
                   [attr.aria-expanded]="indiceAbierto()" (click)="indiceAbierto.set(!indiceAbierto())">
             {{ i18n.t('indiceEnciclopedia') }}
           </button>
-          <button class="ico" [title]="i18n.t('leer')" [disabled]="!articulo()" (click)="leer()"><svg viewBox="0 0 24 24"><path [attr.d]="hablando() ? ui['parar'] : ui['altavoz']"/></svg></button>
+          </div>
+          @if (articulo(); as a) {
+            <app-lector-enciclopedia [articulo]="a.id" [prosa]="prosa()?.nativeElement"/>
+          }
+          <div class="enc-cabecera-acciones">
           @if (religion(); as r) {
             <button class="ico" [title]="i18n.t('verArbol')" (click)="verEnArbol(r.id)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['diana']"/></svg></button>
           }
           <button class="ico" [title]="i18n.t('cerrar')" (click)="cerrar()"><svg viewBox="0 0 24 24"><path [attr.d]="ui['cerrar']"/></svg></button>
+          </div>
         </header>
         @if (articulo(); as a) {
           <div class="texto">
@@ -83,7 +90,7 @@ interface EntradaIndice {
               </div>
             } @else { <h1>{{ a.titulo }}</h1> }
             @if (padre(); as p) { <p class="datos volver">{{ i18n.t('parteDe') }} <a [attr.data-ir]="p.id">{{ p.titulo }}</a></p> }
-            <div class="prosa" [innerHTML]="html()"></div>
+            <div #prosa class="prosa" [innerHTML]="html()"></div>
             @if (desarrollo().length) {
               <h2>{{ i18n.t('desarrollo') }}</h2>
               <p class="enlaces">@for (d of desarrollo(); track d.id) { <a [attr.data-ir]="d.id">{{ d.titulo }}</a> }</p>
@@ -114,16 +121,17 @@ interface EntradaIndice {
       </article>
     </section>`,
 })
-export class Enciclopedia implements OnDestroy {
+export class Enciclopedia {
   datos = inject(Datos); estado = inject(Estado); i18n = inject(I18n);
   private san = inject(DomSanitizer);
   ui = UI; glifos = GLIFOS;
   filtro = signal('');
   indiceAbierto = signal(false);
   porTerritorio = signal(false);
-  hablando = signal(false);
   tituloPendiente = signal('');
   anterior = signal<string | null>(null);
+  prosa = viewChild<ElementRef<HTMLElement>>('prosa');
+  private lector = viewChild(LectorEnciclopedia);
   private cuerpo = viewChild.required<ElementRef<HTMLElement>>('cuerpo');
 
   articulo = computed(() => { const id = this.estado.enciclopedia(); return id ? this.datos.articulo(id) : null; });
@@ -188,7 +196,7 @@ export class Enciclopedia implements OnDestroy {
 
   color(region: string) { return this.datos.region.get(region)!.color; }
   abrir(id: string, titulo = '') {
-    this.parar();
+    this.lector()?.detener();
     this.anterior.set(this.articulo()?.id ?? this.anterior());
     this.tituloPendiente.set(titulo);
     this.indiceAbierto.set(false);
@@ -199,23 +207,13 @@ export class Enciclopedia implements OnDestroy {
     const id = this.anterior();
     if (id) this.abrir(id);
   }
-  cerrar() { this.parar(); this.estado.enciclopedia.set(null); }
+  cerrar() { this.lector()?.detener(); this.estado.enciclopedia.set(null); }
   verEnArbol(id: string) { this.cerrar(); this.estado.elegir(id, true); }
   clic(e: Event) {
-    const a = (e.target as HTMLElement).closest('a[data-ir]');
-    if (a) { e.preventDefault(); this.abrir(a.getAttribute('data-ir')!, a.textContent?.trim()); }
+    const objetivo = e.target;
+    if (!(objetivo instanceof Element)) return;
+    const a = objetivo.closest('a');
+    if (a?.hasAttribute('data-ir')) { e.preventDefault(); this.abrir(a.getAttribute('data-ir')!, a.textContent?.trim()); }
+    else if (!a && this.prosa()?.nativeElement.contains(objetivo)) this.lector()?.seleccionar(objetivo);
   }
-  /** Lectura en voz alta: todo el artículo, o desde el texto seleccionado si lo hay. */
-  leer() {
-    if (this.hablando()) return this.parar();
-    const texto = (this.cuerpo().nativeElement.querySelector('.texto') as HTMLElement)?.innerText ?? '';
-    const sel = String(window.getSelection() ?? '').trim();
-    const desde = sel ? Math.max(0, texto.indexOf(sel.slice(0, 40))) : 0;
-    const voz = new SpeechSynthesisUtterance(texto.slice(desde));
-    voz.lang = 'es-ES';
-    voz.onend = voz.onerror = () => this.hablando.set(false);
-    speechSynthesis.cancel(); speechSynthesis.speak(voz); this.hablando.set(true);
-  }
-  parar() { speechSynthesis.cancel(); this.hablando.set(false); }
-  ngOnDestroy() { this.parar(); }
 }

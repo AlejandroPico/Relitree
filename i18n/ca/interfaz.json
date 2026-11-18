@@ -67,5 +67,18 @@
   "religiones": "Religions i tradicions",
   "desarrollo": "Articles de desenvolupament",
   "parteDe": "Forma part de",
-  "simboloPropio": "dibuix propi basat en el motiu"
+  "simboloPropio": "dibuix propi basat en el motiu",
+  "lectorAnterior": "Paràgraf anterior",
+  "lectorSiguiente": "Paràgraf següent",
+  "lectorDetener": "Atura la lectura",
+  "lectorAjustes": "Configuració de lectura",
+  "lectorPausa": "Posa en pausa la lectura",
+  "lectorContinuar": "Reprèn la lectura",
+  "lectorVoz": "Veu",
+  "lectorAutomatica": "Automàtica (castellà)",
+  "lectorVelocidad": "Velocitat",
+  "lectorTono": "To",
+  "lectorVolumen": "Volum",
+  "lectorNoDisponible": "La lectura en veu alta no està disponible en aquest navegador.",
+  "lectorError": "La lectura s’ha interromput."
 }

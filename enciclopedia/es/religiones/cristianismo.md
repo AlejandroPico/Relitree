@@ -1,7 +1,7 @@
 ---
 estado: completo
 fase: E02
-palabras: 5480
+palabras: 5556
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/christian-population-change/"
   - "https://assets.cambridge.org/97805218/12399/frontmatter/9780521812399_frontmatter.pdf"
@@ -33,6 +33,15 @@ La palabra «cristianismo» designa el conjunto de esas tradiciones. El catolici
 | Escrituras | [[cristianismo/biblia/antiguo-testamento|Antiguo Testamento]] · [[cristianismo/biblia/nuevo-testamento|Nuevo Testamento]] · [[cristianismo/biblia/canon-apocrifos-traducciones|Canon, apócrifos y traducciones]] |
 | Prácticas y símbolos | [[cristianismo/vida-cristiana/mandamientos-sacramentos-moral|Mandamientos, sacramentos y moral]] · [[cristianismo/vida-cristiana/liturgia-y-ano-liturgico|Liturgia y año litúrgico]] · [[cristianismo/vida-cristiana/simbologia|Simbología cristiana]] |
 | Primeras comunidades | [[cristianismo/figuras/pedro|Pedro]] · [[cristianismo/figuras/pablo-de-tarso|Pablo de Tarso]] |
+
+## Apóstoles y primeros siglos
+
+| Tema | Artículos de E03 |
+|---|---|
+| Apóstoles | [[cristianismo/apostoles/apostoles-i|Andrés, Santiago y Juan]] · [[cristianismo/apostoles/apostoles-ii|Felipe, Bartolomé y Tomás]] · [[cristianismo/apostoles/apostoles-iii|Mateo, Santiago y Judas Tadeo]] · [[cristianismo/apostoles/apostoles-iv|Simón, Judas Iscariote y Matías]] |
+| Primeras comunidades | [[cristianismo/primeras-comunidades/iglesia-de-jerusalen|La Iglesia de Jerusalén y la ruptura con el judaísmo]] · [[cristianismo/primeras-comunidades/persecuciones-romanas|Las persecuciones romanas]] · [[cristianismo/primeras-comunidades/martires|Los mártires]] |
+| Patrística | [[cristianismo/patristica/padres-apostolicos-y-apologistas|Padres apostólicos y apologistas]] · [[cristianismo/patristica/padres-griegos|Padres de la Iglesia griegos]] · [[cristianismo/patristica/padres-latinos|Padres de la Iglesia latinos]] |
+| Iglesias e Imperio romano | [[cristianismo/imperio/constantino-y-el-giro-del-siglo-iv|Constantino y el giro del siglo IV]] · [[cristianismo/imperio/de-teodosio-al-fin-del-paganismo|De Teodosio al fin del paganismo]] |
 
 ## Siglo I · Jesús, el judaísmo del Segundo Templo y las primeras comunidades
 
