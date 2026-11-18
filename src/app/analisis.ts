@@ -148,11 +148,13 @@ export function marcasAdaptativas(marcas: number[], x: (anio: number) => number,
 }
 
 /** Sigue las ramas en cada sentido sin retroceder desde un antepasado hacia ramas laterales. */
-export function resaltarGrafo(id: string | undefined, enlaces: Relacion[]) {
+export function resaltarGrafo(id: string | undefined, enlaces: Relacion[], conexion?: Relacion) {
   const nodos = new Set<string>(), ramas = new Set<Relacion>();
-  if (!id) return { nodos, ramas };
-  nodos.add(id);
-  for (const [salida, entrada] of [['origen', 'destino'], ['destino', 'origen']] as const) {
+  const origen = conexion?.origen ?? id, destino = conexion?.destino ?? id;
+  if (!origen || !destino) return { nodos, ramas };
+  for (const [salida, entrada, partida] of [
+    ['origen', 'destino', destino], ['destino', 'origen', origen],
+  ] as const) {
     const indice = new Map<string, Relacion[]>();
     for (const rel of enlaces) {
       if (rel.clase === 'influencia') continue;
@@ -160,7 +162,8 @@ export function resaltarGrafo(id: string | undefined, enlaces: Relacion[]) {
       grupo.push(rel);
       indice.set(rel[salida], grupo);
     }
-    const cola = [id], vistos = new Set(cola);
+    const cola = [partida], vistos = new Set(cola);
+    nodos.add(partida);
     for (let i = 0; i < cola.length; i++) {
       for (const rel of indice.get(cola[i]) ?? []) {
         ramas.add(rel);
@@ -173,11 +176,15 @@ export function resaltarGrafo(id: string | undefined, enlaces: Relacion[]) {
       }
     }
   }
-  for (const rel of enlaces) {
-    if (rel.origen !== id && rel.destino !== id) continue;
-    ramas.add(rel);
-    nodos.add(rel.origen);
-    nodos.add(rel.destino);
+  if (conexion) {
+    ramas.add(conexion);
+  } else {
+    for (const rel of enlaces) {
+      if (rel.origen !== id && rel.destino !== id) continue;
+      ramas.add(rel);
+      nodos.add(rel.origen);
+      nodos.add(rel.destino);
+    }
   }
   return { nodos, ramas };
 }

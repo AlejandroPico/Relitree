@@ -342,13 +342,23 @@ app-root { --alto-barra-explorador: 48px; }
 .vis-matriz button::before { position: absolute; content: ""; inset: 0; background: color-mix(in srgb, var(--acento) 45%, transparent); opacity: var(--intensidad); z-index: -1; }
 .vis-matriz button:hover, .vis-matriz button[aria-pressed="true"] { outline: 1px solid var(--acento); outline-offset: -2px; }
 
-.vis-series { min-width: 840px; padding: 8px 12px; }
-.vis-series section + section { border-top: 1px solid var(--guia-vis); margin-top: 8px; padding-top: 8px; }
-.vis-barras-tiempo { display: grid; grid-template-columns: repeat(var(--intervalos), minmax(0, 1fr)); gap: 2px; }
-.vis-barras-tiempo button { height: clamp(98px, calc((100dvh - var(--alto-barra-explorador) - 126px) / var(--series, 3)), 240px); display: flex; flex-direction: column; justify-content: end; align-items: center; border: 0; background: transparent; cursor: pointer; padding: 0 2px; }
+.vis-paralelas { position: absolute; inset: 0; overflow: auto hidden; }
+.vis-series {
+  height: 100%; min-width: 840px; padding: 8px 12px;
+  display: grid; grid-template-rows: repeat(var(--series), minmax(0, 1fr));
+}
+.vis-series section { min-height: 0; display: grid; grid-template-rows: auto minmax(0, 1fr); }
+.vis-series section h2 { margin: 2px 0 4px; }
+.vis-series section + section { border-top: 1px solid var(--guia-vis); padding-top: 5px; }
+.vis-barras-tiempo { min-height: 0; display: grid; grid-template-columns: repeat(var(--intervalos), minmax(0, 1fr)); gap: 2px; }
+.vis-barras-tiempo button {
+  min-height: 0; min-width: 0; display: grid; grid-template-rows: minmax(0, 1fr) auto;
+  justify-items: center; border: 0; background: transparent; cursor: pointer; padding: 0 2px;
+}
+.vis-trazo-paralelo { width: 100%; min-height: 0; display: flex; align-items: flex-end; justify-content: center; padding-top: 15px; }
 .vis-barras-tiempo button:hover, .vis-barras-tiempo button[aria-pressed="true"] { background: color-mix(in srgb, var(--texto) 8%, transparent); }
 .vis-barras-tiempo button small { margin: 0; padding: 2px 0; font-size: 10.5px; }
-.vis-barra { display: flex; align-items: flex-start; justify-content: center; position: relative; width: 48%; height: calc(var(--altura) * .66); min-height: 1px; background: var(--color-barra); }
+.vis-barra { display: flex; align-items: flex-start; justify-content: center; position: relative; width: 48%; height: var(--altura); min-height: 1px; background: var(--color-barra); }
 .vis-barra > span { position: absolute; top: -15px; color: var(--texto); font-size: 10px; font-variant-numeric: tabular-nums; }
 .vis-demografia { padding: 4px 12px; }
 .vis-estimacion {
@@ -390,3 +400,19 @@ app-root { --alto-barra-explorador: 48px; }
 .vis-superficie-mapa { background: color-mix(in srgb, #37617d 17%, var(--fondo)); }
 .vis-superficie-mapa .vis-mapa { background: transparent; }
 .vis-marcador-mapa { transform-origin: 0 0; scale: var(--vis-escala-marcas, 1); }
+
+@media (min-width: 1180px) {
+  .vis-paralelas:has(+ .vis-intervalo-paralelo) { right: 406px; }
+  .vis-intervalo-paralelo { top: 8px; max-height: none; }
+}
+
+.vis-impacto { fill: none; stroke: transparent; pointer-events: stroke; }
+.vis-punto circle.vis-impacto-punto { fill: transparent; stroke: none; pointer-events: all; }
+.vis-enlace-arco { cursor: pointer; }
+.vis-enlace-arco > .arco { pointer-events: none; }
+.vis-enlace-arco:hover > .arco, .vis-enlace-arco:focus-visible > .arco { opacity: 1; stroke-width: 2.7; }
+.vis-enlace-arco > .vis-vinculo-directo { stroke-width: 3.2; }
+.vis-punto-arco.vis-atenuado { opacity: .28; }
+.vis-punto-arco.vis-atenuado:hover, .vis-punto-arco.vis-atenuado:focus-visible { opacity: 1; }
+.vis-punto-arco.vis-conexo .vis-marca-arco { stroke: var(--fondo); stroke-width: 1.1; }
+.vis-punto-arco.actual .vis-marca-arco { stroke: var(--acento); stroke-width: 2.8; }

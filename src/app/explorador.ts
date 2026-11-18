@@ -36,7 +36,7 @@ export class Explorador {
   readonly ui = UI;
   readonly vista = this.estado.visualizacion;
   readonly esSuperficieInteractiva = computed(() =>
-    ['cronologia', 'linajes', 'grafo', 'mapa', 'arcos', 'matriz'].some(vista => vista === this.vista()));
+    ['cronologia', 'linajes', 'grafo', 'mapa', 'arcos', 'matriz', 'paralelas'].some(vista => vista === this.vista()));
 
   readonly hoy = this.d.marcas[0];
   readonly minimo = this.d.marcas.at(-1)!;
@@ -123,6 +123,9 @@ export class Explorador {
   xPantalla(x: number) {
     const c = this.camaraTemporal();
     return c.x + x * c.escala;
+  }
+  centroSeleccionable(x: number) {
+    return Math.max(8, Math.min(this.camaraTemporal().ancho - 8, x));
   }
   readonly marcas = computed(() => {
     const c = this.camaraTemporal();
@@ -270,9 +273,19 @@ export class Explorador {
     const fin = nodos.at(-1)!.inicio;
     const inicio = Math.min(nodos[0].inicio, fin - 1);
     const x = (a: number) => 1100 * (this.d.yDe(inicio) - this.d.yDe(a)) / Math.max(.01, this.d.yDe(inicio) - this.d.yDe(fin));
-    const enlaces = this.enlacesFiltrados().filter(r => ids.has(r.origen) && ids.has(r.destino)).map(rel => ({
-      a: x(this.d.porId.get(rel.origen)!.inicio), b: x(this.d.porId.get(rel.destino)!.inicio), rel,
-    }));
+    const porFechas = new Map<string, { a: number; b: number; rel: Relacion }[]>();
+    for (const rel of this.enlacesFiltrados()) {
+      if (!ids.has(rel.origen) || !ids.has(rel.destino)) continue;
+      const a = x(this.d.porId.get(rel.origen)!.inicio), b = x(this.d.porId.get(rel.destino)!.inicio);
+      const clave = Math.min(a, b) + ':' + Math.max(a, b);
+      const grupo = porFechas.get(clave) ?? [];
+      grupo.push({ a, b, rel });
+      porFechas.set(clave, grupo);
+    }
+    const enlaces = [...porFechas.values()].flatMap(grupo => {
+      const separacion = Math.min(10, 58 / Math.max(1, grupo.length - 1));
+      return grupo.map((e, i) => ({ ...e, separacion: (i - (grupo.length - 1) / 2) * separacion }));
+    });
     const ocupados: number[] = [];
     const puntos = nodos.map(r => {
       const px = x(r.inicio);
@@ -284,9 +297,34 @@ export class Explorador {
     return { enlaces, puntos, inicio, fin, x, alto: 265 + ocupados.length * 15 };
   });
 
-  arcoD(a: number, b: number) {
-    const h = Math.min(176, 24 + Math.abs(a - b) * .21);
-    const forma = a === b ? 'C' + (a - 22) + ' ' + (206 - h) + ' ' + (a + 22) + ' ' + (206 - h)
+  readonly seleccionArcos = computed(() => {
+    const g = this.arcos();
+    const id = this.estado.seleccion(), enlace = this.estado.relacion();
+    return {
+      nodo: id && g?.puntos.some(p => p.r.id === id) ? id : undefined,
+      enlace: enlace && g?.enlaces.some(e => e.rel === enlace) ? enlace : undefined,
+    };
+  });
+  readonly resalteArcos = computed(() => {
+    const { nodo, enlace } = this.seleccionArcos();
+    return resaltarGrafo(nodo, this.relaciones(), enlace);
+  });
+  arcoDirecto(rel: Relacion) {
+    const { nodo, enlace } = this.seleccionArcos();
+    return rel === enlace || rel.origen === nodo || rel.destino === nodo;
+  }
+  readonly enlacesArcos = computed(() => {
+    const enlaces = this.arcos()?.enlaces ?? [];
+    const resalte = this.resalteArcos();
+    const nivel = (r: Relacion) => this.arcoDirecto(r) ? 2 : resalte.ramas.has(r) ? 1 : 0;
+    return resalte.nodos.size ? [...enlaces].sort((a, b) => nivel(a.rel) - nivel(b.rel)) : enlaces;
+  });
+
+  arcoD(a: number, b: number, separacion: number) {
+    const distancia = Math.abs(a - b);
+    const h = Math.max(12, Math.min(185, 29 + 130 * (1 - Math.exp(-distancia / 530)) + separacion));
+    const ancho = 23 + separacion * .3;
+    const forma = a === b ? 'C' + (a - ancho) + ' ' + (206 - h) + ' ' + (a + ancho) + ' ' + (206 - h)
       : 'Q' + ((a + b) / 2) + ' ' + (206 - h * 2);
     return 'M' + a + ' 206' + forma + ' ' + b + ' 206';
   }

@@ -174,7 +174,9 @@
                        (click)="elegir(fila.r)" (keydown.enter)="elegir(fila.r)" (keydown.space)="$event.preventDefault(); elegir(fila.r)">
                       <title>{{ fila.r.nombre }} · {{ i18n.periodo(fila.r.inicio, fila.r.fin) }}</title>
                       <line [attr.x1]="x0" [attr.x2]="x1" [attr.y1]="y" [attr.y2]="y" [attr.stroke]="color(fila.r)" stroke-width="3"/>
-                      <circle [attr.cx]="x0" [attr.cy]="y" r="4" [attr.fill]="color(fila.r)" [class.vis-comun]="fila.r.id === comun?.id"/>
+                      <line class="vis-impacto" [attr.x1]="x0" [attr.x2]="x1" [attr.y1]="y" [attr.y2]="y" stroke-width="14"/>
+                      <circle class="vis-impacto-punto" [attr.cx]="centroSeleccionable(x0)" [attr.cy]="y" r="8"/>
+                      <circle [attr.cx]="centroSeleccionable(x0)" [attr.cy]="y" r="4" [attr.fill]="color(fila.r)" [class.vis-comun]="fila.r.id === comun?.id"/>
                       <text [attr.x]="x0 > c.ancho - 190 ? x0 - 8 : x0 < 0 ? 8 : x0 + 8" [attr.y]="y - 6"
                             [attr.text-anchor]="x0 > c.ancho - 190 ? 'end' : 'start'">{{ abreviar(fila.r.nombre, 38) }}</text>
                     </g>
@@ -293,9 +295,11 @@
         @if (arcos(); as g) {
           @let c = camaraTemporal();
           <rel-regla-temporal [marcas]="marcas()" [ancho]="c.ancho"/>
-          <div class="vis-lienzo vis-eje-fijo" relDesplazamiento [temporal]="true" [zoomMinimo]="100" [plano]="{ancho: 1100, alto: g.alto}"
+          @let resalte = resalteArcos();
+          <div class="vis-lienzo vis-eje-fijo" relDesplazamiento [temporal]="true" [zoomMinimo]="100" [zoomMaximo]="3200" [margenX]="24"
+               [plano]="{ancho: 1100, alto: g.alto}"
                [escena]="zonaArcos()" (camaraCambio)="camaraTemporal.set($event)" tabindex="0" [attr.aria-label]="i18n.t('arcos')">
-            <svg class="vis-grafico vis-proyeccion-temporal" role="group" [attr.aria-label]="i18n.t('arcos')">
+            <svg class="vis-grafico vis-proyeccion-temporal" role="group" [attr.aria-label]="i18n.t('arcos')" (click)="estado.elegir(null)">
               <defs>
                 <marker id="flecha-arco" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
                   <path d="M0 0L8 4 0 8Z" fill="currentColor"/>
@@ -305,21 +309,38 @@
                 <line class="vis-guia" [attr.x1]="m.x" [attr.x2]="m.x" y1="0" [attr.y2]="c.alto"/>
               }
               <g [attr.transform]="'translate(0 ' + c.y + ')'">
-              <line class="vis-guia" x1="0" [attr.x2]="c.ancho" y1="206" y2="206"/>
-              @for (e of g.enlaces; track $index) {
-                <path class="vis-vinculo arco" [class.vis-influencia]="e.rel.clase === 'influencia'" [attr.d]="arcoD(xPantalla(e.a), xPantalla(e.b))"
-                      marker-end="url(#flecha-arco)" tabindex="0" role="button" [attr.aria-label]="nombreRel(e.rel)"
-                      (click)="estado.elegirRelacion(e.rel)" (keydown.enter)="estado.elegirRelacion(e.rel)">
-                  <title>{{ nombreRel(e.rel) }}</title>
-                </path>
-              }
-              @for (p of g.puntos; track p.r.id) {
-                <g class="vis-punto" role="button" tabindex="0" [attr.aria-label]="p.r.nombre"
-                  (click)="elegir(p.r)" (keydown.enter)="elegir(p.r)" (keydown.space)="$event.preventDefault(); elegir(p.r)">
-                  <title>{{ p.r.nombre }} · {{ i18n.anio(p.r.inicio) }}</title>
-                  <circle [attr.cx]="xPantalla(p.x)" [attr.cy]="p.y" [attr.fill]="color(p.r)" r="5"/>
-                </g>
-              }
+                <line class="vis-guia" [attr.x1]="xPantalla(0)" [attr.x2]="xPantalla(1100)" y1="206" y2="206"/>
+                @for (e of enlacesArcos(); track e.rel) {
+                  @let a = xPantalla(e.a);
+                  @let b = xPantalla(e.b);
+                  @if ((a >= -36 || b >= -36) && (a <= c.ancho + 36 || b <= c.ancho + 36)) {
+                    @let d = arcoD(a, b, e.separacion);
+                    <g class="vis-enlace-arco" role="button" tabindex="0" [attr.aria-label]="nombreRel(e.rel)"
+                       [attr.aria-pressed]="seleccionArcos().enlace === e.rel"
+                       (click)="$event.stopPropagation(); estado.elegirRelacion(e.rel)" (keydown.enter)="estado.elegirRelacion(e.rel)"
+                       (keydown.space)="$event.preventDefault(); estado.elegirRelacion(e.rel)">
+                      <title>{{ nombreRel(e.rel) }}</title>
+                      <path class="vis-vinculo arco" [attr.d]="d" marker-end="url(#flecha-arco)"
+                            [class.vis-influencia]="e.rel.clase === 'influencia'" [class.vis-vinculo-activo]="resalte.ramas.has(e.rel)"
+                            [class.vis-vinculo-directo]="arcoDirecto(e.rel)" [class.vis-atenuado]="resalte.nodos.size && !resalte.ramas.has(e.rel)"/>
+                      <path class="vis-impacto" [attr.d]="d" stroke-width="9"/>
+                    </g>
+                  }
+                }
+                @for (p of g.puntos; track p.r.id) {
+                  @let x = xPantalla(p.x);
+                  @if (x >= -5 && x <= c.ancho + 5) {
+                    <g class="vis-punto vis-punto-arco" role="button" tabindex="0" [attr.aria-label]="p.r.nombre"
+                       [attr.aria-pressed]="seleccionArcos().nodo === p.r.id"
+                       [class.vis-conexo]="resalte.nodos.has(p.r.id)" [class.vis-atenuado]="resalte.nodos.size && !resalte.nodos.has(p.r.id)"
+                       [class.actual]="seleccionArcos().nodo === p.r.id"
+                       (click)="$event.stopPropagation(); elegir(p.r)" (keydown.enter)="elegir(p.r)" (keydown.space)="$event.preventDefault(); elegir(p.r)">
+                      <title>{{ p.r.nombre }} · {{ i18n.anio(p.r.inicio) }}</title>
+                      <circle class="vis-impacto-punto" [attr.cx]="centroSeleccionable(x)" [attr.cy]="p.y" r="8"/>
+                      <circle class="vis-marca-arco" [attr.cx]="centroSeleccionable(x)" [attr.cy]="p.y" [attr.fill]="color(p.r)" r="5"/>
+                    </g>
+                  }
+                }
               </g>
             </svg>
           </div>
@@ -376,7 +397,7 @@
                         [attr.aria-label]="i18n.anio(t.a) + ' – ' + i18n.anio(t.b) + ': ' + t.elementos.length"
                         [attr.aria-pressed]="intervaloElegido()?.region === g.r.id && intervaloElegido()?.indice === i"
                         (click)="intervaloElegido.set({ region: g.r.id, indice: i })">
-                        <span class="vis-barra"><span>{{ t.elementos.length || '' }}</span></span>
+                        <span class="vis-trazo-paralelo"><span class="vis-barra"><span>{{ t.elementos.length || '' }}</span></span></span>
                         <small>{{ i18n.anio(t.a) }}</small>
                       </button>
                     }
@@ -386,8 +407,11 @@
             </div>
           </div>
           @if (intervaloActivo(); as t) {
-            <section class="vis-bloque">
-              <h2>{{ i18n.anio(t.a) }} – {{ i18n.anio(t.b) }} · {{ t.elementos.length }}</h2>
+            <section class="vis-bloque vis-resultados vis-intervalo-paralelo">
+              <header>
+                <h2>{{ i18n.anio(t.a) }} – {{ i18n.anio(t.b) }} · {{ t.elementos.length }}</h2>
+                <button class="ico" [attr.aria-label]="i18n.t('cerrar')" (click)="intervaloElegido.set(null)"><svg viewBox="0 0 24 24" aria-hidden="true"><path [attr.d]="ui['cerrar']"/></svg></button>
+              </header>
               @for (r of t.elementos; track r.id) {
                 <button class="vis-entrada" (click)="elegir(r)"><span>{{ r.nombre }}</span><small>{{ i18n.anio(r.inicio) }}</small></button>
               } @empty { <p class="vis-nota">{{ i18n.t('sinEntradas') }}</p> }

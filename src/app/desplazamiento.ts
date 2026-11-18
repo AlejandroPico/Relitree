@@ -21,6 +21,8 @@ export class Desplazamiento {
   readonly focoY = input<number>();
   readonly zoom = input<number>();
   readonly zoomMinimo = input(35);
+  readonly zoomMaximo = input(800);
+  readonly margenX = input(0);
   readonly temporal = input(false);
   readonly camaraCambio = output<CamaraTemporal>();
   readonly zoomCambio = output<number>();
@@ -53,7 +55,7 @@ export class Desplazamiento {
     });
     effect((limpiar) => {
       const p = this.plano(), ajuste = this.ajuste(), x = this.focoX(), y = this.focoY();
-      this.temporal(); this.zoomMinimo();
+      this.temporal(); this.zoomMinimo(); this.margenX();
       this.escena();
       if (!p) return;
       const tarea = requestAnimationFrame(() => this.encuadrar(p, ajuste, x, y));
@@ -76,7 +78,7 @@ export class Desplazamiento {
     this.w = this.el.clientWidth;
     this.h = this.el.clientHeight;
     if (!this.w || !this.h) return;
-    const porAncho = this.w / p.ancho;
+    const porAncho = (this.w - 2 * this.margenHorizontal()) / p.ancho;
     this.base = ajuste === 'encajar' ? Math.min(porAncho, this.h / p.alto)
       : ajuste === 'natural' ? Math.max(.82, porAncho) : porAncho;
     const k = this.base * this.porcentaje / 100;
@@ -87,7 +89,7 @@ export class Desplazamiento {
 
   private escalar(nuevo: number, centro: Punto, notificar: boolean, anteriores = centro) {
     if (!this.plano()) return;
-    const porcentaje = Math.max(this.zoomMinimo(), Math.min(800, nuevo));
+    const porcentaje = Math.max(this.zoomMinimo(), Math.min(this.zoomMaximo(), nuevo));
     const factor = porcentaje / this.porcentaje;
     this.x = centro.x - (anteriores.x - this.x) * factor;
     this.y = centro.y - (anteriores.y - this.y) * (this.temporal() ? 1 : factor);
@@ -102,7 +104,8 @@ export class Desplazamiento {
     const k = this.base * this.porcentaje / 100;
     const limitar = (p: number, lienzo: number, vista: number) => lienzo <= vista ? (vista - lienzo) / 2
       : Math.min(0, Math.max(vista - lienzo, p));
-    this.x = limitar(this.x, p.ancho * k, this.w);
+    const margen = this.margenHorizontal();
+    this.x = margen + limitar(this.x - margen, p.ancho * k, this.w - margen * 2);
     this.y = limitar(this.y, p.alto * (this.temporal() ? 1 : k), this.h);
     if (this.temporal()) {
       this.camaraCambio.emit({ x: this.x, y: this.y, escala: k, ancho: this.w, alto: this.h });
@@ -115,6 +118,8 @@ export class Desplazamiento {
     this.el.style.setProperty('--vis-alto', p.alto + 'px');
     this.el.style.setProperty('--vis-transform', 'translate(' + this.x + 'px,' + this.y + 'px) scale(' + k + ')');
   }
+
+  private margenHorizontal() { return Math.min(this.margenX(), this.w / 4); }
 
   private punto(e: MouseEvent): Punto {
     const r = this.el.getBoundingClientRect();
