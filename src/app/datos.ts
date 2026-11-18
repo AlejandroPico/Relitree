@@ -12,7 +12,7 @@ export interface Religion {
   lineas: string[]; r: number;
 }
 export interface Relacion { origen: string; destino: string; clase: string; principal: boolean; }
-export interface Articulo { id: string; grupo: string; padre: string | null; titulo: string; html?: string; }
+export interface Articulo { id: string; grupo: string; padre: string | null; titulo: string; html?: string; orden?: number | null; }
 
 /** Acceso a la base SQLite generada por el backend de Python (se consulta en el navegador con WebAssembly). */
 @Injectable({ providedIn: 'root' })
@@ -70,8 +70,12 @@ export class Datos {
       this.religiones.forEach((r) => this.porId.set(r.id, r));
       this.relaciones = this.filas('SELECT * FROM relaciones').map((f: any) => ({ ...f, principal: !!f.principal }));
       const indice = new Map<string, Articulo>();
-      for (const a of capas('SELECT id, grupo, padre, titulo FROM articulos WHERE idioma = ?')) indice.set(a.id, a);
-      this.indice = [...indice.values()].sort((a, b) => a.titulo.localeCompare(b.titulo, this.idioma));
+      const tieneOrden = this.filas('PRAGMA table_info(articulos)').some((columna) => columna.name === 'orden');
+      const orden = tieneOrden ? ', orden' : '';
+      for (const a of capas(`SELECT id, grupo, padre, titulo${orden} FROM articulos WHERE idioma = ?`)) indice.set(a.id, a);
+      this.indice = [...indice.values()].sort((a, b) =>
+        (a.orden ?? Number.MAX_SAFE_INTEGER) - (b.orden ?? Number.MAX_SAFE_INTEGER) ||
+        a.titulo.localeCompare(b.titulo, this.idioma));
       this.listo.set(true);
     } catch (e: any) {
       this.error.set(String(e?.message ?? e));

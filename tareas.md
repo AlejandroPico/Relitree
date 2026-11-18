@@ -3,8 +3,8 @@
 Solo figura lo que falta; lo terminado se elimina de la lista.
 
 ## Fase A · Enciclopedia (78 fases, 859 artículos; detalle en `enciclopedia/PLAN.md`)
-- E00 · Infraestructura (índice en árbol, pestañas, fichas, imágenes, validación de 5.000 palabras)
-- E01 · Temas generales
+- E00 · Infraestructura (pestañas, fichas, galerías, búsqueda de texto y validación de 5.000 palabras)
+- E01 · Temas generales. Textos ampliados: «Cómo leer el árbol» y «Tipos de religión». Quedan por desarrollar y revisar los otros ocho temas, con sus fuentes y recursos visuales.
 - E02–E22 · Cristianismo (fundamentos, apóstoles, 21 concilios, cismas e Inquisición, cruzadas, Reforma, expansión, época contemporánea, papas, santos y 105 tradiciones)
 - E23–E26 · Judaísmo
 - E27–E33 · Islam

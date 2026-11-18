@@ -114,7 +114,11 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .enciclopedia summary { cursor: pointer; list-style: none; font-size: 11px; font-weight: 600; letter-spacing: .09em; text-transform: uppercase; margin: 16px 0 6px; display: flex; justify-content: space-between; }
 .enciclopedia summary::-webkit-details-marker { display: none; }
 .enciclopedia summary small { color: var(--tenue); letter-spacing: 0; }
-.enciclopedia .indice a.sub { padding-left: 24px; font-size: 12.5px; }
+.enciclopedia .subindice { padding-inline-start: .85rem; }
+.enciclopedia .rama-indice > summary { justify-content: flex-start; align-items: baseline; gap: .45em; margin: 6px 0; text-transform: none; letter-spacing: normal; font-size: 13.5px; }
+.enciclopedia .rama-indice > summary::before { content: '▸'; flex: none; }
+.enciclopedia .rama-indice[open] > summary::before { content: '▾'; }
+.enciclopedia .indice-movil { display: none; }
 .enciclopedia .indice { scrollbar-width: thin; }
 .enciclopedia .indice a { display: block; padding: 4px 9px; border-radius: 7px; font-size: 13.5px; color: var(--tenue); }
 .enciclopedia .indice a:hover { color: var(--texto); }
@@ -128,6 +132,7 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .enciclopedia .texto > h1 { margin-bottom: 26px; }
 .enciclopedia h2 { font: 600 22px var(--serif); margin: 36px 0 12px; }
 .prosa { font: 18px/1.7 var(--serif); }
+.prosa img { display: block; max-inline-size: 100%; block-size: auto; }
 .prosa p { margin: 0 0 16px; max-width: 78ch; }
 .prosa a, .credito a { color: var(--acento); }
 .prosa table { border-collapse: collapse; width: 100%; font: 14.5px/1.5 var(--fuente); margin: 10px 0 24px; }
@@ -144,5 +149,7 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
   .detalle { top: auto; left: 8px; right: 8px; bottom: 8px; width: auto; max-height: 56vh; }
   .flotante { left: 8px; right: 8px; width: auto; }
   .enciclopedia { grid-template-columns: 1fr; } .enciclopedia nav { display: none; }
+  .enciclopedia nav.indice-abierto { display: flex; position: absolute; inset: 0 auto 0 0; width: min(19rem, 72vw); z-index: 2; background: var(--fondo); }
+  .enciclopedia .indice-movil { display: block; background: var(--fondo); color: var(--texto); border: 0; cursor: pointer; padding-inline: .6rem; }
 }
 .volver { margin: -14px 0 22px; } .volver a { color: var(--acento); }

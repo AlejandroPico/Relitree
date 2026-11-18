@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 290" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Composición religiosa mundial en 2020</title>
+  <desc id="descripcion">Porcentajes de población mundial en cinco de las siete categorías estimadas por Pew Research Center.</desc>
+  <rect width="700" height="290" fill="#f5f1e7"/>
+  <g font-family="system-ui, sans-serif" fill="#233539">
+    <text x="28" y="38" font-size="21" font-weight="700">Composición religiosa mundial · 2020</text>
+    <text x="28" y="77" font-size="16">Cristianismo</text>
+    <rect x="176" y="61" width="403" height="22" fill="#2c7272"/>
+    <text x="591" y="77" font-size="16">28,8 %</text>
+    <text x="28" y="113" font-size="16">Islam</text>
+    <rect x="176" y="97" width="358" height="22" fill="#2c7272"/>
+    <text x="546" y="113" font-size="16">25,6 %</text>
+    <text x="28" y="149" font-size="16">Sin afiliación</text>
+    <rect x="176" y="133" width="339" height="22" fill="#2c7272"/>
+    <text x="527" y="149" font-size="16">24,2 %</text>
+    <text x="28" y="185" font-size="16">Hinduismo</text>
+    <rect x="176" y="169" width="209" height="22" fill="#2c7272"/>
+    <text x="397" y="185" font-size="16">14,9 %</text>
+    <text x="28" y="221" font-size="16">Budismo</text>
+    <rect x="176" y="205" width="57" height="22" fill="#2c7272"/>
+    <text x="245" y="221" font-size="16">4,1 %</text>
+    <text x="28" y="264" font-size="14">Fuente: Pew Research Center, serie 2010–2020 publicada en 2025</text>
+  </g>
+</svg>

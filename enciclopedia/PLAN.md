@@ -6,7 +6,7 @@ Cada fase se trabaja en una sesión. Al terminarla se marcan sus artículos como
 
 ## Fase E00 · Infraestructura de la enciclopedia
 
-- Índice en árbol con anidación ilimitada (religión → categorías → subcategorías → artículos)
+- Índice en árbol con anidación ilimitada (religión → categorías → subcategorías → artículos). Implementado junto con el acceso móvil en la primera entrega de E01.
 - Pestañas dentro de cada artículo (Historia · Creencias · Textos · Ritos · Símbolos · Figuras · Cronología · Fuentes)
 - Ficha resumen lateral (infobox), tablas largas, cronologías visuales, galerías
 - Imágenes de Wikimedia Commons descargadas al repositorio con autor y licencia; vídeo solo de instituciones oficiales
@@ -15,6 +15,8 @@ Cada fase se trabaja en una sesión. Al terminarla se marcan sus artículos como
 - Búsqueda dentro del texto de toda la enciclopedia; lectura en voz alta desde el punto donde se hace clic
 
 ## Fase E01 · Temas generales
+
+Avance editorial: los dos primeros artículos se han ampliado. Los otros ocho tienen borrador y conservan la marca `estado: borrador` hasta su desarrollo y revisión.
 
 - Cómo leer el árbol (ampliado)
 - Tipos de religión (ampliado)

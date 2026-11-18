@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Cómo leer una rama del árbol</title>
+  <desc id="descripcion">El tiempo avanza hacia arriba. Una rama horizontal sale de la línea de vida de A y llega al nodo B, que tiene una fecha de inicio posterior.</desc>
+  <rect width="640" height="300" fill="#f5f1e7"/>
+  <g font-family="system-ui, sans-serif" font-size="18" fill="#233539">
+    <text x="32" y="40" font-weight="700">Más reciente</text>
+    <text x="32" y="270" font-weight="700">Más antiguo</text>
+    <text x="190" y="114">Línea de vida</text>
+    <text x="338" y="116">Rama de origen</text>
+    <text x="292" y="232">A</text>
+    <text x="492" y="158">B</text>
+  </g>
+  <g stroke="#2c6363" fill="none" stroke-width="4">
+    <path d="M82 220V72m-10 12 10-12 10 12"/>
+    <path d="M272 222V69M272 145H468"/>
+  </g>
+  <g fill="#f5f1e7" stroke="#2c6363" stroke-width="4">
+    <circle cx="272" cy="225" r="13"/>
+    <circle cx="470" cy="145" r="13"/>
+  </g>
+</svg>
