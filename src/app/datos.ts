@@ -1,4 +1,5 @@
 import { Injectable, inject, signal } from '@angular/core';
+import { version } from '../../package.json';
 import { I18n } from './i18n';
 
 declare const initSqlJs: (cfg: { locateFile: (f: string) => string }) => Promise<any>;
@@ -38,7 +39,7 @@ export class Datos {
     try {
       const [SQL, buf] = await Promise.all([
         initSqlJs({ locateFile: (f) => `sqljs/${f}` }),
-        fetch('datos/relitree.sqlite').then((r) => { if (!r.ok) throw new Error('relitree.sqlite'); return r.arrayBuffer(); }),
+        fetch(`datos/relitree.sqlite?v=${encodeURIComponent(version)}`, { cache: 'reload' }).then((r) => { if (!r.ok) throw new Error('relitree.sqlite'); return r.arrayBuffer(); }),
       ]);
       this.bd = new SQL.Database(new Uint8Array(buf));
       for (const m of this.filas('SELECT clave, valor FROM metadatos')) this.meta[m.clave] = m.valor;
