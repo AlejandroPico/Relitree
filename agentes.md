@@ -122,6 +122,7 @@ Los índices de categoría usan `_indice.md` con un encabezado `# Título` y, op
 
 - Sin títulos sobre el lienzo; minimalismo, mucho aire; nada de cajetines ni filas de divisores.
 - Barra superior fija con todos los botones juntos: buscar · filtros y capas · leyenda · enciclopedia (libro abierto) · Visualizaciones (ojo, selección de doce vistas con territorios por defecto) · tema · Acerca de. Sin controles de zoom (rueda, pellizco, teclas + − 0). **Alt + clic en Acerca de** abre Herramientas (exportar SVG, enlaces al editor Atlas, SQLite).
+- Las visualizaciones del catálogo colocan sus controles a la izquierda de la barra superior y dedican la superficie inferior a los datos.
 - El editor es un proyecto aparte: https://github.com/AlejandroPico/Editor (web: https://alejandropico.github.io/Editor/). Aquí solo se enlaza.
 - Temas día / tarde / noche / automático (según fecha y hora locales).
 - Todo vectorial: nada de imágenes de mapa de bits en el árbol.

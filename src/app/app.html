@@ -4,7 +4,8 @@
   @if (estado.esLienzo()) { <app-lienzo/> }
   @else { <app-explorador/> }
 
-  <header class="barra">
+  <header class="barra" [class.barra-explorador]="!estado.esLienzo()">
+    <ng-container [ngTemplateOutlet]="explorador()?.controles() ?? null"/>
     <button class="ico" [class.activo]="panel() === 'buscar'" [title]="i18n.t('buscar')" (click)="abrir('buscar')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['buscar']"/></svg></button>
     <button class="ico" [class.activo]="panel() === 'filtros'" [title]="i18n.t('filtros')" (click)="abrir('filtros')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['capas']"/></svg></button>
     <button class="ico" [class.activo]="panel() === 'leyenda'" [title]="i18n.t('leyenda')" (click)="abrir('leyenda')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['leyenda']"/></svg></button>

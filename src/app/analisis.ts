@@ -37,13 +37,27 @@ export function cronograma(grupos: Grupo[], x: (a: number) => number, hoy: numbe
   };
 }
 
-export function grafoLocal(centro: Religion, relaciones: Relacion[], porId: ReadonlyMap<string, Religion>, profundidad: number) {
-  const niveles = new Map<string, number>([[centro.id, 0]]);
+export function nivelesGrafo(centro: Religion | undefined, visibles: Religion[], relaciones: Relacion[]) {
+  const niveles = new Map<string, number>();
+  if (!centro) {
+    const padres = origenes(relaciones);
+    const nivelDe = (id: string): number => {
+      const nivel = niveles.get(id);
+      if (nivel !== undefined) return nivel;
+      const padre = padres.get(id);
+      const generacion = padre ? nivelDe(padre) + 1 : 0;
+      niveles.set(id, generacion);
+      return generacion;
+    };
+    for (const r of visibles) nivelDe(r.id);
+    return niveles;
+  }
+  niveles.set(centro.id, 0);
   const genealogia = relaciones.filter(r => r.clase !== 'influencia');
   for (const direccion of [-1, 1]) {
     const [sale, entra] = direccion === 1 ? ['origen', 'destino'] as const : ['destino', 'origen'] as const;
-    let frontera = [centro.id];
-    for (let paso = 1; paso <= profundidad && frontera.length; paso++) {
+    let frontera = [centro.id], paso = 1;
+    while (frontera.length) {
       const actuales = new Set(frontera);
       frontera = [];
       for (const rel of genealogia) {
@@ -51,16 +65,23 @@ export function grafoLocal(centro: Religion, relaciones: Relacion[], porId: Read
         niveles.set(rel[entra], paso * direccion);
         frontera.push(rel[entra]);
       }
+      paso++;
     }
   }
+  return niveles;
+}
+
+export function dibujarGrafo(niveles: ReadonlyMap<string, number>, relaciones: Relacion[],
+                            porId: ReadonlyMap<string, Religion>, limite: number, centro?: Religion) {
   const soloInfluencia = new Set<string>();
   for (const rel of relaciones) {
-    if (rel.clase !== 'influencia') continue;
+    if (!centro || rel.clase !== 'influencia') continue;
     const vecino = rel.origen === centro.id ? rel.destino : rel.destino === centro.id ? rel.origen : null;
     if (vecino && !niveles.has(vecino)) soloInfluencia.add(vecino);
   }
   const grupos = new Map<number, Religion[]>();
   for (const [id, nivel] of niveles) {
+    if (Math.abs(nivel) > limite) continue;
     const g = grupos.get(nivel) ?? [];
     g.push(porId.get(id)!);
     grupos.set(nivel, g);
@@ -77,7 +98,7 @@ export function grafoLocal(centro: Religion, relaciones: Relacion[], porId: Read
   });
   [...soloInfluencia].map(id => porId.get(id)!).sort(POR_FECHA).forEach((r, i) => {
     nodos.push({
-      r, nivel: 100,
+      r, nivel: Infinity,
       x: ((i % columnasInfluencia) + .5) * ancho / columnasInfluencia,
       y: altoGrafo + 44 + Math.floor(i / columnasInfluencia) * 38,
     });

@@ -224,30 +224,60 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
   .menu-vistas { width: min(265px, calc(100vw - 24px)); grid-template-columns: 1fr; }
 }
 
+.barra-explorador .ico { flex: none; }
+.vis-controles {
+  display: flex; align-items: center; gap: 10px; flex: 1 1 auto; min-width: 0;
+  overflow: auto hidden; margin-inline-end: auto; align-self: stretch;
+}
+.vis-controles label { display: grid; gap: 0; color: var(--tenue); font-size: 10px; flex: 0 0 auto; }
+.vis-controles .vis-check { display: flex; align-items: center; gap: 4px; font-size: 12px; align-self: end; min-height: 34px; }
+.vis-controles .vis-deslizador { flex: 0 1 150px; min-width: 92px; }
+.vis-controles input[type=range] { width: 128px; max-width: 100%; height: 22px; margin: 0; }
+.vis-controles select, .vis-controles input[type=number] {
+  border: 0; border-radius: 0; background: color-mix(in srgb, var(--texto) 6%, var(--barra));
+  color: var(--texto); padding: 2px 5px; max-width: min(172px, 45vw); min-height: 24px; font-size: 12px;
+}
+.vis-controles input[type=number] { width: 80px; }
+.vis-controles input { accent-color: var(--acento); }
+
+app-root { --alto-barra-explorador: 48px; }
+@media (max-width: 860px) {
+  app-root { --alto-barra-explorador: 86px; }
+  .barra-explorador { height: var(--alto-barra-explorador); align-items: flex-start; padding: 6px 10px 0; }
+  .barra-explorador .vis-controles {
+    position: absolute; inset: 42px 10px 3px; align-items: center; scrollbar-width: none;
+  }
+  .barra-explorador ~ .flotante { top: calc(var(--alto-barra-explorador) + 8px); max-height: calc(100dvh - var(--alto-barra-explorador) - 20px); }
+  .barra-explorador ~ .detalle { top: calc(var(--alto-barra-explorador) + 8px); max-height: calc(100dvh - var(--alto-barra-explorador) - 20px); }
+}
+@media (orientation: portrait) and (max-width: 760px) {
+  .barra-explorador ~ .detalle { top: auto; max-height: 56dvh; }
+}
+
 .explorador {
-  position: fixed; inset: 48px 0 0; overflow: auto; overscroll-behavior: contain;
-  padding: clamp(13px, 2.5vw, 38px); background: var(--fondo);
+  position: fixed; inset: var(--alto-barra-explorador) 0 0; overflow: auto; overscroll-behavior: contain;
+  background: var(--fondo);
   --guia-vis: color-mix(in srgb, var(--texto) 14%, transparent);
   --fondo-vis: color-mix(in srgb, var(--barra) 64%, var(--fondo));
 }
-.explorador h1 { font: 630 clamp(25px, 3vw, 39px)/1.15 var(--serif); margin-bottom: 12px; }
+.explorador-lienzo { overflow: hidden; }
 .explorador h2 { font: 600 17px/1.3 var(--serif); margin: 5px 0 8px; }
-.vis-controles { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 8px 16px; margin-bottom: 12px; }
-.vis-controles label { display: grid; gap: 3px; color: var(--tenue); font-size: 12px; min-width: 0; }
-.vis-controles .vis-check { display: flex; align-items: center; gap: 4px; min-height: 32px; }
-.vis-controles .vis-deslizador { flex: 1 0 145px; max-width: 360px; }
-.vis-controles input[type=range] { height: 29px; max-width: 100%; }
-.vis-controles select, .vis-controles input[type=number] {
-  border: 1px solid var(--guia-vis); background: var(--fondo-vis); color: var(--texto); padding: 5px 7px;
-  max-width: min(330px, 83vw); min-height: 32px; font-size: 13px;
+.vis-nota { color: var(--tenue); margin: 10px 12px; font-size: 13px; }
+.vis-lienzo, .vis-tabla { position: absolute; inset: 0; }
+.vis-lienzo { overflow: hidden; touch-action: none; cursor: grab; }
+.vis-lienzo > svg {
+  position: absolute; top: 0; left: 0; display: block; width: var(--vis-ancho, 100%); height: var(--vis-alto, 100%);
+  transform: var(--vis-transform, none); transform-origin: 0 0; user-select: none;
 }
-.vis-controles input[type=number] { width: 110px; }
-.vis-controles input { accent-color: var(--acento); }
-.vis-nota { color: var(--tenue); margin: 0 0 12px; font-size: 13px; }
-.vis-marco { overflow: auto; max-height: 75vh; border: 1px solid var(--guia-vis); background: var(--fondo-vis); }
-.vis-marco svg { display: block; width: 100%; }
-.vis-marco svg.vis-grafico { max-width: 1500px; margin-inline: auto; }
-.vis-grafico { color: var(--acento); user-select: none; }
+.vis-lienzo.arrastrando, .vis-lienzo.arrastrando *, .vis-tabla.arrastrando, .vis-paralelas.arrastrando { cursor: grabbing; user-select: none; }
+.vis-tabla, .vis-paralelas { overflow: auto; cursor: grab; }
+.explorador, .vis-tabla, .vis-paralelas, .vis-controles, .vis-resultados, .vis-vinculos-linajes, .barra-explorador ~ .flotante {
+  scrollbar-width: none;
+}
+.explorador::-webkit-scrollbar, .vis-tabla::-webkit-scrollbar, .vis-paralelas::-webkit-scrollbar,
+.vis-controles::-webkit-scrollbar, .vis-resultados::-webkit-scrollbar, .vis-vinculos-linajes::-webkit-scrollbar,
+.barra-explorador ~ .flotante::-webkit-scrollbar { display: none; }
+.vis-grafico { color: var(--acento); }
 .vis-grafico text, .vis-mapa text { fill: var(--texto); font: 12px var(--fuente); }
 .vis-grafico .vis-eje { fill: var(--tenue); font-variant-numeric: tabular-nums; }
 .vis-grafico .vis-grupo { font-weight: 650; font-size: 14px; }
@@ -269,7 +299,7 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .vis-entrada:hover, .vis-estimacion:hover, .vis-plegar:hover { background: color-mix(in srgb, var(--texto) 7%, transparent); }
 .vis-entrada i { align-self: center; width: 7px; height: 7px; flex: none; border-radius: 50%; }
 .vis-entrada small ~ small { margin-left: 0; }
-.vis-arbol { min-width: 0; overflow: auto; }
+.vis-arbol { min-width: 0; padding: 4px 10px; }
 .vis-rama { display: flex; align-items: center; gap: 5px; margin-inline-start: min(calc(var(--nivel) * 20px), 32vw); }
 .vis-rama:not(:first-child) { border-top: 1px solid var(--guia-vis); }
 .vis-rama .vis-entrada { flex-wrap: wrap; }
@@ -284,36 +314,43 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .vis-vinculo:hover, .vis-vinculo:focus-visible { opacity: 1; stroke-width: 2.5; }
 .vis-nodo-grafo rect { fill: var(--barra); stroke-opacity: .75; }
 .vis-nodo-grafo.actual rect { stroke: var(--acento); stroke-width: 2; }
-.vis-mapa { min-width: 640px; max-width: 1120px; margin-inline: auto; background: color-mix(in srgb, #37617d 17%, var(--fondo)); }
+.vis-mapa { background: color-mix(in srgb, #37617d 17%, var(--fondo)); }
 .vis-tierra { opacity: .62; }
 .vis-region-mapa.vacia { opacity: .6; }
 .vis-region-mapa circle { stroke-width: 1.2; stroke: var(--fondo); }
 .vis-region-mapa.actual circle { stroke: var(--texto); stroke-width: 2; }
 .vis-mapa .vis-total-mapa { fill: #101217; font-weight: 700; font-size: 10px; }
 .vis-mapa .vis-nombre-mapa { paint-order: stroke fill; stroke: var(--fondo); stroke-width: 2.6px; font-weight: 650; font-size: 9px; }
-.vis-pie { text-align: right; font-size: 11px; margin: 4px 0; color: var(--tenue); }
+.vis-pie { position: absolute; left: 8px; bottom: 5px; font-size: 11px; color: var(--tenue); }
+.vis-resultados, .vis-vinculos-linajes {
+  position: absolute; right: 8px; bottom: 8px; width: min(390px, calc(100% - 16px));
+  max-height: 42%; overflow: auto; background: var(--fondo-vis); box-shadow: var(--sombra);
+}
+.vis-resultados > header { display: flex; align-items: center; justify-content: space-between; gap: 6px; }
+.vis-resultados .ico { flex: none; }
+.vis-vinculos-linajes .vis-enlace { display: block; }
 .vis-pie a { text-decoration: underline; }
-.vis-corte { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 290px), 1fr)); gap: 0 20px; align-items: start; }
+.vis-corte { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 290px), 1fr)); gap: 0 20px; align-items: start; padding-inline: 10px; }
 
-.vis-matriz { border-collapse: collapse; font-size: 12.5px; }
+.vis-matriz { border-collapse: collapse; font-size: 12.5px; width: 100%; min-height: 100%; }
 .vis-matriz th, .vis-matriz td { border: 1px solid var(--guia-vis); }
 .vis-matriz th { min-width: 70px; max-width: 170px; padding: 5px 7px; font-weight: 600; }
 .vis-matriz thead th { position: sticky; top: 0; background: var(--barra); z-index: 1; }
 .vis-matriz tbody th { position: sticky; left: 0; background: var(--barra); text-align: left; }
 .vis-matriz td { padding: 0; text-align: center; color: var(--tenue); }
-.vis-matriz button { padding: 6px 4px; width: 100%; min-width: 42px; border: 0; background: transparent; color: var(--texto); cursor: pointer; position: relative; isolation: isolate; }
+.vis-matriz button { padding: 6px 4px; width: 100%; min-height: 32px; min-width: 42px; border: 0; background: transparent; color: var(--texto); cursor: pointer; position: relative; isolation: isolate; }
 .vis-matriz button::before { position: absolute; content: ""; inset: 0; background: color-mix(in srgb, var(--acento) 45%, transparent); opacity: var(--intensidad); z-index: -1; }
 .vis-matriz button:hover, .vis-matriz button[aria-pressed="true"] { outline: 1px solid var(--acento); outline-offset: -2px; }
 
-.vis-series { min-width: 910px; padding: 8px 12px; }
+.vis-series { min-width: 840px; padding: 8px 12px; }
 .vis-series section + section { border-top: 1px solid var(--guia-vis); margin-top: 8px; padding-top: 8px; }
 .vis-barras-tiempo { display: grid; grid-template-columns: repeat(var(--intervalos), minmax(0, 1fr)); gap: 2px; }
-.vis-barras-tiempo button { height: 101px; display: flex; flex-direction: column; justify-content: end; align-items: center; border: 0; background: transparent; cursor: pointer; padding: 0 2px; }
+.vis-barras-tiempo button { height: clamp(98px, calc((100dvh - var(--alto-barra-explorador) - 126px) / var(--series, 3)), 240px); display: flex; flex-direction: column; justify-content: end; align-items: center; border: 0; background: transparent; cursor: pointer; padding: 0 2px; }
 .vis-barras-tiempo button:hover, .vis-barras-tiempo button[aria-pressed="true"] { background: color-mix(in srgb, var(--texto) 8%, transparent); }
 .vis-barras-tiempo button small { margin: 0; padding: 2px 0; font-size: 10.5px; }
 .vis-barra { display: flex; align-items: flex-start; justify-content: center; position: relative; width: 48%; height: calc(var(--altura) * .66); min-height: 1px; background: var(--color-barra); }
 .vis-barra > span { position: absolute; top: -15px; color: var(--texto); font-size: 10px; font-variant-numeric: tabular-nums; }
-.vis-demografia { max-width: 980px; }
+.vis-demografia { padding: 4px 12px; }
 .vis-estimacion {
   display: grid; grid-template-columns: minmax(0,1fr) auto; gap: 4px 16px; text-align: left;
   width: 100%; padding: 7px 2px; border: 0; border-bottom: 1px solid var(--guia-vis);

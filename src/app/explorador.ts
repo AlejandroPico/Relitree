@@ -1,9 +1,11 @@
-import { ChangeDetectionStrategy, Component, ElementRef, computed, effect, inject, signal, viewChild } from '@angular/core';
+import { ChangeDetectionStrategy, Component, ElementRef, TemplateRef, computed, effect, inject, signal, viewChild } from '@angular/core';
 import { Datos, Relacion, Religion } from './datos';
 import { Estado } from './estado';
 import { I18n } from './i18n';
 import { UI } from './glifos';
-import { Grupo, NodoGrafo, POR_FECHA, ascendencia, cronograma, grafoLocal, marcasEje, origenes } from './analisis';
+import { Grupo, NodoGrafo, POR_FECHA, ascendencia, cronograma, dibujarGrafo, marcasEje, nivelesGrafo, origenes } from './analisis';
+
+import { Desplazamiento } from './desplazamiento';
 
 const MARCADORES: Record<string, [number, number, number, number]> = {
   afr: [19, 2, 0, 21], eur: [12, 51, -10, -20], opr: [41, 33, -8, 22],
@@ -22,23 +24,28 @@ const X1 = 1050;
   selector: 'app-explorador',
   changeDetection: ChangeDetectionStrategy.OnPush,
   templateUrl: './explorador.html',
+  imports: [Desplazamiento],
 })
 export class Explorador {
   private superficie = viewChild<ElementRef<HTMLElement>>('superficie');
-  private marcoGrafo = viewChild<ElementRef<HTMLElement>>('marcoGrafo');
+  readonly controles = viewChild<TemplateRef<unknown>>('controles');
+  readonly planoMapa = { ancho: 720, alto: 347 };
   readonly d = inject(Datos);
   readonly estado = inject(Estado);
   readonly i18n = inject(I18n);
   readonly ui = UI;
   readonly vista = this.estado.visualizacion;
+  readonly esSuperficieInteractiva = computed(() =>
+    ['cronologia', 'linajes', 'grafo', 'mapa', 'arcos', 'matriz'].some(vista => vista === this.vista()));
+
   readonly hoy = this.d.marcas[0];
   readonly minimo = this.d.marcas.at(-1)!;
   readonly agrupacion = signal<'territorios' | 'familias'>('territorios');
   readonly zona = signal('');
   readonly zonaArcos = signal('eur');
   readonly rama = signal('');
-  readonly foco = signal(this.d.porId.has('cristianismo') ? 'cristianismo' : this.d.religiones.at(-1)!.id);
-  readonly profundidad = signal(1);
+  readonly foco = signal('');
+  readonly profundidadElegida = signal<number | null>(null);
   readonly expandidas = signal<ReadonlySet<string> | null>(null);
   readonly comparadas = signal(['catolica', 'ortodoxa', '']);
   readonly escalaHorizontal = signal(100);
@@ -72,18 +79,6 @@ export class Explorador {
       this.vista();
       const superficie = this.superficie()?.nativeElement;
       if (superficie) superficie.scrollTop = 0;
-    });
-    effect((limpiar) => {
-      const marco = this.marcoGrafo()?.nativeElement;
-      if (!marco || !this.grafo()) return;
-      const tarea = requestAnimationFrame(() => {
-        const centro = marco.querySelector('.vis-nodo-grafo.actual');
-        if (!centro) return;
-        const m = marco.getBoundingClientRect(), c = centro.getBoundingClientRect();
-        const alto = Math.min(m.height, window.innerHeight - m.top);
-        marco.scrollBy(c.left + (c.width - m.width) / 2 - m.left, c.top + (c.height - alto) / 2 - m.top);
-      });
-      limpiar(() => cancelAnimationFrame(tarea));
     });
   }
 
@@ -164,16 +159,19 @@ export class Explorador {
     this.expandidas.set(id ? new Set([id]) : null);
   }
 
-  readonly centro = computed(() => {
-    const actual = this.foco();
-    return this.idVisibles().has(actual) ? this.d.porId.get(actual) : this.alfabeticas()[0];
-  });
-  readonly grafo = computed(() => {
-    const r = this.centro();
-    return r ? grafoLocal(r, this.relaciones(), this.d.porId, this.profundidad()) : null;
-  });
+  readonly centro = computed(() => this.idVisibles().has(this.foco()) ? this.d.porId.get(this.foco()) : undefined);
+  readonly niveles = computed(() => nivelesGrafo(this.centro(), this.visibles(), this.relaciones()));
+  readonly profundidadMax = computed(() => Math.max(0, ...Array.from(this.niveles().values(), Math.abs)));
+  readonly profundidad = computed(() => Math.min(this.profundidadElegida() ?? this.profundidadMax(), this.profundidadMax()));
+  readonly opcionesProfundidad = computed(() => Array.from({length: this.profundidadMax()}, (_, i) => i + 1));
+  cambiarFoco(id: string) {
+    this.foco.set(id);
+    this.profundidadElegida.set(null);
+  }
+  readonly grafo = computed(() => dibujarGrafo(this.niveles(), this.relaciones(), this.d.porId, this.profundidad(), this.centro()));
+  readonly centroGrafo = computed(() => this.grafo().nodos.find(n => n.r.id === this.centro()?.id));
   caminoGrafo(a: NodoGrafo, b: NodoGrafo) {
-    if (a.nivel === b.nivel || a.nivel === 100 || b.nivel === 100) {
+    if (a.nivel === b.nivel || a.nivel === Infinity || b.nivel === Infinity) {
       const sx = Math.min(a.x, b.x) - 112;
       return 'M' + a.x + ' ' + a.y + 'C' + sx + ' ' + a.y + ' ' + sx + ' ' + b.y + ' ' + b.x + ' ' + b.y;
     }
@@ -185,14 +183,14 @@ export class Explorador {
     this.comparadas.update(lista => lista.map((r, j) => i === j ? id : r));
   }
   readonly linajes = computed(() => {
-    const seleccion = [...new Set(this.comparadas().filter(id => this.idVisibles().has(id)))];
-    const conjuntos = seleccion.map(id => ({
+    const seleccion = [...new Set(this.comparadas().filter(id => id === '*' || this.idVisibles().has(id)))];
+    const conjuntos = seleccion.map(id => id === '*' ? { id, nombre: this.i18n.t('todo'), elementos: this.visibles() } : {
       id, nombre: this.d.porId.get(id)!.nombre,
       elementos: this.cadenas.get(id)!.filter(r => this.idVisibles().has(r.id)),
-    }));
-    const [primero, ...resto] = conjuntos;
+    });
+    const [primero, ...resto] = conjuntos.filter(g => g.id !== '*');
     const comun = resto.length ? [...primero.elementos].reverse().find(r => resto.every(g => g.elementos.some(e => e.id === r.id))) : undefined;
-    const ids = new Set(conjuntos.flatMap(g => g.elementos.map(r => r.id)));
+    const ids = new Set(conjuntos.filter(g => g.id !== '*').flatMap(g => g.elementos.map(r => r.id)));
     const cruzadas = this.relaciones().filter(r => !r.principal && ids.has(r.origen) && ids.has(r.destino));
     return { conjuntos, comun, cruzadas };
   });

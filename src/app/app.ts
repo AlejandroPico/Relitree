@@ -1,4 +1,5 @@
 import { ChangeDetectionStrategy, Component, HostListener, computed, effect, inject, signal, viewChild } from '@angular/core';
+import { NgTemplateOutlet } from '@angular/common';
 import { Datos, Religion } from './datos';
 import { Estado } from './estado';
 import { I18n } from './i18n';
@@ -16,7 +17,7 @@ const PORTFOLIO = 'https://alejandropico.github.io/Portfolio/';
 @Component({
   selector: 'app-root',
   changeDetection: ChangeDetectionStrategy.OnPush,
-  imports: [Lienzo, Enciclopedia, Explorador],
+  imports: [Lienzo, Enciclopedia, Explorador, NgTemplateOutlet],
   templateUrl: './app.html',
 })
 export class App {
@@ -32,6 +33,7 @@ export class App {
   resultados = computed(() => this.datos.buscar(this.consulta()));
   instalable = signal<any>(null);
   private lienzo = viewChild(Lienzo);
+  readonly explorador = viewChild(Explorador);
 
   sel = computed(() => this.datos.porId.get(this.estado.seleccion() ?? '') ?? null);
   vinculos = computed(() => {
