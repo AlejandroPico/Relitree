@@ -3,9 +3,10 @@ import { Datos, Relacion, Religion } from './datos';
 import { Estado } from './estado';
 import { I18n } from './i18n';
 import { UI } from './glifos';
-import { Grupo, NodoGrafo, POR_FECHA, ascendencia, cronograma, dibujarGrafo, marcasEje, nivelesGrafo, origenes } from './analisis';
+import { Grupo, NodoGrafo, POR_FECHA, ascendencia, cronograma, dibujarGrafo, marcasAdaptativas, nivelesGrafo, origenes, resaltarGrafo } from './analisis';
 
-import { Desplazamiento } from './desplazamiento';
+import { CamaraTemporal, Desplazamiento } from './desplazamiento';
+import { ReglaTemporal } from './regla-temporal';
 
 const MARCADORES: Record<string, [number, number, number, number]> = {
   afr: [19, 2, 0, 21], eur: [12, 51, -10, -20], opr: [41, 33, -8, 22],
@@ -17,14 +18,13 @@ const MARCADORES: Record<string, [number, number, number, number]> = {
 // Entradas generales del catálogo con independencia de su parentesco histórico.
 const CONJUNTOS = new Set(['cristianismo', 'islam', 'judaismo', 'hinduismo', 'budismo', 'sijismo',
   'jainismo', 'bahai', 'taoismo', 'sinto', 'confucianismo', 'zoroastrismo']);
-const X0 = 140;
-const X1 = 1050;
+const ANCHO_CRONOLOGICO = 1120;
 
 @Component({
   selector: 'app-explorador',
   changeDetection: ChangeDetectionStrategy.OnPush,
   templateUrl: './explorador.html',
-  imports: [Desplazamiento],
+  imports: [Desplazamiento, ReglaTemporal],
 })
 export class Explorador {
   private superficie = viewChild<ElementRef<HTMLElement>>('superficie');
@@ -49,6 +49,8 @@ export class Explorador {
   readonly expandidas = signal<ReadonlySet<string> | null>(null);
   readonly comparadas = signal(['catolica', 'ortodoxa', '']);
   readonly escalaHorizontal = signal(100);
+  readonly anchoCronologico = ANCHO_CRONOLOGICO;
+  readonly camaraTemporal = signal<CamaraTemporal>({ x: 0, y: 0, escala: 1, ancho: 0, alto: 0 });
   readonly anio = signal(this.hoy);
   readonly hasta = signal(this.hoy);
   readonly periodo = signal(false);
@@ -113,10 +115,22 @@ export class Explorador {
 
   // Cronograma general con la misma escala temporal de las vistas originales.
   readonly grupos = computed(() => this.agrupar(this.visibles()));
-  readonly cronologia = computed(() => cronograma(this.grupos().filter(g => !this.zona() || g.id === this.zona()), this.x, this.hoy));
-  readonly marcas = computed(() => marcasEje(this.d, this.x, this.minimo, this.hoy));
-  readonly x = (anio: number) => X0 + (X1 - X0) *
+  readonly densidadTemporal = computed(() => Math.min(1, (this.camaraTemporal().ancho || ANCHO_CRONOLOGICO) / ANCHO_CRONOLOGICO));
+  readonly cronologia = computed(() => cronograma(this.grupos().filter(g => !this.zona() || g.id === this.zona()), this.x, this.hoy, this.densidadTemporal()));
+  readonly x = (anio: number) => ANCHO_CRONOLOGICO *
     (this.d.yDe(this.minimo) - this.d.yDe(anio)) / (this.d.yDe(this.minimo) - this.d.yDe(this.hoy));
+
+  xPantalla(x: number) {
+    const c = this.camaraTemporal();
+    return c.x + x * c.escala;
+  }
+  readonly marcas = computed(() => {
+    const c = this.camaraTemporal();
+    const arcos = this.vista() === 'arcos' ? this.arcos() : null;
+    const x = arcos?.x ?? this.x;
+    return marcasAdaptativas(this.d.marcas, a => c.x + x(a) * c.escala, arcos?.inicio ?? this.minimo,
+      arcos?.fin ?? this.hoy, c.ancho);
+  });
 
   // Árbol jerárquico de las derivaciones principales. Un filtro puede dejar visible únicamente un subárbol.
   readonly ramas = computed(() => {
@@ -165,11 +179,19 @@ export class Explorador {
   readonly profundidad = computed(() => Math.min(this.profundidadElegida() ?? this.profundidadMax(), this.profundidadMax()));
   readonly opcionesProfundidad = computed(() => Array.from({length: this.profundidadMax()}, (_, i) => i + 1));
   cambiarFoco(id: string) {
+    this.estado.elegir(null);
     this.foco.set(id);
     this.profundidadElegida.set(null);
   }
   readonly grafo = computed(() => dibujarGrafo(this.niveles(), this.relaciones(), this.d.porId, this.profundidad(), this.centro()));
   readonly centroGrafo = computed(() => this.grafo().nodos.find(n => n.r.id === this.centro()?.id));
+  readonly focoVisualGrafo = computed(() => this.estado.seleccion() ?? this.centro()?.id);
+  readonly resalteGrafo = computed(() => resaltarGrafo(this.focoVisualGrafo(), this.grafo().enlaces.map(e => e.rel)));
+  readonly enlacesGrafo = computed(() => {
+    const { enlaces } = this.grafo(), resalte = this.resalteGrafo(), foco = this.focoVisualGrafo();
+    const prioridad = (r: Relacion) => r.origen === foco || r.destino === foco ? 2 : resalte.ramas.has(r) ? 1 : 0;
+    return foco ? [...enlaces].sort((a, b) => prioridad(a.rel) - prioridad(b.rel)) : enlaces;
+  });
   caminoGrafo(a: NodoGrafo, b: NodoGrafo) {
     if (a.nivel === b.nivel || a.nivel === Infinity || b.nivel === Infinity) {
       const sx = Math.min(a.x, b.x) - 112;
@@ -194,7 +216,7 @@ export class Explorador {
     const cruzadas = this.relaciones().filter(r => !r.principal && ids.has(r.origen) && ids.has(r.destino));
     return { conjuntos, comun, cruzadas };
   });
-  readonly graficoLinajes = computed(() => cronograma(this.linajes().conjuntos, this.x, this.hoy));
+  readonly graficoLinajes = computed(() => cronograma(this.linajes().conjuntos, this.x, this.hoy, this.densidadTemporal()));
 
   readonly amplitudTemporal = this.d.yDe(this.minimo) - this.d.yDe(this.hoy);
   readonly posicionAnio = computed(() => Math.round(this.d.yDe(this.minimo) - this.d.yDe(this.anio())));
@@ -245,15 +267,12 @@ export class Explorador {
     const nodos = this.visibles().filter(r => !region || r.region === region).sort(POR_FECHA);
     if (!nodos.length) return null;
     const ids = new Set(nodos.map(r => r.id));
-    const inicio = nodos[0].inicio, fin = Math.min(this.hoy, Math.max(inicio + 1, nodos.at(-1)!.inicio));
-    const x = (a: number) => 54 + 992 * (this.d.yDe(inicio) - this.d.yDe(a)) / Math.max(1, this.d.yDe(inicio) - this.d.yDe(fin));
-    const enlaces = this.enlacesFiltrados().filter(r => ids.has(r.origen) && ids.has(r.destino)).map(rel => {
-      const a = x(this.d.porId.get(rel.origen)!.inicio), b = x(this.d.porId.get(rel.destino)!.inicio);
-      const h = Math.min(176, 24 + Math.abs(a - b) * .21);
-      const forma = a === b ? 'C' + (a - 22) + ' ' + (206 - h) + ' ' + (a + 22) + ' ' + (206 - h)
-        : 'Q' + ((a + b) / 2) + ' ' + (206 - h * 2);
-      return { d: 'M' + a + ' 206' + forma + ' ' + b + ' 206', rel };
-    });
+    const fin = nodos.at(-1)!.inicio;
+    const inicio = Math.min(nodos[0].inicio, fin - 1);
+    const x = (a: number) => 1100 * (this.d.yDe(inicio) - this.d.yDe(a)) / Math.max(.01, this.d.yDe(inicio) - this.d.yDe(fin));
+    const enlaces = this.enlacesFiltrados().filter(r => ids.has(r.origen) && ids.has(r.destino)).map(rel => ({
+      a: x(this.d.porId.get(rel.origen)!.inicio), b: x(this.d.porId.get(rel.destino)!.inicio), rel,
+    }));
     const ocupados: number[] = [];
     const puntos = nodos.map(r => {
       const px = x(r.inicio);
@@ -262,8 +281,15 @@ export class Explorador {
       ocupados[fila] = px;
       return { r, x: px, y: 246 + fila * 15 };
     });
-    return { enlaces, puntos, marcas: marcasEje(this.d, x, inicio, fin).map(a => ({ a, x: x(a) })), alto: 265 + ocupados.length * 15 };
+    return { enlaces, puntos, inicio, fin, x, alto: 265 + ocupados.length * 15 };
   });
+
+  arcoD(a: number, b: number) {
+    const h = Math.min(176, 24 + Math.abs(a - b) * .21);
+    const forma = a === b ? 'C' + (a - 22) + ' ' + (206 - h) + ' ' + (a + 22) + ' ' + (206 - h)
+      : 'Q' + ((a + b) / 2) + ' ' + (206 - h * 2);
+    return 'M' + a + ' 206' + forma + ' ' + b + ' 206';
+  }
 
   readonly matriz = computed(() => {
     const por = this.agrupacionMatriz();

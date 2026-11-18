@@ -4,6 +4,7 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] Mapa 1.7.1 · Regla fija y fechas adaptativas en las vistas temporales, resaltado de ascendencia y descendencia en el grafo, y cartografía Natural Earth 1:50m con marcadores de tamaño acotado.
 - [x] Mapa 1.7.0 · Controles de las vistas en la barra superior, lienzos a pantalla completa con desplazamiento y zoom, y profundidad del grafo calculada a partir del catálogo.
 - [x] Mapa 1.6.1 · Fechas manuales aplicadas al escribir, ramas iniciales visibles y encuadre automático del nodo central.
 - [x] Mapa 1.6.0 · Menú Visualizaciones con doce vistas. Territorios es la vista inicial y la capa de líneas vigentes completas arranca desactivada.

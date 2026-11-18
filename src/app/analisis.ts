@@ -1,4 +1,4 @@
-import type { Datos, Relacion, Religion } from './datos';
+import type { Relacion, Religion } from './datos';
 
 export const POR_FECHA = (a: Religion, b: Religion) => a.inicio - b.inicio || b.importancia - a.importancia;
 
@@ -16,16 +16,16 @@ export function ascendencia(id: string, padres: ReadonlyMap<string, string>, por
   return camino.reverse();
 }
 
-export function cronograma(grupos: Grupo[], x: (a: number) => number, hoy: number) {
-  let y = 54;
+export function cronograma(grupos: Grupo[], x: (a: number) => number, hoy: number, densidad: number) {
+  let y = 5;
   return {
     grupos: grupos.map(grupo => {
       const inicio = y;
       const finales: number[] = [];
       const filas = [...grupo.elementos].sort(POR_FECHA).map(r => {
         const x0 = x(r.inicio), x1 = Math.max(x0 + 1, x(r.fin ?? hoy));
-        const espacio = Math.max(x1, x0 + Math.min(220, r.nombre.length * 6.5));
-        let carril = finales.findIndex(fin => fin + 12 < x0);
+        const espacio = Math.max(x1, x0 + Math.min(220, r.nombre.length * 6.5) / densidad);
+        let carril = finales.findIndex(fin => fin + 12 / densidad < x0);
         if (carril < 0) carril = finales.length;
         finales[carril] = espacio;
         return { r, x0, x1, y: inicio + 34 + carril * 28 };
@@ -87,20 +87,21 @@ export function dibujarGrafo(niveles: ReadonlyMap<string, number>, relaciones: R
     grupos.set(nivel, g);
   }
   const orden = [...grupos.keys()].sort((a, b) => a - b);
-  const altoGrafo = Math.max(232, ...[...grupos.values()].map(g => g.length * 38 + 48));
+  const pasoVertical = 49;
+  const altoGrafo = Math.max(232, ...[...grupos.values()].map(g => g.length * pasoVertical + 48));
   const columnasInfluencia = Math.max(2, orden.length);
-  const ancho = Math.max(540, orden.length * 248 + 32);
+  const ancho = Math.max(540, orden.length * 302 + 32);
   const nodos: NodoGrafo[] = orden.flatMap((nivel, i) => {
     const grupo = grupos.get(nivel)!.sort(POR_FECHA);
     return grupo.map((r, n) => ({
-      r, x: (i + .5) * ancho / orden.length, y: altoGrafo / 2 + (n - (grupo.length - 1) / 2) * 38, nivel,
+      r, x: (i + .5) * ancho / orden.length, y: altoGrafo / 2 + (n - (grupo.length - 1) / 2) * pasoVertical, nivel,
     }));
   });
   [...soloInfluencia].map(id => porId.get(id)!).sort(POR_FECHA).forEach((r, i) => {
     nodos.push({
       r, nivel: Infinity,
       x: ((i % columnasInfluencia) + .5) * ancho / columnasInfluencia,
-      y: altoGrafo + 44 + Math.floor(i / columnasInfluencia) * 38,
+      y: altoGrafo + 44 + Math.floor(i / columnasInfluencia) * pasoVertical,
     });
   });
   const puntos = new Map(nodos.map(n => [n.r.id, n]));
@@ -108,16 +109,75 @@ export function dibujarGrafo(niveles: ReadonlyMap<string, number>, relaciones: R
     const a = puntos.get(rel.origen), b = puntos.get(rel.destino);
     return a && b ? [{ a, b, rel }] : [];
   });
-  return { nodos, enlaces, ancho, alto: altoGrafo + (soloInfluencia.size ? 52 + Math.ceil(soloInfluencia.size / columnasInfluencia) * 38 : 0) };
+  return { nodos, enlaces, ancho, alto: altoGrafo + (soloInfluencia.size ? 52 + Math.ceil(soloInfluencia.size / columnasInfluencia) * pasoVertical : 0) };
 }
 
-export function marcasEje(d: Datos, x: (y: number) => number, inicio: number, fin: number, hueco = 86) {
-  const marcas = [inicio, ...d.marcas.filter(a => a > inicio && a < fin).reverse(), fin];
-  let anterior = -Infinity;
-  return marcas.filter(a => {
-    const p = x(a);
-    if (p - anterior < hueco || (a !== fin && a !== inicio && x(fin) - p < hueco)) return false;
-    anterior = p;
-    return true;
-  });
+/** Dibuja fechas redondas con una separación estable en píxeles, incluso en una escala por tramos. */
+export function marcasAdaptativas(marcas: number[], x: (anio: number) => number, inicio: number, fin: number, ancho: number) {
+  if (!ancho) return [];
+  const cortes = [inicio, ...marcas.filter(a => a > inicio && a < fin).reverse(), fin];
+  const fechas = new Set<number>([inicio, fin]);
+  const hueco = ancho < 600 ? 78 : 96;
+
+  for (let i = 1; i < cortes.length; i++) {
+    const a = cortes[i - 1], b = cortes[i], xa = x(a), xb = x(b);
+    if (xb < 0 || xa > ancho || xb <= xa) continue;
+    const porAnio = (xb - xa) / (b - a);
+    const necesario = Math.max(1, hueco / porAnio);
+    const potencia = 10 ** Math.floor(Math.log10(necesario));
+    const paso = [1, 2, 5, 10].map(n => n * potencia).find(n => n >= necesario)!;
+    const desde = a + (Math.max(xa, 0) - xa) / porAnio;
+    const hasta = a + (Math.min(xb, ancho) - xa) / porAnio;
+    for (let f = Math.ceil(desde / paso) * paso; f <= hasta; f += paso) {
+      if (f !== 0) fechas.add(f);
+    }
+    fechas.add(a);
+    fechas.add(b);
+  }
+
+  const seleccionadas: { anio: number; x: number }[] = [];
+  const insertar = (anio: number) => {
+    const p = x(anio);
+    if (anio === 0 || p < -.5 || p > ancho + .5 || seleccionadas.some(m => Math.abs(m.x - p) < hueco)) return;
+    seleccionadas.push({ anio, x: Math.min(ancho, Math.max(0, p)) });
+  };
+  insertar(inicio);
+  insertar(fin);
+  for (const a of [...fechas].sort((a, b) => a - b)) insertar(a);
+  return seleccionadas.sort((a, b) => a.x - b.x);
+}
+
+/** Sigue las ramas en cada sentido sin retroceder desde un antepasado hacia ramas laterales. */
+export function resaltarGrafo(id: string | undefined, enlaces: Relacion[]) {
+  const nodos = new Set<string>(), ramas = new Set<Relacion>();
+  if (!id) return { nodos, ramas };
+  nodos.add(id);
+  for (const [salida, entrada] of [['origen', 'destino'], ['destino', 'origen']] as const) {
+    const indice = new Map<string, Relacion[]>();
+    for (const rel of enlaces) {
+      if (rel.clase === 'influencia') continue;
+      const grupo = indice.get(rel[salida]) ?? [];
+      grupo.push(rel);
+      indice.set(rel[salida], grupo);
+    }
+    const cola = [id], vistos = new Set(cola);
+    for (let i = 0; i < cola.length; i++) {
+      for (const rel of indice.get(cola[i]) ?? []) {
+        ramas.add(rel);
+        const vecino = rel[entrada];
+        nodos.add(vecino);
+        if (!vistos.has(vecino)) {
+          vistos.add(vecino);
+          cola.push(vecino);
+        }
+      }
+    }
+  }
+  for (const rel of enlaces) {
+    if (rel.origen !== id && rel.destino !== id) continue;
+    ramas.add(rel);
+    nodos.add(rel.origen);
+    nodos.add(rel.destino);
+  }
+  return { nodos, ramas };
 }

@@ -43,7 +43,7 @@
       }
       @if (vista() === 'cronologia' || vista() === 'linajes') {
         <label>{{ i18n.t('zoomHorizontal') }}
-          <input type="range" min="35" max="800" step="1" [value]="escalaHorizontal()" (input)="escalaHorizontal.set(+$any($event.target).value)"/>
+          <input type="range" min="100" max="800" step="1" [value]="escalaHorizontal()" (input)="escalaHorizontal.set(+$any($event.target).value)"/>
         </label>
       }
       @if (vista() === 'familias') {
@@ -152,26 +152,34 @@
       } @else if (!grafico.grupos.length) {
         <p class="vis-nota">{{ i18n.t('sinEntradas') }}</p>
       } @else {
-        <div class="vis-lienzo" relDesplazamiento tabindex="0" [attr.aria-label]="i18n.t(vista())"
-             [plano]="{ancho: 1120, alto: grafico.alto}" [escena]="vista()"
-             [zoom]="escalaHorizontal()" (zoomCambio)="escalaHorizontal.set($event)">
-          <svg class="vis-grafico" [attr.viewBox]="'0 0 1120 ' + grafico.alto" role="group" [attr.aria-label]="i18n.t(vista())">
-            @for (a of marcas(); track a) {
-              <line class="vis-guia" [attr.x1]="x(a)" [attr.x2]="x(a)" y1="31" [attr.y2]="grafico.alto"/>
-              <text class="vis-eje" [attr.x]="x(a)" y="24" text-anchor="middle">{{ i18n.anio(a) }}</text>
+        @let c = camaraTemporal();
+        <rel-regla-temporal [marcas]="marcas()" [ancho]="c.ancho"/>
+        <div class="vis-lienzo vis-eje-fijo" relDesplazamiento [temporal]="true" [zoomMinimo]="100" tabindex="0" [attr.aria-label]="i18n.t(vista())"
+             [plano]="{ancho: anchoCronologico, alto: grafico.alto}" [escena]="vista()"
+             [zoom]="escalaHorizontal()" (zoomCambio)="escalaHorizontal.set($event)" (camaraCambio)="camaraTemporal.set($event)">
+          <svg class="vis-grafico vis-proyeccion-temporal" role="group" [attr.aria-label]="i18n.t(vista())">
+            @for (m of marcas(); track m.anio) {
+              <line class="vis-guia" [attr.x1]="m.x" [attr.x2]="m.x" y1="0" [attr.y2]="c.alto"/>
             }
             @for (g of grafico.grupos; track g.grupo.id) {
-              <rect class="vis-franja" x="0" [attr.y]="g.inicio" width="1120" [attr.height]="g.fin - g.inicio - 3"/>
-              <text class="vis-grupo" x="14" [attr.y]="g.inicio + 18" [style.fill]="g.grupo.color">{{ g.grupo.nombre }}</text>
-              @for (fila of g.filas; track fila.r.id) {
-                <g class="vis-punto" role="button" tabindex="0" [attr.aria-label]="fila.r.nombre"
-                   (click)="elegir(fila.r)" (keydown.enter)="elegir(fila.r)" (keydown.space)="$event.preventDefault(); elegir(fila.r)">
-                  <title>{{ fila.r.nombre }} · {{ i18n.periodo(fila.r.inicio, fila.r.fin) }}</title>
-                  <line [attr.x1]="fila.x0" [attr.x2]="fila.x1" [attr.y1]="fila.y" [attr.y2]="fila.y" [attr.stroke]="color(fila.r)" stroke-width="3"/>
-                  <circle [attr.cx]="fila.x0" [attr.cy]="fila.y" r="4" [attr.fill]="color(fila.r)" [class.vis-comun]="fila.r.id === comun?.id"/>
-                  <text [attr.x]="fila.x0 > 850 ? fila.x0 - 8 : fila.x0 + 8" [attr.y]="fila.y - 6"
-                        [attr.text-anchor]="fila.x0 > 850 ? 'end' : 'start'">{{ abreviar(fila.r.nombre, 38) }}</text>
-                </g>
+              @if (g.fin + c.y >= 0 && g.inicio + c.y <= c.alto) {
+                <rect class="vis-franja" x="0" [attr.y]="g.inicio + c.y" [attr.width]="c.ancho" [attr.height]="g.fin - g.inicio - 3"/>
+                <text class="vis-grupo" x="14" [attr.y]="g.inicio + c.y + 18" [style.fill]="g.grupo.color">{{ g.grupo.nombre }}</text>
+                @for (fila of g.filas; track fila.r.id) {
+                  @let x0 = xPantalla(fila.x0);
+                  @let x1 = xPantalla(fila.x1);
+                  @let y = fila.y + c.y;
+                  @if (x0 <= c.ancho + 5 && x1 >= -5 && y >= -12 && y <= c.alto + 16) {
+                    <g class="vis-punto" role="button" tabindex="0" [attr.aria-label]="fila.r.nombre"
+                       (click)="elegir(fila.r)" (keydown.enter)="elegir(fila.r)" (keydown.space)="$event.preventDefault(); elegir(fila.r)">
+                      <title>{{ fila.r.nombre }} · {{ i18n.periodo(fila.r.inicio, fila.r.fin) }}</title>
+                      <line [attr.x1]="x0" [attr.x2]="x1" [attr.y1]="y" [attr.y2]="y" [attr.stroke]="color(fila.r)" stroke-width="3"/>
+                      <circle [attr.cx]="x0" [attr.cy]="y" r="4" [attr.fill]="color(fila.r)" [class.vis-comun]="fila.r.id === comun?.id"/>
+                      <text [attr.x]="x0 > c.ancho - 190 ? x0 - 8 : x0 < 0 ? 8 : x0 + 8" [attr.y]="y - 6"
+                            [attr.text-anchor]="x0 > c.ancho - 190 ? 'end' : 'start'">{{ abreviar(fila.r.nombre, 38) }}</text>
+                    </g>
+                  }
+                }
               }
             }
           </svg>
@@ -212,14 +220,19 @@
                [plano]="{ancho: g.ancho, alto: g.alto}" [ajuste]="centro() ? 'natural' : 'encajar'"
                [escena]="centro()?.id ?? ''" [focoX]="centroGrafo()?.x" [focoY]="centroGrafo()?.y">
             <svg class="vis-grafico" [attr.viewBox]="'0 0 ' + g.ancho + ' ' + g.alto" role="group" [attr.aria-label]="i18n.t('grafo')">
-              @for (e of g.enlaces; track $index) {
-                <path [attr.d]="caminoGrafo(e.a, e.b)" class="vis-vinculo" [class.vis-influencia]="e.rel.clase === 'influencia'" [class.vis-secundaria]="!e.rel.principal" tabindex="0" role="button"
+              @for (e of enlacesGrafo(); track e.rel) {
+                <path [attr.d]="caminoGrafo(e.a, e.b)" class="vis-vinculo" [class.vis-influencia]="e.rel.clase === 'influencia'" [class.vis-secundaria]="!e.rel.principal"
+                      [class.vis-vinculo-activo]="resalteGrafo().ramas.has(e.rel)"
+                      [class.vis-vinculo-directo]="e.a.r.id === focoVisualGrafo() || e.b.r.id === focoVisualGrafo()"
+                      [class.vis-atenuado]="focoVisualGrafo() && !resalteGrafo().ramas.has(e.rel)" tabindex="0" role="button"
                       [attr.aria-label]="nombreRel(e.rel)" (click)="estado.elegirRelacion(e.rel)" (keydown.enter)="estado.elegirRelacion(e.rel)">
                   <title>{{ nombreRel(e.rel) }}</title>
                 </path>
               }
               @for (n of g.nodos; track n.r.id) {
-                <g class="vis-punto vis-nodo-grafo" [class.actual]="n.r.id === centro()?.id" [attr.transform]="'translate(' + n.x + ' ' + n.y + ')'"
+                <g class="vis-punto vis-nodo-grafo" [class.actual]="n.r.id === focoVisualGrafo()"
+                   [class.vis-conexo]="resalteGrafo().nodos.has(n.r.id)" [class.vis-atenuado]="focoVisualGrafo() && !resalteGrafo().nodos.has(n.r.id)"
+                   [attr.aria-pressed]="n.r.id === focoVisualGrafo()" [attr.transform]="'translate(' + n.x + ' ' + n.y + ')'"
                    role="button" tabindex="0" [attr.aria-label]="n.r.nombre" (click)="elegir(n.r)" (keydown.enter)="elegir(n.r)" (keydown.space)="$event.preventDefault(); elegir(n.r)">
                   <title>{{ n.r.nombre }} · {{ i18n.periodo(n.r.inicio, n.r.fin) }}</title>
                   <rect x="-109" y="-14" width="218" height="28" rx="4" [attr.stroke]="color(n.r)"/>
@@ -232,17 +245,19 @@
         }
       }
       @case ('mapa') {
-        <div class="vis-lienzo" relDesplazamiento [plano]="planoMapa" ajuste="encajar" tabindex="0" [attr.aria-label]="i18n.t('mapa')">
+        <div class="vis-lienzo vis-superficie-mapa" relDesplazamiento [plano]="planoMapa" [zoomMinimo]="100" ajuste="encajar" tabindex="0" [attr.aria-label]="i18n.t('mapa')">
           <svg class="vis-mapa" viewBox="0 0 720 347" role="group" [attr.aria-label]="i18n.t('mapa')">
             <image href="atlas-natural-earth.svg" width="720" height="347" class="vis-tierra"/>
             @for (p of mapa(); track p.r.id) {
-              <g class="vis-punto vis-region-mapa" [class.actual]="regionMapa() === p.r.id" [class.vacia]="!p.elementos.length"
+              <g class="vis-punto vis-region-mapa" [class.actual]="regionMapa() === p.r.id" [class.vacia]="!p.elementos.length" [attr.transform]="'translate(' + p.x + ' ' + p.y + ')'"
                 role="button" tabindex="0" [attr.aria-label]="p.r.nombre + ': ' + p.elementos.length"
                 (click)="regionMapa.set(p.r.id)" (keydown.enter)="regionMapa.set(p.r.id)" (keydown.space)="$event.preventDefault(); regionMapa.set(p.r.id)">
                 <title>{{ p.r.nombre }} · {{ p.elementos.length }} {{ i18n.t('entradasCatalogo') }}</title>
-                <circle [attr.cx]="p.x" [attr.cy]="p.y" [attr.r]="p.radio" [attr.fill]="p.r.color"/>
-                <text class="vis-total-mapa" [attr.x]="p.x" [attr.y]="p.y + 3.7" text-anchor="middle">{{ p.elementos.length }}</text>
-                <text class="vis-nombre-mapa" [attr.x]="p.x + p.dx" [attr.y]="p.y + p.dy" text-anchor="middle">{{ abreviar(p.r.nombre, 20) }}</text>
+                <g class="vis-marcador-mapa">
+                  <circle [attr.r]="p.radio" [attr.fill]="p.r.color"/>
+                  <text class="vis-total-mapa" y="3.7" text-anchor="middle">{{ p.elementos.length }}</text>
+                  <text class="vis-nombre-mapa" [attr.x]="p.dx" [attr.y]="p.dy" text-anchor="middle">{{ abreviar(p.r.nombre, 25) }}</text>
+                </g>
               </g>
             }
           </svg>
@@ -276,32 +291,36 @@
       }
       @case ('arcos') {
         @if (arcos(); as g) {
-          <div class="vis-lienzo" relDesplazamiento [plano]="{ancho: 1100, alto: g.alto}" tabindex="0" [attr.aria-label]="i18n.t('arcos')">
-            <svg class="vis-grafico" [attr.viewBox]="'0 0 1100 ' + g.alto" role="group" [attr.aria-label]="i18n.t('arcos')">
+          @let c = camaraTemporal();
+          <rel-regla-temporal [marcas]="marcas()" [ancho]="c.ancho"/>
+          <div class="vis-lienzo vis-eje-fijo" relDesplazamiento [temporal]="true" [zoomMinimo]="100" [plano]="{ancho: 1100, alto: g.alto}"
+               [escena]="zonaArcos()" (camaraCambio)="camaraTemporal.set($event)" tabindex="0" [attr.aria-label]="i18n.t('arcos')">
+            <svg class="vis-grafico vis-proyeccion-temporal" role="group" [attr.aria-label]="i18n.t('arcos')">
               <defs>
                 <marker id="flecha-arco" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
                   <path d="M0 0L8 4 0 8Z" fill="currentColor"/>
                 </marker>
               </defs>
-              <line class="vis-guia" x1="54" x2="1046" y1="206" y2="206"/>
+              @for (m of marcas(); track m.anio) {
+                <line class="vis-guia" [attr.x1]="m.x" [attr.x2]="m.x" y1="0" [attr.y2]="c.alto"/>
+              }
+              <g [attr.transform]="'translate(0 ' + c.y + ')'">
+              <line class="vis-guia" x1="0" [attr.x2]="c.ancho" y1="206" y2="206"/>
               @for (e of g.enlaces; track $index) {
-                <path class="vis-vinculo arco" [class.vis-influencia]="e.rel.clase === 'influencia'" [attr.d]="e.d"
+                <path class="vis-vinculo arco" [class.vis-influencia]="e.rel.clase === 'influencia'" [attr.d]="arcoD(xPantalla(e.a), xPantalla(e.b))"
                       marker-end="url(#flecha-arco)" tabindex="0" role="button" [attr.aria-label]="nombreRel(e.rel)"
                       (click)="estado.elegirRelacion(e.rel)" (keydown.enter)="estado.elegirRelacion(e.rel)">
                   <title>{{ nombreRel(e.rel) }}</title>
                 </path>
               }
-              @for (m of g.marcas; track m.a) {
-                <line class="vis-guia" [attr.x1]="m.x" [attr.x2]="m.x" y1="204" y2="214"/>
-                <text class="vis-eje" [attr.x]="m.x" y="229" text-anchor="middle">{{ i18n.anio(m.a) }}</text>
-              }
               @for (p of g.puntos; track p.r.id) {
                 <g class="vis-punto" role="button" tabindex="0" [attr.aria-label]="p.r.nombre"
                   (click)="elegir(p.r)" (keydown.enter)="elegir(p.r)" (keydown.space)="$event.preventDefault(); elegir(p.r)">
                   <title>{{ p.r.nombre }} · {{ i18n.anio(p.r.inicio) }}</title>
-                  <circle [attr.cx]="p.x" [attr.cy]="p.y" [attr.fill]="color(p.r)" r="5"/>
+                  <circle [attr.cx]="xPantalla(p.x)" [attr.cy]="p.y" [attr.fill]="color(p.r)" r="5"/>
                 </g>
               }
+              </g>
             </svg>
           </div>
         } @else { <p class="vis-nota">{{ i18n.t('sinEntradas') }}</p> }

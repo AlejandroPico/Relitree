@@ -361,3 +361,32 @@ app-root { --alto-barra-explorador: 48px; }
 .vis-medida { grid-column: 1 / -1; height: 9px; position: relative; background: var(--fondo-vis); }
 .vis-medida i { position: absolute; inset: 0 auto 0 0; background: var(--territorio); min-width: 1px; }
 .vis-medida .vis-rango { background: repeating-linear-gradient(135deg, var(--territorio) 0 2px, transparent 2px 5px); }
+
+/* Las fechas y los datos comparten la proyección horizontal. La regla conserva su altura. */
+.explorador { --alto-regla: 34px; }
+.vis-regla {
+  position: absolute; inset: 0 0 auto; height: var(--alto-regla);
+  background: var(--fondo); border-bottom: 1px solid var(--guia-vis);
+  overflow: hidden; color: var(--tenue); pointer-events: none; z-index: 1;
+}
+.vis-regla i { position: absolute; bottom: 0; height: 7px; width: 1px; background: var(--guia-vis); }
+.vis-regla span {
+  position: absolute; top: 5px; transform: translateX(-50%); white-space: nowrap;
+  font-size: 12px; font-variant-numeric: tabular-nums;
+}
+.vis-regla span.inicio { transform: translateX(5px); }
+.vis-regla span.fin { transform: translateX(calc(-100% - 5px)); }
+.vis-eje-fijo { top: var(--alto-regla); }
+.vis-lienzo > svg.vis-proyeccion-temporal { width: 100%; height: 100%; transform: none; }
+
+.vis-nodo-grafo.vis-atenuado { opacity: .3; }
+.vis-nodo-grafo.vis-conexo rect { stroke-opacity: 1; stroke-width: 1.65; }
+.vis-nodo-grafo.actual rect { stroke: var(--acento); stroke-width: 2.65; }
+.vis-vinculo.vis-atenuado { opacity: .13; }
+.vis-vinculo.vis-vinculo-activo { opacity: .82; stroke-width: 1.9; }
+.vis-vinculo.vis-vinculo-directo { opacity: 1; stroke-width: 3; }
+.vis-vinculo.vis-atenuado:hover, .vis-nodo-grafo.vis-atenuado:hover { opacity: 1; }
+
+.vis-superficie-mapa { background: color-mix(in srgb, #37617d 17%, var(--fondo)); }
+.vis-superficie-mapa .vis-mapa { background: transparent; }
+.vis-marcador-mapa { transform-origin: 0 0; scale: var(--vis-escala-marcas, 1); }

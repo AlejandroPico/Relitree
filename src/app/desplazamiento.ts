@@ -1,6 +1,14 @@
 import { DestroyRef, Directive, ElementRef, HostListener, effect, inject, input, output } from '@angular/core';
 
 type Plano = { ancho: number; alto: number };
+export interface CamaraTemporal {
+  x: number;
+  y: number;
+  escala: number;
+  ancho: number;
+  alto: number;
+}
+
 type Punto = { x: number; y: number };
 
 /** Navega por un SVG con un plano propio o arrastra una superficie desplazable, como la matriz. */
@@ -12,6 +20,9 @@ export class Desplazamiento {
   readonly focoX = input<number>();
   readonly focoY = input<number>();
   readonly zoom = input<number>();
+  readonly zoomMinimo = input(35);
+  readonly temporal = input(false);
+  readonly camaraCambio = output<CamaraTemporal>();
   readonly zoomCambio = output<number>();
 
   private readonly el = inject<ElementRef<HTMLElement>>(ElementRef).nativeElement;
@@ -42,6 +53,7 @@ export class Desplazamiento {
     });
     effect((limpiar) => {
       const p = this.plano(), ajuste = this.ajuste(), x = this.focoX(), y = this.focoY();
+      this.temporal(); this.zoomMinimo();
       this.escena();
       if (!p) return;
       const tarea = requestAnimationFrame(() => this.encuadrar(p, ajuste, x, y));
@@ -69,16 +81,16 @@ export class Desplazamiento {
       : ajuste === 'natural' ? Math.max(.82, porAncho) : porAncho;
     const k = this.base * this.porcentaje / 100;
     this.x = x === undefined ? 0 : this.w / 2 - x * k;
-    this.y = y === undefined ? 0 : this.h / 2 - y * k;
+    this.y = y === undefined ? 0 : this.h / 2 - y * (this.temporal() ? 1 : k);
     this.render();
   }
 
   private escalar(nuevo: number, centro: Punto, notificar: boolean, anteriores = centro) {
     if (!this.plano()) return;
-    const porcentaje = Math.max(35, Math.min(800, nuevo));
+    const porcentaje = Math.max(this.zoomMinimo(), Math.min(800, nuevo));
     const factor = porcentaje / this.porcentaje;
     this.x = centro.x - (anteriores.x - this.x) * factor;
-    this.y = centro.y - (anteriores.y - this.y) * factor;
+    this.y = centro.y - (anteriores.y - this.y) * (this.temporal() ? 1 : factor);
     this.porcentaje = porcentaje;
     this.render();
     if (notificar) this.zoomCambio.emit(Math.round(porcentaje));
@@ -91,7 +103,14 @@ export class Desplazamiento {
     const limitar = (p: number, lienzo: number, vista: number) => lienzo <= vista ? (vista - lienzo) / 2
       : Math.min(0, Math.max(vista - lienzo, p));
     this.x = limitar(this.x, p.ancho * k, this.w);
-    this.y = limitar(this.y, p.alto * k, this.h);
+    this.y = limitar(this.y, p.alto * (this.temporal() ? 1 : k), this.h);
+    if (this.temporal()) {
+      this.camaraCambio.emit({ x: this.x, y: this.y, escala: k, ancho: this.w, alto: this.h });
+      return;
+    }
+
+    const marcador = Math.min(1.4, Math.max(.95, 1.05 * Math.sqrt(this.porcentaje / 100))) / k;
+    this.el.style.setProperty('--vis-escala-marcas', String(marcador));
     this.el.style.setProperty('--vis-ancho', p.ancho + 'px');
     this.el.style.setProperty('--vis-alto', p.alto + 'px');
     this.el.style.setProperty('--vis-transform', 'translate(' + this.x + 'px,' + this.y + 'px) scale(' + k + ')');
