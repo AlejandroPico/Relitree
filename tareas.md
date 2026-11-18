@@ -5,7 +5,8 @@ Solo figura lo que falta; lo terminado se elimina de la lista.
 ## Fase A · Enciclopedia (78 fases, 859 artículos; detalle en `enciclopedia/PLAN.md`)
 - E00 · Infraestructura (pestañas, fichas, galerías, búsqueda de texto y validación de 5.000 palabras)
 - E01 · Temas generales. Textos ampliados: «Cómo leer el árbol» y «Tipos de religión». Quedan por desarrollar y revisar los otros ocho temas, con sus fuentes y recursos visuales.
-- E02–E22 · Cristianismo (fundamentos, apóstoles, 21 concilios, cismas e Inquisición, cruzadas, Reforma, expansión, época contemporánea, papas, santos y 105 tradiciones)
+- E02 · Cristianismo: fundamentos. Artículo general y vida de Jesús desarrollados. Quedan por ampliar y revisar los otros diez artículos.
+- E03–E22 · Cristianismo (apóstoles, 21 concilios, cismas e Inquisición, cruzadas, Reforma, expansión, época contemporánea, papas, santos y 105 tradiciones)
 - E23–E26 · Judaísmo
 - E27–E33 · Islam
 - E34–E41 · Hinduismo (más de 100 deidades) y sijismo

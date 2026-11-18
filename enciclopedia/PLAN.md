@@ -31,6 +31,8 @@ Avance editorial: los dos primeros artículos se han ampliado. Los otros ocho ti
 
 ## Fase E02 · Cristianismo · Fundamentos
 
+Avance editorial: «Cristianismo» y «La vida de Jesús de Nazaret» se han desarrollado por encima de 5.000 palabras. Las otras diez entradas están enlazadas y mantienen el estado de borrador.
+
 - Cristianismo (artículo principal, por épocas)
 - La vida de Jesús de Nazaret
 - Pasión, muerte y resurrección
