@@ -1,4 +1,4 @@
-import { ChangeDetectionStrategy, Component, computed, inject, signal } from '@angular/core';
+import { ChangeDetectionStrategy, Component, ElementRef, computed, effect, inject, signal, viewChild } from '@angular/core';
 import { Datos, Relacion, Religion } from './datos';
 import { Estado } from './estado';
 import { I18n } from './i18n';
@@ -24,6 +24,8 @@ const X1 = 1050;
   templateUrl: './explorador.html',
 })
 export class Explorador {
+  private superficie = viewChild<ElementRef<HTMLElement>>('superficie');
+  private marcoGrafo = viewChild<ElementRef<HTMLElement>>('marcoGrafo');
   readonly d = inject(Datos);
   readonly estado = inject(Estado);
   readonly i18n = inject(I18n);
@@ -37,7 +39,7 @@ export class Explorador {
   readonly rama = signal('');
   readonly foco = signal(this.d.porId.has('cristianismo') ? 'cristianismo' : this.d.religiones.at(-1)!.id);
   readonly profundidad = signal(1);
-  readonly expandidas = signal<ReadonlySet<string>>(new Set());
+  readonly expandidas = signal<ReadonlySet<string> | null>(null);
   readonly comparadas = signal(['catolica', 'ortodoxa', '']);
   readonly escalaHorizontal = signal(100);
   readonly anio = signal(this.hoy);
@@ -64,6 +66,26 @@ export class Explorador {
     return this.d.relaciones.filter(r => ids.has(r.origen) && ids.has(r.destino) && (influencias || r.clase !== 'influencia'));
   });
   readonly enlacesFiltrados = computed(() => this.relaciones().filter(r => !this.tipoVinculo() || r.clase === this.tipoVinculo()));
+
+  constructor() {
+    effect(() => {
+      this.vista();
+      const superficie = this.superficie()?.nativeElement;
+      if (superficie) superficie.scrollTop = 0;
+    });
+    effect((limpiar) => {
+      const marco = this.marcoGrafo()?.nativeElement;
+      if (!marco || !this.grafo()) return;
+      const tarea = requestAnimationFrame(() => {
+        const centro = marco.querySelector('.vis-nodo-grafo.actual');
+        if (!centro) return;
+        const m = marco.getBoundingClientRect(), c = centro.getBoundingClientRect();
+        const alto = Math.min(m.height, window.innerHeight - m.top);
+        marco.scrollBy(c.left + (c.width - m.width) / 2 - m.left, c.top + (c.height - alto) / 2 - m.top);
+      });
+      limpiar(() => cancelAnimationFrame(tarea));
+    });
+  }
 
   agrupar(elementos: Religion[], por: 'territorios' | 'familias' | 'tradiciones' = this.agrupacion()): Grupo[] {
     const grupos = new Map<string, Grupo>();
@@ -116,7 +138,7 @@ export class Explorador {
   });
   readonly opcionesRama = computed(() => this.alfabeticas().filter(r => this.ramas().hijos.has(r.id)));
   readonly filasArbol = computed(() => {
-    const { hijos, raices } = this.ramas(), expandidas = this.expandidas();
+    const { hijos, raices } = this.ramas(), expandidas = this.ramasAbiertas();
     const elegida = this.idVisibles().has(this.rama()) ? this.d.porId.get(this.rama()) : undefined;
     const filas: { r: Religion; nivel: number; ramas: number; abierta: boolean }[] = [];
     const recorrer = (r: Religion, nivel: number) => {
@@ -128,14 +150,18 @@ export class Explorador {
     for (const r of elegida ? [elegida] : raices) recorrer(r, 0);
     return filas;
   });
+  readonly ramasAbiertas = computed(() => {
+    const { hijos, raices } = this.ramas();
+    return this.expandidas() ?? new Set(raices.flatMap(r => [r, ...(hijos.get(r.id) ?? [])]).map(r => r.id));
+  });
   plegar(id: string) {
-    const s = new Set(this.expandidas());
+    const s = new Set(this.ramasAbiertas());
     if (s.has(id)) s.delete(id); else s.add(id);
     this.expandidas.set(s);
   }
   escogerRama(id: string) {
     this.rama.set(id);
-    if (id) this.expandidas.set(new Set([id]));
+    this.expandidas.set(id ? new Set([id]) : null);
   }
 
   readonly centro = computed(() => {
@@ -183,7 +209,15 @@ export class Explorador {
     }
     this.anio.set(this.ajustarAnio(a));
   }
-  ajustarAnio(valor: number) {
+  editarFecha(campo: HTMLInputElement, final = false, confirmar = false) {
+    const destino = final ? this.hasta : this.anio;
+    const valor = campo.valueAsNumber;
+    if (Number.isFinite(valor) && (confirmar || (valor >= this.minimo && valor <= this.hoy))) {
+      destino.set(this.ajustarAnio(valor));
+    }
+    if (confirmar) campo.value = String(destino());
+  }
+  private ajustarAnio(valor: number) {
     const a = Math.max(this.minimo, Math.min(this.hoy, Math.round(Number.isFinite(valor) ? valor : this.anio())));
     return a === 0 ? 1 : a;
   }

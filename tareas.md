@@ -4,6 +4,7 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] Mapa 1.6.1 · Fechas manuales aplicadas al escribir, ramas iniciales visibles y encuadre automático del nodo central.
 - [x] Mapa 1.6.0 · Menú Visualizaciones con doce vistas. Territorios es la vista inicial y la capa de líneas vigentes completas arranca desactivada.
 - [x] Mapa 1.5.1 · Selector entre trazado completo y compacto en ambas vistas. Fichas de tradiciones y relaciones a la derecha en horizontal para liberar el eje de fechas.
 - [x] E04 · «Concilio de Nicea I (325)», 5.161 palabras de cuerpo, cronología y tabla de fuentes.

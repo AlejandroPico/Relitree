@@ -1,4 +1,4 @@
-<main class="explorador" [attr.aria-label]="i18n.t(vista())">
+<main #superficie class="explorador" [attr.aria-label]="i18n.t(vista())">
   <h1>{{ i18n.t(vista()) }}</h1>
   @if (!visibles().length) {
     <p class="vis-nota">{{ i18n.t('sinEntradas') }}</p>
@@ -84,7 +84,7 @@
       }
       @if (vista() === 'mapa' || vista() === 'corte') {
         <label>{{ i18n.t(periodo() && vista() === 'corte' ? 'anioDesde' : 'anioVista') }}
-          <input type="number" [min]="minimo" [max]="hoy" [value]="anio()" (change)="anio.set(ajustarAnio(+$any($event.target).value)); $any($event.target).value = anio()"/>
+          <input type="number" [min]="minimo" [max]="hoy" [value]="anio()" (input)="editarFecha($any($event.target))" (change)="editarFecha($any($event.target), false, true)" (keydown.enter)="editarFecha($any($event.target), false, true)"/>
         </label>
         <label class="vis-deslizador">{{ i18n.anio(anio()) }}
           <input type="range" [attr.aria-label]="i18n.t('anioVista')" min="0" [max]="amplitudTemporal" [value]="posicionAnio()" (input)="desdeDeslizador(+$any($event.target).value)"/>
@@ -93,7 +93,7 @@
           <label class="vis-check"><input type="checkbox" [checked]="periodo()" (change)="periodo.set($any($event.target).checked)"/>{{ i18n.t('periodoHistorico') }}</label>
           @if (periodo()) {
             <label>{{ i18n.t('anioHasta') }}
-              <input type="number" [min]="minimo" [max]="hoy" [value]="hasta()" (change)="hasta.set(ajustarAnio(+$any($event.target).value)); $any($event.target).value = hasta()"/>
+              <input type="number" [min]="minimo" [max]="hoy" [value]="hasta()" (input)="editarFecha($any($event.target), true)" (change)="editarFecha($any($event.target), true, true)" (keydown.enter)="editarFecha($any($event.target), true, true)"/>
             </label>
           }
         }
@@ -205,7 +205,7 @@
       @case ('grafo') {
         @if (grafo(); as g) {
           <p class="vis-nota">{{ i18n.t('ayudaGrafo') }}</p>
-          <div class="vis-marco">
+          <div class="vis-marco" #marcoGrafo>
             <svg class="vis-grafico" [attr.viewBox]="'0 0 ' + g.ancho + ' ' + g.alto" [style.min-width.px]="g.ancho" role="group" [attr.aria-label]="i18n.t('grafo')">
               @for (e of g.enlaces; track $index) {
                 <path [attr.d]="caminoGrafo(e.a, e.b)" class="vis-vinculo" [class.vis-influencia]="e.rel.clase === 'influencia'" [class.vis-secundaria]="!e.rel.principal" tabindex="0" role="button"
