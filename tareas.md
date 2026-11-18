@@ -12,7 +12,7 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 - [x] E02 · «Pasión, muerte y resurrección».
 - [x] E02 · «Canon, apócrifos y traducciones de la Biblia» y «La Trinidad y los dogmas».
 - [x] E00 · Índice de secciones y subsecciones plegado por defecto.
-- [x] Mapa · Los giros de las ramas terminales sustituyen el tramo de tronco que solapaban.
+- [x] Mapa · Los giros terminales sustituyen el tramo de tronco que solapaban. Las ramas del mismo año que salen hacia el mismo lado se separan si coinciden en el recorrido.
 
 ## Fase A · Enciclopedia (78 fases, 859 artículos; detalle en `enciclopedia/PLAN.md`)
 - E00 · Infraestructura (pestañas, fichas, galerías y búsqueda de texto)

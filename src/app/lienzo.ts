@@ -255,6 +255,40 @@ export class Lienzo {
       giros.set(rel, radio);
       cortes.set(id, c.y + radio);
     }
+
+    // Dos destinos en el mismo lado y año necesitan recorridos distintos.
+    const coincidentes = new Map<string, Relacion[]>();
+    for (const rel of d.relaciones) {
+      if (!rel.principal) continue;
+      const p = d.porId.get(rel.origen)!, c = d.porId.get(rel.destino)!;
+      const lado = Math.sign(c.x - p.x);
+      if (!lado) continue;
+      const clave = `${p.id}:${c.y}:${lado}`;
+      const lista = coincidentes.get(clave) ?? [];
+      lista.push(rel);
+      coincidentes.set(clave, lista);
+    }
+    const desvios = new Map<Relacion, string>();
+    for (const grupo of coincidentes.values()) {
+      if (grupo.length < 2) continue;
+      const p = d.porId.get(grupo[0].origen)!;
+      const distancia = (rel: Relacion) => Math.abs(d.porId.get(rel.destino)!.x - p.x);
+      grupo.sort((a, b) => distancia(a) - distancia(b));
+      const salida = Math.min(60, distancia(grupo[0]) / 2);
+      const margen = Math.max(...grupo.map(rel => d.porId.get(rel.destino)!.r)) + 16;
+      for (const [i, rel] of grupo.slice(1).entries()) {
+        const c = d.porId.get(rel.destino)!, lado = Math.sign(c.x - p.x);
+        const xf = c.x - lado * (c.r + 1), avance = Math.abs(xf - p.x);
+        if (avance <= 2) continue;
+        const x1 = p.x + lado * Math.min(salida, avance / 3);
+        const x2 = xf - lado * Math.min(62, avance / 3);
+        const y1 = c.y + margen + i * 22;
+        // Salida desde la unión, tramo desplazado y retorno tangente cerca del destino.
+        const ida = `C${pt(p.x + (x1 - p.x) * .25, c.y + (y1 - c.y) * .65)} ${pt(p.x + (x1 - p.x) * .65, y1)} ${pt(x1, y1)}`;
+        const vuelta = `C${pt(x2 + (xf - x2) * .4, y1)} ${pt(x2 + (xf - x2) * .7, c.y)} ${pt(xf, c.y)}`;
+        desvios.set(rel, `M${pt(p.x, c.y)}${ida}${arco(y1, x1, x2)}${vuelta}`);
+      }
+    }
     for (const r of d.religiones) {
       const [X, Y] = P(r.x, r.y);
       e.pos.set(r.id, [X, Y]); e.nodos.push({ r, x: X, y: Y });
@@ -277,7 +311,9 @@ export class Lienzo {
       const w = GROSOR[c.importancia];
       if (rel.principal) {
         const rc = giros.get(rel) ?? 0;
-        const camino = rc > 1 ? `M${p.x} ${c.y + rc}Q${p.x} ${c.y} ${p.x + lado * rc} ${c.y}H${xf}` : `M${pt(p.x, c.y)}${arco(c.y, p.x, xf)}`;
+        const camino = desvios.get(rel) ?? (rc > 1
+          ? `M${p.x} ${c.y + rc}Q${p.x} ${c.y} ${p.x + lado * rc} ${c.y}H${xf}`
+          : `M${pt(p.x, c.y)}${arco(c.y, p.x, xf)}`);
         e.ramas.push({ rel, d: camino, trazo, w, punteada: rel.clase === 'renacimiento', a: p.id, b: c.id });
       } else {
         const lejos = rel.clase === 'influencia' && (p.region !== c.region || Math.abs(p.x - c.x) > 1500);
