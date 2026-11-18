@@ -1,5 +1,5 @@
-import { ChangeDetectionStrategy, Component, ElementRef, HostListener, computed, effect, inject, viewChild } from '@angular/core';
-import { Datos, Relacion, Religion } from './datos';
+import { ChangeDetectionStrategy, Component, ElementRef, HostListener, computed, effect, inject, untracked, viewChild } from '@angular/core';
+import { Datos, Relacion, Religion, Trazado } from './datos';
 import { Estado } from './estado';
 import { I18n } from './i18n';
 import { GLIFOS } from './glifos';
@@ -75,10 +75,10 @@ export class EjeTiempo {
     </div>`,
 })
 export class EjeRegiones {
-  private datos = inject(Datos); private estado = inject(Estado);
+  private estado = inject(Estado);
   franjas = computed(() => {
     const v = this.estado.vista();
-    return this.datos.regiones.map((r) => {
+    return this.estado.trazado().regiones.map((r) => {
       const a = Math.max(r.x * v.k + v.tx + 3, 76), b = Math.min((r.x + r.ancho) * v.k + v.tx - 3, v.w);
       return { id: r.id, nombre: r.nombre, color: r.color, x0: a, w: b - a, cx: (a + b) / 2 };
     }).filter((f) => f.w > 24);
@@ -178,17 +178,17 @@ export class Lienzo {
   private arrastre = 0; private pendiente = 0; private animacion = 0;
   private etq: SVGGElement[] = []; private prioridad: number[] = [];
 
-  escena = computed<Escena>(() => this.construir(this.estado.radial()));
+  escena = computed<Escena>(() => this.construir(this.estado.radial(), this.estado.trazado()));
 
   constructor() {
-    effect(() => { const o = this.estado.irA(); if (o) this.volar(o.id); });
+    effect(() => { const o = this.estado.irA(); if (o) untracked(() => this.volar(o.id)); });
     effect(() => { this.escena(); this.etq = []; setTimeout(() => this.inicio()); });
     effect(() => { this.estado.seleccion(); this.estado.ocultos(); setTimeout(() => this.aplicar()); });
   }
 
   // ---- Geometría ---------------------------------------------------------------------
-  private construir(radial: boolean): Escena {
-    const d = this.datos, A = d.ancho, H = d.alto;
+  private construir(radial: boolean, plano: Trazado): Escena {
+    const d = this.datos, A = plano.ancho, H = d.alto;
     // El radio interior crece con el ancho para conservar la separación de los carriles.
     const R_INT = Math.max(260, A * .65 / (2 * Math.PI - HUECO));
     const R_EXT = R_INT + H, C = R_EXT + 900;
@@ -220,7 +220,7 @@ export class Lienzo {
     };
 
     const e: Escena = { ancho: radial ? 2 * C : A, alto: radial ? 2 * C : H, bandas: [], rejilla: [], vidas: [], ramas: [], influencias: [], lejanas: [], nodos: [], degradados: [], rotulos: [], pos: new Map() };
-    for (const g of d.regiones) {
+    for (const g of plano.regiones) {
       const x1 = g.x, x2 = g.x + g.ancho;
       e.bandas.push({ color: g.color, d: radial
         ? `M${pt(x1, H)}L${pt(x1, 0)}${arco(0, x1, x2)}L${pt(x2, H)}A${R_INT} ${R_INT} 0 0 0 ${pt(x1, H)}Z`
@@ -239,7 +239,7 @@ export class Lienzo {
     if (!radial) {
       for (const rel of d.relaciones) {
         if (!rel.principal) continue;
-        const p = d.porId.get(rel.origen)!, c = d.porId.get(rel.destino)!;
+        const p = plano.porId.get(rel.origen)!, c = plano.porId.get(rel.destino)!;
         if (p.fin === null || Math.abs(p.yFin - c.y) > 0.1) continue;
         const lista = finales.get(p.id) ?? [];
         lista.push(rel);
@@ -250,7 +250,7 @@ export class Lienzo {
     const cortes = new Map<string, number>();
     for (const [id, ramas] of finales) {
       if (ramas.length !== 1) continue;
-      const rel = ramas[0], p = d.porId.get(id)!, c = d.porId.get(rel.destino)!;
+      const rel = ramas[0], p = plano.porId.get(id)!, c = plano.porId.get(rel.destino)!;
       const lado = Math.sign(c.x - p.x);
       if (!lado) continue;
       const libre = Math.abs(c.x - p.x) - c.r - 1;
@@ -266,7 +266,7 @@ export class Lienzo {
     const coincidentes = new Map<string, Relacion[]>();
     for (const rel of d.relaciones) {
       if (!rel.principal) continue;
-      const p = d.porId.get(rel.origen)!, c = d.porId.get(rel.destino)!;
+      const p = plano.porId.get(rel.origen)!, c = plano.porId.get(rel.destino)!;
       const lado = Math.sign(c.x - p.x);
       if (!lado) continue;
       const clave = `${p.id}:${c.y}:${lado}`;
@@ -277,14 +277,14 @@ export class Lienzo {
     const desvios = new Map<Relacion, string>();
     for (const grupo of coincidentes.values()) {
       if (grupo.length < 2) continue;
-      const p = d.porId.get(grupo[0].origen)!;
-      const distancia = (rel: Relacion) => Math.abs(d.porId.get(rel.destino)!.x - p.x);
+      const p = plano.porId.get(grupo[0].origen)!;
+      const distancia = (rel: Relacion) => Math.abs(plano.porId.get(rel.destino)!.x - p.x);
       grupo.sort((a, b) => distancia(a) - distancia(b));
-      const margen = Math.max(...grupo.map(rel => d.porId.get(rel.destino)!.r)) + 16;
-      const libre = Math.max(0, p.y - d.porId.get(grupo[0].destino)!.y - p.r - 8);
+      const margen = Math.max(...grupo.map(rel => plano.porId.get(rel.destino)!.r)) + 16;
+      const libre = Math.max(0, p.y - plano.porId.get(grupo[0].destino)!.y - p.r - 8);
       const paso = Math.min(22, Math.max(0, libre - margen) / Math.max(1, grupo.length - 2));
       for (const [i, rel] of grupo.slice(1).entries()) {
-        const c = d.porId.get(rel.destino)!, lado = Math.sign(c.x - p.x);
+        const c = plano.porId.get(rel.destino)!, lado = Math.sign(c.x - p.x);
         const xf = c.x - lado * (c.r + 1), avance = Math.abs(xf - p.x);
         if (avance <= 2) continue;
         const x2 = xf - lado * Math.min(76, avance / 3);
@@ -299,7 +299,7 @@ export class Lienzo {
         desvios.set(rel, `M${pt(p.x, y1)}${arco(y1, p.x, x2)}${tramo}`);
       }
     }
-    for (const r of d.religiones) {
+    for (const r of plano.religiones) {
       const [X, Y] = P(r.x, r.y);
       e.pos.set(r.id, [X, Y]); e.nodos.push({ r, x: X, y: Y });
       const yFinal = cortes.get(r.id) ?? r.yFin;
@@ -309,7 +309,7 @@ export class Lienzo {
       }
     }
     for (const rel of d.relaciones) {
-      const p = d.porId.get(rel.origen)!, c = d.porId.get(rel.destino)!;
+      const p = plano.porId.get(rel.origen)!, c = plano.porId.get(rel.destino)!;
       const lado = Math.sign(c.x - p.x) || 1, xf = c.x - lado * (c.r + 1);
       let trazo = d.region.get(c.region)!.color;
       const sy = Math.min(p.y, Math.max(p.yFin, c.y));
@@ -359,6 +359,7 @@ export class Lienzo {
   private tam() { const b = this.svg().nativeElement.getBoundingClientRect(); return { w: b.width, h: b.height }; }
   /** Vista inicial: el árbol completo encajado en pantalla. */
   private inicio() {
+    cancelAnimationFrame(this.animacion);
     const { w, h } = this.tam(), e = this.escena(), radial = this.estado.radial();
     const mx = radial ? 20 : 84, my = radial ? 20 : 50;
     this.kMin = Math.min((w - mx - 16) / e.ancho, (h - my - 12) / e.alto) * 0.92;
@@ -455,7 +456,12 @@ export class Lienzo {
     const p = this.escena().pos.get(id); if (!p) return;
     const { w, h } = this.tam();
     const k1 = Math.max(this.k, 0.8), a = { k: this.k, tx: this.tx, ty: this.ty };
-    const b = { k: k1, tx: (w + 380) / 2 - p[0] * k1, ty: h / 2 - p[1] * k1 };
+    // En horizontal la ficha queda a la derecha. Centra el nodo en la parte visible del mapa.
+    const apaisado = matchMedia('(orientation: landscape)').matches;
+    const limiteIzquierdo = this.estado.radial() ? 0 : 76;
+    const bordeFicha = w - Math.min(372, w / 2) - 12;
+    const centroX = apaisado ? (limiteIzquierdo + bordeFicha) / 2 : (w + 380) / 2;
+    const b = { k: k1, tx: centroX - p[0] * k1, ty: h / 2 - p[1] * k1 };
     const t0 = performance.now(), dur = 850;
     cancelAnimationFrame(this.animacion);
     const paso = (t: number) => {

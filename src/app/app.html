@@ -29,6 +29,9 @@
         <label><input type="checkbox" [checked]="estado.capaInfluencias()" (change)="estado.capaInfluencias.set($any($event.target).checked)"/>{{ i18n.t('influencias') }}</label>
         <label><input type="checkbox" [checked]="estado.capaExtintas()" (change)="estado.capaExtintas.set($any($event.target).checked)"/>{{ i18n.t('extintas') }}</label>
         <label><input type="checkbox" [checked]="estado.capaRejilla()" (change)="estado.capaRejilla.set($any($event.target).checked)"/>{{ i18n.t('rejilla') }}</label>
+        @if (datos.tieneTrazadoCompacto) {
+          <label><input type="checkbox" [checked]="estado.vidasCompletas()" (change)="estado.vidasCompletas.set($any($event.target).checked)"/>{{ i18n.t('vidasHastaHoy') }}</label>
+        }
         <label class="rango">{{ i18n.t('importancia') }}
           <input type="range" min="1" max="5" [value]="estado.impMin()" (input)="estado.impMin.set(+$any($event.target).value)"/><b>{{ estado.impMin() }}</b></label>
         <h4>{{ i18n.t('territorios') }} <a (click)="todos('regionesOff', idsRegiones(), true)">{{ i18n.t('todo') }}</a><a (click)="todos('regionesOff', idsRegiones(), false)">{{ i18n.t('nada') }}</a></h4>
@@ -48,7 +51,7 @@
     }
     @case ('leyenda') {
       <div class="flotante leyenda">
-        <p><svg viewBox="0 0 60 16"><path d="M4 8H56" stroke-width="5"/></svg>{{ i18n.t('lVida') }}</p>
+        <p><svg viewBox="0 0 60 16"><path d="M4 8H56" stroke-width="5"/></svg>{{ i18n.t(estado.vidasCompletas() ? 'lVida' : 'lVidaCompacta') }}</p>
         <p><svg viewBox="0 0 60 16"><path d="M4 13V5H56" stroke-width="3"/></svg>{{ i18n.t('lRama') }}</p>
         <p><svg viewBox="0 0 60 16"><path d="M4 13C30 13 30 3 56 3" stroke-width="1.8"/></svg>{{ i18n.t('lSecundaria') }}</p>
         <p><svg viewBox="0 0 60 16"><path d="M4 8H56" stroke-width="3" stroke-dasharray="1 7"/></svg>{{ i18n.t('lRenacer') }}</p>

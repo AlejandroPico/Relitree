@@ -45,7 +45,7 @@ El idioma base es `es`. Para traducir: copiar `i18n/es/` a `i18n/<idioma>/` y `e
 - **Selección**: resalta todo el linaje ascendente, todo el árbol que desciende y las influencias directas.
 - **Etiquetas**: en cada nivel de zoom se muestran todas las que caben sin pisarse, por orden de importancia.
 - **Vista radial**: la misma geometría en polares (ángulo = posición horizontal, radio = tiempo; lo más antiguo en el centro).
-- El trazado asigna un carril exclusivo por tradición dentro de su territorio. Coloca primero los orígenes más antiguos y reserva para sus ramas los carriles libres más cercanos disponibles por orden cronológico. Las marcas del tramo más antiguo tienen separación visual uniforme.
+- La capa «Todas las líneas vigentes hasta hoy» se activa por defecto. El trazado completo asigna un carril exclusivo por tradición. Al desactivar la capa, el plano compacto permite compartir carriles en intervalos separados y dibuja las líneas de menor importancia solo hasta su última rama. SQLite incluye las coordenadas de ambos planos. El selector actualiza la geometría de ambas vistas, el eje de territorios y el exportador SVG. En el plano completo los orígenes más antiguos se colocan primero y sus ramas reciben los carriles libres más cercanos por orden cronológico. Las marcas del tramo más antiguo tienen separación visual uniforme.
 
 ## Flujo de trabajo
 

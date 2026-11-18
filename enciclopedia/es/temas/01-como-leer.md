@@ -1,7 +1,7 @@
 ---
 estado: completo
 fase: E01
-palabras: 5260
+palabras: 5363
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://github.com/AlejandroPico/Relitree/blob/main/backend/relitree/escala.py"
@@ -74,7 +74,7 @@ En columnas, el eje horizontal reúne once territorios. La vista radial transfor
 | ¿Dónde viven hoy sus miembros? | Encuestas y censos con fecha y método |
 | ¿Qué tradiciones de otras regiones influyeron en esta? | Relaciones, nombres de origen y bibliografía |
 
-La anchura de las bandas responde a la colocación de los nodos. Cada tradición tiene su propio carril, incluso cuando su intervalo de vida coincide por completo con el de varias tradiciones de la misma región. Al colocar dos ramas de un mismo origen en una región, la más antigua dispone primero del carril libre más cercano a ese origen. Las demás ocupan los siguientes espacios disponibles. Un sector radial amplio ocupa el espacio que necesita su disposición. Las dimensiones de los sectores representan la geometría del dibujo y los nombres de las regiones indican el territorio asociado a cada entrada.
+La anchura de las bandas responde a la colocación de los nodos. En el trazado completo, cada tradición tiene su propio carril, incluso cuando su intervalo de vida coincide por completo con el de varias tradiciones de la misma región. Al colocar dos ramas de un mismo origen en una región, la más antigua dispone primero del carril libre más cercano a ese origen. Las demás ocupan los siguientes espacios disponibles. Un sector radial amplio ocupa el espacio que necesita su disposición. Las dimensiones de los sectores representan la geometría del dibujo y los nombres de las regiones indican el territorio asociado a cada entrada.
 
 La posición de izquierda a derecha en una columna también obedece al trazado. Si dos nodos tienen carriles contiguos, esa cercanía puede venir de su filiación, de la necesidad de dejar espacio para otras líneas o de ambos factores. El criterio firme para leer la relación es el enlace que une los nodos y el texto de su ficha. Esto resulta especialmente importante en grupos densos, en los que se cruzan muchas líneas. Conviene seleccionar un nodo, observar qué relaciones resalta la interfaz y después abrir la relación o el artículo que se quiere interpretar.
 
@@ -90,7 +90,9 @@ Para observar esta distinción, elige dos ramas próximas que compartan un símb
 
 ### Cuándo termina la línea dibujada
 
-La línea de vida parte del nodo y corre hacia fechas posteriores. Si la ficha termina en «Hoy», la parte continua de la línea llega hasta la marca del presente. En columnas lo hace de abajo arriba. En radial avanza hacia el anillo exterior. Si la ficha indica una fecha de fin, la línea continua termina en esa fecha. Puede haber además una prolongación punteada cuando una rama posterior necesita conectarse con su origen. El aro discontinuo del nodo y las fechas que figuran en la ficha permiten confirmar el estado asignado en el catálogo.
+La línea de vida parte del nodo y corre hacia fechas posteriores. Con la capa de líneas completas activa, si la ficha termina en «Hoy», la parte continua de la línea llega hasta la marca del presente. En columnas lo hace de abajo arriba. En radial avanza hacia el anillo exterior. Si la ficha indica una fecha de fin, la línea continua termina en esa fecha. Puede haber además una prolongación punteada cuando una rama posterior necesita conectarse con su origen. El aro discontinuo del nodo y las fechas que figuran en la ficha permiten confirmar el estado asignado en el catálogo.
+
+En «Filtros y capas», la opción «Todas las líneas vigentes hasta hoy» está marcada al entrar. Al desmarcarla se aplica el trazado compacto. Los troncos principales conservan su línea y las tradiciones secundarias solo la dibujan hasta su última rama. Cuando ninguna rama sale de una tradición secundaria, el símbolo basta para situar su inicio. Esto permite que dos nodos de periodos distintos ocupen el mismo carril. La fecha de la ficha sigue indicando el estado de cada tradición. Las dos vistas usan la misma opción y reajustan su encuadre al cambiarla.
 
 Imagina una escuela vigente desde 1500 de la que se separa una comunidad en 1750. A esa altura aparece una rama hacia el nuevo nodo y la línea de la escuela sigue hasta hoy. La comunidad derivada ocupa su carril, con el final que figure en su propia ficha. Otro caso parte de una comunidad antigua con una fecha de fin y de un movimiento moderno que recupera elementos suyos. Si el gráfico prolonga la línea antigua hasta alcanzar la rama moderna, el tramo posterior a su final queda punteado. Así se puede seguir el enlace y localizar por separado el periodo de actividad de la comunidad anterior.
 

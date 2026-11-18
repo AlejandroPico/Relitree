@@ -19,11 +19,11 @@ CREATE TABLE metadatos (clave TEXT PRIMARY KEY, valor TEXT);
 CREATE TABLE idiomas (id TEXT PRIMARY KEY);
 CREATE TABLE interfaz (idioma TEXT, clave TEXT, texto TEXT, PRIMARY KEY (idioma, clave));
 CREATE TABLE nombres (idioma TEXT, clase TEXT, id TEXT, nombre TEXT, PRIMARY KEY (idioma, clase, id));
-CREATE TABLE regiones (id TEXT PRIMARY KEY, orden INTEGER, color TEXT, x REAL, ancho REAL);
+CREATE TABLE regiones (id TEXT PRIMARY KEY, orden INTEGER, color TEXT, x REAL, ancho REAL, x_compacto REAL, ancho_compacto REAL);
 CREATE TABLE tipos (id TEXT PRIMARY KEY, orden INTEGER);
 CREATE TABLE religiones (
   id TEXT PRIMARY KEY, region TEXT REFERENCES regiones(id), inicio INTEGER, fin INTEGER,
-  tipo TEXT REFERENCES tipos(id), importancia INTEGER, x REAL, y REAL, y_fin REAL,
+  tipo TEXT REFERENCES tipos(id), importancia INTEGER, x REAL, y REAL, y_fin REAL, x_compacto REAL, y_fin_compacto REAL,
   icono TEXT, icono_credito TEXT, icono_heredado INTEGER, fieles INTEGER, fieles_max INTEGER, fieles_fuente TEXT);
 CREATE TABLE textos (idioma TEXT, id TEXT, nombre TEXT, busqueda TEXT, resumen TEXT, PRIMARY KEY (idioma, id));
 CREATE TABLE relaciones (origen TEXT, destino TEXT, clase TEXT, principal INTEGER);
@@ -154,6 +154,7 @@ def main() -> int:
         print("\n".join(errores), file=sys.stderr)
         return 1
     plano = trazado.calcular(religiones)
+    compacto = trazado.calcular(religiones, compacto=True)
 
     SALIDA.mkdir(parents=True, exist_ok=True)
     medios = DIR_ENCICLOPEDIA / "medios"
@@ -172,26 +173,31 @@ def main() -> int:
     meta = {
         "version": VERSION, "generado": date.today().isoformat(), "idioma_base": modelo.IDIOMA_BASE,
         "ancho": plano["ancho_total"], "alto": escala.ALTO_TOTAL,
+        "ancho_compacto": compacto["ancho_total"],
         "tramos": json.dumps(escala.TRAMOS), "marcas": json.dumps(escala.MARCAS),
         "margen_superior": escala.MARGEN_SUPERIOR,
     }
     bd.executemany("INSERT INTO metadatos VALUES (?,?)", [(k, str(v)) for k, v in meta.items()])
     geo = {g["id"]: g for g in plano["regiones"]}
-    bd.executemany("INSERT INTO regiones VALUES (?,?,?,?,?)",
-                   [(i, n, color, geo[i]["x"], geo[i]["ancho"]) for n, (i, color) in enumerate(REGIONES)])
+    geo_compacta = {g["id"]: g for g in compacto["regiones"]}
+    bd.executemany("INSERT INTO regiones VALUES (?,?,?,?,?,?,?)", [
+        (i, n, color, geo[i]["x"], geo[i]["ancho"], geo_compacta[i]["x"], geo_compacta[i]["ancho"])
+        for n, (i, color) in enumerate(REGIONES)
+    ])
     bd.executemany("INSERT INTO tipos VALUES (?,?)", [(t, n) for n, t in enumerate(TIPOS)])
 
     for r in religiones.values():
         p = plano["posiciones"][r.id]
+        pc = compacto["posiciones"][r.id]
         origen, heredado = modelo.icono_de(r, religiones)
         icono = credito = None
         if origen:
             shutil.copyfile(modelo.DIR_RELIGIONES / origen / "icono.svg", iconos / f"{origen}.svg")
             icono = f"datos/iconos/{origen}.svg"
             credito = json.dumps(religiones[origen].icono, ensure_ascii=False) if religiones[origen].icono else None
-        bd.execute("INSERT INTO religiones VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+        bd.execute("INSERT INTO religiones VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
                    (r.id, r.region, r.inicio, r.fin, r.tipo, r.importancia, p["x"], p["y"], p["y_fin"],
-                    icono, credito, int(heredado), r.fieles, r.fieles_max, r.fieles_fuente))
+                    pc["x"], pc["y_fin"], icono, credito, int(heredado), r.fieles, r.fieles_max, r.fieles_fuente))
         for n, padre in enumerate(r.padres):
             bd.execute("INSERT INTO relaciones VALUES (?,?,?,?)",
                        (padre["id"], r.id, padre.get("relacion", "derivacion"), 1 if n == 0 else 0))

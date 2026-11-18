@@ -50,3 +50,28 @@ def test_tramos_antiguos_visualmente_regulares():
     ]
     assert min(saltos) >= 149.99
     assert all(math.isclose(salto, saltos[0], abs_tol=0.01) for salto in saltos)
+
+
+def test_trazado_compacto_reutiliza_carriles_y_recorta_lineas():
+    religiones = modelo.cargar()
+    completo = trazado.calcular(religiones)
+    compacto = trazado.calcular(religiones, compacto=True)
+    assert compacto["ancho_total"] < completo["ancho_total"]
+    assert set(compacto["posiciones"]) == set(completo["posiciones"])
+    posiciones = compacto["posiciones"]
+    assert len({p["x"] for p in posiciones.values()}) < len(religiones)
+
+    hijos = defaultdict(list)
+    for r in religiones.values():
+        if r.padre:
+            hijos[r.padre].append(r.inicio)
+    for r in religiones.values():
+        ay = posiciones[r.id]
+        assert ay["y"] == completo["posiciones"][r.id]["y"]
+        if r.importancia >= trazado.IMPORTANCIA_TRONCO:
+            cima = completo["posiciones"][r.id]["y_fin"]
+        else:
+            cima = escala.y_de(max([r.inicio, *hijos[r.id]]))
+        assert math.isclose(ay["y_fin"], cima, abs_tol=0.1), r.id
+        g = next(g for g in compacto["regiones"] if g["id"] == r.region)
+        assert g["x"] < ay["x"] < g["x"] + g["ancho"]

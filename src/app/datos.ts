@@ -12,6 +12,9 @@ export interface Religion {
   fieles: number | null; fielesMax: number | null; fielesFuente: string | null;
   lineas: string[]; r: number;
 }
+export interface Trazado {
+  ancho: number; regiones: Region[]; religiones: Religion[]; porId: ReadonlyMap<string, Religion>;
+}
 export interface Relacion { origen: string; destino: string; clase: string; principal: boolean; }
 export interface Articulo { id: string; grupo: string; padre: string | null; titulo: string; html?: string; orden?: number | null; }
 
@@ -32,6 +35,7 @@ export class Datos {
   relaciones: Relacion[] = [];
   indice: Articulo[] = [];
   ancho = 0; alto = 0;
+  private compacto: Trazado | null = null;
   private tramos: [number, number, number][] = [];
   marcas: number[] = [];
 
@@ -57,10 +61,12 @@ export class Datos {
 
       this.ancho = +this.meta['ancho']; this.alto = +this.meta['alto'];
       this.tramos = JSON.parse(this.meta['tramos']); this.marcas = JSON.parse(this.meta['marcas']);
-      this.regiones = this.filas('SELECT * FROM regiones ORDER BY orden').map((r) => ({ ...r, nombre: nombres.get('region:' + r.id) ?? r.id }));
+      const filasRegiones = this.filas('SELECT * FROM regiones ORDER BY orden');
+      this.regiones = filasRegiones.map((r) => ({ ...r, nombre: nombres.get('region:' + r.id) ?? r.id }));
       this.regiones.forEach((r) => this.region.set(r.id, r));
       for (const t of this.filas('SELECT id FROM tipos ORDER BY orden')) this.tipos.set(t.id, nombres.get('tipo:' + t.id) ?? t.id);
-      this.religiones = this.filas('SELECT * FROM religiones ORDER BY importancia, inicio').map((f: any) => {
+      const filasReligiones = this.filas('SELECT * FROM religiones ORDER BY importancia, inicio');
+      this.religiones = filasReligiones.map((f) => {
         const t = textos.get(f.id) ?? { nombre: f.id, resumen: '' };
         return {
           ...f, nombre: t.nombre, resumen: t.resumen, yFin: f.y_fin, heredado: !!f.icono_heredado,
@@ -69,6 +75,17 @@ export class Datos {
         };
       });
       this.religiones.forEach((r) => this.porId.set(r.id, r));
+      if (this.meta['ancho_compacto']) {
+        const regiones = this.regiones.map((r, i) => ({
+          ...r, x: filasRegiones[i].x_compacto, ancho: filasRegiones[i].ancho_compacto,
+        }));
+        const religiones = this.religiones.map((r, i) => ({
+          ...r, x: filasReligiones[i].x_compacto, yFin: filasReligiones[i].y_fin_compacto,
+        }));
+        this.compacto = {
+          ancho: +this.meta['ancho_compacto'], regiones, religiones, porId: new Map(religiones.map((r) => [r.id, r])),
+        };
+      }
       this.relaciones = this.filas('SELECT * FROM relaciones').map((f: any) => ({ ...f, principal: !!f.principal }));
       const indice = new Map<string, Articulo>();
       const tieneOrden = this.filas('PRAGMA table_info(articulos)').some((columna) => columna.name === 'orden');
@@ -82,6 +99,9 @@ export class Datos {
       this.error.set(String(e?.message ?? e));
     }
   }
+
+  get tieneTrazadoCompacto(): boolean { return this.compacto !== null; }
+  trazado(vidasCompletas: boolean): Trazado { return !vidasCompletas && this.compacto ? this.compacto : this; }
 
   private filas(sql: string, params: any[] = []): any[] {
     const st = this.bd.prepare(sql); st.bind(params);

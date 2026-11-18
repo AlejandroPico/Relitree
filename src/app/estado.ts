@@ -20,6 +20,8 @@ export class Estado {
   readonly capaInfluencias = signal(true);
   readonly capaExtintas = signal(true);
   readonly capaRejilla = signal(true);
+  readonly vidasCompletas = signal(true);
+  readonly trazado = computed(() => this.datos.trazado(this.vidasCompletas()));
 
   readonly ocultos = computed(() => {
     const reg = this.regionesOff(), tip = this.tiposOff(), imp = this.impMin(), ext = this.capaExtintas();
