@@ -1,7 +1,7 @@
 ---
 estado: completo
 fase: E02
-palabras: 5556
+palabras: 5202
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/christian-population-change/"
   - "https://assets.cambridge.org/97805218/12399/frontmatter/9780521812399_frontmatter.pdf"

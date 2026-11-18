@@ -104,7 +104,7 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .acciones { margin-top: 22px; }
 
 /* ---- Enciclopedia ---- */
-.enciclopedia { position: fixed; inset: 0; z-index: 20; background: var(--fondo); display: grid; grid-template-columns: 300px 1fr; animation: aparece .25s; }
+.enciclopedia { position: fixed; inset: 0; z-index: 20; background: var(--fondo); display: grid; grid-template-columns: clamp(15rem, 19vw, 22rem) minmax(0, 1fr); animation: aparece .25s; }
 @keyframes aparece { from { opacity: 0; } }
 .enciclopedia nav { padding: 18px 8px 0 18px; display: flex; flex-direction: column; min-height: 0; }
 .enciclopedia .indice { overflow: auto; flex: 1; padding: 6px 8px 30px 0; }
@@ -115,7 +115,7 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .enciclopedia summary::-webkit-details-marker { display: none; }
 .enciclopedia summary small { color: var(--tenue); letter-spacing: 0; }
 .enciclopedia .subindice { padding-inline-start: .85rem; }
-.enciclopedia .rama-indice > summary { justify-content: flex-start; align-items: baseline; gap: .45em; margin: 6px 0; text-transform: none; letter-spacing: normal; font-size: 13.5px; }
+.enciclopedia .rama-indice > summary { font-weight: 400; justify-content: flex-start; align-items: baseline; gap: .45em; margin: 6px 0; text-transform: none; letter-spacing: normal; font-size: 13.5px; }
 .enciclopedia .rama-indice > summary::before { content: '▸'; flex: none; }
 .enciclopedia .rama-indice[open] > summary::before { content: '▾'; }
 .enciclopedia .indice-movil { display: none; }
@@ -123,7 +123,7 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .enciclopedia .indice a { display: block; padding: 4px 9px; border-radius: 7px; font-size: 13.5px; color: var(--tenue); }
 .enciclopedia .indice a:hover { color: var(--texto); }
 .enciclopedia .indice a.activo { color: var(--texto); background: color-mix(in srgb, var(--texto) 8%, transparent); }
-.enciclopedia article { overflow: auto; position: relative; }
+.enciclopedia article { overflow: auto; position: relative; scroll-padding-top: 76px; }
 .enciclopedia header { position: sticky; top: 0; display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); align-items: center; gap: 4px; padding: 8px 12px; background: linear-gradient(var(--fondo) 70%, transparent); z-index: 1; }
 .enc-cabecera-indice { grid-column: 1; justify-self: start; }
 .enc-cabecera-acciones { grid-column: 3; justify-self: end; display: flex; gap: 2px; }
@@ -151,7 +151,7 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
   .enciclopedia app-lector-enciclopedia { grid-column: 1 / -1; grid-row: 2; }
 }
 
-.enciclopedia .texto { padding: 0 6vw 90px 3vw; max-width: 1500px; }
+.enciclopedia .texto { padding: 0 clamp(12px, 2.4vw, 48px) 90px; min-width: 0; }
 .enciclopedia .cabecera { display: flex; gap: 22px; align-items: center; margin-bottom: 26px; }
 .enciclopedia .cabecera .simbolo { margin: 0; width: 92px; height: 92px; flex: none; }
 .enciclopedia h1 { font: 600 clamp(30px, 3.4vw, 46px)/1.1 var(--serif); letter-spacing: -.015em; margin-bottom: 8px; }
@@ -159,7 +159,7 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .enciclopedia h2 { font: 600 22px var(--serif); margin: 36px 0 12px; }
 .prosa { font: 18px/1.7 var(--serif); }
 .prosa img { display: block; max-inline-size: 100%; block-size: auto; }
-.prosa p { margin: 0 0 16px; max-width: 78ch; }
+.prosa p { margin: 0 0 16px; }
 .prosa a, .credito a { color: var(--acento); }
 .prosa table { border-collapse: collapse; width: 100%; font: 14.5px/1.5 var(--fuente); margin: 10px 0 24px; }
 .prosa th { text-align: left; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--tenue); font-weight: 600; padding: 6px 14px 8px 0; }
@@ -179,3 +179,14 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
   .enciclopedia .indice-movil { display: block; background: var(--fondo); color: var(--texto); border: 0; cursor: pointer; padding-inline: .6rem; }
 }
 .volver { margin: -14px 0 22px; } .volver a { color: var(--acento); }
+
+.enciclopedia .rama-indice.raiz-religion > summary, .enciclopedia .indice a.raiz-religion { font-weight: 600; }
+.enciclopedia .indice-articulo { list-style: none; margin: 0 0 .25em; padding-inline-start: .85rem; }
+.enciclopedia .indice-articulo a { font-size: 12.5px; line-height: 1.35; }
+.enciclopedia .ruta-articulo { display: flex; gap: .42em; flex-wrap: wrap; align-items: baseline; }
+.enciclopedia .prosa .cita-fuente { color: var(--acento); text-decoration: underline; white-space: nowrap; }
+.enciclopedia .prosa .fuente-resaltada { background: color-mix(in srgb, var(--acento) 17%, transparent); outline: 1px solid var(--acento); outline-offset: 3px; }
+.enciclopedia .prosa figure { margin: 1.3rem auto; max-width: 70rem; }
+.enciclopedia .prosa figure img { margin-inline: auto; }
+.enciclopedia .prosa figcaption { color: var(--tenue); font-size: .9em; }
+@media (max-width: 540px) { .enciclopedia article { scroll-padding-top: 120px; } }

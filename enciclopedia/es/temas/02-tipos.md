@@ -1,7 +1,7 @@
 ---
 estado: completo
 fase: E01
-palabras: 5172
+palabras: 5245
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/i18n/es/catalogo.json"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -195,6 +195,22 @@ En debates contemporáneos, una clasificación académica, una estadística púb
 Anota el nombre de la comunidad, el periodo, el territorio, el rasgo elegido y la escala de la evidencia. Después formula dos frases. La primera describe el hecho documentado, por ejemplo que cierta familia presenta ofrendas en una fecha conmemorativa. La segunda explica cómo se usa el tipo del catálogo para leer ese hecho. Si la evidencia se refiere a unas familias, mantén esa escala en la frase. Si una fuente posterior habla de cambios, intenta comprobar si se refiere a las mismas personas y prácticas.
 
 El ejercicio resulta útil incluso cuando dos autores emplean la misma palabra. Uno puede aplicar «sincretismo» a una reinterpretación litúrgica y otro a la creación de una institución. Lee qué evento registran y qué consecuencias atribuyen a ese evento. Cuando se pueden describir ambos con un vocabulario más concreto, se conserva la etiqueta para buscar casos y se usan los verbos específicos para contar la historia.
+
+## Investigaciones que requieren más de un criterio
+
+### Cambios de escala dentro de una tradición
+
+Una misma persona puede participar en ritos familiares, pertenecer a una institución y estudiar ideas transmitidas por comunidades diferentes. La clasificación de su institución y la descripción de sus prácticas requieren unidades de análisis separadas. En el primer caso interesan normas, autoridades y formas de afiliación. En el segundo, el calendario, el entorno doméstico, las personas que participan y el sentido que atribuyen a lo que hacen. Un artículo enciclopédico gana precisión cuando aclara si habla de las prescripciones de una escuela, de los usos observados en un lugar o de un proceso histórico documentado en varios territorios.
+
+La diferencia se aprecia al comparar una enseñanza sobre la unidad divina y una celebración dedicada a una figura particular. Ambas pueden formar parte de una misma tradición y relacionarse mediante distinciones entre culto, intercesión, memoria y representación. Para estudiar cómo se resuelve esa relación hay que leer qué distinciones utiliza cada comunidad y comprobar si cambian entre una formulación doctrinal y una práctica observada. De ese modo, el tipo general no borra las diferencias que explican por qué el rito tiene una forma concreta.
+
+### Movimientos que cambian con el tiempo
+
+Una comunidad puede comenzar como una red de maestros, reproducirse mediante hogares o asociaciones locales y establecer después una organización más estable. La etiqueta que describe su fase inicial puede seguir siendo útil para hablar de sus orígenes y resultar insuficiente para explicar su gobierno posterior. Por eso conviene indicar el periodo de cada afirmación. Un mismo nombre puede usarse para grupos que conservan un repertorio común y han desarrollado autoridades diferentes. Las actas institucionales, la prensa, los relatos de participantes y los estudios de campo ayudan a precisar cuándo se produjo la reorganización.
+
+Cuando el proceso incluye una reforma deliberada, importa reconstruir qué se quiso cambiar. Las fuentes programáticas muestran la propuesta de sus promotores. Las controversias y las prácticas de comunidades afectadas permiten observar su recepción. Para identificar una nueva tradición hay que explicar en qué momento dejó de funcionar como una corriente interna, qué estructuras adquirió y cómo se nombró a sí misma. La etiqueta propuesta para el árbol puede resumir una parte de ese recorrido, que el artículo debe exponer en términos históricos.
+
+Aplicar el mismo método a una tradición antigua exige otras pruebas. Se puede comenzar por la distribución de hallazgos, analizar quién pudo participar en determinados actos y comparar testimonios que provengan de lugares diferentes. Las prácticas domésticas y las celebraciones públicas pueden dejar huellas de naturaleza distinta. Al clasificar los materiales conviene indicar cuáles sustentan una descripción de instituciones, cuáles permiten hablar de actos individuales y cuáles solo demuestran la circulación de un motivo. Esa distinción explica por qué dos restos similares pueden tener interpretaciones limitadas a escalas diferentes.
 
 ## Fuentes
 

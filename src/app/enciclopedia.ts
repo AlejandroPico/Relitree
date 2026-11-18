@@ -7,6 +7,13 @@ import { LectorEnciclopedia } from './lector-enciclopedia';
 import { I18n } from './i18n';
 import { GLIFOS, UI } from './glifos';
 
+interface SeccionArticulo {
+  id: string;
+  titulo: string;
+  nivel: number;
+  hijas: SeccionArticulo[];
+}
+
 interface EntradaIndice {
   articulo: Articulo;
   hijos: EntradaIndice[];
@@ -40,12 +47,16 @@ interface EntradaIndice {
       <ng-template #rama let-entradas>
         @for (entrada of entradas; track entrada.articulo.id) {
           @if (entrada.hijos.length) {
-            <details class="rama-indice" [open]="entrada.abierto">
+            <details class="rama-indice" [class.raiz-religion]="esReligion(entrada.articulo.id)"
+                     [attr.id]="entrada.categoria ? entrada.articulo.id : null" [open]="entrada.abierto">
               <summary><span>{{ entrada.articulo.titulo }}</span></summary>
               <div class="subindice">
                 @if (!entrada.categoria) {
-                  <a href="#" [class.activo]="entrada.articulo.id === estado.enciclopedia()" [attr.aria-current]="entrada.articulo.id === estado.enciclopedia() ? 'page' : null"
+                  <a href="#" [class.raiz-religion]="esReligion(entrada.articulo.id)" [class.activo]="entrada.articulo.id === estado.enciclopedia()" [attr.aria-current]="entrada.articulo.id === estado.enciclopedia() ? 'page' : null"
                      (click)="$event.preventDefault(); abrir(entrada.articulo.id)">{{ entrada.articulo.titulo }}</a>
+                  @if (entrada.articulo.id === articulo()?.id) {
+                    <ng-container [ngTemplateOutlet]="secciones" [ngTemplateOutletContext]="{ $implicit: indiceArticulo() }"/>
+                  }
                 }
                 <ng-container [ngTemplateOutlet]="rama" [ngTemplateOutletContext]="{ $implicit: entrada.hijos }"/>
               </div>
@@ -53,7 +64,24 @@ interface EntradaIndice {
           } @else if (!entrada.categoria) {
             <a href="#" [class.activo]="entrada.articulo.id === estado.enciclopedia()" [attr.aria-current]="entrada.articulo.id === estado.enciclopedia() ? 'page' : null"
                (click)="$event.preventDefault(); abrir(entrada.articulo.id)">{{ entrada.articulo.titulo }}</a>
+                  @if (entrada.articulo.id === articulo()?.id) {
+                    <ng-container [ngTemplateOutlet]="secciones" [ngTemplateOutletContext]="{ $implicit: indiceArticulo() }"/>
+                  }
           }
+        }
+      </ng-template>
+      <ng-template #secciones let-grupo>
+        @if (grupo.length) {
+          <ul class="indice-articulo">
+            @for (seccion of grupo; track seccion.id) {
+              <li>
+                <a [attr.href]="'#' + seccion.id" [class.activo]="seccionActiva() === seccion.id"
+                   [attr.aria-current]="seccionActiva() === seccion.id ? 'location' : null"
+                   (click)="$event.preventDefault(); irASeccion(seccion.id)">{{ seccion.titulo }}</a>
+                <ng-container [ngTemplateOutlet]="secciones" [ngTemplateOutletContext]="{ $implicit: seccion.hijas }"/>
+              </li>
+            }
+          </ul>
         }
       </ng-template>
       <article #cuerpo (click)="clic($event)">
@@ -89,7 +117,19 @@ interface EntradaIndice {
                 </div>
               </div>
             } @else { <h1>{{ a.titulo }}</h1> }
-            @if (padre(); as p) { <p class="datos volver">{{ i18n.t('parteDe') }} <a [attr.data-ir]="p.id">{{ p.titulo }}</a></p> }
+            @if (ruta().length) {
+              <div class="datos volver ruta-articulo" role="navigation" [attr.aria-label]="i18n.t('parteDe')">
+                <span>{{ i18n.t('parteDe') }}</span>
+                @for (nivel of ruta(); track nivel.id) {
+                  @if (!$first) { <span aria-hidden="true">›</span> }
+                  @if (nivel.id.startsWith('categoria:')) {
+                    <a [attr.href]="'#' + nivel.id" (click)="$event.preventDefault(); verCategoria(nivel.id)">{{ nivel.titulo }}</a>
+                  } @else {
+                    <a href="#" [attr.data-ir]="nivel.id">{{ nivel.titulo }}</a>
+                  }
+                }
+              </div>
+            }
             <div #prosa class="prosa" [innerHTML]="html()"></div>
             @if (desarrollo().length) {
               <h2>{{ i18n.t('desarrollo') }}</h2>
@@ -136,11 +176,34 @@ export class Enciclopedia {
 
   articulo = computed(() => { const id = this.estado.enciclopedia(); return id ? this.datos.articulo(id) : null; });
   religion = computed(() => this.datos.porId.get(this.estado.enciclopedia() ?? '') ?? null);
-  padre = computed(() => {
-    const a = this.articulo();
-    if (!a?.padre) return null;
-    const id = a.padre.startsWith('categoria:') ? a.id.split('/')[0] : a.padre;
-    return this.datos.indice.find((x) => x.id === id) ?? null;
+  readonly seccionActiva = signal('');
+  readonly ruta = computed(() => {
+    const resultado: Articulo[] = [];
+    let id = this.articulo()?.padre;
+    while (id && !resultado.some(a => a.id === id)) {
+      const nivel = this.datos.indice.find(a => a.id === id);
+      if (!nivel) break;
+      resultado.unshift(nivel);
+      id = nivel.padre;
+    }
+    return resultado;
+  });
+  readonly indiceArticulo = computed(() => {
+    const html = this.articulo()?.html;
+    if (!html) return [];
+    const plantilla = document.createElement('template');
+    plantilla.innerHTML = html;
+    const raiz: SeccionArticulo[] = [];
+    const padres: SeccionArticulo[] = [];
+    for (const h of plantilla.content.querySelectorAll<HTMLElement>('h2[id],h3[id],h4[id],h5[id],h6[id]')) {
+      const titulo = h.textContent?.trim();
+      if (!titulo) continue;
+      const seccion = { id: h.id, titulo, nivel: Number(h.tagName[1]), hijas: [] };
+      while (padres.length && padres[padres.length - 1].nivel >= seccion.nivel) padres.pop();
+      (padres.at(-1)?.hijas ?? raiz).push(seccion);
+      padres.push(seccion);
+    }
+    return raiz;
   });
   html = computed(() => this.san.bypassSecurityTrustHtml(this.articulo()?.html ?? ''));   // HTML generado por nuestro propio backend
   /** Subartículos de desarrollo del artículo abierto (o sus hermanos, si se está leyendo uno). */
@@ -196,7 +259,12 @@ export class Enciclopedia {
 
   color(region: string) { return this.datos.region.get(region)!.color; }
   abrir(id: string, titulo = '') {
+    if (id === this.articulo()?.id) {
+      this.indiceAbierto.set(false);
+      return;
+    }
     this.lector()?.detener();
+    this.seccionActiva.set('');
     this.anterior.set(this.articulo()?.id ?? this.anterior());
     this.tituloPendiente.set(titulo);
     this.indiceAbierto.set(false);
@@ -209,11 +277,49 @@ export class Enciclopedia {
   }
   cerrar() { this.lector()?.detener(); this.estado.enciclopedia.set(null); }
   verEnArbol(id: string) { this.cerrar(); this.estado.elegir(id, true); }
+  esReligion(id: string) { return this.datos.porId.has(id); }
+
+  irASeccion(id: string) {
+    const destino = this.prosa()?.nativeElement.querySelector<HTMLElement>('#' + CSS.escape(id));
+    if (!destino) return;
+    this.indiceAbierto.set(false);
+    this.seccionActiva.set(id);
+    this.enfocar(destino);
+  }
+
+  verCategoria(id: string) {
+    const destino = document.getElementById(id);
+    if (!(destino instanceof HTMLDetailsElement)) return;
+    for (let detalle: HTMLDetailsElement | null = destino; detalle; detalle = detalle.parentElement?.closest('details') ?? null) {
+      detalle.open = true;
+    }
+    this.indiceAbierto.set(true);
+    requestAnimationFrame(() => destino.scrollIntoView({ block: 'nearest' }));
+  }
+
+  private enfocar(destino: HTMLElement) {
+    destino.tabIndex = -1;
+    destino.scrollIntoView({ block: 'start' });
+    destino.focus({ preventScroll: true });
+  }
+
+  private mostrarFuentes(cita: HTMLElement) {
+    const prosa = this.prosa()?.nativeElement;
+    if (!prosa) return;
+    prosa.querySelectorAll('.fuente-resaltada').forEach(el => el.classList.remove('fuente-resaltada'));
+    const fuentes = (cita.dataset['fuentes'] ?? '').split(' ')
+      .map(id => id ? prosa.querySelector<HTMLElement>('#' + CSS.escape(id))?.closest('li') : null)
+      .filter((li): li is HTMLLIElement => !!li);
+    fuentes.forEach(li => li.classList.add('fuente-resaltada'));
+    if (fuentes[0]) this.enfocar(fuentes[0]);
+  }
+
   clic(e: Event) {
     const objetivo = e.target;
     if (!(objetivo instanceof Element)) return;
     const a = objetivo.closest('a');
-    if (a?.hasAttribute('data-ir')) { e.preventDefault(); this.abrir(a.getAttribute('data-ir')!, a.textContent?.trim()); }
+    if (a?.hasAttribute('data-fuentes')) { e.preventDefault(); this.mostrarFuentes(a); }
+    else if (a?.hasAttribute('data-ir')) { e.preventDefault(); this.abrir(a.getAttribute('data-ir')!, a.textContent?.trim()); }
     else if (!a && this.prosa()?.nativeElement.contains(objetivo)) this.lector()?.seleccionar(objetivo);
   }
 }

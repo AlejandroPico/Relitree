@@ -1,7 +1,7 @@
 ---
 estado: completo
 fase: E02
-palabras: 5136
+palabras: 5269
 fuentes:
   - "https://www.penguinrandomhouse.com/books/327976/the-historical-figure-of-jesus-by-e-p-sanders/"
   - "https://academic.oup.com/edited-volume/61673/chapter-abstract/583638691"
@@ -164,6 +164,22 @@ Un ejercicio concreto consiste en elegir la actividad de Juan y leer las primera
 Otro recorrido posible comienza en las cartas de Pablo y termina en un mapa. Anota dónde estaban las comunidades mencionadas, de quién dice haber recibido noticias y cómo presenta a los dirigentes de Jerusalén. Después vuelve a uno de los evangelios y busca los nombres que aparecen en la narración. Si coincide un nombre, comprueba qué rasgo permite identificarlo y qué información añade cada obra. Si diverge la imagen del personaje, compara los objetivos literarios y las circunstancias del autor. El ejercicio hace visible que conocer un nombre, reconstruir un itinerario y explicar una tradición son operaciones diferentes. [2–4]
 
 La reconstrucción de la vida de Jesús sigue dependiendo de una combinación desigual de textos, indicios materiales y conocimiento de las instituciones del siglo I. Su actividad pública y su muerte pueden situarse en el marco de Galilea, Judea y el gobierno romano. Las interpretaciones de su enseñanza y de su identidad se hicieron más variadas a medida que pasó a ser recordado en comunidades de lenguas y orígenes distintos. Para profundizar en la transmisión de esas diferencias, véanse el [[cristianismo/biblia/nuevo-testamento|Nuevo Testamento]], el estudio del [[cristianismo/biblia/canon-apocrifos-traducciones|canon y los apócrifos]] y el artículo sobre [[cristianismo/figuras/pedro|Pedro]].
+
+## De Jerusalén a los primeros testimonios
+
+### Cronología y distancia de las fuentes
+
+Una cronología de Jesús debe distinguir su tiempo de actividad de las fechas en que se escribieron las fuentes que lo describen. Situar la crucifixión dentro del periodo de gobierno de Pilato delimita unos años posibles. Situar una carta de Pablo en la década de los cincuenta señala cuándo un autor puso por escrito información que ya circulaba. Fechar un evangelio permite preguntar a qué debates y lectores pudo dirigirse su composición. Estas operaciones son complementarias y responden a pruebas diferentes. La fecha de un manuscrito conservado puede ser posterior a todas ellas. En ese caso muestra que para entonces se copiaba una forma del escrito, mientras que la investigación sobre su composición requiere estudiar la historia del texto. [1–4]
+
+La transmisión temprana pudo combinar memorias personales, fórmulas para la enseñanza, fragmentos narrativos y discusiones acerca de las Escrituras. Cuando una tradición se adapta a interlocutores diferentes cambian el orden, el detalle o la manera de presentar una afirmación. La comparación parte de esas variaciones para plantear una hipótesis sobre cómo circuló el material. Por ejemplo, las coincidencias de orden y vocabulario pueden sugerir dependencia escrita. Las diferencias dentro de una escena semejante pueden responder a decisiones editoriales o a variantes anteriores. Si faltan indicios para decidir entre explicaciones, la incertidumbre forma parte del resultado. [2–4]
+
+### Seguidores y colaboradores fuera de las listas
+
+La selección de doce figuras da forma a la presentación del movimiento, mientras que otras personas aparecen en escenas aisladas, en redes de hospitalidad o en relatos de encuentro. Una mujer que presta apoyo, un anfitrión que cede espacio y un mensajero que comunica una noticia pueden ser decisivos para la continuidad de un grupo aunque su nombre se conserve de manera desigual. Para reconstruir la actividad colectiva conviene buscar qué trabajos se describen y qué estructuras materiales los hicieron posibles. Las casas, caminos y comidas son indicios de cómo pudo mantenerse el contacto entre personas sin disponer de una institución extensa. Ese contexto ayuda a pasar de la biografía individual a la historia de un movimiento. [2–5]
+
+### La memoria de la última visita
+
+El final de la actividad pública enlaza el itinerario de Jesús con los problemas de la fiesta, el Templo y el poder provincial. A partir de ese punto, una biografía histórica puede estudiar de manera independiente los motivos de su detención, la autoridad que ordenó la ejecución y las tradiciones sobre los testigos. El artículo de [[cristianismo/jesus/pasion-muerte-resurreccion|Pasión, muerte y resurrección]] compara esas tradiciones con más detalle y examina la distancia entre un acontecimiento, la primera fórmula escrita que lo recuerda y su recepción litúrgica. Ambos artículos comparten fuentes, aunque organizan sus preguntas desde escalas distintas. [1–4]
 
 ## Fuentes
 

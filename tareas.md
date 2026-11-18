@@ -7,13 +7,15 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 - [x] E00 · Reproductor de la enciclopedia con navegación por párrafos y ajustes de lectura.
 - [x] E01 · «Cómo leer el árbol» y «Tipos de religión».
 - [x] E02 · «Cristianismo» y «La vida de Jesús de Nazaret».
-- [x] E03 · Doce entradas iniciales con fuentes y enlaces.
+- [x] E00 · Ruta completa, índice de secciones, citas enlazadas y pronunciación en español.
+- [x] E00 · Validación de 5.000 palabras de cuerpo para los artículos completos.
+- [x] E02 · «Pasión, muerte y resurrección».
 
 ## Fase A · Enciclopedia (78 fases, 859 artículos; detalle en `enciclopedia/PLAN.md`)
-- E00 · Infraestructura (pestañas, fichas, galerías, búsqueda de texto y validación de 5.000 palabras)
+- E00 · Infraestructura (pestañas, fichas, galerías y búsqueda de texto)
 - E01 · Temas generales. Textos ampliados: «Cómo leer el árbol» y «Tipos de religión». Quedan por desarrollar y revisar los otros ocho temas, con sus fuentes y recursos visuales.
-- E02 · Cristianismo: fundamentos. Artículo general y vida de Jesús desarrollados. Quedan por ampliar y revisar los otros diez artículos.
-- E03 · Apóstoles y primeros siglos. Quedan por ampliar y revisar los doce borradores.
+- E02 · Cristianismo: fundamentos. Tres artículos completos. Quedan por desarrollar y revisar los otros nueve.
+- E03 · Apóstoles y primeros siglos. Las doce entradas son borradores pendientes de desarrollo completo.
 - E04–E22 · Cristianismo (21 concilios, cismas e Inquisición, cruzadas, Reforma, expansión, época contemporánea, papas, santos y 105 tradiciones)
 - E23–E26 · Judaísmo
 - E27–E33 · Islam
@@ -27,6 +29,48 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 - E67–E73 · Américas
 - E74–E76 · Oceanía
 - E77 · Revisión final
+
+## Auditoría editorial de E01–E03
+
+Cinco artículos alcanzan las 5.000 palabras de cuerpo. Las siguientes 29 entradas requieren investigación, desarrollo, recursos visuales y revisión antes de cambiar su estado.
+
+### E01
+
+- [ ] [Qué es una religión: definiciones y debates](enciclopedia/es/temas/03-que-es-una-religion.md) · 416 palabras de cuerpo en la auditoría inicial.
+- [ ] [Los orígenes del pensamiento religioso en la prehistoria](enciclopedia/es/temas/04-origenes-pensamiento-religioso.md) · 340 palabras de cuerpo en la auditoría inicial.
+- [ ] [Textos sagrados del mundo comparados](enciclopedia/es/temas/05-textos-sagrados.md) · 319 palabras de cuerpo en la auditoría inicial.
+- [ ] [Simbología religiosa comparada](enciclopedia/es/temas/06-simbologia-religiosa.md) · 304 palabras de cuerpo en la auditoría inicial.
+- [ ] [Calendarios y festividades del mundo](enciclopedia/es/temas/07-calendarios-festividades.md) · 306 palabras de cuerpo en la auditoría inicial.
+- [ ] [Mapa religioso actual: demografía y tendencias](enciclopedia/es/temas/08-mapa-religioso-actual.md) · 347 palabras de cuerpo en la auditoría inicial.
+- [ ] [Historia del estudio de las religiones](enciclopedia/es/temas/09-historia-estudio-religiones.md) · 307 palabras de cuerpo en la auditoría inicial.
+- [ ] [Glosario general](enciclopedia/es/temas/10-glosario-general.md) · 107 palabras de cuerpo en la auditoría inicial.
+
+### E02
+
+- [ ] [La Biblia: Antiguo Testamento](enciclopedia/es/religiones/cristianismo/biblia/antiguo-testamento.md) · 212 palabras de cuerpo en la auditoría inicial.
+- [ ] [Canon, apócrifos y traducciones de la Biblia](enciclopedia/es/religiones/cristianismo/biblia/canon-apocrifos-traducciones.md) · 209 palabras de cuerpo en la auditoría inicial.
+- [ ] [La Biblia: Nuevo Testamento](enciclopedia/es/religiones/cristianismo/biblia/nuevo-testamento.md) · 196 palabras de cuerpo en la auditoría inicial.
+- [ ] [La Trinidad y los dogmas](enciclopedia/es/religiones/cristianismo/creencias/trinidad-y-dogmas.md) · 241 palabras de cuerpo en la auditoría inicial.
+- [ ] [Pablo de Tarso](enciclopedia/es/religiones/cristianismo/figuras/pablo-de-tarso.md) · 191 palabras de cuerpo en la auditoría inicial.
+- [ ] [Pedro](enciclopedia/es/religiones/cristianismo/figuras/pedro.md) · 171 palabras de cuerpo en la auditoría inicial.
+- [ ] [Liturgia y año litúrgico](enciclopedia/es/religiones/cristianismo/vida-cristiana/liturgia-y-ano-liturgico.md) · 198 palabras de cuerpo en la auditoría inicial.
+- [ ] [Mandamientos, sacramentos y moral](enciclopedia/es/religiones/cristianismo/vida-cristiana/mandamientos-sacramentos-moral.md) · 206 palabras de cuerpo en la auditoría inicial.
+- [ ] [Simbología cristiana](enciclopedia/es/religiones/cristianismo/vida-cristiana/simbologia.md) · 208 palabras de cuerpo en la auditoría inicial.
+
+### E03
+
+- [ ] [Los apóstoles (I): Andrés, Santiago el Mayor y Juan](enciclopedia/es/religiones/cristianismo/apostoles/apostoles-i.md) · 307 palabras de cuerpo en la auditoría inicial.
+- [ ] [Los apóstoles (II): Felipe, Bartolomé y Tomás](enciclopedia/es/religiones/cristianismo/apostoles/apostoles-ii.md) · 297 palabras de cuerpo en la auditoría inicial.
+- [ ] [Los apóstoles (III): Mateo, Santiago el Menor y Judas Tadeo](enciclopedia/es/religiones/cristianismo/apostoles/apostoles-iii.md) · 270 palabras de cuerpo en la auditoría inicial.
+- [ ] [Los apóstoles (IV): Simón, Judas Iscariote y Matías](enciclopedia/es/religiones/cristianismo/apostoles/apostoles-iv.md) · 258 palabras de cuerpo en la auditoría inicial.
+- [ ] [Constantino y el giro del siglo IV](enciclopedia/es/religiones/cristianismo/imperio/constantino-y-el-giro-del-siglo-iv.md) · 264 palabras de cuerpo en la auditoría inicial.
+- [ ] [De Teodosio al fin del paganismo](enciclopedia/es/religiones/cristianismo/imperio/de-teodosio-al-fin-del-paganismo.md) · 240 palabras de cuerpo en la auditoría inicial.
+- [ ] [Padres apostólicos y apologistas](enciclopedia/es/religiones/cristianismo/patristica/padres-apostolicos-y-apologistas.md) · 210 palabras de cuerpo en la auditoría inicial.
+- [ ] [Padres de la Iglesia griegos](enciclopedia/es/religiones/cristianismo/patristica/padres-griegos.md) · 224 palabras de cuerpo en la auditoría inicial.
+- [ ] [Padres de la Iglesia latinos](enciclopedia/es/religiones/cristianismo/patristica/padres-latinos.md) · 209 palabras de cuerpo en la auditoría inicial.
+- [ ] [La Iglesia de Jerusalén y la ruptura con el judaísmo](enciclopedia/es/religiones/cristianismo/primeras-comunidades/iglesia-de-jerusalen.md) · 294 palabras de cuerpo en la auditoría inicial.
+- [ ] [Los mártires](enciclopedia/es/religiones/cristianismo/primeras-comunidades/martires.md) · 264 palabras de cuerpo en la auditoría inicial.
+- [ ] [Las persecuciones romanas](enciclopedia/es/religiones/cristianismo/primeras-comunidades/persecuciones-romanas.md) · 273 palabras de cuerpo en la auditoría inicial.
 
 ## Fase B · Datos
 - Cifras de fieles para las tradiciones vivas que aún no tienen (solo con fuente).

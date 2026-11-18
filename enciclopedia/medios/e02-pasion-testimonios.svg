@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 276" role="img" aria-label="La pasión en tres tipos de fuentes">
+  <rect x="0" y="0" width="920" height="276" fill="#f4efe2"/>
+  <text x="36" y="47" font-family="sans-serif" font-size="25" fill="#282622" font-weight="700">La pasión en tres tipos de fuentes</text>
+  <rect x="36" y="76" width="848" height="45" fill="#fffaf0"/><path d="M36 76v45" stroke="#8b601e" stroke-width="4"/><text x="52" y="105" font-family="sans-serif" font-size="17" font-weight="700" fill="#2e2a24">Cartas de Pablo</text><text x="281" y="105" font-family="sans-serif" font-size="17" fill="#332e29">Memoria de la cena y tradiciones sobre sepultura y apariciones</text>
+  <rect x="36" y="138" width="848" height="45" fill="#e9dfca"/><path d="M36 138v45" stroke="#8b601e" stroke-width="4"/><text x="52" y="167" font-family="sans-serif" font-size="17" font-weight="700" fill="#2e2a24">Evangelios</text><text x="281" y="167" font-family="sans-serif" font-size="17" fill="#332e29">Narraciones de la detención, el juicio, la ejecución y la visita a la tumba</text>
+  <rect x="36" y="200" width="848" height="45" fill="#fffaf0"/><path d="M36 200v45" stroke="#8b601e" stroke-width="4"/><text x="52" y="229" font-family="sans-serif" font-size="17" font-weight="700" fill="#2e2a24">Autores externos</text><text x="281" y="229" font-family="sans-serif" font-size="17" fill="#332e29">Referencias breves en autores como Tácito y Josefo</text>
+</svg>

@@ -102,7 +102,7 @@ El plan completo, con la lista de artículos de cada fase, está en `enciclopedi
 
 **Rigor**
 12. Cada artículo termina con sus fuentes (bibliografía académica y obras de referencia). Fechas, cifras y citas se contrastan antes de dar el artículo por completo. Las citas de textos sagrados, en traducciones de dominio público o parafraseadas.
-13. Cabecera YAML en cada archivo: `estado` (borrador | completo), `fase`, `palabras`, `fuentes`. Las pruebas fallan si un artículo `completo` tiene menos de 5.000 palabras.
+13. Cabecera YAML en cada archivo: `estado` (borrador | completo), `fase`, `palabras`, `fuentes`. La compilación rechaza un artículo `completo` si su cuerpo tiene menos de 5.000 palabras. El recuento excluye títulos, citas numéricas, bibliografía, bloques citados, tablas y pies de figura. Los borradores nunca se contabilizan como artículos terminados.
 
 **Archivos**
 14. Artículo principal: `enciclopedia/es/religiones/<id>.md`. Subartículos: `enciclopedia/es/religiones/<id>/<categoria>/<slug>.md`, con tantos niveles de carpeta como haga falta; cada carpeta lleva un `_indice.md` con su título y orden. Temas generales: `enciclopedia/es/temas/`. Imágenes: `enciclopedia/medios/`.

@@ -11,7 +11,7 @@ Cada fase se trabaja en una sesión. Al terminarla se marcan sus artículos como
 - Ficha resumen lateral (infobox), tablas largas, cronologías visuales, galerías
 - Imágenes de Wikimedia Commons descargadas al repositorio con autor y licencia; vídeo solo de instituciones oficiales
 - Cabecera YAML en cada artículo: estado (borrador/completo), palabras, fuentes
-- Contador de palabras y validación: un artículo «completo» con menos de 5.000 palabras hace fallar las pruebas
+- Validación incorporada. La compilación rechaza artículos completos con menos de 5.000 palabras de texto de cuerpo.
 - Búsqueda dentro del texto de toda la enciclopedia.
 - Reproductor de lectura en voz alta implementado. Incluye avance y retroceso por párrafos, lectura desde el párrafo seleccionado y ajustes de voz, velocidad, tono y volumen.
 
@@ -32,7 +32,7 @@ Avance editorial: los dos primeros artículos se han ampliado. Los otros ocho ti
 
 ## Fase E02 · Cristianismo · Fundamentos
 
-Avance editorial: «Cristianismo» y «La vida de Jesús de Nazaret» se han desarrollado por encima de 5.000 palabras. Las otras diez entradas están enlazadas y mantienen el estado de borrador.
+Avance editorial. «Cristianismo», «La vida de Jesús de Nazaret» y «Pasión, muerte y resurrección» superan las 5.000 palabras de cuerpo. Las otras nueve entradas quedan pendientes de desarrollo y revisión.
 
 - Cristianismo (artículo principal, por épocas)
 - La vida de Jesús de Nazaret
@@ -49,7 +49,7 @@ Avance editorial: «Cristianismo» y «La vida de Jesús de Nazaret» se han des
 
 ## Fase E03 · Cristianismo · Apóstoles y primeros siglos
 
-Las doce entradas iniciales están escritas, enlazadas y publicadas con fuentes. Conservan el estado de borrador hasta su ampliación y revisión.
+Las doce entradas son borradores. Queda pendiente su desarrollo completo con fuentes contrastadas y recursos visuales.
 
 - Los apóstoles (I): Andrés, Santiago el Mayor, Juan
 - Los apóstoles (II): Felipe, Bartolomé, Tomás

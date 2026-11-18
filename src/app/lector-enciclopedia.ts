@@ -1,6 +1,61 @@
 import { ChangeDetectionStrategy, Component, computed, effect, inject, input, OnDestroy, signal } from '@angular/core';
 import { I18n } from './i18n';
 
+
+const PEQUENOS = ['cero', 'uno', 'dos', 'tres', 'cuatro', 'cinco', 'seis', 'siete', 'ocho', 'nueve',
+  'diez', 'once', 'doce', 'trece', 'catorce', 'quince', 'dieciséis', 'diecisiete', 'dieciocho',
+  'diecinueve', 'veinte', 'veintiuno', 'veintidós', 'veintitrés', 'veinticuatro', 'veinticinco',
+  'veintiséis', 'veintisiete', 'veintiocho', 'veintinueve'];
+const DECENAS = ['', '', 'veinte', 'treinta', 'cuarenta', 'cincuenta', 'sesenta', 'setenta', 'ochenta', 'noventa'];
+const CENTENAS = ['', 'ciento', 'doscientos', 'trescientos', 'cuatrocientos', 'quinientos',
+  'seiscientos', 'setecientos', 'ochocientos', 'novecientos'];
+
+function cardinal(n: number): string {
+  if (n < 30) return PEQUENOS[n];
+  if (n < 100) return DECENAS[Math.floor(n / 10)] + (n % 10 ? ' y ' + cardinal(n % 10) : '');
+  if (n === 100) return 'cien';
+  if (n < 1000) return CENTENAS[Math.floor(n / 100)] + (n % 100 ? ' ' + cardinal(n % 100) : '');
+  const escala = n < 1_000_000 ? 1000 : 1_000_000;
+  const grupos = Math.floor(n / escala);
+  const antes = cardinal(grupos).replace(/veintiuno$/, 'veintiún').replace(/uno$/, 'un');
+  const prefijo = escala === 1000 ? (grupos === 1 ? 'mil' : antes + ' mil')
+    : (grupos === 1 ? 'un millón' : antes + ' millones');
+  return prefijo + (n % escala ? ' ' + cardinal(n % escala) : '');
+}
+
+const UNIDADES: Record<string, [string, string]> = {
+  km: ['kilómetro', 'kilómetros'], m: ['metro', 'metros'], cm: ['centímetro', 'centímetros'],
+  mm: ['milímetro', 'milímetros'], kg: ['kilogramo', 'kilogramos'], g: ['gramo', 'gramos'],
+  'km²': ['kilómetro cuadrado', 'kilómetros cuadrados'], 'm²': ['metro cuadrado', 'metros cuadrados'],
+  'cm²': ['centímetro cuadrado', 'centímetros cuadrados'], 
+  '°C': ['grado Celsius', 'grados Celsius'],
+};
+
+export function textoParaLectura(texto: string): string {
+  return texto
+    .replace(/\[\d+(?:\s*[,;–—-]\s*\d+)*\]/g, '')
+    .replace(/\b(?:a\.\s*(?:de\s+)?C\.|aC\b)/giu, ' antes de Cristo')
+    .replace(/\b(?:d\.\s*(?:de\s+)?C\.|dC\b)/giu, ' después de Cristo')
+    .replace(/\b(?:a|d)\.\s*n\.\s*e\./gi, x => x[0].toLowerCase() === 'a' ? 'antes de nuestra era' : 'de nuestra era')
+    .replace(/\bss\.\s*(?=[IVXLCDM]+\b)/g, 'siglos ')
+    .replace(/\bs\.\s*(?=[IVXLCDM]+\b)/g, 'siglo ')
+    .replace(/\bc\.\s*(?=\d)/gi, 'hacia ')
+    .replace(/\bp\.\s*ej\./gi, 'por ejemplo')
+    .replace(/\betc\./gi, 'etcétera.')
+    .replace(/\bn[.º°]+\s*(?=\d)/gi, 'número ')
+    .replace(/\b(?:cf|cfr)\./gi, 'compárese con')
+    .replace(/\b(\d{1,3}(?:[.\u00a0\u202f ]\d{3}){1,3}|\d+(?:,\d+)?)\s*(km²|cm²|m²|km|cm|mm|kg|m|g|°C|%)(?![\p{L}\p{N}²])/gu,
+      (_, cantidad: string, unidad: string) => cantidad + ' ' +
+        (unidad === '%' ? 'por ciento' : UNIDADES[unidad][Number(cantidad.replace(',', '.')) === 1 ? 0 : 1]))
+    .replace(/(?<![\d.])\d{1,3}(?:[.\u00a0\u202f ]\d{3}){1,3}(?!\d|[.,]\d)/gu, cifra => {
+      const n = Number(cifra.replace(/[.\s]/g, ''));
+      return n < 1_000_000_000 ? cardinal(n) : String(n);
+    })
+    .replace(/\s+([,.;!?])/g, '$1')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 const BLOQUES = 'h1,h2,h3,h4,h5,h6,p,li,dt,dd';
 const CLAVE = 'relitree-lectura';
 const AJUSTES = {
@@ -184,8 +239,11 @@ export class LectorEnciclopedia implements OnDestroy {
 
   private preparar() {
     const prosa = this.prosa();
+    const titulos = [...(prosa?.querySelectorAll<HTMLElement>('h2,h3,h4') ?? [])];
+    const bibliografia = titulos.find(h => /^(fuentes|bibliografía|referencias)$/i.test(h.textContent?.trim() ?? ''));
     this.bloques = [...(prosa?.querySelectorAll<HTMLElement>(BLOQUES) ?? [])].filter(b =>
-      b.innerText.trim() && !b.closest('figure, table, [hidden], details:not([open])') && !b.querySelector(BLOQUES));
+      b.innerText.trim() && !b.closest('figure, table, [hidden], details:not([open])') && !b.querySelector(BLOQUES) &&
+      (!bibliografia || (b !== bibliografia && !(bibliografia.compareDocumentPosition(b) & Node.DOCUMENT_POSITION_FOLLOWING))));
     this.total.set(this.bloques.length);
   }
 
@@ -200,7 +258,9 @@ export class LectorEnciclopedia implements OnDestroy {
     this.actual = this.bloques[i];
     this.actual.classList.add('lector-parrafo');
     this.actual.scrollIntoView({ block: 'center', behavior: 'instant' });
-    this.partes = frases(this.actual.innerText);
+    const copia = this.actual.cloneNode(true) as HTMLElement;
+    copia.querySelectorAll('.cita-fuente').forEach(cita => cita.remove());
+    this.partes = frases(textoParaLectura(copia.textContent ?? ''));
     this.parte = 0;
     if (reproducir) this.leerParte();
   }

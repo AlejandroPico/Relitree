@@ -33,6 +33,57 @@ CREATE INDEX idx_rel_destino ON relaciones(destino);
 """
 
 
+
+TITULO_FUENTES = re.compile(r"^#{2,6}\s+(?:Fuentes|Bibliografía|Referencias)[ \t]*$", re.M | re.I)
+CITA = re.compile(r"(?<!!)\[(\d+(?:\s*[,;–—-]\s*\d+)*)\](?![\[(])")
+
+
+def palabras_de_cuerpo(texto: str) -> int:
+    """Cuenta prosa y listas. Excluye encabezados, tablas, citas, figuras y bibliografía."""
+    cuerpo = TITULO_FUENTES.split(texto, maxsplit=1)[0]
+    cuerpo = re.sub(r"(?ms)^(`{3,}|~{3,})[^\n]*\n.*?^\1[ \t]*$", "", cuerpo)
+    cuerpo = re.sub(r"(?is)<(?:figure|table|blockquote|pre)\b[^>]*>.*?</(?:figure|table|blockquote|pre)>", "", cuerpo)
+    cuerpo = re.sub(r"(?m)^\s*(?:[#|>].*|!\[.*)$", "", cuerpo)
+    cuerpo = re.sub(r"\[\[([^]]+)\]\]", lambda m: m[1].split("|")[-1], cuerpo)
+    cuerpo = re.sub(r"!\[[^]]*\]\([^)]+\)", "", cuerpo)
+    cuerpo = re.sub(r"\[([^]]+)\]\([^)]+\)", r"\1", cuerpo)
+    cuerpo = re.sub(r"(?m)^(\s*)\d+\.\s+", r"\1", cuerpo)
+    cuerpo = CITA.sub("", cuerpo)
+    return len(re.findall(r"[^\W_]+(?:[’'-][^\W_]+)*", cuerpo))
+
+
+def enlazar_citas(texto: str) -> str:
+    titulo = TITULO_FUENTES.search(texto)
+    if not titulo:
+        return texto
+    fuentes = texto[titulo.end():]
+    existentes = set()
+
+    def marcar(m: re.Match) -> str:
+        existentes.add(int(m[1]))
+        return f'{m[1]}. <span class="ancla-fuente" id="fuente-{m[1]}"></span>'
+
+    fuentes = re.sub(r"^(\d+)[.)][ \t]+", marcar, fuentes, flags=re.M)
+
+    def cita(m: re.Match) -> str:
+        numeros: list[int] = []
+        for parte in re.split(r"\s*[,;]\s*", m[1]):
+            limites = [int(n) for n in re.split(r"\s*[–—-]\s*", parte)]
+            if len(limites) == 2:
+                primero, ultimo = limites
+                if not 0 <= ultimo - primero < 100:
+                    return m[0]
+                numeros.extend(range(primero, ultimo + 1))
+            else:
+                numeros.extend(limites)
+        if not all(n in existentes for n in numeros):
+            return m[0]
+        ids = " ".join(f"fuente-{n}" for n in dict.fromkeys(numeros))
+        return f'<a class="cita-fuente" href="#fuente-{numeros[0]}" data-fuentes="{ids}">{m[0]}</a>'
+
+    return CITA.sub(cita, texto[:titulo.end()]) + fuentes
+
+
 def a_html(md: str, nombres: dict[str, str]) -> str:
     """Markdown → HTML. [[id]] o [[id|texto]] enlaza con otra religión, un subartículo (id/slug) o un tema."""
     def enlace(m: re.Match) -> str:
@@ -40,8 +91,10 @@ def a_html(md: str, nombres: dict[str, str]) -> str:
         destino = rid if rid in nombres or "/" in rid or rid.startswith("tema:") else f"tema:{rid}"
         return f'<a data-ir="{escape(destino, quote=True)}">{escape(texto or nombres.get(rid, rid))}</a>'
     md = re.sub(r"^# .*\n", "", md, count=1)          # el título lo pinta la interfaz
+    md = re.sub(r"(?m)^> Borrador editorial de E\d+\.[ \t]*\n", "", md)
     md = re.sub(r"\[\[([^\]]+)\]\]", enlace, md)
-    return markdown.markdown(md, extensions=["tables", "sane_lists"])
+    return markdown.markdown(enlazar_citas(md), extensions=["tables", "sane_lists", "fenced_code", "toc"],
+                             extension_configs={"toc": {"toc_depth": "2-6"}})
 
 
 def titulo_de(texto: str, reserva: str) -> str:
@@ -58,7 +111,11 @@ def separar_cabecera(texto: str) -> tuple[str, str]:
 
 
 def insertar_articulo(bd, idioma, md, id_articulo, grupo, padre, nombres, reserva, orden=None):
-    _, texto = separar_cabecera(md.read_text(encoding="utf-8-sig"))
+    cabecera, texto = separar_cabecera(md.read_text(encoding="utf-8-sig"))
+    if re.search(r"^estado:\s*completo\s*$", cabecera, re.M):
+        palabras = palabras_de_cuerpo(texto)
+        if palabras < 5000:
+            raise ValueError(f"{md.relative_to(RAIZ) if md.is_relative_to(RAIZ) else md}: {palabras} palabras de cuerpo. Mínimo: 5000.")
     titulo = titulo_de(texto, reserva)
     bd.execute("INSERT INTO articulos VALUES (?,?,?,?,?,?,?,?)", (
         idioma, id_articulo, grupo, padre, titulo, normalizar(titulo), a_html(texto, nombres), orden,

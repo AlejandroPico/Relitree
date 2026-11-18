@@ -1,7 +1,7 @@
 ---
 estado: completo
 fase: E01
-palabras: 5137
+palabras: 5200
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://github.com/AlejandroPico/Relitree/blob/main/backend/relitree/escala.py"
@@ -210,6 +210,20 @@ Relitree es especialmente legible cuando la consulta alterna la geometría y las
 Para una lectura más extensa, usa los temas generales como referencias de consulta. Los artículos de [[textos-sagrados|textos sagrados]] y [[calendarios-festividades|calendarios y festividades]] sirven para comparar prácticas que atraviesan varias familias. El de [[historia-estudio-religiones|historia del estudio de las religiones]] explica de dónde proceden muchos de los términos que ha utilizado la investigación. La función de las remisiones es mantener accesibles las preguntas relacionadas y permitir un recorrido en el orden que pida cada consulta.
 
 El árbol también permite localizar una discrepancia concreta y describirla de forma verificable. Anota el identificador o el nombre de la entrada, la fecha o relación representada, la fuente que da otra información y lo que cubre esa fuente. Es distinto discutir el año de un hallazgo y discutir si ese hallazgo justifica la fecha elegida para una tradición. Una observación así puede convertirse en una nota bibliográfica, una revisión de la clasificación o una ampliación de la cronología. Una enciclopedia extensa gana precisión cuando las dudas se pueden leer, rastrear y revisar en el lugar al que pertenecen.
+
+## Leer un recorrido sin perder la escala
+
+Al comparar dos tradiciones, conviene decidir primero qué se está comparando. Si interesa la cronología, hay que leer las marcas de tiempo del árbol y la fecha consignada en cada ficha. Si la pregunta se refiere a continuidad institucional, hacen falta el tipo de relación y sus notas. Si se trata de intercambios de prácticas, una línea de influencia puede ofrecer el punto de partida para localizar casos. Limitarse al tamaño visual de los elementos mezcla esas dimensiones. Un grupo representado con poca superficie o con menos ramificaciones puede resultar central para una investigación sobre un territorio o una práctica concreta.
+
+Supongamos que una tradición presenta una línea de vida larga, una derivación y una conexión de influencia hacia otro territorio. El primer dato describe su intervalo de representación. La derivación afirma un vínculo de origen de acuerdo con lo consignado en la ficha de destino. La influencia permite hablar de circulación de una enseñanza, de prácticas o de contactos, según la documentación. Una investigación puede registrar los tres datos en columnas separadas y añadir el pasaje o la fuente que los respalda. Si la línea continúa después del intervalo que interesa, un recorte por fechas permite situar el episodio sin atribuir a las épocas restantes las mismas relaciones.
+
+También resulta útil distinguir una fecha desconocida de una fecha aproximada. Una fecha aproximada expresa un intervalo o una convención respaldada en alguna medida por la documentación. Una ausencia de fecha puede deberse a falta de fuentes, a un desacuerdo entre especialistas o a una decisión editorial de reservar el detalle para el artículo. Para entender cuál de estas situaciones se aplica, hay que seguir el enlace y examinar cómo se explica el comienzo o el final. En muchos casos se puede datar una inscripción, una institución reconocida o el nombre de un grupo con más precisión que la aparición de sus primeras prácticas.
+
+### Del árbol al índice del artículo
+
+El índice lateral permite abrir una tradición y recorrer sus categorías. Al seleccionar un artículo, sus secciones se muestran bajo el título de la entrada. La ruta encima del texto reúne la tradición y las categorías por las que se ha llegado a él. En textos con referencias numeradas, pulsar una referencia lleva a las fuentes correspondientes. Estos enlaces permiten pasar de una pregunta general a un pasaje y desde allí a la evidencia, sin perder la relación del artículo con el conjunto. Se puede usar esta navegación para leer dos apartados consecutivos o para comparar cómo se trata un asunto parecido en tradiciones diferentes.
+
+Si el artículo incluye una síntesis cronológica o un esquema, conviene comprobar qué se ha seleccionado para dibujarlo. Un esquema puede mostrar una secuencia argumental, un tramo del calendario o un conjunto de relatos comparados. La leyenda y las referencias indican cuáles son sus límites. Por ejemplo, si dos relatos sitúan una escena en fechas distintas, un esquema que conserva ambas secuencias permite ver el desacuerdo. Esta visualización aporta algo diferente de una línea temporal que adopta una sola fecha como convención.
 
 ## Fuentes
 
