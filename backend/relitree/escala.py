@@ -1,7 +1,7 @@
 """Escala temporal adaptativa: cada periodo recibe espacio vertical según cuántas tradiciones nacen en él.
 
-Así la densidad del árbol es parecida en todas las épocas: los siglos recientes, llenos de
-movimientos, se estiran, y los milenios vacíos de la prehistoria se comprimen.
+Los tramos de la prehistoria profunda comparten una altura visual. Sus duraciones
+cronológicas pueden ser diferentes.
 """
 from .modelo import ANIO_ACTUAL
 
@@ -23,9 +23,14 @@ def configurar(inicios: list[int]) -> None:
     """Calcula los tramos a partir de los años de inicio de todas las tradiciones."""
     global ALTO_TOTAL
     TRAMOS.clear()
+    alturas = []
     for desde, hasta in zip(CORTES, CORTES[1:]):
         n = sum(1 for a in inicios if hasta <= a < desde or (desde == ANIO_ACTUAL and a == desde))
-        TRAMOS.append((desde, hasta, (BASE_TRAMO + POR_TRADICION * n) / (desde - hasta)))
+        alturas.append((desde, hasta, BASE_TRAMO + POR_TRADICION * n))
+    altura_antigua = max(150, *(alto for desde, _, alto in alturas if desde <= -8000))
+    for desde, hasta, alto in alturas:
+        altura = altura_antigua if desde <= -8000 else alto
+        TRAMOS.append((desde, hasta, altura / (desde - hasta)))
     ALTO_TOTAL = y_de(ANIO_MINIMO) + 170
 
 

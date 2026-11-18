@@ -4,8 +4,10 @@ import { Estado } from './estado';
 import { I18n } from './i18n';
 import { GLIFOS } from './glifos';
 
-const GROSOR = [0, 1.2, 2.2, 5, 10, 18];
-const R_INT = 260;          // radio interior de la vista radial (lo más antiguo)
+// Un valor desconocido conserva el trazo mínimo. La escala comprime los órdenes de magnitud.
+export function grosorPorFieles(fieles: number | null): number {
+  return 1.4 + 1.7 * Math.log10(1 + Math.max(0, fieles ?? 0) / 100);
+}
 const HUECO = 0.32;         // radianes libres arriba, donde se rotulan las fechas
 
 /** Estilos del mundo vectorial. Se inyectan también en el SVG exportado. */
@@ -120,12 +122,12 @@ interface Escena {
         @if (estado.capaInfluencias()) {
           @for (i of e.influencias; track $index) {
             <g class="rama" [class.tenue]="tenueRel(i)" [class.oculto]="ocultaRel(i)">
-              <path class="inf" [attr.d]="i.d" [attr.stroke]="i.trazo" [style.stroke-width]="ancho(1.3)" [style.opacity]="activa(i) ? 1 : null"/>
+              <path class="inf" [attr.d]="i.d" [attr.stroke]="i.trazo" [style.stroke-width]="ancho(i.w)" [style.opacity]="activa(i) ? 1 : null"/>
               <path class="toque" [attr.d]="i.d" (click)="elegirRel($event, i.rel)"/>
             </g>
           }
           @for (i of e.lejanas; track $index) {
-            @if (activa(i)) { <path class="inf" style="opacity:1" [attr.d]="i.d" [attr.stroke]="i.trazo" [style.stroke-width]="ancho(1.6)"/> }
+            @if (activa(i)) { <path class="inf" style="opacity:1" [attr.d]="i.d" [attr.stroke]="i.trazo" [style.stroke-width]="ancho(i.w)"/> }
           }
         }
         @for (a of e.ramas; track $index) {
@@ -187,7 +189,10 @@ export class Lienzo {
   // ---- Geometría ---------------------------------------------------------------------
   private construir(radial: boolean): Escena {
     const d = this.datos, A = d.ancho, H = d.alto;
+    // El radio interior crece con el ancho para conservar la separación de los carriles.
+    const R_INT = Math.max(260, A * .65 / (2 * Math.PI - HUECO));
     const R_EXT = R_INT + H, C = R_EXT + 900;
+    const hoy = d.marcas[0];
     const ang = (x: number) => HUECO / 2 + (x / A) * (2 * Math.PI - HUECO);
     const rad = (y: number) => R_INT + (H - y);
     const P = (x: number, y: number): [number, number] =>
@@ -200,8 +205,9 @@ export class Lienzo {
       const r = f(rad(y)), grande = Math.abs(ang(x2) - ang(x1)) > Math.PI ? 1 : 0;
       return `A${r} ${r} 0 ${grande} ${x2 > x1 ? 1 : 0} ${pt(x2, y)}`;
     };
-    const curva = (x1: number, y1: number, x2: number, y2: number) => {
-      const mx = (x1 + x2) / 2, comba = y1 === y2 ? 46 : 0;
+    const curva = (x1: number, y1: number, x2: number, y2: number, comba = 0) => {
+      const mx = (x1 + x2) / 2;
+      if (y1 === y2 && comba === 0) return `M${pt(x1, y1)}${arco(y1, x1, x2)}`;
       if (!radial) return `M${x1} ${y1}C${mx} ${y1 - comba} ${mx} ${y2 - comba} ${x2} ${y2}`;
       let s = '';
       for (let i = 0; i <= 24; i++) {
@@ -234,7 +240,7 @@ export class Lienzo {
       for (const rel of d.relaciones) {
         if (!rel.principal) continue;
         const p = d.porId.get(rel.origen)!, c = d.porId.get(rel.destino)!;
-        if (Math.abs(p.yFin - c.y) > 0.1) continue;
+        if (p.fin === null || Math.abs(p.yFin - c.y) > 0.1) continue;
         const lista = finales.get(p.id) ?? [];
         lista.push(rel);
         finales.set(p.id, lista);
@@ -248,7 +254,7 @@ export class Lienzo {
       const lado = Math.sign(c.x - p.x);
       if (!lado) continue;
       const libre = Math.abs(c.x - p.x) - c.r - 1;
-      const yVida = d.yDe(p.fin ?? 2026);
+      const yVida = d.yDe(p.fin ?? hoy);
       const fin = p.yFin < yVida - 0.5 ? yVida : p.y;
       const radio = Math.min(24, libre / 2, (fin - c.y) / 2);
       if (radio <= 1) continue;
@@ -274,19 +280,23 @@ export class Lienzo {
       const p = d.porId.get(grupo[0].origen)!;
       const distancia = (rel: Relacion) => Math.abs(d.porId.get(rel.destino)!.x - p.x);
       grupo.sort((a, b) => distancia(a) - distancia(b));
-      const salida = Math.min(60, distancia(grupo[0]) / 2);
       const margen = Math.max(...grupo.map(rel => d.porId.get(rel.destino)!.r)) + 16;
+      const libre = Math.max(0, p.y - d.porId.get(grupo[0].destino)!.y - p.r - 8);
+      const paso = Math.min(22, Math.max(0, libre - margen) / Math.max(1, grupo.length - 2));
       for (const [i, rel] of grupo.slice(1).entries()) {
         const c = d.porId.get(rel.destino)!, lado = Math.sign(c.x - p.x);
         const xf = c.x - lado * (c.r + 1), avance = Math.abs(xf - p.x);
         if (avance <= 2) continue;
-        const x1 = p.x + lado * Math.min(salida, avance / 3);
-        const x2 = xf - lado * Math.min(62, avance / 3);
-        const y1 = c.y + margen + i * 22;
-        // Salida desde la unión, tramo desplazado y retorno tangente cerca del destino.
-        const ida = `C${pt(p.x + (x1 - p.x) * .25, c.y + (y1 - c.y) * .65)} ${pt(p.x + (x1 - p.x) * .65, y1)} ${pt(x1, y1)}`;
-        const vuelta = `C${pt(x2 + (xf - x2) * .4, y1)} ${pt(x2 + (xf - x2) * .7, c.y)} ${pt(xf, c.y)}`;
-        desvios.set(rel, `M${pt(p.x, c.y)}${ida}${arco(y1, x1, x2)}${vuelta}`);
+        const x2 = xf - lado * Math.min(76, avance / 3);
+        const offset = libre >= margen ? margen + i * paso : libre * ((i + 1) / grupo.length);
+        if (offset < 1) continue;
+        const y1 = c.y + offset;
+        // La salida nace en el tronco en una fecha anterior. Después solo avanza
+        // horizontalmente o hacia el presente, también tras la proyección radial.
+        const tramo = radial
+          ? curva(x2, y1, xf, c.y).slice(('M' + pt(x2, y1)).length)
+          : `C${pt(x2 + (xf - x2) * .4, y1)} ${pt(x2 + (xf - x2) * .7, c.y)} ${pt(xf, c.y)}`;
+        desvios.set(rel, `M${pt(p.x, y1)}${arco(y1, p.x, x2)}${tramo}`);
       }
     }
     for (const r of d.religiones) {
@@ -294,8 +304,8 @@ export class Lienzo {
       e.pos.set(r.id, [X, Y]); e.nodos.push({ r, x: X, y: Y });
       const yFinal = cortes.get(r.id) ?? r.yFin;
       if (yFinal < r.y - 0.5) {
-        const yVida = Math.min(r.y, d.yDe(r.fin ?? 2026)), corte = Math.max(yFinal, yVida);
-        e.vidas.push({ r, w: GROSOR[r.importancia], d: vert(r.x, r.y, corte), post: yFinal < corte - 0.5 ? vert(r.x, corte, yFinal) : null });
+        const yVida = Math.min(r.y, d.yDe(r.fin ?? hoy)), corte = Math.max(yFinal, yVida);
+        e.vidas.push({ r, w: grosorPorFieles(r.fieles), d: vert(r.x, r.y, corte), post: yFinal < corte - 0.5 ? vert(r.x, corte, yFinal) : null });
       }
     }
     for (const rel of d.relaciones) {
@@ -308,7 +318,7 @@ export class Lienzo {
         e.degradados.push({ id, x1: a1, y1: b1, x2: a2, y2: b2, c1: d.region.get(p.region)!.color, c2: trazo });
         trazo = `url(#${id})`;
       }
-      const w = GROSOR[c.importancia];
+      const w = grosorPorFieles(c.fieles);
       if (rel.principal) {
         const rc = giros.get(rel) ?? 0;
         const camino = desvios.get(rel) ?? (rc > 1
@@ -317,7 +327,8 @@ export class Lienzo {
         e.ramas.push({ rel, d: camino, trazo, w, punteada: rel.clase === 'renacimiento', a: p.id, b: c.id });
       } else {
         const lejos = rel.clase === 'influencia' && (p.region !== c.region || Math.abs(p.x - c.x) > 1500);
-        const obj = { rel, d: curva(p.x, sy, xf, c.y), trazo, w: Math.max(1.6, w * 0.4), punteada: false, a: p.id, b: c.id };
+        const comba = rel.clase === 'influencia' && sy === c.y ? 46 : 0;
+        const obj = { rel, d: curva(p.x, sy, xf, c.y, comba), trazo, w: Math.max(1.6, w * 0.4), punteada: false, a: p.id, b: c.id };
         (rel.clase !== 'influencia' ? e.ramas : lejos ? e.lejanas : e.influencias).push(obj);
       }
     }

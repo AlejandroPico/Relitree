@@ -66,17 +66,19 @@ Las doce entradas son borradores. Queda pendiente su desarrollo completo con fue
 
 ## Fase E04 · Cristianismo · Concilios ecuménicos (I)
 
-- Concilio de Nicea I (325)
-- Concilio de Constantinopla I (381)
-- Concilio de Éfeso (431)
-- Concilio de Calcedonia (451)
-- Concilio de Constantinopla II (553)
-- Concilio de Constantinopla III (680–681)
-- Concilio de Nicea II (787)
-- Concilio de Constantinopla IV (869–870)
-- Concilio de Letrán I (1123)
-- Concilio de Letrán II (1139)
-- Concilio de Letrán III (1179)
+Estado editorial: 1 de 11 artículos completos.
+
+- [x] [Concilio de Nicea I (325)](es/religiones/cristianismo/concilios/nicea-i.md)
+- [ ] Concilio de Constantinopla I (381)
+- [ ] Concilio de Éfeso (431)
+- [ ] Concilio de Calcedonia (451)
+- [ ] Concilio de Constantinopla II (553)
+- [ ] Concilio de Constantinopla III (680–681)
+- [ ] Concilio de Nicea II (787)
+- [ ] Concilio de Constantinopla IV (869–870)
+- [ ] Concilio de Letrán I (1123)
+- [ ] Concilio de Letrán II (1139)
+- [ ] Concilio de Letrán III (1179)
 
 ## Fase E05 · Cristianismo · Concilios ecuménicos (II)
 

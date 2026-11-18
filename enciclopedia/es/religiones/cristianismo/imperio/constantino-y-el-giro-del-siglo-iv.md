@@ -10,7 +10,7 @@ fuentes:
 
 # Constantino y el giro del siglo IV
 
-> Borrador editorial de E03.
+> **Bloque en desarrollo · E03.** Quedan por desarrollar la política religiosa, el patronazgo y el papel del emperador en los conflictos eclesiásticos. Nicea I se desarrolla en E04.
 
 El reinado de Constantino cambió la forma en que comunidades cristianas e instituciones imperiales interactuaban. Las decisiones de tolerancia, la restitución de bienes, el patronazgo y la intervención en disputas episcopales tuvieron efectos distintos. El cambio se estudia mediante leyes, cartas, monedas, edificios y relatos cristianos de diferente género.
 

@@ -10,7 +10,7 @@ fuentes:
 
 # Padres de la Iglesia griegos
 
-> Borrador editorial de E03.
+> **Bloque en desarrollo · E03.** Quedan por ampliar los autores, sus aportaciones y la circulación de sus obras. Los debates conciliares se desarrollan en E04 y E05.
 
 La categoría reúne autores de expresión griega de distintas regiones y siglos. Sus trabajos abarcan comentarios bíblicos, homilías, tratados, correspondencia y reglas de vida ascética. En la Antigüedad tardía fue importante la circulación de sus obras en traducciones y adaptaciones. La difusión posterior de una fórmula refleja la acción de lectores, editores y autoridades de épocas distintas.
 

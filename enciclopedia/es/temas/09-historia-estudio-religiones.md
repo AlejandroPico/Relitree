@@ -10,7 +10,7 @@ fuentes:
 
 # Historia del estudio de las religiones
 
-> Borrador editorial de E01.
+> **Bloque en desarrollo · E01.** Quedan por ampliar las escuelas, sus métodos y sus desacuerdos.
 
 El estudio de las religiones reúne formas de trabajo que surgieron en periodos y entornos institucionales distintos. La filología examina la transmisión de textos y lenguas. La historia reconstruye procesos a través de fuentes situadas en el tiempo. La antropología estudia prácticas y relaciones en contextos concretos. La sociología pregunta por instituciones, grupos y diferencias entre poblaciones. Los enfoques se pueden combinar cuando se formulan de manera explícita.
 

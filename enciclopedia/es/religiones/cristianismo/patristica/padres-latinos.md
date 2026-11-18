@@ -10,7 +10,7 @@ fuentes:
 
 # Padres de la Iglesia latinos
 
-> Borrador editorial de E03.
+> **Bloque en desarrollo · E03.** Quedan por ampliar la comparación entre autores, el desarrollo de su vocabulario doctrinal y su recepción.
 
 La literatura cristiana en latín se desarrolló en redes del norte de África, Italia, Hispania, la Galia y otros territorios. Su estudio abarca autores de siglos y contextos distintos. El latín de las traducciones bíblicas, la retórica de las apologías y el lenguaje de la administración eclesiástica se formaron mediante tradiciones relacionadas.
 

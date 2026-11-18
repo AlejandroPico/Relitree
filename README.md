@@ -1,6 +1,6 @@
 # Relitree
 
-**Versión 1.4.2**
+**Versión 1.5.0**
 
 El árbol de las religiones: un mapa interactivo y completamente vectorial de las tradiciones espirituales de la humanidad, desde los primeros ritos de la prehistoria hasta hoy. El tiempo corre en vertical y los territorios en horizontal; cada tradición es una línea de vida y cada rama muestra de dónde procede.
 

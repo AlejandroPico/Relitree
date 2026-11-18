@@ -11,7 +11,7 @@ fuentes:
 
 # Glosario general
 
-> Borrador editorial de E01.
+> **Bloque en desarrollo · E01.** Quedan por incorporar definiciones, ejemplos de uso y enlaces a los estudios correspondientes.
 
 Las definiciones de este glosario orientan la lectura de Relitree. Algunas describen campos de datos del proyecto y otras nombran conceptos de historia, antropología, filosofía o demografía. Se pueden consultar junto al artículo que muestra su aplicación.
 

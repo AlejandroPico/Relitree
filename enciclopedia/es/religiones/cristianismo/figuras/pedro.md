@@ -9,7 +9,7 @@ fuentes:
 
 # Pedro
 
-> Borrador editorial de E02.
+> **Bloque en desarrollo · E02.** Quedan por ampliar sus apariciones en las fuentes, su relación con Pablo y las tradiciones sobre Roma. El contexto de las primeras comunidades se desarrolla en E03.
 
 Pedro fue uno de los discípulos más destacados en la tradición sobre Jesús. En las cartas paulinas aparece como Cefas. Pablo lo incluye entre quienes tenían autoridad reconocida en Jerusalén y recuerda un desacuerdo en Antioquía. Los evangelios lo presentan en escenas de seguimiento, confesión, incomprensión y negación. La combinación de estas fuentes ha dado lugar a interpretaciones de su papel que atienden a contextos diferentes.
 

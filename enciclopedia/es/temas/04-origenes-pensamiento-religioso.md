@@ -9,7 +9,7 @@ fuentes:
 
 # Los orígenes del pensamiento religioso en la prehistoria
 
-> Borrador editorial de E01.
+> **Bloque en desarrollo · E01.** Queda por ampliar la evidencia arqueológica y el grado de certeza al interpretar enterramientos, pigmentos y objetos.
 
 La arqueología encuentra restos de acciones realizadas por personas que vivieron antes de los primeros documentos escritos de su región. Esos restos permiten reconstruir parte de lo que hicieron, cuándo y dónde. A partir de su distribución y de comparaciones con otros conjuntos, se pueden plantear hipótesis sobre gestos rituales, modos de conmemorar a los muertos y representaciones compartidas. La distancia entre esas hipótesis y los significados que les atribuían sus autores varía según la evidencia.
 

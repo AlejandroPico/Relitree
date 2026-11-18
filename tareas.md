@@ -4,6 +4,9 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E04 · «Concilio de Nicea I (325)», 5.161 palabras de cuerpo, cronología y tabla de fuentes.
+- [x] Mapa 1.5.0 · Carriles exclusivos, líneas de vida hasta hoy, grosor según fieles y espaciado antiguo regular en ambas vistas. Los desvíos de derivaciones salen de la línea de origen y avanzan hacia fechas posteriores.
+
 - [x] E00 · Reproductor de la enciclopedia con navegación por párrafos y ajustes de lectura.
 - [x] E01 · «Cómo leer el árbol» y «Tipos de religión».
 - [x] E02 · «Cristianismo» y «La vida de Jesús de Nazaret».
@@ -12,14 +15,15 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 - [x] E02 · «Pasión, muerte y resurrección».
 - [x] E02 · «Canon, apócrifos y traducciones de la Biblia» y «La Trinidad y los dogmas».
 - [x] E00 · Índice de secciones y subsecciones plegado por defecto.
-- [x] Mapa · Los giros terminales sustituyen el tramo de tronco que solapaban. Las ramas del mismo año que salen hacia el mismo lado se separan si coinciden en el recorrido.
+- [x] Mapa · Los giros terminales sustituyen el tramo de tronco que solapaban. Se incorporó una primera separación de ramas del mismo año y lado.
 
 ## Fase A · Enciclopedia (78 fases, 859 artículos; detalle en `enciclopedia/PLAN.md`)
 - E00 · Infraestructura (pestañas, fichas, galerías y búsqueda de texto)
 - E01 · Temas generales. Textos ampliados: «Cómo leer el árbol» y «Tipos de religión». Quedan por desarrollar y revisar los otros ocho temas, con sus fuentes y recursos visuales.
 - E02 · Cristianismo: fundamentos. Cinco artículos completos. Quedan por desarrollar y revisar los otros siete.
 - E03 · Apóstoles y primeros siglos. Las doce entradas son borradores pendientes de desarrollo completo.
-- E04–E22 · Cristianismo (21 concilios, cismas e Inquisición, cruzadas, Reforma, expansión, época contemporánea, papas, santos y 105 tradiciones)
+- E04 · Cristianismo, concilios ecuménicos (I). En curso, 1 de 11 completos. [Nicea I (325)](enciclopedia/es/religiones/cristianismo/concilios/nicea-i.md) disponible. Pendientes Constantinopla I y los otros nueve del episodio.
+- E05–E22 · Cristianismo (segunda parte de los 21 concilios, cismas e Inquisición, cruzadas, Reforma, expansión, época contemporánea, papas, santos y 105 tradiciones)
 - E23–E26 · Judaísmo
 - E27–E33 · Islam
 - E34–E41 · Hinduismo (más de 100 deidades) y sijismo
@@ -34,6 +38,8 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 - E77 · Revisión final
 
 ## Auditoría editorial de E01–E03
+
+Los borradores de E01–E03 indican al abrirse qué falta por desarrollar y en qué episodio corresponde hacerlo.
 
 Siete artículos alcanzan las 5.000 palabras de cuerpo. Las siguientes 27 entradas requieren investigación, desarrollo, recursos visuales y revisión antes de cambiar su estado.
 

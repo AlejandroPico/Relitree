@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 214" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">De Nicea I a Calcedonia</title>
+<desc id="descripcion">Nicea 325, Antioquía 341, Rímini y Seleucia 359, Constantinopla 381, Calcedonia 451. Espaciado esquemático.</desc>
+<rect width="840" height="214" fill="#f2f0e9"/>
+<text x="28" y="35" font-family="system-ui,sans-serif" font-size="22" font-weight="700" fill="#172c37">De Nicea I a Calcedonia</text>
+<text x="28" y="60" font-family="system-ui,sans-serif" font-size="14" fill="#40535a">Asambleas y recepción de sus fórmulas · Espaciado esquemático</text>
+<line x1="82" y1="107" x2="757" y2="107" stroke="#52737e" stroke-width="3"/>
+<g fill="#21677b">
+<circle cx="82" cy="107" r="8"/><circle cx="251" cy="107" r="8"/><circle cx="420" cy="107" r="8"/><circle cx="589" cy="107" r="8"/><circle cx="757" cy="107" r="8"/>
+</g>
+<g font-family="system-ui,sans-serif" text-anchor="middle" fill="#172c37">
+<g font-size="20" font-weight="700">
+<text x="82" y="145">325</text><text x="251" y="145">341</text><text x="420" y="145">359</text><text x="589" y="145">381</text><text x="757" y="145">451</text>
+</g>
+<g font-size="15">
+<text x="82" y="173">Nicea I</text><text x="251" y="173">Antioquía</text><text x="420" y="173">Rímini y Seleucia</text><text x="589" y="173">Constantinopla I</text><text x="757" y="173">Calcedonia</text>
+</g>
+</g>
+</svg>

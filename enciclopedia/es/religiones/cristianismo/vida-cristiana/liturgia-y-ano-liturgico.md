@@ -9,7 +9,7 @@ fuentes:
 
 # Liturgia y año litúrgico
 
-> Borrador editorial de E02.
+> **Bloque en desarrollo · E02.** Quedan por ampliar la evolución de las celebraciones, el uso del calendario y las diferencias entre tradiciones. El acuerdo pascual de Nicea se trata en E04.
 
 La liturgia organiza la oración de una comunidad mediante lecturas, plegarias, música, gestos y acciones compartidas. El orden del culto tiene tradiciones locales, confesionales e históricas. Una vigilia pascual, un oficio monástico, una eucaristía y una reunión carismática pueden relacionarse con historias de composición, memoria y participación distintas.
 

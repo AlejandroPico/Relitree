@@ -1,7 +1,7 @@
 ---
 estado: completo
 fase: E01
-palabras: 5200
+palabras: 5260
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://github.com/AlejandroPico/Relitree/blob/main/backend/relitree/escala.py"
@@ -36,7 +36,7 @@ Una regla sirve para las dos vistas. **La edad se lee en las marcas del eje, la 
 | Prolongación punteada tras el fin | Continuación gráfica hasta una rama posterior | Fecha de fin del origen |
 | Aro discontinuo en el nodo | Tradición catalogada como extinguida | Fecha de fin |
 | Emblema pequeño y atenuado dentro del nodo | Símbolo heredado de una familia de tradiciones | Crédito del símbolo |
-| Variación del grosor | Importancia asignada en el catálogo | Leyenda del árbol |
+| Variación del grosor | Estimación de fieles en el catálogo | Leyenda y fuente de la ficha |
 
 ![Esquema de un nodo, su línea de vida y la rama que lo une a un segundo nodo](datos/medios/e01-lectura-arbol.svg)
 
@@ -48,7 +48,7 @@ La leyenda distingue deliberadamente el tramo punteado de una línea de vida y u
 
 En la vista de columnas, las fechas recientes aparecen arriba y las antiguas abajo. Una línea horizontal que pase por dos nodos ayuda a comparar sus comienzos aproximados. En la vista radial, el centro contiene los periodos más antiguos y el borde los más recientes. Dos nodos situados a una distancia similar del centro ocupan fechas próximas, aunque el arco entre ellos pueda ser largo. En ambos casos, sigue las marcas de años para hacer la comparación. El cambio de vista reorganiza la misma información mediante otra geometría.
 
-La escala es adaptativa. El programa divide la historia en intervalos y asigna a cada uno un espacio base más un incremento por cada tradición del catálogo situada en ese intervalo. Dentro de un tramo, la distribución de años es proporcional. Al pasar a otro tramo puede cambiar la cantidad de píxeles que representa un año. Por eso dos segmentos de altura parecida pueden corresponder a intervalos de distinta duración. Por ejemplo, una distancia visual corta en la prehistoria puede abarcar milenios, mientras que otra similar cerca del presente puede abarcar décadas. Las marcas impresas y la ficha proporcionan el dato temporal.
+La escala es adaptativa. El programa divide la historia en intervalos y reserva más espacio donde necesita distribuir muchos comienzos. En los tramos antiguos, las marcas comprendidas entre 300.000 y 8.000 a. C. se separan por la misma distancia visual. Así, de 300.000 a 200.000 a. C. hay la misma altura que de 100.000 a 50.000 a. C., aunque el primer salto abarca el doble de años. Lo mismo ocurre en las marcas de 12.000, 10.000 y 8.000 a. C. Dentro de cada tramo, la distribución de años sigue siendo proporcional. Al cruzar una marca puede cambiar la cantidad de píxeles que representa un año. Las marcas impresas y la ficha proporcionan el dato temporal.
 
 La densidad del dibujo depende también del catálogo. Si se incorporan nuevas tradiciones a un periodo, al regenerar el árbol ese periodo puede ganar espacio. Cambia el reparto gráfico, aunque las fechas de las tradiciones ya registradas sigan siendo las mismas. Una captura de una versión antigua puede por tanto mostrar una distribución diferente. Para citar una cronología conviene anotar los años que expresa la ficha, la tradición concreta y, cuando sea pertinente, el momento en que se consultó el proyecto.
 
@@ -74,7 +74,7 @@ En columnas, el eje horizontal reúne once territorios. La vista radial transfor
 | ¿Dónde viven hoy sus miembros? | Encuestas y censos con fecha y método |
 | ¿Qué tradiciones de otras regiones influyeron en esta? | Relaciones, nombres de origen y bibliografía |
 
-La anchura de las bandas responde a la colocación de los nodos. El programa asigna carriles para evitar que una rama pase por encima de un símbolo, reducir solapamientos y encajar tradiciones que se sitúan en muchas fechas. Cuando hace falta, añade carriles. Un sector radial amplio, por tanto, ocupa el espacio que necesita su disposición, no una superficie terrestre proporcional. Un carril puede alojar varias entradas que aparecen en momentos distintos. El carril compartido por dos símbolos no constituye una genealogía.
+La anchura de las bandas responde a la colocación de los nodos. Cada tradición tiene su propio carril, incluso cuando su intervalo de vida coincide por completo con el de varias tradiciones de la misma región. Al colocar dos ramas de un mismo origen en una región, la más antigua dispone primero del carril libre más cercano a ese origen. Las demás ocupan los siguientes espacios disponibles. Un sector radial amplio ocupa el espacio que necesita su disposición. Las dimensiones de los sectores representan la geometría del dibujo y los nombres de las regiones indican el territorio asociado a cada entrada.
 
 La posición de izquierda a derecha en una columna también obedece al trazado. Si dos nodos tienen carriles contiguos, esa cercanía puede venir de su filiación, de la necesidad de dejar espacio para otras líneas o de ambos factores. El criterio firme para leer la relación es el enlace que une los nodos y el texto de su ficha. Esto resulta especialmente importante en grupos densos, en los que se cruzan muchas líneas. Conviene seleccionar un nodo, observar qué relaciones resalta la interfaz y después abrir la relación o el artículo que se quiere interpretar.
 
@@ -90,9 +90,9 @@ Para observar esta distinción, elige dos ramas próximas que compartan un símb
 
 ### Cuándo termina la línea dibujada
 
-El nombre «línea de vida» describe el elemento que parte del nodo y corre hacia fechas posteriores. Su longitud visible se calcula con reglas de trazado. Las tradiciones con mayor importancia editorial, a partir del umbral de tronco, se extienden hasta el presente o su fin cuando corresponde. Las demás pueden dibujarse solo hasta la última rama que debe conectarse, y una entrada sin necesidad de dicho tramo puede verse únicamente como nodo. El año de fin de la ficha y el aro discontinuo indican si una entrada está catalogada como extinguida.
+La línea de vida parte del nodo y corre hacia fechas posteriores. Si la ficha termina en «Hoy», la parte continua de la línea llega hasta la marca del presente. En columnas lo hace de abajo arriba. En radial avanza hacia el anillo exterior. Si la ficha indica una fecha de fin, la línea continua termina en esa fecha. Puede haber además una prolongación punteada cuando una rama posterior necesita conectarse con su origen. El aro discontinuo del nodo y las fechas que figuran en la ficha permiten confirmar el estado asignado en el catálogo.
 
-El punto merece un ejemplo. Imagina una escuela viva desde el año 1500 de la que se separa una comunidad en 1750. Su línea visible podría terminar en la altura necesaria para anclar esa rama. Si la ficha indica que la escuela sigue viva, se lee como una tradición vigente cuya línea se ha dibujado solo hasta 1750 para colocar la relación. El ejercicio inverso parte de una comunidad antigua con fecha de fin y de un movimiento moderno que recupera elementos suyos. Si el gráfico prolonga la línea antigua hasta alcanzar el nodo moderno, el tramo posterior queda punteado. Su función es conectar dos fechas distantes de manera legible.
+Imagina una escuela vigente desde 1500 de la que se separa una comunidad en 1750. A esa altura aparece una rama hacia el nuevo nodo y la línea de la escuela sigue hasta hoy. La comunidad derivada ocupa su carril, con el final que figure en su propia ficha. Otro caso parte de una comunidad antigua con una fecha de fin y de un movimiento moderno que recupera elementos suyos. Si el gráfico prolonga la línea antigua hasta alcanzar la rama moderna, el tramo posterior a su final queda punteado. Así se puede seguir el enlace y localizar por separado el periodo de actividad de la comunidad anterior.
 
 En una tradición catalogada como extinguida, el año final también exige interpretación histórica. Puede señalar el último testimonio conocido, la desaparición de una institución, el abandono de una práctica o un límite convencional. Una forma desaparecida puede dejar vocabulario, relatos, monumentos y técnicas rituales, y esa recepción puede merecer un artículo propio. En la tradición nueva conviene buscar por separado los elementos que se recuperan, los aportes modernos y la documentación que conecta uno y otro momento.
 
@@ -153,7 +153,7 @@ Los nombres presentan otro problema. Una misma tradición puede tener transliter
 
 ### Tamaño, grosor y número de fieles
 
-Un trazo grueso y un nodo destacado expresan la importancia que el proyecto asigna a una entrada para el trazado y los rótulos. Esa decisión puede estar relacionada con el alcance, el tamaño o la relevancia histórica, y se aplica en una escala editorial. La anchura del trazo carece de unidades demográficas. Dos símbolos de tamaño parecido pueden representar comunidades con cifras muy distintas. Si la entrada contiene una estimación de fieles, examina qué fuente respalda el dato y en qué sentido usa «fiel», «miembro» u otra categoría.
+El grosor del trazo aumenta con la estimación de fieles registrada en la ficha. El dibujo usa una escala logarítmica para que se distingan comunidades de tamaños muy diferentes. Dos veces el grosor, por tanto, representa una relación que depende de esa escala. Cuando falta la estimación se usa un trazo fino de referencia. El tamaño del nodo y la prioridad de los rótulos siguen expresando relevancia editorial. Para comparar una familia con una de sus ramas, comprueba si la estimación general ya incluye a la rama. En ambos casos examina qué fuente respalda la cifra y en qué sentido usa «fiel», «miembro» u otra categoría.
 
 La comparación entre dos estimaciones requiere comprobar el año, el territorio y la población que se cuenta. Un registro institucional puede incluir personas que participaron en un rito de incorporación. Un censo puede registrar su identificación declarada. Un estudio de práctica puede preguntar con qué frecuencia se asiste a una actividad. Cada método describe una dimensión. Una cifra ausente en la ficha indica que no se ofrece una estimación utilizable allí. Cero personas y ausencia de datos son resultados distintos. El [[mapa-religioso-actual|estudio de demografía]] desarrolla estas distinciones.
 

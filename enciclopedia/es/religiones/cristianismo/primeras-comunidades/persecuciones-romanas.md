@@ -10,7 +10,7 @@ fuentes:
 
 # Las persecuciones romanas
 
-> Borrador editorial de E03.
+> **Bloque en desarrollo · E03.** Quedan por desarrollar el alcance y las diferencias entre actuaciones locales, decisiones imperiales y testimonios cristianos.
 
 Las actuaciones de las autoridades romanas contra los cristianos variaron con el lugar, el momento y el procedimiento. Las noticias sobre ejecuciones en la Roma de Nerón, las consultas de un gobernador provincial y los edictos imperiales del siglo III proporcionan evidencias de situaciones diferentes. Hay cartas administrativas, historias, peticiones y relatos martiriales, cada uno con sus condiciones de transmisión.
 

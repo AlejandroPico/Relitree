@@ -9,7 +9,7 @@ fuentes:
 
 # Mapa religioso actual: demografía y tendencias
 
-> Borrador editorial de E01.
+> **Bloque en desarrollo · E01.** Quedan por desarrollar las fuentes demográficas, sus límites y las tendencias regionales.
 
 Un mapa de religiones se puede construir a partir de la identidad que declara la población, la inscripción en organizaciones o la práctica observada mediante encuestas. Antes de interpretar el color de un territorio, hace falta saber qué pregunta se utilizó y a quién cubre el recuento. Las comparaciones internacionales suelen sintetizar censos y encuestas de naturaleza distinta. Esa síntesis permite trabajar con amplias regiones y exige conservar las notas metodológicas.
 

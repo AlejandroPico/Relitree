@@ -39,13 +39,13 @@ El idioma base es `es`. Para traducir: copiar `i18n/es/` a `i18n/<idioma>/` y `e
 ## Cómo se dibuja el árbol
 
 - **Nodo** = símbolo + nombre + fechas, colocado en el año de inicio. Aro discontinuo = tradición extinguida.
-- **Línea de vida**: sube desde el nodo solo hasta donde hace falta: hasta su última rama o, si es un tronco (importancia ≥ 4), hasta su final o el presente. Si sigue más allá de su extinción para alcanzar una rama tardía, ese tramo es punteado. Así un carril aloja muchas tradiciones apiladas.
-- **Rama**: línea horizontal (arco en la vista radial) desde la línea del origen hasta el nodo, siempre visible, con degradado si cambia de territorio. Renacimientos: punteada. Segundas fuentes: curva fina continua. Influencias: curva discontinua (las que cruzan territorios solo se muestran al seleccionar).
-- **Grosor** por importancia: 1,2 · 2,2 · 5 · 10 · 18 px.
+- **Línea de vida**: tramo continuo desde el inicio hasta el fin de la ficha o la marca «Hoy» si la tradición sigue vigente. Solo se prolonga en punteado para conectar una rama que surge después de la extinción.
+- **Rama**: sale de la línea de vida del origen y llega al nodo hijo. Las conexiones pueden ser horizontales o curvarse hacia el presente para evitar que coincidan. Conservan el degradado cuando cambian de territorio. Las segundas fuentes van en curva fina continua y las influencias en curva discontinua. Las influencias entre territorios se muestran al seleccionar.
+- **Grosor**: escala logarítmica a partir de la estimación de fieles. Si falta una cifra se usa el grosor fino de referencia.
 - **Selección**: resalta todo el linaje ascendente, todo el árbol que desciende y las influencias directas.
 - **Etiquetas**: en cada nivel de zoom se muestran todas las que caben sin pisarse, por orden de importancia.
 - **Vista radial**: la misma geometría en polares (ángulo = posición horizontal, radio = tiempo; lo más antiguo en el centro).
-- El trazado coloca las tradiciones en orden cronológico, cada una en el carril libre más cercano a su origen, evitando que una rama pase sobre un símbolo.
+- El trazado asigna un carril exclusivo por tradición dentro de su territorio. Coloca primero los orígenes más antiguos y reserva para sus ramas los carriles libres más cercanos disponibles por orden cronológico. Las marcas del tramo más antiguo tienen separación visual uniforme.
 
 ## Flujo de trabajo
 
@@ -62,7 +62,7 @@ El idioma base es `es`. Para traducir: copiar `i18n/es/` a `i18n/<idioma>/` y `e
 | `region` | `afr eur opr asn asm aso sea oce nam mes sam`. |
 | `inicio`, `fin` | Años; negativos = a. C.; `fin: null` = sigue viva. |
 | `tipo` | Clave de `modelo.TIPOS`. |
-| `importancia` | 1–5. Grosor de línea, tamaño del nodo y prioridad de su etiqueta. |
+| `importancia` | 1–5. Tamaño del nodo y prioridad de su etiqueta. |
 | `padres` | `[{id, relacion}]`. El primero es el origen principal. `relacion`: derivacion, cisma, reforma, sincretismo, renacimiento. |
 | `influencias` | Ids de tradiciones que influyeron sin ser origen. |
 | `fieles`, `fieles_max`, `fieles_fuente` | Fieles actuales (mínimo y, si las fuentes dan un rango, máximo) y su fuente. Solo en tradiciones vivas. **Nunca una cifra sin fuente**: la validación lo rechaza. |
@@ -102,7 +102,7 @@ El plan completo, con la lista de artículos de cada fase, está en `enciclopedi
 
 **Rigor**
 12. Cada artículo termina con sus fuentes (bibliografía académica y obras de referencia). Fechas, cifras y citas se contrastan antes de dar el artículo por completo. Las citas de textos sagrados, en traducciones de dominio público o parafraseadas.
-13. Cabecera YAML en cada archivo: `estado` (borrador | completo), `fase`, `palabras`, `fuentes`. La compilación rechaza un artículo `completo` si su cuerpo tiene menos de 5.000 palabras. El recuento excluye títulos, citas numéricas, bibliografía, bloques citados, tablas y pies de figura. Los borradores nunca se contabilizan como artículos terminados.
+13. Cabecera YAML en cada archivo: `estado` (borrador | completo), `fase`, `palabras`, `fuentes`. La compilación rechaza un artículo `completo` si su cuerpo tiene menos de 5.000 palabras. El recuento excluye títulos, citas numéricas, bibliografía, bloques citados, tablas y pies de figura. Los borradores nunca se contabilizan como artículos terminados. Abren con un aviso visible «Bloque en desarrollo» que indica su episodio y qué falta. Cuando un artículo completo remite parte de la materia a otro episodio, puede advertirlo al principio.
 
 **Archivos**
 14. Artículo principal: `enciclopedia/es/religiones/<id>.md`. Subartículos: `enciclopedia/es/religiones/<id>/<categoria>/<slug>.md`, con tantos niveles de carpeta como haga falta; cada carpeta lleva un `_indice.md` con su título y orden. Temas generales: `enciclopedia/es/temas/`. Imágenes: `enciclopedia/medios/`.

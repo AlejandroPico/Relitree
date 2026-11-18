@@ -9,7 +9,7 @@ fuentes:
 
 # Mandamientos, sacramentos y moral
 
-> Borrador editorial de E02.
+> **Bloque en desarrollo · E02.** Quedan por desarrollar el origen de estas categorías y su práctica e interpretación en cada tradición cristiana.
 
 Los cristianos han relacionado su vida moral con las Escrituras, con tradiciones de enseñanza y con prácticas comunitarias. Entre sus referencias se cuentan el Decálogo, el mandamiento de amor a Dios y al prójimo y enseñanzas de Jesús sobre perdón, riqueza y trato con otras personas. El modo de relacionar estas fuentes con problemas concretos cambia entre iglesias, épocas y situaciones.
 

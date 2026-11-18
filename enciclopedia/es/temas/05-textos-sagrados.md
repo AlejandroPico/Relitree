@@ -9,7 +9,7 @@ fuentes:
 
 # Textos sagrados del mundo comparados
 
-> Borrador editorial de E01.
+> **Bloque en desarrollo · E01.** Queda por desarrollar la comparación entre transmisión oral, escritura, canon y uso ritual.
 
 Una escritura puede ser al mismo tiempo una recopilación narrativa, un objeto ritual, una fuente para resolver controversias y un conjunto de pasajes que se aprenden de memoria. Esos usos ayudan a explicar por qué dos comunidades que comparten un corpus pueden organizar su estudio y su culto de maneras distintas. Comparar textos sagrados requiere prestar atención a su transmisión y a qué personas e instituciones les reconocen autoridad.
 

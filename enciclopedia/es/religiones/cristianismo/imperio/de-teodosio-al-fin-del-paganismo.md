@@ -9,7 +9,7 @@ fuentes:
 
 # De Teodosio al fin del paganismo
 
-> Borrador editorial de E03.
+> **Bloque en desarrollo · E03.** Quedan por ampliar la legislación, su aplicación desigual y la continuidad de las prácticas religiosas entre los siglos IV y V.
 
 La transformación religiosa del Imperio tardorromano se extendió durante generaciones. Las leyes, la conducta de las autoridades y los cambios en los cultos locales tienen cronologías propias. La expresión «fin del paganismo» resume procesos diversos que conviene describir por regiones, instituciones y prácticas.
 

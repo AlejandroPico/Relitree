@@ -10,7 +10,7 @@ fuentes:
 
 # Los apóstoles (II): Felipe, Bartolomé y Tomás
 
-> Borrador editorial de E03.
+> **Bloque en desarrollo · E03.** Quedan por ampliar las tradiciones sobre Felipe, Bartolomé y Tomás, sus fuentes y su recepción en Oriente y Occidente.
 
 Felipe, Bartolomé y Tomás aparecen en los repertorios apostólicos. Su presencia en una lista indica el lugar que ocupa su nombre dentro de la memoria de los Doce. La información acerca de sus itinerarios y actividades tiene una distribución desigual entre los textos. Las tradiciones locales posteriores aportan otro tipo de evidencia, especialmente sobre la manera en que determinadas iglesias narraron sus orígenes.
 

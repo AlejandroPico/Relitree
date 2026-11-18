@@ -9,7 +9,7 @@ fuentes:
 
 # Simbología cristiana
 
-> Borrador editorial de E02.
+> **Bloque en desarrollo · E02.** Quedan por ampliar la historia y las interpretaciones de la cruz, el pez, el crismón y otros símbolos cristianos. Nicea II y la veneración de imágenes se desarrollan en E04.
 
 El repertorio cristiano abarca signos grabados, pinturas, mosaicos, textiles e imágenes que se usan en la oración y en el espacio público. El lugar y la fecha de una pieza son claves para interpretar su función. El mismo signo puede aparecer en una tumba, un sello, un altar y un objeto de uso privado.
 

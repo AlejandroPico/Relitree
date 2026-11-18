@@ -10,7 +10,7 @@ fuentes:
 
 # Los mártires
 
-> Borrador editorial de E03.
+> **Bloque en desarrollo · E03.** Quedan por ampliar el contraste entre expedientes, relatos de martirio y su uso en el culto público.
 
 El término «mártir» procede de una palabra griega relacionada con el testimonio. En el cristianismo antiguo adquirió una conexión específica con quienes sufrieron la muerte por mantener públicamente su fe. La figura del mártir aparece en narraciones, calendarios, lugares de enterramiento y prácticas de memoria. Esas fuentes iluminan tanto la violencia como la manera en que las comunidades la interpretaron.
 

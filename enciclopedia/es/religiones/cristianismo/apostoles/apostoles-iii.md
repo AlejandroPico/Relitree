@@ -9,7 +9,7 @@ fuentes:
 
 # Los apóstoles (III): Mateo, Santiago el Menor y Judas Tadeo
 
-> Borrador editorial de E03.
+> **Bloque en desarrollo · E03.** Queda por ampliar la identificación de estas tres figuras en cada lista, las atribuciones literarias y las tradiciones posteriores.
 
 Los nombres de Mateo, Santiago y Judas remiten a personas distintas en varios escritos antiguos. La identificación de una figura exige comprobar cómo la denomina cada fuente, con quién aparece y qué acontecimientos le atribuye. Los títulos con los que suelen distinguirse en el calendario litúrgico también tienen una historia.
 

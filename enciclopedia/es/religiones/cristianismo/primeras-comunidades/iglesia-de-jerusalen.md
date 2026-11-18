@@ -9,7 +9,7 @@ fuentes:
 
 # La Iglesia de Jerusalén y la ruptura con el judaísmo
 
-> Borrador editorial de E03.
+> **Bloque en desarrollo · E03.** Quedan por ampliar las fuentes sobre la comunidad de Jerusalén y las distintas cronologías de separación entre comunidades judías y cristianas.
 
 Las primeras comunidades de seguidores de Jesús surgieron dentro del judaísmo del Segundo Templo. Las cartas de Pablo y Hechos sitúan a Jerusalén en el centro de sus orígenes, aunque lo hacen desde épocas, géneros y objetivos distintos. En Gálatas 1 y 2, Pablo recuerda encuentros con Cefas y Santiago y discute el alcance de la autoridad que reconoce a dirigentes de la ciudad. Hechos dedica a Jerusalén episodios sobre el Templo, la predicación y la organización del movimiento.
 

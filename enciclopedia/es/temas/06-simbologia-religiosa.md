@@ -9,7 +9,7 @@ fuentes:
 
 # Simbología religiosa comparada
 
-> Borrador editorial de E01.
+> **Bloque en desarrollo · E01.** Queda por ampliar el análisis de símbolos concretos y de cómo cambia su significado con el contexto.
 
 Una imagen religiosa se interpreta a partir de su forma y del contexto en que aparece. Una figura grabada en piedra, bordada en una prenda, repetida en un sello o situada junto a un altar puede cumplir funciones distintas. Puede evocar un relato, indicar quién encargó un objeto, identificar una comunidad o formar parte de una acción ritual. La comparación empieza por reconstruir esas condiciones de uso.
 

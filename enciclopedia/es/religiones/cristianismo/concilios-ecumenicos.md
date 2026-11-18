@@ -1,12 +1,14 @@
 # Los concilios ecuménicos
 
-Un concilio ecuménico es una asamblea de obispos de toda la Iglesia convocada para resolver cuestiones de doctrina y disciplina. La [[catolica|Iglesia católica]] reconoce veintiuno. La [[ortodoxa|Iglesia ortodoxa]] acepta solo los siete primeros; las [[miafisismo|Iglesias ortodoxas orientales]], los tres primeros; y la [[iglesia-oriente|Iglesia del Oriente]], los dos primeros. Cada ruptura en torno a un concilio es una rama del árbol.
+> **Bloque en desarrollo · E04 y E05.** El repertorio se amplía con estudios de cada concilio. Ya está disponible [[cristianismo/concilios/nicea-i|Concilio de Nicea I (325)]].
+
+Un concilio ecuménico es una asamblea de obispos de toda la Iglesia convocada para resolver cuestiones de doctrina y disciplina. La [[catolica|Iglesia católica]] reconoce veintiuno. La [[ortodoxa|Iglesia ortodoxa]] acepta solo los siete primeros; las [[miafisismo|Iglesias ortodoxas orientales]], los tres primeros; y la [[iglesia-oriente|Iglesia del Oriente]], los dos primeros. Las listas reflejan tradiciones de recepción que se han configurado a lo largo de siglos. Las rupturas vinculadas a la recepción de un concilio se estudian en sus artículos y en las fichas históricas correspondientes.
 
 ## Los siete concilios de la Iglesia indivisa
 
 | N.º | Concilio | Año | Decisiones principales |
 |---|---|---|---|
-| 1 | Nicea I | 325 | Condena el [[arrianismo]]: el Hijo es «de la misma naturaleza» que el Padre. Primer credo y fecha común de la Pascua. |
+| 1 | [[cristianismo/concilios/nicea-i|Nicea I]] | 325 | Afirma en su credo que el Hijo es consustancial al Padre, establece cánones disciplinares y busca una celebración común de la Pascua. |
 | 2 | Constantinopla I | 381 | Afirma la divinidad del Espíritu Santo y completa el credo niceno. |
 | 3 | Éfeso | 431 | Proclama a María Madre de Dios y condena a Nestorio. Se separa la Iglesia del Oriente. |
 | 4 | Calcedonia | 451 | Cristo es una persona con dos naturalezas, divina y humana. Se separan las iglesias miafisitas. |

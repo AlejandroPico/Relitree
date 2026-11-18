@@ -9,7 +9,7 @@ fuentes:
 
 # Calendarios y festividades del mundo
 
-> Borrador editorial de E01.
+> **Bloque en desarrollo · E01.** Quedan por ampliar los sistemas de cómputo, sus ciclos y su aplicación a fiestas concretas.
 
 Un calendario establece cómo se agrupan y nombran los días. Una festividad añade preguntas sobre la conmemoración, la autoridad que fija la fecha y lo que ocurre en las casas, lugares de culto y espacios públicos. Una misma tradición puede usar un calendario civil para sus documentos, otro para ciertas fiestas y horarios locales para las actividades del día. La variedad resulta visible al convertir fechas entre sistemas.
 

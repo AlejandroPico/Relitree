@@ -9,7 +9,7 @@ fuentes:
 
 # Qué es una religión: definiciones y debates
 
-> Borrador editorial de E01.
+> **Bloque en desarrollo · E01.** Queda por desarrollar la comparación entre las definiciones de religión y sus consecuencias para clasificar casos fronterizos.
 
 En el lenguaje cotidiano se llama religión tanto a grandes tradiciones con instituciones extendidas por varios países como a un conjunto de ritos vinculados a un lugar, una casa o un linaje. Si se pregunta a dos personas qué comparten esos fenómenos, una puede responder que cuentan con seres sagrados y la otra que organizan la vida colectiva mediante prácticas transmitidas. Cada respuesta permite investigar algunos casos y pone otros en discusión. La dificultad de definir la religión surge de esa variedad y de la historia de las palabras con que se intenta explicarla.
 

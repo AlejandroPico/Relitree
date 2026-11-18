@@ -9,7 +9,7 @@ fuentes:
 
 # La Biblia: Antiguo Testamento
 
-> Borrador editorial de E02.
+> **Bloque en desarrollo · E02.** Queda por ampliar la formación y transmisión de las colecciones, los libros y sus géneros. La Biblia hebrea tendrá además su propio desarrollo en E23.
 
 En el cristianismo, «Antiguo Testamento» designa los libros procedentes de la tradición de Israel que las iglesias incorporan a su Biblia. El Tanaj judío ordena su corpus en Torá, Profetas y Escritos. Las Biblias cristianas consultan buena parte de ese material y lo sitúan en marcos de ordenación e interpretación propios. Las colecciones del Antiguo Testamento difieren entre confesiones.
 

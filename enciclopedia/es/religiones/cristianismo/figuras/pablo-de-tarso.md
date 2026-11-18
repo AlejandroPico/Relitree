@@ -9,7 +9,7 @@ fuentes:
 
 # Pablo de Tarso
 
-> Borrador editorial de E02.
+> **Bloque en desarrollo · E02.** Quedan por ampliar las cartas, la cronología de sus viajes y el contraste entre las cartas y los Hechos. La Iglesia de Jerusalén y el contexto apostólico se desarrollan en E03.
 
 Pablo fue un judío del siglo I que pasó de oponerse al movimiento de Jesús a anunciarlo entre comunidades de distinto origen. Sus cartas son una fuente principal sobre la actividad cristiana de mediados del siglo I. También se conserva una narración de su ministerio en Hechos. Las cartas dan información directa sobre controversias y relaciones, mientras que Hechos organiza su vida dentro de una narración más amplia.
 

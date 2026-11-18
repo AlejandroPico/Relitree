@@ -10,7 +10,7 @@ fuentes:
 
 # Padres apostólicos y apologistas
 
-> Borrador editorial de E03.
+> **Bloque en desarrollo · E03.** Quedan por desarrollar los escritos, sus debates y sus contextos de transmisión.
 
 «Padres apostólicos» es una agrupación editorial moderna de obras cristianas antiguas vinculadas por su cercanía cronológica o temática a la primera generación. Sus textos incluyen instrucciones, cartas, exhortaciones y narraciones de martirio. El rótulo «apologistas» reúne autores que explicaron o defendieron el cristianismo ante interlocutores cultos, autoridades y lectores a los que atribuían determinadas objeciones.
 

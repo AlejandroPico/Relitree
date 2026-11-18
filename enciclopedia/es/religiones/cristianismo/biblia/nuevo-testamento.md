@@ -9,7 +9,7 @@ fuentes:
 
 # La Biblia: Nuevo Testamento
 
-> Borrador editorial de E02.
+> **Bloque en desarrollo · E02.** Quedan por ampliar los libros, sus fechas, sus géneros y sus testimonios manuscritos. Las primeras comunidades y el resto de las figuras apostólicas se desarrollan en E03.
 
 El Nuevo Testamento está formado por cuatro evangelios, Hechos de los Apóstoles, cartas y Apocalipsis. El lugar de una obra en el canon responde a la organización de una colección. Algunas cartas de Pablo anteceden a los evangelios canónicos en su forma final y permiten observar preocupaciones de las comunidades de mediados del siglo I.
 

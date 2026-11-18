@@ -9,7 +9,7 @@ fuentes:
 
 # Los apóstoles (IV): Simón, Judas Iscariote y Matías
 
-> Borrador editorial de E03.
+> **Bloque en desarrollo · E03.** Quedan por ampliar la identificación de Simón, las tradiciones sobre Judas Iscariote y el relato de la elección de Matías.
 
 Las listas incluyen a Simón y Judas Iscariote. Matías aparece en Hechos como la persona incorporada después de la desaparición de Judas. El contraste permite estudiar qué significa pertenecer a los Doce y cómo el relato explica la continuidad del grupo al comienzo de la historia de Jerusalén.
 

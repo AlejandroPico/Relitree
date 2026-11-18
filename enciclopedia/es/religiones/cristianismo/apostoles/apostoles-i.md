@@ -9,7 +9,7 @@ fuentes:
 
 # Los apóstoles (I): Andrés, Santiago el Mayor y Juan
 
-> Borrador editorial de E03.
+> **Bloque en desarrollo · E03.** Queda por ampliar el contraste entre el testimonio del Nuevo Testamento, las tradiciones posteriores y las atribuciones a cada figura.
 
 Andrés, Santiago hijo de Zebedeo y Juan hijo de Zebedeo aparecen en las listas de los Doce. Esas listas cumplen una función dentro de los evangelios y Hechos. El número evoca la organización simbólica de Israel, mientras los episodios asociados a cada persona permiten observar las prioridades de los narradores. La palabra «apóstol» tiene un alcance variable en las primeras fuentes, como muestra el modo en que Pablo habla de su propio encargo.
 
