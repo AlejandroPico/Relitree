@@ -45,7 +45,7 @@ El idioma base es `es`. Para traducir: copiar `i18n/es/` a `i18n/<idioma>/` y `e
 - **Selección**: resalta todo el linaje ascendente, todo el árbol que desciende y las influencias directas.
 - **Etiquetas**: en cada nivel de zoom se muestran todas las que caben sin pisarse, por orden de importancia.
 - **Vista radial**: la misma geometría en polares (ángulo = posición horizontal, radio = tiempo; lo más antiguo en el centro).
-- La capa «Todas las líneas vigentes hasta hoy» se activa por defecto. El trazado completo asigna un carril exclusivo por tradición. Al desactivar la capa, el plano compacto permite compartir carriles en intervalos separados y dibuja las líneas de menor importancia solo hasta su última rama. SQLite incluye las coordenadas de ambos planos. El selector actualiza la geometría de ambas vistas, el eje de territorios y el exportador SVG. En el plano completo los orígenes más antiguos se colocan primero y sus ramas reciben los carriles libres más cercanos por orden cronológico. Las marcas del tramo más antiguo tienen separación visual uniforme.
+- La capa «Todas las líneas vigentes hasta hoy» arranca desactivada. El trazado completo asigna un carril exclusivo por tradición. El plano compacto permite compartir carriles en intervalos separados y dibuja las líneas de menor importancia solo hasta su última rama. SQLite incluye las coordenadas de ambos planos. El selector actualiza la geometría de las vistas por territorios y radial, el eje de territorios y el exportador SVG. En el plano completo los orígenes más antiguos se colocan primero y sus ramas reciben los carriles libres más cercanos por orden cronológico. Las marcas del tramo más antiguo tienen separación visual uniforme.
 
 ## Flujo de trabajo
 
@@ -121,7 +121,7 @@ Los índices de categoría usan `_indice.md` con un encabezado `# Título` y, op
 ## Convenciones de interfaz (preferencias de Alejandro)
 
 - Sin títulos sobre el lienzo; minimalismo, mucho aire; nada de cajetines ni filas de divisores.
-- Barra superior fija con todos los botones juntos: buscar · filtros y capas · leyenda · enciclopedia (libro abierto) · vista radial/columnas · tema · Acerca de. Sin controles de zoom (rueda, pellizco, teclas + − 0). **Alt + clic en Acerca de** abre Herramientas (exportar SVG, enlaces al editor Atlas, SQLite).
+- Barra superior fija con todos los botones juntos: buscar · filtros y capas · leyenda · enciclopedia (libro abierto) · Visualizaciones (ojo, selección de doce vistas con territorios por defecto) · tema · Acerca de. Sin controles de zoom (rueda, pellizco, teclas + − 0). **Alt + clic en Acerca de** abre Herramientas (exportar SVG, enlaces al editor Atlas, SQLite).
 - El editor es un proyecto aparte: https://github.com/AlejandroPico/Editor (web: https://alejandropico.github.io/Editor/). Aquí solo se enlaza.
 - Temas día / tarde / noche / automático (según fecha y hora locales).
 - Todo vectorial: nada de imágenes de mapa de bits en el árbol.

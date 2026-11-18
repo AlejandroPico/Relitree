@@ -1,6 +1,8 @@
 import { Injectable, computed, inject, signal } from '@angular/core';
 import { Datos, Relacion, Religion } from './datos';
 
+import { Visualizacion } from './vistas';
+
 export interface Vista { k: number; tx: number; ty: number; w: number; h: number; }
 
 /** Estado compartido de la interfaz: selección, filtros, capas y vista del lienzo. */
@@ -12,7 +14,9 @@ export class Estado {
   readonly vista = signal<Vista>({ k: 1, tx: 0, ty: 0, w: 0, h: 0 });
   readonly irA = signal<{ id: string; n: number } | null>(null);
   readonly enciclopedia = signal<string | null>(null);      // id del artículo abierto
-  readonly radial = signal(false);                          // presentación radial en lugar de columnas
+  readonly visualizacion = signal<Visualizacion>('columnas');
+  readonly radial = computed(() => this.visualizacion() === 'radial');
+  readonly esLienzo = computed(() => this.visualizacion() === 'columnas' || this.radial());
 
   readonly regionesOff = signal<Set<string>>(new Set());
   readonly tiposOff = signal<Set<string>>(new Set());
@@ -20,7 +24,7 @@ export class Estado {
   readonly capaInfluencias = signal(true);
   readonly capaExtintas = signal(true);
   readonly capaRejilla = signal(true);
-  readonly vidasCompletas = signal(true);
+  readonly vidasCompletas = signal(false);
   readonly trazado = computed(() => this.datos.trazado(this.vidasCompletas()));
 
   readonly ocultos = computed(() => {

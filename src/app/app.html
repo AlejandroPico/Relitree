@@ -1,14 +1,15 @@
 @if (!datos.listo()) {
   <div class="cargando">{{ datos.error() ?? '…' }}</div>
 } @else {
-  <app-lienzo/>
+  @if (estado.esLienzo()) { <app-lienzo/> }
+  @else { <app-explorador/> }
 
   <header class="barra">
     <button class="ico" [class.activo]="panel() === 'buscar'" [title]="i18n.t('buscar')" (click)="abrir('buscar')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['buscar']"/></svg></button>
     <button class="ico" [class.activo]="panel() === 'filtros'" [title]="i18n.t('filtros')" (click)="abrir('filtros')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['capas']"/></svg></button>
     <button class="ico" [class.activo]="panel() === 'leyenda'" [title]="i18n.t('leyenda')" (click)="abrir('leyenda')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['leyenda']"/></svg></button>
     <button class="ico" [title]="i18n.t('enciclopedia')" (click)="estado.enciclopedia.set(estado.seleccion() ?? 'tema:como-leer')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['libro']"/></svg></button>
-    <button class="ico" [title]="i18n.t(estado.radial() ? 'columnas' : 'radial')" (click)="cambiarVista()"><svg viewBox="0 0 24 24"><path [attr.d]="ui[estado.radial() ? 'columnas' : 'radial']"/></svg></button>
+    <button class="ico" [class.activo]="panel() === 'visualizaciones'" [title]="i18n.t('visualizaciones')" [attr.aria-label]="i18n.t('visualizaciones')" [attr.aria-expanded]="panel() === 'visualizaciones'" aria-controls="menu-vistas" (click)="abrir('visualizaciones')"><svg viewBox="0 0 24 24" aria-hidden="true"><path [attr.d]="ui['visualizaciones']"/></svg></button>
     <button class="ico" [class.activo]="panel() === 'tema'" [title]="i18n.t('tema')" (click)="abrir('tema')"><svg viewBox="0 0 24 24"><path [attr.d]="ui[tema()]"/></svg></button>
     <button class="ico" [class.activo]="panel() === 'acerca' || panel() === 'herramientas'" [title]="i18n.t('acerca')" (click)="info($event)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['info']"/></svg></button>
   </header>
@@ -28,8 +29,10 @@
         <h4>{{ i18n.t('capas') }}</h4>
         <label><input type="checkbox" [checked]="estado.capaInfluencias()" (change)="estado.capaInfluencias.set($any($event.target).checked)"/>{{ i18n.t('influencias') }}</label>
         <label><input type="checkbox" [checked]="estado.capaExtintas()" (change)="estado.capaExtintas.set($any($event.target).checked)"/>{{ i18n.t('extintas') }}</label>
-        <label><input type="checkbox" [checked]="estado.capaRejilla()" (change)="estado.capaRejilla.set($any($event.target).checked)"/>{{ i18n.t('rejilla') }}</label>
-        @if (datos.tieneTrazadoCompacto) {
+        @if (estado.esLienzo()) {
+          <label><input type="checkbox" [checked]="estado.capaRejilla()" (change)="estado.capaRejilla.set($any($event.target).checked)"/>{{ i18n.t('rejilla') }}</label>
+        }
+        @if (datos.tieneTrazadoCompacto && estado.esLienzo()) {
           <label><input type="checkbox" [checked]="estado.vidasCompletas()" (change)="estado.vidasCompletas.set($any($event.target).checked)"/>{{ i18n.t('vidasHastaHoy') }}</label>
         }
         <label class="rango">{{ i18n.t('importancia') }}
@@ -68,6 +71,16 @@
         </div>
       </div>
     }
+    @case ('visualizaciones') {
+      <div class="flotante menu-vistas" id="menu-vistas" role="group" [attr.aria-label]="i18n.t('visualizaciones')">
+        @for (vista of vistas; track vista) {
+          <button type="button" [attr.aria-pressed]="estado.visualizacion() === vista" (click)="cambiarVista(vista)">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path [attr.d]="ui[vista]"/></svg>
+            <span>{{ i18n.t(vista) }}</span>
+          </button>
+        }
+      </div>
+    }
     @case ('tema') {
       <div class="flotante temas">
         @for (t of temas; track t) {
@@ -78,7 +91,9 @@
     @case ('herramientas') {
       <div class="flotante acerca">
         <h4>{{ i18n.t('herramientas') }}</h4>
-        <a (click)="exportar()"><svg viewBox="0 0 24 24"><path [attr.d]="ui['descargar']"/></svg>{{ i18n.t('exportar') }}</a>
+        @if (estado.esLienzo()) {
+          <a (click)="exportar()"><svg viewBox="0 0 24 24"><path [attr.d]="ui['descargar']"/></svg>{{ i18n.t('exportar') }}</a>
+        }
         <a [href]="editorWeb" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path [attr.d]="ui['enlace']"/></svg>{{ i18n.t('editor') }}</a>
         <a [href]="editorRepo" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path [attr.d]="ui['enlace']"/></svg>{{ i18n.t('editorRepo') }}</a>
         <a href="datos/relitree.sqlite" download><svg viewBox="0 0 24 24"><path [attr.d]="ui['descargar']"/></svg>relitree.sqlite</a>
@@ -122,7 +137,7 @@
         }
         <div class="acciones">
           <a (click)="estado.enciclopedia.set(r.id)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['libro']"/></svg>{{ i18n.t('abrirEnc') }}</a>
-          <a (click)="estado.elegir(r, true)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['diana']"/></svg>{{ i18n.t('verArbol') }}</a>
+          <a (click)="verArbol(r)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['diana']"/></svg>{{ i18n.t('verArbol') }}</a>
           <a [href]="wiki(r)" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path [attr.d]="ui['enlace']"/></svg>{{ i18n.t('wikipedia') }}</a>
         </div>
         @if (r.heredado) { <p class="nota">{{ i18n.t('simboloHeredado') }}</p> }

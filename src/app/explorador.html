@@ -1,0 +1,396 @@
+<main class="explorador" [attr.aria-label]="i18n.t(vista())">
+  <h1>{{ i18n.t(vista()) }}</h1>
+  @if (!visibles().length) {
+    <p class="vis-nota">{{ i18n.t('sinEntradas') }}</p>
+  } @else {
+    <div class="vis-controles">
+      @if (vista() === 'cronologia' || vista() === 'corte') {
+        <label>{{ i18n.t('agrupar') }}
+          <select [value]="agrupacion()" (change)="agrupacion.set($any($event.target).value); zona.set(''); celda.set(null)">
+            <option value="territorios">{{ i18n.t('territorios') }}</option>
+            <option value="familias">{{ i18n.t('porFamilia') }}</option>
+          </select>
+        </label>
+      }
+      @if (vista() === 'matriz') {
+        <label>{{ i18n.t('agrupar') }}
+          <select [value]="agrupacionMatriz()" (change)="agrupacionMatriz.set($any($event.target).value); celda.set(null)">
+            <option value="territorios">{{ i18n.t('territorios') }}</option>
+            <option value="familias">{{ i18n.t('porFamilia') }}</option>
+            <option value="tradiciones">{{ i18n.t('religiones') }}</option>
+          </select>
+        </label>
+        @if (agrupacionMatriz() === 'tradiciones') {
+          <label>{{ i18n.t('territorioOrigen') }}
+            <select [value]="origenMatriz()" (change)="origenMatriz.set($any($event.target).value); celda.set(null)">
+              @for (r of d.regiones; track r.id) { <option [value]="r.id" [selected]="r.id === origenMatriz()">{{ r.nombre }}</option> }
+            </select>
+          </label>
+          <label>{{ i18n.t('territorioDestino') }}
+            <select [value]="destinoMatriz()" (change)="destinoMatriz.set($any($event.target).value); celda.set(null)">
+              @for (r of d.regiones; track r.id) { <option [value]="r.id" [selected]="r.id === destinoMatriz()">{{ r.nombre }}</option> }
+            </select>
+          </label>
+        }
+      }
+      @if (vista() === 'cronologia' || vista() === 'arcos') {
+        <label>{{ i18n.t('grupoVisible') }}
+          <select [value]="vista() === 'arcos' ? zonaArcos() : zona()" (change)="cambiarZona($any($event.target).value)">
+            <option value="">{{ i18n.t('todo') }}</option>
+            @if (vista() === 'arcos') {
+              @for (r of d.regiones; track r.id) { <option [value]="r.id" [selected]="r.id === zonaArcos()">{{ r.nombre }}</option> }
+            } @else {
+              @for (g of grupos(); track g.id) { <option [value]="g.id">{{ g.nombre }}</option> }
+            }
+          </select>
+        </label>
+      }
+      @if (vista() === 'cronologia' || vista() === 'linajes') {
+        <label>{{ i18n.t('zoomHorizontal') }}
+          <input type="range" min="100" max="240" step="10" [value]="escalaHorizontal()" (input)="escalaHorizontal.set(+$any($event.target).value)"/>
+        </label>
+      }
+      @if (vista() === 'familias') {
+        <label>{{ i18n.t('ramaRaiz') }}
+          <select [value]="rama()" (change)="escogerRama($any($event.target).value)">
+            <option value="">{{ i18n.t('todo') }}</option>
+            @for (r of opcionesRama(); track r.id) { <option [value]="r.id">{{ r.nombre }}</option> }
+          </select>
+        </label>
+      }
+      @if (vista() === 'grafo') {
+        <label>{{ i18n.t('tradicionCentral') }}
+          <select [value]="centro()?.id ?? ''" (change)="foco.set($any($event.target).value)">
+            @for (r of alfabeticas(); track r.id) { <option [value]="r.id" [selected]="r.id === centro()?.id">{{ r.nombre }}</option> }
+          </select>
+        </label>
+        <label>{{ i18n.t('nivelesGrafo') }}
+          <select [value]="profundidad()" (change)="profundidad.set(+$any($event.target).value)">
+            <option [value]="1">1</option><option [value]="2">2</option><option [value]="3">3</option>
+          </select>
+        </label>
+      }
+      @if (vista() === 'linajes') {
+        @for (id of comparadas(); track $index; let i = $index) {
+          <label>{{ i18n.t('linaje') }} {{ i + 1 }}
+            <select [value]="id" (change)="cambiarComparada(i, $any($event.target).value)">
+              <option value="">{{ i18n.t('ninguno') }}</option>
+              @for (r of alfabeticas(); track r.id) {
+                <option [value]="r.id" [selected]="r.id === id" [disabled]="r.id !== id && comparadas().includes(r.id)">{{ r.nombre }}</option>
+              }
+            </select>
+          </label>
+        }
+      }
+      @if (vista() === 'mapa' || vista() === 'corte') {
+        <label>{{ i18n.t(periodo() && vista() === 'corte' ? 'anioDesde' : 'anioVista') }}
+          <input type="number" [min]="minimo" [max]="hoy" [value]="anio()" (change)="anio.set(ajustarAnio(+$any($event.target).value)); $any($event.target).value = anio()"/>
+        </label>
+        <label class="vis-deslizador">{{ i18n.anio(anio()) }}
+          <input type="range" [attr.aria-label]="i18n.t('anioVista')" min="0" [max]="amplitudTemporal" [value]="posicionAnio()" (input)="desdeDeslizador(+$any($event.target).value)"/>
+        </label>
+        @if (vista() === 'corte') {
+          <label class="vis-check"><input type="checkbox" [checked]="periodo()" (change)="periodo.set($any($event.target).checked)"/>{{ i18n.t('periodoHistorico') }}</label>
+          @if (periodo()) {
+            <label>{{ i18n.t('anioHasta') }}
+              <input type="number" [min]="minimo" [max]="hoy" [value]="hasta()" (change)="hasta.set(ajustarAnio(+$any($event.target).value)); $any($event.target).value = hasta()"/>
+            </label>
+          }
+        }
+      }
+      @if (vista() === 'arcos' || vista() === 'matriz') {
+        <label>{{ i18n.t('tipoVinculo') }}
+          <select [value]="tipoVinculo()" (change)="tipoVinculo.set($any($event.target).value); celda.set(null)">
+            <option value="">{{ i18n.t('todo') }}</option>
+            @for (t of tiposRelacion; track t) {
+              @if (t !== 'influencia' || estado.capaInfluencias()) { <option [value]="t">{{ i18n.t('r_' + t) }}</option> }
+            }
+          </select>
+        </label>
+      }
+      @if (vista() === 'paralelas') {
+        @for (id of territoriosParalelos(); track $index; let i = $index) {
+          <label>{{ i18n.t('territorio') }} {{ i + 1 }}
+            <select [value]="id" (change)="cambiarParalela(i, $any($event.target).value)">
+              <option value="">{{ i18n.t('ninguno') }}</option>
+              @for (r of d.regiones; track r.id) {
+                <option [value]="r.id" [selected]="r.id === id" [disabled]="r.id !== id && territoriosParalelos().includes(r.id)">{{ r.nombre }}</option>
+              }
+            </select>
+          </label>
+        }
+      }
+      @if (vista() === 'demografia') {
+        <label>{{ i18n.t('nivelDemografico') }}
+          <select [value]="nivelDemografico()" (change)="nivelDemografico.set($any($event.target).value)">
+            <option value="conjuntos">{{ i18n.t('conjuntos') }}</option>
+            <option value="ramas">{{ i18n.t('ramasDemograficas') }}</option>
+          </select>
+        </label>
+        @if (nivelDemografico() === 'ramas') {
+          <label>{{ i18n.t('ramaRaiz') }}
+            <select [value]="grupoDemografico()" (change)="grupoDemografico.set($any($event.target).value)">
+              <option value="">{{ i18n.t('todo') }}</option>
+              @for (r of familiasDemograficas(); track r.id) { <option [value]="r.id">{{ r.nombre }}</option> }
+            </select>
+          </label>
+        }
+      }
+    </div>
+
+    @if (vista() === 'cronologia' || vista() === 'linajes') {
+      @let grafico = vista() === 'cronologia' ? cronologia() : graficoLinajes();
+      @let comun = vista() === 'linajes' ? linajes().comun : undefined;
+      @if (comun) {
+        <p class="vis-nota">{{ i18n.t('origenComun') }} <button class="vis-enlace" (click)="elegir(comun)">{{ comun.nombre }}</button> · {{ i18n.anio(comun.inicio) }}</p>
+      }
+      @if (vista() === 'linajes' && linajes().conjuntos.length < 2) {
+        <p class="vis-nota">{{ i18n.t('elegirDos') }}</p>
+      } @else if (!grafico.grupos.length) {
+        <p class="vis-nota">{{ i18n.t('sinEntradas') }}</p>
+      } @else {
+        <div class="vis-marco">
+          <svg class="vis-grafico" [attr.viewBox]="'0 0 1120 ' + grafico.alto"
+               [style.min-width.px]="10.5 * escalaHorizontal()" role="group" [attr.aria-label]="i18n.t(vista())">
+            @for (a of marcas(); track a) {
+              <line class="vis-guia" [attr.x1]="x(a)" [attr.x2]="x(a)" y1="31" [attr.y2]="grafico.alto"/>
+              <text class="vis-eje" [attr.x]="x(a)" y="24" text-anchor="middle">{{ i18n.anio(a) }}</text>
+            }
+            @for (g of grafico.grupos; track g.grupo.id) {
+              <rect class="vis-franja" x="0" [attr.y]="g.inicio" width="1120" [attr.height]="g.fin - g.inicio - 3"/>
+              <text class="vis-grupo" x="14" [attr.y]="g.inicio + 18" [style.fill]="g.grupo.color">{{ g.grupo.nombre }}</text>
+              @for (fila of g.filas; track fila.r.id) {
+                <g class="vis-punto" role="button" tabindex="0" [attr.aria-label]="fila.r.nombre"
+                   (click)="elegir(fila.r)" (keydown.enter)="elegir(fila.r)" (keydown.space)="$event.preventDefault(); elegir(fila.r)">
+                  <title>{{ fila.r.nombre }} · {{ i18n.periodo(fila.r.inicio, fila.r.fin) }}</title>
+                  <line [attr.x1]="fila.x0" [attr.x2]="fila.x1" [attr.y1]="fila.y" [attr.y2]="fila.y" [attr.stroke]="color(fila.r)" stroke-width="3"/>
+                  <circle [attr.cx]="fila.x0" [attr.cy]="fila.y" r="4" [attr.fill]="color(fila.r)" [class.vis-comun]="fila.r.id === comun?.id"/>
+                  <text [attr.x]="fila.x0 > 850 ? fila.x0 - 8 : fila.x0 + 8" [attr.y]="fila.y - 6"
+                        [attr.text-anchor]="fila.x0 > 850 ? 'end' : 'start'">{{ abreviar(fila.r.nombre, 38) }}</text>
+                </g>
+              }
+            }
+          </svg>
+        </div>
+        @if (vista() === 'linajes' && linajes().cruzadas.length) {
+          <details class="vis-bloque">
+            <summary>{{ i18n.t('enlacesEntreLinajes') }} ({{ linajes().cruzadas.length }})</summary>
+            @for (rel of linajes().cruzadas; track $index) {
+              <button class="vis-enlace" (click)="estado.elegirRelacion(rel)">{{ nombreRel(rel) }}</button>
+            }
+          </details>
+        }
+      }
+    }
+
+    @switch (vista()) {
+      @case ('familias') {
+        <div class="vis-arbol">
+          @for (f of filasArbol(); track f.r.id) {
+            <div class="vis-rama" [style.--nivel]="f.nivel">
+              @if (f.ramas) {
+                <button class="vis-plegar" type="button" [attr.aria-expanded]="f.abierta"
+                        [attr.aria-label]="(f.abierta ? i18n.t('plegar') : i18n.t('desplegar')) + ' ' + f.r.nombre"
+                        (click)="plegar(f.r.id)">{{ f.abierta ? '−' : '+' }}</button>
+              } @else { <span class="vis-sin-hijas" aria-hidden="true">·</span> }
+              <button class="vis-entrada" type="button" (click)="elegir(f.r)">
+                <i [style.background]="color(f.r)"></i><span>{{ f.r.nombre }}</span>
+                <small>{{ i18n.periodo(f.r.inicio, f.r.fin) }}</small>
+                @if (f.ramas) { <small>{{ f.ramas }} {{ i18n.t('ramasCortas') }}</small> }
+              </button>
+            </div>
+          }
+        </div>
+      }
+      @case ('grafo') {
+        @if (grafo(); as g) {
+          <p class="vis-nota">{{ i18n.t('ayudaGrafo') }}</p>
+          <div class="vis-marco">
+            <svg class="vis-grafico" [attr.viewBox]="'0 0 ' + g.ancho + ' ' + g.alto" [style.min-width.px]="g.ancho" role="group" [attr.aria-label]="i18n.t('grafo')">
+              @for (e of g.enlaces; track $index) {
+                <path [attr.d]="caminoGrafo(e.a, e.b)" class="vis-vinculo" [class.vis-influencia]="e.rel.clase === 'influencia'" [class.vis-secundaria]="!e.rel.principal" tabindex="0" role="button"
+                      [attr.aria-label]="nombreRel(e.rel)" (click)="estado.elegirRelacion(e.rel)" (keydown.enter)="estado.elegirRelacion(e.rel)">
+                  <title>{{ nombreRel(e.rel) }}</title>
+                </path>
+              }
+              @for (n of g.nodos; track n.r.id) {
+                <g class="vis-punto vis-nodo-grafo" [class.actual]="n.nivel === 0" [attr.transform]="'translate(' + n.x + ' ' + n.y + ')'"
+                   role="button" tabindex="0" [attr.aria-label]="n.r.nombre" (click)="elegir(n.r)" (keydown.enter)="elegir(n.r)" (keydown.space)="$event.preventDefault(); elegir(n.r)">
+                  <title>{{ n.r.nombre }} · {{ i18n.periodo(n.r.inicio, n.r.fin) }}</title>
+                  <rect x="-109" y="-14" width="218" height="28" rx="4" [attr.stroke]="color(n.r)"/>
+                  <circle cx="-96" cy="0" r="4" [attr.fill]="color(n.r)"/>
+                  <text x="-85" y="4">{{ abreviar(n.r.nombre, 27) }}</text>
+                </g>
+              }
+            </svg>
+          </div>
+        }
+      }
+      @case ('mapa') {
+        <p class="vis-nota">{{ i18n.t('alcanceMapa') }}</p>
+        <div class="vis-marco">
+          <svg class="vis-mapa" viewBox="0 0 720 347" role="group" [attr.aria-label]="i18n.t('mapa')">
+            <image href="atlas-natural-earth.svg" width="720" height="347" class="vis-tierra"/>
+            @for (p of mapa(); track p.r.id) {
+              <g class="vis-punto vis-region-mapa" [class.actual]="regionMapa() === p.r.id" [class.vacia]="!p.elementos.length"
+                role="button" tabindex="0" [attr.aria-label]="p.r.nombre + ': ' + p.elementos.length"
+                (click)="regionMapa.set(p.r.id)" (keydown.enter)="regionMapa.set(p.r.id)" (keydown.space)="$event.preventDefault(); regionMapa.set(p.r.id)">
+                <title>{{ p.r.nombre }} · {{ p.elementos.length }} {{ i18n.t('entradasCatalogo') }}</title>
+                <circle [attr.cx]="p.x" [attr.cy]="p.y" [attr.r]="p.radio" [attr.fill]="p.r.color"/>
+                <text class="vis-total-mapa" [attr.x]="p.x" [attr.y]="p.y + 3.7" text-anchor="middle">{{ p.elementos.length }}</text>
+                <text class="vis-nombre-mapa" [attr.x]="p.x + p.dx" [attr.y]="p.y + p.dy" text-anchor="middle">{{ abreviar(p.r.nombre, 20) }}</text>
+              </g>
+            }
+          </svg>
+        </div>
+        <div class="vis-pie"><a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a></div>
+        @if (listaMapa(); as p) {
+          <section class="vis-bloque">
+            <h2>{{ p.r.nombre }} · {{ p.elementos.length }}</h2>
+            @for (r of p.elementos; track r.id) {
+              <button class="vis-entrada" (click)="elegir(r)"><span>{{ r.nombre }}</span><small>{{ i18n.periodo(r.inicio, r.fin) }}</small></button>
+            } @empty {
+              <p class="vis-nota">{{ i18n.t('sinEntradas') }}</p>
+            }
+          </section>
+        }
+      }
+      @case ('corte') {
+        <p class="vis-nota">
+          {{ i18n.anio(fechasCorte()[0]) }}@if (fechasCorte()[0] !== fechasCorte()[1]) {
+            – {{ i18n.anio(fechasCorte()[1]) }}
+          } · {{ coincidencias().length }} {{ i18n.t('entradasCatalogo') }}
+        </p>
+        <div class="vis-corte">
+          @for (g of corte(); track g.id) {
+            <details class="vis-bloque">
+              <summary [style.color]="g.color">{{ g.nombre }} <small>{{ g.elementos.length }}</small></summary>
+              @for (r of g.elementos; track r.id) {
+                <button class="vis-entrada" (click)="elegir(r)"><span>{{ r.nombre }}</span><small>{{ i18n.periodo(r.inicio, r.fin) }}</small></button>
+              }
+            </details>
+          } @empty { <p class="vis-nota">{{ i18n.t('sinEntradas') }}</p> }
+        </div>
+      }
+      @case ('arcos') {
+        @if (arcos(); as g) {
+          <div class="vis-marco">
+            <svg class="vis-grafico" [attr.viewBox]="'0 0 1100 ' + g.alto" style="min-width: 950px" role="group" [attr.aria-label]="i18n.t('arcos')">
+              <defs>
+                <marker id="flecha-arco" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+                  <path d="M0 0L8 4 0 8Z" fill="currentColor"/>
+                </marker>
+              </defs>
+              <line class="vis-guia" x1="54" x2="1046" y1="206" y2="206"/>
+              @for (e of g.enlaces; track $index) {
+                <path class="vis-vinculo arco" [class.vis-influencia]="e.rel.clase === 'influencia'" [attr.d]="e.d"
+                      marker-end="url(#flecha-arco)" tabindex="0" role="button" [attr.aria-label]="nombreRel(e.rel)"
+                      (click)="estado.elegirRelacion(e.rel)" (keydown.enter)="estado.elegirRelacion(e.rel)">
+                  <title>{{ nombreRel(e.rel) }}</title>
+                </path>
+              }
+              @for (m of g.marcas; track m.a) {
+                <line class="vis-guia" [attr.x1]="m.x" [attr.x2]="m.x" y1="204" y2="214"/>
+                <text class="vis-eje" [attr.x]="m.x" y="229" text-anchor="middle">{{ i18n.anio(m.a) }}</text>
+              }
+              @for (p of g.puntos; track p.r.id) {
+                <g class="vis-punto" role="button" tabindex="0" [attr.aria-label]="p.r.nombre"
+                  (click)="elegir(p.r)" (keydown.enter)="elegir(p.r)" (keydown.space)="$event.preventDefault(); elegir(p.r)">
+                  <title>{{ p.r.nombre }} · {{ i18n.anio(p.r.inicio) }}</title>
+                  <circle [attr.cx]="p.x" [attr.cy]="p.y" [attr.fill]="color(p.r)" r="5"/>
+                </g>
+              }
+            </svg>
+          </div>
+        } @else { <p class="vis-nota">{{ i18n.t('sinEntradas') }}</p> }
+      }
+      @case ('matriz') {
+        @let m = matriz();
+        <p class="vis-nota">{{ i18n.t('sentidoMatriz') }}</p>
+        <div class="vis-marco">
+          <table class="vis-matriz" [attr.aria-label]="i18n.t('matriz')">
+            <thead><tr><th scope="col">→</th>
+              @for (g of m.columnas; track g.id) { <th scope="col" [title]="g.nombre" [style.color]="g.color">{{ abreviar(g.nombre, 16) }}</th> }
+            </tr></thead>
+            <tbody>
+              @for (a of m.filas; track a.id) {
+                <tr><th scope="row" [title]="a.nombre" [style.color]="a.color">{{ abreviar(a.nombre, 24) }}</th>
+                  @for (b of m.columnas; track b.id) {
+                    @let n = m.celdas.get(a.id + ':' + b.id)?.length ?? 0;
+                    <td>
+                      @if (n) {
+                        <button [style.--intensidad]="opacidad(n, m.max)" [attr.aria-label]="a.nombre + ' → ' + b.nombre + ': ' + n"
+                          [attr.aria-pressed]="celda()?.a === a.id && celda()?.b === b.id" (click)="celda.set({a: a.id, b: b.id})">{{ n }}</button>
+                      } @else { <span>·</span> }
+                    </td>
+                  }
+                </tr>
+              }
+            </tbody>
+          </table>
+        </div>
+        @if (vinculosCelda().length) {
+          <section class="vis-bloque">
+            <h2>{{ i18n.t('enlacesEntreLinajes') }} · {{ vinculosCelda().length }}</h2>
+            @for (r of vinculosCelda(); track $index) {
+              <button class="vis-entrada" (click)="estado.elegirRelacion(r)">{{ nombreRel(r) }}</button>
+            }
+          </section>
+        }
+      }
+      @case ('paralelas') {
+        @let serie = paralelas();
+        @if (serie.grupos.length) {
+          <p class="vis-nota">{{ i18n.t('nuevosComienzos') }}</p>
+          <div class="vis-marco">
+            <div class="vis-series">
+              @for (g of serie.grupos; track g.r.id) {
+                <section>
+                  <h2 [style.color]="g.r.color">{{ g.r.nombre }}</h2>
+                  <div class="vis-barras-tiempo" [style.--intervalos]="g.tramos.length">
+                    @for (t of g.tramos; track t.a; let i = $index) {
+                      <button [style.--altura]="(100 * t.elementos.length / serie.max) + '%'" [style.--color-barra]="g.r.color"
+                        [title]="i18n.anio(t.a) + ' – ' + i18n.anio(t.b) + ': ' + t.elementos.length"
+                        [attr.aria-label]="i18n.anio(t.a) + ' – ' + i18n.anio(t.b) + ': ' + t.elementos.length"
+                        [attr.aria-pressed]="intervaloElegido()?.region === g.r.id && intervaloElegido()?.indice === i"
+                        (click)="intervaloElegido.set({ region: g.r.id, indice: i })">
+                        <span class="vis-barra"><span>{{ t.elementos.length || '' }}</span></span>
+                        <small>{{ i18n.anio(t.a) }}</small>
+                      </button>
+                    }
+                  </div>
+                </section>
+              }
+            </div>
+          </div>
+          @if (intervaloActivo(); as t) {
+            <section class="vis-bloque">
+              <h2>{{ i18n.anio(t.a) }} – {{ i18n.anio(t.b) }} · {{ t.elementos.length }}</h2>
+              @for (r of t.elementos; track r.id) {
+                <button class="vis-entrada" (click)="elegir(r)"><span>{{ r.nombre }}</span><small>{{ i18n.anio(r.inicio) }}</small></button>
+              } @empty { <p class="vis-nota">{{ i18n.t('sinEntradas') }}</p> }
+            </section>
+          }
+        } @else { <p class="vis-nota">{{ i18n.t('sinEntradas') }}</p> }
+      }
+      @case ('demografia') {
+        @let cifras = demografia();
+        <p class="vis-nota">{{ i18n.t('alcanceDemografia') }}</p>
+        <div class="vis-demografia">
+          @for (r of cifras.elementos; track r.id) {
+            <button class="vis-estimacion" (click)="elegir(r)">
+              <span>{{ r.nombre }}</span><strong>{{ i18n.cantidad(r.fieles!, r.fielesMax) }}</strong>
+              <span class="vis-medida" [style.--territorio]="color(r)">
+                <i [style.width.%]="100 * r.fieles! / cifras.max"></i>
+                @if (r.fielesMax && r.fielesMax > r.fieles!) {
+                  <i class="vis-rango" [style.left.%]="100 * r.fieles! / cifras.max" [style.width.%]="100 * (r.fielesMax - r.fieles!) / cifras.max"></i>
+                }
+              </span>
+              <small>{{ r.fielesFuente }}</small>
+            </button>
+          } @empty { <p class="vis-nota">{{ i18n.t('sinEntradas') }}</p> }
+        </div>
+      }
+    }
+  }
+</main>

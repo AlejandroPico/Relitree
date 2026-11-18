@@ -17,6 +17,17 @@ export const UI: Record<string, string> = {
   enlace: 'M14 5h5v5M19 5l-8 8M17 14v5H5V7h5',
   radial: 'M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18ZM12 7.5a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9ZM12 3v4.5M19.8 16.5l-3.9-2.25M4.2 16.5l3.9-2.25',
   columnas: 'M5 4v16M10 9v11M14.5 4v16M19 12v8M5 9h5M14.5 12H19',
+  visualizaciones: 'M2 12s3.5-6.5 10-6.5S22 12 22 12s-3.5 6.5-10 6.5S2 12 2 12ZM12 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6Z',
+  cronologia: 'M3 5h12M6 10h14M3 15h8M10 20h11M3 3v4M6 8v4M3 13v4M10 18v4',
+  familias: 'M4 4h5v4H4ZM15 3h5v4h-5ZM15 10h5v4h-5ZM15 17h5v4h-5ZM9 6h3v13h3M12 12h3M12 5h3',
+  grafo: 'M12 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6ZM10 10 5 5m9 5 5-5m-9 9-5 5m9-5 5 5M3 3h3v3H3ZM18 3h3v3h-3ZM3 18h3v3H3ZM18 18h3v3h-3Z',
+  linajes: 'M3 12h6m0 0 4 6h8m-12-6 4-6h8M16 3v6m0 6v6M4 9v6',
+  mapa: 'M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18ZM3 12h18M12 3c-5 5-5 13 0 18m0-18c5 5 5 13 0 18',
+  corte: 'M3 6h18v13H3ZM3 10h18M7 4v4m10-4v4m-8 6v2m6-2v2',
+  arcos: 'M3 19h18M4 19C4 3 19 3 19 19M7 19c0-8 8-8 8 0',
+  matriz: 'M4 4h16v16H4ZM4 9h16M4 15h16M9 4v16m6-16v16',
+  paralelas: 'M3 3v7h18M3 14v7h18M7 7l4-3 4 3 4-2M7 19l4-2 4 1 4-3',
+  demografia: 'M4 20V5m0 15h17M7 17v-5h2v5Zm5 0V8h2v9Zm5 0V4h2v13Z',
 };
 
 export interface Glifo { d: string; relleno?: boolean; }

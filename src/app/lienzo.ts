@@ -1,4 +1,4 @@
-import { ChangeDetectionStrategy, Component, ElementRef, HostListener, computed, effect, inject, untracked, viewChild } from '@angular/core';
+import { ChangeDetectionStrategy, Component, DestroyRef, ElementRef, HostListener, computed, effect, inject, viewChild } from '@angular/core';
 import { Datos, Relacion, Religion, Trazado } from './datos';
 import { Estado } from './estado';
 import { I18n } from './i18n';
@@ -181,9 +181,32 @@ export class Lienzo {
   escena = computed<Escena>(() => this.construir(this.estado.radial(), this.estado.trazado()));
 
   constructor() {
-    effect(() => { const o = this.estado.irA(); if (o) untracked(() => this.volar(o.id)); });
-    effect(() => { this.escena(); this.etq = []; setTimeout(() => this.inicio()); });
-    effect(() => { this.estado.seleccion(); this.estado.ocultos(); setTimeout(() => this.aplicar()); });
+    effect((limpiar) => {
+      this.escena();
+      this.etq = [];
+      const tarea = setTimeout(() => {
+        this.inicio();
+        const ir = this.estado.irA();
+        if (ir && ir.id === this.estado.seleccion()) this.volar(ir.id);
+      });
+      limpiar(() => clearTimeout(tarea));
+    });
+    effect((limpiar) => {
+      const ir = this.estado.irA();
+      if (ir) {
+        const tarea = setTimeout(() => this.volar(ir.id));
+        limpiar(() => clearTimeout(tarea));
+      }
+    });
+    effect((limpiar) => {
+      this.estado.seleccion(); this.estado.ocultos();
+      const tarea = setTimeout(() => this.aplicar());
+      limpiar(() => clearTimeout(tarea));
+    });
+    inject(DestroyRef).onDestroy(() => {
+      cancelAnimationFrame(this.animacion);
+      cancelAnimationFrame(this.pendiente);
+    });
   }
 
   // ---- Geometría ---------------------------------------------------------------------

@@ -5,16 +5,18 @@ import { I18n } from './i18n';
 import { GLIFOS, UI } from './glifos';
 import { CSS_LIENZO, Lienzo } from './lienzo';
 import { Enciclopedia } from './enciclopedia';
+import { VISTAS, Visualizacion } from './vistas';
+import { Explorador } from './explorador';
 
 type Tema = 'dia' | 'tarde' | 'noche' | 'auto';
-type Panel = 'buscar' | 'filtros' | 'leyenda' | 'tema' | 'acerca' | 'herramientas' | null;
+type Panel = 'buscar' | 'filtros' | 'leyenda' | 'tema' | 'acerca' | 'herramientas' | 'visualizaciones' | null;
 const REPO = 'https://github.com/AlejandroPico/Relitree';
 const PORTFOLIO = 'https://alejandropico.github.io/Portfolio/';
 
 @Component({
   selector: 'app-root',
   changeDetection: ChangeDetectionStrategy.OnPush,
-  imports: [Lienzo, Enciclopedia],
+  imports: [Lienzo, Enciclopedia, Explorador],
   templateUrl: './app.html',
 })
 export class App {
@@ -22,6 +24,7 @@ export class App {
   ui = UI; glifos = GLIFOS; repo = REPO; portfolio = PORTFOLIO;
   editorWeb = 'https://alejandropico.github.io/Editor/'; editorRepo = 'https://github.com/AlejandroPico/Editor';
   temas: Tema[] = ['dia', 'tarde', 'noche', 'auto'];
+  readonly vistas = VISTAS;
   panel = signal<Panel>(null);
   tema = signal<Tema>(leer('relitree.tema') as Tema ?? 'auto');
   temaReal = signal<'dia' | 'tarde' | 'noche'>('noche');
@@ -61,9 +64,19 @@ export class App {
 
   abrir(p: Panel) { this.panel.set(this.panel() === p ? null : p); if (p === 'buscar') setTimeout(() => document.querySelector<HTMLInputElement>('.buscador input')?.focus()); }
   info(e: MouseEvent) { this.abrir(e.altKey ? 'herramientas' : 'acerca'); }
-  ir(r: Religion) { this.panel.set(null); this.consulta.set(''); this.estado.elegir(r, true); }
+  ir(r: Religion) { this.panel.set(null); this.consulta.set(''); this.estado.elegir(r, this.estado.esLienzo()); }
   color(r: Religion) { return this.datos.region.get(r.region)!.color; }
-  cambiarVista() { this.estado.elegir(null); this.estado.radial.update((v) => !v); }
+  cambiarVista(vista: Visualizacion) {
+    this.panel.set(null);
+    if (vista === this.estado.visualizacion()) return;
+    this.estado.elegir(null);
+    this.estado.irA.set(null);
+    this.estado.visualizacion.set(vista);
+  }
+  verArbol(r: Religion) {
+    if (!this.estado.esLienzo()) this.cambiarVista('columnas');
+    this.estado.elegir(r, true);
+  }
   exportar() { this.lienzo()?.exportar(); }
   instalar() { this.instalable()?.prompt(); this.instalable.set(null); }
   wiki(r: Religion) { return `https://${this.i18n.idioma}.wikipedia.org/w/index.php?search=${encodeURIComponent(r.nombre)}`; }

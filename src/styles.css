@@ -206,3 +206,120 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .enciclopedia .desplegar-seccion { flex: 0 0 24px; display: grid; place-items: center; min-height: 25px; padding: 0; border: 0; background: transparent; color: var(--tenue); cursor: pointer; }
 .enciclopedia .desplegar-seccion svg { width: 12px; height: 12px; fill: none; stroke: currentColor; stroke-width: 1.5; }
 .enciclopedia .desplegar-seccion[aria-expanded="true"] svg { transform: rotate(90deg); }
+
+/* Visualizaciones del catálogo */
+.menu-vistas {
+  width: min(418px, calc(100vw - 24px)); left: auto; right: 12px;
+  display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2px;
+  padding: 6px; border-radius: 12px;
+}
+.menu-vistas button {
+  display: flex; align-items: center; gap: 9px; min-width: 0; min-height: 34px;
+  border: 0; text-align: start; background: transparent; cursor: pointer; padding: 5px 8px; font-size: 12.5px;
+}
+.menu-vistas button:hover, .menu-vistas button[aria-pressed="true"] { background: color-mix(in srgb, var(--texto) 8%, transparent); }
+.menu-vistas button[aria-pressed="true"] { color: var(--acento); }
+.menu-vistas svg { width: 17px; height: 17px; flex: none; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+@media (max-width: 455px) {
+  .menu-vistas { width: min(265px, calc(100vw - 24px)); grid-template-columns: 1fr; }
+}
+
+.explorador {
+  position: fixed; inset: 48px 0 0; overflow: auto; overscroll-behavior: contain;
+  padding: clamp(13px, 2.5vw, 38px); background: var(--fondo);
+  --guia-vis: color-mix(in srgb, var(--texto) 14%, transparent);
+  --fondo-vis: color-mix(in srgb, var(--barra) 64%, var(--fondo));
+}
+.explorador h1 { font: 630 clamp(25px, 3vw, 39px)/1.15 var(--serif); margin-bottom: 12px; }
+.explorador h2 { font: 600 17px/1.3 var(--serif); margin: 5px 0 8px; }
+.vis-controles { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 8px 16px; margin-bottom: 12px; }
+.vis-controles label { display: grid; gap: 3px; color: var(--tenue); font-size: 12px; min-width: 0; }
+.vis-controles .vis-check { display: flex; align-items: center; gap: 4px; min-height: 32px; }
+.vis-controles .vis-deslizador { flex: 1 0 145px; max-width: 360px; }
+.vis-controles input[type=range] { height: 29px; max-width: 100%; }
+.vis-controles select, .vis-controles input[type=number] {
+  border: 1px solid var(--guia-vis); background: var(--fondo-vis); color: var(--texto); padding: 5px 7px;
+  max-width: min(330px, 83vw); min-height: 32px; font-size: 13px;
+}
+.vis-controles input[type=number] { width: 110px; }
+.vis-controles input { accent-color: var(--acento); }
+.vis-nota { color: var(--tenue); margin: 0 0 12px; font-size: 13px; }
+.vis-marco { overflow: auto; max-height: 75vh; border: 1px solid var(--guia-vis); background: var(--fondo-vis); }
+.vis-marco svg { display: block; width: 100%; }
+.vis-grafico { color: var(--acento); user-select: none; }
+.vis-grafico text, .vis-mapa text { fill: var(--texto); font: 12px var(--fuente); }
+.vis-grafico .vis-eje { fill: var(--tenue); font-variant-numeric: tabular-nums; }
+.vis-grafico .vis-grupo { font-weight: 650; font-size: 14px; }
+.vis-guia { stroke: var(--guia-vis); }
+.vis-franja { fill: color-mix(in srgb, var(--texto) 3%, transparent); }
+.vis-punto, .vis-vinculo { cursor: pointer; }
+.vis-punto:focus-visible, .vis-vinculo:focus-visible { outline: 2px solid var(--acento); }
+.vis-punto:hover text, .vis-punto:focus-visible text { fill: var(--acento); }
+.vis-punto:hover circle, .vis-punto .vis-comun { stroke: var(--acento); stroke-width: 2.5; }
+.vis-enlace { padding: 3px 6px; color: var(--acento); text-align: left; border: 0; background: transparent; cursor: pointer; }
+.vis-enlace:hover { text-decoration: underline; }
+.vis-bloque { padding: 8px 10px; border-top: 1px solid var(--guia-vis); margin-top: 9px; }
+.vis-bloque summary { padding: 5px 0; cursor: pointer; font-weight: 600; }
+.vis-bloque summary small { padding: 0 0 0 7px; }
+.vis-entrada {
+  display: flex; align-items: baseline; gap: 7px; width: 100%; min-width: 0; padding: 5px 7px;
+  background: transparent; border: 0; text-align: start; cursor: pointer;
+}
+.vis-entrada:hover, .vis-estimacion:hover, .vis-plegar:hover { background: color-mix(in srgb, var(--texto) 7%, transparent); }
+.vis-entrada i { align-self: center; width: 7px; height: 7px; flex: none; border-radius: 50%; }
+.vis-entrada small ~ small { margin-left: 0; }
+.vis-arbol { min-width: 0; overflow: auto; }
+.vis-rama { display: flex; align-items: center; gap: 5px; margin-inline-start: min(calc(var(--nivel) * 20px), 32vw); }
+.vis-rama:not(:first-child) { border-top: 1px solid var(--guia-vis); }
+.vis-rama .vis-entrada { flex-wrap: wrap; }
+.vis-plegar, .vis-sin-hijas {
+  flex: none; color: var(--tenue); min-width: 28px; min-height: 28px; text-align: center;
+  display: grid; place-items: center; background: transparent; border: 0;
+}
+.vis-plegar { cursor: pointer; font-size: 17px; }
+.vis-vinculo { fill: none; stroke: var(--acento); stroke-width: 1.4; opacity: .58; }
+.vis-vinculo.vis-secundaria { stroke-width: 1; }
+.vis-vinculo.vis-influencia { stroke: var(--tenue); stroke-dasharray: 4 4; }
+.vis-vinculo:hover, .vis-vinculo:focus-visible { opacity: 1; stroke-width: 2.5; }
+.vis-nodo-grafo rect { fill: var(--barra); stroke-opacity: .75; }
+.vis-nodo-grafo.actual rect { stroke: var(--acento); stroke-width: 2; }
+.vis-mapa { min-width: 640px; max-width: 1120px; margin-inline: auto; background: color-mix(in srgb, #37617d 17%, var(--fondo)); }
+.vis-tierra { opacity: .62; }
+.vis-region-mapa.vacia { opacity: .6; }
+.vis-region-mapa circle { stroke-width: 1.2; stroke: var(--fondo); }
+.vis-region-mapa.actual circle { stroke: var(--texto); stroke-width: 2; }
+.vis-mapa .vis-total-mapa { fill: #101217; font-weight: 700; font-size: 10px; }
+.vis-mapa .vis-nombre-mapa { paint-order: stroke fill; stroke: var(--fondo); stroke-width: 2.6px; font-weight: 650; font-size: 9px; }
+.vis-pie { text-align: right; font-size: 11px; margin: 4px 0; color: var(--tenue); }
+.vis-pie a { text-decoration: underline; }
+.vis-corte { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 290px), 1fr)); gap: 0 20px; align-items: start; }
+
+.vis-matriz { border-collapse: collapse; font-size: 12.5px; }
+.vis-matriz th, .vis-matriz td { border: 1px solid var(--guia-vis); }
+.vis-matriz th { min-width: 70px; max-width: 170px; padding: 5px 7px; font-weight: 600; }
+.vis-matriz thead th { position: sticky; top: 0; background: var(--barra); z-index: 1; }
+.vis-matriz tbody th { position: sticky; left: 0; background: var(--barra); text-align: left; }
+.vis-matriz td { padding: 0; text-align: center; color: var(--tenue); }
+.vis-matriz button { padding: 6px 4px; width: 100%; min-width: 42px; border: 0; background: transparent; color: var(--texto); cursor: pointer; position: relative; isolation: isolate; }
+.vis-matriz button::before { position: absolute; content: ""; inset: 0; background: color-mix(in srgb, var(--acento) 45%, transparent); opacity: var(--intensidad); z-index: -1; }
+.vis-matriz button:hover, .vis-matriz button[aria-pressed="true"] { outline: 1px solid var(--acento); outline-offset: -2px; }
+
+.vis-series { min-width: 910px; padding: 8px 12px; }
+.vis-series section + section { border-top: 1px solid var(--guia-vis); margin-top: 8px; padding-top: 8px; }
+.vis-barras-tiempo { display: grid; grid-template-columns: repeat(var(--intervalos), minmax(0, 1fr)); gap: 2px; }
+.vis-barras-tiempo button { height: 101px; display: flex; flex-direction: column; justify-content: end; align-items: center; border: 0; background: transparent; cursor: pointer; padding: 0 2px; }
+.vis-barras-tiempo button:hover, .vis-barras-tiempo button[aria-pressed="true"] { background: color-mix(in srgb, var(--texto) 8%, transparent); }
+.vis-barras-tiempo button small { margin: 0; padding: 2px 0; font-size: 10.5px; }
+.vis-barra { display: flex; align-items: flex-start; justify-content: center; position: relative; width: 48%; height: calc(var(--altura) * .66); min-height: 1px; background: var(--color-barra); }
+.vis-barra > span { position: absolute; top: -15px; color: var(--texto); font-size: 10px; font-variant-numeric: tabular-nums; }
+.vis-demografia { max-width: 980px; }
+.vis-estimacion {
+  display: grid; grid-template-columns: minmax(0,1fr) auto; gap: 4px 16px; text-align: left;
+  width: 100%; padding: 7px 2px; border: 0; border-bottom: 1px solid var(--guia-vis);
+  background: transparent; cursor: pointer;
+}
+.vis-estimacion > small { grid-column: 1 / -1; padding: 0; margin: 0; white-space: normal; }
+.vis-estimacion strong { font-variant-numeric: tabular-nums; font-weight: 650; }
+.vis-medida { grid-column: 1 / -1; height: 9px; position: relative; background: var(--fondo-vis); }
+.vis-medida i { position: absolute; inset: 0 auto 0 0; background: var(--territorio); min-width: 1px; }
+.vis-medida .vis-rango { background: repeating-linear-gradient(135deg, var(--territorio) 0 2px, transparent 2px 5px); }

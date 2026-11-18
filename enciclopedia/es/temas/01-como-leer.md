@@ -1,7 +1,7 @@
 ---
 estado: completo
 fase: E01
-palabras: 5363
+palabras: 5472
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://github.com/AlejandroPico/Relitree/blob/main/backend/relitree/escala.py"
@@ -20,7 +20,7 @@ Relitree sitúa en una misma representación visual tradiciones religiosas, movi
 
 Para orientarse por primera vez, basta con escoger una tradición conocida y leer su ficha. El buscador de la barra superior lleva hasta el nodo. En la ficha se puede comprobar qué fecha representa el punto de partida y qué clase de relación une la tradición con su origen. Desde allí, el libro abre el artículo. También se puede empezar por el índice de la enciclopedia, recorrer sus temas generales y volver al árbol desde un artículo de una tradición. Ambos recorridos se complementan. El primero parte de una posición y busca su explicación. El segundo parte de una lectura y permite ver dónde se sitúa su protagonista.
 
-Una regla sirve para las dos vistas. **La edad se lee en las marcas del eje, la ubicación en la región, la filiación en las ramas y la situación de una tradición en su ficha.** Si coinciden dos nodos en la misma altura, el dibujo les asigna fechas próximas. Si comparten región, el catálogo los presenta en un mismo territorio. Para afirmar que uno influyó en otro hace falta una línea de relación o una fuente que lo documente. Estas lecturas responden a preguntas distintas y conviene hacerlas por separado.
+Una regla sirve para los dos trazados del árbol general. **La edad se lee en las marcas del eje, la ubicación en la región, la filiación en las ramas y la situación de una tradición en su ficha.** Si coinciden dos nodos en la misma altura, el dibujo les asigna fechas próximas. Si comparten región, el catálogo los presenta en un mismo territorio. Para afirmar que uno influyó en otro hace falta una línea de relación o una fuente que lo documente. Estas lecturas responden a preguntas distintas y conviene hacerlas por separado.
 
 ## Leyenda de lectura
 
@@ -44,7 +44,7 @@ Una regla sirve para las dos vistas. **La edad se lee en las marcas del eje, la 
 
 La leyenda distingue deliberadamente el tramo punteado de una línea de vida y una rama punteada. Aunque ambos usan puntos, se leen siguiendo direcciones distintas. En columnas, el primero prolonga una línea vertical. La segunda sale hacia otro nodo. En radial, el primero sigue el radio y la segunda sigue un arco. En ambos casos la ficha termina de resolver la duda. Conviene usar el color como ayuda para localizar el territorio y la forma de la línea para reconocer el tipo de relación.
 
-## El tiempo en las dos vistas
+## El tiempo en el árbol por territorios y radial
 
 En la vista de columnas, las fechas recientes aparecen arriba y las antiguas abajo. Una línea horizontal que pase por dos nodos ayuda a comparar sus comienzos aproximados. En la vista radial, el centro contiene los periodos más antiguos y el borde los más recientes. Dos nodos situados a una distancia similar del centro ocupan fechas próximas, aunque el arco entre ellos pueda ser largo. En ambos casos, sigue las marcas de años para hacer la comparación. El cambio de vista reorganiza la misma información mediante otra geometría.
 
@@ -92,7 +92,9 @@ Para observar esta distinción, elige dos ramas próximas que compartan un símb
 
 La línea de vida parte del nodo y corre hacia fechas posteriores. Con la capa de líneas completas activa, si la ficha termina en «Hoy», la parte continua de la línea llega hasta la marca del presente. En columnas lo hace de abajo arriba. En radial avanza hacia el anillo exterior. Si la ficha indica una fecha de fin, la línea continua termina en esa fecha. Puede haber además una prolongación punteada cuando una rama posterior necesita conectarse con su origen. El aro discontinuo del nodo y las fechas que figuran en la ficha permiten confirmar el estado asignado en el catálogo.
 
-En «Filtros y capas», la opción «Todas las líneas vigentes hasta hoy» está marcada al entrar. Al desmarcarla se aplica el trazado compacto. Los troncos principales conservan su línea y las tradiciones secundarias solo la dibujan hasta su última rama. Cuando ninguna rama sale de una tradición secundaria, el símbolo basta para situar su inicio. Esto permite que dos nodos de periodos distintos ocupen el mismo carril. La fecha de la ficha sigue indicando el estado de cada tradición. Las dos vistas usan la misma opción y reajustan su encuadre al cambiarla.
+En «Filtros y capas», la opción «Todas las líneas vigentes hasta hoy» está desmarcada al entrar. El trazado compacto es el punto de partida. Al marcarla se recuperan los carriles exclusivos y las líneas de vida completas. Los troncos principales conservan su línea y las tradiciones secundarias solo la dibujan hasta su última rama. Cuando ninguna rama sale de una tradición secundaria, el símbolo basta para situar su inicio. Esto permite que dos nodos de periodos distintos ocupen el mismo carril. La fecha de la ficha sigue indicando el estado de cada tradición. Las vistas por territorios y radial usan la misma opción y reajustan su encuadre al cambiarla.
+
+El botón con un ojo abre el menú «Visualizaciones». Desde allí se puede pasar del árbol a la cronología horizontal, al árbol por familias, al grafo centrado o al comparador de linajes. El mapa geográfico y el corte histórico permiten consultar un año del catálogo, con opción de ampliar a un periodo en el corte. La cronología de arcos y la matriz consultan relaciones. Las cronologías paralelas comparan comienzos por intervalos y territorios. La vista demográfica compara las estimaciones de las fichas y señala los rangos cuando están disponibles.
 
 Imagina una escuela vigente desde 1500 de la que se separa una comunidad en 1750. A esa altura aparece una rama hacia el nuevo nodo y la línea de la escuela sigue hasta hoy. La comunidad derivada ocupa su carril, con el final que figure en su propia ficha. Otro caso parte de una comunidad antigua con una fecha de fin y de un movimiento moderno que recupera elementos suyos. Si el gráfico prolonga la línea antigua hasta alcanzar la rama moderna, el tramo posterior a su final queda punteado. Así se puede seguir el enlace y localizar por separado el periodo de actividad de la comunidad anterior.
 
