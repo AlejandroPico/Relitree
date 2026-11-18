@@ -190,3 +190,13 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .enciclopedia .prosa figure img { margin-inline: auto; }
 .enciclopedia .prosa figcaption { color: var(--tenue); font-size: .9em; }
 @media (max-width: 540px) { .enciclopedia article { scroll-padding-top: 120px; } }
+
+.enciclopedia .indice-secciones { margin: 0 0 .4em .55rem; }
+.enciclopedia .indice-secciones > summary { justify-content: flex-start; gap: .35em; margin: .2em 0; color: var(--tenue); letter-spacing: normal; text-transform: none; }
+.enciclopedia .indice-secciones > summary::before { content: '▸'; }
+.enciclopedia .indice-secciones[open] > summary::before { content: '▾'; }
+.enciclopedia .fila-seccion { display: flex; align-items: start; }
+.enciclopedia .fila-seccion a { flex: 1; }
+.enciclopedia .desplegar-seccion { flex: 0 0 24px; display: grid; place-items: center; min-height: 25px; padding: 0; border: 0; background: transparent; color: var(--tenue); cursor: pointer; }
+.enciclopedia .desplegar-seccion svg { width: 12px; height: 12px; fill: none; stroke: currentColor; stroke-width: 1.5; }
+.enciclopedia .desplegar-seccion[aria-expanded="true"] svg { transform: rotate(90deg); }

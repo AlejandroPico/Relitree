@@ -80,5 +80,6 @@
   "lectorTono": "To",
   "lectorVolumen": "Volum",
   "lectorNoDisponible": "La lectura en veu alta no està disponible en aquest navegador.",
-  "lectorError": "La lectura s’ha interromput."
+  "lectorError": "La lectura s’ha interromput.",
+  "seccionesArticulo": "Seccions de l’article"
 }

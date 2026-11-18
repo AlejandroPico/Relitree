@@ -80,5 +80,6 @@
   "lectorTono": "Tonhöhe",
   "lectorVolumen": "Lautstärke",
   "lectorNoDisponible": "Vorlesen ist in diesem Browser nicht verfügbar.",
-  "lectorError": "Das Vorlesen wurde unterbrochen."
+  "lectorError": "Das Vorlesen wurde unterbrochen.",
+  "seccionesArticulo": "Artikelabschnitte"
 }

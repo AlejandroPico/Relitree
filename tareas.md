@@ -10,11 +10,14 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 - [x] E00 · Ruta completa, índice de secciones, citas enlazadas y pronunciación en español.
 - [x] E00 · Validación de 5.000 palabras de cuerpo para los artículos completos.
 - [x] E02 · «Pasión, muerte y resurrección».
+- [x] E02 · «Canon, apócrifos y traducciones de la Biblia» y «La Trinidad y los dogmas».
+- [x] E00 · Índice de secciones y subsecciones plegado por defecto.
+- [x] Mapa · Los giros de las ramas terminales sustituyen el tramo de tronco que solapaban.
 
 ## Fase A · Enciclopedia (78 fases, 859 artículos; detalle en `enciclopedia/PLAN.md`)
 - E00 · Infraestructura (pestañas, fichas, galerías y búsqueda de texto)
 - E01 · Temas generales. Textos ampliados: «Cómo leer el árbol» y «Tipos de religión». Quedan por desarrollar y revisar los otros ocho temas, con sus fuentes y recursos visuales.
-- E02 · Cristianismo: fundamentos. Tres artículos completos. Quedan por desarrollar y revisar los otros nueve.
+- E02 · Cristianismo: fundamentos. Cinco artículos completos. Quedan por desarrollar y revisar los otros siete.
 - E03 · Apóstoles y primeros siglos. Las doce entradas son borradores pendientes de desarrollo completo.
 - E04–E22 · Cristianismo (21 concilios, cismas e Inquisición, cruzadas, Reforma, expansión, época contemporánea, papas, santos y 105 tradiciones)
 - E23–E26 · Judaísmo
@@ -32,7 +35,7 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Auditoría editorial de E01–E03
 
-Cinco artículos alcanzan las 5.000 palabras de cuerpo. Las siguientes 29 entradas requieren investigación, desarrollo, recursos visuales y revisión antes de cambiar su estado.
+Siete artículos alcanzan las 5.000 palabras de cuerpo. Las siguientes 27 entradas requieren investigación, desarrollo, recursos visuales y revisión antes de cambiar su estado.
 
 ### E01
 
@@ -48,9 +51,7 @@ Cinco artículos alcanzan las 5.000 palabras de cuerpo. Las siguientes 29 entrad
 ### E02
 
 - [ ] [La Biblia: Antiguo Testamento](enciclopedia/es/religiones/cristianismo/biblia/antiguo-testamento.md) · 212 palabras de cuerpo en la auditoría inicial.
-- [ ] [Canon, apócrifos y traducciones de la Biblia](enciclopedia/es/religiones/cristianismo/biblia/canon-apocrifos-traducciones.md) · 209 palabras de cuerpo en la auditoría inicial.
 - [ ] [La Biblia: Nuevo Testamento](enciclopedia/es/religiones/cristianismo/biblia/nuevo-testamento.md) · 196 palabras de cuerpo en la auditoría inicial.
-- [ ] [La Trinidad y los dogmas](enciclopedia/es/religiones/cristianismo/creencias/trinidad-y-dogmas.md) · 241 palabras de cuerpo en la auditoría inicial.
 - [ ] [Pablo de Tarso](enciclopedia/es/religiones/cristianismo/figuras/pablo-de-tarso.md) · 191 palabras de cuerpo en la auditoría inicial.
 - [ ] [Pedro](enciclopedia/es/religiones/cristianismo/figuras/pedro.md) · 171 palabras de cuerpo en la auditoría inicial.
 - [ ] [Liturgia y año litúrgico](enciclopedia/es/religiones/cristianismo/vida-cristiana/liturgia-y-ano-liturgico.md) · 198 palabras de cuerpo en la auditoría inicial.

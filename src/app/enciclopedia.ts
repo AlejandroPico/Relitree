@@ -55,7 +55,12 @@ interface EntradaIndice {
                   <a href="#" [class.raiz-religion]="esReligion(entrada.articulo.id)" [class.activo]="entrada.articulo.id === estado.enciclopedia()" [attr.aria-current]="entrada.articulo.id === estado.enciclopedia() ? 'page' : null"
                      (click)="$event.preventDefault(); abrir(entrada.articulo.id)">{{ entrada.articulo.titulo }}</a>
                   @if (entrada.articulo.id === articulo()?.id) {
-                    <ng-container [ngTemplateOutlet]="secciones" [ngTemplateOutletContext]="{ $implicit: indiceArticulo() }"/>
+                    @if (indiceArticulo().length) {
+                      <details class="indice-secciones">
+                        <summary>{{ i18n.t('seccionesArticulo') }}</summary>
+                        <ng-container [ngTemplateOutlet]="secciones" [ngTemplateOutletContext]="{ $implicit: indiceArticulo() }"/>
+                      </details>
+                    }
                   }
                 }
                 <ng-container [ngTemplateOutlet]="rama" [ngTemplateOutletContext]="{ $implicit: entrada.hijos }"/>
@@ -65,7 +70,12 @@ interface EntradaIndice {
             <a href="#" [class.activo]="entrada.articulo.id === estado.enciclopedia()" [attr.aria-current]="entrada.articulo.id === estado.enciclopedia() ? 'page' : null"
                (click)="$event.preventDefault(); abrir(entrada.articulo.id)">{{ entrada.articulo.titulo }}</a>
                   @if (entrada.articulo.id === articulo()?.id) {
-                    <ng-container [ngTemplateOutlet]="secciones" [ngTemplateOutletContext]="{ $implicit: indiceArticulo() }"/>
+                    @if (indiceArticulo().length) {
+                      <details class="indice-secciones">
+                        <summary>{{ i18n.t('seccionesArticulo') }}</summary>
+                        <ng-container [ngTemplateOutlet]="secciones" [ngTemplateOutletContext]="{ $implicit: indiceArticulo() }"/>
+                      </details>
+                    }
                   }
           }
         }
@@ -75,10 +85,27 @@ interface EntradaIndice {
           <ul class="indice-articulo">
             @for (seccion of grupo; track seccion.id) {
               <li>
-                <a [attr.href]="'#' + seccion.id" [class.activo]="seccionActiva() === seccion.id"
-                   [attr.aria-current]="seccionActiva() === seccion.id ? 'location' : null"
-                   (click)="$event.preventDefault(); irASeccion(seccion.id)">{{ seccion.titulo }}</a>
-                <ng-container [ngTemplateOutlet]="secciones" [ngTemplateOutletContext]="{ $implicit: seccion.hijas }"/>
+                <div class="fila-seccion">
+                  @if (seccion.hijas.length) {
+                    <button type="button" class="desplegar-seccion"
+                            [attr.aria-label]="seccion.titulo"
+                            [attr.aria-expanded]="seccionesAbiertas().has(seccion.id)"
+                            [attr.aria-controls]="'indice-seccion-' + seccion.id"
+                            (click)="alternarSeccion(seccion.id)">
+                      <svg viewBox="0 0 12 12" aria-hidden="true"><path d="m4 2 4 4-4 4"/></svg>
+                    </button>
+                  }
+                  <a [attr.href]="'#' + seccion.id" [class.activo]="seccionActiva() === seccion.id"
+                     [attr.aria-current]="seccionActiva() === seccion.id ? 'location' : null"
+                     (click)="$event.preventDefault(); irASeccion(seccion.id)">{{ seccion.titulo }}</a>
+                </div>
+                @if (seccion.hijas.length) {
+                  <div [attr.id]="'indice-seccion-' + seccion.id" [hidden]="!seccionesAbiertas().has(seccion.id)">
+                    @if (seccionesAbiertas().has(seccion.id)) {
+                      <ng-container [ngTemplateOutlet]="secciones" [ngTemplateOutletContext]="{ $implicit: seccion.hijas }"/>
+                    }
+                  </div>
+                }
               </li>
             }
           </ul>
@@ -177,6 +204,7 @@ export class Enciclopedia {
   articulo = computed(() => { const id = this.estado.enciclopedia(); return id ? this.datos.articulo(id) : null; });
   religion = computed(() => this.datos.porId.get(this.estado.enciclopedia() ?? '') ?? null);
   readonly seccionActiva = signal('');
+  readonly seccionesAbiertas = signal<ReadonlySet<string>>(new Set());
   readonly ruta = computed(() => {
     const resultado: Articulo[] = [];
     let id = this.articulo()?.padre;
@@ -265,6 +293,7 @@ export class Enciclopedia {
     }
     this.lector()?.detener();
     this.seccionActiva.set('');
+    this.seccionesAbiertas.set(new Set());
     this.anterior.set(this.articulo()?.id ?? this.anterior());
     this.tituloPendiente.set(titulo);
     this.indiceAbierto.set(false);
@@ -278,6 +307,14 @@ export class Enciclopedia {
   cerrar() { this.lector()?.detener(); this.estado.enciclopedia.set(null); }
   verEnArbol(id: string) { this.cerrar(); this.estado.elegir(id, true); }
   esReligion(id: string) { return this.datos.porId.has(id); }
+
+  alternarSeccion(id: string) {
+    this.seccionesAbiertas.update(abiertas => {
+      const siguientes = new Set(abiertas);
+      if (!siguientes.delete(id)) siguientes.add(id);
+      return siguientes;
+    });
+  }
 
   irASeccion(id: string) {
     const destino = this.prosa()?.nativeElement.querySelector<HTMLElement>('#' + CSS.escape(id));

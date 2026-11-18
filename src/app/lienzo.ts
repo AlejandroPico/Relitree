@@ -227,12 +227,41 @@ export class Lienzo {
       e.rejilla.push(radial ? `M${pt(0, y)}${arco(y, 0, A / 2)}${arco(y, A / 2, A)}` : `M0 ${y}H${A}`);
       if (radial && Math.abs(y - previa) > 420) { previa = y; e.rotulos.push({ x: C, y: C - rad(y) + 28, texto: this.i18n.anio(m), clase: 'anio', color: null }); }
     }
+    // Un giro redondeado sustituye el extremo de la vida. Cuando la vida continúa,
+    // la rama nace en T y no duplica el tramo que ya dibuja el tronco.
+    const finales = new Map<string, Relacion[]>();
+    if (!radial) {
+      for (const rel of d.relaciones) {
+        if (!rel.principal) continue;
+        const p = d.porId.get(rel.origen)!, c = d.porId.get(rel.destino)!;
+        if (Math.abs(p.yFin - c.y) > 0.1) continue;
+        const lista = finales.get(p.id) ?? [];
+        lista.push(rel);
+        finales.set(p.id, lista);
+      }
+    }
+    const giros = new Map<Relacion, number>();
+    const cortes = new Map<string, number>();
+    for (const [id, ramas] of finales) {
+      if (ramas.length !== 1) continue;
+      const rel = ramas[0], p = d.porId.get(id)!, c = d.porId.get(rel.destino)!;
+      const lado = Math.sign(c.x - p.x);
+      if (!lado) continue;
+      const libre = Math.abs(c.x - p.x) - c.r - 1;
+      const yVida = d.yDe(p.fin ?? 2026);
+      const fin = p.yFin < yVida - 0.5 ? yVida : p.y;
+      const radio = Math.min(24, libre / 2, (fin - c.y) / 2);
+      if (radio <= 1) continue;
+      giros.set(rel, radio);
+      cortes.set(id, c.y + radio);
+    }
     for (const r of d.religiones) {
       const [X, Y] = P(r.x, r.y);
       e.pos.set(r.id, [X, Y]); e.nodos.push({ r, x: X, y: Y });
-      if (r.yFin < r.y - 0.5) {
-        const yVida = Math.min(r.y, this.datos.yDe(r.fin ?? 2026)), corte = Math.max(r.yFin, yVida);
-        e.vidas.push({ r, w: GROSOR[r.importancia], d: vert(r.x, r.y, corte), post: r.yFin < corte - 0.5 ? vert(r.x, corte, r.yFin) : null });
+      const yFinal = cortes.get(r.id) ?? r.yFin;
+      if (yFinal < r.y - 0.5) {
+        const yVida = Math.min(r.y, d.yDe(r.fin ?? 2026)), corte = Math.max(yFinal, yVida);
+        e.vidas.push({ r, w: GROSOR[r.importancia], d: vert(r.x, r.y, corte), post: yFinal < corte - 0.5 ? vert(r.x, corte, yFinal) : null });
       }
     }
     for (const rel of d.relaciones) {
@@ -247,7 +276,7 @@ export class Lienzo {
       }
       const w = GROSOR[c.importancia];
       if (rel.principal) {
-        const rc = radial ? 0 : Math.min(24, Math.abs(xf - p.x) / 2, Math.max(0, p.y - c.y));
+        const rc = giros.get(rel) ?? 0;
         const camino = rc > 1 ? `M${p.x} ${c.y + rc}Q${p.x} ${c.y} ${p.x + lado * rc} ${c.y}H${xf}` : `M${pt(p.x, c.y)}${arco(c.y, p.x, xf)}`;
         e.ramas.push({ rel, d: camino, trazo, w, punteada: rel.clase === 'renacimiento', a: p.id, b: c.id });
       } else {

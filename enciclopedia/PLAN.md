@@ -32,7 +32,7 @@ Avance editorial: los dos primeros artículos se han ampliado. Los otros ocho ti
 
 ## Fase E02 · Cristianismo · Fundamentos
 
-Avance editorial. «Cristianismo», «La vida de Jesús de Nazaret» y «Pasión, muerte y resurrección» superan las 5.000 palabras de cuerpo. Las otras nueve entradas quedan pendientes de desarrollo y revisión.
+Avance editorial. «Cristianismo», «La vida de Jesús de Nazaret», «Pasión, muerte y resurrección», «Canon, apócrifos y traducciones de la Biblia» y «La Trinidad y los dogmas» superan las 5.000 palabras de cuerpo. Quedan siete entradas pendientes de desarrollo y revisión.
 
 - Cristianismo (artículo principal, por épocas)
 - La vida de Jesús de Nazaret

@@ -80,5 +80,6 @@
   "lectorTono": "Tom",
   "lectorVolumen": "Volume",
   "lectorNoDisponible": "A leitura em voz alta não está disponível neste navegador.",
-  "lectorError": "A leitura foi interrompida."
+  "lectorError": "A leitura foi interrompida.",
+  "seccionesArticulo": "Secções do artigo"
 }

@@ -80,5 +80,6 @@
   "lectorTono": "Pitch",
   "lectorVolumen": "Volume",
   "lectorNoDisponible": "Read aloud is unavailable in this browser.",
-  "lectorError": "Reading was interrupted."
+  "lectorError": "Reading was interrupted.",
+  "seccionesArticulo": "Article sections"
 }

@@ -130,3 +130,7 @@ Los índices de categoría usan `_indice.md` con un encabezado `# Título` y, op
 - Índice de la enciclopedia conmutable: alfabético total o por territorios desplegables.
 - La enciclopedia usa todo el ancho de pantalla y tiene botón de lectura en voz alta.
 - Al cerrar cada fase: dar los comandos PowerShell de git y los de ejecución local; mantener `tareas.md` al día quitando lo terminado.
+
+## Versionado de entregas
+
+- En cada entrega publicada, incrementa la versión de Relitree y sincroniza `package.json`, la versión raíz de `package-lock.json` y `README.md`. La ficha «Acerca de» lee la versión de los metadatos generados a partir de `package.json`.

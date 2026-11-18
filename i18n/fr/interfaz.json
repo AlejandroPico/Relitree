@@ -80,5 +80,6 @@
   "lectorTono": "Hauteur",
   "lectorVolumen": "Volume",
   "lectorNoDisponible": "La lecture à voix haute est indisponible dans ce navigateur.",
-  "lectorError": "La lecture a été interrompue."
+  "lectorError": "La lecture a été interrompue.",
+  "seccionesArticulo": "Sections de l’article"
 }
