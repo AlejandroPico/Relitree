@@ -98,7 +98,7 @@ Estado editorial: completa, 11 de 11 artículos publicados.
 
 ## Fase E06 · Cristianismo · Cismas, herejías e Inquisición
 
-Estado editorial: en curso, 2 de 12 artículos publicados en seis entregas.
+Estado editorial: en curso, 4 de 12 artículos publicados. La fase se reparte en seis entregas.
 
 ### Entrega 6.1
 
@@ -107,8 +107,8 @@ Estado editorial: en curso, 2 de 12 artículos publicados en seis entregas.
 
 ### Entrega 6.2
 
-- [ ] El Cisma de Oriente (1054)
-- [ ] La querella de las investiduras
+- [x] [El Cisma de Oriente (1054)](es/religiones/cristianismo/cismas-herejias/cisma-de-oriente.md)
+- [x] [La querella de las investiduras](es/religiones/cristianismo/cismas-herejias/querella-de-las-investiduras.md)
 
 ### Entrega 6.3
 

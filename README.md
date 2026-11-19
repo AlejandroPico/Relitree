@@ -1,8 +1,8 @@
 # Relitree
 
-**Versión 1.7.17**
+**Versión 1.7.18**
 
-La [entrega 6.1 de la enciclopedia](enciclopedia/PLAN.md#entrega-61) abre la fase E06 con «Herejías de la Antigüedad» e «Iconoclasia y culto a las imágenes».
+La [entrega 6.2 de la enciclopedia](enciclopedia/PLAN.md#entrega-62) amplía la fase E06 con «El Cisma de Oriente (1054)» y «La querella de las investiduras».
 
 El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto.
 

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" viewBox="0 0 680 528" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Qué se acordó en Worms</title>
+  <desc id="descripcion">Elección y consagración libres. Recepción diferenciada de las regalías en Alemania y en otras partes del Imperio.</desc>
+  <rect width="680" height="528" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 30px; font-weight: 720 }
+    .small { font-size: 17px; fill: #465553 }
+    .date { font-size: 21px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 21px; font-weight: 550 }
+    .label { font-size: 21px; font-weight: 700 }
+  </style>
+  <text x="34" y="46" class="title">Qué se acordó en Worms</text>
+  <path d="M 53 114 V 435" stroke="#678c83" stroke-width="3"/>
+  <circle cx="53" cy="113" r="17" fill="#1f6659"/>
+  <text x="53" y="119" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700">1</text>
+  <text x="84" y="118" class="label">Enrique V · Carta del emperador</text>
+  <text x="84" y="145" class="small">Libertad de elección canónica y consagración.</text>
+  <text x="84" y="168" class="small">Renuncia a investir con anillo y báculo.</text>
+  <circle cx="53" cy="220" r="17" fill="#1f6659"/>
+  <text x="53" y="226" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700">2</text>
+  <text x="84" y="225" class="label">Calixto II · Reino alemán</text>
+  <text x="84" y="252" class="small">Presencia regia durante elecciones sin simonía ni violencia.</text>
+  <text x="84" y="275" class="small">El elegido recibe las regalías mediante el cetro.</text>
+  <circle cx="53" cy="327" r="17" fill="#1f6659"/>
+  <text x="53" y="333" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700">3</text>
+  <text x="84" y="332" class="label">Calixto II · Otros territorios del Imperio</text>
+  <text x="84" y="359" class="small">Primero tiene lugar la consagración.</text>
+  <text x="84" y="382" class="small">El consagrado recibe las regalías en un plazo de seis meses.</text>
+  <circle cx="53" cy="434" r="17" fill="#1f6659"/>
+  <text x="53" y="440" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700">4</text>
+  <text x="84" y="439" class="label">Dos autoridades y dos actos</text>
+  <text x="84" y="466" class="small">La consagración confiere el orden eclesiástico.</text>
+  <text x="84" y="489" class="small">El cetro representa la entrega de regalías.</text>
+</svg>

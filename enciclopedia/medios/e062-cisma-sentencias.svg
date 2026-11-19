@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" viewBox="0 0 680 528" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Quién condenó a quién en 1054</title>
+  <desc id="descripcion">Dos condenas personales y su recepción. Cada fila identifica al autor y a sus destinatarios.</desc>
+  <rect width="680" height="528" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 30px; font-weight: 720 }
+    .small { font-size: 17px; fill: #465553 }
+    .date { font-size: 21px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 21px; font-weight: 550 }
+    .label { font-size: 21px; font-weight: 700 }
+  </style>
+  <text x="34" y="46" class="title">Quién condenó a quién en 1054</text>
+  <path d="M 53 114 V 435" stroke="#678c83" stroke-width="3"/>
+  <circle cx="53" cy="113" r="17" fill="#1f6659"/>
+  <text x="53" y="119" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700">1</text>
+  <text x="84" y="118" class="label">16 de julio · Legados romanos</text>
+  <text x="84" y="145" class="small">Depositan su sentencia en Santa Sofía.</text>
+  <text x="84" y="168" class="small">Se dirige a Miguel Cerulario y a colaboradores.</text>
+  <circle cx="53" cy="220" r="17" fill="#1f6659"/>
+  <text x="53" y="226" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700">2</text>
+  <text x="84" y="225" class="label">Julio · Sínodo de Constantinopla</text>
+  <text x="84" y="252" class="small">Reprueba el documento y condena a sus responsables.</text>
+  <text x="84" y="275" class="small">Actúa desde el patriarcado de Constantinopla.</text>
+  <circle cx="53" cy="327" r="17" fill="#1f6659"/>
+  <text x="53" y="333" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700">3</text>
+  <text x="84" y="332" class="label">Siglos posteriores · Separación</text>
+  <text x="84" y="359" class="small">Otras autoridades y comunidades intervienen con el tiempo.</text>
+  <text x="84" y="382" class="small">La fecha de 1054 queda como referencia para el cisma.</text>
+  <circle cx="53" cy="434" r="17" fill="#1f6659"/>
+  <text x="53" y="440" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700">4</text>
+  <text x="84" y="439" class="label">1965 · Declaración conjunta</text>
+  <text x="84" y="466" class="small">Pablo VI y Atenágoras apartan las censuras de la memoria.</text>
+  <text x="84" y="489" class="small">Continúa la búsqueda de la plena comunión.</text>
+</svg>
