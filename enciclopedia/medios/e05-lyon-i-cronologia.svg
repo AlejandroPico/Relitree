@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="519" viewBox="0 0 760 519" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Del conflicto a la sentencia</title>
+  <desc id="descripcion">Cronología de Lyon I y de su recepción inmediata. 1239, Gregorio IX excomulga a Federico II. 1241, Fracasa la convocatoria de Gregorio IX. 1244, Inocencio IV llega a Lyon. Jun. 1245, Apertura de la asamblea. 17 jul. 1245, Se promulga la deposición de Federico II. 25 ago. 1245, Envío de la colección jurídica a universidades. 1250, Muere Federico II.</desc>
+  <rect width="760" height="519" fill="#f3eee3"/>
+  <path d="M0 0H760V68H0Z" fill="#23353a"/>
+  <text x="28" y="44" fill="#fff8e9" font-family="Georgia,serif" font-size="31">Del conflicto a la sentencia</text>
+  <path d="M162 112V472" fill="none" stroke="#927044" stroke-width="3"/>
+  <g font-family="system-ui,sans-serif">
+    <circle cx="162" cy="112" r="6" fill="#5d4428"/>
+    <text x="142" y="118" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1239</text>
+    <text x="187" y="118" font-size="22" fill="#23353a">Gregorio IX excomulga a Federico II</text>
+    <circle cx="162" cy="172" r="6" fill="#5d4428"/>
+    <text x="142" y="178" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1241</text>
+    <text x="187" y="178" font-size="22" fill="#23353a">Fracasa la convocatoria de Gregorio IX</text>
+    <circle cx="162" cy="232" r="6" fill="#5d4428"/>
+    <text x="142" y="238" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1244</text>
+    <text x="187" y="238" font-size="22" fill="#23353a">Inocencio IV llega a Lyon</text>
+    <circle cx="162" cy="292" r="6" fill="#5d4428"/>
+    <text x="142" y="298" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">Jun. 1245</text>
+    <text x="187" y="298" font-size="22" fill="#23353a">Apertura de la asamblea</text>
+    <circle cx="162" cy="352" r="6" fill="#5d4428"/>
+    <text x="142" y="358" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">17 jul. 1245</text>
+    <text x="187" y="358" font-size="22" fill="#23353a">Se promulga la deposición de Federico II</text>
+    <circle cx="162" cy="412" r="6" fill="#5d4428"/>
+    <text x="142" y="418" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">25 ago. 1245</text>
+    <text x="187" y="418" font-size="22" fill="#23353a">Envío de la colección jurídica a universidades</text>
+    <circle cx="162" cy="472" r="6" fill="#5d4428"/>
+    <text x="142" y="478" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1250</text>
+    <text x="187" y="478" font-size="22" fill="#23353a">Muere Federico II</text>
+  </g>
+</svg>

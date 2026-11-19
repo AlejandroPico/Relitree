@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="519" viewBox="0 0 760 519" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">De la convocatoria a la recepción</title>
+  <desc id="descripcion">Cronología de Letrán IV y de sus constituciones. 1204, Conquista de Constantinopla por los cruzados. Abr. 1213, Inocencio III convoca el concilio. 11 nov. 1215, Apertura de Letrán IV. 20 nov. 1215, Debate sobre la disputa imperial. 30 nov. 1215, Se aprueban las constituciones. 1217, Comienza la quinta cruzada. 1234, Gregorio IX promulga el Liber Extra.</desc>
+  <rect width="760" height="519" fill="#f3eee3"/>
+  <path d="M0 0H760V68H0Z" fill="#23353a"/>
+  <text x="28" y="44" fill="#fff8e9" font-family="Georgia,serif" font-size="31">De la convocatoria a la recepción</text>
+  <path d="M162 112V472" fill="none" stroke="#927044" stroke-width="3"/>
+  <g font-family="system-ui,sans-serif">
+    <circle cx="162" cy="112" r="6" fill="#5d4428"/>
+    <text x="142" y="118" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1204</text>
+    <text x="187" y="118" font-size="22" fill="#23353a">Conquista de Constantinopla por los cruzados</text>
+    <circle cx="162" cy="172" r="6" fill="#5d4428"/>
+    <text x="142" y="178" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">Abr. 1213</text>
+    <text x="187" y="178" font-size="22" fill="#23353a">Inocencio III convoca el concilio</text>
+    <circle cx="162" cy="232" r="6" fill="#5d4428"/>
+    <text x="142" y="238" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">11 nov. 1215</text>
+    <text x="187" y="238" font-size="22" fill="#23353a">Apertura de Letrán IV</text>
+    <circle cx="162" cy="292" r="6" fill="#5d4428"/>
+    <text x="142" y="298" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">20 nov. 1215</text>
+    <text x="187" y="298" font-size="22" fill="#23353a">Debate sobre la disputa imperial</text>
+    <circle cx="162" cy="352" r="6" fill="#5d4428"/>
+    <text x="142" y="358" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">30 nov. 1215</text>
+    <text x="187" y="358" font-size="22" fill="#23353a">Se aprueban las constituciones</text>
+    <circle cx="162" cy="412" r="6" fill="#5d4428"/>
+    <text x="142" y="418" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1217</text>
+    <text x="187" y="418" font-size="22" fill="#23353a">Comienza la quinta cruzada</text>
+    <circle cx="162" cy="472" r="6" fill="#5d4428"/>
+    <text x="142" y="478" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1234</text>
+    <text x="187" y="478" font-size="22" fill="#23353a">Gregorio IX promulga el Liber Extra</text>
+  </g>
+</svg>
