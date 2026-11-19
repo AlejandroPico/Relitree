@@ -90,6 +90,8 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .cabeza.sola { grid-template-columns: 1fr auto; }
 .cabeza .simbolo { width: 58px; height: 58px; margin: 0; }
 .cabeza .cerrar { align-self: start; }
+.titulo-enciclopedia { padding: 0; border: 0; font: inherit; color: inherit; background: none; text-align: start; cursor: pointer; }
+.titulo-enciclopedia:hover, .titulo-enciclopedia:focus-visible { color: var(--acento); text-decoration: underline; }
 .cuerpo { overflow-y: auto; padding: 2px 24px 22px; scrollbar-width: none; overscroll-behavior: contain; -webkit-mask-image: linear-gradient(transparent, #000 14px, #000 calc(100% - 22px), transparent); mask-image: linear-gradient(transparent, #000 14px, #000 calc(100% - 22px), transparent); }
 .cuerpo::-webkit-scrollbar { display: none; }
 .cuerpo > :first-child { margin-top: 10px; }

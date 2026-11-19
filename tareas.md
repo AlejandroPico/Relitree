@@ -4,6 +4,8 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] Enciclopedia 1.7.5 · El título de la ficha del mapa abre el artículo y el índice abre y desplaza su rama hasta mostrar la entrada activa.
+- [x] E04 · [«Concilio de Éfeso (431)»](enciclopedia/es/religiones/cristianismo/concilios/efeso.md), 5.123 palabras de cuerpo, cronología, tabla documental y 15 fuentes.
 - [x] Enciclopedia 1.7.4 · Barras de desplazamiento ocultas en el artículo y el índice. Desplazamiento nativo con rueda, teclado y gestos táctiles.
 - [x] E04 · [«Concilio de Constantinopla I (381)»](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-i.md), 5.219 palabras de cuerpo, cronología, tabla documental y 18 fuentes.
 - [x] Mapa 1.7.2 · Cronología de arcos con zoom ampliado, recorrido resaltado y bordes seleccionables. Cronologías paralelas ajustadas al alto de pantalla.
@@ -30,7 +32,7 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 - E01 · Temas generales. Textos ampliados: «Cómo leer el árbol» y «Tipos de religión». Quedan por desarrollar y revisar los otros ocho temas, con sus fuentes y recursos visuales.
 - E02 · Cristianismo: fundamentos. Cinco artículos completos. Quedan por desarrollar y revisar los otros siete.
 - E03 · Apóstoles y primeros siglos. Las doce entradas son borradores pendientes de desarrollo completo.
-- E04 · Cristianismo, concilios ecuménicos (I). En curso, 2 de 11 completos. Disponibles [Nicea I (325)](enciclopedia/es/religiones/cristianismo/concilios/nicea-i.md) y [Constantinopla I (381)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-i.md). El siguiente artículo es el Concilio de Éfeso (431).
+- E04 · Cristianismo, concilios ecuménicos (I). En curso, 3 de 11 completos. Disponibles [Nicea I (325)](enciclopedia/es/religiones/cristianismo/concilios/nicea-i.md), [Constantinopla I (381)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-i.md) y [Éfeso (431)](enciclopedia/es/religiones/cristianismo/concilios/efeso.md). El siguiente artículo es el Concilio de Calcedonia (451).
 - E05–E22 · Cristianismo (segunda parte de los 21 concilios, cismas e Inquisición, cruzadas, Reforma, expansión, época contemporánea, papas, santos y 105 tradiciones)
 - E23–E26 · Judaísmo
 - E27–E33 · Islam

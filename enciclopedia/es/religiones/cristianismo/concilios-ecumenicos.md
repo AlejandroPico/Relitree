@@ -1,6 +1,6 @@
 # Los concilios ecuménicos
 
-> **Bloque en desarrollo · E04 y E05.** El repertorio se amplía con estudios de cada concilio. Ya están disponibles [[cristianismo/concilios/nicea-i|Nicea I (325)]] y [[cristianismo/concilios/constantinopla-i|Constantinopla I (381)]].
+> **Bloque en desarrollo · E04 y E05.** El repertorio se amplía con estudios de cada concilio. Ya están disponibles [[cristianismo/concilios/nicea-i|Nicea I (325)]], [[cristianismo/concilios/constantinopla-i|Constantinopla I (381)]] y [[cristianismo/concilios/efeso|Éfeso (431)]].
 
 Un concilio ecuménico es una asamblea de obispos de toda la Iglesia convocada para resolver cuestiones de doctrina y disciplina. La [[catolica|Iglesia católica]] reconoce veintiuno. La [[ortodoxa|Iglesia ortodoxa]] acepta solo los siete primeros; las [[miafisismo|Iglesias ortodoxas orientales]], los tres primeros; y la [[iglesia-oriente|Iglesia del Oriente]], los dos primeros. Las listas reflejan tradiciones de recepción que se han configurado a lo largo de siglos. Las rupturas vinculadas a la recepción de un concilio se estudian en sus artículos y en las fichas históricas correspondientes.
 
@@ -10,7 +10,7 @@ Un concilio ecuménico es una asamblea de obispos de toda la Iglesia convocada p
 |---|---|---|---|
 | 1 | [[cristianismo/concilios/nicea-i|Nicea I]] | 325 | Afirma en su credo que el Hijo es consustancial al Padre, establece cánones disciplinares y busca una celebración común de la Pascua. |
 | 2 | [[cristianismo/concilios/constantinopla-i|Constantinopla I]] | 381 | Reafirma la fe de Nicea. Se le atribuye el credo que desarrolla la confesión del Espíritu Santo. |
-| 3 | Éfeso | 431 | Proclama a María Madre de Dios y condena a Nestorio. Se separa la Iglesia del Oriente. |
+| 3 | [[cristianismo/concilios/efeso|Éfeso]] | 431 | Depone a Nestorio y reconoce la concordancia de la segunda carta de Cirilo con Nicea. El título de Madre de Dios expresa la unidad de Cristo. |
 | 4 | Calcedonia | 451 | Cristo es una persona con dos naturalezas, divina y humana. Se separan las iglesias miafisitas. |
 | 5 | Constantinopla II | 553 | Condena los «Tres Capítulos» para acercarse a los miafisitas. |
 | 6 | Constantinopla III | 680–681 | Cristo tiene dos voluntades; condena el monotelismo. |

@@ -121,7 +121,9 @@
           @else { <path [attr.d]="glifos[r.tipo].d" [class.relleno]="glifos[r.tipo].relleno"/> }
         </svg>
         <div>
-          <h2>{{ r.nombre }}</h2>
+          <h2>
+            <button type="button" class="titulo-enciclopedia" [title]="i18n.t('abrirEnc')" (click)="estado.enciclopedia.set(r.id)">{{ r.nombre }}</button>
+          </h2>
           <p class="datos">{{ i18n.periodo(r.inicio, r.fin) }}</p>
         </div>
         <button class="ico cerrar" [title]="i18n.t('cerrar')" (click)="estado.elegir(null)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['cerrar']"/></svg></button>

@@ -1,4 +1,4 @@
-import { ChangeDetectionStrategy, Component, ElementRef, computed, inject, signal, viewChild } from '@angular/core';
+import { ChangeDetectionStrategy, Component, ElementRef, afterRenderEffect, computed, inject, signal, viewChild } from '@angular/core';
 import { DomSanitizer } from '@angular/platform-browser';
 import { NgTemplateOutlet } from '@angular/common';
 import { Articulo, Datos, normalizar } from './datos';
@@ -35,7 +35,7 @@ interface EntradaIndice {
           <button [class.activo]="!porTerritorio()" (click)="porTerritorio.set(false)">{{ i18n.t('ordenAZ') }}</button>
           <button [class.activo]="porTerritorio()" (click)="porTerritorio.set(true)">{{ i18n.t('ordenTerritorio') }}</button>
         </div>
-        <div class="indice">
+        <div #indice class="indice">
           @for (g of grupos(); track g.id) {
             <details [open]="g.abierto">
               <summary [style.color]="g.color">{{ g.nombre }}<small>{{ g.total }}</small></summary>
@@ -200,6 +200,7 @@ export class Enciclopedia {
   prosa = viewChild<ElementRef<HTMLElement>>('prosa');
   private lector = viewChild(LectorEnciclopedia);
   private cuerpo = viewChild.required<ElementRef<HTMLElement>>('cuerpo');
+  private indice = viewChild.required<ElementRef<HTMLElement>>('indice');
 
   articulo = computed(() => { const id = this.estado.enciclopedia(); return id ? this.datos.articulo(id) : null; });
   religion = computed(() => this.datos.porId.get(this.estado.enciclopedia() ?? '') ?? null);
@@ -284,6 +285,25 @@ export class Enciclopedia {
       { titulo: t('influye'), items: d.influyeEn(r.id).map((x) => item(x.destino)) },
     ].filter((b) => b.items.length);
   });
+
+  constructor() {
+    afterRenderEffect(() => {
+      const grupos = this.grupos();
+      this.indiceAbierto(); // En móvil el índice se despliega después de abrir el artículo.
+      const indice = this.indice().nativeElement;
+      if (!grupos.length || !indice.clientHeight) return;
+      const activo = indice.querySelector<HTMLElement>('a[aria-current="page"]');
+      if (!activo) return;
+      for (let rama = activo.closest('details'); rama; rama = rama.parentElement?.closest('details') ?? null) {
+        rama.open = true;
+      }
+      const vista = indice.getBoundingClientRect();
+      const fila = activo.getBoundingClientRect();
+      if (fila.top < vista.top || fila.bottom > vista.bottom) {
+        indice.scrollTop += (fila.top + fila.bottom - vista.top - vista.bottom) / 2;
+      }
+    });
+  }
 
   color(region: string) { return this.datos.region.get(region)!.color; }
   abrir(id: string, titulo = '') {
