@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="513" viewBox="0 0 760 513" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Del proceso a las Clementinas</title>
+  <desc id="descripcion">Cronología del Temple y del concilio de Vienne. 13 oct. 1307, Detenciones de templarios en Francia. 12 ago. 1308, Convocatoria del concilio. 16 oct. 1311, Apertura de la primera sesión. 3 abr. 1312, Promulgación de Vox in excelso. 2 may. 1312, Ad providam asigna los bienes al Hospital. 6 may. 1312, Considerantes dudum y clausura. 1317, Juan XXII promulga las Clementinas.</desc>
+  <rect width="760" height="513" fill="#f3eee3"/>
+  <path d="M0 0H760V68H0Z" fill="#23353a"/>
+  <text x="28" y="44" fill="#fff8e9" font-family="Georgia,serif" font-size="31">Del proceso a las Clementinas</text>
+  <path d="M162 111V465" fill="none" stroke="#927044" stroke-width="3"/>
+  <g font-family="system-ui,sans-serif">
+    <circle cx="162" cy="111" r="6" fill="#5d4428"/>
+    <text x="142" y="117" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">13 oct. 1307</text>
+    <text x="187" y="117" font-size="22" fill="#23353a">Detenciones de templarios en Francia</text>
+    <circle cx="162" cy="170" r="6" fill="#5d4428"/>
+    <text x="142" y="176" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">12 ago. 1308</text>
+    <text x="187" y="176" font-size="22" fill="#23353a">Convocatoria del concilio</text>
+    <circle cx="162" cy="229" r="6" fill="#5d4428"/>
+    <text x="142" y="235" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">16 oct. 1311</text>
+    <text x="187" y="235" font-size="22" fill="#23353a">Apertura de la primera sesión</text>
+    <circle cx="162" cy="288" r="6" fill="#5d4428"/>
+    <text x="142" y="294" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">3 abr. 1312</text>
+    <text x="187" y="294" font-size="22" fill="#23353a">Promulgación de Vox in excelso</text>
+    <circle cx="162" cy="347" r="6" fill="#5d4428"/>
+    <text x="142" y="353" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">2 may. 1312</text>
+    <text x="187" y="353" font-size="22" fill="#23353a">Ad providam asigna los bienes al Hospital</text>
+    <circle cx="162" cy="406" r="6" fill="#5d4428"/>
+    <text x="142" y="412" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">6 may. 1312</text>
+    <text x="187" y="412" font-size="22" fill="#23353a">Considerantes dudum y clausura</text>
+    <circle cx="162" cy="465" r="6" fill="#5d4428"/>
+    <text x="142" y="471" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1317</text>
+    <text x="187" y="471" font-size="22" fill="#23353a">Juan XXII promulga las Clementinas</text>
+  </g>
+</svg>

@@ -4,6 +4,8 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E05 · [«Concilio de Lyon II (1274)»](enciclopedia/es/religiones/cristianismo/concilios/lyon-ii.md), 5.065 palabras de cuerpo, cronología, dos tablas y 13 fuentes. Publicado en la versión 1.7.12.
+- [x] E05 · [«Concilio de Vienne (1311–1312)»](enciclopedia/es/religiones/cristianismo/concilios/vienne.md), 5.084 palabras de cuerpo, cronología, dos tablas y 14 fuentes. Publicado en la versión 1.7.12.
 - [x] E05 · [«Concilio de Letrán IV (1215)»](enciclopedia/es/religiones/cristianismo/concilios/letran-iv.md), 5.193 palabras de cuerpo, cronología, dos tablas y 11 fuentes. Publicado en la versión 1.7.11.
 - [x] E05 · [«Concilio de Lyon I (1245)»](enciclopedia/es/religiones/cristianismo/concilios/lyon-i.md), 5.145 palabras de cuerpo, cronología, dos tablas y 14 fuentes. Publicado en la versión 1.7.11.
 - [x] E04 · [«Concilio de Constantinopla III (680–681)»](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-iii.md), 5.097 palabras de cuerpo, cronología, dos tablas y 12 fuentes. Publicado en la versión 1.7.8.
@@ -43,7 +45,7 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 - E02 · Cristianismo: fundamentos. Cinco artículos completos. Quedan por desarrollar y revisar los otros siete.
 - E03 · Apóstoles y primeros siglos. Las doce entradas son borradores pendientes de desarrollo completo.
 - E04 · Cristianismo, concilios ecuménicos (I). Completa, 11 de 11 artículos publicados. Disponibles [Nicea I (325)](enciclopedia/es/religiones/cristianismo/concilios/nicea-i.md), [Constantinopla I (381)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-i.md), [Éfeso (431)](enciclopedia/es/religiones/cristianismo/concilios/efeso.md), [Calcedonia (451)](enciclopedia/es/religiones/cristianismo/concilios/calcedonia.md), [Constantinopla II (553)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-ii.md), [Constantinopla III (680–681)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-iii.md), [Nicea II (787)](enciclopedia/es/religiones/cristianismo/concilios/nicea-ii.md), [Constantinopla IV (869–870)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-iv.md), [Letrán I (1123)](enciclopedia/es/religiones/cristianismo/concilios/letran-i.md), [Letrán II (1139)](enciclopedia/es/religiones/cristianismo/concilios/letran-ii.md) y [Letrán III (1179)](enciclopedia/es/religiones/cristianismo/concilios/letran-iii.md).
-- E05 · Cristianismo, concilios ecuménicos (II). En curso, 2 de 11 artículos publicados. Disponibles [Letrán IV (1215)](enciclopedia/es/religiones/cristianismo/concilios/letran-iv.md) y [Lyon I (1245)](enciclopedia/es/religiones/cristianismo/concilios/lyon-i.md). El siguiente artículo es Lyon II (1274).
+- E05 · Cristianismo, concilios ecuménicos (II). En curso, 4 de 11 artículos publicados. Disponibles [Letrán IV (1215)](enciclopedia/es/religiones/cristianismo/concilios/letran-iv.md), [Lyon I (1245)](enciclopedia/es/religiones/cristianismo/concilios/lyon-i.md), [Lyon II (1274)](enciclopedia/es/religiones/cristianismo/concilios/lyon-ii.md) y [Vienne (1311–1312)](enciclopedia/es/religiones/cristianismo/concilios/vienne.md). El siguiente artículo es Constanza (1414–1418).
 - E06–E22 · Cristianismo (cismas e Inquisición, cruzadas, Reforma, expansión, época contemporánea, papas, santos y 105 tradiciones)
 - E23–E26 · Judaísmo
 - E27–E33 · Islam

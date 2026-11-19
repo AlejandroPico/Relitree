@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="513" viewBox="0 0 760 513" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Del programa a la promulgación</title>
+  <desc id="descripcion">Cronología de Lyon II y su recepción. 1268–1271, Vacante pontificia y elección de Gregorio X. 31 mar. 1272, Convocatoria del concilio. 7 may. 1274, Apertura de Lyon II. 6 jul. 1274, Proclamación de la unión eclesiástica. 16 jul. 1274, Sesión que aprueba Ubi periculum. 1 nov. 1274, Promulgación de la colección jurídica. 1282–1283, Fin del acuerdo en Constantinopla.</desc>
+  <rect width="760" height="513" fill="#f3eee3"/>
+  <path d="M0 0H760V68H0Z" fill="#23353a"/>
+  <text x="28" y="44" fill="#fff8e9" font-family="Georgia,serif" font-size="31">Del programa a la promulgación</text>
+  <path d="M162 111V465" fill="none" stroke="#927044" stroke-width="3"/>
+  <g font-family="system-ui,sans-serif">
+    <circle cx="162" cy="111" r="6" fill="#5d4428"/>
+    <text x="142" y="117" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1268–1271</text>
+    <text x="187" y="117" font-size="22" fill="#23353a">Vacante pontificia y elección de Gregorio X</text>
+    <circle cx="162" cy="170" r="6" fill="#5d4428"/>
+    <text x="142" y="176" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">31 mar. 1272</text>
+    <text x="187" y="176" font-size="22" fill="#23353a">Convocatoria del concilio</text>
+    <circle cx="162" cy="229" r="6" fill="#5d4428"/>
+    <text x="142" y="235" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">7 may. 1274</text>
+    <text x="187" y="235" font-size="22" fill="#23353a">Apertura de Lyon II</text>
+    <circle cx="162" cy="288" r="6" fill="#5d4428"/>
+    <text x="142" y="294" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">6 jul. 1274</text>
+    <text x="187" y="294" font-size="22" fill="#23353a">Proclamación de la unión eclesiástica</text>
+    <circle cx="162" cy="347" r="6" fill="#5d4428"/>
+    <text x="142" y="353" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">16 jul. 1274</text>
+    <text x="187" y="353" font-size="22" fill="#23353a">Sesión que aprueba Ubi periculum</text>
+    <circle cx="162" cy="406" r="6" fill="#5d4428"/>
+    <text x="142" y="412" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1 nov. 1274</text>
+    <text x="187" y="412" font-size="22" fill="#23353a">Promulgación de la colección jurídica</text>
+    <circle cx="162" cy="465" r="6" fill="#5d4428"/>
+    <text x="142" y="471" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1282–1283</text>
+    <text x="187" y="471" font-size="22" fill="#23353a">Fin del acuerdo en Constantinopla</text>
+  </g>
+</svg>
