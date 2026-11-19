@@ -50,7 +50,7 @@ svg path { vector-effect: none; }
 .buscador a:first-of-type { margin-top: 8px; }
 .buscador a:hover, .lista a:hover { background: color-mix(in srgb, var(--texto) 7%, transparent); }
 .buscador i, .lista i, .fichas i { flex: none; width: 8px; height: 8px; border-radius: 50%; display: inline-block; align-self: center; }
-small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left: 10px; white-space: nowrap; }
+small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left: 10px; }
 .filtros { width: 380px; }
 .filtros label { display: flex; align-items: center; gap: 9px; padding: 4px 0; cursor: pointer; }
 .filtros input[type=checkbox], .filtros input[type=range] { accent-color: var(--acento); }
@@ -137,6 +137,36 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .enciclopedia header { position: sticky; top: 0; display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); align-items: center; gap: 4px; padding: 8px 12px; background: linear-gradient(var(--fondo) 70%, transparent); z-index: 1; }
 .enc-cabecera-indice { grid-column: 1; justify-self: start; }
 .enc-cabecera-acciones { grid-column: 3; justify-self: end; display: flex; gap: 2px; }
+.enc-ajustes-lectura { position: relative; }
+.enc-panel-lectura {
+  position: absolute;
+  inset-block-start: calc(100% + 6px);
+  inset-inline-end: -36px;
+  z-index: 2;
+  display: grid;
+  gap: 10px;
+  width: min(17rem, calc(100vw - 24px));
+  max-height: max(8rem, calc(100dvh - 90px));
+  overflow: auto;
+  padding: 12px;
+  background: var(--barra);
+  color: var(--texto);
+  box-shadow: var(--sombra);
+  border: 1px solid color-mix(in srgb, var(--texto) 14%, transparent);
+}
+.enc-panel-lectura label { display: grid; gap: 4px; }
+.enc-panel-lectura label > span { display: flex; justify-content: space-between; gap: 8px; }
+.enc-panel-lectura output { white-space: nowrap; font-variant-numeric: tabular-nums; }
+.enc-panel-lectura :is(input, select) { width: 100%; min-width: 0; accent-color: var(--acento); }
+.enc-panel-lectura :is(select, button) {
+  font: inherit;
+  color: var(--texto);
+  background: var(--fondo);
+  border: 1px solid color-mix(in srgb, var(--texto) 18%, transparent);
+  padding: 5px 8px;
+}
+.enc-restablecer-lectura { justify-self: start; cursor: pointer; }
+.enc-panel-lectura :focus-visible { outline: 2px solid var(--acento); outline-offset: 2px; }
 .enciclopedia app-lector-enciclopedia { grid-column: 2; grid-row: 1; justify-self: center; }
 .lector { position: relative; display: flex; align-items: center; gap: 3px; padding: 4px 7px; border: 1px solid color-mix(in srgb, var(--texto) 13%, transparent); border-radius: 999px; background: var(--barra); }
 .lector button { display: grid; place-items: center; padding: 0; width: 30px; height: 32px; border: 0; border-radius: 50%; background: none; color: var(--texto); cursor: pointer; }
@@ -161,18 +191,19 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
   .enciclopedia app-lector-enciclopedia { grid-column: 1 / -1; grid-row: 2; }
 }
 
-.enciclopedia .texto { padding: 0 clamp(12px, 2.4vw, 48px) 90px; min-width: 0; }
+.enciclopedia .texto { padding: 0 clamp(12px, 2.4vw, 48px) 90px; min-width: 0; max-inline-size: var(--enc-ancho-lectura, none); margin-inline: auto; overflow-wrap: anywhere; }
 .enciclopedia .cabecera { display: flex; gap: 22px; align-items: center; margin-bottom: 26px; }
 .enciclopedia .cabecera .simbolo { margin: 0; width: 92px; height: 92px; flex: none; }
 .enciclopedia h1 { font: 600 clamp(30px, 3.4vw, 46px)/1.1 var(--serif); letter-spacing: -.015em; margin-bottom: 8px; }
 .enciclopedia .texto > h1 { margin-bottom: 26px; }
 .enciclopedia h2 { font: 600 22px var(--serif); margin: 36px 0 12px; }
-.prosa { font: 18px/1.7 var(--serif); }
+.prosa { font: var(--enc-letra-lectura, 18px)/var(--enc-interlineado, 1.7) var(--serif); }
+.enciclopedia .prosa h2 { font-size: 1.22em; }
 .prosa img { display: block; max-inline-size: 100%; block-size: auto; }
-.prosa p { margin: 0 0 16px; }
+.prosa p { margin: 0 0 var(--enc-espacio-parrafos, 16px); }
 .prosa a, .credito a { color: var(--acento); }
-.prosa table { border-collapse: collapse; width: 100%; font: 14.5px/1.5 var(--fuente); margin: 10px 0 24px; }
-.prosa th { text-align: left; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--tenue); font-weight: 600; padding: 6px 14px 8px 0; }
+.prosa table { border-collapse: collapse; width: 100%; font: .8056em/1.5 var(--fuente); margin: 10px 0 24px; }
+.prosa th { text-align: left; font-size: .76em; letter-spacing: .08em; text-transform: uppercase; color: var(--tenue); font-weight: 600; padding: 6px 14px 8px 0; }
 .prosa td { padding: 8px 14px 8px 0; vertical-align: top; }
 .prosa tbody tr:nth-child(odd) td { background: color-mix(in srgb, var(--texto) 3.5%, transparent); }
 .prosa td:first-child, .prosa th:first-child { padding-left: 10px; white-space: nowrap; }

@@ -127,5 +127,15 @@
   "nuevosComienzos": "Recorded beginnings per interval. Bars share a scale and periods vary in duration.",
   "alcanceDemografia": "Estimates from the entries. Hatching shows a range. Figures can overlap and come from different sources and dates.",
   "territorioOrigen": "Source region",
-  "territorioDestino": "Destination region"
+  "territorioDestino": "Destination region",
+  "lecturaAjustes": "Reading settings",
+  "lecturaLetra": "Font size",
+  "lecturaInterlineado": "Line spacing",
+  "lecturaParrafos": "Paragraph spacing",
+  "lecturaAncho": "Text width",
+  "lecturaCompleta": "Full width",
+  "lecturaEstrecha": "Narrow column",
+  "lecturaMedia": "Medium column",
+  "lecturaAmplia": "Wide column",
+  "lecturaRestablecer": "Reset settings"
 }

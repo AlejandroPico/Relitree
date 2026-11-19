@@ -98,7 +98,7 @@ Estado editorial: completa, 11 de 11 artículos publicados.
 
 ## Fase E06 · Cristianismo · Cismas, herejías e Inquisición
 
-Estado editorial: en curso, 4 de 12 artículos publicados. La fase se reparte en seis entregas.
+Estado editorial: en curso, 6 de 12 artículos publicados. La fase se reparte en seis entregas.
 
 ### Entrega 6.1
 
@@ -112,8 +112,8 @@ Estado editorial: en curso, 4 de 12 artículos publicados. La fase se reparte en
 
 ### Entrega 6.3
 
-- [ ] El papado de Aviñón
-- [ ] El Cisma de Occidente (1378–1417)
+- [x] [El papado de Aviñón](es/religiones/cristianismo/cismas-herejias/papado-de-avinon.md)
+- [x] [El Cisma de Occidente (1378–1417)](es/religiones/cristianismo/cismas-herejias/cisma-de-occidente.md)
 
 ### Entrega 6.4
 

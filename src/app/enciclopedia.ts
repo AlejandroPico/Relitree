@@ -22,10 +22,43 @@ interface EntradaIndice {
   total: number;
 }
 
+const CLAVE_LECTURA = 'relitree.ajustes-lectura';
+const ANCHOS_LECTURA = { completa: 'none', estrecha: '38rem', media: '50rem', amplia: '66rem' } as const;
+type AnchoLectura = keyof typeof ANCHOS_LECTURA;
+const CONTROLES_LECTURA = [
+  { campo: 'letra', etiqueta: 'lecturaLetra', min: 14, max: 32, paso: 1, unidad: 'px' },
+  { campo: 'interlineado', etiqueta: 'lecturaInterlineado', min: 1.2, max: 2.3, paso: 0.1, unidad: '×' },
+  { campo: 'parrafos', etiqueta: 'lecturaParrafos', min: 0, max: 40, paso: 2, unidad: 'px' },
+] as const;
+type CampoLectura = typeof CONTROLES_LECTURA[number]['campo'];
+const LECTURA_INICIAL = { letra: 18, interlineado: 1.7, parrafos: 16, ancho: 'completa' as AnchoLectura };
+type PreferenciasLectura = typeof LECTURA_INICIAL;
+
+function esAnchoLectura(valor: unknown): valor is AnchoLectura {
+  return typeof valor === 'string' && Object.hasOwn(ANCHOS_LECTURA, valor);
+}
+
+function leerPreferenciasLectura(): PreferenciasLectura {
+  const ajustes = { ...LECTURA_INICIAL };
+  try {
+    const guardados = JSON.parse(localStorage.getItem(CLAVE_LECTURA) ?? '{}') as Partial<PreferenciasLectura> | null;
+    if (esAnchoLectura(guardados?.ancho)) ajustes.ancho = guardados.ancho;
+    for (const { campo, min, max } of CONTROLES_LECTURA) {
+      const valor = guardados?.[campo];
+      if (typeof valor === 'number' && valor >= min && valor <= max) ajustes[campo] = valor;
+    }
+  } catch { /* Se puede leer con los valores iniciales. */ }
+  return ajustes;
+}
+
 @Component({
   selector: 'app-enciclopedia',
   imports: [NgTemplateOutlet, LectorEnciclopedia],
   changeDetection: ChangeDetectionStrategy.OnPush,
+  host: {
+    '(document:click)': 'cerrarAjustesFuera($event)',
+    '(keydown.escape)': 'cerrarAjustesConEscape($event)',
+  },
   template: `
     <section class="enciclopedia">
       <nav id="indice-enciclopedia" [class.indice-abierto]="indiceAbierto()">
@@ -126,11 +159,49 @@ interface EntradaIndice {
           @if (religion(); as r) {
             <button class="ico" [title]="i18n.t('verArbol')" (click)="verEnArbol(r.id)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['diana']"/></svg></button>
           }
+          @if (articulo()) {
+            <div #ajustesLectura class="enc-ajustes-lectura">
+              <button #botonLectura type="button" class="ico" [class.activo]="ajustesLecturaAbiertos()"
+                      [title]="i18n.t('lecturaAjustes')" [attr.aria-label]="i18n.t('lecturaAjustes')"
+                      [attr.aria-controls]="ajustesLecturaAbiertos() ? 'ajustes-texto-enciclopedia' : null"
+                      [attr.aria-expanded]="ajustesLecturaAbiertos()"
+                      (click)="ajustesLecturaAbiertos.set(!ajustesLecturaAbiertos())">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 18L8 5l5 13M5 13h6m4-2c1-2 5-2 5 1v6m0-4h-2c-4 0-4 4-1 4 1.5 0 2.5-.5 3-1.5"/></svg>
+              </button>
+              @if (ajustesLecturaAbiertos()) {
+                <div class="enc-panel-lectura" id="ajustes-texto-enciclopedia" role="group" [attr.aria-label]="i18n.t('lecturaAjustes')">
+                  @for (control of controlesLectura; track control.campo) {
+                    <label>
+                      <span>{{ i18n.t(control.etiqueta) }} <output>{{ valorLectura(control.campo) }} {{ control.unidad }}</output></span>
+                      <input type="range" [min]="control.min" [max]="control.max" [step]="control.paso"
+                             [value]="preferenciasLectura()[control.campo]"
+                             (input)="ajustarLectura(control.campo, $any($event.target).valueAsNumber)">
+                    </label>
+                  }
+                  <label>
+                    <span>{{ i18n.t('lecturaAncho') }}</span>
+                    <select [value]="preferenciasLectura().ancho" (change)="ajustarAnchoLectura($any($event.target).value)">
+                      <option value="completa">{{ i18n.t('lecturaCompleta') }}</option>
+                      <option value="estrecha">{{ i18n.t('lecturaEstrecha') }}</option>
+                      <option value="media">{{ i18n.t('lecturaMedia') }}</option>
+                      <option value="amplia">{{ i18n.t('lecturaAmplia') }}</option>
+                    </select>
+                  </label>
+                  <button type="button" class="enc-restablecer-lectura"
+                          (click)="guardarPreferenciasLectura(lecturaInicial)">{{ i18n.t('lecturaRestablecer') }}</button>
+                </div>
+              }
+            </div>
+          }
           <button class="ico" [title]="i18n.t('cerrar')" (click)="cerrar()"><svg viewBox="0 0 24 24"><path [attr.d]="ui['cerrar']"/></svg></button>
           </div>
         </header>
         @if (articulo(); as a) {
-          <div class="texto">
+          <div class="texto"
+               [style.--enc-ancho-lectura]="anchoLectura()"
+               [style.--enc-letra-lectura]="preferenciasLectura().letra + 'px'"
+               [style.--enc-interlineado]="preferenciasLectura().interlineado"
+               [style.--enc-espacio-parrafos]="preferenciasLectura().parrafos + 'px'">
             @if (religion(); as r) {
               <div class="cabecera">
                 <svg class="simbolo" viewBox="-20 -20 40 40" [style.color]="color(r.region)" [class.heredado]="r.heredado">
@@ -197,6 +268,13 @@ export class Enciclopedia {
   porTerritorio = signal(false);
   tituloPendiente = signal('');
   anterior = signal<string | null>(null);
+  readonly ajustesLecturaAbiertos = signal(false);
+  readonly preferenciasLectura = signal(leerPreferenciasLectura());
+  readonly anchoLectura = computed(() => ANCHOS_LECTURA[this.preferenciasLectura().ancho]);
+  readonly controlesLectura = CONTROLES_LECTURA;
+  readonly lecturaInicial = LECTURA_INICIAL;
+  private ajustesLectura = viewChild<ElementRef<HTMLElement>>('ajustesLectura');
+  private botonLectura = viewChild<ElementRef<HTMLButtonElement>>('botonLectura');
   prosa = viewChild<ElementRef<HTMLElement>>('prosa');
   private lector = viewChild(LectorEnciclopedia);
   private cuerpo = viewChild.required<ElementRef<HTMLElement>>('cuerpo');
@@ -305,6 +383,35 @@ export class Enciclopedia {
     });
   }
 
+  valorLectura(campo: CampoLectura): string {
+    return this.preferenciasLectura()[campo].toLocaleString(this.i18n.idioma);
+  }
+
+  guardarPreferenciasLectura(preferencias: PreferenciasLectura) {
+    this.preferenciasLectura.set(preferencias);
+    try { localStorage.setItem(CLAVE_LECTURA, JSON.stringify(preferencias)); } catch { /* Conserva la vista en esta sesión. */ }
+  }
+
+  ajustarLectura(campo: CampoLectura, valor: number) {
+    this.guardarPreferenciasLectura({ ...this.preferenciasLectura(), [campo]: valor });
+  }
+
+  ajustarAnchoLectura(valor: string) {
+    if (esAnchoLectura(valor)) this.guardarPreferenciasLectura({ ...this.preferenciasLectura(), ancho: valor });
+  }
+
+  cerrarAjustesFuera(evento: MouseEvent) {
+    if (!this.ajustesLecturaAbiertos() || !(evento.target instanceof Node)) return;
+    if (!this.ajustesLectura()?.nativeElement.contains(evento.target)) this.ajustesLecturaAbiertos.set(false);
+  }
+
+  cerrarAjustesConEscape(evento: Event) {
+    if (!this.ajustesLecturaAbiertos()) return;
+    evento.stopPropagation();
+    this.ajustesLecturaAbiertos.set(false);
+    this.botonLectura()?.nativeElement.focus();
+  }
+
   color(region: string) { return this.datos.region.get(region)!.color; }
   abrir(id: string, titulo = '') {
     if (id === this.articulo()?.id) {
@@ -312,6 +419,7 @@ export class Enciclopedia {
       return;
     }
     this.lector()?.detener();
+    this.ajustesLecturaAbiertos.set(false);
     this.seccionActiva.set('');
     this.seccionesAbiertas.set(new Set());
     this.anterior.set(this.articulo()?.id ?? this.anterior());

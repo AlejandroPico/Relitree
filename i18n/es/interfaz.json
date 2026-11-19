@@ -130,5 +130,15 @@
   "nuevosComienzos": "Comienzos registrados por intervalo. Las barras comparten escala y cada periodo tiene su propia duración.",
   "alcanceDemografia": "Estimaciones de las fichas. El tramo rayado representa un rango. Las cifras pueden solaparse y proceden de fuentes y fechas distintas.",
   "territorioOrigen": "Territorio de origen",
-  "territorioDestino": "Territorio de destino"
+  "territorioDestino": "Territorio de destino",
+  "lecturaAjustes": "Ajustes de lectura",
+  "lecturaLetra": "Tamaño de letra",
+  "lecturaInterlineado": "Interlineado",
+  "lecturaParrafos": "Espacio entre párrafos",
+  "lecturaAncho": "Ancho del texto",
+  "lecturaCompleta": "Ancho completo",
+  "lecturaEstrecha": "Columna estrecha",
+  "lecturaMedia": "Columna media",
+  "lecturaAmplia": "Columna amplia",
+  "lecturaRestablecer": "Restablecer ajustes"
 }

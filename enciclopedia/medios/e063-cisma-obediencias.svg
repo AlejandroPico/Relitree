@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 517" role="img" aria-labelledby="tit desc">
+  <title id="tit">Las tres líneas de sucesión</title>
+  <desc id="desc">Obediencias romana, aviñonesa y pisana. En 1417 Constanza eligió a Martín V.</desc>
+  <rect width="690" height="517" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui,sans-serif; fill:#202a2a }
+    .title { font-size:29px; font-weight:720 }
+    .note { font-size:17px; fill:#465553 }
+    .date { font-size:21px; fill:#175d54; font-weight:700 }
+    .item { font-size:20px; font-weight:550 }
+    .head { font-size:22px; font-weight:700 }
+  </style>
+  <text x="34" y="47" class="title">Las tres líneas de sucesión</text>
+  <path d="M35 86h620" stroke="#a7b8ae"/>
+  <text x="38" y="118" class="head">Roma</text>
+  <text x="38" y="144" class="note">Urbano VI (1378), Bonifacio IX (1389), Inocencio VII (1404)</text>
+  <text x="38" y="166" class="note">y Gregorio XII (1406), que renunció en 1415.</text>
+  <path d="M35 192h620" stroke="#a7b8ae"/>
+  <text x="38" y="224" class="head">Aviñón</text>
+  <text x="38" y="250" class="note">Clemente VII (1378) y Benedicto XIII (1394), depuesto</text>
+  <text x="38" y="272" class="note">en 1417. Este mantuvo su pretensión desde Peñíscola.</text>
+  <path d="M35 298h620" stroke="#a7b8ae"/>
+  <text x="38" y="330" class="head">Pisa</text>
+  <text x="38" y="356" class="note">Alejandro V (1409) y Juan XXIII (1410).</text>
+  <text x="38" y="378" class="note">La asamblea de Constanza depuso a Juan en 1415.</text>
+  <path d="M35 404h620" stroke="#a7b8ae"/>
+  <text x="38" y="436" class="head">Elección de Constanza</text>
+  <text x="38" y="462" class="note">Martín V (1417) obtuvo reconocimiento en las antiguas líneas.</text>
+  <text x="38" y="484" class="note">La obediencia residual de Peñíscola se prolongó hasta 1429.</text>
+</svg>

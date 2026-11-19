@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 411" role="img" aria-labelledby="tit desc">
+  <title id="tit">Un palacio con varias funciones</title>
+  <desc id="desc">Esquema funcional de los espacios del Palacio de los Papas.</desc>
+  <rect width="690" height="411" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui,sans-serif; fill:#202a2a }
+    .title { font-size:29px; font-weight:720 }
+    .note { font-size:17px; fill:#465553 }
+    .date { font-size:21px; fill:#175d54; font-weight:700 }
+    .item { font-size:20px; font-weight:550 }
+    .head { font-size:22px; font-weight:700 }
+  </style>
+  <text x="34" y="47" class="title">Un palacio con varias funciones</text>
+  <path d="M35 86h620" stroke="#a7b8ae"/>
+  <text x="38" y="118" class="head">Palacio Viejo · Benedicto XII</text>
+  <text x="38" y="144" class="note">La primera gran campaña acomodó a la corte y protegió</text>
+  <text x="38" y="166" class="note">espacios de residencia, trabajo y custodia.</text>
+  <path d="M35 192h620" stroke="#a7b8ae"/>
+  <text x="38" y="224" class="head">Palacio Nuevo · Clemente VI</text>
+  <text x="38" y="250" class="note">La ampliación incorporó grandes espacios para la ceremonia</text>
+  <text x="38" y="272" class="note">y el culto, entre ellos la Gran Capilla.</text>
+  <path d="M35 298h620" stroke="#a7b8ae"/>
+  <text x="38" y="330" class="head">Palacio, catedral y ciudad</text>
+  <text x="38" y="356" class="note">El conjunto se comprende junto a Notre-Dame des Doms</text>
+  <text x="38" y="378" class="note">y a los servicios urbanos que sostenían la corte.</text>
+</svg>

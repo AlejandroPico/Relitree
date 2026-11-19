@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 517" role="img" aria-labelledby="tit desc">
+  <title id="tit">Tres decisiones y una elección</title>
+  <desc id="desc">Actos realizados en Constanza para resolver las pretensiones rivales.</desc>
+  <rect width="690" height="517" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui,sans-serif; fill:#202a2a }
+    .title { font-size:29px; font-weight:720 }
+    .note { font-size:17px; fill:#465553 }
+    .date { font-size:21px; fill:#175d54; font-weight:700 }
+    .item { font-size:20px; font-weight:550 }
+    .head { font-size:22px; font-weight:700 }
+  </style>
+  <text x="34" y="47" class="title">Tres decisiones y una elección</text>
+  <path d="M35 86h620" stroke="#a7b8ae"/>
+  <text x="38" y="118" class="head">Mayo de 1415 · Juan XXIII</text>
+  <text x="38" y="144" class="note">El concilio depuso al titular de la línea pisana.</text>
+  <text x="38" y="166" class="note">Su salida de Constanza había puesto en duda la continuidad.</text>
+  <path d="M35 192h620" stroke="#a7b8ae"/>
+  <text x="38" y="224" class="head">Julio de 1415 · Gregorio XII</text>
+  <text x="38" y="250" class="note">Legados de la línea romana formalizaron su autorización</text>
+  <text x="38" y="272" class="note">y presentaron la renuncia de Gregorio.</text>
+  <path d="M35 298h620" stroke="#a7b8ae"/>
+  <text x="38" y="330" class="head">Julio de 1417 · Benedicto XIII</text>
+  <text x="38" y="356" class="note">El concilio lo declaró depuesto. Benedicto rechazó</text>
+  <text x="38" y="378" class="note">la sentencia y mantuvo su pretensión en Peñíscola.</text>
+  <path d="M35 404h620" stroke="#a7b8ae"/>
+  <text x="38" y="436" class="head">Noviembre de 1417 · Martín V</text>
+  <text x="38" y="462" class="note">Cardenales y representantes conciliares eligieron a</text>
+  <text x="38" y="484" class="note">Oddone Colonna, que tomó el nombre de Martín V.</text>
+</svg>

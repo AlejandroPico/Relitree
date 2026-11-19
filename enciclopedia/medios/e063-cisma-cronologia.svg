@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 544" role="img" aria-labelledby="tit desc">
+  <title id="tit">El Cisma de Occidente</title>
+  <desc id="desc">Fechas en orden cronológico, intervalos sin escala proporcional.</desc>
+  <rect width="690" height="544" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui,sans-serif; fill:#202a2a }
+    .title { font-size:29px; font-weight:720 }
+    .note { font-size:17px; fill:#465553 }
+    .date { font-size:21px; fill:#175d54; font-weight:700 }
+    .item { font-size:20px; font-weight:550 }
+    .head { font-size:22px; font-weight:700 }
+  </style>
+  <text x="34" y="47" class="title">El Cisma de Occidente</text>
+  <text x="34" y="77" class="note">Hitos cronológicos · intervalos sin escala proporcional</text>
+  <path d="M175 113V497" stroke="#678c83" stroke-width="3"/>
+  <text x="151" y="120" text-anchor="end" class="date">1378</text>
+  <circle cx="175" cy="113" r="6" fill="#267868"/>
+  <text x="198" y="120" class="item">Elecciones enfrentadas en Roma y Fondi</text>
+  <text x="151" y="168" text-anchor="end" class="date">1379</text>
+  <circle cx="175" cy="161" r="6" fill="#267868"/>
+  <text x="198" y="168" class="item">Clemente VII se instala en Aviñón</text>
+  <text x="151" y="216" text-anchor="end" class="date">1394</text>
+  <circle cx="175" cy="209" r="6" fill="#267868"/>
+  <text x="198" y="216" class="item">Benedicto XIII sucede a Clemente VII</text>
+  <text x="151" y="264" text-anchor="end" class="date">1398–1403</text>
+  <circle cx="175" cy="257" r="6" fill="#267868"/>
+  <text x="198" y="264" class="item">Primera sustracción francesa de obediencia</text>
+  <text x="151" y="312" text-anchor="end" class="date">1409</text>
+  <circle cx="175" cy="305" r="6" fill="#267868"/>
+  <text x="198" y="312" class="item">Pisa elige a Alejandro V</text>
+  <text x="151" y="360" text-anchor="end" class="date">1414</text>
+  <circle cx="175" cy="353" r="6" fill="#267868"/>
+  <text x="198" y="360" class="item">Apertura del Concilio de Constanza</text>
+  <text x="151" y="408" text-anchor="end" class="date">1415</text>
+  <circle cx="175" cy="401" r="6" fill="#267868"/>
+  <text x="198" y="408" class="item">Cese de Juan XXIII y renuncia de Gregorio XII</text>
+  <text x="151" y="456" text-anchor="end" class="date">1417</text>
+  <circle cx="175" cy="449" r="6" fill="#267868"/>
+  <text x="198" y="456" class="item">Deposición de Benedicto y elección de Martín V</text>
+  <text x="151" y="504" text-anchor="end" class="date">1423–1429</text>
+  <circle cx="175" cy="497" r="6" fill="#267868"/>
+  <text x="198" y="504" class="item">Obediencia residual de Clemente VIII</text>
+</svg>

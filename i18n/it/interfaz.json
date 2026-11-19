@@ -127,5 +127,15 @@
   "nuevosComienzos": "Inizi registrati per intervallo. Le barre condividono la scala e i periodi hanno durate diverse.",
   "alcanceDemografia": "Stime delle schede. Il tratteggio indica un intervallo. Le cifre possono sovrapporsi e provengono da fonti e date diverse.",
   "territorioOrigen": "Territorio di origine",
-  "territorioDestino": "Territorio di destinazione"
+  "territorioDestino": "Territorio di destinazione",
+  "lecturaAjustes": "Impostazioni di lettura",
+  "lecturaLetra": "Dimensione del testo",
+  "lecturaInterlineado": "Interlinea",
+  "lecturaParrafos": "Spazio tra i paragrafi",
+  "lecturaAncho": "Larghezza del testo",
+  "lecturaCompleta": "Larghezza intera",
+  "lecturaEstrecha": "Colonna stretta",
+  "lecturaMedia": "Colonna media",
+  "lecturaAmplia": "Colonna ampia",
+  "lecturaRestablecer": "Ripristina impostazioni"
 }

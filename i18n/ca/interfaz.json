@@ -127,5 +127,15 @@
   "nuevosComienzos": "Inicis registrats per interval. Les barres comparteixen escala i els períodes tenen durades diferents.",
   "alcanceDemografia": "Estimacions de les fitxes. El tram ratllat indica un interval. Les xifres es poden solapar i provenen de fonts i dates diferents.",
   "territorioOrigen": "Territori d’origen",
-  "territorioDestino": "Territori de destinació"
+  "territorioDestino": "Territori de destinació",
+  "lecturaAjustes": "Ajustos de lectura",
+  "lecturaLetra": "Mida de la lletra",
+  "lecturaInterlineado": "Interlineat",
+  "lecturaParrafos": "Espai entre paràgrafs",
+  "lecturaAncho": "Amplada del text",
+  "lecturaCompleta": "Amplada completa",
+  "lecturaEstrecha": "Columna estreta",
+  "lecturaMedia": "Columna mitjana",
+  "lecturaAmplia": "Columna ampla",
+  "lecturaRestablecer": "Restableix els ajustos"
 }

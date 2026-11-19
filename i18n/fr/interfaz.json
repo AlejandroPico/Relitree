@@ -127,5 +127,15 @@
   "nuevosComienzos": "Débuts recensés par intervalle. Les barres ont la même échelle et les périodes sont de durée variable.",
   "alcanceDemografia": "Estimations des fiches. La partie hachurée indique une fourchette. Les chiffres peuvent se recouper et proviennent de sources et dates différentes.",
   "territorioOrigen": "Territoire d’origine",
-  "territorioDestino": "Territoire de destination"
+  "territorioDestino": "Territoire de destination",
+  "lecturaAjustes": "Réglages de lecture",
+  "lecturaLetra": "Taille du texte",
+  "lecturaInterlineado": "Interligne",
+  "lecturaParrafos": "Espacement des paragraphes",
+  "lecturaAncho": "Largeur du texte",
+  "lecturaCompleta": "Pleine largeur",
+  "lecturaEstrecha": "Colonne étroite",
+  "lecturaMedia": "Colonne moyenne",
+  "lecturaAmplia": "Colonne large",
+  "lecturaRestablecer": "Réinitialiser les réglages"
 }

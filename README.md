@@ -1,8 +1,8 @@
 # Relitree
 
-**Versión 1.7.18**
+**Versión 1.7.19**
 
-La [entrega 6.2 de la enciclopedia](enciclopedia/PLAN.md#entrega-62) amplía la fase E06 con «El Cisma de Oriente (1054)» y «La querella de las investiduras».
+La [entrega 6.3 de la enciclopedia](enciclopedia/PLAN.md#entrega-63) incorpora «El papado de Aviñón» y «El Cisma de Occidente (1378–1417)». El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
 
 El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto.
 

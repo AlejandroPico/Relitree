@@ -127,5 +127,15 @@
   "nuevosComienzos": "Erfasste Anfänge pro Intervall. Die Balken haben dieselbe Skala, die Zeiträume sind unterschiedlich lang.",
   "alcanceDemografia": "Schätzungen aus den Einträgen. Schraffur zeigt eine Spanne. Zahlen können sich überschneiden und stammen aus verschiedenen Quellen und Jahren.",
   "territorioOrigen": "Ursprungsgebiet",
-  "territorioDestino": "Zielgebiet"
+  "territorioDestino": "Zielgebiet",
+  "lecturaAjustes": "Leseeinstellungen",
+  "lecturaLetra": "Schriftgröße",
+  "lecturaInterlineado": "Zeilenabstand",
+  "lecturaParrafos": "Absatzabstand",
+  "lecturaAncho": "Textbreite",
+  "lecturaCompleta": "Volle Breite",
+  "lecturaEstrecha": "Schmale Spalte",
+  "lecturaMedia": "Mittlere Spalte",
+  "lecturaAmplia": "Breite Spalte",
+  "lecturaRestablecer": "Einstellungen zurücksetzen"
 }

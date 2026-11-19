@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 411" role="img" aria-labelledby="tit desc">
+  <title id="tit">El recorrido de una súplica</title>
+  <desc id="desc">Secuencia orientativa, de la petición a la aplicación local.</desc>
+  <rect width="690" height="411" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui,sans-serif; fill:#202a2a }
+    .title { font-size:29px; font-weight:720 }
+    .note { font-size:17px; fill:#465553 }
+    .date { font-size:21px; fill:#175d54; font-weight:700 }
+    .item { font-size:20px; font-weight:550 }
+    .head { font-size:22px; font-weight:700 }
+  </style>
+  <text x="34" y="47" class="title">El recorrido de una súplica</text>
+  <path d="M35 86h620" stroke="#a7b8ae"/>
+  <text x="38" y="118" class="head">1 · Petición y representación</text>
+  <text x="38" y="144" class="note">Un interesado presenta una solicitud, a menudo por medio</text>
+  <text x="38" y="166" class="note">de un procurador que conoce los procedimientos.</text>
+  <path d="M35 192h620" stroke="#a7b8ae"/>
+  <text x="38" y="224" class="head">2 · Resolución y expedición</text>
+  <text x="38" y="250" class="note">La autoridad competente decide. Un oficio prepara la carta</text>
+  <text x="38" y="272" class="note">y se puede conservar una versión en un registro.</text>
+  <path d="M35 298h620" stroke="#a7b8ae"/>
+  <text x="38" y="330" class="head">3 · Aplicación local</text>
+  <text x="38" y="356" class="note">El destinatario presenta la decisión. Su aplicación puede</text>
+  <text x="38" y="378" class="note">requerir un ejecutor y dar lugar a una impugnación.</text>
+</svg>

@@ -127,5 +127,15 @@
   "nuevosComienzos": "Inícios registados por intervalo. As barras partilham uma escala e os períodos têm durações diferentes.",
   "alcanceDemografia": "Estimativas das fichas. O tracejado indica um intervalo. Os valores podem sobrepor-se e provêm de fontes e datas distintas.",
   "territorioOrigen": "Território de origem",
-  "territorioDestino": "Território de destino"
+  "territorioDestino": "Território de destino",
+  "lecturaAjustes": "Definições de leitura",
+  "lecturaLetra": "Tamanho da letra",
+  "lecturaInterlineado": "Espaçamento entre linhas",
+  "lecturaParrafos": "Espaçamento entre parágrafos",
+  "lecturaAncho": "Largura do texto",
+  "lecturaCompleta": "Largura total",
+  "lecturaEstrecha": "Coluna estreita",
+  "lecturaMedia": "Coluna média",
+  "lecturaAmplia": "Coluna larga",
+  "lecturaRestablecer": "Repor definições"
 }
