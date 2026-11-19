@@ -1,9 +1,8 @@
 ---
 estado: completo
 fase: E06
-entrega: "6.1"
 orden: 2
-palabras: 5167
+palabras: 5160
 fuentes:
   - "https://history.princeton.edu/about/publications/byzantium-iconoclast-era-c-680-850-history"
   - "https://academic.oup.com/book/26922/chapter/196030746"
@@ -31,8 +30,6 @@ fuentes:
 ---
 
 # Iconoclasia y culto a las imágenes
-
-*Entrega 6.1 · Cismas, herejías e Inquisición*
 
 Entre los siglos VIII y IX, el Imperio bizantino cambió varias veces su política sobre las imágenes sagradas. En 754, una asamblea en Hieria censuró la fabricación y veneración de determinadas imágenes. En 787, el [[cristianismo/concilios/nicea-ii|Segundo Concilio de Nicea]] defendió su presencia en el culto. La prohibición reapareció a comienzos del siglo IX y en 843 se restauró su veneración en Constantinopla. Estas fechas sitúan decisiones institucionales. Lo que se pintaba, se guardaba en una casa o se hacía ante una tabla en una iglesia dependía también de la región, del momento y de las personas que podían hacer cumplir una orden. [1–4]
 

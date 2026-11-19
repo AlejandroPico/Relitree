@@ -1,8 +1,8 @@
 # Relitree
 
-**Versión 1.7.19**
+**Versión 1.7.20**
 
-La [entrega 6.3 de la enciclopedia](enciclopedia/PLAN.md#entrega-63) incorpora «El papado de Aviñón» y «El Cisma de Occidente (1378–1417)». El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
+La [enciclopedia](enciclopedia/PLAN.md#fase-e06--cristianismo--cismas-herejías-e-inquisición) incorpora «Herejías medievales» y «La Inquisición medieval». El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
 
 El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto.
 

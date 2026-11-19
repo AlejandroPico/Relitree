@@ -1,9 +1,8 @@
 ---
 estado: completo
 fase: E06
-entrega: "6.3"
 orden: 5
-palabras: 5069
+palabras: 5062
 fuentes:
   - "https://www.cambridge.org/core/books/abs/cambridge-history-of-the-papacy/avignon-papacy-and-the-great-western-schism/C087DE0771736B8BB3BB6F81B2F45463"
   - "https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/avignon-papacy/3CEFF544C9C0E054B9FEE4ECE3FECAD5"
@@ -29,8 +28,6 @@ fuentes:
 ---
 
 # El papado de Aviñón
-
-*Entrega 6.3 · Cismas, herejías e Inquisición*
 
 En 1309, Clemente V instaló su corte en Aviñón. En enero de 1377, Gregorio XI entró en Roma después de haber salido de Aviñón el año anterior. Entre ambos acontecimientos, siete pontífices reconocidos en la sucesión romana gobernaron la Iglesia latina desde la región del Ródano, con períodos de residencia en otros lugares. Esta etapa suele llamarse papado de Aviñón. La presencia de una segunda obediencia en la ciudad a partir de 1379 pertenece al [[cristianismo/cismas-herejias/cisma-de-occidente|Cisma de Occidente]]. La palabra «Aviñón» aparece en ambas historias porque el mismo lugar sirvió a una corte pontificia primero común y, después, a una corte cuya legitimidad era disputada. [1–4]
 

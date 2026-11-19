@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 562" role="img" aria-labelledby="title description">
+  <title id="title">Herejías medievales</title>
+  <desc id="description">1022. Proceso de Orleans. Déc. de 1170. Valdés y los pobres de Lyon. 1179. III Concilio de Letrán. 1209–1229. Cruzada albigense. 1215. IV Concilio de Letrán. 1244. Caída de Montségur. 1307. Ejecución de Dolcino. 1310. Muerte de Margarita Porete en París. 1395. Doce conclusiones de los lolardos. 1415. Muerte de Jan Hus en Constanza</desc>
+  <rect width="690" height="562" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 28px; font-weight: 720 }
+    .note { font-size: 17px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 19px; font-weight: 560 }
+    .head { font-size: 22px; font-weight: 690 }
+  </style>
+  <text x="34" y="48" class="title">Herejías medievales</text>
+  <text x="34" y="76" class="note">Hitos cronológicos · intervalos sin escala proporcional</text>
+  <path d="M161 112V517" stroke="#678c83" stroke-width="3"/>
+  <text x="141" y="119" text-anchor="end" class="date">1022</text>
+  <circle cx="161" cy="112" r="6" fill="#267868"/>
+  <text x="183" y="119" class="item">Proceso de Orleans</text>
+  <text x="141" y="164" text-anchor="end" class="date">Déc. de 1170</text>
+  <circle cx="161" cy="157" r="6" fill="#267868"/>
+  <text x="183" y="164" class="item">Valdés y los pobres de Lyon</text>
+  <text x="141" y="209" text-anchor="end" class="date">1179</text>
+  <circle cx="161" cy="202" r="6" fill="#267868"/>
+  <text x="183" y="209" class="item">III Concilio de Letrán</text>
+  <text x="141" y="254" text-anchor="end" class="date">1209–1229</text>
+  <circle cx="161" cy="247" r="6" fill="#267868"/>
+  <text x="183" y="254" class="item">Cruzada albigense</text>
+  <text x="141" y="299" text-anchor="end" class="date">1215</text>
+  <circle cx="161" cy="292" r="6" fill="#267868"/>
+  <text x="183" y="299" class="item">IV Concilio de Letrán</text>
+  <text x="141" y="344" text-anchor="end" class="date">1244</text>
+  <circle cx="161" cy="337" r="6" fill="#267868"/>
+  <text x="183" y="344" class="item">Caída de Montségur</text>
+  <text x="141" y="389" text-anchor="end" class="date">1307</text>
+  <circle cx="161" cy="382" r="6" fill="#267868"/>
+  <text x="183" y="389" class="item">Ejecución de Dolcino</text>
+  <text x="141" y="434" text-anchor="end" class="date">1310</text>
+  <circle cx="161" cy="427" r="6" fill="#267868"/>
+  <text x="183" y="434" class="item">Muerte de Margarita Porete en París</text>
+  <text x="141" y="479" text-anchor="end" class="date">1395</text>
+  <circle cx="161" cy="472" r="6" fill="#267868"/>
+  <text x="183" y="479" class="item">Doce conclusiones de los lolardos</text>
+  <text x="141" y="524" text-anchor="end" class="date">1415</text>
+  <circle cx="161" cy="517" r="6" fill="#267868"/>
+  <text x="183" y="524" class="item">Muerte de Jan Hus en Constanza</text>
+</svg>

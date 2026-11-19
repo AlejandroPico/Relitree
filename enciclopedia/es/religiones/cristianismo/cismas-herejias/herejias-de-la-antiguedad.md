@@ -1,9 +1,8 @@
 ---
 estado: completo
 fase: E06
-entrega: "6.1"
 orden: 1
-palabras: 5166
+palabras: 5159
 fuentes:
   - "https://www.saet.ac.uk/Christianity/HeresyEarlyDevelopmentoftheConcept"
   - "https://www.newadvent.org/fathers/0103100.htm"
@@ -35,8 +34,6 @@ fuentes:
 ---
 
 # Herejías de la Antigüedad
-
-*Entrega 6.1 · Cismas, herejías e Inquisición*
 
 La palabra «herejía» cuenta dos historias a la vez. Una es la de comunidades cristianas que discreparon sobre el origen del mundo, el modo de reconocer a un profeta, la humanidad de Jesús, la eficacia del bautismo o la libertad de una persona para obrar bien. La otra es la de las iglesias que llegaron a fijar qué enseñanzas podían profesar sus miembros y quién tenía autoridad para juzgarlas. La misma palabra puede designar en un texto antiguo una facción y, en otro, una doctrina condenada que los magistrados tienen orden de reprimir. Conviene preguntar en cada caso quién emplea el término, en qué fecha y con qué consecuencias. [1–3]
 

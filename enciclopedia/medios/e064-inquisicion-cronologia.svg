@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 517" role="img" aria-labelledby="title description">
+  <title id="title">La Inquisición medieval</title>
+  <desc id="description">1184. Ad abolendam · Verona. 1215. IV Concilio de Letrán. 1229. Concilio de Toulouse. Desde 1231. Delegaciones de Gregorio IX. 1245–1246. Pesquisa en Toulouse y el Lauragais. 1252. Ad extirpanda · Inocencio IV. 1308–1323. Sentencias de Bernard Gui. 1311–1312. Concilio de Vienne. 1318–1325. Investigaciones de Jacques Fournier</desc>
+  <rect width="690" height="517" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 28px; font-weight: 720 }
+    .note { font-size: 17px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 19px; font-weight: 560 }
+    .head { font-size: 22px; font-weight: 690 }
+  </style>
+  <text x="34" y="48" class="title">La Inquisición medieval</text>
+  <text x="34" y="76" class="note">Hitos cronológicos · intervalos sin escala proporcional</text>
+  <path d="M161 112V472" stroke="#678c83" stroke-width="3"/>
+  <text x="141" y="119" text-anchor="end" class="date">1184</text>
+  <circle cx="161" cy="112" r="6" fill="#267868"/>
+  <text x="183" y="119" class="item">Ad abolendam · Verona</text>
+  <text x="141" y="164" text-anchor="end" class="date">1215</text>
+  <circle cx="161" cy="157" r="6" fill="#267868"/>
+  <text x="183" y="164" class="item">IV Concilio de Letrán</text>
+  <text x="141" y="209" text-anchor="end" class="date">1229</text>
+  <circle cx="161" cy="202" r="6" fill="#267868"/>
+  <text x="183" y="209" class="item">Concilio de Toulouse</text>
+  <text x="141" y="254" text-anchor="end" class="date">Desde 1231</text>
+  <circle cx="161" cy="247" r="6" fill="#267868"/>
+  <text x="183" y="254" class="item">Delegaciones de Gregorio IX</text>
+  <text x="141" y="299" text-anchor="end" class="date">1245–1246</text>
+  <circle cx="161" cy="292" r="6" fill="#267868"/>
+  <text x="183" y="299" class="item">Pesquisa en Toulouse y el Lauragais</text>
+  <text x="141" y="344" text-anchor="end" class="date">1252</text>
+  <circle cx="161" cy="337" r="6" fill="#267868"/>
+  <text x="183" y="344" class="item">Ad extirpanda · Inocencio IV</text>
+  <text x="141" y="389" text-anchor="end" class="date">1308–1323</text>
+  <circle cx="161" cy="382" r="6" fill="#267868"/>
+  <text x="183" y="389" class="item">Sentencias de Bernard Gui</text>
+  <text x="141" y="434" text-anchor="end" class="date">1311–1312</text>
+  <circle cx="161" cy="427" r="6" fill="#267868"/>
+  <text x="183" y="434" class="item">Concilio de Vienne</text>
+  <text x="141" y="479" text-anchor="end" class="date">1318–1325</text>
+  <circle cx="161" cy="472" r="6" fill="#267868"/>
+  <text x="183" y="479" class="item">Investigaciones de Jacques Fournier</text>
+</svg>

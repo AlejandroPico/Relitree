@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 421" role="img" aria-labelledby="title description">
+  <title id="title">Tres controversias religiosas</title>
+  <desc id="description">Predicación valdense. La lectura evangélica se difunde entre laicos.. ¿Quién puede autorizar a una persona a predicar?. Pobreza franciscana. Se discute cómo aplicar la regla de la orden.. ¿Qué formas de propiedad y de uso admite la vida apostólica?. Margarita Porete. Un tribunal examina pasajes de un texto místico.. ¿Qué sentido adquieren los pasajes dentro de la obra?</desc>
+  <rect width="690" height="421" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 28px; font-weight: 720 }
+    .note { font-size: 17px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 19px; font-weight: 560 }
+    .head { font-size: 22px; font-weight: 690 }
+  </style>
+  <text x="34" y="48" class="title">Tres controversias religiosas</text>
+  <rect x="34" y="76" width="622" height="97" fill="#e7eee9"/>
+  <text x="51" y="105" class="head">Predicación valdense</text>
+  <text x="51" y="130" class="item">La lectura evangélica se difunde entre laicos.</text>
+  <text x="51" y="153" class="note">¿Quién puede autorizar a una persona a predicar?</text>
+  <rect x="34" y="189" width="622" height="97" fill="#f1eee5"/>
+  <text x="51" y="218" class="head">Pobreza franciscana</text>
+  <text x="51" y="243" class="item">Se discute cómo aplicar la regla de la orden.</text>
+  <text x="51" y="266" class="note">¿Qué formas de propiedad y de uso admite la vida apostólica?</text>
+  <rect x="34" y="302" width="622" height="97" fill="#e7eee9"/>
+  <text x="51" y="331" class="head">Margarita Porete</text>
+  <text x="51" y="356" class="item">Un tribunal examina pasajes de un texto místico.</text>
+  <text x="51" y="379" class="note">¿Qué sentido adquieren los pasajes dentro de la obra?</text>
+</svg>

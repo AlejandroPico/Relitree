@@ -1,9 +1,8 @@
 ---
 estado: completo
 fase: E06
-entrega: "6.2"
 orden: 4
-palabras: 5079
+palabras: 5072
 fuentes:
   - "https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/papacy-10241122/049C049475E88209A1ED567A78F23D82"
   - "https://academic.oup.com/book/3028"
@@ -32,8 +31,6 @@ fuentes:
 ---
 
 # La querella de las investiduras
-
-*Entrega 6.2 · Cismas, herejías e Inquisición*
 
 La querella de las investiduras enfrentó al papado reformador y a varios gobernantes de la Europa latina por la forma de acceder a obispados y abadías. Su episodio más conocido es la reconciliación de Enrique IV y Gregorio VII en Canossa, en 1077. El conflicto se prolongó varias décadas e implicó a príncipes, asambleas de obispos, candidatos rivales y comunidades que dependían de sus decisiones. El Concordato de Worms, en 1122, dispuso un modo de distinguir la elección y consagración de los prelados de su entrada en posesión de derechos que procedían del soberano. La solución permite entender por qué había sido tan difícil acordar qué significaba investir a un obispo. [1–4, 10, 14]
 

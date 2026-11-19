@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 421" role="img" aria-labelledby="title description">
+  <title id="title">Tres conjuntos documentales</title>
+  <desc id="description">Toulouse · Manuscrito 609. Declaraciones de la pesquisa de 1245–1246.. La copia conservada reúne parte del registro primitivo.. Toulouse · Bernard Gui. Sentencias conservadas en Add MS 4697.. Documentan resoluciones dictadas entre 1308 y 1323.. Pamiers · Jacques Fournier. Interrogatorios de 1318–1325.. Conservan declaraciones detalladas y comparecencias sucesivas.</desc>
+  <rect width="690" height="421" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 28px; font-weight: 720 }
+    .note { font-size: 17px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 19px; font-weight: 560 }
+    .head { font-size: 22px; font-weight: 690 }
+  </style>
+  <text x="34" y="48" class="title">Tres conjuntos documentales</text>
+  <rect x="34" y="76" width="622" height="97" fill="#e7eee9"/>
+  <text x="51" y="105" class="head">Toulouse · Manuscrito 609</text>
+  <text x="51" y="130" class="item">Declaraciones de la pesquisa de 1245–1246.</text>
+  <text x="51" y="153" class="note">La copia conservada reúne parte del registro primitivo.</text>
+  <rect x="34" y="189" width="622" height="97" fill="#f1eee5"/>
+  <text x="51" y="218" class="head">Toulouse · Bernard Gui</text>
+  <text x="51" y="243" class="item">Sentencias conservadas en Add MS 4697.</text>
+  <text x="51" y="266" class="note">Documentan resoluciones dictadas entre 1308 y 1323.</text>
+  <rect x="34" y="302" width="622" height="97" fill="#e7eee9"/>
+  <text x="51" y="331" class="head">Pamiers · Jacques Fournier</text>
+  <text x="51" y="356" class="item">Interrogatorios de 1318–1325.</text>
+  <text x="51" y="379" class="note">Conservan declaraciones detalladas y comparecencias sucesivas.</text>
+</svg>

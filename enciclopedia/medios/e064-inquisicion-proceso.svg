@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 534" role="img" aria-labelledby="title description">
+  <title id="title">Actuaciones de una pesquisa</title>
+  <desc id="description">1. Inicio. Circulan denuncias o informaciones sobre determinados hechos.. La autoridad puede disponer citaciones y nuevas pesquisas.. 2. Declaraciones. Se oyen testigos y se interroga a la persona investigada.. El notario registra los datos que se consideran pertinentes.. 3. Valoración. Se examinan los testimonios y los antecedentes.. La investigación puede concluir o incorporar otras diligencias.. 4. Resolución. Se dictan las medidas que proceden en cada caso.. La ejecución puede implicar a otras autoridades.</desc>
+  <rect width="690" height="534" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 28px; font-weight: 720 }
+    .note { font-size: 17px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 19px; font-weight: 560 }
+    .head { font-size: 22px; font-weight: 690 }
+  </style>
+  <text x="34" y="48" class="title">Actuaciones de una pesquisa</text>
+  <rect x="34" y="76" width="622" height="97" fill="#e7eee9"/>
+  <text x="51" y="105" class="head">1. Inicio</text>
+  <text x="51" y="130" class="item">Circulan denuncias o informaciones sobre determinados hechos.</text>
+  <text x="51" y="153" class="note">La autoridad puede disponer citaciones y nuevas pesquisas.</text>
+  <rect x="34" y="189" width="622" height="97" fill="#f1eee5"/>
+  <text x="51" y="218" class="head">2. Declaraciones</text>
+  <text x="51" y="243" class="item">Se oyen testigos y se interroga a la persona investigada.</text>
+  <text x="51" y="266" class="note">El notario registra los datos que se consideran pertinentes.</text>
+  <rect x="34" y="302" width="622" height="97" fill="#e7eee9"/>
+  <text x="51" y="331" class="head">3. Valoración</text>
+  <text x="51" y="356" class="item">Se examinan los testimonios y los antecedentes.</text>
+  <text x="51" y="379" class="note">La investigación puede concluir o incorporar otras diligencias.</text>
+  <rect x="34" y="415" width="622" height="97" fill="#f1eee5"/>
+  <text x="51" y="444" class="head">4. Resolución</text>
+  <text x="51" y="469" class="item">Se dictan las medidas que proceden en cada caso.</text>
+  <text x="51" y="492" class="note">La ejecución puede implicar a otras autoridades.</text>
+</svg>

@@ -1,7 +1,7 @@
 ---
 estado: completo
 fase: E02
-palabras: 5202
+palabras: 5235
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/christian-population-change/"
   - "https://assets.cambridge.org/97805218/12399/frontmatter/9780521812399_frontmatter.pdf"
@@ -93,7 +93,7 @@ Roma y Constantinopla habían acumulado diferencias de lengua, jurisdicción, f�
 
 En el Occidente latino, las universidades y el uso de comentarios sistemáticos contribuyeron al desarrollo de la escolástica. Las comunidades [[franciscanos|franciscanas]] y [[dominicos|dominicas]] reorganizaron la predicación, la enseñanza y la vida religiosa urbana. Los conventos y casas asociadas ofrecieron ámbitos de vida comunitaria y educación, con oportunidades y restricciones distintas para mujeres y hombres. Las cofradías y asociaciones laicas sostenían celebraciones, asistencia mutua, entierros y memoria de los difuntos. Las prácticas devocionales se observan en calendarios, inventarios, testamentos e imágenes, además de los tratados teológicos.
 
-Las [[cristianismo/cruzadas|cruzadas]] reunieron causas y participantes distintos. En las expediciones hacia el Mediterráneo oriental se combinaron la predicación penitencial, el interés por Jerusalén, las relaciones con Bizancio y objetivos políticos. Algunas campañas también desencadenaron violencia contra comunidades judías europeas. En Occidente, la cruzada contra los [[catarismo|cátaros]] y los tribunales inquisitoriales implicaron a responsables eclesiásticos y seculares de maneras que variaban según el lugar. Las instituciones llamadas inquisiciones surgieron en etapas diferentes, formularon procedimientos propios y produjeron archivos que deben leerse atendiendo a las condiciones de interrogatorio. La presencia de judíos y musulmanes en territorios de gobierno cristiano estuvo marcada por una combinación cambiante de convivencia regulada, segregación, conversiones y expulsiones.
+Las [[cristianismo/cruzadas|cruzadas]] reunieron causas y participantes distintos. En las expediciones hacia el Mediterráneo oriental se combinaron la predicación penitencial, el interés por Jerusalén, las relaciones con Bizancio y objetivos políticos. Algunas campañas también desencadenaron violencia contra comunidades judías europeas. En Occidente, la cruzada contra los [[catarismo|cátaros]] y los tribunales inquisitoriales implicaron a responsables eclesiásticos y seculares de maneras que variaban según el lugar. [[cristianismo/cismas-herejias/herejias-medievales|Herejías medievales]] examina las creencias y prácticas discutidas, y [[cristianismo/cismas-herejias/inquisicion-medieval|La Inquisición medieval]] explica cómo se investigaban las acusaciones y qué documentos se conservan. Las instituciones llamadas inquisiciones surgieron en etapas diferentes, formularon procedimientos propios y produjeron archivos que deben leerse atendiendo a las condiciones de interrogatorio. La presencia de judíos y musulmanes en territorios de gobierno cristiano estuvo marcada por una combinación cambiante de convivencia regulada, segregación, conversiones y expulsiones.
 
 ### Lenguas y centros de transmisión
 

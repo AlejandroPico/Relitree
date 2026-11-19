@@ -1,9 +1,8 @@
 ---
 estado: completo
 fase: E06
-entrega: "6.3"
 orden: 6
-palabras: 5201
+palabras: 5194
 fuentes:
   - "https://www.cambridge.org/core/books/abs/cambridge-history-of-the-papacy/avignon-papacy-and-the-great-western-schism/C087DE0771736B8BB3BB6F81B2F45463"
   - "https://obnb.uk/p15353164-a-companion-to-the-great-western-schism-1378-1417"
@@ -27,8 +26,6 @@ fuentes:
 ---
 
 # El Cisma de Occidente (1378–1417)
-
-*Entrega 6.3 · Cismas, herejías e Inquisición*
 
 En 1378, dos elecciones produjeron dos titulares que se consideraban legítimos sucesores de Gregorio XI. Urbano VI permaneció en la obediencia de Roma. Clemente VII estableció su corte en Aviñón. Sus partidarios levantaron gobiernos que designaban clérigos, resolvían peticiones y mantenían correspondencia con soberanos y comunidades. En 1409, una asamblea reunida en Pisa eligió a un tercero con la intención de poner fin a la división. En 1417, el [[cristianismo/concilios/constanza|Concilio de Constanza]] eligió a Martín V, que obtuvo un reconocimiento amplio. Las fechas de 1378 y 1417 delimitan el problema principal, aunque una obediencia residual continuó en Peñíscola. [1–7]
 

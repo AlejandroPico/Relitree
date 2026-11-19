@@ -98,34 +98,22 @@ Estado editorial: completa, 11 de 11 artículos publicados.
 
 ## Fase E06 · Cristianismo · Cismas, herejías e Inquisición
 
-Estado editorial: en curso, 6 de 12 artículos publicados. La fase se reparte en seis entregas.
-
-### Entrega 6.1
+Estado editorial: en curso, 8 de 12 artículos publicados.
 
 - [x] [Herejías de la Antigüedad](es/religiones/cristianismo/cismas-herejias/herejias-de-la-antiguedad.md)
 - [x] [Iconoclasia y culto a las imágenes](es/religiones/cristianismo/cismas-herejias/iconoclasia-y-culto-a-las-imagenes.md)
 
-### Entrega 6.2
-
 - [x] [El Cisma de Oriente (1054)](es/religiones/cristianismo/cismas-herejias/cisma-de-oriente.md)
 - [x] [La querella de las investiduras](es/religiones/cristianismo/cismas-herejias/querella-de-las-investiduras.md)
-
-### Entrega 6.3
 
 - [x] [El papado de Aviñón](es/religiones/cristianismo/cismas-herejias/papado-de-avinon.md)
 - [x] [El Cisma de Occidente (1378–1417)](es/religiones/cristianismo/cismas-herejias/cisma-de-occidente.md)
 
-### Entrega 6.4
-
-- [ ] Herejías medievales
-- [ ] La Inquisición medieval
-
-### Entrega 6.5
+- [x] [Herejías medievales](es/religiones/cristianismo/cismas-herejias/herejias-medievales.md)
+- [x] [La Inquisición medieval](es/religiones/cristianismo/cismas-herejias/inquisicion-medieval.md)
 
 - [ ] La Inquisición española
 - [ ] La Inquisición romana
-
-### Entrega 6.6
 
 - [ ] La caza de brujas
 - [ ] El antijudaísmo cristiano

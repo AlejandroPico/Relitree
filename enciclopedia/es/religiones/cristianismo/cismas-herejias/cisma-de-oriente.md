@@ -1,9 +1,8 @@
 ---
 estado: completo
 fase: E06
-entrega: "6.2"
 orden: 3
-palabras: 5164
+palabras: 5157
 fuentes:
   - "https://www.cambridge.org/core/books/abs/cambridge-history-of-the-papacy/schism-of-1054/70C9594AB09FBB67487F1BF00BF7CCEE"
   - "https://academic.oup.com/book/5994"
@@ -31,8 +30,6 @@ fuentes:
 ---
 
 # El Cisma de Oriente (1054)
-
-*Entrega 6.2 · Cismas, herejías e Inquisición*
 
 En julio de 1054, unos legados romanos depositaron en el altar de Santa Sofía de Constantinopla un escrito de condena dirigido contra el patriarca Miguel Cerulario y varios colaboradores. Un sínodo presidido por el patriarca respondió con una condena contra los responsables del escrito. Ambos actos se recuerdan como el Cisma de Oriente. Lo que ocurrió aquel verano puede reconstruirse con bastante precisión. Es más difícil señalar en qué momento cada iglesia local dio la separación por establecida y dejó de reconocer los sacramentos o la autoridad de la otra. Entre la embajada de 1054 y la experiencia de una división duradera se interpusieron contactos, guerras y tentativas de unión. [1–5]
 
