@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" viewBox="0 0 760 440" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Concilio Vaticano I</title>
+  <desc id="descripcion">Hitos del concilio y de la toma de Roma. Incluye la apertura y la promulgación de las dos constituciones.</desc>
+  <rect width="760" height="440" fill="#f5f2eb"/>
+  <g font-family="system-ui, sans-serif">
+    <text x="31" y="45" font-size="26" font-weight="700" fill="#183236">Concilio Vaticano I</text>
+    <text x="31" y="74" font-size="16" fill="#465860">De la convocatoria a la suspensión indefinida</text>
+    <path d="M175 117V405" stroke="#5b7679" stroke-width="2"/>
+    <circle cx="175" cy="117" r="6" fill="#205c62"/>
+    <text x="153" y="122" font-size="16" text-anchor="end" font-weight="650" fill="#203a3e">29 jun 1868</text>
+    <text x="196" y="122" font-size="17" fill="#183236">Pío IX convoca el concilio por Aeterni Patris</text>
+    <circle cx="175" cy="165" r="6" fill="#205c62"/>
+    <text x="153" y="170" font-size="16" text-anchor="end" font-weight="650" fill="#203a3e">8 dic 1869</text>
+    <text x="196" y="170" font-size="17" fill="#183236">Primera sesión pública en la basílica vaticana</text>
+    <circle cx="175" cy="213" r="6" fill="#8e472b"/>
+    <text x="153" y="218" font-size="16" text-anchor="end" font-weight="650" fill="#203a3e">24 abr 1870</text>
+    <text x="196" y="218" font-size="17" fill="#183236">Promulgación de la constitución Dei Filius</text>
+    <circle cx="175" cy="261" r="6" fill="#8e472b"/>
+    <text x="153" y="266" font-size="16" text-anchor="end" font-weight="650" fill="#203a3e">13 jul 1870</text>
+    <text x="196" y="266" font-size="17" fill="#183236">Votación del proyecto sobre el primado</text>
+    <circle cx="175" cy="309" r="6" fill="#8e472b"/>
+    <text x="153" y="314" font-size="16" text-anchor="end" font-weight="650" fill="#203a3e">18 jul 1870</text>
+    <text x="196" y="314" font-size="17" fill="#183236">Promulgación de Pastor Aeternus</text>
+    <circle cx="175" cy="357" r="6" fill="#4c4c7d"/>
+    <text x="153" y="362" font-size="16" text-anchor="end" font-weight="650" fill="#203a3e">20 sep 1870</text>
+    <text x="196" y="362" font-size="17" fill="#183236">Las tropas del Reino de Italia entran en Roma</text>
+    <circle cx="175" cy="405" r="6" fill="#4c4c7d"/>
+    <text x="153" y="410" font-size="16" text-anchor="end" font-weight="650" fill="#203a3e">20 oct 1870</text>
+    <text x="196" y="410" font-size="17" fill="#183236">Pío IX suspende el concilio sin fecha de reanudación</text>
+  </g>
+</svg>
