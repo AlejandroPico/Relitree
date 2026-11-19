@@ -82,7 +82,7 @@ Estado editorial: **completa**, 11 de 11 artículos publicados.
 
 ## Fase E05 · Cristianismo · Concilios ecuménicos (II)
 
-Estado editorial: en curso, 10 de 11 artículos publicados.
+Estado editorial: completa, 11 de 11 artículos publicados.
 
 - [x] [Concilio de Letrán IV (1215)](es/religiones/cristianismo/concilios/letran-iv.md)
 - [x] [Concilio de Lyon I (1245)](es/religiones/cristianismo/concilios/lyon-i.md)
@@ -94,7 +94,7 @@ Estado editorial: en curso, 10 de 11 artículos publicados.
 - [x] [Concilio de Trento (1545–1563)](es/religiones/cristianismo/concilios/trento.md)
 - [x] [Concilio Vaticano I (1869–1870)](es/religiones/cristianismo/concilios/vaticano-i.md)
 - [x] [Concilio Vaticano II (1962–1965)](es/religiones/cristianismo/concilios/vaticano-ii.md)
-- [ ] Los concilios: visión de conjunto
+- [x] [Los concilios: visión de conjunto](es/religiones/cristianismo/concilios-ecumenicos.md)
 
 ## Fase E06 · Cristianismo · Cismas, herejías e Inquisición
 

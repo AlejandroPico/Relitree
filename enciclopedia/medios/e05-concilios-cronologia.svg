@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="369" viewBox="0 0 960 369" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Veintiún concilios, 325–1965</title>
+  <desc id="descripcion">Gráfico de tres hileras con una escala lineal de tiempo común. Cada marca representa el comienzo de uno de los 21 concilios del catálogo católico.</desc>
+  <rect width="960" height="369" fill="#f7f4ee"/>
+  <g font-family="system-ui, sans-serif" fill="#20363b">
+    <text x="26" y="46" font-size="29" font-weight="700" text-anchor="start" fill="#21393f">Veintiún concilios, 325–1965</text>
+    <text x="26" y="77" font-size="17" font-weight="400" text-anchor="start" fill="#405961">Catálogo católico. Cada marca indica el año de inicio.</text>
+    <path d="M250.0 101V306" stroke="#c0cccd" stroke-width="1"/>
+    <text x="250.0" y="333" font-size="15" font-weight="400" text-anchor="middle" fill="#405961">325</text>
+    <path d="M320.0 101V306" stroke="#c0cccd" stroke-width="1"/>
+    <text x="320.0" y="333" font-size="15" font-weight="400" text-anchor="middle" fill="#405961">500</text>
+    <path d="M420.0 101V306" stroke="#c0cccd" stroke-width="1"/>
+    <text x="420.0" y="333" font-size="15" font-weight="400" text-anchor="middle" fill="#405961">750</text>
+    <path d="M520.0 101V306" stroke="#c0cccd" stroke-width="1"/>
+    <text x="520.0" y="333" font-size="15" font-weight="400" text-anchor="middle" fill="#405961">1000</text>
+    <path d="M620.0 101V306" stroke="#c0cccd" stroke-width="1"/>
+    <text x="620.0" y="333" font-size="15" font-weight="400" text-anchor="middle" fill="#405961">1250</text>
+    <path d="M720.0 101V306" stroke="#c0cccd" stroke-width="1"/>
+    <text x="720.0" y="333" font-size="15" font-weight="400" text-anchor="middle" fill="#405961">1500</text>
+    <path d="M820.0 101V306" stroke="#c0cccd" stroke-width="1"/>
+    <text x="820.0" y="333" font-size="15" font-weight="400" text-anchor="middle" fill="#405961">1750</text>
+    <path d="M906.0 101V306" stroke="#c0cccd" stroke-width="1"/>
+    <text x="906.0" y="333" font-size="15" font-weight="400" text-anchor="middle" fill="#405961">1965</text>
+    <text x="26" y="133" font-size="16" font-weight="700" text-anchor="start" fill="#216771">Siglos IV–IX</text>
+    <text x="26" y="155" font-size="12" font-weight="400" text-anchor="start" fill="#405961">8 concilios · Nicea I a Constantinopla IV</text>
+    <path d="M250 136H906" stroke="#aebdbd" stroke-width="1"/>
+    <path d="M250.0 136V130" stroke="#216771" stroke-width="1.4"/>
+    <circle cx="250.0" cy="130" r="3.8" fill="#216771"><title>325</title></circle>
+    <path d="M272.4 136V142" stroke="#216771" stroke-width="1.4"/>
+    <circle cx="272.4" cy="142" r="3.8" fill="#216771"><title>381</title></circle>
+    <path d="M292.4 136V130" stroke="#216771" stroke-width="1.4"/>
+    <circle cx="292.4" cy="130" r="3.8" fill="#216771"><title>431</title></circle>
+    <path d="M300.4 136V142" stroke="#216771" stroke-width="1.4"/>
+    <circle cx="300.4" cy="142" r="3.8" fill="#216771"><title>451</title></circle>
+    <path d="M341.2 136V130" stroke="#216771" stroke-width="1.4"/>
+    <circle cx="341.2" cy="130" r="3.8" fill="#216771"><title>553</title></circle>
+    <path d="M392.0 136V142" stroke="#216771" stroke-width="1.4"/>
+    <circle cx="392.0" cy="142" r="3.8" fill="#216771"><title>680</title></circle>
+    <path d="M434.8 136V130" stroke="#216771" stroke-width="1.4"/>
+    <circle cx="434.8" cy="130" r="3.8" fill="#216771"><title>787</title></circle>
+    <path d="M467.6 136V142" stroke="#216771" stroke-width="1.4"/>
+    <circle cx="467.6" cy="142" r="3.8" fill="#216771"><title>869</title></circle>
+    <text x="26" y="205" font-size="16" font-weight="700" text-anchor="start" fill="#6b572e">Siglos XII–XVI</text>
+    <text x="26" y="227" font-size="12" font-weight="400" text-anchor="start" fill="#405961">10 concilios · Letrán I a Letrán V</text>
+    <path d="M250 208H906" stroke="#aebdbd" stroke-width="1"/>
+    <path d="M569.2 208V202" stroke="#6b572e" stroke-width="1.4"/>
+    <circle cx="569.2" cy="202" r="3.8" fill="#6b572e"><title>1123</title></circle>
+    <path d="M575.6 208V214" stroke="#6b572e" stroke-width="1.4"/>
+    <circle cx="575.6" cy="214" r="3.8" fill="#6b572e"><title>1139</title></circle>
+    <path d="M591.6 208V202" stroke="#6b572e" stroke-width="1.4"/>
+    <circle cx="591.6" cy="202" r="3.8" fill="#6b572e"><title>1179</title></circle>
+    <path d="M606.0 208V214" stroke="#6b572e" stroke-width="1.4"/>
+    <circle cx="606.0" cy="214" r="3.8" fill="#6b572e"><title>1215</title></circle>
+    <path d="M618.0 208V202" stroke="#6b572e" stroke-width="1.4"/>
+    <circle cx="618.0" cy="202" r="3.8" fill="#6b572e"><title>1245</title></circle>
+    <path d="M629.6 208V214" stroke="#6b572e" stroke-width="1.4"/>
+    <circle cx="629.6" cy="214" r="3.8" fill="#6b572e"><title>1274</title></circle>
+    <path d="M644.4 208V202" stroke="#6b572e" stroke-width="1.4"/>
+    <circle cx="644.4" cy="202" r="3.8" fill="#6b572e"><title>1311</title></circle>
+    <path d="M685.6 208V214" stroke="#6b572e" stroke-width="1.4"/>
+    <circle cx="685.6" cy="214" r="3.8" fill="#6b572e"><title>1414</title></circle>
+    <path d="M692.4 208V202" stroke="#6b572e" stroke-width="1.4"/>
+    <circle cx="692.4" cy="202" r="3.8" fill="#6b572e"><title>1431</title></circle>
+    <path d="M724.8 208V214" stroke="#6b572e" stroke-width="1.4"/>
+    <circle cx="724.8" cy="214" r="3.8" fill="#6b572e"><title>1512</title></circle>
+    <text x="26" y="277" font-size="16" font-weight="700" text-anchor="start" fill="#655084">Trento y los dos Vaticanos</text>
+    <text x="26" y="299" font-size="12" font-weight="400" text-anchor="start" fill="#405961">3 concilios · Trento a Vaticano II</text>
+    <path d="M250 280H906" stroke="#aebdbd" stroke-width="1"/>
+    <path d="M738.0 280V274" stroke="#655084" stroke-width="1.4"/>
+    <circle cx="738.0" cy="274" r="3.8" fill="#655084"><title>1545</title></circle>
+    <path d="M867.6 280V286" stroke="#655084" stroke-width="1.4"/>
+    <circle cx="867.6" cy="286" r="3.8" fill="#655084"><title>1869</title></circle>
+    <path d="M904.8 280V274" stroke="#655084" stroke-width="1.4"/>
+    <circle cx="904.8" cy="274" r="3.8" fill="#655084"><title>1962</title></circle>
+  </g>
+</svg>

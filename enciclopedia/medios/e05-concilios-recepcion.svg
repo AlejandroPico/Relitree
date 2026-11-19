@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="284" viewBox="0 0 960 284" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">De la convocatoria a la recepción</title>
+  <desc id="descripcion">Cuatro pasos que pueden distinguirse en el estudio de un concilio. La recepción puede incluir aplicación, discusión o rechazo.</desc>
+  <rect width="960" height="284" fill="#f7f4ee"/>
+  <g font-family="system-ui, sans-serif" fill="#20363b">
+    <text x="30" y="47" font-size="29" font-weight="700" text-anchor="start" fill="#21393f">De la convocatoria a la recepción</text>
+    <rect x="30" y="78" width="204" height="122" fill="#eaf0ef"/>
+    <path d="M30 80h204" stroke="#2c636d" stroke-width="4"/>
+    <text x="44" y="116" font-size="21" font-weight="700" text-anchor="start" fill="#21393f">Convocatoria</text>
+    <text x="44" y="153" font-size="15" font-weight="400" text-anchor="start" fill="#21393f">¿Quién llama a reunirse?</text>
+    <text x="44" y="181" font-size="14" font-weight="400" text-anchor="start" fill="#3a5155">Bula, carta o mandato.</text>
+    <path d="M239 140h11m-4-4 4 4-4 4" fill="none" stroke="#587276" stroke-width="1.5"/>
+    <rect x="256" y="78" width="204" height="122" fill="#eaf0ef"/>
+    <path d="M256 80h204" stroke="#2c636d" stroke-width="4"/>
+    <text x="270" y="116" font-size="21" font-weight="700" text-anchor="start" fill="#21393f">Deliberación</text>
+    <text x="270" y="153" font-size="15" font-weight="400" text-anchor="start" fill="#21393f">¿Quién participa y vota?</text>
+    <text x="270" y="181" font-size="14" font-weight="400" text-anchor="start" fill="#3a5155">Actas y borradores.</text>
+    <path d="M465 140h11m-4-4 4 4-4 4" fill="none" stroke="#587276" stroke-width="1.5"/>
+    <rect x="482" y="78" width="204" height="122" fill="#eaf0ef"/>
+    <path d="M482 80h204" stroke="#2c636d" stroke-width="4"/>
+    <text x="496" y="116" font-size="21" font-weight="700" text-anchor="start" fill="#21393f">Promulgación</text>
+    <text x="496" y="153" font-size="15" font-weight="400" text-anchor="start" fill="#21393f">¿Qué se aprueba?</text>
+    <text x="496" y="181" font-size="14" font-weight="400" text-anchor="start" fill="#3a5155">Texto y fecha de aprobación.</text>
+    <path d="M691 140h11m-4-4 4 4-4 4" fill="none" stroke="#587276" stroke-width="1.5"/>
+    <rect x="708" y="78" width="204" height="122" fill="#e6eee6"/>
+    <path d="M708 80h204" stroke="#386349" stroke-width="4"/>
+    <text x="722" y="116" font-size="21" font-weight="700" text-anchor="start" fill="#21393f">Recepción</text>
+    <text x="722" y="153" font-size="15" font-weight="400" text-anchor="start" fill="#21393f">¿Qué llega a aplicarse?</text>
+    <text x="722" y="181" font-size="14" font-weight="400" text-anchor="start" fill="#3a5155">Credos, culto y práctica.</text>
+    <text x="30" y="244" font-size="17" font-weight="400" text-anchor="start" fill="#395258">Una decisión puede aplicarse, discutirse, recibirse en parte o quedar sin efecto.</text>
+  </g>
+</svg>
