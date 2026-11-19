@@ -1,6 +1,7 @@
 ---
 estado: completo
 fase: E04
+orden: 431
 palabras: 5123
 fuentes:
   - "https://www.jstor.org/stable/jj.38238602"
@@ -19,7 +20,7 @@ fuentes:
   - "https://www.anglicancommunion.org/media/493671/The-Inheritance-of-Ecumenical-Councils-28-October-final-text_AOOIC_021122.pdf"
   - "https://www.iranicaonline.org/articles/isaac-bishop-of-seleucia-ctesiphon/"
 ---
-# Concilio de Éfeso (431)
+# 431 · Concilio de Éfeso
 
 El concilio reunido en Éfeso en 431 depuso a Nestorio, obispo de Constantinopla, y reconoció la concordancia entre la fe de [[cristianismo/concilios/nicea-i|Nicea]] y la explicación de la encarnación que Cirilo de Alejandría había expuesto en su segunda carta a Nestorio. La disputa se hizo pública alrededor del título griego *Theotókos*, que suele traducirse como «Madre de Dios». Con él se discutía cómo hablar de Jesús como nacido de María y, a la vez, como el Hijo divino que existe desde antes de su nacimiento humano. La convocatoria imperial congregó a obispos de distintas provincias y dio lugar a dos asambleas rivales. Sólo las decisiones de una de ellas adquirieron la autoridad que hoy se atribuye al tercer concilio ecuménico. Para entender ese resultado hay que distinguir entre las deliberaciones del verano de 431, la negociación que restableció la comunión entre Alejandría y Antioquía en 433 y la manera en que [[cristianismo/concilios/calcedonia|Calcedonia]] recibió aquella herencia en 451. [1–6, 9]
 

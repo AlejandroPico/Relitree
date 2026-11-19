@@ -1,6 +1,7 @@
 ---
 estado: completo
 fase: E04
+orden: 381
 palabras: 5219
 fuentes:
   - "https://www.newadvent.org/fathers/26015.htm"
@@ -23,7 +24,7 @@ fuentes:
   - "https://www.cyberlibrary.org/en/books/the-letters-of-s-ambrose-bishop-of-milan-58783/chapters/12/"
 ---
 
-# Concilio de Constantinopla I (381)
+# 381 · Concilio de Constantinopla I
 
 El concilio reunido en Constantinopla en 381 reafirmó la fe de [[cristianismo/concilios/nicea-i|Nicea]], estableció reglas para el gobierno de las iglesias orientales y resolvió una disputa por la sede de la capital imperial. Su legado más reconocible es el símbolo niceno-constantinopolitano, que desarrolla la confesión del Espíritu Santo y que se convirtió en un texto litúrgico de numerosas iglesias. Las actas completas de 381 se han perdido. La asociación del símbolo con aquel concilio se puede documentar con claridad en Calcedonia, en 451, cuando se leyó como la fe de los ciento cincuenta padres. La reunión de 381, la transmisión de sus decisiones y su reconocimiento posterior como segundo concilio ecuménico se pueden estudiar por separado. Cada proceso dejó documentos distintos. [1, 4, 7, 8]
 

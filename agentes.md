@@ -108,6 +108,8 @@ El plan completo, con la lista de artículos de cada fase, está en `enciclopedi
 14. Artículo principal: `enciclopedia/es/religiones/<id>.md`. Subartículos: `enciclopedia/es/religiones/<id>/<categoria>/<slug>.md`, con tantos niveles de carpeta como haga falta; cada carpeta lleva un `_indice.md` con su título y orden. Temas generales: `enciclopedia/es/temas/`. Imágenes: `enciclopedia/medios/`.
 Los índices de categoría usan `_indice.md` con un encabezado `# Título` y, opcionalmente, `orden` numérico en la cabecera YAML. Por ejemplo, la carpeta `cristianismo/historia/concilios/` se muestra bajo Cristianismo → Historia → Concilios. Sus artículos usan enlaces como `[[cristianismo/historia/concilios/nicea-i|Nicea I]]`. Si el artículo de destino todavía falta, el lector muestra un aviso y permite regresar al artículo de origen.
 
+En `cristianismo/concilios/`, encabezar cada artículo con el año o intervalo antes del nombre (por ejemplo, `# 553 · Concilio de Constantinopla II`) e indicar el primer año como `orden` en la cabecera YAML. El índice usa este valor para ordenar los concilios cronológicamente.
+
 15. Al cerrar cada fase: actualizar `PLAN.md` y `tareas.md`, y dar los comandos PowerShell de git y de ejecución local.
 
 ## Criterios editoriales (obligatorios)

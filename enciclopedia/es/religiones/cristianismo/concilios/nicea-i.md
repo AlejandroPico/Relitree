@@ -1,6 +1,7 @@
 ---
 estado: completo
 fase: E04
+orden: 325
 palabras: 5161
 fuentes:
   - "https://plato.stanford.edu/entries/trinity/trinity-history.html"
@@ -14,7 +15,7 @@ fuentes:
   - "https://www.newadvent.org/fathers/2817.htm"
 ---
 
-# Concilio de Nicea I (325)
+# 325 · Concilio de Nicea I
 
 > **Nota de desarrollo.** Este artículo estudia la reunión de 325 y su recepción inmediata. La fórmula litúrgica vinculada a Constantinopla y los debates posteriores sobre el Espíritu se desarrollan en [[cristianismo/concilios/constantinopla-i|Concilio de Constantinopla I (381)]]. Las primeras recepciones romanas y medievales de la lista de concilios pertenecen a los bloques sobre los concilios ecuménicos de E04 y E05.
 

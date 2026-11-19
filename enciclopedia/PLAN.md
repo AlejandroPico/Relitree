@@ -66,13 +66,13 @@ Las doce entradas son borradores. Queda pendiente su desarrollo completo con fue
 
 ## Fase E04 · Cristianismo · Concilios ecuménicos (I)
 
-Estado editorial: 4 de 11 artículos completos.
+Estado editorial: 5 de 11 artículos completos.
 
 - [x] [Concilio de Nicea I (325)](es/religiones/cristianismo/concilios/nicea-i.md)
 - [x] [Concilio de Constantinopla I (381)](es/religiones/cristianismo/concilios/constantinopla-i.md)
 - [x] [Concilio de Éfeso (431)](es/religiones/cristianismo/concilios/efeso.md)
 - [x] [Concilio de Calcedonia (451)](es/religiones/cristianismo/concilios/calcedonia.md)
-- [ ] Concilio de Constantinopla II (553)
+- [x] [Concilio de Constantinopla II (553)](es/religiones/cristianismo/concilios/constantinopla-ii.md)
 - [ ] Concilio de Constantinopla III (680–681)
 - [ ] Concilio de Nicea II (787)
 - [ ] Concilio de Constantinopla IV (869–870)

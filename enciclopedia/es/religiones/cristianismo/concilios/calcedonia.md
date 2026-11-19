@@ -1,6 +1,7 @@
 ---
 estado: completo
 fase: E04
+orden: 451
 palabras: 5181
 fuentes:
   - "https://www.jstor.org/stable/jj.38238633"
@@ -21,7 +22,7 @@ fuentes:
   - "https://academic.oup.com/book/6235"
   - "https://academic.oup.com/liverpool-scholarship-online/book/15546/chapter-abstract/170240414"
 ---
-# Concilio de Calcedonia (451)
+# 451 · Concilio de Calcedonia
 
 El Concilio de Calcedonia reunió en octubre de 451 a obispos del Imperio romano bajo la convocatoria de Marciano. Su definición de fe reconoció a Jesucristo como un solo Hijo, plenamente divino y plenamente humano, en dos naturalezas. La asamblea revisó asimismo las actuaciones de Éfeso de 449, depuso a Dióscoro de Alejandría, resolvió disputas entre obispos y promulgó normas de disciplina. Entre ellas figura el canon que amplió las atribuciones de Constantinopla y que León de Roma objetó. Calcedonia se convirtió en el cuarto concilio ecuménico para las iglesias que recibieron su definición. En las iglesias ortodoxas orientales se mantuvo la autoridad de los tres primeros concilios y se rechazó la de esta asamblea. Las decisiones doctrinales, las sentencias contra personas y la competencia de las sedes tuvieron trayectorias relacionadas y, en ocasiones, distintas. [1–5, 7, 12, 13]
 
@@ -119,7 +120,7 @@ Las iglesias que se mantuvieron al margen de la recepción de Calcedonia conserv
 
 Calcedonia tuvo que decidir qué hacer con obispos a quienes la reunión de 449 había depuesto y que buscaban recuperar su sede. Teodoreto de Ciro había escrito contra las formulaciones de Cirilo y suscitado sospechas por su cercanía a Nestorio. Cuando se trató su restitución, algunos obispos le exigieron una condena expresa de Nestorio. Teodoreto intentó explicar en qué consistía su propia enseñanza. Los presentes insistieron en que se pronunciara sobre la persona y las doctrinas objeto de condena. La restitución siguió a su aceptación del anatema. La secuencia permite ver qué peso tenían las declaraciones que se hacían en el momento de volver a la comunión y qué aspectos de la trayectoria del acusado seguían siendo discutibles. [1, 2, 5, 9, 17]
 
-Ibas de Edesa había perdido igualmente su sede. Al examinar su apelación se leyeron las actuaciones de un juicio anterior y una carta transmitida como escrita por él a Mari, que criticaba a Cirilo y hablaba de la reconciliación con los orientales. Los jueces podían distinguir la conducta del obispo, el proceso que había conducido a su deposición y las condiciones de su restitución. Ibas volvió a su sede. La permanencia de la carta en las actas dio lugar a interpretaciones diferentes acerca de lo que Calcedonia había aceptado al restituirlo. Décadas después, la controversia de los Tres Capítulos reunió los escritos de Teodoro de Mopsuestia, determinados textos de Teodoreto contra Cirilo y la carta atribuida a Ibas. Volver sobre esos textos obligaba a explicar cómo podían someterse a condena sin anular la autoridad que quienes los discutían reconocían a la definición de 451. [1, 5, 9, 17]
+Ibas de Edesa había perdido igualmente su sede. Al examinar su apelación se leyeron las actuaciones de un juicio anterior y una carta transmitida como escrita por él a Mari, que criticaba a Cirilo y hablaba de la reconciliación con los orientales. Los jueces podían distinguir la conducta del obispo, el proceso que había conducido a su deposición y las condiciones de su restitución. Ibas volvió a su sede. La permanencia de la carta en las actas dio lugar a interpretaciones diferentes acerca de lo que Calcedonia había aceptado al restituirlo. Décadas después, la controversia de los [[cristianismo/concilios/constantinopla-ii|Tres Capítulos]] reunió los escritos de Teodoro de Mopsuestia, determinados textos de Teodoreto contra Cirilo y la carta atribuida a Ibas. Volver sobre esos textos obligaba a explicar cómo podían someterse a condena sin anular la autoridad que quienes los discutían reconocían a la definición de 451. [1, 5, 9, 17]
 
 ### Las reglas de la vida eclesiástica
 

@@ -110,6 +110,11 @@ def separar_cabecera(texto: str) -> tuple[str, str]:
     return "", texto
 
 
+def orden_de(cabecera: str) -> int | None:
+    orden = re.search(r"^orden:[ \t]*(-?\d+)[ \t]*$", cabecera, re.MULTILINE)
+    return int(orden[1]) if orden else None
+
+
 def insertar_articulo(bd, idioma, md, id_articulo, grupo, padre, nombres, reserva, orden=None):
     cabecera, texto = separar_cabecera(md.read_text(encoding="utf-8-sig"))
     if re.search(r"^estado:\s*completo\s*$", cabecera, re.M):
@@ -117,6 +122,8 @@ def insertar_articulo(bd, idioma, md, id_articulo, grupo, padre, nombres, reserv
         if palabras < 5000:
             raise ValueError(f"{md.relative_to(RAIZ) if md.is_relative_to(RAIZ) else md}: {palabras} palabras de cuerpo. Mínimo: 5000.")
     titulo = titulo_de(texto, reserva)
+    if orden is None:
+        orden = orden_de(cabecera)
     bd.execute("INSERT INTO articulos VALUES (?,?,?,?,?,?,?,?)", (
         idioma, id_articulo, grupo, padre, titulo, normalizar(titulo), a_html(texto, nombres), orden,
     ))
@@ -132,13 +139,13 @@ def insertar_subarticulos(bd, idioma, carpeta, prefijo, grupo, padre, nombres):
             categoria = f"categoria:{prefijo_hijo}"
             indice = ruta / "_indice.md"
             cabecera, texto = separar_cabecera(indice.read_text(encoding="utf-8-sig")) if indice.is_file() else ("", "")
-            orden = re.search(r"^orden:\s*(-?\d+)\s*$", cabecera, re.MULTILINE)
+            orden = orden_de(cabecera)
             titulo = titulo_de(texto, ruta.name.replace("-", " ").capitalize())
             total_hijo = insertar_subarticulos(bd, idioma, ruta, prefijo_hijo, grupo, categoria, nombres)
             if total_hijo:
                 bd.execute("INSERT INTO articulos VALUES (?,?,?,?,?,?,?,?)", (
                     idioma, categoria, grupo, padre, titulo, normalizar(titulo), None,
-                    int(orden[1]) if orden else None,
+                    orden,
                 ))
                 total += total_hijo
         elif ruta.suffix == ".md" and ruta.name != "_indice.md":
