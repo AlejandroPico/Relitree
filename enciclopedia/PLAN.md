@@ -98,18 +98,37 @@ Estado editorial: completa, 11 de 11 artículos publicados.
 
 ## Fase E06 · Cristianismo · Cismas, herejías e Inquisición
 
-- El Cisma de Oriente (1054)
-- El Cisma de Occidente (1378–1417)
-- El papado de Aviñón
-- Herejías de la Antigüedad
-- Herejías medievales
-- La Inquisición medieval
-- La Inquisición española
-- La Inquisición romana
-- La caza de brujas
-- El antijudaísmo cristiano
-- La querella de las investiduras
-- Iconoclasia y culto a las imágenes
+Estado editorial: en curso, 2 de 12 artículos publicados en seis entregas.
+
+### Entrega 6.1
+
+- [x] [Herejías de la Antigüedad](es/religiones/cristianismo/cismas-herejias/herejias-de-la-antiguedad.md)
+- [x] [Iconoclasia y culto a las imágenes](es/religiones/cristianismo/cismas-herejias/iconoclasia-y-culto-a-las-imagenes.md)
+
+### Entrega 6.2
+
+- [ ] El Cisma de Oriente (1054)
+- [ ] La querella de las investiduras
+
+### Entrega 6.3
+
+- [ ] El papado de Aviñón
+- [ ] El Cisma de Occidente (1378–1417)
+
+### Entrega 6.4
+
+- [ ] Herejías medievales
+- [ ] La Inquisición medieval
+
+### Entrega 6.5
+
+- [ ] La Inquisición española
+- [ ] La Inquisición romana
+
+### Entrega 6.6
+
+- [ ] La caza de brujas
+- [ ] El antijudaísmo cristiano
 
 ## Fase E07 · Cristianismo · Cruzadas y guerras santas
 

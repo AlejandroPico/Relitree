@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" viewBox="0 0 640 585" role="img" aria-labelledby="grafico-titulo grafico-desc">
+  <title id="grafico-titulo">La controversia de las imágenes</title>
+  <desc id="grafico-desc">Nueve hitos desde el concilio en Trullo hasta el mosaico de Santa Sofía. El círculo abierto indica fecha aproximada.</desc>
+  <rect width="640" height="585" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 30px; font-weight: 720 }
+    .sub { font-size: 16px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 20px; font-weight: 550 }
+    .label { font-size: 18px; font-weight: 700 }
+    .note { font-size: 16px }
+  </style>
+  <text x="32" y="46" class="title">La controversia de las imágenes</text>
+  <text x="32" y="74" class="sub">Hitos en orden cronológico · intervalos sin escala proporcional</text>
+  <path d="M 185 112 V 520" stroke="#678c83" stroke-width="3"/>
+  <text x="161" y="119" text-anchor="end" class="date">691–692</text>
+  <circle cx="185" cy="112" r="6" fill="#267868" stroke="#267868" stroke-width="2"/>
+  <text x="206" y="119" class="item">Trullo y el canon del cordero</text>
+  <text x="161" y="170" text-anchor="end" class="date">730</text>
+  <circle cx="185" cy="163" r="6" fill="#267868" stroke="#267868" stroke-width="2"/>
+  <text x="206" y="170" class="item">Salida del patriarca Germán I</text>
+  <text x="161" y="221" text-anchor="end" class="date">754</text>
+  <circle cx="185" cy="214" r="6" fill="#267868" stroke="#267868" stroke-width="2"/>
+  <text x="206" y="221" class="item">Concilio de Hieria</text>
+  <text x="161" y="272" text-anchor="end" class="date">786</text>
+  <circle cx="185" cy="265" r="6" fill="#267868" stroke="#267868" stroke-width="2"/>
+  <text x="206" y="272" class="item">Primera reunión interrumpida</text>
+  <text x="161" y="323" text-anchor="end" class="date">787</text>
+  <circle cx="185" cy="316" r="6" fill="#267868" stroke="#267868" stroke-width="2"/>
+  <text x="206" y="323" class="item">Nicea II defiende la veneración</text>
+  <text x="161" y="374" text-anchor="end" class="date">794</text>
+  <circle cx="185" cy="367" r="6" fill="#267868" stroke="#267868" stroke-width="2"/>
+  <text x="206" y="374" class="item">Respuesta franca en Fráncfort</text>
+  <text x="161" y="425" text-anchor="end" class="date">815</text>
+  <circle cx="185" cy="418" r="6" fill="#267868" stroke="#267868" stroke-width="2"/>
+  <text x="206" y="425" class="item">Retorno de la política iconoclasta</text>
+  <text x="161" y="476" text-anchor="end" class="date">843</text>
+  <circle cx="185" cy="469" r="6" fill="#267868" stroke="#267868" stroke-width="2"/>
+  <text x="206" y="476" class="item">Restauración en Constantinopla</text>
+  <text x="161" y="527" text-anchor="end" class="date">c. 867</text>
+  <circle cx="185" cy="520" r="6" fill="#f7f4ec" stroke="#267868" stroke-width="2"/>
+  <text x="206" y="527" class="item">Mosaico del ábside de Santa Sofía</text>
+</svg>

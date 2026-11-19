@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" viewBox="0 0 640 622" role="img" aria-labelledby="grafico-titulo grafico-desc">
+  <title id="grafico-titulo">Cómo se reconstruye una controversia</title>
+  <desc id="grafico-desc">Cuatro clases de evidencia: escrito propio, refutación, decisión formal y rastro material. No todas sobreviven para cada caso.</desc>
+  <rect width="640" height="622" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 30px; font-weight: 720 }
+    .sub { font-size: 16px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 20px; font-weight: 550 }
+    .label { font-size: 18px; font-weight: 700 }
+    .note { font-size: 16px }
+  </style>
+  <text x="32" y="46" class="title">Cómo se reconstruye una controversia</text>
+  <path d="M 50 110 V 482" stroke="#638d82" stroke-width="3"/>
+  <circle cx="50" cy="110" r="17" fill="#1f6659"/>
+  <text x="50" y="116" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700">1</text>
+  <text x="81" y="109" class="label">Escrito del grupo</text>
+  <text x="81" y="136" class="note">Muestra cómo presenta su fe ante un público concreto.</text>
+  <text x="81" y="158" class="note">Ejemplo: tratados transmitidos en códices coptos.</text>
+  <circle cx="50" cy="234" r="17" fill="#1f6659"/>
+  <text x="50" y="240" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700">2</text>
+  <text x="81" y="233" class="label">Refutación contemporánea</text>
+  <text x="81" y="260" class="note">Conserva argumentos y citas seleccionados por un rival.</text>
+  <text x="81" y="282" class="note">Ejemplo: la lectura de Marción en Tertuliano.</text>
+  <circle cx="50" cy="358" r="17" fill="#1f6659"/>
+  <text x="50" y="364" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700">3</text>
+  <text x="81" y="357" class="label">Decisión formal</text>
+  <text x="81" y="384" class="note">Fija las proposiciones examinadas y sus consecuencias.</text>
+  <text x="81" y="406" class="note">Ejemplo: decisiones de la conferencia de Cartago.</text>
+  <circle cx="50" cy="482" r="17" fill="#1f6659"/>
+  <text x="50" y="488" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700">4</text>
+  <text x="81" y="481" class="label">Rastro de recepción</text>
+  <text x="81" y="508" class="note">Documenta de qué manera llegó a cumplirse una decisión.</text>
+  <text x="81" y="530" class="note">Ejemplo: cartas, leyes y trayectoria de obispos rivales.</text>
+</svg>

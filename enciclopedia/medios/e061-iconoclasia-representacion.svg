@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" viewBox="0 0 640 622" role="img" aria-labelledby="grafico-titulo grafico-desc">
+  <title id="grafico-titulo">Una imagen de Cristo, dos argumentos</title>
+  <desc id="grafico-desc">Hieria ve un riesgo de dividir o confundir las naturalezas. Nicea distingue el soporte del representado y la reverencia de la adoración.</desc>
+  <rect width="640" height="622" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 30px; font-weight: 720 }
+    .sub { font-size: 16px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 20px; font-weight: 550 }
+    .label { font-size: 18px; font-weight: 700 }
+    .note { font-size: 16px }
+  </style>
+  <text x="32" y="46" class="title">Una imagen de Cristo, dos argumentos</text>
+  <path d="M 50 110 V 482" stroke="#638d82" stroke-width="3"/>
+  <circle cx="50" cy="110" r="17" fill="#1f6659"/>
+  <text x="50" y="116" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700">1</text>
+  <text x="81" y="109" class="label">Punto de partida compartido</text>
+  <text x="81" y="136" class="note">Cristo es un único sujeto y su divinidad no tiene contorno.</text>
+  <text x="81" y="158" class="note">La discusión trata de lo que llega a mostrar una pintura.</text>
+  <circle cx="50" cy="234" r="17" fill="#1f6659"/>
+  <text x="50" y="240" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700">2</text>
+  <text x="81" y="233" class="label">Hieria · 754</text>
+  <text x="81" y="260" class="note">Pintar a Cristo supone un riesgo: separar su humanidad</text>
+  <text x="81" y="282" class="note">del Verbo o dar contorno a lo que no es representable.</text>
+  <circle cx="50" cy="358" r="17" fill="#1f6659"/>
+  <text x="50" y="364" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700">3</text>
+  <text x="81" y="357" class="label">Nicea II · 787</text>
+  <text x="81" y="384" class="note">Los rasgos humanos permiten nombrar a la persona.</text>
+  <text x="81" y="406" class="note">La materia de la obra es distinta de quien aparece en ella.</text>
+  <circle cx="50" cy="482" r="17" fill="#1f6659"/>
+  <text x="50" y="488" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700">4</text>
+  <text x="81" y="481" class="label">Consecuencia en el culto</text>
+  <text x="81" y="508" class="note">Hieria rechaza esa imagen. Nicea permite honrar en ella</text>
+  <text x="81" y="530" class="note">al representado y reserva la adoración a Dios.</text>
+</svg>

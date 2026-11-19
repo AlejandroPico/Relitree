@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.16**
+**Versión 1.7.17**
+
+La [entrega 6.1 de la enciclopedia](enciclopedia/PLAN.md#entrega-61) abre la fase E06 con «Herejías de la Antigüedad» e «Iconoclasia y culto a las imágenes».
 
 El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto.
 
