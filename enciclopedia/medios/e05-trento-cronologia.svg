@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 604" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Los tres períodos del Concilio de Trento</title>
+  <desc id="descripcion">Las decisiones principales se agrupan por el color de los períodos. La confirmación se produjo después de la clausura.</desc>
+  <rect width="760" height="604" fill="#f6f3ed"/>
+  <text x="32" y="45" fill="#172d39" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Los tres períodos del Concilio de Trento</text>
+  <text x="32" y="70" fill="#42515a" font-family="system-ui,sans-serif" font-size="15">Fechas seleccionadas de la convocatoria a la recepción</text>
+  <path d="M180 108V549" stroke="#557579" stroke-width="2"/>
+  <circle cx="180" cy="108" r="6" fill="#8d462c"/>
+  <text x="155" y="113" text-anchor="end" fill="#213b46" font-family="system-ui,sans-serif" font-size="16" font-weight="650">Diciembre de 1545</text>
+  <text x="206" y="113" fill="#172d39" font-family="system-ui,sans-serif" font-size="17">Paulo III · apertura del primer período</text>
+  <circle cx="180" cy="157" r="6" fill="#8d462c"/>
+  <text x="155" y="162" text-anchor="end" fill="#213b46" font-family="system-ui,sans-serif" font-size="16" font-weight="650">Abril de 1546</text>
+  <text x="206" y="162" fill="#172d39" font-family="system-ui,sans-serif" font-size="17">Escritura, tradiciones y Vulgata</text>
+  <circle cx="180" cy="206" r="6" fill="#8d462c"/>
+  <text x="155" y="211" text-anchor="end" fill="#213b46" font-family="system-ui,sans-serif" font-size="16" font-weight="650">Ene.–mar. de 1547</text>
+  <text x="206" y="211" fill="#172d39" font-family="system-ui,sans-serif" font-size="17">Justificación y traslado a Bolonia</text>
+  <circle cx="180" cy="255" r="6" fill="#23676b"/>
+  <text x="155" y="260" text-anchor="end" fill="#213b46" font-family="system-ui,sans-serif" font-size="16" font-weight="650">Mayo de 1551</text>
+  <text x="206" y="260" fill="#172d39" font-family="system-ui,sans-serif" font-size="17">Julio III · reapertura en Trento</text>
+  <circle cx="180" cy="304" r="6" fill="#23676b"/>
+  <text x="155" y="309" text-anchor="end" fill="#213b46" font-family="system-ui,sans-serif" font-size="16" font-weight="650">Oct.–nov. de 1551</text>
+  <text x="206" y="309" fill="#172d39" font-family="system-ui,sans-serif" font-size="17">Eucaristía, penitencia y extremaunción</text>
+  <circle cx="180" cy="353" r="6" fill="#23676b"/>
+  <text x="155" y="358" text-anchor="end" fill="#213b46" font-family="system-ui,sans-serif" font-size="16" font-weight="650">Abril de 1552</text>
+  <text x="206" y="358" fill="#172d39" font-family="system-ui,sans-serif" font-size="17">Suspensión del segundo período</text>
+  <circle cx="180" cy="402" r="6" fill="#4a517d"/>
+  <text x="155" y="407" text-anchor="end" fill="#213b46" font-family="system-ui,sans-serif" font-size="16" font-weight="650">Enero de 1562</text>
+  <text x="206" y="407" fill="#172d39" font-family="system-ui,sans-serif" font-size="17">Pío IV · apertura del tercer período</text>
+  <circle cx="180" cy="451" r="6" fill="#4a517d"/>
+  <text x="155" y="456" text-anchor="end" fill="#213b46" font-family="system-ui,sans-serif" font-size="16" font-weight="650">Julio de 1563</text>
+  <text x="206" y="456" fill="#172d39" font-family="system-ui,sans-serif" font-size="17">Orden y seminarios</text>
+  <circle cx="180" cy="500" r="6" fill="#4a517d"/>
+  <text x="155" y="505" text-anchor="end" fill="#213b46" font-family="system-ui,sans-serif" font-size="16" font-weight="650">Nov.–dic. de 1563</text>
+  <text x="206" y="505" fill="#172d39" font-family="system-ui,sans-serif" font-size="17">Matrimonio, decretos finales y clausura</text>
+  <circle cx="180" cy="549" r="6" fill="#4a517d"/>
+  <text x="155" y="554" text-anchor="end" fill="#213b46" font-family="system-ui,sans-serif" font-size="16" font-weight="650">1564</text>
+  <text x="206" y="554" fill="#172d39" font-family="system-ui,sans-serif" font-size="17">Confirmación de los decretos por Pío IV</text>
+</svg>

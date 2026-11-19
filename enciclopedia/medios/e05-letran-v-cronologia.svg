@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 457" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Letrán V y la asamblea de Pisa</title>
+  <desc id="descripcion">Secuencia temporal desde las convocatorias rivales hasta la clausura de Letrán V.</desc>
+  <rect width="760" height="457" fill="#f6f3ed"/>
+  <text x="32" y="45" fill="#172d39" font-family="system-ui,sans-serif" font-size="25" font-weight="700">Letrán V y la asamblea de Pisa</text>
+  <text x="32" y="70" fill="#42515a" font-family="system-ui,sans-serif" font-size="15">De las convocatorias a la clausura</text>
+  <path d="M180 108V402" stroke="#557579" stroke-width="2"/>
+  <circle cx="180" cy="108" r="6" fill="#8d462c"/>
+  <text x="155" y="113" text-anchor="end" fill="#213b46" font-family="system-ui,sans-serif" font-size="16" font-weight="650">Julio de 1511</text>
+  <text x="206" y="113" fill="#172d39" font-family="system-ui,sans-serif" font-size="17">Julio II convoca el concilio de Letrán</text>
+  <circle cx="180" cy="157" r="6" fill="#23676b"/>
+  <text x="155" y="162" text-anchor="end" fill="#213b46" font-family="system-ui,sans-serif" font-size="16" font-weight="650">Noviembre de 1511</text>
+  <text x="206" y="162" fill="#172d39" font-family="system-ui,sans-serif" font-size="17">Empiezan las sesiones de la asamblea de Pisa</text>
+  <circle cx="180" cy="206" r="6" fill="#8d462c"/>
+  <text x="155" y="211" text-anchor="end" fill="#213b46" font-family="system-ui,sans-serif" font-size="16" font-weight="650">Mayo de 1512</text>
+  <text x="206" y="211" fill="#172d39" font-family="system-ui,sans-serif" font-size="17">Abre Letrán V y declara nulos los actos de Pisa</text>
+  <circle cx="180" cy="255" r="6" fill="#4a517d"/>
+  <text x="155" y="260" text-anchor="end" fill="#213b46" font-family="system-ui,sans-serif" font-size="16" font-weight="650">Diciembre de 1513</text>
+  <text x="206" y="260" fill="#172d39" font-family="system-ui,sans-serif" font-size="17">Decreto Apostolici regiminis</text>
+  <circle cx="180" cy="304" r="6" fill="#4a517d"/>
+  <text x="155" y="309" text-anchor="end" fill="#213b46" font-family="system-ui,sans-serif" font-size="16" font-weight="650">Mayo de 1515</text>
+  <text x="206" y="309" fill="#172d39" font-family="system-ui,sans-serif" font-size="17">Decretos sobre los montes de piedad y la imprenta</text>
+  <circle cx="180" cy="353" r="6" fill="#4a517d"/>
+  <text x="155" y="358" text-anchor="end" fill="#213b46" font-family="system-ui,sans-serif" font-size="16" font-weight="650">Diciembre de 1516</text>
+  <text x="206" y="358" fill="#172d39" font-family="system-ui,sans-serif" font-size="17">Aprobación del Concordato de Bolonia</text>
+  <circle cx="180" cy="402" r="6" fill="#4a517d"/>
+  <text x="155" y="407" text-anchor="end" fill="#213b46" font-family="system-ui,sans-serif" font-size="16" font-weight="650">Marzo de 1517</text>
+  <text x="206" y="407" fill="#172d39" font-family="system-ui,sans-serif" font-size="17">Clausura bajo León X</text>
+</svg>
