@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 438" role="img" aria-labelledby="title description">
+  <title id="title">De la obra al libro intervenido</title>
+  <desc id="description">Examen del texto. Los lectores encargados de la revisión señalaban pasajes.. Se podía consultar una edición o traducción concretas.. Decisión y comunicación. La autoridad podía ordenar prohibición o expurgo.. Los índices difundían listas y reglas de aplicación.. Huellas en un ejemplar. Una nota o tachadura documenta actuaciones concretas.. La licencia de lectura también puede quedar registrada.</desc>
+  <rect width="690" height="438" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 28px; font-weight: 720 }
+    .note { font-size: 17px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 19px; font-weight: 560 }
+    .head { font-size: 22px; font-weight: 690 }
+  </style>
+  <text x="34" y="48" class="title">De la obra al libro intervenido</text>
+  <rect x="34" y="76" width="622" height="101" fill="#e7eee9"/>
+  <text x="51" y="105" class="head">Examen del texto</text>
+  <text x="51" y="131" class="item">Los lectores encargados de la revisión señalaban pasajes.</text>
+  <text x="51" y="155" class="note">Se podía consultar una edición o traducción concretas.</text>
+  <rect x="34" y="192" width="622" height="101" fill="#f1eee5"/>
+  <text x="51" y="221" class="head">Decisión y comunicación</text>
+  <text x="51" y="247" class="item">La autoridad podía ordenar prohibición o expurgo.</text>
+  <text x="51" y="271" class="note">Los índices difundían listas y reglas de aplicación.</text>
+  <rect x="34" y="308" width="622" height="101" fill="#e7eee9"/>
+  <text x="51" y="337" class="head">Huellas en un ejemplar</text>
+  <text x="51" y="363" class="item">Una nota o tachadura documenta actuaciones concretas.</text>
+  <text x="51" y="387" class="note">La licencia de lectura también puede quedar registrada.</text>
+</svg>

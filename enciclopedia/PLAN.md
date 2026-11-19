@@ -98,7 +98,7 @@ Estado editorial: completa, 11 de 11 artículos publicados.
 
 ## Fase E06 · Cristianismo · Cismas, herejías e Inquisición
 
-Estado editorial: en curso, 8 de 12 artículos publicados.
+Estado editorial: fase completada, 12 de 12 artículos publicados.
 
 - [x] [Herejías de la Antigüedad](es/religiones/cristianismo/cismas-herejias/herejias-de-la-antiguedad.md)
 - [x] [Iconoclasia y culto a las imágenes](es/religiones/cristianismo/cismas-herejias/iconoclasia-y-culto-a-las-imagenes.md)
@@ -112,11 +112,11 @@ Estado editorial: en curso, 8 de 12 artículos publicados.
 - [x] [Herejías medievales](es/religiones/cristianismo/cismas-herejias/herejias-medievales.md)
 - [x] [La Inquisición medieval](es/religiones/cristianismo/cismas-herejias/inquisicion-medieval.md)
 
-- [ ] La Inquisición española
-- [ ] La Inquisición romana
+- [x] [La Inquisición española](es/religiones/cristianismo/cismas-herejias/inquisicion-espanola.md)
+- [x] [La Inquisición romana](es/religiones/cristianismo/cismas-herejias/inquisicion-romana.md)
 
-- [ ] La caza de brujas
-- [ ] El antijudaísmo cristiano
+- [x] [La caza de brujas](es/religiones/cristianismo/cismas-herejias/caza-de-brujas.md)
+- [x] [El antijudaísmo cristiano](es/religiones/cristianismo/cismas-herejias/antijudaismo-cristiano.md)
 
 ## Fase E07 · Cristianismo · Cruzadas y guerras santas
 

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 554" role="img" aria-labelledby="title description">
+  <title id="title">Quién intervenía en una causa</title>
+  <desc id="description">La Suprema. Recibía consultas, informes y relaciones de causas.. Coordinaba tribunales de distrito y dictaba instrucciones.. Tribunales de distrito. Instruían procesos, oían a las partes y resolvían casos.. Intervenían inquisidores, fiscales, calificadores y notarios.. Comisarios y familiares. Colaboraban en pueblos y ciudades del distrito.. Sus cometidos y privilegios variaban según el lugar.. Autoridades civiles. Intervenían en diligencias y en el cumplimiento de penas.. Los conflictos de competencia podían generar recursos.</desc>
+  <rect width="690" height="554" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 28px; font-weight: 720 }
+    .note { font-size: 17px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 19px; font-weight: 560 }
+    .head { font-size: 22px; font-weight: 690 }
+  </style>
+  <text x="34" y="48" class="title">Quién intervenía en una causa</text>
+  <rect x="34" y="76" width="622" height="101" fill="#e7eee9"/>
+  <text x="51" y="105" class="head">La Suprema</text>
+  <text x="51" y="131" class="item">Recibía consultas, informes y relaciones de causas.</text>
+  <text x="51" y="155" class="note">Coordinaba tribunales de distrito y dictaba instrucciones.</text>
+  <rect x="34" y="192" width="622" height="101" fill="#f1eee5"/>
+  <text x="51" y="221" class="head">Tribunales de distrito</text>
+  <text x="51" y="247" class="item">Instruían procesos, oían a las partes y resolvían casos.</text>
+  <text x="51" y="271" class="note">Intervenían inquisidores, fiscales, calificadores y notarios.</text>
+  <rect x="34" y="308" width="622" height="101" fill="#e7eee9"/>
+  <text x="51" y="337" class="head">Comisarios y familiares</text>
+  <text x="51" y="363" class="item">Colaboraban en pueblos y ciudades del distrito.</text>
+  <text x="51" y="387" class="note">Sus cometidos y privilegios variaban según el lugar.</text>
+  <rect x="34" y="424" width="622" height="101" fill="#f1eee5"/>
+  <text x="51" y="453" class="head">Autoridades civiles</text>
+  <text x="51" y="479" class="item">Intervenían en diligencias y en el cumplimiento de penas.</text>
+  <text x="51" y="503" class="note">Los conflictos de competencia podían generar recursos.</text>
+</svg>

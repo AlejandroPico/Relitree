@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 438" role="img" aria-labelledby="title description">
+  <title id="title">Qué registra cada documento</title>
+  <desc id="description">Expediente de una causa. Permite seguir diligencias, acusaciones y defensa.. Puede quedar incompleto o repartido entre fondos.. Relación de causas. Resume lo actuado para informar al Consejo.. Permite comparar asuntos de un período determinado.. Relación de un auto de fe. Describe la ceremonia y recoge sentencias anunciadas.. Conviene comprobar por separado cómo se ejecutó cada pena.</desc>
+  <rect width="690" height="438" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 28px; font-weight: 720 }
+    .note { font-size: 17px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 19px; font-weight: 560 }
+    .head { font-size: 22px; font-weight: 690 }
+  </style>
+  <text x="34" y="48" class="title">Qué registra cada documento</text>
+  <rect x="34" y="76" width="622" height="101" fill="#e7eee9"/>
+  <text x="51" y="105" class="head">Expediente de una causa</text>
+  <text x="51" y="131" class="item">Permite seguir diligencias, acusaciones y defensa.</text>
+  <text x="51" y="155" class="note">Puede quedar incompleto o repartido entre fondos.</text>
+  <rect x="34" y="192" width="622" height="101" fill="#f1eee5"/>
+  <text x="51" y="221" class="head">Relación de causas</text>
+  <text x="51" y="247" class="item">Resume lo actuado para informar al Consejo.</text>
+  <text x="51" y="271" class="note">Permite comparar asuntos de un período determinado.</text>
+  <rect x="34" y="308" width="622" height="101" fill="#e7eee9"/>
+  <text x="51" y="337" class="head">Relación de un auto de fe</text>
+  <text x="51" y="363" class="item">Describe la ceremonia y recoge sentencias anunciadas.</text>
+  <text x="51" y="387" class="note">Conviene comprobar por separado cómo se ejecutó cada pena.</text>
+</svg>

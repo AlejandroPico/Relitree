@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 517" role="img" aria-labelledby="title description">
+  <title id="title">La Inquisición romana</title>
+  <desc id="description">1542. Pablo III instituye la comisión de cardenales. 1559. Índice romano bajo Pablo IV. 1571. Se instituye la Congregación del Índice. 1599. Ejecución de Domenico Scandella, Menocchio. 1600. Ejecución de Giordano Bruno. 1633. Condena de Galileo por el Santo Oficio. 1858. El inquisidor de Bolonia ordena retirar a Mortara. 1908. Reorganización del Santo Oficio. 1965–1966. Reforma de la congregación y cambio del Índice</desc>
+  <rect width="690" height="517" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 28px; font-weight: 720 }
+    .note { font-size: 17px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 19px; font-weight: 560 }
+    .head { font-size: 22px; font-weight: 690 }
+  </style>
+  <text x="34" y="48" class="title">La Inquisición romana</text>
+  <text x="34" y="77" class="note">Intervalos sin escala proporcional</text>
+  <path d="M147 112V472" stroke="#678c83" stroke-width="3"/>
+  <text x="126" y="119" class="date" text-anchor="end">1542</text>
+  <circle cx="147" cy="112" r="6" fill="#267868"/>
+  <text x="170" y="119" class="item">Pablo III instituye la comisión de cardenales</text>
+  <text x="126" y="164" class="date" text-anchor="end">1559</text>
+  <circle cx="147" cy="157" r="6" fill="#267868"/>
+  <text x="170" y="164" class="item">Índice romano bajo Pablo IV</text>
+  <text x="126" y="209" class="date" text-anchor="end">1571</text>
+  <circle cx="147" cy="202" r="6" fill="#267868"/>
+  <text x="170" y="209" class="item">Se instituye la Congregación del Índice</text>
+  <text x="126" y="254" class="date" text-anchor="end">1599</text>
+  <circle cx="147" cy="247" r="6" fill="#267868"/>
+  <text x="170" y="254" class="item">Ejecución de Domenico Scandella, Menocchio</text>
+  <text x="126" y="299" class="date" text-anchor="end">1600</text>
+  <circle cx="147" cy="292" r="6" fill="#267868"/>
+  <text x="170" y="299" class="item">Ejecución de Giordano Bruno</text>
+  <text x="126" y="344" class="date" text-anchor="end">1633</text>
+  <circle cx="147" cy="337" r="6" fill="#267868"/>
+  <text x="170" y="344" class="item">Condena de Galileo por el Santo Oficio</text>
+  <text x="126" y="389" class="date" text-anchor="end">1858</text>
+  <circle cx="147" cy="382" r="6" fill="#267868"/>
+  <text x="170" y="389" class="item">El inquisidor de Bolonia ordena retirar a Mortara</text>
+  <text x="126" y="434" class="date" text-anchor="end">1908</text>
+  <circle cx="147" cy="427" r="6" fill="#267868"/>
+  <text x="170" y="434" class="item">Reorganización del Santo Oficio</text>
+  <text x="126" y="479" class="date" text-anchor="end">1965–1966</text>
+  <circle cx="147" cy="472" r="6" fill="#267868"/>
+  <text x="170" y="479" class="item">Reforma de la congregación y cambio del Índice</text>
+</svg>

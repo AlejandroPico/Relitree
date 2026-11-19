@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 438" role="img" aria-labelledby="title description">
+  <title id="title">Tres hitos de la revisión cristiana</title>
+  <desc id="description">1947 · Seelisberg. Diez puntos para orientar la enseñanza cristiana.. Revisan cómo se cuenta la Pasión y el origen de Jesús.. 1948 · Ámsterdam. El Consejo Mundial de Iglesias reúne su primera asamblea.. Declara incompatible con la fe cristiana el antisemitismo.. 1965 · Vaticano II. Nostra aetate dedica su apartado cuarto al pueblo judío.. Rechaza imputar colectivamente la Pasión a los judíos.</desc>
+  <rect width="690" height="438" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 28px; font-weight: 720 }
+    .note { font-size: 17px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 19px; font-weight: 560 }
+    .head { font-size: 22px; font-weight: 690 }
+  </style>
+  <text x="34" y="48" class="title">Tres hitos de la revisión cristiana</text>
+  <rect x="34" y="76" width="622" height="101" fill="#e7eee9"/>
+  <text x="51" y="105" class="head">1947 · Seelisberg</text>
+  <text x="51" y="131" class="item">Diez puntos para orientar la enseñanza cristiana.</text>
+  <text x="51" y="155" class="note">Revisan cómo se cuenta la Pasión y el origen de Jesús.</text>
+  <rect x="34" y="192" width="622" height="101" fill="#f1eee5"/>
+  <text x="51" y="221" class="head">1948 · Ámsterdam</text>
+  <text x="51" y="247" class="item">El Consejo Mundial de Iglesias reúne su primera asamblea.</text>
+  <text x="51" y="271" class="note">Declara incompatible con la fe cristiana el antisemitismo.</text>
+  <rect x="34" y="308" width="622" height="101" fill="#e7eee9"/>
+  <text x="51" y="337" class="head">1965 · Vaticano II</text>
+  <text x="51" y="363" class="item">Nostra aetate dedica su apartado cuarto al pueblo judío.</text>
+  <text x="51" y="387" class="note">Rechaza imputar colectivamente la Pasión a los judíos.</text>
+</svg>

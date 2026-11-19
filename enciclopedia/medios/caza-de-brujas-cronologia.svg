@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 517" role="img" aria-labelledby="title description">
+  <title id="title">La caza de brujas</title>
+  <desc id="description">1428. Comienzan persecuciones en el Valais. Déc. 1480. Primeras ediciones del Malleus maleficarum. 1563. Ley escocesa sobre brujería. 1590. Procesos de North Berwick. 1609–1614. Labort, Logroño e instrucciones de la Suprema. Déc. 1620. Grandes series en Würzburg y Bamberg. 1631. Publicación de Cautio Criminalis, de Friedrich Spee. 1692–1693. Juicios y revisión de causas en Massachusetts. 1735–1736. Cambio de la legislación británica</desc>
+  <rect width="690" height="517" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 28px; font-weight: 720 }
+    .note { font-size: 17px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 19px; font-weight: 560 }
+    .head { font-size: 22px; font-weight: 690 }
+  </style>
+  <text x="34" y="48" class="title">La caza de brujas</text>
+  <text x="34" y="77" class="note">Intervalos sin escala proporcional</text>
+  <path d="M147 112V472" stroke="#678c83" stroke-width="3"/>
+  <text x="126" y="119" class="date" text-anchor="end">1428</text>
+  <circle cx="147" cy="112" r="6" fill="#267868"/>
+  <text x="170" y="119" class="item">Comienzan persecuciones en el Valais</text>
+  <text x="126" y="164" class="date" text-anchor="end">Déc. 1480</text>
+  <circle cx="147" cy="157" r="6" fill="#267868"/>
+  <text x="170" y="164" class="item">Primeras ediciones del Malleus maleficarum</text>
+  <text x="126" y="209" class="date" text-anchor="end">1563</text>
+  <circle cx="147" cy="202" r="6" fill="#267868"/>
+  <text x="170" y="209" class="item">Ley escocesa sobre brujería</text>
+  <text x="126" y="254" class="date" text-anchor="end">1590</text>
+  <circle cx="147" cy="247" r="6" fill="#267868"/>
+  <text x="170" y="254" class="item">Procesos de North Berwick</text>
+  <text x="126" y="299" class="date" text-anchor="end">1609–1614</text>
+  <circle cx="147" cy="292" r="6" fill="#267868"/>
+  <text x="170" y="299" class="item">Labort, Logroño e instrucciones de la Suprema</text>
+  <text x="126" y="344" class="date" text-anchor="end">Déc. 1620</text>
+  <circle cx="147" cy="337" r="6" fill="#267868"/>
+  <text x="170" y="344" class="item">Grandes series en Würzburg y Bamberg</text>
+  <text x="126" y="389" class="date" text-anchor="end">1631</text>
+  <circle cx="147" cy="382" r="6" fill="#267868"/>
+  <text x="170" y="389" class="item">Publicación de Cautio Criminalis, de Friedrich Spee</text>
+  <text x="126" y="434" class="date" text-anchor="end">1692–1693</text>
+  <circle cx="147" cy="427" r="6" fill="#267868"/>
+  <text x="170" y="434" class="item">Juicios y revisión de causas en Massachusetts</text>
+  <text x="126" y="479" class="date" text-anchor="end">1735–1736</text>
+  <circle cx="147" cy="472" r="6" fill="#267868"/>
+  <text x="170" y="479" class="item">Cambio de la legislación británica</text>
+</svg>

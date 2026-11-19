@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 517" role="img" aria-labelledby="title description">
+  <title id="title">La Inquisición española</title>
+  <desc id="description">1478. Sixto IV autoriza el nombramiento de inquisidores. 1480–1481. Primeros nombramientos y auto de Sevilla. 1483. Torquemada se convierte en inquisidor general. 1492. Decreto de expulsión de los judíos. 1559. Autos de Valladolid y Sevilla · índice de Valdés. 1570–1571. Se establecen los tribunales de Lima y México. 1610. Tribunal de Cartagena de Indias · auto de Logroño. 1813. Decreto de supresión de las Cortes de Cádiz. 1834. Abolición definitiva</desc>
+  <rect width="690" height="517" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 28px; font-weight: 720 }
+    .note { font-size: 17px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 19px; font-weight: 560 }
+    .head { font-size: 22px; font-weight: 690 }
+  </style>
+  <text x="34" y="48" class="title">La Inquisición española</text>
+  <text x="34" y="77" class="note">Intervalos sin escala proporcional</text>
+  <path d="M147 112V472" stroke="#678c83" stroke-width="3"/>
+  <text x="126" y="119" class="date" text-anchor="end">1478</text>
+  <circle cx="147" cy="112" r="6" fill="#267868"/>
+  <text x="170" y="119" class="item">Sixto IV autoriza el nombramiento de inquisidores</text>
+  <text x="126" y="164" class="date" text-anchor="end">1480–1481</text>
+  <circle cx="147" cy="157" r="6" fill="#267868"/>
+  <text x="170" y="164" class="item">Primeros nombramientos y auto de Sevilla</text>
+  <text x="126" y="209" class="date" text-anchor="end">1483</text>
+  <circle cx="147" cy="202" r="6" fill="#267868"/>
+  <text x="170" y="209" class="item">Torquemada se convierte en inquisidor general</text>
+  <text x="126" y="254" class="date" text-anchor="end">1492</text>
+  <circle cx="147" cy="247" r="6" fill="#267868"/>
+  <text x="170" y="254" class="item">Decreto de expulsión de los judíos</text>
+  <text x="126" y="299" class="date" text-anchor="end">1559</text>
+  <circle cx="147" cy="292" r="6" fill="#267868"/>
+  <text x="170" y="299" class="item">Autos de Valladolid y Sevilla · índice de Valdés</text>
+  <text x="126" y="344" class="date" text-anchor="end">1570–1571</text>
+  <circle cx="147" cy="337" r="6" fill="#267868"/>
+  <text x="170" y="344" class="item">Se establecen los tribunales de Lima y México</text>
+  <text x="126" y="389" class="date" text-anchor="end">1610</text>
+  <circle cx="147" cy="382" r="6" fill="#267868"/>
+  <text x="170" y="389" class="item">Tribunal de Cartagena de Indias · auto de Logroño</text>
+  <text x="126" y="434" class="date" text-anchor="end">1813</text>
+  <circle cx="147" cy="427" r="6" fill="#267868"/>
+  <text x="170" y="434" class="item">Decreto de supresión de las Cortes de Cádiz</text>
+  <text x="126" y="479" class="date" text-anchor="end">1834</text>
+  <circle cx="147" cy="472" r="6" fill="#267868"/>
+  <text x="170" y="479" class="item">Abolición definitiva</text>
+</svg>

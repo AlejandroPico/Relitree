@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 517" role="img" aria-labelledby="title description">
+  <title id="title">El antijudaísmo cristiano</title>
+  <desc id="description">1096. Ataques a comunidades judías del Rin. 1215. Medidas de Letrán IV sobre judíos y musulmanes. 1290. Expulsión de los judíos de Inglaterra. 1391. Violencia y conversiones forzosas en la península ibérica. 1492. Decreto de expulsión de los Reyes Católicos. 1516. Segregación residencial en Venecia. 1555. Segregación ordenada por Pablo IV en Roma. 1947–1948. Seelisberg y asamblea ecuménica de Ámsterdam. 1965. Declaración conciliar Nostra aetate</desc>
+  <rect width="690" height="517" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 28px; font-weight: 720 }
+    .note { font-size: 17px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 19px; font-weight: 560 }
+    .head { font-size: 22px; font-weight: 690 }
+  </style>
+  <text x="34" y="48" class="title">El antijudaísmo cristiano</text>
+  <text x="34" y="77" class="note">Intervalos sin escala proporcional</text>
+  <path d="M147 112V472" stroke="#678c83" stroke-width="3"/>
+  <text x="126" y="119" class="date" text-anchor="end">1096</text>
+  <circle cx="147" cy="112" r="6" fill="#267868"/>
+  <text x="170" y="119" class="item">Ataques a comunidades judías del Rin</text>
+  <text x="126" y="164" class="date" text-anchor="end">1215</text>
+  <circle cx="147" cy="157" r="6" fill="#267868"/>
+  <text x="170" y="164" class="item">Medidas de Letrán IV sobre judíos y musulmanes</text>
+  <text x="126" y="209" class="date" text-anchor="end">1290</text>
+  <circle cx="147" cy="202" r="6" fill="#267868"/>
+  <text x="170" y="209" class="item">Expulsión de los judíos de Inglaterra</text>
+  <text x="126" y="254" class="date" text-anchor="end">1391</text>
+  <circle cx="147" cy="247" r="6" fill="#267868"/>
+  <text x="170" y="254" class="item">Violencia y conversiones forzosas en la península ibérica</text>
+  <text x="126" y="299" class="date" text-anchor="end">1492</text>
+  <circle cx="147" cy="292" r="6" fill="#267868"/>
+  <text x="170" y="299" class="item">Decreto de expulsión de los Reyes Católicos</text>
+  <text x="126" y="344" class="date" text-anchor="end">1516</text>
+  <circle cx="147" cy="337" r="6" fill="#267868"/>
+  <text x="170" y="344" class="item">Segregación residencial en Venecia</text>
+  <text x="126" y="389" class="date" text-anchor="end">1555</text>
+  <circle cx="147" cy="382" r="6" fill="#267868"/>
+  <text x="170" y="389" class="item">Segregación ordenada por Pablo IV en Roma</text>
+  <text x="126" y="434" class="date" text-anchor="end">1947–1948</text>
+  <circle cx="147" cy="427" r="6" fill="#267868"/>
+  <text x="170" y="434" class="item">Seelisberg y asamblea ecuménica de Ámsterdam</text>
+  <text x="126" y="479" class="date" text-anchor="end">1965</text>
+  <circle cx="147" cy="472" r="6" fill="#267868"/>
+  <text x="170" y="479" class="item">Declaración conciliar Nostra aetate</text>
+</svg>

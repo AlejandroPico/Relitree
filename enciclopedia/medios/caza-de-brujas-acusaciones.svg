@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 335" role="img" aria-labelledby="title description">
+  <title id="title">De una denuncia a dos desenlaces</title>
+  <desc id="description">Una denuncia llega al tribunal. Repetir relatos y buscar supuestos cómplices puede ampliar las detenciones. Comparar testimonios, verificar circunstancias y revisar las diligencias puede detener la cadena.</desc>
+  <rect width="690" height="335" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 28px; font-weight: 720 }
+    .note { font-size: 17px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 19px; font-weight: 560 }
+    .head { font-size: 22px; font-weight: 690 }
+  </style>
+  <text x="34" y="48" class="title">De una denuncia a dos desenlaces</text>
+  <rect x="182" y="76" width="326" height="67" fill="#e7eee9"/>
+  <text x="345" y="116" class="head" text-anchor="middle">El tribunal recibe una denuncia</text>
+  <path d="M345 143V169M181 194V169H509V194" fill="none" stroke="#678c83" stroke-width="3"/>
+  <rect x="34" y="194" width="294" height="108" fill="#f0e8d9"/>
+  <rect x="362" y="194" width="294" height="108" fill="#e7eee9"/>
+  <text x="50" y="223" class="head">Ampliación de la causa</text>
+  <text x="50" y="253" class="note">Se piden nombres y aparecen</text>
+  <text x="50" y="277" class="note">nuevas acusaciones.</text>
+  <text x="378" y="223" class="head">Examen de las pruebas</text>
+  <text x="378" y="253" class="note">Se verifican las circunstancias</text>
+  <text x="378" y="277" class="note">y la causa puede archivarse.</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" viewBox="0 0 690 438" role="img" aria-labelledby="title description">
+  <title id="title">Fuentes para reconstruir un episodio</title>
+  <desc id="description">Norma o decreto. Indica quién dictó la medida y a quién se dirigía.. Busca órdenes locales, fechas y pruebas de cumplimiento.. Crónica o testimonio. Cuenta cómo interpretó el episodio quien escribió.. Identifica su público y compara versiones independientes.. Documentos de una comunidad. Relatan gestiones, desplazamientos y vida cotidiana.. Pueden conservarse en el territorio de destino.</desc>
+  <rect width="690" height="438" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #202a2a }
+    .title { font-size: 28px; font-weight: 720 }
+    .note { font-size: 17px; fill: #465553 }
+    .date { font-size: 20px; fill: #175d54; font-weight: 700 }
+    .item { font-size: 19px; font-weight: 560 }
+    .head { font-size: 22px; font-weight: 690 }
+  </style>
+  <text x="34" y="48" class="title">Fuentes para reconstruir un episodio</text>
+  <rect x="34" y="76" width="622" height="101" fill="#e7eee9"/>
+  <text x="51" y="105" class="head">Norma o decreto</text>
+  <text x="51" y="131" class="item">Indica quién dictó la medida y a quién se dirigía.</text>
+  <text x="51" y="155" class="note">Busca órdenes locales, fechas y pruebas de cumplimiento.</text>
+  <rect x="34" y="192" width="622" height="101" fill="#f1eee5"/>
+  <text x="51" y="221" class="head">Crónica o testimonio</text>
+  <text x="51" y="247" class="item">Cuenta cómo interpretó el episodio quien escribió.</text>
+  <text x="51" y="271" class="note">Identifica su público y compara versiones independientes.</text>
+  <rect x="34" y="308" width="622" height="101" fill="#e7eee9"/>
+  <text x="51" y="337" class="head">Documentos de una comunidad</text>
+  <text x="51" y="363" class="item">Relatan gestiones, desplazamientos y vida cotidiana.</text>
+  <text x="51" y="387" class="note">Pueden conservarse en el territorio de destino.</text>
+</svg>
