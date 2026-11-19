@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Imagen, persona y adoración en Nicea II</title>
+  <desc id="descripcion">El fiel hace un gesto ante una imagen. La imagen remite a la persona representada y el honor se dirige a ella. La adoración en sentido estricto se reserva a Dios.</desc>
+  <rect width="760" height="360" fill="#111c28"/>
+  <g font-family="system-ui, sans-serif" fill="#eaf0f7">
+    <text x="36" y="53" font-size="29" font-weight="700">El sentido del honor a las imágenes</text>
+    <g fill="#172a3a" stroke="#6d879f" stroke-width="2">
+      <rect x="36" y="136" width="174" height="94" rx="10"/>
+      <rect x="293" y="136" width="174" height="94" rx="10"/>
+      <rect x="550" y="136" width="174" height="94" rx="10"/>
+    </g>
+    <g text-anchor="middle">
+      <text x="123" y="174" fill="#acd6f6" font-size="21" font-weight="700">Fiel</text>
+      <text x="123" y="202" font-size="16">Hace un gesto</text>
+      <text x="380" y="174" fill="#acd6f6" font-size="21" font-weight="700">Imagen</text>
+      <text x="380" y="202" font-size="16">Figura visible</text>
+      <text x="637" y="174" fill="#ffd490" font-size="21" font-weight="700">Prototipo</text>
+      <text x="637" y="202" font-size="16">Persona representada</text>
+      <text x="251" y="166" font-size="14" fill="#abc1d5">ante</text>
+      <text x="509" y="166" font-size="14" fill="#abc1d5">remite a</text>
+      <text x="380" y="273" font-size="19">El honor se dirige a la persona representada.</text>
+      <text x="380" y="318" font-size="19" fill="#ffd490">La adoración en sentido estricto se reserva a Dios.</text>
+    </g>
+    <path d="M 222 187 H 278 m -9 -7 9 7 -9 7 M 479 187 H 535 m -9 -7 9 7 -9 7" fill="none" stroke="#c0d1e0" stroke-width="2"/>
+  </g>
+</svg>

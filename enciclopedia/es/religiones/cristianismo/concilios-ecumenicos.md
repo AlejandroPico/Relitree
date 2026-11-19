@@ -1,6 +1,6 @@
 # Los concilios ecuménicos
 
-> **Bloque en desarrollo · E04 y E05.** El repertorio se amplía con estudios de cada concilio. Ya están disponibles [[cristianismo/concilios/nicea-i|Nicea I (325)]], [[cristianismo/concilios/constantinopla-i|Constantinopla I (381)]], [[cristianismo/concilios/efeso|Éfeso (431)]], [[cristianismo/concilios/calcedonia|Calcedonia (451)]] y [[cristianismo/concilios/constantinopla-ii|Constantinopla II (553)]].
+> **Bloque en desarrollo · E04 y E05.** El repertorio se amplía con estudios de cada concilio. Ya están disponibles [[cristianismo/concilios/nicea-i|Nicea I (325)]], [[cristianismo/concilios/constantinopla-i|Constantinopla I (381)]], [[cristianismo/concilios/efeso|Éfeso (431)]], [[cristianismo/concilios/calcedonia|Calcedonia (451)]], [[cristianismo/concilios/constantinopla-ii|Constantinopla II (553)]], [[cristianismo/concilios/constantinopla-iii|Constantinopla III (680–681)]] y [[cristianismo/concilios/nicea-ii|Nicea II (787)]].
 
 Un concilio ecuménico es una asamblea de obispos de toda la Iglesia convocada para resolver cuestiones de doctrina y disciplina. La [[catolica|Iglesia católica]] reconoce veintiuno. La [[ortodoxa|Iglesia ortodoxa]] acepta solo los siete primeros; las [[miafisismo|Iglesias ortodoxas orientales]], los tres primeros; y la [[iglesia-oriente|Iglesia del Oriente]], los dos primeros. Las listas reflejan tradiciones de recepción que se han configurado a lo largo de siglos. Las rupturas vinculadas a la recepción de un concilio se estudian en sus artículos y en las fichas históricas correspondientes.
 
@@ -13,8 +13,8 @@ Un concilio ecuménico es una asamblea de obispos de toda la Iglesia convocada p
 | 3 | [[cristianismo/concilios/efeso|Éfeso]] | 431 | Depone a Nestorio y reconoce la concordancia de la segunda carta de Cirilo con Nicea. El título de Madre de Dios expresa la unidad de Cristo. |
 | 4 | [[cristianismo/concilios/calcedonia|Calcedonia]] | 451 | Define a Cristo como una persona en dos naturalezas, divina y humana. Su recepción dividió a las iglesias orientales en un proceso que se prolongó durante décadas. |
 | 5 | [[cristianismo/concilios/constantinopla-ii|Constantinopla II]] | 553 | Condena los Tres Capítulos y reafirma la lectura de Calcedonia centrada en la unidad personal de Cristo. |
-| 6 | Constantinopla III | 680–681 | Cristo tiene dos voluntades; condena el monotelismo. |
-| 7 | Nicea II | 787 | Restablece la veneración de las imágenes frente a la iconoclasia. |
+| 6 | [[cristianismo/concilios/constantinopla-iii|Constantinopla III]] | 680–681 | Confiesa dos voluntades naturales y dos operaciones naturales en el único Cristo. |
+| 7 | [[cristianismo/concilios/nicea-ii|Nicea II]] | 787 | Restablece la veneración de las imágenes y distingue el honor a lo representado de la adoración reservada a Dios. |
 
 ## Concilios medievales de Occidente
 

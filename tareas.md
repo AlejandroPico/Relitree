@@ -4,6 +4,8 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E04 · [«Concilio de Constantinopla III (680–681)»](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-iii.md), 5.097 palabras de cuerpo, cronología, dos tablas y 12 fuentes. Publicado en la versión 1.7.8.
+- [x] E04 · [«Concilio de Nicea II (787)»](enciclopedia/es/religiones/cristianismo/concilios/nicea-ii.md), 5.129 palabras de cuerpo, cronología, esquema, dos tablas y 15 fuentes. Publicado en la versión 1.7.8.
 - [x] E04 · [«Concilio de Constantinopla II (553)»](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-ii.md), 5.209 palabras de cuerpo, cronología, dos tablas y 16 fuentes. Versión 1.7.7 con los concilios ordenados cronológicamente y el año al principio del título.
 - [x] E04 · [«Concilio de Calcedonia (451)»](enciclopedia/es/religiones/cristianismo/concilios/calcedonia.md), 5.181 palabras de cuerpo, cronología, esquema de la definición, tabla documental y 17 fuentes. Publicado en la versión 1.7.6.
 - [x] Enciclopedia 1.7.5 · El título de la ficha del mapa abre el artículo y el índice abre y desplaza su rama hasta mostrar la entrada activa.
@@ -34,7 +36,7 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 - E01 · Temas generales. Textos ampliados: «Cómo leer el árbol» y «Tipos de religión». Quedan por desarrollar y revisar los otros ocho temas, con sus fuentes y recursos visuales.
 - E02 · Cristianismo: fundamentos. Cinco artículos completos. Quedan por desarrollar y revisar los otros siete.
 - E03 · Apóstoles y primeros siglos. Las doce entradas son borradores pendientes de desarrollo completo.
-- E04 · Cristianismo, concilios ecuménicos (I). En curso, 5 de 11 completos. Disponibles [Nicea I (325)](enciclopedia/es/religiones/cristianismo/concilios/nicea-i.md), [Constantinopla I (381)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-i.md), [Éfeso (431)](enciclopedia/es/religiones/cristianismo/concilios/efeso.md), [Calcedonia (451)](enciclopedia/es/religiones/cristianismo/concilios/calcedonia.md) y [Constantinopla II (553)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-ii.md). El siguiente artículo es el Concilio de Constantinopla III (680–681).
+- E04 · Cristianismo, concilios ecuménicos (I). En curso, 7 de 11 completos. Disponibles [Nicea I (325)](enciclopedia/es/religiones/cristianismo/concilios/nicea-i.md), [Constantinopla I (381)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-i.md), [Éfeso (431)](enciclopedia/es/religiones/cristianismo/concilios/efeso.md), [Calcedonia (451)](enciclopedia/es/religiones/cristianismo/concilios/calcedonia.md), [Constantinopla II (553)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-ii.md), [Constantinopla III (680–681)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-iii.md) y [Nicea II (787)](enciclopedia/es/religiones/cristianismo/concilios/nicea-ii.md). El siguiente artículo es el Concilio de Constantinopla IV (869–870).
 - E05–E22 · Cristianismo (segunda parte de los 21 concilios, cismas e Inquisición, cruzadas, Reforma, expansión, época contemporánea, papas, santos y 105 tradiciones)
 - E23–E26 · Judaísmo
 - E27–E33 · Islam
