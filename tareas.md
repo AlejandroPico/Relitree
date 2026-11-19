@@ -4,7 +4,7 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
-- [x] Enciclopedia 1.7.3 · Barras de desplazamiento ocultas en el artículo y el índice. Desplazamiento nativo con rueda, teclado y gestos táctiles.
+- [x] Enciclopedia 1.7.4 · Barras de desplazamiento ocultas en el artículo y el índice. Desplazamiento nativo con rueda, teclado y gestos táctiles.
 - [x] E04 · [«Concilio de Constantinopla I (381)»](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-i.md), 5.219 palabras de cuerpo, cronología, tabla documental y 18 fuentes.
 - [x] Mapa 1.7.2 · Cronología de arcos con zoom ampliado, recorrido resaltado y bordes seleccionables. Cronologías paralelas ajustadas al alto de pantalla.
 - [x] Mapa 1.7.1 · Regla fija y fechas adaptativas en las vistas temporales, resaltado de ascendencia y descendencia en el grafo, y cartografía Natural Earth 1:50m con marcadores de tamaño acotado.

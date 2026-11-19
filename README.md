@@ -1,6 +1,6 @@
 # Relitree
 
-**Versión 1.7.3**
+**Versión 1.7.4**
 
 El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto.
 
