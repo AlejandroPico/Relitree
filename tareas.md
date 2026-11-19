@@ -4,6 +4,8 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] Enciclopedia 1.7.3 · Barras de desplazamiento ocultas en el artículo y el índice. Desplazamiento nativo con rueda, teclado y gestos táctiles.
+- [x] E04 · [«Concilio de Constantinopla I (381)»](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-i.md), 5.219 palabras de cuerpo, cronología, tabla documental y 18 fuentes.
 - [x] Mapa 1.7.2 · Cronología de arcos con zoom ampliado, recorrido resaltado y bordes seleccionables. Cronologías paralelas ajustadas al alto de pantalla.
 - [x] Mapa 1.7.1 · Regla fija y fechas adaptativas en las vistas temporales, resaltado de ascendencia y descendencia en el grafo, y cartografía Natural Earth 1:50m con marcadores de tamaño acotado.
 - [x] Mapa 1.7.0 · Controles de las vistas en la barra superior, lienzos a pantalla completa con desplazamiento y zoom, y profundidad del grafo calculada a partir del catálogo.
@@ -28,7 +30,7 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 - E01 · Temas generales. Textos ampliados: «Cómo leer el árbol» y «Tipos de religión». Quedan por desarrollar y revisar los otros ocho temas, con sus fuentes y recursos visuales.
 - E02 · Cristianismo: fundamentos. Cinco artículos completos. Quedan por desarrollar y revisar los otros siete.
 - E03 · Apóstoles y primeros siglos. Las doce entradas son borradores pendientes de desarrollo completo.
-- E04 · Cristianismo, concilios ecuménicos (I). En curso, 1 de 11 completos. [Nicea I (325)](enciclopedia/es/religiones/cristianismo/concilios/nicea-i.md) disponible. Pendientes Constantinopla I y los otros nueve del episodio.
+- E04 · Cristianismo, concilios ecuménicos (I). En curso, 2 de 11 completos. Disponibles [Nicea I (325)](enciclopedia/es/religiones/cristianismo/concilios/nicea-i.md) y [Constantinopla I (381)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-i.md). El siguiente artículo es el Concilio de Éfeso (431).
 - E05–E22 · Cristianismo (segunda parte de los 21 concilios, cismas e Inquisición, cruzadas, Reforma, expansión, época contemporánea, papas, santos y 105 tradiciones)
 - E23–E26 · Judaísmo
 - E27–E33 · Islam

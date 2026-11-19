@@ -111,7 +111,7 @@ interface EntradaIndice {
           </ul>
         }
       </ng-template>
-      <article #cuerpo (click)="clic($event)">
+      <article #cuerpo tabindex="0" (click)="clic($event)">
         <header>
           <div class="enc-cabecera-indice">
           <button type="button" class="indice-movil" aria-controls="indice-enciclopedia"

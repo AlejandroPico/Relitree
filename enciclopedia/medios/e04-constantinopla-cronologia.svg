@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 564" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">De Nicea a Calcedonia, 325–451</title>
+  <desc id="descripcion">Seis hitos ordenados cronológicamente y espaciados de forma esquemática, con el concilio de Constantinopla de 381 destacado.</desc>
+  <rect width="720" height="564" fill="#111c28"/>
+  <g font-family="system-ui, sans-serif" fill="#eaf0f7">
+    <text x="36" y="51" font-size="31" font-weight="700">De Nicea a Calcedonia</text>
+    <text x="36" y="80" font-size="17" fill="#abc1d5">325–451 · Cronología esquemática</text>
+    <path d="M 55,125 V 515" stroke="#6d879f" stroke-width="2"/>
+    <g>
+      <circle cx="55" cy="125" r="5" fill="#acd6f6"/>
+      <text x="80" y="131" font-size="21" font-weight="700" fill="#acd6f6">325</text>
+      <text x="204" y="131" font-size="22" font-weight="700">Nicea I</text>
+      <text x="204" y="159" font-size="16" fill="#c0d1e0">El Hijo es consustancial al Padre.</text>
+    </g>
+    <g>
+      <circle cx="55" cy="203" r="5" fill="#acd6f6"/>
+      <text x="80" y="209" font-size="21" font-weight="700" fill="#acd6f6">359–360</text>
+      <text x="204" y="209" font-size="22" font-weight="700">Rímini, Seleucia y Constantinopla</text>
+      <text x="204" y="237" font-size="16" fill="#c0d1e0">Avanzan las fórmulas que eluden el término «esencia».</text>
+    </g>
+    <g>
+      <circle cx="55" cy="281" r="5" fill="#acd6f6"/>
+      <text x="80" y="287" font-size="21" font-weight="700" fill="#acd6f6">380</text>
+      <text x="204" y="287" font-size="22" font-weight="700">Edicto de Tesalónica</text>
+      <text x="204" y="315" font-size="16" fill="#c0d1e0">Teodosio define la confesión respaldada por el Imperio.</text>
+    </g>
+    <g>
+      <circle cx="55" cy="359" r="8" fill="#ffd490"/>
+      <text x="80" y="365" font-size="21" font-weight="700" fill="#ffd490">381</text>
+      <text x="204" y="365" font-size="22" font-weight="700">Constantinopla I</text>
+      <text x="204" y="393" font-size="16" fill="#c0d1e0">El concilio reafirma Nicea y fija normas episcopales.</text>
+    </g>
+    <g>
+      <circle cx="55" cy="437" r="5" fill="#acd6f6"/>
+      <text x="80" y="443" font-size="21" font-weight="700" fill="#acd6f6">382</text>
+      <text x="204" y="443" font-size="22" font-weight="700">Carta del sínodo oriental</text>
+      <text x="204" y="471" font-size="16" fill="#c0d1e0">Los obispos explican su fe y sus nombramientos a Occidente.</text>
+    </g>
+    <g>
+      <circle cx="55" cy="515" r="5" fill="#acd6f6"/>
+      <text x="80" y="521" font-size="21" font-weight="700" fill="#acd6f6">451</text>
+      <text x="204" y="521" font-size="22" font-weight="700">Calcedonia</text>
+      <text x="204" y="549" font-size="16" fill="#c0d1e0">Las actas atribuyen un credo a los obispos de 381.</text>
+    </g>
+  </g>
+</svg>

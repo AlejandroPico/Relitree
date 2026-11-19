@@ -126,7 +126,8 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .enciclopedia .rama-indice > summary::before { content: '▸'; flex: none; }
 .enciclopedia .rama-indice[open] > summary::before { content: '▾'; }
 .enciclopedia .indice-movil { display: none; }
-.enciclopedia .indice { scrollbar-width: thin; }
+.enciclopedia :is(.indice, article) { scrollbar-width: none; }
+.enciclopedia :is(.indice, article)::-webkit-scrollbar { display: none; }
 .enciclopedia .indice a { display: block; padding: 4px 9px; border-radius: 7px; font-size: 13.5px; color: var(--tenue); }
 .enciclopedia .indice a:hover { color: var(--texto); }
 .enciclopedia .indice a.activo { color: var(--texto); background: color-mix(in srgb, var(--texto) 8%, transparent); }

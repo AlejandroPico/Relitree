@@ -16,7 +16,7 @@ fuentes:
 
 # Concilio de Nicea I (325)
 
-> **Nota de desarrollo.** Este artículo estudia la reunión de 325 y su recepción inmediata. La fórmula litúrgica vinculada a Constantinopla y los debates posteriores sobre el Espíritu se desarrollan en **E04, Constantinopla I**. Las primeras recepciones romanas y medievales de la lista de concilios pertenecen a los bloques sobre los concilios ecuménicos de E04 y E05.
+> **Nota de desarrollo.** Este artículo estudia la reunión de 325 y su recepción inmediata. La fórmula litúrgica vinculada a Constantinopla y los debates posteriores sobre el Espíritu se desarrollan en [[cristianismo/concilios/constantinopla-i|Concilio de Constantinopla I (381)]]. Las primeras recepciones romanas y medievales de la lista de concilios pertenecen a los bloques sobre los concilios ecuménicos de E04 y E05.
 
 Nicea reunió en 325 a obispos del Imperio romano y de algunos territorios vecinos. La convocatoria de Constantino dio a conflictos eclesiásticos previos un marco de deliberación que aspiraba a abarcar las iglesias de todo el Imperio. El documento más conocido de la reunión es un credo que afirma la plena divinidad del Hijo mediante el término griego *homoousios*, «consustancial». El concilio tomó también decisiones sobre el calendario pascual, la situación de comunidades divididas y la disciplina ministerial. Su importancia posterior se entiende a partir de la recepción de esas decisiones, especialmente de los desacuerdos que continuaron durante el siglo IV. [1–4]
 
