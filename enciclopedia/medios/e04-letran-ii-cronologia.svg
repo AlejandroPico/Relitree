@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Del cisma a Letrán II</title>
+  <desc id="descripcion">Secuencia del cisma de 1130 y la reconciliación. 1130, Doble elección de Inocencio II y Anacleto II. 1133, Coronación imperial de Lotario en Letrán. 1135, Inocencio II preside el concilio de Pisa. 1138, Muere Anacleto II y renuncia su sucesor. Abr. 1139, Letrán II promulga sus cánones. Jul. 1139, Inocencio II reconoce a Roger II como rey.</desc>
+  <rect width="760" height="460" fill="#f3eee3"/>
+  <path d="M0 0H760V68H0Z" fill="#23353a"/>
+  <text x="28" y="44" fill="#fff8e9" font-family="Georgia,serif" font-size="30">Del cisma a Letrán II</text>
+  <path d="M151 110V410" fill="none" stroke="#927044" stroke-width="3"/>
+  <g font-family="system-ui,sans-serif">
+    <circle cx="151" cy="110" r="6" fill="#5d4428"/>
+    <text x="131" y="116" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1130</text>
+    <text x="175" y="116" font-size="22" fill="#23353a">Doble elección de Inocencio II y Anacleto II</text>
+    <circle cx="151" cy="170" r="6" fill="#5d4428"/>
+    <text x="131" y="176" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1133</text>
+    <text x="175" y="176" font-size="22" fill="#23353a">Coronación imperial de Lotario en Letrán</text>
+    <circle cx="151" cy="230" r="6" fill="#5d4428"/>
+    <text x="131" y="236" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1135</text>
+    <text x="175" y="236" font-size="22" fill="#23353a">Inocencio II preside el concilio de Pisa</text>
+    <circle cx="151" cy="290" r="6" fill="#5d4428"/>
+    <text x="131" y="296" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1138</text>
+    <text x="175" y="296" font-size="22" fill="#23353a">Muere Anacleto II y renuncia su sucesor</text>
+    <circle cx="151" cy="350" r="6" fill="#5d4428"/>
+    <text x="131" y="356" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">Abr. 1139</text>
+    <text x="175" y="356" font-size="22" fill="#23353a">Letrán II promulga sus cánones</text>
+    <circle cx="151" cy="410" r="6" fill="#5d4428"/>
+    <text x="131" y="416" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">Jul. 1139</text>
+    <text x="175" y="416" font-size="22" fill="#23353a">Inocencio II reconoce a Roger II como rey</text>
+  </g>
+</svg>

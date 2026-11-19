@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Del cisma a Letrán III</title>
+  <desc id="descripcion">Secuencia desde la elección enfrentada hasta el concilio. 1159, Elecciones rivales de Alejandro III y Víctor IV. 1160, Federico I reúne el concilio de Pavía. 1176, Derrota imperial en Legnano. 1177, Paz de Venecia y reconocimiento de Alejandro. 1178, Regreso a Roma y sumisión de Calixto III. Mar. 1179, Letrán III aprueba la regla de los dos tercios.</desc>
+  <rect width="760" height="460" fill="#f3eee3"/>
+  <path d="M0 0H760V68H0Z" fill="#23353a"/>
+  <text x="28" y="44" fill="#fff8e9" font-family="Georgia,serif" font-size="30">Del cisma a Letrán III</text>
+  <path d="M151 110V410" fill="none" stroke="#927044" stroke-width="3"/>
+  <g font-family="system-ui,sans-serif">
+    <circle cx="151" cy="110" r="6" fill="#5d4428"/>
+    <text x="131" y="116" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1159</text>
+    <text x="175" y="116" font-size="22" fill="#23353a">Elecciones rivales de Alejandro III y Víctor IV</text>
+    <circle cx="151" cy="170" r="6" fill="#5d4428"/>
+    <text x="131" y="176" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1160</text>
+    <text x="175" y="176" font-size="22" fill="#23353a">Federico I reúne el concilio de Pavía</text>
+    <circle cx="151" cy="230" r="6" fill="#5d4428"/>
+    <text x="131" y="236" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1176</text>
+    <text x="175" y="236" font-size="22" fill="#23353a">Derrota imperial en Legnano</text>
+    <circle cx="151" cy="290" r="6" fill="#5d4428"/>
+    <text x="131" y="296" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1177</text>
+    <text x="175" y="296" font-size="22" fill="#23353a">Paz de Venecia y reconocimiento de Alejandro</text>
+    <circle cx="151" cy="350" r="6" fill="#5d4428"/>
+    <text x="131" y="356" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1178</text>
+    <text x="175" y="356" font-size="22" fill="#23353a">Regreso a Roma y sumisión de Calixto III</text>
+    <circle cx="151" cy="410" r="6" fill="#5d4428"/>
+    <text x="131" y="416" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">Mar. 1179</text>
+    <text x="175" y="416" font-size="22" fill="#23353a">Letrán III aprueba la regla de los dos tercios</text>
+  </g>
+</svg>
