@@ -1,6 +1,6 @@
 # Los concilios ecuménicos
 
-> **Bloque en desarrollo · E04 y E05.** El repertorio se amplía con estudios de cada concilio. Ya están disponibles [[cristianismo/concilios/nicea-i|Nicea I (325)]], [[cristianismo/concilios/constantinopla-i|Constantinopla I (381)]], [[cristianismo/concilios/efeso|Éfeso (431)]], [[cristianismo/concilios/calcedonia|Calcedonia (451)]], [[cristianismo/concilios/constantinopla-ii|Constantinopla II (553)]], [[cristianismo/concilios/constantinopla-iii|Constantinopla III (680–681)]] y [[cristianismo/concilios/nicea-ii|Nicea II (787)]].
+> **Bloque en desarrollo · E04 y E05.** El repertorio se amplía con estudios de cada concilio. Ya están disponibles [[cristianismo/concilios/nicea-i|Nicea I (325)]], [[cristianismo/concilios/constantinopla-i|Constantinopla I (381)]], [[cristianismo/concilios/efeso|Éfeso (431)]], [[cristianismo/concilios/calcedonia|Calcedonia (451)]], [[cristianismo/concilios/constantinopla-ii|Constantinopla II (553)]], [[cristianismo/concilios/constantinopla-iii|Constantinopla III (680–681)]], [[cristianismo/concilios/nicea-ii|Nicea II (787)]], [[cristianismo/concilios/constantinopla-iv|Constantinopla IV (869–870)]] y [[cristianismo/concilios/letran-i|Letrán I (1123)]].
 
 Un concilio ecuménico es una asamblea de obispos de toda la Iglesia convocada para resolver cuestiones de doctrina y disciplina. La [[catolica|Iglesia católica]] reconoce veintiuno. La [[ortodoxa|Iglesia ortodoxa]] acepta solo los siete primeros; las [[miafisismo|Iglesias ortodoxas orientales]], los tres primeros; y la [[iglesia-oriente|Iglesia del Oriente]], los dos primeros. Las listas reflejan tradiciones de recepción que se han configurado a lo largo de siglos. Las rupturas vinculadas a la recepción de un concilio se estudian en sus artículos y en las fichas históricas correspondientes.
 
@@ -20,8 +20,8 @@ Un concilio ecuménico es una asamblea de obispos de toda la Iglesia convocada p
 
 | N.º | Concilio | Año | Decisiones principales |
 |---|---|---|---|
-| 8 | Constantinopla IV | 869–870 | Depone al patriarca Focio. No reconocido por la ortodoxia. |
-| 9 | Letrán I | 1123 | Ratifica el fin de la querella de las investiduras. |
+| 8 | [[cristianismo/concilios/constantinopla-iv|Constantinopla IV]] | 869–870 | Confirma la restauración de Ignacio y condena a Focio. La tradición católica lo cuenta como octavo concilio ecuménico. |
+| 9 | [[cristianismo/concilios/letran-i|Letrán I]] | 1123 | Respalda el acuerdo de Worms y promulga cánones sobre elecciones, ordenaciones y disciplina eclesiástica. |
 | 10 | Letrán II | 1139 | Cierra el cisma de Anacleto II e impone el celibato del clero. |
 | 11 | Letrán III | 1179 | El papa será elegido por dos tercios de los cardenales. |
 | 12 | Letrán IV | 1215 | Define la transubstanciación y obliga a la confesión anual. |

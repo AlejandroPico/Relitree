@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 583" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">De la disputa al concilio</title>
+  <desc id="descripcion">Cronología de las investiduras entre 1076 y 1123. 1076, Conflicto abierto entre Gregorio VII y Enrique IV. 1111, Primer arreglo y crisis de Pascual II. 1112, Rechazo eclesiástico del privilegio de 1111. 1119, Calixto II convoca el concilio de Reims. Jun. 1122, Convocatoria dirigida a Balderico de Dol. Sep. 1122, Calixto II y Enrique V alcanzan el acuerdo de Worms. Mar. 1123, La asamblea de Letrán se reúne en Roma.</desc>
+  <rect width="760" height="583" fill="#f3eee3"/>
+  <path d="M 0 0 H 760 V 77 H 0 Z" fill="#23353a"/>
+  <text x="30" y="48" fill="#fff8e9" font-family="Georgia,serif" font-size="29">De la disputa al concilio</text>
+  <path d="M 151 128 V 530" fill="none" stroke="#927044" stroke-width="3"/>
+  <g font-family="system-ui,sans-serif">
+    <circle cx="151" cy="128" r="6" fill="#5d4428"/>
+    <text x="132" y="134" text-anchor="end" font-size="17" font-weight="700" fill="#5d4428">1076</text>
+    <text x="174" y="134" font-size="19" fill="#23353a">Conflicto abierto entre Gregorio VII y Enrique IV</text>
+    <circle cx="151" cy="195" r="6" fill="#5d4428"/>
+    <text x="132" y="201" text-anchor="end" font-size="17" font-weight="700" fill="#5d4428">1111</text>
+    <text x="174" y="201" font-size="19" fill="#23353a">Primer arreglo y crisis de Pascual II</text>
+    <circle cx="151" cy="262" r="6" fill="#5d4428"/>
+    <text x="132" y="268" text-anchor="end" font-size="17" font-weight="700" fill="#5d4428">1112</text>
+    <text x="174" y="268" font-size="19" fill="#23353a">Rechazo eclesiástico del privilegio de 1111</text>
+    <circle cx="151" cy="329" r="6" fill="#5d4428"/>
+    <text x="132" y="335" text-anchor="end" font-size="17" font-weight="700" fill="#5d4428">1119</text>
+    <text x="174" y="335" font-size="19" fill="#23353a">Calixto II convoca el concilio de Reims</text>
+    <circle cx="151" cy="396" r="6" fill="#5d4428"/>
+    <text x="132" y="402" text-anchor="end" font-size="17" font-weight="700" fill="#5d4428">Jun. 1122</text>
+    <text x="174" y="402" font-size="19" fill="#23353a">Convocatoria dirigida a Balderico de Dol</text>
+    <circle cx="151" cy="463" r="6" fill="#5d4428"/>
+    <text x="132" y="469" text-anchor="end" font-size="17" font-weight="700" fill="#5d4428">Sep. 1122</text>
+    <text x="174" y="469" font-size="19" fill="#23353a">Calixto II y Enrique V alcanzan el acuerdo de Worms</text>
+    <circle cx="151" cy="530" r="6" fill="#5d4428"/>
+    <text x="132" y="536" text-anchor="end" font-size="17" font-weight="700" fill="#5d4428">Mar. 1123</text>
+    <text x="174" y="536" font-size="19" fill="#23353a">La asamblea de Letrán se reúne en Roma</text>
+  </g>
+</svg>

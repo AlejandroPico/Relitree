@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 650" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Los patriarcados de Ignacio y Focio</title>
+  <desc id="descripcion">Cronología de Constantinopla entre 858 y 880. 858, Ignacio pierde la sede y Focio accede al patriarcado. 861, Un sínodo en Constantinopla examina el relevo. 863, Nicolás I condena a Focio. 866, Boris de Bulgaria dirige sus consultas a Roma. 867, Basilio I asume el poder e Ignacio es restaurado. 869–870, El concilio de Constantinopla condena a Focio. 877, Focio vuelve al patriarcado tras la muerte de Ignacio. 879–880, Otra asamblea reconoce a Focio.</desc>
+  <rect width="760" height="650" fill="#f3eee3"/>
+  <path d="M 0 0 H 760 V 77 H 0 Z" fill="#23353a"/>
+  <text x="30" y="48" fill="#fff8e9" font-family="Georgia,serif" font-size="29">Los patriarcados de Ignacio y Focio</text>
+  <path d="M 151 128 V 597" fill="none" stroke="#927044" stroke-width="3"/>
+  <g font-family="system-ui,sans-serif">
+    <circle cx="151" cy="128" r="6" fill="#5d4428"/>
+    <text x="132" y="134" text-anchor="end" font-size="17" font-weight="700" fill="#5d4428">858</text>
+    <text x="174" y="134" font-size="19" fill="#23353a">Ignacio pierde la sede y Focio accede al patriarcado</text>
+    <circle cx="151" cy="195" r="6" fill="#5d4428"/>
+    <text x="132" y="201" text-anchor="end" font-size="17" font-weight="700" fill="#5d4428">861</text>
+    <text x="174" y="201" font-size="19" fill="#23353a">Un sínodo en Constantinopla examina el relevo</text>
+    <circle cx="151" cy="262" r="6" fill="#5d4428"/>
+    <text x="132" y="268" text-anchor="end" font-size="17" font-weight="700" fill="#5d4428">863</text>
+    <text x="174" y="268" font-size="19" fill="#23353a">Nicolás I condena a Focio</text>
+    <circle cx="151" cy="329" r="6" fill="#5d4428"/>
+    <text x="132" y="335" text-anchor="end" font-size="17" font-weight="700" fill="#5d4428">866</text>
+    <text x="174" y="335" font-size="19" fill="#23353a">Boris de Bulgaria dirige sus consultas a Roma</text>
+    <circle cx="151" cy="396" r="6" fill="#5d4428"/>
+    <text x="132" y="402" text-anchor="end" font-size="17" font-weight="700" fill="#5d4428">867</text>
+    <text x="174" y="402" font-size="19" fill="#23353a">Basilio I asume el poder e Ignacio es restaurado</text>
+    <circle cx="151" cy="463" r="6" fill="#5d4428"/>
+    <text x="132" y="469" text-anchor="end" font-size="17" font-weight="700" fill="#5d4428">869–870</text>
+    <text x="174" y="469" font-size="19" fill="#23353a">El concilio de Constantinopla condena a Focio</text>
+    <circle cx="151" cy="530" r="6" fill="#5d4428"/>
+    <text x="132" y="536" text-anchor="end" font-size="17" font-weight="700" fill="#5d4428">877</text>
+    <text x="174" y="536" font-size="19" fill="#23353a">Focio vuelve al patriarcado tras la muerte de Ignacio</text>
+    <circle cx="151" cy="597" r="6" fill="#5d4428"/>
+    <text x="132" y="603" text-anchor="end" font-size="17" font-weight="700" fill="#5d4428">879–880</text>
+    <text x="174" y="603" font-size="19" fill="#23353a">Otra asamblea reconoce a Focio</text>
+  </g>
+</svg>
