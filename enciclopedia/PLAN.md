@@ -82,14 +82,14 @@ Estado editorial: **completa**, 11 de 11 artículos publicados.
 
 ## Fase E05 · Cristianismo · Concilios ecuménicos (II)
 
-Estado editorial: en curso, 4 de 11 artículos publicados.
+Estado editorial: en curso, 6 de 11 artículos publicados.
 
 - [x] [Concilio de Letrán IV (1215)](es/religiones/cristianismo/concilios/letran-iv.md)
 - [x] [Concilio de Lyon I (1245)](es/religiones/cristianismo/concilios/lyon-i.md)
 - [x] [Concilio de Lyon II (1274)](es/religiones/cristianismo/concilios/lyon-ii.md)
 - [x] [Concilio de Vienne (1311–1312)](es/religiones/cristianismo/concilios/vienne.md)
-- [ ] Concilio de Constanza (1414–1418)
-- [ ] Concilio de Basilea-Ferrara-Florencia (1431–1445)
+- [x] [Concilio de Constanza (1414–1418)](es/religiones/cristianismo/concilios/constanza.md)
+- [x] [Concilio de Basilea–Ferrara–Florencia (1431–1445)](es/religiones/cristianismo/concilios/basilea-ferrara-florencia.md)
 - [ ] Concilio de Letrán V (1512–1517)
 - [ ] Concilio de Trento (1545–1563)
 - [ ] Concilio Vaticano I (1869–1870)

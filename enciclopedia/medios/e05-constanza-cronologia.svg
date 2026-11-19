@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="580" viewBox="0 0 760 580" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Del Cisma de Occidente a Constanza</title>
+  <desc id="descripcion">1378, Comienzan las obediencias de Roma y Aviñón. 1409, La elección en Pisa crea una tercera línea. Nov. 1414, Apertura de Constanza. 6 abr. 1415, Decreto Haec sancta. Jul. 1415, Renuncia de Gregorio XII y condena de Hus. Jul. 1417, Deposición de Benedicto XIII. 9 oct. 1417, Decreto Frequens. 11 nov. 1417, Elección de Martín V. 22 abr. 1418, Clausura del concilio.</desc>
+  <rect width="760" height="580" fill="#f3eee3"/>
+  <path d="M0 0H760V68H0Z" fill="#23353a"/>
+  <text x="28" y="44" fill="#fff8e9" font-family="Georgia,serif" font-size="31">Del Cisma de Occidente a Constanza</text>
+  <path d="M162 111V535" fill="none" stroke="#927044" stroke-width="3"/>
+  <g font-family="system-ui,sans-serif">
+    <circle cx="162" cy="111" r="6" fill="#5d4428"/>
+    <text x="142" y="117" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1378</text>
+    <text x="187" y="117" font-size="22" fill="#23353a">Comienzan las obediencias de Roma y Aviñón</text>
+    <circle cx="162" cy="164" r="6" fill="#5d4428"/>
+    <text x="142" y="170" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">1409</text>
+    <text x="187" y="170" font-size="22" fill="#23353a">La elección en Pisa crea una tercera línea</text>
+    <circle cx="162" cy="217" r="6" fill="#5d4428"/>
+    <text x="142" y="223" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">Nov. 1414</text>
+    <text x="187" y="223" font-size="22" fill="#23353a">Apertura de Constanza</text>
+    <circle cx="162" cy="270" r="6" fill="#5d4428"/>
+    <text x="142" y="276" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">6 abr. 1415</text>
+    <text x="187" y="276" font-size="22" fill="#23353a">Decreto Haec sancta</text>
+    <circle cx="162" cy="323" r="6" fill="#5d4428"/>
+    <text x="142" y="329" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">Jul. 1415</text>
+    <text x="187" y="329" font-size="22" fill="#23353a">Renuncia de Gregorio XII y condena de Hus</text>
+    <circle cx="162" cy="376" r="6" fill="#5d4428"/>
+    <text x="142" y="382" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">Jul. 1417</text>
+    <text x="187" y="382" font-size="22" fill="#23353a">Deposición de Benedicto XIII</text>
+    <circle cx="162" cy="429" r="6" fill="#5d4428"/>
+    <text x="142" y="435" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">9 oct. 1417</text>
+    <text x="187" y="435" font-size="22" fill="#23353a">Decreto Frequens</text>
+    <circle cx="162" cy="482" r="6" fill="#5d4428"/>
+    <text x="142" y="488" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">11 nov. 1417</text>
+    <text x="187" y="488" font-size="22" fill="#23353a">Elección de Martín V</text>
+    <circle cx="162" cy="535" r="6" fill="#5d4428"/>
+    <text x="142" y="541" text-anchor="end" font-size="19" font-weight="700" fill="#5d4428">22 abr. 1418</text>
+    <text x="187" y="541" font-size="22" fill="#23353a">Clausura del concilio</text>
+  </g>
+</svg>

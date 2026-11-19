@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="510" viewBox="0 0 760 510" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Del concilio de Basilea a dos asambleas</title>
+  <desc id="descripcion">1431, Apertura de los trabajos en Basilea. 1436, Proclamación de los acuerdos de Jihlava. 1437, Eugenio IV decreta el traslado a Ferrara. Basilea y Lausana: 1439, Deposición de Eugenio IV; 1439, Elección de Félix V; 1449, Renuncia de Félix V y cierre. Ferrara, Florencia y Roma: 1438, Apertura de Ferrara; 1439, Unión en Florencia; 1443, Continuación en Roma; 1445, Última sesión en Letrán.</desc>
+  <rect width="760" height="510" fill="#f3eee3"/>
+  <path d="M0 0H760V68H0Z" fill="#23353a"/>
+  <text x="28" y="44" fill="#fff8e9" font-family="Georgia,serif" font-size="31">Del concilio de Basilea a dos asambleas</text>
+  <path d="M128 104V216H60V251M128 216H420V251" fill="none" stroke="#927044" stroke-width="3"/>
+  <g font-family="system-ui,sans-serif" fill="#23353a">
+    <circle cx="128" cy="104" r="5.5" fill="#5d4428"/>
+    <text x="107" y="110" text-anchor="end" font-size="20" font-weight="700" fill="#5d4428">1431</text>
+    <text x="149" y="110" font-size="21">Apertura de los trabajos en Basilea</text>
+    <circle cx="128" cy="147" r="5.5" fill="#5d4428"/>
+    <text x="107" y="153" text-anchor="end" font-size="20" font-weight="700" fill="#5d4428">1436</text>
+    <text x="149" y="153" font-size="21">Proclamación de los acuerdos de Jihlava</text>
+    <circle cx="128" cy="190" r="5.5" fill="#5d4428"/>
+    <text x="107" y="196" text-anchor="end" font-size="20" font-weight="700" fill="#5d4428">1437</text>
+    <text x="149" y="196" font-size="21">Eugenio IV decreta el traslado a Ferrara</text>
+    <rect x="50" y="246" width="300" height="46" fill="#725231"/>
+    <text x="64" y="275" font-size="20" font-weight="700" fill="#ffffff">Basilea y Lausana</text>
+    <path d="M60 292V415" fill="none" stroke="#725231" stroke-width="3"/>
+    <circle cx="60" cy="321" r="5" fill="#725231"/>
+    <text x="75" y="327" font-size="19"><tspan font-weight="700">1439</tspan><tspan x="131">Deposición de Eugenio IV</tspan></text>
+    <circle cx="60" cy="368" r="5" fill="#725231"/>
+    <text x="75" y="374" font-size="19"><tspan font-weight="700">1439</tspan><tspan x="131">Elección de Félix V</tspan></text>
+    <circle cx="60" cy="415" r="5" fill="#725231"/>
+    <text x="75" y="421" font-size="19"><tspan font-weight="700">1449</tspan><tspan x="131">Renuncia de Félix V y cierre</tspan></text>
+    <rect x="410" y="246" width="300" height="46" fill="#30656a"/>
+    <text x="424" y="275" font-size="20" font-weight="700" fill="#ffffff">Ferrara, Florencia y Roma</text>
+    <path d="M420 292V462" fill="none" stroke="#30656a" stroke-width="3"/>
+    <circle cx="420" cy="321" r="5" fill="#30656a"/>
+    <text x="435" y="327" font-size="19"><tspan font-weight="700">1438</tspan><tspan x="491">Apertura de Ferrara</tspan></text>
+    <circle cx="420" cy="368" r="5" fill="#30656a"/>
+    <text x="435" y="374" font-size="19"><tspan font-weight="700">1439</tspan><tspan x="491">Unión en Florencia</tspan></text>
+    <circle cx="420" cy="415" r="5" fill="#30656a"/>
+    <text x="435" y="421" font-size="19"><tspan font-weight="700">1443</tspan><tspan x="491">Continuación en Roma</tspan></text>
+    <circle cx="420" cy="462" r="5" fill="#30656a"/>
+    <text x="435" y="468" font-size="19"><tspan font-weight="700">1445</tspan><tspan x="491">Última sesión en Letrán</tspan></text>
+  </g>
+</svg>
