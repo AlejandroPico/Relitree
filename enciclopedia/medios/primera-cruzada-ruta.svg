@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 510" role="img" aria-labelledby="title description">
+  <title id="title">De Constantinopla a Jerusalén</title>
+  <desc id="description">Constantinopla, Nicea, Dorilea, Antioquía, Edesa, Jerusalén, Ascalón. Hitos de la marcha oriental · trazado esquemático</desc>
+  <metadata>Cartografía elaborada para Relitree a partir de la capa Land 1:110m de Natural Earth, de dominio público.</metadata>
+  <rect width="760" height="510" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill:#23302d }
+    .title { font-size:28px; font-weight:730 }
+    .note { font-size:16px; fill:#435653 }
+    .date { font-size:19px; font-weight:700; fill:#165d53 }
+    .item { font-size:19px; font-weight:550 }
+    .head { font-size:22px; font-weight:680 }
+    .place { font-size:17px; font-weight:700; paint-order:stroke; stroke:#f7f4ec; stroke-width:4; stroke-linejoin:round }
+    .water { font-size:17px; fill:#456672; font-style:italic }
+  </style>
+  <text x="30" y="45" class="title">De Constantinopla a Jerusalén</text>
+  <text x="30" y="70" class="note">Hitos de la marcha oriental · trazado esquemático</text>
+  <rect x="30" y="86" width="700" height="360" fill="#deebee" stroke="#a8b9b6"/>
+  <g fill="#ece5d6" stroke="#9a9e89" stroke-width=".7">
+    <path d="M441.3,285.9L415,296.1L417.9,300.6L419.1,302.5L379.2,312.3L360.2,309.2L351.1,299.5L369.6,298.6L372.3,298.5L377.9,292.7L405.9,293L441.3,285.9Z" fill-rule="evenodd"/>
+    <path d="M30,289.5L39.6,293.2L69.9,291.8L98.8,293.5L97.9,297.7L119.1,294.8L114.2,301.9L58.2,303.9L58.6,300L30,297.1Z" fill-rule="evenodd"/>
+    <path d="M730,86L730,446L451.8,446L456.1,437.4L454.8,434L443.8,443.6L442.7,446L374.1,446L357.6,425.6L353.6,427.7L365.2,446L30,446L30,373.8L65.8,376.4L75.3,384.3L127,383.9L164.5,390.3L203.1,397.4L221.1,401.1L251,393.5L267,386.6L301.3,384.7L329,387.7L339.6,399.6L348.6,391.8L379.8,397.4L410.1,398.8L429.2,392.7L440.5,384.8L437.9,383.5L448.2,372.3L456,354.1L461.6,348.1L462.7,347.8L476.5,328.3L495.9,311.4L496.6,310.5L493,292.2L502.5,282.3L488.2,271.4L502.9,262.4L479.2,264.4L446.7,258.9L419.9,272.7L360.9,275.4L329.4,262.5L287.5,261.7L278.5,271.7L251.7,274.5L214.1,261.8L171.6,262.2L148.6,238.3L120.2,225L139.1,206.3L114.4,194.9L157.6,171.9L217.4,171L233.8,152.7L307.9,155.9L354.6,140.3L400,133.5L464.3,133L532.2,149.9L588,159.2L633.3,155.5L666.7,157.7L712.7,145.1L718.5,134.9L708.7,118.5L686.3,109.7L664.7,106.9L650.5,99.6L617.3,86L209.9,86L207.3,93L187.1,103L172.9,120.1L185.4,133.8L190,143L224,150.8L216.9,156.7L170.7,158L154.2,165.4L121.7,178.3L109.5,167.2L110,162.2L86.3,161.5L66,159.3L30,164L30,171.1L45.9,179L30,182.1L30,224.4L31,224.7L31.6,238.3L30,238L30,86Z" fill-rule="evenodd"/>
+  </g>
+  <text x="158.3" y="315.2" class="water" text-anchor="middle">Mar Mediterráneo</text>
+  <text x="457.8" y="107.1" class="water" text-anchor="middle">Mar Negro</text>
+  <polyline points="223.7,157.8 252.4,171.7 283.6,187.3 360.2,233.1 420.8,241.8 502.9,273.2 490.1,315.7 477.2,328.6 466.3,379.3 440.3,381.9" fill="none" stroke="#22665a" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="420.8,241.8 470.2,254 532.1,252.6 605.6,250.2" fill="none" stroke="#96613b" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 6"/>
+  <line x1="223.7" y1="157.8" x2="211.7" y2="139.8" stroke="#626966"/>
+  <circle cx="223.7" cy="157.8" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="206.7" y="143.8" class="place" text-anchor="end">Constantinopla</text>
+  <line x1="252.4" y1="171.7" x2="260.4" y2="157.7" stroke="#626966"/>
+  <circle cx="252.4" cy="171.7" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="265.4" y="161.7" class="place">Nicea</text>
+  <line x1="283.6" y1="187.3" x2="272.6" y2="203.3" stroke="#626966"/>
+  <circle cx="283.6" cy="187.3" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="267.6" y="207.3" class="place" text-anchor="end">Dorilea</text>
+  <line x1="502.9" y1="273.2" x2="494.9" y2="258.2" stroke="#626966"/>
+  <circle cx="502.9" cy="273.2" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="489.9" y="262.2" class="place" text-anchor="end">Antioquía</text>
+  <line x1="605.6" y1="250.2" x2="614.6" y2="237.2" stroke="#626966"/>
+  <circle cx="605.6" cy="250.2" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="619.6" y="241.2" class="place">Edesa</text>
+  <line x1="466.3" y1="379.3" x2="475.3" y2="366.3" stroke="#626966"/>
+  <circle cx="466.3" cy="379.3" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="480.3" y="370.3" class="place">Jerusalén</text>
+  <line x1="440.3" y1="381.9" x2="430.3" y2="390.9" stroke="#626966"/>
+  <circle cx="440.3" cy="381.9" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="425.3" y="394.9" class="place" text-anchor="end">Ascalón</text>
+  <path d="M30 465h32" stroke="#22665a" stroke-width="3"/>
+  <text x="70" y="470" class="note">Hitos de la marcha</text>
+  <path d="M330 465h32" stroke="#96613b" stroke-width="3" stroke-dasharray="7 6"/>
+  <text x="370" y="470" class="note">Trayecto de Balduino hacia Edesa</text>
+  <text x="30" y="492" class="note">Base geográfica actual · Natural Earth, dominio público</text>
+</svg>

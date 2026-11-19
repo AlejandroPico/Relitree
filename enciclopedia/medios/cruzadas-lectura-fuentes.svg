@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 400" role="img" aria-labelledby="title description">
+  <title id="title">Cómo contrastar las fuentes</title>
+  <desc id="description">Relatos latinos. Sigue el contingente al que se refiere el cronista.. Distingue lo que pudo observar de las noticias que recibió.. Crónicas bizantinas y árabes. Localiza desde qué corte, ciudad o región se escribió.. Compara nombres, fechas, acuerdos y cambios de gobierno.. Testimonios hebreos. Atiende a la memoria de las comunidades atacadas.. Identifica las decisiones de las víctimas y las formas de protección.</desc>
+  <rect width="760" height="400" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill:#23302d }
+    .title { font-size:28px; font-weight:730 }
+    .note { font-size:16px; fill:#435653 }
+    .date { font-size:19px; font-weight:700; fill:#165d53 }
+    .item { font-size:19px; font-weight:550 }
+    .head { font-size:22px; font-weight:680 }
+    .place { font-size:17px; font-weight:700; paint-order:stroke; stroke:#f7f4ec; stroke-width:4; stroke-linejoin:round }
+    .water { font-size:17px; fill:#456672; font-style:italic }
+  </style>
+  <text x="30" y="45" class="title">Cómo contrastar las fuentes</text>
+  <rect x="30" y="72" width="700" height="92" fill="#e5ece6"/>
+  <text x="50" y="98" class="head">Relatos latinos</text>
+  <text x="50" y="123" class="item">Sigue el contingente al que se refiere el cronista.</text>
+  <text x="50" y="146" class="note">Distingue lo que pudo observar de las noticias que recibió.</text>
+  <rect x="30" y="177" width="700" height="92" fill="#f0ece1"/>
+  <text x="50" y="203" class="head">Crónicas bizantinas y árabes</text>
+  <text x="50" y="228" class="item">Localiza desde qué corte, ciudad o región se escribió.</text>
+  <text x="50" y="251" class="note">Compara nombres, fechas, acuerdos y cambios de gobierno.</text>
+  <rect x="30" y="282" width="700" height="92" fill="#e5ece6"/>
+  <text x="50" y="308" class="head">Testimonios hebreos</text>
+  <text x="50" y="333" class="item">Atiende a la memoria de las comunidades atacadas.</text>
+  <text x="50" y="356" class="note">Identifica las decisiones de las víctimas y las formas de protección.</text>
+</svg>

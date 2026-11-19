@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 444" role="img" aria-labelledby="title description">
+  <title id="title">Primera cruzada · 1096–1099</title>
+  <desc id="description">Nov. 1095. Convocatoria de Urbano II en Clermont. 1096. Salida de contingentes hacia Constantinopla. Jun. 1097. Nicea pasa al Imperio bizantino. Jul. 1097. Batalla de Dorilea. Mar. 1098. Balduino asume el gobierno de Edesa. Jun. 1098. Toma de Antioquía y derrota de Kerbogha. 15 jul. 1099. Toma y matanza en Jerusalén. 12 ago. 1099. Batalla de Ascalón</desc>
+  <rect width="760" height="444" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill:#23302d }
+    .title { font-size:28px; font-weight:730 }
+    .note { font-size:16px; fill:#435653 }
+    .date { font-size:19px; font-weight:700; fill:#165d53 }
+    .item { font-size:19px; font-weight:550 }
+    .head { font-size:22px; font-weight:680 }
+    .place { font-size:17px; font-weight:700; paint-order:stroke; stroke:#f7f4ec; stroke-width:4; stroke-linejoin:round }
+    .water { font-size:17px; fill:#456672; font-style:italic }
+  </style>
+  <text x="30" y="45" class="title">Primera cruzada · 1096–1099</text>
+  <text x="30" y="73" class="note">Hitos cronológicos · intervalos sin escala proporcional</text>
+  <path d="M173 105V406" stroke="#6d9188" stroke-width="3"/>
+  <text x="151" y="111" class="date" text-anchor="end">Nov. 1095</text>
+  <circle cx="173" cy="105" r="6" fill="#277268"/>
+  <text x="200" y="111" class="item">Convocatoria de Urbano II en Clermont</text>
+  <text x="151" y="154" class="date" text-anchor="end">1096</text>
+  <circle cx="173" cy="148" r="6" fill="#277268"/>
+  <text x="200" y="154" class="item">Salida de contingentes hacia Constantinopla</text>
+  <text x="151" y="197" class="date" text-anchor="end">Jun. 1097</text>
+  <circle cx="173" cy="191" r="6" fill="#277268"/>
+  <text x="200" y="197" class="item">Nicea pasa al Imperio bizantino</text>
+  <text x="151" y="240" class="date" text-anchor="end">Jul. 1097</text>
+  <circle cx="173" cy="234" r="6" fill="#277268"/>
+  <text x="200" y="240" class="item">Batalla de Dorilea</text>
+  <text x="151" y="283" class="date" text-anchor="end">Mar. 1098</text>
+  <circle cx="173" cy="277" r="6" fill="#277268"/>
+  <text x="200" y="283" class="item">Balduino asume el gobierno de Edesa</text>
+  <text x="151" y="326" class="date" text-anchor="end">Jun. 1098</text>
+  <circle cx="173" cy="320" r="6" fill="#277268"/>
+  <text x="200" y="326" class="item">Toma de Antioquía y derrota de Kerbogha</text>
+  <text x="151" y="369" class="date" text-anchor="end">15 jul. 1099</text>
+  <circle cx="173" cy="363" r="6" fill="#277268"/>
+  <text x="200" y="369" class="item">Toma y matanza en Jerusalén</text>
+  <text x="151" y="412" class="date" text-anchor="end">12 ago. 1099</text>
+  <circle cx="173" cy="406" r="6" fill="#277268"/>
+  <text x="200" y="412" class="item">Batalla de Ascalón</text>
+</svg>

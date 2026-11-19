@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 444" role="img" aria-labelledby="title description">
+  <title id="title">Segunda cruzada · 1147–1149</title>
+  <desc id="description">Dic. 1144. Zengi toma Edesa. Dic. 1145. Eugenio III emite Quantum praedecessores. 1146. Predicación de Bernardo de Claraval. 1147. Parten los contingentes de Conrado y Luis. Oct. 1147. Conquista de Lisboa y derrota cerca de Dorilea. Inv. 1148. Pérdidas francesas cerca del monte Cadmo. Jul. 1148. Asedio y retirada de Damasco. 1149. Regreso de Luis VII</desc>
+  <rect width="760" height="444" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill:#23302d }
+    .title { font-size:28px; font-weight:730 }
+    .note { font-size:16px; fill:#435653 }
+    .date { font-size:19px; font-weight:700; fill:#165d53 }
+    .item { font-size:19px; font-weight:550 }
+    .head { font-size:22px; font-weight:680 }
+    .place { font-size:17px; font-weight:700; paint-order:stroke; stroke:#f7f4ec; stroke-width:4; stroke-linejoin:round }
+    .water { font-size:17px; fill:#456672; font-style:italic }
+  </style>
+  <text x="30" y="45" class="title">Segunda cruzada · 1147–1149</text>
+  <text x="30" y="73" class="note">Hitos cronológicos · intervalos sin escala proporcional</text>
+  <path d="M173 105V406" stroke="#6d9188" stroke-width="3"/>
+  <text x="151" y="111" class="date" text-anchor="end">Dic. 1144</text>
+  <circle cx="173" cy="105" r="6" fill="#277268"/>
+  <text x="200" y="111" class="item">Zengi toma Edesa</text>
+  <text x="151" y="154" class="date" text-anchor="end">Dic. 1145</text>
+  <circle cx="173" cy="148" r="6" fill="#277268"/>
+  <text x="200" y="154" class="item">Eugenio III emite Quantum praedecessores</text>
+  <text x="151" y="197" class="date" text-anchor="end">1146</text>
+  <circle cx="173" cy="191" r="6" fill="#277268"/>
+  <text x="200" y="197" class="item">Predicación de Bernardo de Claraval</text>
+  <text x="151" y="240" class="date" text-anchor="end">1147</text>
+  <circle cx="173" cy="234" r="6" fill="#277268"/>
+  <text x="200" y="240" class="item">Parten los contingentes de Conrado y Luis</text>
+  <text x="151" y="283" class="date" text-anchor="end">Oct. 1147</text>
+  <circle cx="173" cy="277" r="6" fill="#277268"/>
+  <text x="200" y="283" class="item">Conquista de Lisboa y derrota cerca de Dorilea</text>
+  <text x="151" y="326" class="date" text-anchor="end">Inv. 1148</text>
+  <circle cx="173" cy="320" r="6" fill="#277268"/>
+  <text x="200" y="326" class="item">Pérdidas francesas cerca del monte Cadmo</text>
+  <text x="151" y="369" class="date" text-anchor="end">Jul. 1148</text>
+  <circle cx="173" cy="363" r="6" fill="#277268"/>
+  <text x="200" y="369" class="item">Asedio y retirada de Damasco</text>
+  <text x="151" y="412" class="date" text-anchor="end">1149</text>
+  <circle cx="173" cy="406" r="6" fill="#277268"/>
+  <text x="200" y="412" class="item">Regreso de Luis VII</text>
+</svg>

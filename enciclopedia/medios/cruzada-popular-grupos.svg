@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 400" role="img" aria-labelledby="title description">
+  <title id="title">Grupos y destinos</title>
+  <desc id="description">1096 · Pedro y Gautier. Varias marchas confluyeron antes de cruzar a Anatolia.. Los contingentes sufrieron la derrota de Civetot en octubre.. 1101 · Lombardos y aliados. Pasaron por Ancira y se dirigieron hacia el noreste.. Sufrieron una derrota en el entorno de Merzifon.. 1101 · Nevers, Aquitania y Baviera. Grupos distintos marcharon por la Anatolia meridional.. Las derrotas se produjeron en el corredor de Heraclea.</desc>
+  <rect width="760" height="400" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill:#23302d }
+    .title { font-size:28px; font-weight:730 }
+    .note { font-size:16px; fill:#435653 }
+    .date { font-size:19px; font-weight:700; fill:#165d53 }
+    .item { font-size:19px; font-weight:550 }
+    .head { font-size:22px; font-weight:680 }
+    .place { font-size:17px; font-weight:700; paint-order:stroke; stroke:#f7f4ec; stroke-width:4; stroke-linejoin:round }
+    .water { font-size:17px; fill:#456672; font-style:italic }
+  </style>
+  <text x="30" y="45" class="title">Grupos y destinos</text>
+  <rect x="30" y="72" width="700" height="92" fill="#e5ece6"/>
+  <text x="50" y="98" class="head">1096 · Pedro y Gautier</text>
+  <text x="50" y="123" class="item">Varias marchas confluyeron antes de cruzar a Anatolia.</text>
+  <text x="50" y="146" class="note">Los contingentes sufrieron la derrota de Civetot en octubre.</text>
+  <rect x="30" y="177" width="700" height="92" fill="#f0ece1"/>
+  <text x="50" y="203" class="head">1101 · Lombardos y aliados</text>
+  <text x="50" y="228" class="item">Pasaron por Ancira y se dirigieron hacia el noreste.</text>
+  <text x="50" y="251" class="note">Sufrieron una derrota en el entorno de Merzifon.</text>
+  <rect x="30" y="282" width="700" height="92" fill="#e5ece6"/>
+  <text x="50" y="308" class="head">1101 · Nevers, Aquitania y Baviera</text>
+  <text x="50" y="333" class="item">Grupos distintos marcharon por la Anatolia meridional.</text>
+  <text x="50" y="356" class="note">Las derrotas se produjeron en el corredor de Heraclea.</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 487" role="img" aria-labelledby="title description">
+  <title id="title">Las cruzadas numeradas</title>
+  <desc id="description">1096–1099. Primera · conquista de Jerusalén. 1147–1149. Segunda · Damasco, Lisboa y Báltico occidental. 1189–1192. Tercera · recuperación de Acre. 1202–1204. Cuarta · saqueo de Constantinopla. 1217–1221. Quinta · ocupación y pérdida de Damieta. 1228–1229. Sexta · acuerdo sobre Jerusalén. 1248–1254. Séptima · campaña de Luis IX en Egipto. 1270. Octava · expedición de Luis IX a Túnez. 1291. Caída de Acre ante los mamelucos</desc>
+  <rect width="760" height="487" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill:#23302d }
+    .title { font-size:28px; font-weight:730 }
+    .note { font-size:16px; fill:#435653 }
+    .date { font-size:19px; font-weight:700; fill:#165d53 }
+    .item { font-size:19px; font-weight:550 }
+    .head { font-size:22px; font-weight:680 }
+    .place { font-size:17px; font-weight:700; paint-order:stroke; stroke:#f7f4ec; stroke-width:4; stroke-linejoin:round }
+    .water { font-size:17px; fill:#456672; font-style:italic }
+  </style>
+  <text x="30" y="45" class="title">Las cruzadas numeradas</text>
+  <text x="30" y="73" class="note">Hitos cronológicos · intervalos sin escala proporcional</text>
+  <path d="M173 105V449" stroke="#6d9188" stroke-width="3"/>
+  <text x="151" y="111" class="date" text-anchor="end">1096–1099</text>
+  <circle cx="173" cy="105" r="6" fill="#277268"/>
+  <text x="200" y="111" class="item">Primera · conquista de Jerusalén</text>
+  <text x="151" y="154" class="date" text-anchor="end">1147–1149</text>
+  <circle cx="173" cy="148" r="6" fill="#277268"/>
+  <text x="200" y="154" class="item">Segunda · Damasco, Lisboa y Báltico occidental</text>
+  <text x="151" y="197" class="date" text-anchor="end">1189–1192</text>
+  <circle cx="173" cy="191" r="6" fill="#277268"/>
+  <text x="200" y="197" class="item">Tercera · recuperación de Acre</text>
+  <text x="151" y="240" class="date" text-anchor="end">1202–1204</text>
+  <circle cx="173" cy="234" r="6" fill="#277268"/>
+  <text x="200" y="240" class="item">Cuarta · saqueo de Constantinopla</text>
+  <text x="151" y="283" class="date" text-anchor="end">1217–1221</text>
+  <circle cx="173" cy="277" r="6" fill="#277268"/>
+  <text x="200" y="283" class="item">Quinta · ocupación y pérdida de Damieta</text>
+  <text x="151" y="326" class="date" text-anchor="end">1228–1229</text>
+  <circle cx="173" cy="320" r="6" fill="#277268"/>
+  <text x="200" y="326" class="item">Sexta · acuerdo sobre Jerusalén</text>
+  <text x="151" y="369" class="date" text-anchor="end">1248–1254</text>
+  <circle cx="173" cy="363" r="6" fill="#277268"/>
+  <text x="200" y="369" class="item">Séptima · campaña de Luis IX en Egipto</text>
+  <text x="151" y="412" class="date" text-anchor="end">1270</text>
+  <circle cx="173" cy="406" r="6" fill="#277268"/>
+  <text x="200" y="412" class="item">Octava · expedición de Luis IX a Túnez</text>
+  <text x="151" y="455" class="date" text-anchor="end">1291</text>
+  <circle cx="173" cy="449" r="6" fill="#277268"/>
+  <text x="200" y="455" class="item">Caída de Acre ante los mamelucos</text>
+</svg>

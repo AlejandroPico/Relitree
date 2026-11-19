@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 400" role="img" aria-labelledby="title description">
+  <title id="title">Fuentes sobre Jerusalén en 1099</title>
+  <desc id="description">Crónicas latinas. Narran el asalto y la experiencia de los sitiadores.. Examina su lenguaje religioso e identifica el lugar del que hablan.. Crónicas árabes. Sitúan la conquista en la historia política de la región.. Distingue los relatos cercanos al episodio de las compilaciones tardías.. Cartas judías. Documentan cautivos, rescates y personas que escaparon.. Aportan detalles sobre las consecuencias para ciertas familias.</desc>
+  <rect width="760" height="400" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill:#23302d }
+    .title { font-size:28px; font-weight:730 }
+    .note { font-size:16px; fill:#435653 }
+    .date { font-size:19px; font-weight:700; fill:#165d53 }
+    .item { font-size:19px; font-weight:550 }
+    .head { font-size:22px; font-weight:680 }
+    .place { font-size:17px; font-weight:700; paint-order:stroke; stroke:#f7f4ec; stroke-width:4; stroke-linejoin:round }
+    .water { font-size:17px; fill:#456672; font-style:italic }
+  </style>
+  <text x="30" y="45" class="title">Fuentes sobre Jerusalén en 1099</text>
+  <rect x="30" y="72" width="700" height="92" fill="#e5ece6"/>
+  <text x="50" y="98" class="head">Crónicas latinas</text>
+  <text x="50" y="123" class="item">Narran el asalto y la experiencia de los sitiadores.</text>
+  <text x="50" y="146" class="note">Examina su lenguaje religioso e identifica el lugar del que hablan.</text>
+  <rect x="30" y="177" width="700" height="92" fill="#f0ece1"/>
+  <text x="50" y="203" class="head">Crónicas árabes</text>
+  <text x="50" y="228" class="item">Sitúan la conquista en la historia política de la región.</text>
+  <text x="50" y="251" class="note">Distingue los relatos cercanos al episodio de las compilaciones tardías.</text>
+  <rect x="30" y="282" width="700" height="92" fill="#e5ece6"/>
+  <text x="50" y="308" class="head">Cartas judías</text>
+  <text x="50" y="333" class="item">Documentan cautivos, rescates y personas que escaparon.</text>
+  <text x="50" y="356" class="note">Aportan detalles sobre las consecuencias para ciertas familias.</text>
+</svg>

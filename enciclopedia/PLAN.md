@@ -120,18 +120,24 @@ Estado editorial: fase completada, 12 de 12 artículos publicados.
 
 ## Fase E07 · Cristianismo · Cruzadas y guerras santas
 
-- Las cruzadas: visión de conjunto
-- Primera cruzada (1096–1099)
-- Cruzada popular y cruzadas menores de 1101
-- Segunda cruzada (1147–1149)
-- Tercera cruzada (1189–1192)
-- Cuarta cruzada y saqueo de Constantinopla (1202–1204)
-- Quinta cruzada (1217–1221)
-- Sexta cruzada (1228–1229)
-- Séptima y octava cruzadas (1248–1270)
-- Cruzada albigense (1209–1229)
-- Cruzadas bálticas
-- Cruzada de los niños, cruzadas tardías y la Reconquista como cruzada
+Estado editorial: en curso, 4 de 15 artículos publicados.
+
+- [x] [Las cruzadas · Visión de conjunto](es/religiones/cristianismo/cruzadas/panorama.md)
+- [x] [1096 y 1101 · Cruzada popular y expediciones de 1101](es/religiones/cristianismo/cruzadas/cruzada-popular-y-1101.md)
+- [x] [1096–1099 · Primera cruzada](es/religiones/cristianismo/cruzadas/primera-cruzada.md)
+- [x] [1147–1149 · Segunda cruzada](es/religiones/cristianismo/cruzadas/segunda-cruzada.md)
+
+- [ ] 1189–1192 · Tercera cruzada
+- [ ] 1202–1204 · Cuarta cruzada y saqueo de Constantinopla
+- [ ] 1217–1221 · Quinta cruzada
+- [ ] 1228–1229 · Sexta cruzada
+- [ ] 1248–1254 · Séptima cruzada
+- [ ] 1270 · Octava cruzada
+- [ ] Cruzada albigense (1209–1229)
+- [ ] Cruzadas bálticas
+- [ ] Cruzada de los Niños (1212)
+- [ ] Cruzadas tardías
+- [ ] La idea de cruzada en la Reconquista
 
 ## Fase E08 · Cristianismo · Reforma y guerras de religión
 
