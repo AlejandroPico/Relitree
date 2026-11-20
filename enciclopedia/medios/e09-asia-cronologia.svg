@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 504" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Tres cronologías del cristianismo en Asia oriental</title><desc id="descripcion">Tres cronologías del cristianismo en Asia oriental. Hitos de alcance local y regional. 635 y 781 · China Tang. Llegada de Alopen y fecha de la estela de Xi’an. 1549 y 1614 · Japón. Llegada de Javier y prohibición general Tokugawa. 1784 y 1801 · Corea. Bautismo de Yi Seung-hun y persecución de Sinyu. 1865 y 1873 · Japón. Encuentro en Ōura y retirada de los avisos de prohibición. 1907 · Corea. Avivamiento protestante de Pyongyang.</desc>
+<rect width="720" height="504" fill="#f7faf9"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="26" font-weight="700" fill="#253c43" text-anchor="start">Tres cronologías del cristianismo en Asia oriental</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#253c43" text-anchor="start">Hitos de alcance local y regional</text>
+<rect x="34" y="113" width="652" height="63" rx="3" fill="#e7efed"/>
+<rect x="34" y="113" width="5" height="63" fill="#3b756d"/>
+<text x="50" y="137" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">635 y 781 · China Tang</text>
+<text x="50" y="162" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">Llegada de Alopen y fecha de la estela de Xi’an.</text>
+<rect x="34" y="188" width="652" height="63" rx="3" fill="#e7efed"/>
+<rect x="34" y="188" width="5" height="63" fill="#3b756d"/>
+<text x="50" y="212" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">1549 y 1614 · Japón</text>
+<text x="50" y="237" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">Llegada de Javier y prohibición general Tokugawa.</text>
+<rect x="34" y="263" width="652" height="63" rx="3" fill="#e7efed"/>
+<rect x="34" y="263" width="5" height="63" fill="#3b756d"/>
+<text x="50" y="287" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">1784 y 1801 · Corea</text>
+<text x="50" y="312" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">Bautismo de Yi Seung-hun y persecución de Sinyu.</text>
+<rect x="34" y="338" width="652" height="63" rx="3" fill="#e7efed"/>
+<rect x="34" y="338" width="5" height="63" fill="#3b756d"/>
+<text x="50" y="362" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">1865 y 1873 · Japón</text>
+<text x="50" y="387" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">Encuentro en Ōura y retirada de los avisos de prohibición.</text>
+<rect x="34" y="413" width="652" height="63" rx="3" fill="#e7efed"/>
+<rect x="34" y="413" width="5" height="63" fill="#3b756d"/>
+<text x="50" y="437" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">1907 · Corea</text>
+<text x="50" y="462" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">Avivamiento protestante de Pyongyang.</text>
+</g>
+</svg>

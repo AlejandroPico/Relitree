@@ -38,6 +38,7 @@ export class Datos {
   private compacto: Trazado | null = null;
   private tramos: [number, number, number][] = [];
   marcas: number[] = [];
+  private mayorEscala = 0;
 
   async cargar(): Promise<void> {
     try {
@@ -61,6 +62,7 @@ export class Datos {
 
       this.ancho = +this.meta['ancho']; this.alto = +this.meta['alto'];
       this.tramos = JSON.parse(this.meta['tramos']); this.marcas = JSON.parse(this.meta['marcas']);
+      this.mayorEscala = Math.max(0, ...this.tramos.map(([, , escala]) => escala));
       const filasRegiones = this.filas('SELECT * FROM regiones ORDER BY orden');
       this.regiones = filasRegiones.map((r) => ({ ...r, nombre: nombres.get('region:' + r.id) ?? r.id }));
       this.regiones.forEach((r) => this.region.set(r.id, r));
@@ -127,6 +129,29 @@ export class Datos {
   hijas(id: string) { return this.relaciones.filter((r) => r.origen === id && r.clase !== 'influencia'); }
   influenciasDe(id: string) { return this.relaciones.filter((r) => r.destino === id && r.clase === 'influencia'); }
   influyeEn(id: string) { return this.relaciones.filter((r) => r.origen === id && r.clase === 'influencia'); }
+
+  /** Marcas equidistantes en el dibujo. La fecha se obtiene invirtiendo la escala por tramos. */
+  marcasUniformes(separacion: number): { y: number; anio: number; aproximada: boolean }[] {
+    const y0 = this.yDe(this.marcas[0]);
+    const fin = this.yDe(this.marcas[this.marcas.length - 1]);
+    const paso = Math.max(separacion, this.mayorEscala);
+    const marcas: { y: number; anio: number; aproximada: boolean }[] = [];
+    for (let i = 0, tramo = 0, inicio = y0; y0 + i * paso <= fin; i++) {
+      const y = y0 + i * paso;
+      while (tramo < this.tramos.length - 1) {
+        const [desde, hasta, escala] = this.tramos[tramo];
+        const limite = inicio + (desde - hasta) * escala;
+        if (y <= limite) break;
+        inicio = limite;
+        tramo++;
+      }
+      const [desde, , escala] = this.tramos[tramo];
+      const fecha = desde - (y - inicio) / escala;
+      const anio = Math.round(fecha);
+      marcas.push({ y, anio, aproximada: Math.abs(anio - fecha) > .001 });
+    }
+    return marcas;
+  }
 
   /** Año → coordenada vertical del lienzo (misma escala por tramos que el backend). */
   yDe(anio: number): number {

@@ -34,7 +34,10 @@
           <label><input type="checkbox" [checked]="estado.capaRejilla()" (change)="estado.capaRejilla.set($any($event.target).checked)"/>{{ i18n.t('rejilla') }}</label>
         }
         @if (datos.tieneTrazadoCompacto && estado.esLienzo()) {
-          <label><input type="checkbox" [checked]="estado.vidasCompletas()" (change)="estado.vidasCompletas.set($any($event.target).checked)"/>{{ i18n.t('vidasHastaHoy') }}</label>
+          @if (estado.esLienzo()) {
+      <label><input type="checkbox" [checked]="estado.capaPuentes()" (change)="estado.capaPuentes.set($any($event.target).checked)"/>{{ i18n.t('puentes') }}</label>
+    }
+    <label><input type="checkbox" [checked]="estado.vidasCompletas()" (change)="estado.vidasCompletas.set($any($event.target).checked)"/>{{ i18n.t('vidasHastaHoy') }}</label>
         }
         <label class="rango">{{ i18n.t('importancia') }}
           <input type="range" min="1" max="5" [value]="estado.impMin()" (input)="estado.impMin.set(+$any($event.target).value)"/><b>{{ estado.impMin() }}</b></label>
@@ -57,6 +60,9 @@
       <div class="flotante leyenda">
         <p><svg viewBox="0 0 60 16"><path d="M4 8H56" stroke-width="5"/></svg>{{ i18n.t(estado.vidasCompletas() ? 'lVida' : 'lVidaCompacta') }}</p>
         <p><svg viewBox="0 0 60 16"><path d="M4 13V5H56" stroke-width="3"/></svg>{{ i18n.t('lRama') }}</p>
+      @if (estado.esLienzo() && estado.capaPuentes()) {
+        <p><svg viewBox="0 0 60 16"><path d="M30 1V2M30 7V15M4 10H21C25 10 25 4 30 4S35 10 39 10H56" stroke-width="2" fill="none"/></svg>{{ i18n.t('lPuentes') }}</p>
+      }
         <p><svg viewBox="0 0 60 16"><path d="M4 13C30 13 30 3 56 3" stroke-width="1.8"/></svg>{{ i18n.t('lSecundaria') }}</p>
         <p><svg viewBox="0 0 60 16"><path d="M4 8H56" stroke-width="3" stroke-dasharray="1 7"/></svg>{{ i18n.t('lRenacer') }}</p>
         <p><svg viewBox="0 0 60 16"><path d="M4 13C30 13 30 3 56 3" stroke-width="1.5" stroke-dasharray="6 5"/></svg>{{ i18n.t('lInfluencia') }}</p>

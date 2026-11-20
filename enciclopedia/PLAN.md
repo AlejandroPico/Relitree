@@ -161,7 +161,7 @@ Estado editorial: completa, 12 de 12 artículos publicados. Entregas 8.5 y 8.6 i
 
 ## Fase E09 · Cristianismo · Expansión mundial
 
-Estado editorial: en curso, 7 de 13 artículos publicados. La visión de conjunto abre el recorrido. Entregas 9.0–9.3 incorporadas en la versión 1.7.31.
+Estado editorial: fase cerrada, 13 de 13 artículos publicados. La visión de conjunto abre el recorrido. Entregas 9.0–9.6 incorporadas en las versiones 1.7.31 y 1.7.32.
 
 - [x] 9.0 · [La expansión mundial del cristianismo · Visión de conjunto](es/religiones/cristianismo/expansion-mundial/panorama.md)
 - [x] 9.1 · [La cristianización de Europa](es/religiones/cristianismo/expansion-mundial/cristianizacion-de-europa.md)
@@ -171,12 +171,12 @@ Estado editorial: en curso, 7 de 13 artículos publicados. La visión de conjunt
 - [x] 9.3 · [Cristianismo y esclavitud](es/religiones/cristianismo/expansion-mundial/cristianismo-y-esclavitud.md)
 - [x] 9.3 · [El abolicionismo cristiano](es/religiones/cristianismo/expansion-mundial/abolicionismo-cristiano.md)
 
-- [ ] 9.4 · Misiones jesuitas en Asia
-- [ ] 9.4 · Cristianismo en China, Japón y Corea
-- [ ] 9.5 · Misiones y colonialismo en África
-- [ ] 9.5 · Misiones protestantes del siglo XIX
-- [ ] 9.6 · El cristianismo africano contemporáneo
-- [ ] 9.6 · El sur global y el futuro del cristianismo
+- [x] 9.4 · Misiones jesuitas en Asia
+- [x] 9.4 · Cristianismo en China, Japón y Corea
+- [x] 9.5 · Misiones y colonialismo en África
+- [x] 9.5 · Misiones protestantes del siglo XIX
+- [x] 9.6 · El cristianismo africano contemporáneo
+- [x] 9.6 · El sur global y el futuro del cristianismo
 
 ## Fase E10 · Cristianismo · Edad contemporánea
 

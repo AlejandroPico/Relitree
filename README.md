@@ -1,10 +1,10 @@
 # Relitree
 
-**Versión 1.7.31**
+**Versión 1.7.32**
 
-La [enciclopedia](enciclopedia/PLAN.md#fase-e09--cristianismo--expansión-mundial) abre «Expansión mundial del cristianismo» con siete artículos, desde la cristianización europea y la evangelización en América hasta los debates sobre los derechos indígenas, la esclavitud y el abolicionismo. El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
+La [enciclopedia](enciclopedia/PLAN.md#fase-e09--cristianismo--expansión-mundial) completa «Expansión mundial del cristianismo» con trece artículos. La fase recorre Europa, América, Asia y África y termina con un estudio sobre el sur global. El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
 
-El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto.
+El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto. La capa **Puentes** marca los cruces de ramas y líneas de vida en las vistas por territorios y radial. Las marcas temporales mantienen una separación visual regular. El símbolo ≈ identifica los años redondeados.
 
 El árbol de las religiones: un mapa interactivo y completamente vectorial de las tradiciones espirituales de la humanidad, desde los primeros ritos de la prehistoria hasta hoy. El tiempo corre en vertical y los territorios en horizontal; cada tradición es una línea de vida y cada rama muestra de dónde procede.
 

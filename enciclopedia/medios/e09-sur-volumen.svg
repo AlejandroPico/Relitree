@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Población cristiana estimada y proyectada</title><desc id="descripcion">Población cristiana estimada y proyectada. Recuentos aproximados en millones de personas. Mundo. 2020 2.300. 2070 3.000. África subsahariana. 2020 697. 2070 1.600.</desc>
+<rect width="720" height="380" fill="#f7faf9"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#253c43" text-anchor="start">Población cristiana estimada y proyectada</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#253c43" text-anchor="start">Recuentos aproximados en millones de personas</text>
+<rect x="37" y="101" width="22" height="16" fill="#2f685f"/>
+<text x="67" y="115" font-size="19" font-weight="600" fill="#253c43" text-anchor="start">2020 · estimación</text>
+<rect x="337" y="101" width="22" height="16" fill="#8b5634"/>
+<text x="367" y="115" font-size="19" font-weight="600" fill="#253c43" text-anchor="start">2070 · proyección</text>
+<path d="M37.0 147V325" stroke="#c8d6d2" stroke-width="1"/>
+<text x="37.0" y="353" font-size="16" font-weight="400" fill="#253c43" text-anchor="middle">0</text>
+<path d="M190.75 147V325" stroke="#c8d6d2" stroke-width="1"/>
+<text x="190.75" y="353" font-size="16" font-weight="400" fill="#253c43" text-anchor="middle">800</text>
+<path d="M344.5 147V325" stroke="#c8d6d2" stroke-width="1"/>
+<text x="344.5" y="353" font-size="16" font-weight="400" fill="#253c43" text-anchor="middle">1.600</text>
+<path d="M498.25 147V325" stroke="#c8d6d2" stroke-width="1"/>
+<text x="498.25" y="353" font-size="16" font-weight="400" fill="#253c43" text-anchor="middle">2.400</text>
+<path d="M652.0 147V325" stroke="#c8d6d2" stroke-width="1"/>
+<text x="652.0" y="353" font-size="16" font-weight="400" fill="#253c43" text-anchor="middle">3.200</text>
+<text x="37" y="166" font-size="19" font-weight="700" fill="#253c43" text-anchor="start">Mundo</text>
+<rect x="37" y="176" width="442.03125" height="17" fill="#2f685f"/>
+<text x="486.03125" y="191" font-size="17" font-weight="700" fill="#253c43" text-anchor="start">2.300</text>
+<rect x="37" y="202" width="576.5625" height="17" fill="#8b5634"/>
+<text x="620.5625" y="217" font-size="17" font-weight="700" fill="#253c43" text-anchor="start">3.000</text>
+<text x="37" y="255" font-size="19" font-weight="700" fill="#253c43" text-anchor="start">África subsahariana</text>
+<rect x="37" y="265" width="133.9546875" height="17" fill="#2f685f"/>
+<text x="177.9546875" y="280" font-size="17" font-weight="700" fill="#253c43" text-anchor="start">697</text>
+<rect x="37" y="291" width="307.5" height="17" fill="#8b5634"/>
+<text x="351.5" y="306" font-size="17" font-weight="700" fill="#253c43" text-anchor="start">1.600</text>
+</g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 429" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Vías de transmisión en Asia oriental</title><desc id="descripcion">Vías de transmisión en Asia oriental. Qué viajaba y quién daba continuidad. China Tang · Chang’an. Clérigos, inscripciones en chino y nombres en siríaco. Japón Tokugawa · Nagasaki. Oraciones, calendario y bautismo transmitidos por laicos. Corea Joseon · fin del siglo XVIII. Libros católicos en chino, redes letradas y reuniones locales. Frontera coreana · siglo XIX. Traducciones al coreano, lectores y distribución de impresos.</desc>
+<rect width="720" height="429" fill="#f7faf9"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#253c43" text-anchor="start">Vías de transmisión en Asia oriental</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#253c43" text-anchor="start">Qué viajaba y quién daba continuidad</text>
+<rect x="34" y="113" width="652" height="63" rx="3" fill="#e7efed"/>
+<rect x="34" y="113" width="5" height="63" fill="#3b756d"/>
+<text x="50" y="137" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">China Tang · Chang’an</text>
+<text x="50" y="162" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">Clérigos, inscripciones en chino y nombres en siríaco.</text>
+<rect x="34" y="188" width="652" height="63" rx="3" fill="#e7efed"/>
+<rect x="34" y="188" width="5" height="63" fill="#3b756d"/>
+<text x="50" y="212" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">Japón Tokugawa · Nagasaki</text>
+<text x="50" y="237" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">Oraciones, calendario y bautismo transmitidos por laicos.</text>
+<rect x="34" y="263" width="652" height="63" rx="3" fill="#e7efed"/>
+<rect x="34" y="263" width="5" height="63" fill="#3b756d"/>
+<text x="50" y="287" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">Corea Joseon · fin del siglo XVIII</text>
+<text x="50" y="312" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">Libros católicos en chino, redes letradas y reuniones locales.</text>
+<rect x="34" y="338" width="652" height="63" rx="3" fill="#e7efed"/>
+<rect x="34" y="338" width="5" height="63" fill="#3b756d"/>
+<text x="50" y="362" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">Frontera coreana · siglo XIX</text>
+<text x="50" y="387" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">Traducciones al coreano, lectores y distribución de impresos.</text>
+</g>
+</svg>

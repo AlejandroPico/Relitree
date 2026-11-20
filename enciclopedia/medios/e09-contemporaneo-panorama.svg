@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Religión en África subsahariana</title><desc id="descripcion">Religión en África subsahariana. Porcentaje de habitantes por afiliación · 2020. Cristianos. 62 %. Musulmanes. 33 %. Sin afiliación. 3 %. Otras religiones. 3 %.</desc>
+<rect width="720" height="400" fill="#f7faf9"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#253c43" text-anchor="start">Religión en África subsahariana</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#253c43" text-anchor="start">Porcentaje de habitantes por afiliación · 2020</text>
+<path d="M37.0 113V345" stroke="#c8d6d2" stroke-width="1"/>
+<text x="37.0" y="373" font-size="16" font-weight="400" fill="#253c43" text-anchor="middle">0</text>
+<path d="M190.75 113V345" stroke="#c8d6d2" stroke-width="1"/>
+<text x="190.75" y="373" font-size="16" font-weight="400" fill="#253c43" text-anchor="middle">25</text>
+<path d="M344.5 113V345" stroke="#c8d6d2" stroke-width="1"/>
+<text x="344.5" y="373" font-size="16" font-weight="400" fill="#253c43" text-anchor="middle">50</text>
+<path d="M498.25 113V345" stroke="#c8d6d2" stroke-width="1"/>
+<text x="498.25" y="373" font-size="16" font-weight="400" fill="#253c43" text-anchor="middle">75</text>
+<path d="M652.0 113V345" stroke="#c8d6d2" stroke-width="1"/>
+<text x="652.0" y="373" font-size="16" font-weight="400" fill="#253c43" text-anchor="middle">100</text>
+<text x="37" y="132" font-size="19" font-weight="700" fill="#253c43" text-anchor="start">Cristianos</text>
+<rect x="37" y="142" width="381.3" height="17" fill="#2f685f"/>
+<text x="425.3" y="157" font-size="17" font-weight="700" fill="#253c43" text-anchor="start">62 %</text>
+<text x="37" y="190" font-size="19" font-weight="700" fill="#253c43" text-anchor="start">Musulmanes</text>
+<rect x="37" y="200" width="202.95" height="17" fill="#2f685f"/>
+<text x="246.95" y="215" font-size="17" font-weight="700" fill="#253c43" text-anchor="start">33 %</text>
+<text x="37" y="248" font-size="19" font-weight="700" fill="#253c43" text-anchor="start">Sin afiliación</text>
+<rect x="37" y="258" width="18.45" height="17" fill="#2f685f"/>
+<text x="62.45" y="273" font-size="17" font-weight="700" fill="#253c43" text-anchor="start">3 %</text>
+<text x="37" y="306" font-size="19" font-weight="700" fill="#253c43" text-anchor="start">Otras religiones</text>
+<rect x="37" y="316" width="18.45" height="17" fill="#2f685f"/>
+<text x="62.45" y="331" font-size="17" font-weight="700" fill="#253c43" text-anchor="start">3 %</text>
+</g>
+</svg>

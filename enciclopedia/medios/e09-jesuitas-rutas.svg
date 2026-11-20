@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 528" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">De Goa a las misiones asiáticas</title><desc id="descripcion">De Goa a las misiones asiáticas. Itinerarios jesuitas de los siglos XVI y XVII. Goa · 1542. Base de aprovisionamiento, formación y correspondencia. Kagoshima · 1549. Javier llega con Anjirō. Se abren contactos con señores japoneses. Zhaoqing · 1583. Ruggieri y Ricci obtienen residencia con apoyo desde Macao. Pekín · 1601. Ricci se establece en la capital imperial de los Ming. Madurai · desde 1606. De Nobili adapta sus formas de trato al entorno letrado local.</desc>
+<rect width="720" height="528" fill="#f7faf9"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#253c43" text-anchor="start">De Goa a las misiones asiáticas</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#253c43" text-anchor="start">Itinerarios jesuitas de los siglos XVI y XVII</text>
+<rect x="34" y="113" width="652" height="63" rx="3" fill="#e7efed"/>
+<rect x="34" y="113" width="5" height="63" fill="#3b756d"/>
+<text x="50" y="137" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">Goa · 1542</text>
+<text x="50" y="162" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">Base de aprovisionamiento, formación y correspondencia.</text>
+<rect x="34" y="188" width="652" height="87" rx="3" fill="#e7efed"/>
+<rect x="34" y="188" width="5" height="87" fill="#3b756d"/>
+<text x="50" y="212" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">Kagoshima · 1549</text>
+<text x="50" y="237" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">Javier llega con Anjirō. Se abren contactos con señores</text>
+<text x="50" y="261" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">japoneses.</text>
+<rect x="34" y="287" width="652" height="63" rx="3" fill="#e7efed"/>
+<rect x="34" y="287" width="5" height="63" fill="#3b756d"/>
+<text x="50" y="311" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">Zhaoqing · 1583</text>
+<text x="50" y="336" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">Ruggieri y Ricci obtienen residencia con apoyo desde Macao.</text>
+<rect x="34" y="362" width="652" height="63" rx="3" fill="#e7efed"/>
+<rect x="34" y="362" width="5" height="63" fill="#3b756d"/>
+<text x="50" y="386" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">Pekín · 1601</text>
+<text x="50" y="411" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">Ricci se establece en la capital imperial de los Ming.</text>
+<rect x="34" y="437" width="652" height="63" rx="3" fill="#e7efed"/>
+<rect x="34" y="437" width="5" height="63" fill="#3b756d"/>
+<text x="50" y="461" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">Madurai · desde 1606</text>
+<text x="50" y="486" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">De Nobili adapta sus formas de trato al entorno letrado local.</text>
+</g>
+</svg>

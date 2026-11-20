@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 469" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Tres proporciones con denominadores distintos</title><desc id="descripcion">Tres proporciones con denominadores distintos. Estimación de 2020 y proyección de 2070. Cristianos en la población mundial. 2020 29 %. 2070 29 %. Cristianos entre los habitantes de África subsahariana. 2020 62 %. 2070 59 %. África subsahariana entre los cristianos del mundo. 2020 31 %. 2070 54 %.</desc>
+<rect width="720" height="469" fill="#f7faf9"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="26" font-weight="700" fill="#253c43" text-anchor="start">Tres proporciones con denominadores distintos</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#253c43" text-anchor="start">Estimación de 2020 y proyección de 2070</text>
+<rect x="37" y="101" width="22" height="16" fill="#2f685f"/>
+<text x="67" y="115" font-size="19" font-weight="600" fill="#253c43" text-anchor="start">2020 · estimación</text>
+<rect x="337" y="101" width="22" height="16" fill="#8b5634"/>
+<text x="367" y="115" font-size="19" font-weight="600" fill="#253c43" text-anchor="start">2070 · proyección</text>
+<path d="M37.0 147V414" stroke="#c8d6d2" stroke-width="1"/>
+<text x="37.0" y="442" font-size="16" font-weight="400" fill="#253c43" text-anchor="middle">0</text>
+<path d="M190.75 147V414" stroke="#c8d6d2" stroke-width="1"/>
+<text x="190.75" y="442" font-size="16" font-weight="400" fill="#253c43" text-anchor="middle">25</text>
+<path d="M344.5 147V414" stroke="#c8d6d2" stroke-width="1"/>
+<text x="344.5" y="442" font-size="16" font-weight="400" fill="#253c43" text-anchor="middle">50</text>
+<path d="M498.25 147V414" stroke="#c8d6d2" stroke-width="1"/>
+<text x="498.25" y="442" font-size="16" font-weight="400" fill="#253c43" text-anchor="middle">75</text>
+<path d="M652.0 147V414" stroke="#c8d6d2" stroke-width="1"/>
+<text x="652.0" y="442" font-size="16" font-weight="400" fill="#253c43" text-anchor="middle">100</text>
+<text x="37" y="166" font-size="19" font-weight="700" fill="#253c43" text-anchor="start">Cristianos en la población mundial</text>
+<rect x="37" y="176" width="178.35" height="17" fill="#2f685f"/>
+<text x="222.35" y="191" font-size="17" font-weight="700" fill="#253c43" text-anchor="start">29 %</text>
+<rect x="37" y="202" width="178.35" height="17" fill="#8b5634"/>
+<text x="222.35" y="217" font-size="17" font-weight="700" fill="#253c43" text-anchor="start">29 %</text>
+<text x="37" y="255" font-size="19" font-weight="700" fill="#253c43" text-anchor="start">Cristianos entre los habitantes de África subsahariana</text>
+<rect x="37" y="265" width="381.3" height="17" fill="#2f685f"/>
+<text x="425.3" y="280" font-size="17" font-weight="700" fill="#253c43" text-anchor="start">62 %</text>
+<rect x="37" y="291" width="362.85" height="17" fill="#8b5634"/>
+<text x="406.85" y="306" font-size="17" font-weight="700" fill="#253c43" text-anchor="start">59 %</text>
+<text x="37" y="344" font-size="19" font-weight="700" fill="#253c43" text-anchor="start">África subsahariana entre los cristianos del mundo</text>
+<rect x="37" y="354" width="190.65" height="17" fill="#2f685f"/>
+<text x="234.65" y="369" font-size="17" font-weight="700" fill="#253c43" text-anchor="start">31 %</text>
+<rect x="37" y="380" width="332.1" height="17" fill="#8b5634"/>
+<text x="376.1" y="395" font-size="17" font-weight="700" fill="#253c43" text-anchor="start">54 %</text>
+</g>
+</svg>

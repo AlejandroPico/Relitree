@@ -2,7 +2,7 @@
 estado: completo
 fase: E09
 orden: 0
-palabras: 5032
+palabras: 5086
 fuentes:
   - "https://umnlibraries.manifoldapp.org/read/conversion-to-christianity/section/4e58fcc9-22fd-46e0-8e68-c08871880b81"
   - "https://www.cambridge.org/core/books/cambridge-history-of-christianity/BD0CF93AEDE20CEA284DED8FC155D7C0"
@@ -171,7 +171,7 @@ La comparación se apoya en personas, lugares y documentos fechados. Cuando una 
 
 ## Recorrido de lectura
 
-Los primeros estudios comparan [[cristianismo/expansion-mundial/cristianizacion-de-europa|la cristianización europea]] y [[cristianismo/expansion-mundial/conquista-y-evangelizacion-en-america|la conquista y la evangelización en América]]. A continuación, [[cristianismo/expansion-mundial/sincretismos-y-rituales-americanos|los rituales y sincretismos americanos]] examinan la creación y transformación de prácticas. [[cristianismo/expansion-mundial/las-casas-y-escuela-de-salamanca|Las Casas y la escuela de Salamanca]] sigue los debates sobre el dominio y la evangelización. El par formado por [[cristianismo/expansion-mundial/cristianismo-y-esclavitud|Cristianismo y esclavitud]] y [[cristianismo/expansion-mundial/abolicionismo-cristiano|El abolicionismo cristiano]] permite contrastar instituciones, argumentos y actuaciones. Los estudios sobre Asia, misiones modernas y cristianismo contemporáneo completarán posteriormente el recorrido. [1–9]
+Los primeros estudios comparan [[cristianismo/expansion-mundial/cristianizacion-de-europa|la cristianización europea]] y [[cristianismo/expansion-mundial/conquista-y-evangelizacion-en-america|la conquista y la evangelización en América]]. A continuación, [[cristianismo/expansion-mundial/sincretismos-y-rituales-americanos|los rituales y sincretismos americanos]] examinan la creación y transformación de prácticas. [[cristianismo/expansion-mundial/las-casas-y-escuela-de-salamanca|Las Casas y la escuela de Salamanca]] sigue los debates sobre el dominio y la evangelización. El par formado por [[cristianismo/expansion-mundial/cristianismo-y-esclavitud|Cristianismo y esclavitud]] y [[cristianismo/expansion-mundial/abolicionismo-cristiano|El abolicionismo cristiano]] permite contrastar instituciones, argumentos y actuaciones. [[cristianismo/expansion-mundial/misiones-jesuitas-en-asia|Misiones jesuitas en Asia]] y [[cristianismo/expansion-mundial/cristianismo-en-china-japon-y-corea|Cristianismo en China, Japón y Corea]] sitúan tres formas de transmisión en Asia. [[cristianismo/expansion-mundial/misiones-y-colonialismo-en-africa|Misiones y colonialismo en África]] y [[cristianismo/expansion-mundial/misiones-protestantes-del-siglo-xix|Misiones protestantes del siglo XIX]] reconstruyen el papel de las sociedades misioneras y la iniciativa local. El recorrido termina con [[cristianismo/expansion-mundial/cristianismo-africano-contemporaneo|El cristianismo africano contemporáneo]] y [[cristianismo/expansion-mundial/sur-global-y-futuro-del-cristianismo|El sur global y el futuro del cristianismo]], que examinan los cambios demográficos y la circulación entre continentes. [1–9]
 
 ### Preguntas para seguir las comparaciones
 

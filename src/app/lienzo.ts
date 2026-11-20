@@ -48,18 +48,12 @@ export const CSS_LIENZO = `
     </div>`,
 })
 export class EjeTiempo {
-  private datos = inject(Datos); private estado = inject(Estado); private i18n = inject(I18n);
+  private estado = inject(Estado); private i18n = inject(I18n);
   marcas = computed(() => {
     const v = this.estado.vista();
-    const out: { anio: number; y: number; texto: string }[] = [];
-    let ultimo = -1e9;
-    for (const anio of this.datos.marcas) {
-      const y = this.datos.yDe(anio) * v.k + v.ty;
-      if (y < 52 || y > v.h - 8 || y - ultimo < 30) continue;
-      ultimo = y;
-      out.push({ anio, y, texto: this.i18n.anio(anio) });
-    }
-    return out;
+    return this.estado.marcasTiempo()
+      .map((m) => ({ anio: m.anio, y: m.y * v.k + v.ty, texto: (m.aproximada ? '≈ ' : '') + this.i18n.anio(m.anio) }))
+      .filter((m) => m.y >= 52 && m.y <= v.h - 8);
   });
 }
 
@@ -117,7 +111,9 @@ interface Escena {
           }
         </defs>
         @for (b of e.bandas; track $index) { <path class="banda" [attr.d]="b.d" [attr.fill]="b.color"/> }
-        @if (estado.capaRejilla()) { @for (m of e.rejilla; track $index) { <path class="rejilla" [attr.d]="m"/> } }
+        @if (estado.capaRejilla()) {
+          <path class="rejilla" [attr.d]="rejilla()"/>
+        }
         @for (t of e.rotulos; track $index) { <text class="rotulo" [class]="'rotulo ' + t.clase" [attr.x]="t.x" [attr.y]="t.y" [attr.fill]="t.color">{{ t.texto }}</text> }
         @if (estado.capaInfluencias()) {
           @for (i of e.influencias; track $index) {
@@ -178,11 +174,22 @@ export class Lienzo {
   private arrastre = 0; private pendiente = 0; private animacion = 0;
   private etq: SVGGElement[] = []; private prioridad: number[] = [];
 
-  escena = computed<Escena>(() => this.construir(this.estado.radial(), this.estado.trazado()));
+  escena = computed<Escena>(() => this.construir(
+    this.estado.radial(),
+    this.estado.trazado(),
+    this.estado.capaPuentes() ? this.estado.ocultos() : null,
+  ));
+
+  readonly rejilla = computed(() => {
+    const e = this.escena();
+    return this.estado.radial()
+      ? e.rejilla.join('')
+      : this.estado.marcasTiempo().map(({ y }) => `M0 ${y}H${e.ancho}`).join('');
+  });
 
   constructor() {
     effect((limpiar) => {
-      this.escena();
+      this.estado.radial(); this.estado.trazado();
       this.etq = [];
       const tarea = setTimeout(() => {
         this.inicio();
@@ -210,7 +217,7 @@ export class Lienzo {
   }
 
   // ---- Geometría ---------------------------------------------------------------------
-  private construir(radial: boolean, plano: Trazado): Escena {
+  private construir(radial: boolean, plano: Trazado, ocultos: ReadonlySet<string> | null): Escena {
     const d = this.datos, A = plano.ancho, H = d.alto;
     // El radio interior crece con el ancho para conservar la separación de los carriles.
     const R_INT = Math.max(260, A * .65 / (2 * Math.PI - HUECO));
@@ -250,11 +257,12 @@ export class Lienzo {
         : `M${x1} 0H${x2}V${H}H${x1}Z` });
       if (radial) { const [X, Y] = P((x1 + x2) / 2, -420); e.rotulos.push({ x: X, y: Y, texto: g.nombre, clase: 'region', color: g.color }); }
     }
-    let previa = -1e9;
-    for (const m of d.marcas) {
-      const y = d.yDe(m);
-      e.rejilla.push(radial ? `M${pt(0, y)}${arco(y, 0, A / 2)}${arco(y, A / 2, A)}` : `M0 ${y}H${A}`);
-      if (radial && Math.abs(y - previa) > 420) { previa = y; e.rotulos.push({ x: C, y: C - rad(y) + 28, texto: this.i18n.anio(m), clase: 'anio', color: null }); }
+    if (radial) {
+      for (const { y, anio, aproximada } of d.marcasUniformes(420)) {
+        e.rejilla.push(`M${pt(0, y)}${arco(y, 0, A / 2)}${arco(y, A / 2, A)}`);
+        const texto = (aproximada ? '≈ ' : '') + this.i18n.anio(anio);
+        e.rotulos.push({ x: C, y: C - rad(y) + 28, texto, clase: 'anio', color: null });
+      }
     }
     // Un giro redondeado sustituye el extremo de la vida. Cuando la vida continúa,
     // la rama nace en T y no duplica el tramo que ya dibuja el tronco.
@@ -297,7 +305,7 @@ export class Lienzo {
       lista.push(rel);
       coincidentes.set(clave, lista);
     }
-    const desvios = new Map<Relacion, string>();
+    const desvios = new Map<Relacion, { y: number; x: number; final: string }>();
     for (const grupo of coincidentes.values()) {
       if (grupo.length < 2) continue;
       const p = plano.porId.get(grupo[0].origen)!;
@@ -319,18 +327,47 @@ export class Lienzo {
         const tramo = radial
           ? curva(x2, y1, xf, c.y).slice(('M' + pt(x2, y1)).length)
           : `C${pt(x2 + (xf - x2) * .4, y1)} ${pt(x2 + (xf - x2) * .7, c.y)} ${pt(xf, c.y)}`;
-        desvios.set(rel, `M${pt(p.x, y1)}${arco(y1, p.x, x2)}${tramo}`);
+        desvios.set(rel, { y: y1, x: x2, final: tramo });
       }
     }
+    const tramosVida: { r: Religion; corte: number; fin: number }[] = [];
     for (const r of plano.religiones) {
       const [X, Y] = P(r.x, r.y);
       e.pos.set(r.id, [X, Y]); e.nodos.push({ r, x: X, y: Y });
-      const yFinal = cortes.get(r.id) ?? r.yFin;
-      if (yFinal < r.y - 0.5) {
-        const yVida = Math.min(r.y, d.yDe(r.fin ?? hoy)), corte = Math.max(yFinal, yVida);
-        e.vidas.push({ r, w: grosorPorFieles(r.fieles), d: vert(r.x, r.y, corte), post: yFinal < corte - 0.5 ? vert(r.x, corte, yFinal) : null });
-      }
+      const fin = cortes.get(r.id) ?? r.yFin;
+      if (fin < r.y - 0.5) tramosVida.push({ r, fin, corte: Math.max(fin, Math.min(r.y, d.yDe(r.fin ?? hoy))) });
     }
+    const visibles = ocultos ? tramosVida.filter(({ r }) => !ocultos.has(r.id)) : [];
+    const huecos = new Map<string, [number, number][]>();
+    const horizontal = (rel: Relacion, y: number, x1: number, x2: number, w: number) => {
+      if (!ocultos || ocultos.has(rel.origen) || ocultos.has(rel.destino)) return arco(y, x1, x2);
+      const sentido = Math.sign(x2 - x1);
+      const escalaX = radial ? rad(y) * (2 * Math.PI - HUECO) / A : 1;
+      const cruces = visibles.filter(({ r, fin }) =>
+        r.id !== rel.origen && r.id !== rel.destino &&
+        (r.x - x1) * sentido > 0 && (x2 - r.x) * sentido > 0 &&
+        y > fin + .5 && y < r.y - .5,
+      ).sort((a, b) => (a.r.x - b.r.x) * sentido);
+
+      let previo = x1, camino = '';
+      for (let i = 0; i < cruces.length; i++) {
+        const { r, fin } = cruces[i];
+        const siguiente = cruces[i + 1]?.r.x ?? x2;
+        const radio = Math.min(28, Math.abs(r.x - previo) * escalaX * .48,
+          Math.abs(siguiente - r.x) * escalaX * .45, (y - fin) * .56);
+        if (radio < 6) continue;
+        const dx = sentido * radio / escalaX, cresta = y - radio * .82;
+        const margen = Math.min(radio * .74, Math.max(4, w * 1.6 + 2));
+        const lista = huecos.get(r.id) ?? [];
+        lista.push([cresta - margen, cresta + margen]);
+        huecos.set(r.id, lista);
+        camino += arco(y, previo, r.x - dx) +
+          `C${pt(r.x - dx * .48, y)} ${pt(r.x - dx * .48, cresta)} ${pt(r.x, cresta)}` +
+          `C${pt(r.x + dx * .48, cresta)} ${pt(r.x + dx * .48, y)} ${pt(r.x + dx, y)}`;
+        previo = r.x + dx;
+      }
+      return camino + arco(y, previo, x2);
+    };
     for (const rel of d.relaciones) {
       const p = plano.porId.get(rel.origen)!, c = plano.porId.get(rel.destino)!;
       const lado = Math.sign(c.x - p.x) || 1, xf = c.x - lado * (c.r + 1);
@@ -344,16 +381,36 @@ export class Lienzo {
       const w = grosorPorFieles(c.fieles);
       if (rel.principal) {
         const rc = giros.get(rel) ?? 0;
-        const camino = desvios.get(rel) ?? (rc > 1
-          ? `M${p.x} ${c.y + rc}Q${p.x} ${c.y} ${p.x + lado * rc} ${c.y}H${xf}`
-          : `M${pt(p.x, c.y)}${arco(c.y, p.x, xf)}`);
+        const desvio = desvios.get(rel);
+        const camino = desvio
+          ? `M${pt(p.x, desvio.y)}${horizontal(rel, desvio.y, p.x, desvio.x, w)}${desvio.final}`
+          : rc > 1
+            ? `M${p.x} ${c.y + rc}Q${p.x} ${c.y} ${p.x + lado * rc} ${c.y}${horizontal(rel, c.y, p.x + lado * rc, xf, w)}`
+            : `M${pt(p.x, c.y)}${horizontal(rel, c.y, p.x, xf, w)}`;
         e.ramas.push({ rel, d: camino, trazo, w, punteada: rel.clase === 'renacimiento', a: p.id, b: c.id });
       } else {
         const lejos = rel.clase === 'influencia' && (p.region !== c.region || Math.abs(p.x - c.x) > 1500);
         const comba = rel.clase === 'influencia' && sy === c.y ? 46 : 0;
-        const obj = { rel, d: curva(p.x, sy, xf, c.y, comba), trazo, w: Math.max(1.6, w * 0.4), punteada: false, a: p.id, b: c.id };
+        const peso = Math.max(1.6, w * .4);
+        const camino = rel.clase !== 'influencia' && sy === c.y
+          ? `M${pt(p.x, sy)}${horizontal(rel, sy, p.x, xf, peso)}`
+          : curva(p.x, sy, xf, c.y, comba);
+        const obj = { rel, d: camino, trazo, w: peso, punteada: false, a: p.id, b: c.id };
         (rel.clase !== 'influencia' ? e.ramas : lejos ? e.lejanas : e.influencias).push(obj);
       }
+    }
+    for (const { r, fin, corte } of tramosVida) {
+      const cortesVida = (huecos.get(r.id) ?? []).sort((a, b) => b[1] - a[1]);
+      const pintar = (desde: number, hasta: number) => {
+        let camino = '', previo = desde;
+        for (const [superior, inferior] of cortesVida) {
+          if (superior >= previo || inferior <= hasta) continue;
+          if (inferior < previo) camino += vert(r.x, previo, inferior);
+          previo = Math.max(hasta, superior);
+        }
+        return camino + (previo > hasta || cortesVida.length === 0 ? vert(r.x, previo, hasta) : '');
+      };
+      e.vidas.push({ r, w: grosorPorFieles(r.fieles), d: pintar(r.y, corte), post: fin < corte - .5 ? pintar(corte, fin) : null });
     }
     return e;
   }

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 429" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Cómo funcionaba un puesto misionero</title><desc id="descripcion">Cómo funcionaba un puesto misionero. Participantes, recursos y decisiones concretas. Autoridades y propietarios. Residencia, adjudicación del suelo y reconocimiento escolar. Red misionera. Pasajes, equipamiento, informes y nombramientos. Maestros y empleados locales. Formación, traducción, enseñanza y atención cotidiana. Congregaciones y familias. Trabajo, alojamiento, matrículas y aportaciones.</desc>
+<rect width="720" height="429" fill="#f7faf9"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#253c43" text-anchor="start">Cómo funcionaba un puesto misionero</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#253c43" text-anchor="start">Participantes, recursos y decisiones concretas</text>
+<rect x="34" y="113" width="652" height="63" rx="3" fill="#e7efed"/>
+<rect x="34" y="113" width="5" height="63" fill="#3b756d"/>
+<text x="50" y="137" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">Autoridades y propietarios</text>
+<text x="50" y="162" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">Residencia, adjudicación del suelo y reconocimiento escolar.</text>
+<rect x="34" y="188" width="652" height="63" rx="3" fill="#e7efed"/>
+<rect x="34" y="188" width="5" height="63" fill="#3b756d"/>
+<text x="50" y="212" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">Red misionera</text>
+<text x="50" y="237" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">Pasajes, equipamiento, informes y nombramientos.</text>
+<rect x="34" y="263" width="652" height="63" rx="3" fill="#e7efed"/>
+<rect x="34" y="263" width="5" height="63" fill="#3b756d"/>
+<text x="50" y="287" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">Maestros y empleados locales</text>
+<text x="50" y="312" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">Formación, traducción, enseñanza y atención cotidiana.</text>
+<rect x="34" y="338" width="652" height="63" rx="3" fill="#e7efed"/>
+<rect x="34" y="338" width="5" height="63" fill="#3b756d"/>
+<text x="50" y="362" font-size="20" font-weight="700" fill="#253c43" text-anchor="start">Congregaciones y familias</text>
+<text x="50" y="387" font-size="19" font-weight="400" fill="#253c43" text-anchor="start">Trabajo, alojamiento, matrículas y aportaciones.</text>
+</g>
+</svg>

@@ -24,6 +24,9 @@ export class Estado {
   readonly capaInfluencias = signal(true);
   readonly capaExtintas = signal(true);
   readonly capaRejilla = signal(true);
+  readonly capaPuentes = signal(true);
+  private readonly pasoVertical = computed(() => 48 / this.vista().k);
+  readonly marcasTiempo = computed(() => this.datos.marcasUniformes(this.pasoVertical()));
   readonly vidasCompletas = signal(false);
   readonly trazado = computed(() => this.datos.trazado(this.vidasCompletas()));
 
