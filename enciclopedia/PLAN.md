@@ -140,18 +140,21 @@ Estado editorial: fase completada, 15 de 15 artículos publicados.
 
 ## Fase E08 · Cristianismo · Reforma y guerras de religión
 
-- Martín Lutero
-- La Reforma protestante
-- Calvino y la Reforma suiza
-- La Reforma inglesa
-- La Reforma radical
-- La Contrarreforma
-- Las guerras de religión de Francia
-- La guerra de los Ochenta Años
-- La guerra de los Treinta Años
-- Paz de Augsburgo y Paz de Westfalia
-- Las Biblias de la Reforma
-- Puritanos y la emigración a América
+Estado editorial: en curso, 2 de 12 artículos publicados.
+
+- [x] [La Reforma protestante · Visión de conjunto](es/religiones/cristianismo/reforma/panorama.md)
+- [x] [1483–1546 · Martín Lutero](es/religiones/cristianismo/reforma/martin-lutero.md)
+
+- [ ] Calvino y la Reforma suiza
+- [ ] La Reforma inglesa
+- [ ] La Reforma radical
+- [ ] La Contrarreforma
+- [ ] Las guerras de religión de Francia
+- [ ] La guerra de los Ochenta Años
+- [ ] La guerra de los Treinta Años
+- [ ] Paz de Augsburgo y Paz de Westfalia
+- [ ] Las Biblias de la Reforma
+- [ ] Puritanos y la emigración a América
 
 ## Fase E09 · Cristianismo · Expansión mundial
 

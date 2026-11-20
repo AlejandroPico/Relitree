@@ -1,8 +1,8 @@
 # Relitree
 
-**Versión 1.7.24**
+**Versión 1.7.25**
 
-La [enciclopedia](enciclopedia/PLAN.md#fase-e07--cristianismo--cruzadas-y-guerras-santas) completa «Cruzadas y guerras santas» con 15 artículos. Las entregas 7.6 y 7.7 incorporan la cruzada albigense, las cruzadas bálticas, la Cruzada de los Niños, las cruzadas tardías y la idea de cruzada en la Reconquista. «Los concilios · Visión de conjunto» abre el desplegable de concilios ecuménicos. El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
+La [enciclopedia](enciclopedia/PLAN.md#fase-e08--cristianismo--reforma-y-guerras-de-religión) abre «Reforma y guerras de religión» con la visión de conjunto de la Reforma protestante y la biografía de Martín Lutero. El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
 
 El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto.
 

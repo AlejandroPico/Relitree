@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 350" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Augsburgo, Nantes y Westfalia</title>
+  <desc id="descripcion">1555 · Augsburgo. Sacro Imperio. Incluyó a católicos y adherentes a la Confesión de Augsburgo.. 1598 · Nantes. Reino de Francia. Reguló la práctica del culto reformado y sus garantías en lugares concretos.. 1648 · Westfalia. Sacro Imperio. Incluyó a los reformados en el arreglo imperial y reguló derechos de culto.</desc>
+  <rect x="0" y="0" width="760" height="350" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #243532 }
+    .title { font-size: 27px; font-weight: 740 }
+    .note { font-size: 15px; fill: #49625b }
+    .heading { font-size: 18px; font-weight: 700; fill: #174e46 }
+    .date { font-size: 17px; font-weight: 740; fill: #175e53 }
+    .small { font-size: 16px; font-weight: 530 }
+    .item { font-size: 19px; font-weight: 540 }
+  </style>
+  <text x="28" y="45" class="title"><tspan x="28" dy="0">Augsburgo, Nantes y Westfalia</tspan></text>
+  <text x="28" y="70" class="note"><tspan x="28" dy="0">Ámbito y disposiciones religiosas de tres acuerdos</tspan></text>
+  <rect x="28" y="95" width="704" height="75" fill="#e1ebe5"/>
+  <text x="45" y="122" class="heading"><tspan x="45" dy="0">1555 · Augsburgo</tspan></text>
+  <text x="45" y="146" class="note"><tspan x="45" dy="0">Sacro Imperio</tspan></text>
+  <text x="275" y="123" class="small"><tspan x="275" dy="0">Incluyó a católicos y adherentes a la</tspan><tspan x="275" dy="22">Confesión de Augsburgo.</tspan></text>
+  <rect x="28" y="179" width="704" height="75" fill="#e9eee9"/>
+  <text x="45" y="206" class="heading"><tspan x="45" dy="0">1598 · Nantes</tspan></text>
+  <text x="45" y="230" class="note"><tspan x="45" dy="0">Reino de Francia</tspan></text>
+  <text x="275" y="207" class="small"><tspan x="275" dy="0">Reguló la práctica del culto reformado y sus</tspan><tspan x="275" dy="22">garantías en lugares concretos.</tspan></text>
+  <rect x="28" y="263" width="704" height="75" fill="#e1ebe5"/>
+  <text x="45" y="290" class="heading"><tspan x="45" dy="0">1648 · Westfalia</tspan></text>
+  <text x="45" y="314" class="note"><tspan x="45" dy="0">Sacro Imperio</tspan></text>
+  <text x="275" y="291" class="small"><tspan x="275" dy="0">Incluyó a los reformados en el arreglo</tspan><tspan x="275" dy="22">imperial y reguló derechos de culto.</tspan></text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 700" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Martín Lutero · Cronología</title>
+  <desc id="descripcion">1483–1512. De Eisleben a Wittenberg. Nace en Eisleben, ingresa en los agustinos en 1505 y se doctora en 1512.. 1517. Las noventa y cinco tesis. Remite a Alberto de Maguncia su escrito sobre las indulgencias.. 1520–1521. Ruptura con Roma y Dieta de Worms. Roma lo excomulga y Carlos V promulga el Edicto de Worms.. 1522. Vuelta a Wittenberg. Sermones de Invocavit y edición alemana del Nuevo Testamento.. 1525. Conflictos y vida familiar. Se pronuncia contra la revuelta campesina y se casa con Catalina de Bora.. 1529–1530. Catecismos, Marburgo y Augsburgo. Publica sus catecismos. Melanchthon prepara la Confesión de Augsburgo.. 1534. Biblia completa en alemán. La traducción, revisada con colaboradores, se publica en Wittenberg.. 1543–1546. Últimos escritos y muerte. Publica su tratado antijudío en 1543. Muere en Eisleben en 1546.</desc>
+  <rect x="0" y="0" width="760" height="700" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #243532 }
+    .title { font-size: 27px; font-weight: 740 }
+    .note { font-size: 15px; fill: #49625b }
+    .heading { font-size: 18px; font-weight: 700; fill: #174e46 }
+    .date { font-size: 17px; font-weight: 740; fill: #175e53 }
+    .small { font-size: 16px; font-weight: 530 }
+    .item { font-size: 19px; font-weight: 540 }
+  </style>
+  <text x="28" y="45" class="title"><tspan x="28" dy="0">Martín Lutero · Cronología</tspan></text>
+  <text x="28" y="70" class="note"><tspan x="28" dy="0">Formación, controversia, traducción y organización de las iglesias</tspan></text>
+  <path d="M159,111L159,636" stroke="#90a79d" fill="none" stroke-width="2"/>
+  <text x="30" y="115" class="date"><tspan x="30" dy="0">1483–1512</tspan></text>
+  <circle cx="159" cy="110" r="5" fill="#28796b"/>
+  <text x="183" y="115" class="heading"><tspan x="183" dy="0">De Eisleben a Wittenberg</tspan></text>
+  <text x="183" y="139" class="small"><tspan x="183" dy="0">Nace en Eisleben, ingresa en los agustinos en 1505 y se</tspan><tspan x="183" dy="20">doctora en 1512.</tspan></text>
+  <text x="30" y="190" class="date"><tspan x="30" dy="0">1517</tspan></text>
+  <circle cx="159" cy="185" r="5" fill="#28796b"/>
+  <text x="183" y="190" class="heading"><tspan x="183" dy="0">Las noventa y cinco tesis</tspan></text>
+  <text x="183" y="214" class="small"><tspan x="183" dy="0">Remite a Alberto de Maguncia su escrito sobre las</tspan><tspan x="183" dy="20">indulgencias.</tspan></text>
+  <text x="30" y="265" class="date"><tspan x="30" dy="0">1520–1521</tspan></text>
+  <circle cx="159" cy="260" r="5" fill="#28796b"/>
+  <text x="183" y="265" class="heading"><tspan x="183" dy="0">Ruptura con Roma y Dieta de Worms</tspan></text>
+  <text x="183" y="289" class="small"><tspan x="183" dy="0">Roma lo excomulga y Carlos V promulga el Edicto de Worms.</tspan></text>
+  <text x="30" y="340" class="date"><tspan x="30" dy="0">1522</tspan></text>
+  <circle cx="159" cy="335" r="5" fill="#28796b"/>
+  <text x="183" y="340" class="heading"><tspan x="183" dy="0">Vuelta a Wittenberg</tspan></text>
+  <text x="183" y="364" class="small"><tspan x="183" dy="0">Sermones de Invocavit y edición alemana del Nuevo</tspan><tspan x="183" dy="20">Testamento.</tspan></text>
+  <text x="30" y="415" class="date"><tspan x="30" dy="0">1525</tspan></text>
+  <circle cx="159" cy="410" r="5" fill="#28796b"/>
+  <text x="183" y="415" class="heading"><tspan x="183" dy="0">Conflictos y vida familiar</tspan></text>
+  <text x="183" y="439" class="small"><tspan x="183" dy="0">Se pronuncia contra la revuelta campesina y se casa con</tspan><tspan x="183" dy="20">Catalina de Bora.</tspan></text>
+  <text x="30" y="490" class="date"><tspan x="30" dy="0">1529–1530</tspan></text>
+  <circle cx="159" cy="485" r="5" fill="#28796b"/>
+  <text x="183" y="490" class="heading"><tspan x="183" dy="0">Catecismos, Marburgo y Augsburgo</tspan></text>
+  <text x="183" y="514" class="small"><tspan x="183" dy="0">Publica sus catecismos. Melanchthon prepara la Confesión</tspan><tspan x="183" dy="20">de Augsburgo.</tspan></text>
+  <text x="30" y="565" class="date"><tspan x="30" dy="0">1534</tspan></text>
+  <circle cx="159" cy="560" r="5" fill="#28796b"/>
+  <text x="183" y="565" class="heading"><tspan x="183" dy="0">Biblia completa en alemán</tspan></text>
+  <text x="183" y="589" class="small"><tspan x="183" dy="0">La traducción, revisada con colaboradores, se publica en</tspan><tspan x="183" dy="20">Wittenberg.</tspan></text>
+  <text x="30" y="640" class="date"><tspan x="30" dy="0">1543–1546</tspan></text>
+  <circle cx="159" cy="635" r="5" fill="#28796b"/>
+  <text x="183" y="640" class="heading"><tspan x="183" dy="0">Últimos escritos y muerte</tspan></text>
+  <text x="183" y="664" class="small"><tspan x="183" dy="0">Publica su tratado antijudío en 1543. Muere en Eisleben en</tspan><tspan x="183" dy="20">1546.</tspan></text>
+</svg>

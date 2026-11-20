@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 605" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Lutero y Roma · De las tesis al Edicto de Worms</title>
+  <desc id="descripcion">1517. Una controversia académica se hace pública. Lutero remite sus tesis a Alberto de Maguncia y aparecen ediciones impresas.. 1518–1519. Augsburgo y Leipzig. Cayetano le pide retractarse. Con Eck se discuten la autoridad del papa y la de los concilios.. 1520. Advertencia de Roma y rechazo público. La bula Exsurge Domine le exige retractarse. Lutero quema un ejemplar.. Enero de 1521. Decisión eclesiástica. La bula Decet Romanum Pontificem formaliza la excomunión.. Abril–mayo de 1521. Decisión imperial. Lutero comparece en Worms. El edicto lo proscribe y prohíbe difundir sus escritos.</desc>
+  <rect x="0" y="0" width="760" height="605" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #243532 }
+    .title { font-size: 27px; font-weight: 740 }
+    .note { font-size: 15px; fill: #49625b }
+    .heading { font-size: 18px; font-weight: 700; fill: #174e46 }
+    .date { font-size: 17px; font-weight: 740; fill: #175e53 }
+    .small { font-size: 16px; font-weight: 530 }
+    .item { font-size: 19px; font-weight: 540 }
+  </style>
+  <text x="28" y="45" class="title"><tspan x="28" dy="0">Lutero y Roma · De las tesis al Edicto de Worms</tspan></text>
+  <text x="28" y="70" class="note"><tspan x="28" dy="0">La excomunión pontificia y la proscripción imperial fueron decisiones distintas.</tspan></text>
+  <rect x="28" y="95" width="704" height="84" fill="#e1ebe5"/>
+  <text x="44" y="123" class="date"><tspan x="44" dy="0">1517</tspan></text>
+  <text x="240" y="122" class="heading"><tspan x="240" dy="0">Una controversia académica se hace pública</tspan></text>
+  <text x="240" y="146" class="small"><tspan x="240" dy="0">Lutero remite sus tesis a Alberto de Maguncia y</tspan><tspan x="240" dy="20">aparecen ediciones impresas.</tspan></text>
+  <path d="M52,179L52,194" stroke="#90a79d" fill="none" stroke-width="2"/>
+  <rect x="28" y="195" width="704" height="84" fill="#ecefe7"/>
+  <text x="44" y="223" class="date"><tspan x="44" dy="0">1518–1519</tspan></text>
+  <text x="240" y="222" class="heading"><tspan x="240" dy="0">Augsburgo y Leipzig</tspan></text>
+  <text x="240" y="246" class="small"><tspan x="240" dy="0">Cayetano le pide retractarse. Con Eck se discuten la</tspan><tspan x="240" dy="20">autoridad del papa y la de los concilios.</tspan></text>
+  <path d="M52,279L52,294" stroke="#90a79d" fill="none" stroke-width="2"/>
+  <rect x="28" y="295" width="704" height="84" fill="#e1ebe5"/>
+  <text x="44" y="323" class="date"><tspan x="44" dy="0">1520</tspan></text>
+  <text x="240" y="322" class="heading"><tspan x="240" dy="0">Advertencia de Roma y rechazo público</tspan></text>
+  <text x="240" y="346" class="small"><tspan x="240" dy="0">La bula Exsurge Domine le exige retractarse. Lutero</tspan><tspan x="240" dy="20">quema un ejemplar.</tspan></text>
+  <path d="M52,379L52,394" stroke="#90a79d" fill="none" stroke-width="2"/>
+  <rect x="28" y="395" width="704" height="84" fill="#eee4d3"/>
+  <text x="44" y="423" class="date"><tspan x="44" dy="0">Enero de 1521</tspan></text>
+  <text x="240" y="422" class="heading"><tspan x="240" dy="0">Decisión eclesiástica</tspan></text>
+  <text x="240" y="446" class="small"><tspan x="240" dy="0">La bula Decet Romanum Pontificem formaliza la</tspan><tspan x="240" dy="20">excomunión.</tspan></text>
+  <path d="M52,479L52,494" stroke="#90a79d" fill="none" stroke-width="2"/>
+  <rect x="28" y="495" width="704" height="84" fill="#dce8ea"/>
+  <text x="44" y="523" class="date"><tspan x="44" dy="0">Abril–mayo de 1521</tspan></text>
+  <text x="240" y="522" class="heading"><tspan x="240" dy="0">Decisión imperial</tspan></text>
+  <text x="240" y="546" class="small"><tspan x="240" dy="0">Lutero comparece en Worms. El edicto lo proscribe y</tspan><tspan x="240" dy="20">prohíbe difundir sus escritos.</tspan></text>
+</svg>
