@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 444" role="img" aria-labelledby="title desc">
+<title id="title">Libros de Oración Común · 1549–1559</title>
+<desc id="desc">1549. Primera edición bajo Eduardo VI. Una orden común en inglés regula liturgia y sacramentos.. 1552. Segunda edición. Reorganiza la comunión y modifica elementos ceremoniales.. 1553–1558. Restauración bajo María I. Se restablece el culto católico y la comunión con Roma.. 1559. Versión isabelina. Retoma y modifica el libro de 1552 para el culto público.</desc>
+<rect x="0" y="0" width="760" height="444" fill="#f7f4ec"/>
+<style>text{font-family:system-ui,sans-serif;fill:#243532}.title{font-size:27px;font-weight:720}.note{font-size:15px;fill:#49615a}.head{font-size:19px;font-weight:710;fill:#174e46}.date{font-size:17px;font-weight:730;fill:#176257}.item{font-size:17px;font-weight:520}</style>
+<text x="28" y="45" class="title"><tspan x="28" dy="0">Libros de Oración Común · 1549–1559</tspan></text>
+<text x="28" y="72" class="note"><tspan x="28" dy="0">Cambios del culto bajo Eduardo VI, María I e Isabel I</tspan></text>
+<rect x="28" y="95" width="704" height="79" fill="#e1eae4"/>
+<text x="38" y="120" class="date"><tspan x="38" dy="0">1549</tspan></text>
+<text x="209" y="120" class="head"><tspan x="209" dy="0">Primera edición bajo Eduardo VI</tspan></text>
+<text x="209" y="143" class="item"><tspan x="209" dy="0">Una orden común en inglés regula liturgia y</tspan><tspan x="209" dy="21">sacramentos.</tspan></text>
+<rect x="28" y="178" width="704" height="79" fill="#ecede4"/>
+<text x="38" y="203" class="date"><tspan x="38" dy="0">1552</tspan></text>
+<text x="209" y="203" class="head"><tspan x="209" dy="0">Segunda edición</tspan></text>
+<text x="209" y="226" class="item"><tspan x="209" dy="0">Reorganiza la comunión y modifica elementos</tspan><tspan x="209" dy="21">ceremoniales.</tspan></text>
+<rect x="28" y="261" width="704" height="79" fill="#e1eae4"/>
+<text x="38" y="286" class="date"><tspan x="38" dy="0">1553–1558</tspan></text>
+<text x="209" y="286" class="head"><tspan x="209" dy="0">Restauración bajo María I</tspan></text>
+<text x="209" y="309" class="item"><tspan x="209" dy="0">Se restablece el culto católico y la comunión con</tspan><tspan x="209" dy="21">Roma.</tspan></text>
+<rect x="28" y="344" width="704" height="79" fill="#ecede4"/>
+<text x="38" y="369" class="date"><tspan x="38" dy="0">1559</tspan></text>
+<text x="209" y="369" class="head"><tspan x="209" dy="0">Versión isabelina</tspan></text>
+<text x="209" y="392" class="item"><tspan x="209" dy="0">Retoma y modifica el libro de 1552 para el culto</tspan><tspan x="209" dy="21">público.</tspan></text>
+</svg>

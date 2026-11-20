@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 651" role="img" aria-labelledby="title desc">
+<title id="title">Reforma radical · Cronología</title>
+<desc id="desc">1524. Carta de Grebel y sermón de Müntzer. Dos documentos permiten comparar programas reformadores.. 1525. Zúrich y Frankenhausen. Bautismos de creyentes en Zúrich. Müntzer es ejecutado.. 1527. Schleitheim. Acuerdo de congregaciones suizas y sudalemanas.. 1528–1529. Viena y Espira. Ejecución de Hubmaier y mandato contra el anabaptismo.. 1534–1535. Münster. Gobierno anabaptista de la ciudad, sitio y derrota.. Desde 1536. Menno Simons. Reorganización de congregaciones en los Países Bajos.. 1553. Proceso de Servet. Las autoridades civiles de Ginebra lo condenan a muerte.</desc>
+<rect x="0" y="0" width="760" height="651" fill="#f7f4ec"/>
+<style>text{font-family:system-ui,sans-serif;fill:#243532}.title{font-size:27px;font-weight:720}.note{font-size:15px;fill:#49615a}.head{font-size:19px;font-weight:710;fill:#174e46}.date{font-size:17px;font-weight:730;fill:#176257}.item{font-size:17px;font-weight:520}</style>
+<text x="28" y="45" class="title"><tspan x="28" dy="0">Reforma radical · Cronología</tspan></text>
+<text x="28" y="72" class="note"><tspan x="28" dy="0">Episodios seleccionados en varios territorios</tspan></text>
+<path d="M177 114V570" stroke="#8ea99e" stroke-width="2" fill="none"/>
+<circle cx="177" cy="114" r="5" fill="#24776a"/>
+<text x="38" y="120" class="date"><tspan x="38" dy="0">1524</tspan></text>
+<text x="209" y="120" class="head"><tspan x="209" dy="0">Carta de Grebel y sermón de Müntzer</tspan></text>
+<text x="209" y="143" class="item"><tspan x="209" dy="0">Dos documentos permiten comparar programas</tspan><tspan x="209" dy="21">reformadores.</tspan></text>
+<circle cx="177" cy="197" r="5" fill="#24776a"/>
+<text x="38" y="203" class="date"><tspan x="38" dy="0">1525</tspan></text>
+<text x="209" y="203" class="head"><tspan x="209" dy="0">Zúrich y Frankenhausen</tspan></text>
+<text x="209" y="226" class="item"><tspan x="209" dy="0">Bautismos de creyentes en Zúrich. Müntzer es</tspan><tspan x="209" dy="21">ejecutado.</tspan></text>
+<circle cx="177" cy="280" r="5" fill="#24776a"/>
+<text x="38" y="286" class="date"><tspan x="38" dy="0">1527</tspan></text>
+<text x="209" y="286" class="head"><tspan x="209" dy="0">Schleitheim</tspan></text>
+<text x="209" y="309" class="item"><tspan x="209" dy="0">Acuerdo de congregaciones suizas y sudalemanas.</tspan></text>
+<circle cx="177" cy="342" r="5" fill="#24776a"/>
+<text x="38" y="348" class="date"><tspan x="38" dy="0">1528–1529</tspan></text>
+<text x="209" y="348" class="head"><tspan x="209" dy="0">Viena y Espira</tspan></text>
+<text x="209" y="371" class="item"><tspan x="209" dy="0">Ejecución de Hubmaier y mandato contra el</tspan><tspan x="209" dy="21">anabaptismo.</tspan></text>
+<circle cx="177" cy="425" r="5" fill="#24776a"/>
+<text x="38" y="431" class="date"><tspan x="38" dy="0">1534–1535</tspan></text>
+<text x="209" y="431" class="head"><tspan x="209" dy="0">Münster</tspan></text>
+<text x="209" y="454" class="item"><tspan x="209" dy="0">Gobierno anabaptista de la ciudad, sitio y derrota.</tspan></text>
+<circle cx="177" cy="487" r="5" fill="#24776a"/>
+<text x="38" y="493" class="date"><tspan x="38" dy="0">Desde 1536</tspan></text>
+<text x="209" y="493" class="head"><tspan x="209" dy="0">Menno Simons</tspan></text>
+<text x="209" y="516" class="item"><tspan x="209" dy="0">Reorganización de congregaciones en los Países</tspan><tspan x="209" dy="21">Bajos.</tspan></text>
+<circle cx="177" cy="570" r="5" fill="#24776a"/>
+<text x="38" y="576" class="date"><tspan x="38" dy="0">1553</tspan></text>
+<text x="209" y="576" class="head"><tspan x="209" dy="0">Proceso de Servet</tspan></text>
+<text x="209" y="599" class="item"><tspan x="209" dy="0">Las autoridades civiles de Ginebra lo condenan a</tspan><tspan x="209" dy="21">muerte.</tspan></text>
+</svg>

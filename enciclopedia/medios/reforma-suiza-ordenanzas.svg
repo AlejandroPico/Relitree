@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 485" role="img" aria-labelledby="title desc">
+<title id="title">Ginebra · Ordenanzas de 1541</title>
+<desc id="desc">Pastores. Predicación y sacramentos. Los ministros sostienen el culto y examinan la doctrina.. Doctores. Enseñanza. Formación en lenguas, humanidades y teología.. Ancianos. Disciplina. Con los pastores forman el Consistorio y examinan casos.. Diáconos. Asistencia. Atención a pobres y enfermos y administración de la ayuda.. Consejos civiles. Gobierno de la ciudad. Aprueban las ordenanzas y dictan sanciones civiles.</desc>
+<rect x="0" y="0" width="760" height="485" fill="#f7f4ec"/>
+<style>text{font-family:system-ui,sans-serif;fill:#243532}.title{font-size:27px;font-weight:720}.note{font-size:15px;fill:#49615a}.head{font-size:19px;font-weight:710;fill:#174e46}.date{font-size:17px;font-weight:730;fill:#176257}.item{font-size:17px;font-weight:520}</style>
+<text x="28" y="45" class="title"><tspan x="28" dy="0">Ginebra · Ordenanzas de 1541</tspan></text>
+<text x="28" y="72" class="note"><tspan x="28" dy="0">Ministerios de la Iglesia y relación con el gobierno urbano</tspan></text>
+<rect x="28" y="95" width="704" height="79" fill="#e1eae4"/>
+<text x="38" y="120" class="date"><tspan x="38" dy="0">Pastores</tspan></text>
+<text x="209" y="120" class="head"><tspan x="209" dy="0">Predicación y sacramentos</tspan></text>
+<text x="209" y="143" class="item"><tspan x="209" dy="0">Los ministros sostienen el culto y examinan la</tspan><tspan x="209" dy="21">doctrina.</tspan></text>
+<rect x="28" y="178" width="704" height="58" fill="#ecede4"/>
+<text x="38" y="203" class="date"><tspan x="38" dy="0">Doctores</tspan></text>
+<text x="209" y="203" class="head"><tspan x="209" dy="0">Enseñanza</tspan></text>
+<text x="209" y="226" class="item"><tspan x="209" dy="0">Formación en lenguas, humanidades y teología.</tspan></text>
+<rect x="28" y="240" width="704" height="79" fill="#e1eae4"/>
+<text x="38" y="265" class="date"><tspan x="38" dy="0">Ancianos</tspan></text>
+<text x="209" y="265" class="head"><tspan x="209" dy="0">Disciplina</tspan></text>
+<text x="209" y="288" class="item"><tspan x="209" dy="0">Con los pastores forman el Consistorio y examinan</tspan><tspan x="209" dy="21">casos.</tspan></text>
+<rect x="28" y="323" width="704" height="79" fill="#ecede4"/>
+<text x="38" y="348" class="date"><tspan x="38" dy="0">Diáconos</tspan></text>
+<text x="209" y="348" class="head"><tspan x="209" dy="0">Asistencia</tspan></text>
+<text x="209" y="371" class="item"><tspan x="209" dy="0">Atención a pobres y enfermos y administración de la</tspan><tspan x="209" dy="21">ayuda.</tspan></text>
+<rect x="28" y="406" width="704" height="58" fill="#e1eae4"/>
+<text x="38" y="431" class="date"><tspan x="38" dy="0">Consejos civiles</tspan></text>
+<text x="209" y="431" class="head"><tspan x="209" dy="0">Gobierno de la ciudad</tspan></text>
+<text x="209" y="454" class="item"><tspan x="209" dy="0">Aprueban las ordenanzas y dictan sanciones civiles.</tspan></text>
+</svg>

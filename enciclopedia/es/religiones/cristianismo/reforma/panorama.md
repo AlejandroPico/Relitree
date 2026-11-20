@@ -2,7 +2,7 @@
 estado: completo
 fase: E08
 orden: 0
-palabras: 5095
+palabras: 5103
 fuentes:
   - "https://academic.oup.com/book/61372"
   - "https://academic.oup.com/edited-volume/34628"
@@ -222,7 +222,7 @@ Al estudiar una reforma, resulta práctico anotar por separado la fecha en que s
 
 ### Un recorrido por los artículos de la fase
 
-El primer paso es el estudio de [[cristianismo/reforma/martin-lutero|Martín Lutero]], que explica la controversia de las indulgencias, Worms y la traducción bíblica desde la perspectiva de una biografía. Los estudios previstos de Calvino y de la Reforma radical ampliarán la comparación suiza y centroeuropea. Los de Inglaterra y las traducciones añadirán el paso de los textos al culto y al gobierno de las iglesias. La reforma católica, las guerras, los tratados y el puritanismo permiten seguir cambios en los que la pertenencia religiosa afectó a la política, la vida local y las migraciones. Las conexiones con Trento, las iglesias reformadas y las tradiciones luteranas ofrecen ya caminos adicionales desde esta guía. [1–13]
+El primer paso es el estudio de [[cristianismo/reforma/martin-lutero|Martín Lutero]], que explica la controversia de las indulgencias, Worms y la traducción bíblica desde la perspectiva de una biografía. Los estudios sobre [[cristianismo/reforma/calvino-y-reforma-suiza|Calvino y la Reforma suiza]] y [[cristianismo/reforma/reforma-radical|la Reforma radical]] amplían la comparación suiza y centroeuropea. [[cristianismo/reforma/reforma-inglesa|La Reforma inglesa]] sigue los cambios de culto y gobierno bajo los Tudor. [[cristianismo/reforma/biblias-de-la-reforma|Las Biblias de la Reforma]] recorren los vínculos entre traducción, imprenta y lectura. La reforma católica, las guerras, los tratados y el puritanismo permiten seguir cambios en los que la pertenencia religiosa afectó a la política, la vida local y las migraciones. Las conexiones con Trento, las iglesias reformadas y las tradiciones luteranas ofrecen ya caminos adicionales desde esta guía. [1–13]
 
 ## Fuentes
 

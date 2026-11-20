@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 536" role="img" aria-labelledby="title desc">
+<title id="title">Biblia impresa · Cuatro continuidades</title>
+<desc id="desc">Alemán. 1522 · Nuevo Testamento de Lutero. 1534 · Biblia completa del equipo de Wittenberg. Francés. 1535 · Biblia de Olivétan. 1553 · Revisión de Estienne en Ginebra. Inglés. 1539 · Gran Biblia. 1568 · Biblia de los Obispos. Castellano. 1569 · Biblia del Oso. 1602 · Revisión de Cipriano de Valera</desc>
+<rect x="0" y="0" width="760" height="536" fill="#f7f4ec"/>
+<style>text{font-family:system-ui,sans-serif;fill:#243532}.title{font-size:27px;font-weight:720}.note{font-size:15px;fill:#49615a}.head{font-size:19px;font-weight:710;fill:#174e46}.date{font-size:17px;font-weight:730;fill:#176257}.item{font-size:17px;font-weight:520}</style>
+<text x="28" y="45" class="title"><tspan x="28" dy="0">Biblia impresa · Cuatro continuidades</tspan></text>
+<text x="28" y="72" class="note"><tspan x="28" dy="0">Cada flecha indica una ampliación o una revisión.</tspan></text>
+<rect x="28" y="103" width="704" height="96" fill="#e1eae4"/>
+<text x="43" y="128" class="head"><tspan x="43" dy="0">Alemán</tspan></text>
+<text x="43" y="159" class="item"><tspan x="43" dy="0">1522 · Nuevo Testamento de Lutero</tspan></text>
+<path d="M365 158H393l-7 -7m7 7l-7 7" stroke="#34746b" stroke-width="2" fill="none"/>
+<text x="417" y="159" class="item"><tspan x="417" dy="0">1534 · Biblia completa del</tspan><tspan x="417" dy="21">equipo de Wittenberg</tspan></text>
+<rect x="28" y="209" width="704" height="96" fill="#eceee4"/>
+<text x="43" y="234" class="head"><tspan x="43" dy="0">Francés</tspan></text>
+<text x="43" y="265" class="item"><tspan x="43" dy="0">1535 · Biblia de Olivétan</tspan></text>
+<path d="M365 264H393l-7 -7m7 7l-7 7" stroke="#34746b" stroke-width="2" fill="none"/>
+<text x="417" y="265" class="item"><tspan x="417" dy="0">1553 · Revisión de Estienne en</tspan><tspan x="417" dy="21">Ginebra</tspan></text>
+<rect x="28" y="315" width="704" height="96" fill="#e1eae4"/>
+<text x="43" y="340" class="head"><tspan x="43" dy="0">Inglés</tspan></text>
+<text x="43" y="371" class="item"><tspan x="43" dy="0">1539 · Gran Biblia</tspan></text>
+<path d="M365 370H393l-7 -7m7 7l-7 7" stroke="#34746b" stroke-width="2" fill="none"/>
+<text x="417" y="371" class="item"><tspan x="417" dy="0">1568 · Biblia de los Obispos</tspan></text>
+<rect x="28" y="421" width="704" height="96" fill="#eceee4"/>
+<text x="43" y="446" class="head"><tspan x="43" dy="0">Castellano</tspan></text>
+<text x="43" y="477" class="item"><tspan x="43" dy="0">1569 · Biblia del Oso</tspan></text>
+<path d="M365 476H393l-7 -7m7 7l-7 7" stroke="#34746b" stroke-width="2" fill="none"/>
+<text x="417" y="477" class="item"><tspan x="417" dy="0">1602 · Revisión de Cipriano de</tspan><tspan x="417" dy="21">Valera</tspan></text>
+</svg>

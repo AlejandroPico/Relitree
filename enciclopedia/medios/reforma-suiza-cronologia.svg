@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 651" role="img" aria-labelledby="title desc">
+<title id="title">Reforma suiza y ginebrina · Cronología</title>
+<desc id="desc">1519–1525. Zuinglio y el consejo de Zúrich. Predicación, disputas públicas y reforma de la Cena.. 1528–1529. Berna y Basilea. Las dos ciudades adoptan reformas en años sucesivos.. 1531. Kappel y la Biblia de Zúrich. Muere Zuinglio. Froschauer publica la Biblia completa.. 1536. Ginebra y Calvino. La ciudad adopta la Reforma. Calvino llega meses más tarde.. 1541. Ordenanzas de Ginebra. Calvino regresa de Estrasburgo y participa en su redacción.. 1549. Acuerdo de Zúrich. Bullinger y Calvino acuerdan una fórmula sobre los sacramentos.. 1559–1566. Academia y confesiones. Academia de Ginebra en 1559 y Segunda Confesión Helvética en 1566.</desc>
+<rect x="0" y="0" width="760" height="651" fill="#f7f4ec"/>
+<style>text{font-family:system-ui,sans-serif;fill:#243532}.title{font-size:27px;font-weight:720}.note{font-size:15px;fill:#49615a}.head{font-size:19px;font-weight:710;fill:#174e46}.date{font-size:17px;font-weight:730;fill:#176257}.item{font-size:17px;font-weight:520}</style>
+<text x="28" y="45" class="title"><tspan x="28" dy="0">Reforma suiza y ginebrina · Cronología</tspan></text>
+<text x="28" y="72" class="note"><tspan x="28" dy="0">Hitos en Zúrich, Berna, Basilea y Ginebra</tspan></text>
+<path d="M177 114V570" stroke="#8ea99e" stroke-width="2" fill="none"/>
+<circle cx="177" cy="114" r="5" fill="#24776a"/>
+<text x="38" y="120" class="date"><tspan x="38" dy="0">1519–1525</tspan></text>
+<text x="209" y="120" class="head"><tspan x="209" dy="0">Zuinglio y el consejo de Zúrich</tspan></text>
+<text x="209" y="143" class="item"><tspan x="209" dy="0">Predicación, disputas públicas y reforma de la Cena.</tspan></text>
+<circle cx="177" cy="176" r="5" fill="#24776a"/>
+<text x="38" y="182" class="date"><tspan x="38" dy="0">1528–1529</tspan></text>
+<text x="209" y="182" class="head"><tspan x="209" dy="0">Berna y Basilea</tspan></text>
+<text x="209" y="205" class="item"><tspan x="209" dy="0">Las dos ciudades adoptan reformas en años sucesivos.</tspan></text>
+<circle cx="177" cy="238" r="5" fill="#24776a"/>
+<text x="38" y="244" class="date"><tspan x="38" dy="0">1531</tspan></text>
+<text x="209" y="244" class="head"><tspan x="209" dy="0">Kappel y la Biblia de Zúrich</tspan></text>
+<text x="209" y="267" class="item"><tspan x="209" dy="0">Muere Zuinglio. Froschauer publica la Biblia</tspan><tspan x="209" dy="21">completa.</tspan></text>
+<circle cx="177" cy="321" r="5" fill="#24776a"/>
+<text x="38" y="327" class="date"><tspan x="38" dy="0">1536</tspan></text>
+<text x="209" y="327" class="head"><tspan x="209" dy="0">Ginebra y Calvino</tspan></text>
+<text x="209" y="350" class="item"><tspan x="209" dy="0">La ciudad adopta la Reforma. Calvino llega meses más</tspan><tspan x="209" dy="21">tarde.</tspan></text>
+<circle cx="177" cy="404" r="5" fill="#24776a"/>
+<text x="38" y="410" class="date"><tspan x="38" dy="0">1541</tspan></text>
+<text x="209" y="410" class="head"><tspan x="209" dy="0">Ordenanzas de Ginebra</tspan></text>
+<text x="209" y="433" class="item"><tspan x="209" dy="0">Calvino regresa de Estrasburgo y participa en su</tspan><tspan x="209" dy="21">redacción.</tspan></text>
+<circle cx="177" cy="487" r="5" fill="#24776a"/>
+<text x="38" y="493" class="date"><tspan x="38" dy="0">1549</tspan></text>
+<text x="209" y="493" class="head"><tspan x="209" dy="0">Acuerdo de Zúrich</tspan></text>
+<text x="209" y="516" class="item"><tspan x="209" dy="0">Bullinger y Calvino acuerdan una fórmula sobre los</tspan><tspan x="209" dy="21">sacramentos.</tspan></text>
+<circle cx="177" cy="570" r="5" fill="#24776a"/>
+<text x="38" y="576" class="date"><tspan x="38" dy="0">1559–1566</tspan></text>
+<text x="209" y="576" class="head"><tspan x="209" dy="0">Academia y confesiones</tspan></text>
+<text x="209" y="599" class="item"><tspan x="209" dy="0">Academia de Ginebra en 1559 y Segunda Confesión</tspan><tspan x="209" dy="21">Helvética en 1566.</tspan></text>
+</svg>

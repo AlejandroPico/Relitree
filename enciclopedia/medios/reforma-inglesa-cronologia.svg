@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 610" role="img" aria-labelledby="title desc">
+<title id="title">Reforma inglesa · Cronología Tudor</title>
+<desc id="desc">1527–1534. De la nulidad a la supremacía. Causa matrimonial, fin de las apelaciones a Roma y Acta de Supremacía.. 1536–1540. Disolución de los monasterios. Supresiones, transferencias de bienes y resistencia en el norte.. 1547–1553. Eduardo VI. Primer Libro de Oración Común en 1549 y revisión en 1552.. 1553–1558. María I. Reconciliación con Roma y persecución de protestantes.. 1559–1571. Isabel I. Supremacía y uniformidad. Se fijan los Treinta y Nueve Artículos.. Décadas finales. Conformidad y disidencia. Recusación católica y disidencias dentro del protestantismo.</desc>
+<rect x="0" y="0" width="760" height="610" fill="#f7f4ec"/>
+<style>text{font-family:system-ui,sans-serif;fill:#243532}.title{font-size:27px;font-weight:720}.note{font-size:15px;fill:#49615a}.head{font-size:19px;font-weight:710;fill:#174e46}.date{font-size:17px;font-weight:730;fill:#176257}.item{font-size:17px;font-weight:520}</style>
+<text x="28" y="45" class="title"><tspan x="28" dy="0">Reforma inglesa · Cronología Tudor</tspan></text>
+<text x="28" y="72" class="note"><tspan x="28" dy="0">Jurisdicción, culto y doctrina en cuatro reinados</tspan></text>
+<path d="M177 114V529" stroke="#8ea99e" stroke-width="2" fill="none"/>
+<circle cx="177" cy="114" r="5" fill="#24776a"/>
+<text x="38" y="120" class="date"><tspan x="38" dy="0">1527–1534</tspan></text>
+<text x="209" y="120" class="head"><tspan x="209" dy="0">De la nulidad a la supremacía</tspan></text>
+<text x="209" y="143" class="item"><tspan x="209" dy="0">Causa matrimonial, fin de las apelaciones a Roma y</tspan><tspan x="209" dy="21">Acta de Supremacía.</tspan></text>
+<circle cx="177" cy="197" r="5" fill="#24776a"/>
+<text x="38" y="203" class="date"><tspan x="38" dy="0">1536–1540</tspan></text>
+<text x="209" y="203" class="head"><tspan x="209" dy="0">Disolución de los monasterios</tspan></text>
+<text x="209" y="226" class="item"><tspan x="209" dy="0">Supresiones, transferencias de bienes y resistencia</tspan><tspan x="209" dy="21">en el norte.</tspan></text>
+<circle cx="177" cy="280" r="5" fill="#24776a"/>
+<text x="38" y="286" class="date"><tspan x="38" dy="0">1547–1553</tspan></text>
+<text x="209" y="286" class="head"><tspan x="209" dy="0">Eduardo VI</tspan></text>
+<text x="209" y="309" class="item"><tspan x="209" dy="0">Primer Libro de Oración Común en 1549 y revisión en</tspan><tspan x="209" dy="21">1552.</tspan></text>
+<circle cx="177" cy="363" r="5" fill="#24776a"/>
+<text x="38" y="369" class="date"><tspan x="38" dy="0">1553–1558</tspan></text>
+<text x="209" y="369" class="head"><tspan x="209" dy="0">María I</tspan></text>
+<text x="209" y="392" class="item"><tspan x="209" dy="0">Reconciliación con Roma y persecución de</tspan><tspan x="209" dy="21">protestantes.</tspan></text>
+<circle cx="177" cy="446" r="5" fill="#24776a"/>
+<text x="38" y="452" class="date"><tspan x="38" dy="0">1559–1571</tspan></text>
+<text x="209" y="452" class="head"><tspan x="209" dy="0">Isabel I</tspan></text>
+<text x="209" y="475" class="item"><tspan x="209" dy="0">Supremacía y uniformidad. Se fijan los Treinta y</tspan><tspan x="209" dy="21">Nueve Artículos.</tspan></text>
+<circle cx="177" cy="529" r="5" fill="#24776a"/>
+<text x="38" y="535" class="date"><tspan x="38" dy="0">Décadas finales</tspan></text>
+<text x="209" y="535" class="head"><tspan x="209" dy="0">Conformidad y disidencia</tspan></text>
+<text x="209" y="558" class="item"><tspan x="209" dy="0">Recusación católica y disidencias dentro del</tspan><tspan x="209" dy="21">protestantismo.</tspan></text>
+</svg>

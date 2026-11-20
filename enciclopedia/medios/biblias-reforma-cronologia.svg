@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 630" role="img" aria-labelledby="title desc">
+<title id="title">Biblias de la Reforma · Cronología</title>
+<desc id="desc">1516. Nuevo Testamento de Erasmo. Edición impresa del griego con una versión latina.. 1522–1526. Lutero y Tyndale. Nuevos Testamentos alemán e inglés.. 1531–1535. Zúrich, Wittenberg, Coverdale y Olivétan. Biblias completas en alemán, inglés y francés.. 1539–1543. Gran Biblia y Nuevo Testamento de Enzinas. Uso parroquial inglés y una edición castellana en Amberes.. 1560–1569. Ginebra y Basilea. Biblia inglesa de Ginebra y Biblia del Oso en castellano.. 1579–1610. Kralice, Gales, Vizsoly, Reims y Douai. Biblias checa, galesa y húngara y edición católica inglesa.. 1602–1611. Valera y rey Jacobo. Revisión castellana y nueva traducción inglesa en equipo.</desc>
+<rect x="0" y="0" width="760" height="630" fill="#f7f4ec"/>
+<style>text{font-family:system-ui,sans-serif;fill:#243532}.title{font-size:27px;font-weight:720}.note{font-size:15px;fill:#49615a}.head{font-size:19px;font-weight:710;fill:#174e46}.date{font-size:17px;font-weight:730;fill:#176257}.item{font-size:17px;font-weight:520}</style>
+<text x="28" y="45" class="title"><tspan x="28" dy="0">Biblias de la Reforma · Cronología</tspan></text>
+<text x="28" y="72" class="note"><tspan x="28" dy="0">Herramientas filológicas y ediciones de varias lenguas</tspan></text>
+<path d="M177 114V549" stroke="#8ea99e" stroke-width="2" fill="none"/>
+<circle cx="177" cy="114" r="5" fill="#24776a"/>
+<text x="38" y="120" class="date"><tspan x="38" dy="0">1516</tspan></text>
+<text x="209" y="120" class="head"><tspan x="209" dy="0">Nuevo Testamento de Erasmo</tspan></text>
+<text x="209" y="143" class="item"><tspan x="209" dy="0">Edición impresa del griego con una versión latina.</tspan></text>
+<circle cx="177" cy="176" r="5" fill="#24776a"/>
+<text x="38" y="182" class="date"><tspan x="38" dy="0">1522–1526</tspan></text>
+<text x="209" y="182" class="head"><tspan x="209" dy="0">Lutero y Tyndale</tspan></text>
+<text x="209" y="205" class="item"><tspan x="209" dy="0">Nuevos Testamentos alemán e inglés.</tspan></text>
+<circle cx="177" cy="238" r="5" fill="#24776a"/>
+<text x="38" y="244" class="date"><tspan x="38" dy="0">1531–1535</tspan></text>
+<text x="209" y="244" class="head"><tspan x="209" dy="0">Zúrich, Wittenberg, Coverdale y Olivétan</tspan></text>
+<text x="209" y="267" class="item"><tspan x="209" dy="0">Biblias completas en alemán, inglés y francés.</tspan></text>
+<circle cx="177" cy="300" r="5" fill="#24776a"/>
+<text x="38" y="306" class="date"><tspan x="38" dy="0">1539–1543</tspan></text>
+<text x="209" y="306" class="head"><tspan x="209" dy="0">Gran Biblia y Nuevo Testamento de Enzinas</tspan></text>
+<text x="209" y="329" class="item"><tspan x="209" dy="0">Uso parroquial inglés y una edición castellana en</tspan><tspan x="209" dy="21">Amberes.</tspan></text>
+<circle cx="177" cy="383" r="5" fill="#24776a"/>
+<text x="38" y="389" class="date"><tspan x="38" dy="0">1560–1569</tspan></text>
+<text x="209" y="389" class="head"><tspan x="209" dy="0">Ginebra y Basilea</tspan></text>
+<text x="209" y="412" class="item"><tspan x="209" dy="0">Biblia inglesa de Ginebra y Biblia del Oso en</tspan><tspan x="209" dy="21">castellano.</tspan></text>
+<circle cx="177" cy="466" r="5" fill="#24776a"/>
+<text x="38" y="472" class="date"><tspan x="38" dy="0">1579–1610</tspan></text>
+<text x="209" y="472" class="head"><tspan x="209" dy="0">Kralice, Gales, Vizsoly, Reims y Douai</tspan></text>
+<text x="209" y="495" class="item"><tspan x="209" dy="0">Biblias checa, galesa y húngara y edición católica</tspan><tspan x="209" dy="21">inglesa.</tspan></text>
+<circle cx="177" cy="549" r="5" fill="#24776a"/>
+<text x="38" y="555" class="date"><tspan x="38" dy="0">1602–1611</tspan></text>
+<text x="209" y="555" class="head"><tspan x="209" dy="0">Valera y rey Jacobo</tspan></text>
+<text x="209" y="578" class="item"><tspan x="209" dy="0">Revisión castellana y nueva traducción inglesa en</tspan><tspan x="209" dy="21">equipo.</tspan></text>
+</svg>
