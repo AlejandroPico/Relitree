@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 559" role="img" aria-labelledby="tit nota">
+<title id="tit">Iglesias y dictaduras en Europa</title><desc id="nota">Iglesias y dictaduras en Europa. Fechas de acuerdos, conflictos y pronunciamientos. 1929 · Italia. Firma de los Pactos de Letrán. 1931 · Italia. Conflicto por organizaciones católicas y Non abbiamo bisogno. 1933 · Alemania. Firma del Concordato del Reich. 1934 · Alemania. Sínodos de Barmen. La declaración teológica se adopta en mayo. 1937 · Alemania y España. Mit brennender Sorge y carta colectiva del episcopado español. 1941 · Alemania. Sermones de Von Galen contra el asesinato de personas discapacitadas. 1953 · España. Concordato entre la Santa Sede y la dictadura de Franco.</desc>
+<rect width="720" height="559" fill="#f8f9f8"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#254044">Iglesias y dictaduras en Europa</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#254044">Fechas de acuerdos, conflictos y pronunciamientos</text>
+<path d="M46 131V502" stroke="#873f38" stroke-opacity=".45" stroke-width="2"/>
+<circle cx="46" cy="131" r="6" fill="#873f38"/>
+<text x="68" y="138" font-size="21" font-weight="700" fill="#873f38">1929 · Italia</text>
+<text x="68" y="163" font-size="18" font-weight="400" fill="#254044">Firma de los Pactos de Letrán.</text>
+<circle cx="46" cy="189" r="6" fill="#873f38"/>
+<text x="68" y="196" font-size="21" font-weight="700" fill="#873f38">1931 · Italia</text>
+<text x="68" y="221" font-size="18" font-weight="400" fill="#254044">Conflicto por organizaciones católicas y Non abbiamo bisogno.</text>
+<circle cx="46" cy="247" r="6" fill="#873f38"/>
+<text x="68" y="254" font-size="21" font-weight="700" fill="#873f38">1933 · Alemania</text>
+<text x="68" y="279" font-size="18" font-weight="400" fill="#254044">Firma del Concordato del Reich.</text>
+<circle cx="46" cy="305" r="6" fill="#873f38"/>
+<text x="68" y="312" font-size="21" font-weight="700" fill="#873f38">1934 · Alemania</text>
+<text x="68" y="337" font-size="18" font-weight="400" fill="#254044">Sínodos de Barmen. La declaración teológica se adopta en mayo.</text>
+<circle cx="46" cy="363" r="6" fill="#873f38"/>
+<text x="68" y="370" font-size="21" font-weight="700" fill="#873f38">1937 · Alemania y España</text>
+<text x="68" y="395" font-size="18" font-weight="400" fill="#254044">Mit brennender Sorge y carta colectiva del episcopado español.</text>
+<circle cx="46" cy="421" r="6" fill="#873f38"/>
+<text x="68" y="428" font-size="21" font-weight="700" fill="#873f38">1941 · Alemania</text>
+<text x="68" y="453" font-size="18" font-weight="400" fill="#254044">Sermones de Von Galen contra el asesinato de personas</text>
+<text x="68" y="476" font-size="18" font-weight="400" fill="#254044">discapacitadas.</text>
+<circle cx="46" cy="502" r="6" fill="#873f38"/>
+<text x="68" y="509" font-size="21" font-weight="700" fill="#873f38">1953 · España</text>
+<text x="68" y="534" font-size="18" font-weight="400" fill="#254044">Concordato entre la Santa Sede y la dictadura de Franco.</text>
+</g>
+</svg>

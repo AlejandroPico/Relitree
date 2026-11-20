@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 524" role="img" aria-labelledby="tit nota">
+<title id="tit">Pruebas, libros y decisiones públicas</title><desc id="nota">Pruebas, libros y decisiones públicas. De la astronomía de Galileo al litigio sobre Scopes. 1610. Galileo publica observaciones telescópicas. 1616 y 1633. Advertencia y medidas sobre libros. Proceso y condena de Galileo. 1858 y 1859. Presentación de Darwin y Wallace. Primera edición del Origen. 1860. Intervenciones en la reunión de la British Association en Oxford. 1871. Darwin amplía su estudio de la evolución humana. 1925. Juicio de John T. Scopes en Tennessee.</desc>
+<rect width="720" height="524" fill="#f8f9f8"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#254044">Pruebas, libros y decisiones públicas</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#254044">De la astronomía de Galileo al litigio sobre Scopes</text>
+<path d="M46 131V467" stroke="#2b685d" stroke-opacity=".45" stroke-width="2"/>
+<circle cx="46" cy="131" r="6" fill="#2b685d"/>
+<text x="68" y="138" font-size="21" font-weight="700" fill="#2b685d">1610</text>
+<text x="68" y="163" font-size="18" font-weight="400" fill="#254044">Galileo publica observaciones telescópicas.</text>
+<circle cx="46" cy="189" r="6" fill="#2b685d"/>
+<text x="68" y="196" font-size="21" font-weight="700" fill="#2b685d">1616 y 1633</text>
+<text x="68" y="221" font-size="18" font-weight="400" fill="#254044">Advertencia y medidas sobre libros. Proceso y condena de</text>
+<text x="68" y="244" font-size="18" font-weight="400" fill="#254044">Galileo.</text>
+<circle cx="46" cy="270" r="6" fill="#2b685d"/>
+<text x="68" y="277" font-size="21" font-weight="700" fill="#2b685d">1858 y 1859</text>
+<text x="68" y="302" font-size="18" font-weight="400" fill="#254044">Presentación de Darwin y Wallace. Primera edición del Origen.</text>
+<circle cx="46" cy="328" r="6" fill="#2b685d"/>
+<text x="68" y="335" font-size="21" font-weight="700" fill="#2b685d">1860</text>
+<text x="68" y="360" font-size="18" font-weight="400" fill="#254044">Intervenciones en la reunión de la British Association en</text>
+<text x="68" y="383" font-size="18" font-weight="400" fill="#254044">Oxford.</text>
+<circle cx="46" cy="409" r="6" fill="#2b685d"/>
+<text x="68" y="416" font-size="21" font-weight="700" fill="#2b685d">1871</text>
+<text x="68" y="441" font-size="18" font-weight="400" fill="#254044">Darwin amplía su estudio de la evolución humana.</text>
+<circle cx="46" cy="467" r="6" fill="#2b685d"/>
+<text x="68" y="474" font-size="21" font-weight="700" fill="#2b685d">1925</text>
+<text x="68" y="499" font-size="18" font-weight="400" fill="#254044">Juicio de John T. Scopes en Tennessee.</text>
+</g>
+</svg>

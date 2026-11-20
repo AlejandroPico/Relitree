@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 362" role="img" aria-labelledby="tit nota">
+<title id="tit">Qué mostraron las observaciones</title><desc id="nota">Qué mostraron las observaciones. El cielo observado por Galileo hacia 1610. Relieve lunar. Las sombras eran compatibles con una superficie irregular. Satélites de Júpiter. Algunos cuerpos celestes giraban alrededor de otro planeta. Fases de Venus. Encajaban con una órbita de Venus alrededor del Sol. Movimiento terrestre. Las fases también encajaban en un modelo tychónico.</desc>
+<rect width="720" height="362" fill="#f8f9f8"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#254044">Qué mostraron las observaciones</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#254044">El cielo observado por Galileo hacia 1610</text>
+<rect x="35" y="115" width="317" height="104" fill="#2b685d" fill-opacity=".085"/>
+<rect x="35" y="115" width="4" height="104" fill="#2b685d"/>
+<text x="49" y="141" font-size="20" font-weight="700" fill="#2b685d">Relieve lunar</text>
+<text x="49" y="164" font-size="17.3" font-weight="400" fill="#254044">Las sombras eran compatibles</text>
+<text x="49" y="183" font-size="17.3" font-weight="400" fill="#254044">con una superficie irregular.</text>
+<rect x="368" y="115" width="317" height="104" fill="#2b685d" fill-opacity=".085"/>
+<rect x="368" y="115" width="4" height="104" fill="#2b685d"/>
+<text x="382" y="141" font-size="20" font-weight="700" fill="#2b685d">Satélites de Júpiter</text>
+<text x="382" y="164" font-size="17.3" font-weight="400" fill="#254044">Algunos cuerpos celestes</text>
+<text x="382" y="183" font-size="17.3" font-weight="400" fill="#254044">giraban alrededor de otro</text>
+<text x="382" y="202" font-size="17.3" font-weight="400" fill="#254044">planeta.</text>
+<rect x="35" y="237" width="317" height="104" fill="#2b685d" fill-opacity=".085"/>
+<rect x="35" y="237" width="4" height="104" fill="#2b685d"/>
+<text x="49" y="263" font-size="20" font-weight="700" fill="#2b685d">Fases de Venus</text>
+<text x="49" y="286" font-size="17.3" font-weight="400" fill="#254044">Encajaban con una órbita de</text>
+<text x="49" y="305" font-size="17.3" font-weight="400" fill="#254044">Venus alrededor del Sol.</text>
+<rect x="368" y="237" width="317" height="104" fill="#2b685d" fill-opacity=".085"/>
+<rect x="368" y="237" width="4" height="104" fill="#2b685d"/>
+<text x="382" y="263" font-size="20" font-weight="700" fill="#2b685d">Movimiento terrestre</text>
+<text x="382" y="286" font-size="17.3" font-weight="400" fill="#254044">Las fases también encajaban en</text>
+<text x="382" y="305" font-size="17.3" font-weight="400" fill="#254044">un modelo tychónico.</text>
+</g>
+</svg>

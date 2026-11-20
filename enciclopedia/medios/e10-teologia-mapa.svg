@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 362" role="img" aria-labelledby="tit nota">
+<title id="tit">Cuatro ámbitos de la controversia</title><desc id="nota">Cuatro ámbitos de la controversia. Cada discusión tenía un procedimiento propio. Historia bíblica. Fecha, composición y recepción de los textos. Teología. Alcance de las doctrinas y relación con la experiencia. Gobierno eclesiástico. Requisitos de ordenación y atribuciones de las asambleas. Escuela y tribunales. Currículo público y leyes sometidas a revisión judicial.</desc>
+<rect width="720" height="362" fill="#f8f9f8"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#254044">Cuatro ámbitos de la controversia</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#254044">Cada discusión tenía un procedimiento propio</text>
+<rect x="35" y="115" width="317" height="104" fill="#455e8b" fill-opacity=".085"/>
+<rect x="35" y="115" width="4" height="104" fill="#455e8b"/>
+<text x="49" y="141" font-size="20" font-weight="700" fill="#455e8b">Historia bíblica</text>
+<text x="49" y="164" font-size="17.3" font-weight="400" fill="#254044">Fecha, composición y recepción</text>
+<text x="49" y="183" font-size="17.3" font-weight="400" fill="#254044">de los textos.</text>
+<rect x="368" y="115" width="317" height="104" fill="#455e8b" fill-opacity=".085"/>
+<rect x="368" y="115" width="4" height="104" fill="#455e8b"/>
+<text x="382" y="141" font-size="20" font-weight="700" fill="#455e8b">Teología</text>
+<text x="382" y="164" font-size="17.3" font-weight="400" fill="#254044">Alcance de las doctrinas y</text>
+<text x="382" y="183" font-size="17.3" font-weight="400" fill="#254044">relación con la experiencia.</text>
+<rect x="35" y="237" width="317" height="104" fill="#455e8b" fill-opacity=".085"/>
+<rect x="35" y="237" width="4" height="104" fill="#455e8b"/>
+<text x="49" y="263" font-size="20" font-weight="700" fill="#455e8b">Gobierno eclesiástico</text>
+<text x="49" y="286" font-size="17.3" font-weight="400" fill="#254044">Requisitos de ordenación y</text>
+<text x="49" y="305" font-size="17.3" font-weight="400" fill="#254044">atribuciones de las asambleas.</text>
+<rect x="368" y="237" width="317" height="104" fill="#455e8b" fill-opacity=".085"/>
+<rect x="368" y="237" width="4" height="104" fill="#455e8b"/>
+<text x="382" y="263" font-size="20" font-weight="700" fill="#455e8b">Escuela y tribunales</text>
+<text x="382" y="286" font-size="17.3" font-weight="400" fill="#254044">Currículo público y leyes</text>
+<text x="382" y="305" font-size="17.3" font-weight="400" fill="#254044">sometidas a revisión judicial.</text>
+</g>
+</svg>

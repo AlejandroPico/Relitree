@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 362" role="img" aria-labelledby="tit nota">
+<title id="tit">Afiliación, práctica y renovación</title><desc id="nota">Afiliación, práctica y renovación. Cuatro conceptos para leer el mapa. Iglesia pentecostal. Congregación o denominación con gobierno y afiliación propios. Renovación carismática. Participación en una corriente dentro de otra tradición cristiana. Dones y prácticas. Oración, profecía, testimonio, lenguas y su discernimiento. Medición estadística. Identificación, pertenencia y frecuencia requieren preguntas distintas.</desc>
+<rect width="720" height="362" fill="#f8f9f8"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#254044">Afiliación, práctica y renovación</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#254044">Cuatro conceptos para leer el mapa</text>
+<rect x="35" y="115" width="317" height="104" fill="#805030" fill-opacity=".085"/>
+<rect x="35" y="115" width="4" height="104" fill="#805030"/>
+<text x="49" y="141" font-size="20" font-weight="700" fill="#805030">Iglesia pentecostal</text>
+<text x="49" y="164" font-size="17.3" font-weight="400" fill="#254044">Congregación o denominación con</text>
+<text x="49" y="183" font-size="17.3" font-weight="400" fill="#254044">gobierno y afiliación propios.</text>
+<rect x="368" y="115" width="317" height="104" fill="#805030" fill-opacity=".085"/>
+<rect x="368" y="115" width="4" height="104" fill="#805030"/>
+<text x="382" y="141" font-size="20" font-weight="700" fill="#805030">Renovación carismática</text>
+<text x="382" y="164" font-size="17.3" font-weight="400" fill="#254044">Participación en una corriente</text>
+<text x="382" y="183" font-size="17.3" font-weight="400" fill="#254044">dentro de otra tradición</text>
+<text x="382" y="202" font-size="17.3" font-weight="400" fill="#254044">cristiana.</text>
+<rect x="35" y="237" width="317" height="104" fill="#805030" fill-opacity=".085"/>
+<rect x="35" y="237" width="4" height="104" fill="#805030"/>
+<text x="49" y="263" font-size="20" font-weight="700" fill="#805030">Dones y prácticas</text>
+<text x="49" y="286" font-size="17.3" font-weight="400" fill="#254044">Oración, profecía, testimonio,</text>
+<text x="49" y="305" font-size="17.3" font-weight="400" fill="#254044">lenguas y su discernimiento.</text>
+<rect x="368" y="237" width="317" height="104" fill="#805030" fill-opacity=".085"/>
+<rect x="368" y="237" width="4" height="104" fill="#805030"/>
+<text x="382" y="263" font-size="20" font-weight="700" fill="#805030">Medición estadística</text>
+<text x="382" y="286" font-size="17.3" font-weight="400" fill="#254044">Identificación, pertenencia y</text>
+<text x="382" y="305" font-size="17.3" font-weight="400" fill="#254044">frecuencia requieren preguntas</text>
+<text x="382" y="324" font-size="17.3" font-weight="400" fill="#254044">distintas.</text>
+</g>
+</svg>

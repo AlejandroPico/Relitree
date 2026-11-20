@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 362" role="img" aria-labelledby="tit nota">
+<title id="tit">Qué permite comprobar cada fuente</title><desc id="nota">Qué permite comprobar cada fuente. Cuatro preguntas de la fase 10. Normas y tratados. Qué se autorizó, prohibió o negoció en una jurisdicción. Impresos y cartas. Qué argumentos circularon y a qué público se dirigieron. Testimonios y archivos. Qué vivieron las personas y qué registraron las instituciones. Censos y encuestas. Qué dimensión de afiliación, práctica o creencia se midió.</desc>
+<rect width="720" height="362" fill="#f8f9f8"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#254044">Qué permite comprobar cada fuente</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#254044">Cuatro preguntas de la fase 10</text>
+<rect x="35" y="115" width="317" height="104" fill="#315b76" fill-opacity=".085"/>
+<rect x="35" y="115" width="4" height="104" fill="#315b76"/>
+<text x="49" y="141" font-size="20" font-weight="700" fill="#315b76">Normas y tratados</text>
+<text x="49" y="164" font-size="17.3" font-weight="400" fill="#254044">Qué se autorizó, prohibió o</text>
+<text x="49" y="183" font-size="17.3" font-weight="400" fill="#254044">negoció en una jurisdicción.</text>
+<rect x="368" y="115" width="317" height="104" fill="#315b76" fill-opacity=".085"/>
+<rect x="368" y="115" width="4" height="104" fill="#315b76"/>
+<text x="382" y="141" font-size="20" font-weight="700" fill="#315b76">Impresos y cartas</text>
+<text x="382" y="164" font-size="17.3" font-weight="400" fill="#254044">Qué argumentos circularon y a</text>
+<text x="382" y="183" font-size="17.3" font-weight="400" fill="#254044">qué público se dirigieron.</text>
+<rect x="35" y="237" width="317" height="104" fill="#315b76" fill-opacity=".085"/>
+<rect x="35" y="237" width="4" height="104" fill="#315b76"/>
+<text x="49" y="263" font-size="20" font-weight="700" fill="#315b76">Testimonios y archivos</text>
+<text x="49" y="286" font-size="17.3" font-weight="400" fill="#254044">Qué vivieron las personas y qué</text>
+<text x="49" y="305" font-size="17.3" font-weight="400" fill="#254044">registraron las instituciones.</text>
+<rect x="368" y="237" width="317" height="104" fill="#315b76" fill-opacity=".085"/>
+<rect x="368" y="237" width="4" height="104" fill="#315b76"/>
+<text x="382" y="263" font-size="20" font-weight="700" fill="#315b76">Censos y encuestas</text>
+<text x="382" y="286" font-size="17.3" font-weight="400" fill="#254044">Qué dimensión de afiliación,</text>
+<text x="382" y="305" font-size="17.3" font-weight="400" fill="#254044">práctica o creencia se midió.</text>
+</g>
+</svg>

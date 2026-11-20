@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 478" role="img" aria-labelledby="tit nota">
+<title id="tit">De Schleiermacher a Princeton</title><desc id="nota">De Schleiermacher a Princeton. Libros, publicaciones y decisiones eclesiásticas. 1799. Schleiermacher publica sus discursos sobre la religión. 1835–1836. Strauss publica su estudio sobre la vida de Jesús. 1910–1915. Publicación de The Fundamentals. 1919 y 1922. Primera edición y revisión del comentario de Barth a Romanos. 1922–1924. Sermón de Fosdick y Afirmación de Auburn. 1929 y 1936. Fundación de Westminster y nueva organización denominacional.</desc>
+<rect width="720" height="478" fill="#f8f9f8"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#254044">De Schleiermacher a Princeton</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#254044">Libros, publicaciones y decisiones eclesiásticas</text>
+<path d="M46 131V421" stroke="#455e8b" stroke-opacity=".45" stroke-width="2"/>
+<circle cx="46" cy="131" r="6" fill="#455e8b"/>
+<text x="68" y="138" font-size="21" font-weight="700" fill="#455e8b">1799</text>
+<text x="68" y="163" font-size="18" font-weight="400" fill="#254044">Schleiermacher publica sus discursos sobre la religión.</text>
+<circle cx="46" cy="189" r="6" fill="#455e8b"/>
+<text x="68" y="196" font-size="21" font-weight="700" fill="#455e8b">1835–1836</text>
+<text x="68" y="221" font-size="18" font-weight="400" fill="#254044">Strauss publica su estudio sobre la vida de Jesús.</text>
+<circle cx="46" cy="247" r="6" fill="#455e8b"/>
+<text x="68" y="254" font-size="21" font-weight="700" fill="#455e8b">1910–1915</text>
+<text x="68" y="279" font-size="18" font-weight="400" fill="#254044">Publicación de The Fundamentals.</text>
+<circle cx="46" cy="305" r="6" fill="#455e8b"/>
+<text x="68" y="312" font-size="21" font-weight="700" fill="#455e8b">1919 y 1922</text>
+<text x="68" y="337" font-size="18" font-weight="400" fill="#254044">Primera edición y revisión del comentario de Barth a Romanos.</text>
+<circle cx="46" cy="363" r="6" fill="#455e8b"/>
+<text x="68" y="370" font-size="21" font-weight="700" fill="#455e8b">1922–1924</text>
+<text x="68" y="395" font-size="18" font-weight="400" fill="#254044">Sermón de Fosdick y Afirmación de Auburn.</text>
+<circle cx="46" cy="421" r="6" fill="#455e8b"/>
+<text x="68" y="428" font-size="21" font-weight="700" fill="#455e8b">1929 y 1936</text>
+<text x="68" y="453" font-size="18" font-weight="400" fill="#254044">Fundación de Westminster y nueva organización denominacional.</text>
+</g>
+</svg>

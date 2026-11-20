@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 536" role="img" aria-labelledby="tit nota">
+<title id="tit">De la revolución a la pluralización</title><desc id="nota">De la revolución a la pluralización. Hitos de la historia cristiana contemporánea. 1790. La Revolución francesa reorganiza clero y diócesis. 1859. Darwin publica El origen de las especies. 1891. León XIII publica Rerum novarum. 1906–1910. Azusa Street y Conferencia Misionera de Edimburgo. 1933–1945. Nazismo, guerra y persecución en Europa. 1948 y 1962–1965. Fundación del Consejo Mundial de Iglesias y Vaticano II. 1967. Retiro de Duquesne y renovación carismática católica.</desc>
+<rect width="720" height="536" fill="#f8f9f8"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#254044">De la revolución a la pluralización</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#254044">Hitos de la historia cristiana contemporánea</text>
+<path d="M46 131V479" stroke="#315b76" stroke-opacity=".45" stroke-width="2"/>
+<circle cx="46" cy="131" r="6" fill="#315b76"/>
+<text x="68" y="138" font-size="21" font-weight="700" fill="#315b76">1790</text>
+<text x="68" y="163" font-size="18" font-weight="400" fill="#254044">La Revolución francesa reorganiza clero y diócesis.</text>
+<circle cx="46" cy="189" r="6" fill="#315b76"/>
+<text x="68" y="196" font-size="21" font-weight="700" fill="#315b76">1859</text>
+<text x="68" y="221" font-size="18" font-weight="400" fill="#254044">Darwin publica El origen de las especies.</text>
+<circle cx="46" cy="247" r="6" fill="#315b76"/>
+<text x="68" y="254" font-size="21" font-weight="700" fill="#315b76">1891</text>
+<text x="68" y="279" font-size="18" font-weight="400" fill="#254044">León XIII publica Rerum novarum.</text>
+<circle cx="46" cy="305" r="6" fill="#315b76"/>
+<text x="68" y="312" font-size="21" font-weight="700" fill="#315b76">1906–1910</text>
+<text x="68" y="337" font-size="18" font-weight="400" fill="#254044">Azusa Street y Conferencia Misionera de Edimburgo.</text>
+<circle cx="46" cy="363" r="6" fill="#315b76"/>
+<text x="68" y="370" font-size="21" font-weight="700" fill="#315b76">1933–1945</text>
+<text x="68" y="395" font-size="18" font-weight="400" fill="#254044">Nazismo, guerra y persecución en Europa.</text>
+<circle cx="46" cy="421" r="6" fill="#315b76"/>
+<text x="68" y="428" font-size="21" font-weight="700" fill="#315b76">1948 y 1962–1965</text>
+<text x="68" y="453" font-size="18" font-weight="400" fill="#254044">Fundación del Consejo Mundial de Iglesias y Vaticano II.</text>
+<circle cx="46" cy="479" r="6" fill="#315b76"/>
+<text x="68" y="486" font-size="21" font-weight="700" fill="#315b76">1967</text>
+<text x="68" y="511" font-size="18" font-weight="400" fill="#254044">Retiro de Duquesne y renovación carismática católica.</text>
+</g>
+</svg>

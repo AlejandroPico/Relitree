@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 362" role="img" aria-labelledby="tit nota">
+<title id="tit">Qué se restringió en cada caso</title><desc id="nota">Qué se restringió en cada caso. Ejemplos de cuatro contextos y periodos. Polonia · 1953–1956. Detención del primado Wyszyński y negociación de su regreso. Rumanía · 1948. Supresión jurídica de la Iglesia greco-católica y transferencia de bienes. China · desde 1966. Cierres y persecución durante la Revolución Cultural. Albania · 1967. Cierre generalizado de lugares de culto durante la campaña ateísta.</desc>
+<rect width="720" height="362" fill="#f8f9f8"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#254044">Qué se restringió en cada caso</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#254044">Ejemplos de cuatro contextos y periodos</text>
+<rect x="35" y="115" width="317" height="104" fill="#694c78" fill-opacity=".085"/>
+<rect x="35" y="115" width="4" height="104" fill="#694c78"/>
+<text x="49" y="141" font-size="20" font-weight="700" fill="#694c78">Polonia · 1953–1956</text>
+<text x="49" y="164" font-size="17.3" font-weight="400" fill="#254044">Detención del primado Wyszyński</text>
+<text x="49" y="183" font-size="17.3" font-weight="400" fill="#254044">y negociación de su regreso.</text>
+<rect x="368" y="115" width="317" height="104" fill="#694c78" fill-opacity=".085"/>
+<rect x="368" y="115" width="4" height="104" fill="#694c78"/>
+<text x="382" y="141" font-size="20" font-weight="700" fill="#694c78">Rumanía · 1948</text>
+<text x="382" y="164" font-size="17.3" font-weight="400" fill="#254044">Supresión jurídica de la</text>
+<text x="382" y="183" font-size="17.3" font-weight="400" fill="#254044">Iglesia greco-católica y</text>
+<text x="382" y="202" font-size="17.3" font-weight="400" fill="#254044">transferencia de bienes.</text>
+<rect x="35" y="237" width="317" height="104" fill="#694c78" fill-opacity=".085"/>
+<rect x="35" y="237" width="4" height="104" fill="#694c78"/>
+<text x="49" y="263" font-size="20" font-weight="700" fill="#694c78">China · desde 1966</text>
+<text x="49" y="286" font-size="17.3" font-weight="400" fill="#254044">Cierres y persecución durante</text>
+<text x="49" y="305" font-size="17.3" font-weight="400" fill="#254044">la Revolución Cultural.</text>
+<rect x="368" y="237" width="317" height="104" fill="#694c78" fill-opacity=".085"/>
+<rect x="368" y="237" width="4" height="104" fill="#694c78"/>
+<text x="382" y="263" font-size="20" font-weight="700" fill="#694c78">Albania · 1967</text>
+<text x="382" y="286" font-size="17.3" font-weight="400" fill="#254044">Cierre generalizado de lugares</text>
+<text x="382" y="305" font-size="17.3" font-weight="400" fill="#254044">de culto durante la campaña</text>
+<text x="382" y="324" font-size="17.3" font-weight="400" fill="#254044">ateísta.</text>
+</g>
+</svg>

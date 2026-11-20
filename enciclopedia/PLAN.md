@@ -1,6 +1,6 @@
 # Plan de la enciclopedia de Relitree
 
-78 fases · 860 artículos · objetivo mínimo ≈ 4.3 millones de palabras.
+78 fases · 861 artículos · objetivo mínimo ≈ 4.3 millones de palabras.
 
 Cada fase se trabaja en una sesión. Al terminarla se marcan sus artículos como `estado: completo` y se dan los comandos de git. Las normas están en `agentes.md`, apartado «Enciclopedia: normas».
 
@@ -180,18 +180,21 @@ Estado editorial: fase cerrada, 13 de 13 artículos publicados. La visión de co
 
 ## Fase E10 · Cristianismo · Edad contemporánea
 
-- Ilustración, revolución y anticlericalismo
-- Iglesias y totalitarismos del siglo XX
-- Persecución bajo regímenes comunistas
-- El movimiento ecuménico
-- Teología liberal y fundamentalismo
-- Pentecostalismo y movimiento carismático
-- Doctrina social de la Iglesia
-- Los abusos sexuales y su encubrimiento
-- Mujer e iglesias
-- Ciencia y cristianismo: de Galileo a Darwin
-- Secularización de Occidente
-- El cristianismo hoy
+Estado editorial: en curso, 7 de 13 artículos publicados. Entregas 10.0–10.3 incorporadas en la versión 1.7.33.
+
+- [x] 10.0 · [El cristianismo en la Edad Contemporánea · Visión de conjunto](es/religiones/cristianismo/edad-contemporanea/panorama.md)
+- [x] 10.1 · [Ilustración, revolución y anticlericalismo](es/religiones/cristianismo/edad-contemporanea/ilustracion-revolucion-y-anticlericalismo.md)
+- [x] 10.1 · [Ciencia y cristianismo · De Galileo a Darwin](es/religiones/cristianismo/edad-contemporanea/ciencia-y-cristianismo-de-galileo-a-darwin.md)
+- [x] 10.2 · [Iglesias y totalitarismos del siglo XX](es/religiones/cristianismo/edad-contemporanea/iglesias-y-totalitarismos-del-siglo-xx.md)
+- [x] 10.2 · [Persecución bajo regímenes comunistas](es/religiones/cristianismo/edad-contemporanea/persecucion-bajo-regimenes-comunistas.md)
+- [x] 10.3 · [Teología liberal y fundamentalismo](es/religiones/cristianismo/edad-contemporanea/teologia-liberal-y-fundamentalismo.md)
+- [x] 10.3 · [Pentecostalismo y movimiento carismático](es/religiones/cristianismo/edad-contemporanea/pentecostalismo-y-movimiento-carismatico.md)
+- [ ] 10.4 · El movimiento ecuménico
+- [ ] 10.4 · Doctrina social de la Iglesia
+- [ ] 10.5 · Mujer e iglesias
+- [ ] 10.5 · Los abusos sexuales y su encubrimiento
+- [ ] 10.6 · Secularización de Occidente
+- [ ] 10.6 · El cristianismo hoy
 
 ## Fase E11 · Cristianismo · Los papas (I)
 

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 362" role="img" aria-labelledby="tit nota">
+<title id="tit">Qué autoridad cambia de manos</title><desc id="nota">Qué autoridad cambia de manos. Cuatro dimensiones de una reforma religiosa. Propiedad. Quién dispone de bienes y de sus rentas. Nombramientos. Quién selecciona o reconoce a titulares de cargos. Enseñanza. Quién fija los programas y acredita al personal. Culto y estado civil. Quién autoriza reuniones y qué actos producen efectos civiles.</desc>
+<rect width="720" height="362" fill="#f8f9f8"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#254044">Qué autoridad cambia de manos</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#254044">Cuatro dimensiones de una reforma religiosa</text>
+<rect x="35" y="115" width="317" height="104" fill="#805430" fill-opacity=".085"/>
+<rect x="35" y="115" width="4" height="104" fill="#805430"/>
+<text x="49" y="141" font-size="20" font-weight="700" fill="#805430">Propiedad</text>
+<text x="49" y="164" font-size="17.3" font-weight="400" fill="#254044">Quién dispone de bienes y de</text>
+<text x="49" y="183" font-size="17.3" font-weight="400" fill="#254044">sus rentas.</text>
+<rect x="368" y="115" width="317" height="104" fill="#805430" fill-opacity=".085"/>
+<rect x="368" y="115" width="4" height="104" fill="#805430"/>
+<text x="382" y="141" font-size="20" font-weight="700" fill="#805430">Nombramientos</text>
+<text x="382" y="164" font-size="17.3" font-weight="400" fill="#254044">Quién selecciona o reconoce a</text>
+<text x="382" y="183" font-size="17.3" font-weight="400" fill="#254044">titulares de cargos.</text>
+<rect x="35" y="237" width="317" height="104" fill="#805430" fill-opacity=".085"/>
+<rect x="35" y="237" width="4" height="104" fill="#805430"/>
+<text x="49" y="263" font-size="20" font-weight="700" fill="#805430">Enseñanza</text>
+<text x="49" y="286" font-size="17.3" font-weight="400" fill="#254044">Quién fija los programas y</text>
+<text x="49" y="305" font-size="17.3" font-weight="400" fill="#254044">acredita al personal.</text>
+<rect x="368" y="237" width="317" height="104" fill="#805430" fill-opacity=".085"/>
+<rect x="368" y="237" width="4" height="104" fill="#805430"/>
+<text x="382" y="263" font-size="20" font-weight="700" fill="#805430">Culto y estado civil</text>
+<text x="382" y="286" font-size="17.3" font-weight="400" fill="#254044">Quién autoriza reuniones y qué</text>
+<text x="382" y="305" font-size="17.3" font-weight="400" fill="#254044">actos producen efectos civiles.</text>
+</g>
+</svg>

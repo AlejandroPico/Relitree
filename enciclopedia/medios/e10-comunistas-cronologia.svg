@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 466" role="img" aria-labelledby="tit nota">
+<title id="tit">Cambios de política en la URSS</title><desc id="nota">Cambios de política en la URSS. Hitos sobre instituciones y actividad religiosa. 1918 y 1922. Decreto de separación y campaña de requisas. 1929–1931. Regulación de asociaciones religiosas y demolición de la catedral de Moscú. 1943. Se autoriza la reorganización supervisada del patriarcado ortodoxo. Finales de los años 50. Nuevo impulso de cierres y restricciones bajo Jruschov. 1988 y 1990. Celebración ortodoxa del milenio y cambio del marco legal.</desc>
+<rect width="720" height="466" fill="#f8f9f8"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#254044">Cambios de política en la URSS</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#254044">Hitos sobre instituciones y actividad religiosa</text>
+<path d="M46 131V409" stroke="#694c78" stroke-opacity=".45" stroke-width="2"/>
+<circle cx="46" cy="131" r="6" fill="#694c78"/>
+<text x="68" y="138" font-size="21" font-weight="700" fill="#694c78">1918 y 1922</text>
+<text x="68" y="163" font-size="18" font-weight="400" fill="#254044">Decreto de separación y campaña de requisas.</text>
+<circle cx="46" cy="189" r="6" fill="#694c78"/>
+<text x="68" y="196" font-size="21" font-weight="700" fill="#694c78">1929–1931</text>
+<text x="68" y="221" font-size="18" font-weight="400" fill="#254044">Regulación de asociaciones religiosas y demolición de la</text>
+<text x="68" y="244" font-size="18" font-weight="400" fill="#254044">catedral de Moscú.</text>
+<circle cx="46" cy="270" r="6" fill="#694c78"/>
+<text x="68" y="277" font-size="21" font-weight="700" fill="#694c78">1943</text>
+<text x="68" y="302" font-size="18" font-weight="400" fill="#254044">Se autoriza la reorganización supervisada del patriarcado</text>
+<text x="68" y="325" font-size="18" font-weight="400" fill="#254044">ortodoxo.</text>
+<circle cx="46" cy="351" r="6" fill="#694c78"/>
+<text x="68" y="358" font-size="21" font-weight="700" fill="#694c78">Finales de los años 50</text>
+<text x="68" y="383" font-size="18" font-weight="400" fill="#254044">Nuevo impulso de cierres y restricciones bajo Jruschov.</text>
+<circle cx="46" cy="409" r="6" fill="#694c78"/>
+<text x="68" y="416" font-size="21" font-weight="700" fill="#694c78">1988 y 1990</text>
+<text x="68" y="441" font-size="18" font-weight="400" fill="#254044">Celebración ortodoxa del milenio y cambio del marco legal.</text>
+</g>
+</svg>

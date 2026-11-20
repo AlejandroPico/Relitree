@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 501" role="img" aria-labelledby="tit nota">
+<title id="tit">Cambios en el régimen de cultos</title><desc id="nota">Cambios en el régimen de cultos. Francia y dos referencias comparadas. 1781 · Habsburgo. Patente de Tolerancia de José II. 1789–1790 · Francia. Bienes eclesiásticos a disposición nacional y Constitución civil del clero. 1793–1794 · Francia. Descristianizaciones y experimentos de culto cívico. 1801–1802 · Francia. Concordato y disposiciones orgánicas. 1812 · España. Soberanía nacional y exclusividad confesional católica. 1905 · Francia. Ley de separación de las iglesias y el Estado.</desc>
+<rect width="720" height="501" fill="#f8f9f8"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#254044">Cambios en el régimen de cultos</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#254044">Francia y dos referencias comparadas</text>
+<path d="M46 131V444" stroke="#805430" stroke-opacity=".45" stroke-width="2"/>
+<circle cx="46" cy="131" r="6" fill="#805430"/>
+<text x="68" y="138" font-size="21" font-weight="700" fill="#805430">1781 · Habsburgo</text>
+<text x="68" y="163" font-size="18" font-weight="400" fill="#254044">Patente de Tolerancia de José II.</text>
+<circle cx="46" cy="189" r="6" fill="#805430"/>
+<text x="68" y="196" font-size="21" font-weight="700" fill="#805430">1789–1790 · Francia</text>
+<text x="68" y="221" font-size="18" font-weight="400" fill="#254044">Bienes eclesiásticos a disposición nacional y Constitución civil</text>
+<text x="68" y="244" font-size="18" font-weight="400" fill="#254044">del clero.</text>
+<circle cx="46" cy="270" r="6" fill="#805430"/>
+<text x="68" y="277" font-size="21" font-weight="700" fill="#805430">1793–1794 · Francia</text>
+<text x="68" y="302" font-size="18" font-weight="400" fill="#254044">Descristianizaciones y experimentos de culto cívico.</text>
+<circle cx="46" cy="328" r="6" fill="#805430"/>
+<text x="68" y="335" font-size="21" font-weight="700" fill="#805430">1801–1802 · Francia</text>
+<text x="68" y="360" font-size="18" font-weight="400" fill="#254044">Concordato y disposiciones orgánicas.</text>
+<circle cx="46" cy="386" r="6" fill="#805430"/>
+<text x="68" y="393" font-size="21" font-weight="700" fill="#805430">1812 · España</text>
+<text x="68" y="418" font-size="18" font-weight="400" fill="#254044">Soberanía nacional y exclusividad confesional católica.</text>
+<circle cx="46" cy="444" r="6" fill="#805430"/>
+<text x="68" y="451" font-size="21" font-weight="700" fill="#805430">1905 · Francia</text>
+<text x="68" y="476" font-size="18" font-weight="400" fill="#254044">Ley de separación de las iglesias y el Estado.</text>
+</g>
+</svg>

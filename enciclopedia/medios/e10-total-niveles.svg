@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 362" role="img" aria-labelledby="tit nota">
+<title id="tit">Dónde se observa la responsabilidad</title><desc id="nota">Dónde se observa la responsabilidad. Instituciones y conductas bajo una dictadura. Gobierno y partido. Normas, política represiva y capacidad para hacerla cumplir. Jerarquías religiosas. Acuerdos, declaraciones y decisiones de dirección. Grupos locales. Educación, culto, colaboración, asistencia y protestas. Personas afectadas. Pérdida de derechos, posibilidades de defensa y testimonios.</desc>
+<rect width="720" height="362" fill="#f8f9f8"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#254044">Dónde se observa la responsabilidad</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#254044">Instituciones y conductas bajo una dictadura</text>
+<rect x="35" y="115" width="317" height="104" fill="#873f38" fill-opacity=".085"/>
+<rect x="35" y="115" width="4" height="104" fill="#873f38"/>
+<text x="49" y="141" font-size="20" font-weight="700" fill="#873f38">Gobierno y partido</text>
+<text x="49" y="164" font-size="17.3" font-weight="400" fill="#254044">Normas, política represiva y</text>
+<text x="49" y="183" font-size="17.3" font-weight="400" fill="#254044">capacidad para hacerla cumplir.</text>
+<rect x="368" y="115" width="317" height="104" fill="#873f38" fill-opacity=".085"/>
+<rect x="368" y="115" width="4" height="104" fill="#873f38"/>
+<text x="382" y="141" font-size="20" font-weight="700" fill="#873f38">Jerarquías religiosas</text>
+<text x="382" y="164" font-size="17.3" font-weight="400" fill="#254044">Acuerdos, declaraciones y</text>
+<text x="382" y="183" font-size="17.3" font-weight="400" fill="#254044">decisiones de dirección.</text>
+<rect x="35" y="237" width="317" height="104" fill="#873f38" fill-opacity=".085"/>
+<rect x="35" y="237" width="4" height="104" fill="#873f38"/>
+<text x="49" y="263" font-size="20" font-weight="700" fill="#873f38">Grupos locales</text>
+<text x="49" y="286" font-size="17.3" font-weight="400" fill="#254044">Educación, culto, colaboración,</text>
+<text x="49" y="305" font-size="17.3" font-weight="400" fill="#254044">asistencia y protestas.</text>
+<rect x="368" y="237" width="317" height="104" fill="#873f38" fill-opacity=".085"/>
+<rect x="368" y="237" width="4" height="104" fill="#873f38"/>
+<text x="382" y="263" font-size="20" font-weight="700" fill="#873f38">Personas afectadas</text>
+<text x="382" y="286" font-size="17.3" font-weight="400" fill="#254044">Pérdida de derechos,</text>
+<text x="382" y="305" font-size="17.3" font-weight="400" fill="#254044">posibilidades de defensa y</text>
+<text x="382" y="324" font-size="17.3" font-weight="400" fill="#254044">testimonios.</text>
+</g>
+</svg>

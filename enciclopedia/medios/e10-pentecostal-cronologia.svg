@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 524" role="img" aria-labelledby="tit nota">
+<title id="tit">Varios centros de renovación</title><desc id="nota">Varios centros de renovación. Itinerarios de 1901 a 2019. 1901 · Topeka. Lenguas y bautismo en el Espíritu en la escuela bíblica de Parham. 1905 y 1906 · Mukti y Los Ángeles. Avivamiento en la India y comienzo de la misión de Azusa Street. 1909–1911 · Chile y Brasil. Proyectos pentecostales organizados en redes regionales diferentes. 1914 · Hot Springs. Formación de las Asambleas de Dios en Estados Unidos. 1967 · Duquesne. Retiro de referencia para la renovación carismática católica. 2019 · CHARIS. Entra en funcionamiento el servicio internacional de comunión.</desc>
+<rect width="720" height="524" fill="#f8f9f8"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="49" font-size="29" font-weight="700" fill="#254044">Varios centros de renovación</text>
+<text x="36" y="82" font-size="21" font-weight="400" fill="#254044">Itinerarios de 1901 a 2019</text>
+<path d="M46 131V467" stroke="#805030" stroke-opacity=".45" stroke-width="2"/>
+<circle cx="46" cy="131" r="6" fill="#805030"/>
+<text x="68" y="138" font-size="21" font-weight="700" fill="#805030">1901 · Topeka</text>
+<text x="68" y="163" font-size="18" font-weight="400" fill="#254044">Lenguas y bautismo en el Espíritu en la escuela bíblica de</text>
+<text x="68" y="186" font-size="18" font-weight="400" fill="#254044">Parham.</text>
+<circle cx="46" cy="212" r="6" fill="#805030"/>
+<text x="68" y="219" font-size="21" font-weight="700" fill="#805030">1905 y 1906 · Mukti y Los Ángeles</text>
+<text x="68" y="244" font-size="18" font-weight="400" fill="#254044">Avivamiento en la India y comienzo de la misión de Azusa Street.</text>
+<circle cx="46" cy="270" r="6" fill="#805030"/>
+<text x="68" y="277" font-size="21" font-weight="700" fill="#805030">1909–1911 · Chile y Brasil</text>
+<text x="68" y="302" font-size="18" font-weight="400" fill="#254044">Proyectos pentecostales organizados en redes regionales</text>
+<text x="68" y="325" font-size="18" font-weight="400" fill="#254044">diferentes.</text>
+<circle cx="46" cy="351" r="6" fill="#805030"/>
+<text x="68" y="358" font-size="21" font-weight="700" fill="#805030">1914 · Hot Springs</text>
+<text x="68" y="383" font-size="18" font-weight="400" fill="#254044">Formación de las Asambleas de Dios en Estados Unidos.</text>
+<circle cx="46" cy="409" r="6" fill="#805030"/>
+<text x="68" y="416" font-size="21" font-weight="700" fill="#805030">1967 · Duquesne</text>
+<text x="68" y="441" font-size="18" font-weight="400" fill="#254044">Retiro de referencia para la renovación carismática católica.</text>
+<circle cx="46" cy="467" r="6" fill="#805030"/>
+<text x="68" y="474" font-size="21" font-weight="700" fill="#805030">2019 · CHARIS</text>
+<text x="68" y="499" font-size="18" font-weight="400" fill="#254044">Entra en funcionamiento el servicio internacional de comunión.</text>
+</g>
+</svg>

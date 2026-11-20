@@ -1,8 +1,8 @@
 # Relitree
 
-**Versión 1.7.32**
+**Versión 1.7.33**
 
-La [enciclopedia](enciclopedia/PLAN.md#fase-e09--cristianismo--expansión-mundial) completa «Expansión mundial del cristianismo» con trece artículos. La fase recorre Europa, América, Asia y África y termina con un estudio sobre el sur global. El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
+La [enciclopedia](enciclopedia/PLAN.md#fase-e10--cristianismo--edad-contemporánea) abre «Cristianismo en la Edad Contemporánea» con siete artículos. El recorrido va de la Ilustración al pentecostalismo e incluye las relaciones de las iglesias con la ciencia y los regímenes del siglo XX. El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
 
 El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto. La capa **Puentes** marca los cruces de ramas y líneas de vida en las vistas por territorios y radial. Las marcas temporales mantienen una separación visual regular. El símbolo ≈ identifica los años redondeados.
 
