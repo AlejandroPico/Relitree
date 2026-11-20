@@ -28,6 +28,7 @@ fuentes:
   - "https://www.sciencedirect.com/science/article/abs/pii/S0304418106000133"
   - "https://www.psupress.org/books/titles/0-271-02128-4.html"
   - "https://estudiosmedievales.revistas.csic.es/index.php/estudiosmedievales/article/view/95"
+  - "https://commons.wikimedia.org/wiki/File:WaldoAtLutherDenkmal.JPG"
 ---
 
 # Herejías medievales
@@ -64,6 +65,11 @@ Las condenas conciliares dan acceso a parte de esa historia. El canon 27 del [[c
 ### Valdés, la traducción y la palabra laica
 
 El movimiento valdense se asocia a Valdés de Lyon, tradicionalmente llamado Pedro Valdo. Los testimonios más cercanos a sus comienzos no permiten asegurar ese nombre de pila. Según fuentes de distinta procedencia, era un laico acomodado que optó por una vida de renuncia y promovió el acceso a textos cristianos en lengua comprensible para quienes no dominaban el latín. La traducción daba a los predicadores recursos para aprender pasajes y explicarlos en público. El proyecto incorporaba una práctica de pobreza y una forma de enseñanza. Aquellas dos decisiones se discutieron de diferente modo. [1, 4, 21]
+
+<figure>
+  <img src="datos/medios/e056-valdes-worms.jpg" alt="Estatua de Valdés en el monumento a Lutero de Worms" width="360" height="496" loading="lazy" decoding="async">
+  <figcaption>Valdés en el monumento a Lutero de Worms, inaugurado en 1868. La estatua refleja su recuerdo en el siglo XIX. Fotografía de Tartessos75, 2006. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:WaldoAtLutherDenkmal.JPG">Ficha en Wikimedia Commons</a>. [25]</figcaption>
+</figure>
 
 En torno al III Concilio de Letrán, el clérigo inglés Walter Map dejó un retrato satírico de los pobres de Lyon. Su relato es un testimonio temprano de cómo se presentaron y de cómo un autor culto los juzgó. También muestra las expectativas de quien examinaba a un laico. Manejar una cuestión de vocabulario teológico como lo haría un clérigo formado en latín era para Map una señal de competencia. Un grupo dedicado a leer el Evangelio en lengua vulgar podía entender que la preparación de un predicador se reconocía por otras pruebas. El desacuerdo importa tanto como el detalle de qué contestaron en aquel encuentro. [1, 4, 21]
 
@@ -231,3 +237,4 @@ La secuencia medieval revela, por tanto, una historia de controversias acerca de
 22. Estudio sobre Margarita Porete y la transmisión de El espejo de las almas simples, Journal of Medieval History. [Consultar](https://www.sciencedirect.com/science/article/abs/pii/S0304418106000133).
 23. David Burr, The Spiritual Franciscans. From Protest to Persecution. [Consultar](https://www.psupress.org/books/titles/0-271-02128-4.html).
 24. Sergi Grau Torras, «Durand de Huesca y la lucha contra el catarismo en la Corona de Aragón», Anuario de Estudios Medievales. [Consultar](https://estudiosmedievales.revistas.csic.es/index.php/estudiosmedievales/article/view/95).
+25. Valdés en el monumento a Lutero de Worms, inaugurado en 1868. La estatua refleja su recuerdo en el siglo XIX. Fotografía de Tartessos75, 2006. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:WaldoAtLutherDenkmal.JPG).

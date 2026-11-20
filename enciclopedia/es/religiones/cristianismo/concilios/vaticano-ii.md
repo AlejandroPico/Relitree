@@ -23,6 +23,7 @@ fuentes:
   - "https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html"
   - "https://www.vatican.va/content/paul-vi/es/motu_proprio/documents/hf_p-vi_motu-proprio_19650915_apostolica-sollicitudo.html"
   - "https://www.vatican.va/content/benedict-xvi/es/speeches/2005/december/documents/hf_ben_xvi_spe_20051222_roman-curia.html"
+  - "https://commons.wikimedia.org/wiki/File:Paus_Johannes_XXIII_%2C_kop%2C_Bestanddeelnr_924-1801_%28cropped%29.jpg"
 ---
 
 # 1962–1965 · Concilio Vaticano II
@@ -40,6 +41,11 @@ La posguerra ofrecía problemas nuevos para una reunión internacional. La desco
 ### De las consultas a los esquemas
 
 Juan XXIII encargó consultas a obispos, superiores y centros católicos de estudios. Después se constituyeron comisiones preparatorias que trabajaron sobre las respuestas y produjeron esquemas. La constitución apostólica *Humanae salutis* convocó formalmente el concilio el 25 de diciembre de 1961. Fijar la agenda supuso elegir qué asuntos podían convertirse en propuestas concretas y quién iba a intervenir en su preparación. Las comisiones recibían temas acotados y utilizaban vocabularios heredados de controversias previas. Una vez en Roma, los padres conciliares pudieron discutir si esos borradores expresaban adecuadamente las prioridades que habían llevado consigo desde sus diócesis. [2–5]
+
+<figure>
+  <img src="datos/medios/e056-juan-xxiii-anefo.jpg" alt="Retrato fotográfico de Juan XXIII durante su pontificado" width="375" height="493" loading="lazy" decoding="async">
+  <figcaption>Juan XXIII, que convocó y abrió el Concilio Vaticano II. Retrato de fotógrafo sin identificar de la agencia Anefo. Nationaal Archief, Países Bajos, recorte de la fotografía original. <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>. <a href="https://commons.wikimedia.org/wiki/File:Paus_Johannes_XXIII_%2C_kop%2C_Bestanddeelnr_924-1801_%28cropped%29.jpg">Ficha en Wikimedia Commons</a>. [20]</figcaption>
+</figure>
 
 El Secretariado para la Unidad de los Cristianos, presidido por el cardenal Augustin Bea, desempeñó un papel importante en el contacto con comunidades que no estaban en plena comunión con Roma y en la elaboración de textos relacionados con ellas. Entre quienes acudieron había observadores de otras iglesias y comunidades cristianas. Su condición se diferenciaba de la de los obispos con voto. La presencia de observadores permitió conversaciones, aportó información sobre posibles reacciones y creó un marco de interlocución que iba más allá de un llamamiento a adherirse a Roma. Junto a los padres participaron también expertos teológicos y, en el desarrollo del concilio, auditores laicos, incluidas mujeres incorporadas desde el tercer período. La diversidad de funciones ayuda a entender por qué intervenir en el proceso podía consistir en asesorar, conversar, presentar un texto o votar, según el caso. [1, 4, 5, 10]
 
@@ -220,3 +226,4 @@ En la historia de los [[cristianismo/concilios-ecumenicos|concilios ecuménicos]
 17. [Juan XXIII, *Pacem in terris* (11 de abril de 1963)](https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html)
 18. [Pablo VI, *Apostolica sollicitudo* (15 de septiembre de 1965). Institución del Sínodo de los Obispos](https://www.vatican.va/content/paul-vi/es/motu_proprio/documents/hf_p-vi_motu-proprio_19650915_apostolica-sollicitudo.html)
 19. [Benedicto XVI, discurso a la Curia romana (22 de diciembre de 2005)](https://www.vatican.va/content/benedict-xvi/es/speeches/2005/december/documents/hf_ben_xvi_spe_20051222_roman-curia.html)
+20. Juan XXIII, que convocó y abrió el Concilio Vaticano II. Retrato de fotógrafo sin identificar de la agencia Anefo. Nationaal Archief, Países Bajos, recorte de la fotografía original. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Paus_Johannes_XXIII_%2C_kop%2C_Bestanddeelnr_924-1801_%28cropped%29.jpg).

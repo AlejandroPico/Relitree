@@ -83,6 +83,7 @@ Estado editorial: **completa**, 11 de 11 artículos publicados.
 ## Fase E05 · Cristianismo · Concilios ecuménicos (II)
 
 Estado editorial: completa, 11 de 11 artículos publicados.
+Revisión visual en la versión 1.7.29 con ilustraciones en las 11 entradas.
 
 - [x] [Concilio de Letrán IV (1215)](es/religiones/cristianismo/concilios/letran-iv.md)
 - [x] [Concilio de Lyon I (1245)](es/religiones/cristianismo/concilios/lyon-i.md)
@@ -99,6 +100,7 @@ Estado editorial: completa, 11 de 11 artículos publicados.
 ## Fase E06 · Cristianismo · Cismas, herejías e Inquisición
 
 Estado editorial: fase completada, 12 de 12 artículos publicados.
+Revisión visual en la versión 1.7.29 con ilustraciones en las 12 entradas.
 
 - [x] [Herejías de la Antigüedad](es/religiones/cristianismo/cismas-herejias/herejias-de-la-antiguedad.md)
 - [x] [Iconoclasia y culto a las imágenes](es/religiones/cristianismo/cismas-herejias/iconoclasia-y-culto-a-las-imagenes.md)

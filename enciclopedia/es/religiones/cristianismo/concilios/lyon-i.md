@@ -18,6 +18,7 @@ fuentes:
   - "https://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=r408"
   - "https://www.cambridge.org/core/journals/traditio/article/abs/organization-of-the-latin-patriarchate-of-constantinople-12041261-social-and-administrative-consequences-of-the-latin-conquest/378793D72C06FFF670E6EB3F77886301"
   - "https://adw-goe.de/digitale-bibliothek/hoefe-und-residenzen-im-spaetmittelalterlichen-reich/id/rf15_I_121220-406/"
+  - "https://commons.wikimedia.org/wiki/File:Inocenc_IV.jpg"
 ---
 
 # 1245 · Concilio de Lyon I
@@ -37,6 +38,11 @@ Los acuerdos de 1230 devolvieron a Federico a la comunión, aunque persistieron 
 ### El lugar de reunión y la convocatoria
 
 Tras la muerte de Gregorio IX en 1241 y el breve pontificado de Celestino IV, la sede permaneció vacante hasta la elección de Sinibaldo Fieschi como Inocencio IV en 1243. Al principio hubo contactos y propuestas de negociación. Tras abandonar Italia, el pontífice llegó a Lyon en 1244. El lugar ofrecía una sede donde podía reunir prelados y delegaciones más allá del alcance inmediato de Federico. La ciudad ocupaba una posición de frontera política y de tránsito entre regiones, con su propio arzobispo y vínculos tanto con el espacio imperial como con territorios próximos al reino de Francia. Su estatuto importa para entender por qué llegó allí la curia y por qué una asamblea pudo reunirse cuando la anterior convocatoria romana había fracasado. [1, 4, 6, 7]
+
+<figure>
+  <img src="datos/medios/e056-inocencio-iv.jpg" alt="Grabado de Inocencio IV con indumentaria pontificia" width="318" height="325" loading="lazy" decoding="async">
+  <figcaption>Inocencio IV, que presidió el primer Concilio de Lyon. Grabado anónimo de una obra publicada por Jan Florian Hammerschmid en 1700. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Inocenc_IV.jpg">Ficha en Wikimedia Commons</a>. [15]</figcaption>
+</figure>
 
 Se conocen cartas de convocatoria fechadas desde el 3 de enero de 1245. Presentan varios asuntos: la posición de la Iglesia, la situación de Tierra Santa y del Imperio latino de Constantinopla, la amenaza de los mongoles y la relación con Federico. Llaman a prelados y a representantes de poderes seculares. Esta amplitud se aprecia al compararla con la disponibilidad de quienes podían acudir. Una guerra podía impedir el viaje de un obispo o apartar recursos que en otras circunstancias habría dedicado al concilio. Un príncipe podía hacerse representar mediante enviados. La nómina de participantes depende de esa capacidad de desplazarse, además de los destinatarios a los que se dirigieron las cartas. [1, 4–6, 11]
 
@@ -188,3 +194,4 @@ La historia del concilio se organiza en torno a pruebas de naturaleza diferente.
 12. [Liber Sextus. Bio-Bibliographical Guide to Medieval and Early Modern Jurists, Ames Foundation](https://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=r408)
 13. [The Organization of the Latin Patriarchate of Constantinople, 1204–1261. Traditio](https://www.cambridge.org/core/journals/traditio/article/abs/organization-of-the-latin-patriarchate-of-constantinople-12041261-social-and-administrative-consequences-of-the-latin-conquest/378793D72C06FFF670E6EB3F77886301)
 14. [Heinrich Raspe (1246–47). Höfe und Residenzen im spätmittelalterlichen Reich, Academia de Ciencias de Gotinga](https://adw-goe.de/digitale-bibliothek/hoefe-und-residenzen-im-spaetmittelalterlichen-reich/id/rf15_I_121220-406/)
+15. Inocencio IV, que presidió el primer Concilio de Lyon. Grabado anónimo de una obra publicada por Jan Florian Hammerschmid en 1700. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Inocenc_IV.jpg).

@@ -26,6 +26,7 @@ fuentes:
   - "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/197B9EDB1914D20E34616CECF23EF0C4/S0025727300072422a.pdf/div-class-title-medical-ideals-in-the-sephardic-diaspora-rodrigo-de-castro-s-portrait-of-the-perfect-physician-in-early-seventeenth-century-hamburg-div.pdf"
   - "https://www.une.es/la-universidad-de-extremadura-presenta-el-libro-la"
   - "https://www.cambridge.org/core/books/abs/inquisition-in-the-spanish-dependencies/sicily/5AB46A6F5713C203CEC7E314244CFCA9"
+  - "https://commons.wikimedia.org/wiki/File:Auto_de_fe_de_la_Inquisici%C3%B3n_por_Goya.jpg"
 ---
 
 # La Inquisición española
@@ -99,6 +100,11 @@ La tortura se utilizó en determinados procesos, bajo reglas de prueba y decisio
 ### Sentencias y autos públicos
 
 Una sentencia podía imponer penitencias, multas, destierro, prisión u otras obligaciones. El ordenamiento distinguía diferentes formas de abjuración y reconciliación. Algunas resoluciones enviaban al condenado a la autoridad secular con la consecuencia de una pena capital. Podían actuar sobre personas vivas, ausentes o ya fallecidas, con efectos jurídicos y simbólicos distintos. Las menciones a una efigie permiten identificar casos en que se representaba al condenado. Separarlas de las ejecuciones de personas es imprescindible para interpretar las cifras de una ceremonia o de un distrito. [1–4, 11–13, 18]
+
+<figure>
+  <img src="datos/medios/e056-auto-fe-goya.jpg" alt="Pintura de un auto de fe con acusados sentados ante un tribunal y un público reunido" width="610" height="355" loading="lazy" decoding="async">
+  <figcaption>Francisco de Goya, <i>Auto de fe de la Inquisición</i>, principios del siglo XIX. Interpretación pictórica del ritual público. Real Academia de Bellas Artes de San Fernando, Madrid. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Auto_de_fe_de_la_Inquisici%C3%B3n_por_Goya.jpg">Ficha en Wikimedia Commons</a>. [23]</figcaption>
+</figure>
 
 El auto de fe era un acto en el que se publicaban sentencias y, en ocasiones, se escenificaban abjuraciones y penitencias. Podía reunir casos de muy distinto tipo. Hubo ceremonias solemnes en espacios públicos y actos de alcance más limitado. Sus programas, relaciones impresas e imágenes tienden a destacar el orden de la ceremonia, las autoridades asistentes y la exposición de la fuerza del tribunal. La ejecución de una pena capital correspondía a la autoridad secular y se realizaba fuera del desarrollo litúrgico del auto. Para saber qué ocurrió con una persona conviene buscar su sentencia y, cuando existe, la documentación de la pena efectiva. [1–4, 11, 18]
 
@@ -223,3 +229,4 @@ La historia de los tribunales explica una parte de la presión ejercida sobre co
 20. Jon Arrizabalaga, «Medical Ideals in the Sephardic Diaspora», Medical History. [Consultar](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/197B9EDB1914D20E34616CECF23EF0C4/S0025727300072422a.pdf/div-class-title-medical-ideals-in-the-sephardic-diaspora-rodrigo-de-castro-s-portrait-of-the-perfect-physician-in-early-seventeenth-century-hamburg-div.pdf).
 21. Universidad de Extremadura y Unión de Editoriales Universitarias Españolas, edición de los procesos inquisitoriales de Guadalupe de 1485. [Consultar](https://www.une.es/la-universidad-de-extremadura-presenta-el-libro-la).
 22. Henry Charles Lea, «Sicily», The Inquisition in the Spanish Dependencies. [Consultar](https://www.cambridge.org/core/books/abs/inquisition-in-the-spanish-dependencies/sicily/5AB46A6F5713C203CEC7E314244CFCA9).
+23. Francisco de Goya, Auto de fe de la Inquisición, principios del siglo XIX. Interpretación pictórica del ritual público. Real Academia de Bellas Artes de San Fernando, Madrid. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Auto_de_fe_de_la_Inquisici%C3%B3n_por_Goya.jpg).

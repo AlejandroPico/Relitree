@@ -27,6 +27,7 @@ fuentes:
   - "https://www.cambridge.org/core/journals/studies-in-church-history/article/abs/bishop-buckingham-and-the-lollards-of-lincoln-diocese/CC672AAB520F915CA8D57E2A420F598D"
   - "https://hispaniasacra.revistas.csic.es/index.php/hispaniasacra/article/download/346/347/346"
   - "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/75/83/64/2021758364/2021758364.pdf"
+  - "https://commons.wikimedia.org/wiki/File:Gui%2C_Bernard_%E2%80%93_Practica_officii_inquisitionis_heretice_pravitatis%2C_14th-century_%E2%80%93_BEIC_9975680.jpg"
 ---
 
 # La Inquisición medieval
@@ -143,6 +144,11 @@ Los documentos ponen en contacto escalas de tiempo diferentes. El juez y el nota
 
 Bernard Gui actuó como inquisidor en Toulouse a comienzos del siglo XIV. Su <em>Practica inquisitionis heretice pravitatis</em> reúne materiales orientados al trabajo del juez, entre ellos fórmulas, instrucciones y descripciones de grupos a los que se dirigían las pesquisas. La British Library conserva por otra vía el manuscrito Add MS 4697, un registro de sentencias vinculadas a su actividad entre 1308 y 1323. El manual reúne instrumentos que podían emplearse en el oficio. El registro fija decisiones atribuidas a una jurisdicción y a una secuencia de actuaciones. Leerlos juntos permite buscar cuáles de las categorías del manual se usaron en las sentencias conservadas y cómo se aplicaron en casos concretos. [1, 6, 13]
 
+<figure>
+  <img src="datos/medios/e056-manual-bernard-gui.jpg" alt="Folio en pergamino con el texto latino del manual de Bernard Gui" width="440" height="583" loading="lazy" decoding="async">
+  <figcaption>Primer folio de una copia del siglo XIV de la <i>Practica officii inquisitionis</i> de Bernard Gui. Biblioteca de Estudio y Patrimonio de Toulouse, manuscrito 388, folio 1r. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Gui%2C_Bernard_%E2%80%93_Practica_officii_inquisitionis_heretice_pravitatis%2C_14th-century_%E2%80%93_BEIC_9975680.jpg">Ficha en Wikimedia Commons</a>. [24]</figcaption>
+</figure>
+
 Una sentencia puede ordenar el relato alrededor de la condición jurídica de la persona. En ese relato caben los contactos previos, una confesión o una abjuración, siempre que afecten a la decisión. La narración ya ha pasado por una selección y puede omitir dudas que se discutieron en el interrogatorio. También puede abreviar numerosas comparecencias en unas líneas. Los formularios permiten reconocer pasajes que se repiten en distintas resoluciones. Lo particular se aprecia en los nombres, en las fechas y en las obligaciones concretas. La repetición de una fórmula ayuda a identificar el tipo de acto, mientras que la divergencia entre resoluciones requiere seguir, en lo posible, las otras piezas de cada expediente. [1, 8, 13–14]
 
 Las condenas recibían publicidad en determinadas ceremonias. Esto permitía hacer visibles las decisiones, comunicar obligaciones a la comunidad y presentar la autoridad del tribunal. El expediente escrito tenía otra función. Permitía consultar lo resuelto, archivar el compromiso de una persona reconciliada y recuperar un antecedente si se abría un procedimiento posterior. En algunos casos la documentación se copiaba, lo que añade una decisión sobre orden y conservación. El acta de lo anunciado y el registro preparado para consulta podían representar distintas fases de un mismo trabajo. El historiador necesita averiguar qué forma se ha transmitido antes de atribuir al documento la voz de quien habló ante los asistentes. [1, 6–8, 13–14]
@@ -223,3 +229,4 @@ Por su capacidad de interrogar a grupos amplios, ordenar medidas duraderas y reu
 21. «Bishop Buckingham and the Lollards of Lincoln Diocese», Studies in Church History. [Consultar](https://www.cambridge.org/core/journals/studies-in-church-history/article/abs/bishop-buckingham-and-the-lollards-of-lincoln-diocese/CC672AAB520F915CA8D57E2A420F598D).
 22. Estudio de la inquisición medieval en la Corona de Aragón, Hispania Sacra. [Consultar](https://hispaniasacra.revistas.csic.es/index.php/hispaniasacra/article/download/346/347/346).
 23. Henry Charles Lea, A History of the Inquisition of the Middle Ages, edición histórica digitalizada por la Library of Congress. [Consultar](https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/75/83/64/2021758364/2021758364.pdf).
+24. Primer folio de una copia del siglo XIV de la Practica officii inquisitionis de Bernard Gui. Biblioteca de Estudio y Patrimonio de Toulouse, manuscrito 388, folio 1r. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Gui%2C_Bernard_%E2%80%93_Practica_officii_inquisitionis_heretice_pravitatis%2C_14th-century_%E2%80%93_BEIC_9975680.jpg).

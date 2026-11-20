@@ -17,6 +17,7 @@ fuentes:
   - "https://www.persee.fr/doc/mefr_0223-4874_1940_num_57_1_7317"
   - "https://www.newadvent.org/cathen/12333a.htm"
   - "https://www.loc.gov/item/2021667736/"
+  - "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_-_Ritratto_di_Papa_Giulio_II_%28National_Gallery%2C_London%29.jpg"
 ---
 
 # 1512–1517 · Concilio de Letrán V
@@ -42,6 +43,11 @@ La reivindicación de los cardenales de Pisa se entiende mejor al distinguir qui
 ### La convocatoria romana y las primeras sesiones
 
 Julio II promulgó su convocatoria el 18 de julio de 1511, antes de que se celebraran las primeras reuniones efectivas de Pisa. Su bula defendía el derecho de Roma a convocar y respondía a las acusaciones de los cardenales. El concilio romano se abrió en mayo de 1512, después de aplazamientos y en un momento marcado por la batalla de Rávena. La primera sesión de la edición de Tanner se fecha el 10 de mayo. Conviene distinguir el comienzo de las ceremonias que describen algunos relatos de la fecha de la sesión que encabeza la serie documental. Egidio de Viterbo pronunció un discurso de apertura sobre los males de la Iglesia y la necesidad de reforma. [1–4]
+
+<figure>
+  <img src="datos/medios/e056-julio-ii-rafael.jpg" alt="Julio II sentado, con vestiduras pontificias rojas y barba blanca" width="370" height="501" loading="lazy" decoding="async">
+  <figcaption>Rafael, retrato de Julio II, 1511. El pontífice convocó el V Concilio de Letrán. National Gallery, Londres. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_-_Ritratto_di_Papa_Giulio_II_%28National_Gallery%2C_London%29.jpg">Ficha en Wikimedia Commons</a>. [14]</figcaption>
+</figure>
 
 La organización incluía lugares para los participantes, notarios, procuradores, guardias y designación de quienes debían contar votos. La segunda sesión, de 17 de mayo, declaró nulos los actos de la reunión de Pisa, ratificó censuras anteriores y afirmó la autoridad del concilio romano. En la tercera, de diciembre, quedó documentado el acercamiento de Maximiliano al concilio de Julio a través de su representante, el obispo de Gurk, Mateo Lang. Las decisiones contra Pisa establecían qué actuaciones negaba Roma y en qué condiciones podían revisarse sus consecuencias. Para saber qué apoyos tenía cada asamblea resulta necesario seguir además los reconocimientos, retiradas y reconciliaciones posteriores. [1–5]
 
@@ -195,3 +201,4 @@ Los actos se publicaron en Roma en 1521 a iniciativa de León X por medio del ca
 11. [Marguerite Boulet-Sautel, «Les élections épiscopales en France au lendemain du Concordat de Bologne (1516–1531)». École française de Rome](https://www.persee.fr/doc/mefr_0223-4874_1940_num_57_1_7317)
 12. [«Pragmatic Sanction». *The Catholic Encyclopedia*](https://www.newadvent.org/cathen/12333a.htm)
 13. [Martín Lutero, *Disputatio pro declaratione virtutis indulgentiarum*. Ficha documental de la Biblioteca del Congreso](https://www.loc.gov/item/2021667736/)
+14. Rafael, retrato de Julio II, 1511. El pontífice convocó el V Concilio de Letrán. National Gallery, Londres. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_-_Ritratto_di_Papa_Giulio_II_%28National_Gallery%2C_London%29.jpg).

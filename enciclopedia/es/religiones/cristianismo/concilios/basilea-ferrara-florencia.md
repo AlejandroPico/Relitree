@@ -21,6 +21,7 @@ fuentes:
   - "https://www.routledge.com/Rome-and-the-Maronites-in-the-Renaissance-and-Reformation-The-Formatio/Kennerley/p/book/9780367760809"
   - "https://academic.oup.com/book/60719/chapter-abstract/527873569"
   - "https://www.newadvent.org/cathen/06031b.htm"
+  - "https://commons.wikimedia.org/wiki/File:Firenze-bolla-unione.jpg"
 ---
 
 # 1431–1445 · Concilio de Basilea–Ferrara–Florencia
@@ -113,6 +114,11 @@ La bula reconoce el primado del pontífice romano y describe su potestad sobre l
 
 Marcos de Éfeso se negó a firmar el decreto. La existencia de esa oposición es importante dentro de una delegación que había pasado meses deliberando. La bula conserva la posición aceptada por los firmantes y su proclamación muestra que se dio curso público a la unión. En Constantinopla y en otras iglesias hubo resistencias una vez que regresaron los enviados. La muerte del patriarca, la capacidad del emperador de respaldar lo acordado y las posiciones de los obispos que debían aplicar la decisión afectaron a su recepción. El contraste entre los documentos de firma y el uso posterior de la unión en las iglesias permite reconstruir dos momentos del proceso. [1, 4–7, 9, 12, 13]
 
+<figure>
+  <img src="datos/medios/e056-decreto-union-florencia.jpg" alt="Pergamino del decreto de unión de Florencia con sus textos en griego y latín" width="500" height="446" loading="lazy" decoding="async">
+  <figcaption>Decreto de unión entre las iglesias griega y latina, promulgado en Florencia el 6 de julio de 1439 durante el pontificado de Eugenio IV. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Firenze-bolla-unione.jpg">Ficha en Wikimedia Commons</a>. [18]</figcaption>
+</figure>
+
 La trayectoria de Isidoro de Kiev permite seguir el problema más allá del Mediterráneo oriental. Participó en el acuerdo e intentó promover su recepción al regresar al ámbito ruso. La unión fue rechazada en Moscú. Los estudios sobre ese rechazo distinguen la visita del metropolitano, la política de las autoridades locales y los relatos que elaboraron posteriormente un argumento sobre la posición de su Iglesia. Una narración posterior puede presentar como consecuencia inmediata de Florencia un cambio que se produjo a través de decisiones sucesivas. El caso ayuda a comprender por qué celebrar una sesión con representantes de varias sedes y obtener la adhesión posterior de esas sedes son dos procesos que requieren pruebas diferentes. [1, 4, 9, 13]
 
 Besarión, que defendió el acuerdo, y Marcos, que se resistió a suscribirlo, ilustran hasta qué punto la discusión atravesó la propia delegación. Ofrecieron interpretaciones y tomaron posiciones que pueden estudiarse a través de sus escritos y de las actuaciones en que intervinieron. La distinción es importante para evitar que la procedencia de una persona determine de antemano lo que había de sostener. Los firmantes y opositores argumentaban a partir de tradiciones conocidas por unos y otros y discrepaban sobre la lectura de pasajes, el peso de precedentes y la autoridad de la fórmula resultante. El destino de lo acordado dependió de que esas interpretaciones pudieran ser aceptadas en sus iglesias de origen. [1, 4–7, 12, 13]
@@ -196,3 +202,4 @@ El concilio dejó decisiones de varios órdenes. Algunas proceden de esfuerzos p
 15. [Sam Kennerley. Rome and the Maronites in the Renaissance and Reformation. Routledge](https://www.routledge.com/Rome-and-the-Maronites-in-the-Renaissance-and-Reformation-The-Formatio/Kennerley/p/book/9780367760809)
 16. [Giving the Heretics a Stand. The Compacts and Concordats of Jihlava (Basel) and the Bohemian Hussites. Oxford Academic](https://academic.oup.com/book/60719/chapter-abstract/527873569)
 17. [Felix V. Catholic Encyclopedia](https://www.newadvent.org/cathen/06031b.htm)
+18. Decreto de unión entre las iglesias griega y latina, promulgado en Florencia el 6 de julio de 1439 durante el pontificado de Eugenio IV. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Firenze-bolla-unione.jpg).

@@ -15,6 +15,7 @@ fuentes:
   - "https://oseegenius.unigre.it/pug/resource?found=1&uri=114084BIB"
   - "https://data.mgh.de/databases/clavis/wiki/index.php/Liber_Extra"
   - "https://www.pennpress.org/9780812213232/anatomy-of-a-crusade-1213-1221/"
+  - "https://commons.wikimedia.org/wiki/File:Innozenz3.jpg"
 ---
 
 # 1215 · Concilio de Letrán IV
@@ -26,6 +27,11 @@ El Cuarto Concilio de Letrán se reunió en Roma en noviembre de 1215, convocado
 ### Reforma, curia y Tierra Santa
 
 Inocencio III fue elegido en 1198. Su pontificado se desarrolló en un momento en que la curia romana recibía consultas y apelaciones en asuntos cada vez más variados. Obispos, monasterios y litigantes buscaban una confirmación, una excepción, un árbitro o un remedio ante una decisión local. El papado disponía de cartas, legados y jueces delegados para actuar a distancia. Aquellos medios le daban información sobre conflictos recurrentes y, al mismo tiempo, dependían de agentes que debían entregar una carta, instruir una causa o hacer cumplir una decisión. Convocar a prelados de muchas regiones permitía reunir problemas que los registros pontificios recogían normalmente de uno en uno. [1, 3–5]
+
+<figure>
+  <img src="datos/medios/e056-inocencio-iii.jpg" alt="Fresco de Inocencio III con indumentaria pontificia y palio" width="370" height="466" loading="lazy" decoding="async">
+  <figcaption>Inocencio III, convocante del IV Concilio de Letrán. Fresco anónimo del Sacro Speco, en Subiaco. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Innozenz3.jpg">Ficha en Wikimedia Commons</a>. [12]</figcaption>
+</figure>
 
 El propio Inocencio había utilizado varios cauces para intervenir en la política de la cristiandad latina. La relación con los príncipes no era uniforme. Un rey podía pedir apoyo al papa en una disputa sucesoria y resistir su intervención en otras cuestiones. Un obispo podía recibir protección romana frente a un patrono y discutir la extensión de un privilegio concedido a una abadía de su diócesis. La convocatoria conciliar recogía esas relaciones con grupos distintos y tenía que traducirlas en acuerdos sobre actuaciones concretas. El amplio temario de 1215 refleja esa convergencia. Incluye cuestiones que afectaban a una sola parroquia y decisiones sobre la movilización de recursos de muchos reinos. [1, 3–5]
 
@@ -198,3 +204,4 @@ Una comparación entre rutas de aplicación pone de relieve la capacidad desigua
 9. [Antonio García y García, ed. Constitutiones Concilii quarti Lateranensis una cum commentariis glossatorum. Catálogo de la Pontificia Universidad Gregoriana](https://oseegenius.unigre.it/pug/resource?found=1&uri=114084BIB)
 10. [Christof Rolker. Liber Extra. Clavis Canonum, Monumenta Germaniae Historica](https://data.mgh.de/databases/clavis/wiki/index.php/Liber_Extra)
 11. [James M. Powell. Anatomy of a Crusade, 1213–1221. University of Pennsylvania Press](https://www.pennpress.org/9780812213232/anatomy-of-a-crusade-1213-1221/)
+12. Inocencio III, convocante del IV Concilio de Letrán. Fresco anónimo del Sacro Speco, en Subiaco. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Innozenz3.jpg).

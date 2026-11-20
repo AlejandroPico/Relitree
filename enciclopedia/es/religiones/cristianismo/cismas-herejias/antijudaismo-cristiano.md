@@ -33,6 +33,7 @@ fuentes:
   - "https://chnm.gmu.edu/wwh/p/90.html"
   - "https://www.ccjr.us/dialogika-resources/documents-and-statements/roman-catholic/vatican-curia/notes"
   - "https://icjs.org/dabru-emet-text/"
+  - "https://commons.wikimedia.org/wiki/File:Statue_cathedrale_de_Strasbourg_-_Synagogue.jpg"
 ---
 
 # El antijudaísmo cristiano
@@ -157,6 +158,11 @@ Durante el siglo XX, algunos propagandistas nazis recuperaron escritos hostiles 
 
 En algunas iglesias medievales, las figuras de <em>Ecclesia</em> y <em>Synagoga</em> representaban de forma alegórica a la Iglesia y la Sinagoga. En ejemplos conocidos, como el de la catedral de Estrasburgo, el contraste entre los atributos de ambas figuras comunica una jerarquía. Una puede llevar elementos de triunfo, y la otra aparecer con los ojos cubiertos y un atributo quebrado. La identificación de los personajes y su significado requieren observar el lugar de la escultura, las figuras cercanas y los usos del espacio. La historia material puede explicar también cuándo se retiraron los originales, qué presentan hoy las copias y cómo ha cambiado su interpretación pública. [2, 26]
 
+<figure>
+  <img src="datos/medios/e056-sinagoga-estrasburgo.jpg" alt="Escultura de la Sinagoga en el portal sur de la catedral de Estrasburgo" width="360" height="540" loading="lazy" decoding="async">
+  <figcaption>La <i>Sinagoga</i> del portal sur de la catedral de Estrasburgo. La alegoría expresa una interpretación cristiana medieval del judaísmo. Fotografía de la copia del portal por Coyau / Wikimedia Commons. <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. <a href="https://commons.wikimedia.org/wiki/File:Statue_cathedrale_de_Strasbourg_-_Synagogue.jpg">Ficha en Wikimedia Commons</a>. [30]</figcaption>
+</figure>
+
 Las imágenes de una disputa, de una conversión o de una leyenda circularon a través de escultura, pintura, impresos y relatos teatrales. La reproducción de un motivo en distintos soportes puede situarlo ante públicos con oportunidades diferentes de interpretarlo. Si se trata de una falsa acusación, su presencia en una iglesia o su reproducción devocional documentan la autoridad cultural que se le dio. El contexto de una pieza ayuda a saber si la hizo encargar una comunidad local, si formó parte de un programa iconográfico o si se le asignó después una historia que alteró cómo se veía. [1–2, 9, 26]
 
 ## Siglos XIX y XX · Antisemitismo moderno y revisión cristiana
@@ -233,3 +239,4 @@ Volver a las fuentes permite preguntar, ante cada episodio, qué prejuicio se ex
 27. George Mason University, memorias de Glückel de Hamelín, Women in World History. [Consultar](https://chnm.gmu.edu/wwh/p/90.html).
 28. Comisión para las Relaciones Religiosas con el Judaísmo, notas para la predicación y la catequesis, 1985. [Consultar](https://www.ccjr.us/dialogika-resources/documents-and-statements/roman-catholic/vatican-curia/notes).
 29. Institute for Islamic, Christian, and Jewish Studies, Dabru Emet, 2000. [Consultar](https://icjs.org/dabru-emet-text/).
+30. La Sinagoga del portal sur de la catedral de Estrasburgo. La alegoría expresa una interpretación cristiana medieval del judaísmo. Fotografía de la copia del portal por Coyau / Wikimedia Commons. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Statue_cathedrale_de_Strasbourg_-_Synagogue.jpg).

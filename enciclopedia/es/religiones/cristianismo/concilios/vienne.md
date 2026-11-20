@@ -18,6 +18,7 @@ fuentes:
   - "https://fama.irht.cnrs.fr/en/oeuvre/437436"
   - "https://observatorio-cientifico.ua.es/documentos/652984f8993b0007e5d7c5b3?lang=en"
   - "https://www.cambridge.org/core/books/abs/late-medieval-heresy-new-perspectives/heresy-of-the-templars-and-the-dream-of-a-french-inquisition/63F9603345AADC9D67BE5869D0C0E4FD"
+  - "https://commons.wikimedia.org/wiki/File:Cathedral_of_Vienne_%2815%29.jpg"
 ---
 
 # 1311–1312 · Concilio de Vienne
@@ -45,6 +46,11 @@ La diferencia entre fuentes judiciales merece atención incluso cuando transmite
 ### Poitiers, Chinon y la convocatoria de 1308
 
 En 1308 hubo interrogatorios ordenados por el papado. Un grupo de cardenales examinó en Chinon a varios dirigentes del Temple, entre ellos Molay. El pergamino registra declaraciones y actos de reconciliación eclesiástica concedidos en aquel procedimiento. El alcance de la absolución se establece a partir de su destinatario, de las circunstancias en que se otorgó y del acto concreto que documenta. La discusión sobre la existencia futura de la orden continuó por otros cauces. Leer el pergamino junto a las bulas posteriores permite distinguir una decisión relativa a personas de un decreto que suprimió una corporación. También hace visible que la curia realizó actuaciones propias mientras seguían en marcha procesos de otra procedencia. [1–5]
+
+<figure>
+  <img src="datos/medios/e056-catedral-vienne.jpg" alt="Nave y bóvedas del interior de la catedral de San Mauricio de Vienne" width="330" height="619" loading="lazy" decoding="async">
+  <figcaption>Interior de la catedral de San Mauricio de Vienne, sede de la asamblea de 1311–1312. Fotografía de Tournasol7, 2020. <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. <a href="https://commons.wikimedia.org/wiki/File:Cathedral_of_Vienne_%2815%29.jpg">Ficha en Wikimedia Commons</a>. [15]</figcaption>
+</figure>
 
 Clemente convocó el concilio con *Regnans in caelis*, fechada el 12 de agosto de 1308 en Poitiers. La reunión se proyectó para 1310 y se aplazó hasta octubre de 1311 mientras avanzaban las pesquisas. En 1310, decenas de templarios fueron ejecutados cerca de París por decisión derivada de actuaciones en la provincia eclesiástica de Sens. Los archivos franceses sitúan en mayo la ejecución de cincuenta y cuatro. La represión precedió a la decisión de la asamblea. Su efecto sobre la posibilidad de defender a la orden se estudia considerando cuándo se constituyeron grupos de defensa, quién podía intervenir por el Temple y qué consecuencias corrían quienes alteraban una declaración anterior. [1–4, 11, 14]
 
@@ -190,3 +196,4 @@ La historia del concilio combina cambios que pueden fecharse en una sesión y ca
 12. [Institut de recherche et d’histoire des textes. Constitutiones de Clemente V. Repertorio FAMA](https://fama.irht.cnrs.fr/en/oeuvre/437436)
 13. [Las propuestas de Ramon Llull al Concilio de Vienne (1311–1312). Observatorio Científico de la Universidad de Alicante](https://observatorio-cientifico.ua.es/documentos/652984f8993b0007e5d7c5b3?lang=en)
 14. [The Heresy of the Templars and the Dream of a French Inquisition. Late Medieval Heresy: New Perspectives. Cambridge University Press](https://www.cambridge.org/core/books/abs/late-medieval-heresy-new-perspectives/heresy-of-the-templars-and-the-dream-of-a-french-inquisition/63F9603345AADC9D67BE5869D0C0E4FD)
+15. Interior de la catedral de San Mauricio de Vienne, sede de la asamblea de 1311–1312. Fotografía de Tournasol7, 2020. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Cathedral_of_Vienne_%2815%29.jpg).

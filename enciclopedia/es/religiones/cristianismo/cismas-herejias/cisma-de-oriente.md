@@ -27,6 +27,7 @@ fuentes:
   - "https://ec-patr.org/10/06/19/40/joint-international-commission-for-the-theological-dialogue-between-the-roman-catholic-church-and-the-orthodox-church/"
   - "https://www.christianunity.va/content/dam/unitacristiani/Documentazione%20generale/Filioque/EN%20Filioque.pdf"
   - "https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-byzantine-church/byzantine-church-and-the-west/74986FE41047429CB872E24AC1D4505C"
+  - "https://commons.wikimedia.org/wiki/File:Histamenon_of_Constantine_IX_Monomachos_%281042-55%29_MET_tem1998539o.jpg"
 ---
 
 # El Cisma de Oriente (1054)
@@ -87,6 +88,11 @@ Las comunidades bizantinas utilizaban pan fermentado en la eucaristía y en el O
 ### Constantino IX, León IX y Miguel Cerulario
 
 Miguel Cerulario era patriarca de Constantinopla desde 1043. Constantino IX Monómaco ocupaba el trono junto con la posición dinástica que le daba su matrimonio con la emperatriz Zoé. Un emperador que esperaba cooperación política con Roma y un patriarca que consideraba necesario defender sus usos eclesiásticos podían interpretar de manera distinta la conveniencia de recibir a una delegación. Las divergencias tampoco se reducían a temperamentos enfrentados. La corte imperial, el entorno de los legados y el sínodo patriarcal respondían a instituciones diferentes. Quienes pretendían reconciliar a dos autoridades debían lograr que ambas aceptaran el procedimiento, la traducción de los escritos y la condición de los enviados. [2–5, 9]
+
+<figure>
+  <img src="datos/medios/e056-moneda-constantino-ix.jpg" alt="Una cara de una moneda bizantina acuñada bajo Constantino IX" width="310" height="290" loading="lazy" decoding="async">
+  <figcaption>Histámenon del reinado de Constantino IX Monómaco, emperador durante los acontecimientos de 1054. Metropolitan Museum of Art. <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>. <a href="https://commons.wikimedia.org/wiki/File:Histamenon_of_Constantine_IX_Monomachos_%281042-55%29_MET_tem1998539o.jpg">Ficha en Wikimedia Commons</a>. [24]</figcaption>
+</figure>
 
 La delegación la integraban Humberto, Federico de Lorena y Pedro de Amalfi. El primero representaba una corriente reformadora que atribuía grandes facultades al obispo de Roma. Los enviados encontraron en Constantinopla interlocutores capaces de debatir en condiciones diversas. El monje Nicetas Estetato había escrito contra usos latinos y su controversia con Humberto formó parte de las actuaciones de la embajada. Los relatos latinos presentan algunos resultados como señales de éxito y describen la conducta del patriarca en términos adversos. Los documentos griegos elaboran otra interpretación. El contraste indica que las negociaciones incluyeron más intercambios que el acto final en Santa Sofía. [3–5]
 
@@ -216,3 +222,4 @@ En una reconstrucción de conjunto conviene empezar por los documentos que fijan
 21. Patriarcado Ecuménico, documentación de la Comisión Mixta Internacional. [Consultar](https://ec-patr.org/10/06/19/40/joint-international-commission-for-the-theological-dialogue-between-the-roman-catholic-church-and-the-orthodox-church/)
 22. Consejo Pontificio para la Promoción de la Unidad de los Cristianos, aclaración sobre las tradiciones griega y latina acerca de la procesión del Espíritu Santo, 1995. [Consultar](https://www.christianunity.va/content/dam/unitacristiani/Documentazione%20generale/Filioque/EN%20Filioque.pdf)
 23. A. Edward Siecienski, «The Byzantine Church and the West», The Cambridge Companion to the Byzantine Church. [Consultar](https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-byzantine-church/byzantine-church-and-the-west/74986FE41047429CB872E24AC1D4505C)
+24. Histámenon del reinado de Constantino IX Monómaco, emperador durante los acontecimientos de 1054. Metropolitan Museum of Art. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Histamenon_of_Constantine_IX_Monomachos_%281042-55%29_MET_tem1998539o.jpg).

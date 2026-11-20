@@ -18,6 +18,7 @@ fuentes:
   - "https://adfonteslibrary.org/councils-constance"
   - "https://edition.mgh.de/001/html/hss.html"
   - "https://medievalistas.es/wp-content/uploads/2026/01/EL-PAPADO-web.pdf"
+  - "https://commons.wikimedia.org/wiki/File:Konstanzer_Richental_Chronik_Sitzung_des_Konzils_im_M%C3%BCnster_12v.jpg"
 ---
 
 # 1414–1418 · Concilio de Constanza
@@ -53,6 +54,11 @@ La ciudad aportaba alojamiento, lugares de reunión y redes de abastecimiento. L
 ### El voto por naciones
 
 Los participantes organizaron buena parte del voto por naciones. En el curso de la reunión se reconocieron las agrupaciones italiana, alemana, francesa, inglesa e hispana, con incorporación posterior de esta última. El nombre «nación» designaba aquí una agrupación conciliar que reunía a participantes de reinos y territorios distintos. Se discutía internamente antes de expresar la posición del grupo. El método afectó a la manera de sumar apoyos y redujo la capacidad de un conjunto más numeroso de prelados de imponerse por simple recuento individual. Los cardenales desempeñaron además un papel propio y participaron de manera específica en la elección final. [1–5, 9, 10]
+
+<figure>
+  <img src="datos/medios/e056-asamblea-constanza.jpg" alt="Asamblea conciliar reunida en la catedral de Constanza según una miniatura" width="390" height="536" loading="lazy" decoding="async">
+  <figcaption>Una sesión en la catedral de Constanza, en un manuscrito de la crónica de Ulrico de Richental. Rosgartenmuseum de Constanza, manuscrito 1, folio 12v. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Konstanzer_Richental_Chronik_Sitzung_des_Konzils_im_M%C3%BCnster_12v.jpg">Ficha en Wikimedia Commons</a>. [15]</figcaption>
+</figure>
 
 Las agrupaciones podían cambiar de posición según la materia. Una cuestión sobre la autoridad del concilio planteaba problemas distintos de la negociación de un beneficio o del lugar que ocuparían los cardenales en una elección. Por eso una votación favorable de una nación documenta un acuerdo alcanzado en un asunto en particular. Para seguir sus razones hay que cotejar informes y debates con la situación de cada delegación. El recurso al voto por grupos ayuda a explicar cómo la asamblea pudo construir acuerdos entre obediencias y regiones, y también por qué algunas reformas acabaron negociándose nación por nación. [1–5, 9, 10]
 
@@ -185,3 +191,4 @@ El final del cisma, los procesos de fe y el programa de reforma dejaron huellas 
 12. [Council of Constance (1414–1418). Sacrosancta y Frequens. Ad Fontes Library](https://adfonteslibrary.org/councils-constance)
 13. [Ulrich Richental. Crónica de Constanza. Manuscritos y ediciones, Monumenta Germaniae Historica](https://edition.mgh.de/001/html/hss.html)
 14. [La embajada aragonesa al concilio de Constanza (1416–1418). Entre peticiones y reivindicaciones históricas. Sociedad Española de Estudios Medievales](https://medievalistas.es/wp-content/uploads/2026/01/EL-PAPADO-web.pdf)
+15. Una sesión en la catedral de Constanza, en un manuscrito de la crónica de Ulrico de Richental. Rosgartenmuseum de Constanza, manuscrito 1, folio 12v. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Konstanzer_Richental_Chronik_Sitzung_des_Konzils_im_M%C3%BCnster_12v.jpg).

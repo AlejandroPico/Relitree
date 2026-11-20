@@ -25,6 +25,7 @@ fuentes:
   - "https://sourcebooks.fordham.edu/mod/indexlibrorum.asp"
   - "https://www.vatican.va/content/francesco/en/apost_constitutions/documents/20220319-costituzione-ap-praedicate-evangelium.html"
   - "https://storicamente.org/sites/default/images/articles/media/1704/firpoSantarelli.pdf"
+  - "https://commons.wikimedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei_%28Uffizi%29.jpg"
 ---
 
 # La Inquisición romana
@@ -160,6 +161,11 @@ El expediente contiene una anotación sobre lo comunicado personalmente a Galile
 
 En 1632 se imprimió el <em>Diálogo sobre los dos máximos sistemas del mundo</em>. El formato presenta a varios interlocutores que discuten las explicaciones astronómicas. El libro había pasado por trámites de licencia, y su publicación dio lugar después a una intervención de las autoridades romanas. Para valorar la acusación resulta importante distinguir lo que exponen los personajes, las condiciones de la licencia y la impresión que los inquisidores dijeron formarse del conjunto. Los debates sobre las intenciones del autor no sustituyen la lectura de los cargos y las respuestas documentadas. [1, 4, 7, 12–13, 19]
 
+<figure>
+  <img src="datos/medios/e056-galileo-sustermans.jpg" alt="Retrato pintado de Galileo Galilei, con barba blanca y vestimenta oscura" width="380" height="450" loading="lazy" decoding="async">
+  <figcaption>Justus Sustermans, retrato de Galileo Galilei, 1635, dos años después de la sentencia de la Inquisición romana. Galería de los Uffizi, Florencia. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei_%28Uffizi%29.jpg">Ficha en Wikimedia Commons</a>. [22]</figcaption>
+</figure>
+
 En junio de 1633, el Santo Oficio declaró a Galileo vehementemente sospechoso de herejía y le impuso una abjuración. La condena incluyó una pena de reclusión que se cumplió bajo formas de arresto domiciliario. El <em>Diálogo</em> fue prohibido. Las condiciones en que vivió Galileo cambiaron con el tiempo y siguió trabajando. Publicó en 1638, fuera de Italia, sus <em>Discursos y demostraciones matemáticas en torno a dos nuevas ciencias</em>. La relación entre la condena, la publicación del libro y su trabajo posterior se documenta en distintas fuentes. [1, 7, 12–13]
 
 El proceso conserva indicios de cómo se recurrió a nociones de prueba en el debate. Galileo atribuyó especial valor a un argumento sobre las mareas que la física posterior abandonó. Su valor como investigador y la calidad de cada prueba pueden estudiarse por separado. También conviene distinguir la sanción decretada por la institución y la capacidad de demostrar cuál de los sistemas astronómicos era correcto con las observaciones de la época. El tribunal ejerció su poder para imponer una abjuración y prohibir un libro. El examen científico de argumentos siguió una historia propia. [4, 7, 12–14]
@@ -217,3 +223,4 @@ La dispersión y las pérdidas obligan a trabajar con grados de certeza. Cuando 
 19. Fordham University, índice tridentino y sus reglas, Internet Modern History Sourcebook. [Consultar](https://sourcebooks.fordham.edu/mod/indexlibrorum.asp).
 20. Francisco, constitución apostólica Praedicate Evangelium, 19 de marzo de 2022. [Consultar](https://www.vatican.va/content/francesco/en/apost_constitutions/documents/20220319-costituzione-ap-praedicate-evangelium.html).
 21. Revisión de la edición del proceso del cardenal Giovanni Morone, Storicamente. [Consultar](https://storicamente.org/sites/default/images/articles/media/1704/firpoSantarelli.pdf).
+22. Justus Sustermans, retrato de Galileo Galilei, 1635, dos años después de la sentencia de la Inquisición romana. Galería de los Uffizi, Florencia. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei_%28Uffizi%29.jpg).

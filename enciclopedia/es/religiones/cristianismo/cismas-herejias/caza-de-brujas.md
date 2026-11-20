@@ -26,6 +26,7 @@ fuentes:
   - "https://www.gutenberg.org/files/18253/18253-h/18253-h.htm"
   - "https://uit.no/nyheter/artikkel?p_document_id=246986"
   - "https://trolldomsprocesser.se/nar/"
+  - "https://commons.wikimedia.org/wiki/File:Bamberg_Malefizhaus_1627.jpg"
 ---
 
 # La caza de brujas
@@ -109,6 +110,11 @@ Para calcular una proporción se necesitan tanto el tipo de casos incluidos como
 ### Trier, Bamberg y Würzburg
 
 Se produjeron grandes oleadas en distintas jurisdicciones centroeuropeas entre finales del siglo XVI y comienzos del XVII. En el electorado de Trier hubo persecuciones intensas desde finales de la década de 1580. En los principados episcopales de Bamberg y Würzburg las grandes series se situaron sobre todo en las décadas de 1620 y comienzos de la siguiente. Los historiadores las estudian teniendo en cuenta la actividad de magistrados y comisiones, las relaciones entre localidades y el uso de interrogatorios orientados a hallar otras personas implicadas. En el marco de la guerra de los Treinta Años se agravaron las dificultades de algunas regiones. Para relacionar la guerra con una causa concreta hace falta reconstruir la cronología de la localidad. [1–3, 11, 13]
+
+<figure>
+  <img src="datos/medios/e056-carcel-bamberg.jpg" alt="Estampa que representa la cárcel de Bamberg y muestra la distribución de sus dependencias" width="560" height="502" loading="lazy" decoding="async">
+  <figcaption>Estampa anónima de 1627 del <i>Malefizhaus</i> de Bamberg, prisión utilizada durante la persecución por brujería. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Bamberg_Malefizhaus_1627.jpg">Ficha en Wikimedia Commons</a>. [23]</figcaption>
+</figure>
 
 Las persecuciones podían alcanzar cargos municipales y familias que al principio confiaban en su posición para defenderse. La carta enviada por el alcalde de Bamberg Johannes Junius a su hija en 1628, conservada por su transmisión documental, ofrece una perspectiva sobre la presión bajo la que se obtenían confesiones. Junius explicó que las declaraciones que se le exigían distaban de lo que sostenía en privado. Conviene leer el documento en relación con el acta del proceso. En cada uno el acusado se dirigía a personas diferentes y tenía objetivos inmediatos distintos. El contraste permite comprender por qué un texto judicial puede registrar una confesión aun cuando quien la hizo la impugnara en la correspondencia. [1, 11, 13, 19]
 
@@ -219,3 +225,4 @@ Los documentos de las cazas de brujas pueden leerse junto a los de la medicina, 
 20. Thomas Potts, The Wonderfull Discoverie of Witches in the Countie of Lancaster, edición digital de Project Gutenberg. [Consultar](https://www.gutenberg.org/files/18253/18253-h/18253-h.htm).
 21. UiT, Universidad Ártica de Noruega, investigaciones de Finnmark y apertura del memorial de Steilneset. [Consultar](https://uit.no/nyheter/artikkel?p_document_id=246986).
 22. Trolldomsprocesser, cronología de las comisiones de brujería en Suecia. [Consultar](https://trolldomsprocesser.se/nar/).
+23. Estampa anónima de 1627 del Malefizhaus de Bamberg, prisión utilizada durante la persecución por brujería. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Bamberg_Malefizhaus_1627.jpg).

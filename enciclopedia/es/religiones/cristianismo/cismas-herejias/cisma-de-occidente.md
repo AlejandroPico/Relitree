@@ -23,6 +23,7 @@ fuentes:
   - "https://www.csun.edu/~hcfll004/SV1417.html"
   - "https://academic.oup.com/cornell-scholarship-online/book/13785"
   - "https://academic.oup.com/book/26811/chapter-abstract/195787302"
+  - "https://commons.wikimedia.org/wiki/File:Antipope_Benedictus_XIII.jpg"
 ---
 
 # El Cisma de Occidente (1378–1417)
@@ -91,6 +92,11 @@ La sustracción ilustra que entre aceptar y rechazar un pontificado existían de
 ### De Clemente VII a Benedicto XIII
 
 Clemente VII murió en 1394. Los cardenales de Aviñón eligieron a Pedro de Luna, aragonés, que tomó el nombre de Benedicto XIII. Había sido cardenal desde el pontificado de Gregorio XI y había participado en los acontecimientos de 1378. Su trayectoria le permitía reivindicar continuidad con el colegio anterior a la ruptura. Francia y quienes querían una solución esperaban que el nuevo papa aceptase fórmulas de renuncia. Benedicto interpretó su posición como una obligación de defender lo que consideraba una elección legítima. La tensión entre el compromiso de buscar la unidad y la pretensión de no abandonar el oficio reapareció cuando se intentó pactar una abdicación. [1–4, 6–7]
+
+<figure>
+  <img src="datos/medios/e056-pedro-de-luna.jpg" alt="Representación gótica de Pedro de Luna con vestiduras pontificias" width="333" height="542" loading="lazy" decoding="async">
+  <figcaption>Pedro de Luna, Benedicto XIII de la obediencia de Aviñón. Representación gótica anónima del siglo XV. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Antipope_Benedictus_XIII.jpg">Ficha en Wikimedia Commons</a>. [21]</figcaption>
+</figure>
 
 En 1398, Francia retiró la obediencia a Benedicto. La presión se manifestó en Aviñón mediante el aislamiento y la vigilancia del palacio. El pontífice logró salir en 1403 y el reconocimiento francés se restableció ese año. Las circunstancias cambiaron de nuevo a medida que se buscaba una reunión entre los candidatos o una asamblea general. La experiencia de Benedicto demuestra que el apoyo de un reino podía ser decisivo sin constituir una garantía permanente. También muestra que un titular podía seguir ejerciendo funciones en nombre de su obediencia aun cuando perdía acceso a la residencia asociada con ella. [1–4, 6–7, 10]
 
@@ -226,3 +232,4 @@ Leer el cisma desde sus documentos permite mantener visibles tres dimensiones. H
 18. Bulario de la Curia de Peñíscola y estudio de los inventarios de las cortes de Benedicto XIII y Clemente VIII. [Consulta 1](https://ifc.dpz.es/recursos/publicaciones/25/73/_ebook.pdf) · [Consulta 2](https://estudiosmedievales.revistas.csic.es/index.php/estudiosmedievales/article/view/1400)
 19. Laura Ackerman Smoller, The Saint and the Chopped-Up Baby: The Cult of Vincent Ferrer in Medieval and Early Modern Europe, Cornell University Press. [Consultar](https://academic.oup.com/cornell-scholarship-online/book/13785)
 20. Francis Oakley, «Gerson’s Hope: Fifteenth-Century Conciliarism and its Roots», Oxford Scholarship Online. [Consultar](https://academic.oup.com/book/26811/chapter-abstract/195787302)
+21. Pedro de Luna, Benedicto XIII de la obediencia de Aviñón. Representación gótica anónima del siglo XV. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Antipope_Benedictus_XIII.jpg).

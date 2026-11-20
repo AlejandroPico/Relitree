@@ -17,6 +17,7 @@ fuentes:
   - "https://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=r408"
   - "https://www.romanmissal.org/denzinger/p215.html"
   - "https://www.treccani.it/enciclopedia/santo-celestino-v_%28Enciclopedia-dei-Papi%29/"
+  - "https://commons.wikimedia.org/wiki/File:Medieval_%2C_Lead_papal_bulla_of_Pope_Gregory_X_%28FindID_623756%29.jpg"
 ---
 
 # 1274 · Concilio de Lyon II
@@ -34,6 +35,11 @@ Los relatos de Viterbo refieren restricciones impuestas a los electores por auto
 ### Unión, cruzada y reforma
 
 Gregorio convocó el concilio el 31 de marzo de 1272. Asoció tres empeños que tenían historias diferentes. Quería restablecer la comunión entre Roma y Constantinopla, obtener recursos y cooperación para Tierra Santa y examinar asuntos de disciplina y gobierno. La primera cuestión requería una negociación con el emperador y con representantes eclesiásticos orientales. La segunda implicaba a príncipes con capacidad naval, militar y fiscal. La tercera dependía en parte de observaciones de obispos, juristas y religiosos. El concilio era un lugar en que podían ponerse en común esas materias. La realización de cada una exigía después actos de autoridades y comunidades que disponían de recursos y márgenes de acción propios. [1, 2, 7, 10]
+
+<figure>
+  <img src="datos/medios/e056-sello-gregorio-x.jpg" alt="Anverso y reverso de un sello de plomo de Gregorio X con la inscripción pontificia y los bustos de Pedro y Pablo" width="520" height="279" loading="lazy" decoding="async">
+  <figcaption>Sello de plomo emitido durante el pontificado de Gregorio X, que convocó el segundo Concilio de Lyon. Fotografía de David Williams para Surrey County Council y el Portable Antiquities Scheme, ficha 623756. <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>. <a href="https://commons.wikimedia.org/wiki/File:Medieval_%2C_Lead_papal_bulla_of_Pope_Gregory_X_%28FindID_623756%29.jpg">Ficha en Wikimedia Commons</a>. [14]</figcaption>
+</figure>
 
 En 1273 se pidieron informes sobre la reforma. Entre los autores consultados estuvo Humberto de Romans, antiguo maestro de la Orden de Predicadores. El hecho de solicitar propuestas con antelación permitió aprovechar experiencia adquirida fuera de la curia. Un obispo podía plantear dificultades de su diócesis, una orden aportar lo que conocía de la predicación y un responsable de un viaje a Oriente aportar noticias sobre rutas, puertos y condiciones políticas. Los informes conservados muestran cómo se formularon prioridades. Las constituciones publicadas documentan qué problemas llegaron a recibir una solución normativa y con qué lenguaje. Esas dos clases de escritos corresponden a fases diferentes del trabajo. [1, 2, 7, 10]
 
@@ -188,3 +194,4 @@ El *Liber Sextus* de Bonifacio VIII, promulgado en 1298, incorporó la legislaci
 11. [Liber Sextus. Bio-Bibliographical Guide to Medieval and Early Modern Jurists, Ames Foundation](https://amesfoundation.law.harvard.edu/BioBibCanonists/Report_Biobib2.php?record_id=r408)
 12. [Heinrich Denzinger, ed. Profesión de fe de Miguel VIII Paleólogo, Dz 461–462](https://www.romanmissal.org/denzinger/p215.html)
 13. [Celestino V. Enciclopedia dei Papi, Treccani](https://www.treccani.it/enciclopedia/santo-celestino-v_%28Enciclopedia-dei-Papi%29/)
+14. Sello de plomo emitido durante el pontificado de Gregorio X, que convocó el segundo Concilio de Lyon. Fotografía de David Williams para Surrey County Council y el Portable Antiquities Scheme, ficha 623756. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Medieval_%2C_Lead_papal_bulla_of_Pope_Gregory_X_%28FindID_623756%29.jpg).

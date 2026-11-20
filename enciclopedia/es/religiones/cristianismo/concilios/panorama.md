@@ -24,6 +24,7 @@ fuentes:
   - "https://www.assyrialivingarchive.org/articles/reference-assyrian-church-of-the-east/"
   - "https://saet.ac.uk/Christianity/TheologyoftheIcon"
   - "https://historicalpapers.journals.yorku.ca/index.php/historicalpapers/article/download/39636/35941"
+  - "https://commons.wikimedia.org/wiki/File:First_Nicea_Council_Icon_from_Protatos_Church%2C_1770.jpg"
 ---
 
 # Los concilios · Visión de conjunto
@@ -99,6 +100,11 @@ La tabla sigue la numeración del catálogo católico. El año o intervalo sitú
 ### Nicea I y Constantinopla I
 
 Constantino convocó [[cristianismo/concilios/nicea-i|Nicea I]] en 325. La asamblea abordó discrepancias sobre el Hijo y su relación con el Padre. El credo incluyó el término griego *homoousios*, traducido como consustancial, para enunciar que el Hijo comparte la sustancia del Padre. En el mismo concilio se promulgaron cánones sobre disciplina y se procuró que la celebración de Pascua tuviera una fecha común. Este abanico de materias corrige una lectura reducida a una palabra decisiva. Los contemporáneos debían vivir en iglesias que tenían que ordenar ministros, resolver conflictos y encontrarse en la celebración aunque discutiesen todavía el significado teológico de una fórmula. [1–5, 11]
+
+<figure>
+  <img src="datos/medios/e056-nicea-i-protaton.jpg" alt="Icono con los padres conciliares de Nicea en torno al emperador" width="360" height="467" loading="lazy" decoding="async">
+  <figcaption>Icono anónimo del primer Concilio de Nicea, realizado en 1770 para la iglesia del Protaton, en el monte Athos. Muestra cómo se conmemoró la asamblea de 325 siglos después. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:First_Nicea_Council_Icon_from_Protatos_Church%2C_1770.jpg">Ficha en Wikimedia Commons</a>. [21]</figcaption>
+</figure>
 
 El título de ecuménico puede ser más estable para la posteridad que la posición que tuvo un concilio poco después de reunirse. La fórmula de Nicea siguió sometida a discusión, tanto por su terminología como por el trato que se daba a los protagonistas. Constantino mantuvo la importancia de la asamblea, aunque cambió su trato hacia Arrio y algunos de sus adversarios. Con Constancio II se favorecieron otras fórmulas. En esas décadas, distintos grupos recurrieron a sínodos y escritos polémicos para mostrar qué lectura era acorde con la fe. El reconocimiento posterior de Nicea se comprende mejor siguiendo las discusiones de esas generaciones que atribuyendo a una sola promulgación una aceptación inmediata. [1–5, 11]
 
@@ -222,3 +228,4 @@ La historia de la disciplina admite comparaciones igualmente precisas. Letrán I
 18. [Assyria Living Archive, «Assyrian Church of the East»](https://www.assyrialivingarchive.org/articles/reference-assyrian-church-of-the-east/)
 19. [«The Theology of the Icon». *St Andrews Encyclopaedia of Theology*](https://saet.ac.uk/Christianity/TheologyoftheIcon)
 20. [Joseph G. Ramisch, «Reform at the Council of Constance». Archivo de la Canadian Historical Association en York University](https://historicalpapers.journals.yorku.ca/index.php/historicalpapers/article/download/39636/35941)
+21. Icono anónimo del primer Concilio de Nicea, realizado en 1770 para la iglesia del Protaton, en el monte Athos. Muestra cómo se conmemoró la asamblea de 325 siglos después. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:First_Nicea_Council_Icon_from_Protatos_Church%2C_1770.jpg).

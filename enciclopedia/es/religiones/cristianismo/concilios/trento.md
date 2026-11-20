@@ -17,6 +17,7 @@ fuentes:
   - "https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-council-of-trent/sacred-art/852D20A363FEB4D87AB51D1F8310B64A"
   - "https://www.newadvent.org/library/docs_pi05qp.htm"
   - "https://www.degruyterbrill.com/de/document/doi/10.4159/harvard.9780674067608.c8/html"
+  - "https://commons.wikimedia.org/wiki/File:Titian_%E2%80%93_Portrait_of_Pope_Paul_III_without_Cap_%E2%80%93_Google_Art_Project.jpg"
 ---
 
 # 1545–1563 · Concilio de Trento
@@ -34,6 +35,11 @@ La cercanía temporal de la Reforma al [[cristianismo/concilios/letran-v|Concili
 ### Proyectos anteriores, lugar y participación
 
 Paulo III intentó convocar en Mantua y después en Vicenza. Los proyectos tropezaron con dificultades políticas y de asistencia y no dieron lugar a las sesiones que acabaron celebrándose. Trento estaba en un principado episcopal del Sacro Imperio, al sur de los Alpes. Su posición permitía una solución entre quienes querían una sede imperial y quienes preferían una ciudad que la curia y los prelados italianos pudieran alcanzar. La convocatoria y la apertura se separaron en el tiempo. El contexto creado por la paz de Crépy de 1544 entre Carlos V y Francisco I facilitó que el proyecto avanzara. El concilio abrió en diciembre de 1545 con un número limitado de padres y la asistencia fue cambiando a lo largo de los períodos. [3–7, 13]
+
+<figure>
+  <img src="datos/medios/e056-pablo-iii-tiziano.jpg" alt="Pablo III sentado, con vestidura roja y barba blanca" width="375" height="487" loading="lazy" decoding="async">
+  <figcaption>Tiziano, retrato de Pablo III, 1543. En su pontificado comenzó el Concilio de Trento. Museo de Capodimonte, Nápoles. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Titian_%E2%80%93_Portrait_of_Pope_Paul_III_without_Cap_%E2%80%93_Google_Art_Project.jpg">Ficha en Wikimedia Commons</a>. [14]</figcaption>
+</figure>
 
 En la apertura actuaron legados pontificios. Durante los trabajos intervinieron obispos y otros padres con derecho a voto, junto a teólogos, canonistas y enviados diplomáticos. Sus papeles eran diferentes. Una consulta teológica podía preparar una definición sin emitir voto en la sesión que la promulgaba. Un enviado podía transmitir instrucciones de su gobierno o negociar el modo de tratar una materia. Los votos de los padres, los documentos de trabajo y las cartas de los agentes conservan clases distintas de participación. El estudio de un decreto requiere de vez en cuando seguir quién introdujo un asunto, quién propuso una corrección y quién sostuvo la formulación que finalmente se publicó. [3–7]
 
@@ -190,3 +196,4 @@ Trento dejó formulaciones duraderas para la Iglesia católica y transformó los
 11. [«Sacred Art». *The Cambridge Companion to the Council of Trent*](https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-council-of-trent/sacred-art/852D20A363FEB4D87AB51D1F8310B64A)
 12. [Pío V, *Quo primum* (1570). Promulgación del Misal romano y referencia a los demás libros](https://www.newadvent.org/library/docs_pi05qp.htm)
 13. [John W. O’Malley, «Appendix: The Twenty-Five Sessions of the Council». *Trent: What Happened at the Council*](https://www.degruyterbrill.com/de/document/doi/10.4159/harvard.9780674067608.c8/html)
+14. Tiziano, retrato de Pablo III, 1543. En su pontificado comenzó el Concilio de Trento. Museo de Capodimonte, Nápoles. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Titian_%E2%80%93_Portrait_of_Pope_Paul_III_without_Cap_%E2%80%93_Google_Art_Project.jpg).

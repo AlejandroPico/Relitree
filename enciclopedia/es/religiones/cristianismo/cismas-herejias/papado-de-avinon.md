@@ -25,6 +25,7 @@ fuentes:
   - "https://whc.unesco.org/document/153007"
   - "https://commons.wikimedia.org/wiki/File:Palais_des_Papes,_Avignon.jpg"
   - "https://antiquorum-habet.senato.it/index.php/section/section_12_en/"
+  - "https://commons.wikimedia.org/wiki/File:Palais_des_Papes_facade.jpg"
 ---
 
 # El papado de Aviñón
@@ -161,6 +162,11 @@ Una carta expedida y su copia registrada pueden conservar partes distintas. La c
 
 El Palacio de los Papas se levanta junto a la catedral de Notre-Dame des Doms. El conjunto muestra cómo convivían el culto, la residencia y las actividades de gobierno. Los usos cambiaron a lo largo del siglo XIV, y conviene distinguir qué parte se relaciona con la obra de Benedicto XII y cuál con la ampliación de Clemente VI. El patio organiza accesos que comunican espacios con funciones distintas. Una sala de recepciones permitía que distintas categorías de visitantes conocieran su posición dentro de la ceremonia. Los accesos, almacenes y habitaciones indican la parte menos visible de mantener una corte. [4–5, 19]
 
+<figure>
+  <img src="datos/medios/e056-palacio-papas-avinon.jpg" alt="Fachada de piedra del Palacio de los Papas de Aviñón, con sus torres" width="600" height="450" loading="lazy" decoding="async">
+  <figcaption>Fachada del Palacio de los Papas de Aviñón. El conjunto conserva las ampliaciones que hicieron del palacio la sede de una corte pontificia. © BrokenSphere / Wikimedia Commons, 2005. <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. <a href="https://commons.wikimedia.org/wiki/File:Palais_des_Papes_facade.jpg">Ficha en Wikimedia Commons</a>. [21]</figcaption>
+</figure>
+
 
 <figure>
   <img src="datos/medios/e063-avinon-palacio.svg" alt="Esquema funcional del Palacio Viejo, el Palacio Nuevo y su relación con la ciudad" loading="lazy">
@@ -219,3 +225,4 @@ Entre las consecuencias del período está la consolidación de prácticas admin
 18. Cola di Rienzo, Dizionario di Storia, Treccani. [Consultar](https://www.treccani.it/enciclopedia/cola-di-rienzo_%28Dizionario-di-Storia%29/)
 19. UNESCO, documentación patrimonial del conjunto de Aviñón, y fotografía de Rainer Ebert, CC BY-SA 2.0. [Consulta 1](https://whc.unesco.org/document/153007) · [Consulta 2](https://commons.wikimedia.org/wiki/File:Palais_des_Papes,_Avignon.jpg)
 20. Senado italiano, cambios en el rito del jubileo y bula Unigenitus Dei Filius de 1343. [Consultar](https://antiquorum-habet.senato.it/index.php/section/section_12_en/)
+21. Fachada del Palacio de los Papas de Aviñón. El conjunto conserva las ampliaciones que hicieron del palacio la sede de una corte pontificia. © BrokenSphere / Wikimedia Commons, 2005. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Palais_des_Papes_facade.jpg).

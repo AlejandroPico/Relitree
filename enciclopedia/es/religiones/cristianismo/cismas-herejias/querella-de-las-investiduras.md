@@ -28,6 +28,7 @@ fuentes:
   - "https://avalon.law.yale.edu/medieval/inv15.asp"
   - "https://www.hist.uzh.ch/dam/jcr%3A00000000-2bb3-aa9d-ffff-ffff875d785f/2006-Zey-Papsttum_und_Investiturstreit.pdf"
   - "https://etheses.durham.ac.uk/2764/1/2764_841.pdf"
+  - "https://commons.wikimedia.org/wiki/File:Speyer_Dom_Gr%C3%A4ber_Heinrich_III._u._IV.JPG"
 ---
 
 # La querella de las investiduras
@@ -140,6 +141,11 @@ En Francia hubo conflictos eclesiásticos y reformas de alcance desigual. Ivo de
 
 Enrique V tomó el poder tras rebelarse contra su padre, que murió en 1106. Su enfrentamiento con Enrique IV no significó que estuviera dispuesto a ceder todas las prerrogativas relacionadas con obispados y abadías. Al buscar la coronación imperial trató con Pascual II. En 1111 se estudió una solución de gran alcance. El rey renunciaría a la investidura y los prelados devolverían derechos y bienes que procedían de los reyes. La propuesta distinguía con claridad los dos ámbitos, pero sus efectos podían transformar el modo de sostener a muchas instituciones. Una iglesia tendría que determinar qué bienes recibía del soberano, de qué recursos podía seguir disponiendo y cómo podía mantener actividades que ya dependían de los derechos cuestionados. [1, 4, 14, 20–21]
 
+<figure>
+  <img src="datos/medios/e056-sepultura-enrique-iv.jpg" alt="Dos sepulturas en la catedral de Espira, con la de Enrique IV a la izquierda" width="365" height="486" loading="lazy" decoding="async">
+  <figcaption>Sepulturas de Enrique IV, a la izquierda, y Enrique III, a la derecha, en la catedral de Espira. Fotografía de Altera levatur, 2016. <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. <a href="https://commons.wikimedia.org/wiki/File:Speyer_Dom_Gr%C3%A4ber_Heinrich_III._u._IV.JPG">Ficha en Wikimedia Commons</a>. [23]</figcaption>
+</figure>
+
 Cuando se hicieron públicas las condiciones en Roma, surgió oposición y se interrumpió la coronación prevista. La disputa mostró que el papa y el rey no podían aplicar por sí solos un arreglo si los obispos y demás titulares que perdían derechos lo rechazaban. Enrique hizo prisioneros a Pascual y a varios de sus acompañantes. Obtuvo una concesión sobre la investidura y recibió la corona. La coacción y la posterior impugnación del privilegio impidieron que se convirtiese en una base estable. El episodio se entiende mejor si se separan el proyecto que precedió al conflicto, lo que se obtuvo tras la captura y la respuesta que se desarrolló cuando el papa pudo actuar sin esa presión inmediata. [1, 4, 14, 20–21]
 
 El programa de 1111 ayuda a explicar el punto de partida de 1122. Se podía intentar retirar del ámbito eclesiástico una gran parte de los derechos de origen real, lo que resolvía el solapamiento a costa de alterar el modo en que se sostenían las sedes. Se podía también acordar que esos derechos permanecieran y establecer actos distintos para recibirlos. El segundo camino conservaba el valor económico y político de las sedes para sus titulares y ofrecía a la corona una relación con ellas. Requería un vocabulario preciso y una negociación acerca del orden de los actos. En Worms se adoptó esa vía mediante concesiones expresadas desde dos autoridades diferentes. [1, 4, 10, 14, 21]
@@ -225,3 +231,4 @@ También importa separar el texto normativo de la manera en que se recuerda. La 
 20. Negociaciones de Pascual II y Enrique V en 1111 y decisiones del sínodo de Bresanona de 1080, Avalon Project. [Consulta 1](https://avalon.law.yale.edu/medieval/inv15.asp) · [Consulta 2](https://avalon.law.yale.edu/subject_menus/investm.asp)
 21. Claudia Zey, estudio sobre el papado y la querella de las investiduras, Universität Zürich. [Consultar](https://www.hist.uzh.ch/dam/jcr%3A00000000-2bb3-aa9d-ffff-ffff875d785f/2006-Zey-Papsttum_und_Investiturstreit.pdf)
 22. Estudio sobre reforma, simonía e investidura en Durham E-Theses, con análisis del Liber gratissimus de Pedro Damián. [Consultar](https://etheses.durham.ac.uk/2764/1/2764_841.pdf)
+23. Sepulturas de Enrique IV, a la izquierda, y Enrique III, a la derecha, en la catedral de Espira. Fotografía de Altera levatur, 2016. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Speyer_Dom_Gr%C3%A4ber_Heinrich_III._u._IV.JPG).

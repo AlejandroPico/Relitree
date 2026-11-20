@@ -22,6 +22,7 @@ fuentes:
   - "https://cchahistory.ca/journal/CCHA1965/Hanrahan.pdf"
   - "https://vaticanstate.va/en/state-and-government/general-informations.html"
   - "https://www.cambridge.org/core/journals/horizons/article/abs/infallibility-of-the-papal-magisterium-as-presented-in-the-pastoral-letters-of-the-bishops-of-the-united-states-after-vatican-i/8FED83A82B8B313B6DBA72FE104A4485"
+  - "https://commons.wikimedia.org/wiki/File:Pius_IX%2C_by_Adolphe_Braun%2C_1875.jpg"
 ---
 
 # 1869–1870 · Concilio Vaticano I
@@ -41,6 +42,11 @@ El debate se daba en una Europa que había conocido revoluciones, cambios consti
 ### Las decisiones de Pío IX antes de 1869
 
 En 1854 Pío IX había definido la Inmaculada Concepción de María tras recabar información de los obispos. Quienes favorecían una definición de la infalibilidad veían en la promulgación un precedente de decisión pontificia solemne. Para estudiar su valor hay que distinguir dos aspectos del caso. El acto final fue del papa. En su preparación hubo una consulta extensa cuya existencia podía invocarse para destacar la cooperación del episcopado. El debate de 1870 se ocuparía precisamente de qué función tenía esa cooperación al reconocer la fe de la Iglesia y de si constituía una condición jurídica posterior a la definición. [3–5, 8]
+
+<figure>
+  <img src="datos/medios/e056-pio-ix-adolphe-braun.jpg" alt="Retrato fotográfico de Pío IX con vestiduras pontificias" width="380" height="479" loading="lazy" decoding="async">
+  <figcaption>Adolphe Braun, retrato fotográfico de Pío IX, 1875. Se tomó cinco años después de la suspensión del Concilio Vaticano I. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Pius_IX%2C_by_Adolphe_Braun%2C_1875.jpg">Ficha en Wikimedia Commons</a>. [19]</figcaption>
+</figure>
 
 Diez años más tarde, la encíclica *Quanta cura* y el *Syllabus* de errores, difundidos en 1864, dieron lugar a otra discusión. En ella había preguntas sobre la relación entre Iglesia y Estado y sobre qué significaban ciertas proposiciones extraídas de documentos anteriores. Félix Dupanloup, obispo de Orleans, defendió la necesidad de situar las condenas en sus contextos. La reacción enseñó que una proposición debatida en filosofía política, un pronunciamiento pontificio y su explicación por los obispos podían tener modos de circulación distintos. Este antecedente sirve para entender por qué en 1870 tanto los partidarios como los críticos prestaron tanta atención a las palabras exactas, a la historia de los textos y a su interpretación pública. [4–7]
 
@@ -207,3 +213,4 @@ En el [[cristianismo/concilios-ecumenicos|conjunto de los concilios ecuménicos]
 16. [J. Hanrahan, «Pope and Council: The Historical Background of the Present Situation». Canadian Catholic Historical Association](https://cchahistory.ca/journal/CCHA1965/Hanrahan.pdf)
 17. [Estado de la Ciudad del Vaticano. Información histórica sobre los Pactos de Letrán](https://vaticanstate.va/en/state-and-government/general-informations.html)
 18. [«The Infallibility of the Papal Magisterium as Presented in the Pastoral Letters of the Bishops of the United States after Vatican I». *Horizons*](https://www.cambridge.org/core/journals/horizons/article/abs/infallibility-of-the-papal-magisterium-as-presented-in-the-pastoral-letters-of-the-bishops-of-the-united-states-after-vatican-i/8FED83A82B8B313B6DBA72FE104A4485)
+19. Adolphe Braun, retrato fotográfico de Pío IX, 1875. Se tomó cinco años después de la suspensión del Concilio Vaticano I. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Pius_IX%2C_by_Adolphe_Braun%2C_1875.jpg).

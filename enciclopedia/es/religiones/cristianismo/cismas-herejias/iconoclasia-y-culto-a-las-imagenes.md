@@ -27,6 +27,7 @@ fuentes:
   - "https://digital.pitts.emory.edu/s/digital-collections/item/4227"
   - "https://www.iconmuseum.org/collection/the-mandylion/"
   - "https://unige.iris.cineca.it/handle/11567/1069212.3"
+  - "https://commons.wikimedia.org/wiki/File:Triumph_orthodoxy.jpg"
 ---
 
 # Iconoclasia y culto a las imágenes
@@ -117,6 +118,11 @@ El segundo período continuó bajo Miguel II y Teófilo con diferencias de situa
 ### 843 y el Domingo de la Ortodoxia
 
 A la muerte de Teófilo, Teodora asumió la regencia por su hijo Miguel III. Con el patriarca Metodio se restauró la veneración de las imágenes en Constantinopla en 843. La memoria litúrgica ortodoxa celebra la restauración el primer domingo de la Gran Cuaresma, el Domingo de la Ortodoxia. La conmemoración pasó a afirmar un conjunto más amplio de enseñanzas y decisiones eclesiales. El *Sinódico de la Ortodoxia* se transmitió en versiones que recibieron adiciones. Por ello conviene distinguir la restauración del siglo IX, las fórmulas conservadas en manuscritos posteriores y las ceremonias que las iglesias celebran hoy. [1, 3, 6, 14]
+
+<figure>
+  <img src="datos/medios/e056-triunfo-ortodoxia.jpg" alt="Icono con una imagen de la Virgen y el Niño en el centro y figuras bizantinas a los lados" width="390" height="496" loading="lazy" decoding="async">
+  <figcaption><i>El triunfo de la ortodoxia</i>, icono bizantino anónimo de finales del siglo XIV o principios del XV. Conmemora la restauración del culto a las imágenes en 843. British Museum, Londres. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Triumph_orthodoxy.jpg">Ficha en Wikimedia Commons</a>. [23]</figcaption>
+</figure>
 
 La restauración también organizó el recuerdo de la época de las prohibiciones. La representación de mujeres vinculadas al cambio, como Irene y Teodora, responde tanto a los papeles que desempeñaron como al modo en que escribieron sobre ellas comunidades posteriores. Ambas regencias lograron llevar adelante decisiones que dependían de acuerdos muy concretos en torno al trono y al patriarcado. El icono del *Triunfo de la Ortodoxia* de hacia 1400 que conserva el British Museum muestra la persistencia del tema mucho más tarde. Su composición identifica la celebración con figuras, inscripciones y una imagen dentro de la imagen. El objeto informa sobre cómo se quiso recordar la restauración siglos después, cuando esa forma de evocarla ya formaba parte de una tradición establecida. [1, 14–15]
 
@@ -215,3 +221,4 @@ También podían coexistir una tabla venerada y pinturas que narraban episodios 
 20. Catecismo de Heidelberg, preguntas 96–98, Christian Reformed Church. [Consultar](https://www.crcna.org/welcome/beliefs/confessions/heidelberg-catechism)
 21. Martín Lutero, Acht sermon (sermones de Invocavit, 1522), Pitts Theology Library, Emory University. [Consultar](https://digital.pitts.emory.edu/s/digital-collections/item/4227)
 22. «The Mandylion», The Icon Museum and Study Center, y estudio de la Narratio atribuida a Constantino VII, Universidad de Génova. [Ficha del museo](https://www.iconmuseum.org/collection/the-mandylion/) · [Estudio](https://unige.iris.cineca.it/handle/11567/1069212.3)
+23. El triunfo de la ortodoxia, icono bizantino anónimo de finales del siglo XIV o principios del XV. Conmemora la restauración del culto a las imágenes en 843. British Museum, Londres. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Triumph_orthodoxy.jpg).

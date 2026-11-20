@@ -31,6 +31,7 @@ fuentes:
   - "https://grace.org.uk/faith/ccorange.html"
   - "https://www.iranicaonline.org/articles/iran-ix1-religions-in-iran/iran-ix12-manicheism/"
   - "https://www.cambridge.org/core/books/abs/cambridge-history-of-christianity/christianity-and-manichaeism/76492F500FBA0FC50C70C4363ECA5AB4"
+  - "https://commons.wikimedia.org/wiki/File:Constantine_burning_Arian_books.jpg"
 ---
 
 # Herejías de la Antigüedad
@@ -123,6 +124,11 @@ Los adversarios cristianos podían describir el [[maniqueismo|maniqueísmo]] com
 ### Arrio, Alejandro y el vocabulario sobre el Hijo
 
 La disputa [[arrianismo|vinculada a Arrio]] que desembocó en [[cristianismo/concilios/nicea-i|Nicea I]] comenzó en Alejandría entre el presbítero Arrio y su obispo Alejandro. Arrio procuraba mantener la singularidad del Padre como principio sin origen. Entendía que el Hijo procedía del Padre y antecedía a la creación del mundo, aunque no compartía con él la ausencia de origen. Sus adversarios sostenían que esa explicación colocaba al Hijo del lado de lo creado en un sentido incompatible con su plena divinidad y con el culto que le tributaba la Iglesia. La discusión se difundió por cartas y se convirtió en un conflicto entre redes episcopales a las que preocupaban también los usos anteriores de la Escritura y la predicación. [1, 10–11]
+
+<figure>
+  <img src="datos/medios/e056-nicea-libros-arrianos.jpg" alt="Dibujo medieval con una asamblea y una escena inferior de quema de libros" width="395" height="541" loading="lazy" decoding="async">
+  <figcaption>Una compilación de derecho canónico representa el Concilio de Nicea y, debajo, la quema de libros arrianos. Dibujo anónimo de hacia 825. Biblioteca Capitolare de Vercelli, manuscrito CLXV. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Constantine_burning_Arian_books.jpg">Ficha en Wikimedia Commons</a>. [26]</figcaption>
+</figure>
 
 La asamblea de 325, convocada por Constantino, incluyó en el credo la expresión *homoousios*, «consustancial». Sus anatemas excluían fórmulas que daban al Hijo un comienzo o lo trataban como criatura en el sentido objetado. Las palabras suscitaron nuevas preguntas. Algunos obispos temían que se borrara la distinción entre Padre e Hijo. Otros desconfiaban de una expresión que no figuraba de esa forma en la Escritura. Los interlocutores tampoco daban siempre el mismo sentido a las voces *ousía* e *hypóstasis*. En los decenios siguientes se intentó mantener a la vez la unidad de Dios y la distinción de Padre, Hijo y Espíritu Santo. El sentido que quedó más asentado para esas palabras fue en parte resultado de la controversia. [1, 10–11]
 
@@ -219,3 +225,4 @@ La falta de objetos o de inscripciones inequívocas limita lo que cabe decir sob
 23. Segundo Concilio de Orange, cánones y conclusión (traducción inglesa). [Consultar](https://grace.org.uk/faith/ccorange.html)
 24. «Manicheism», Encyclopaedia Iranica. [Consultar](https://www.iranicaonline.org/articles/iran-ix1-religions-in-iran/iran-ix12-manicheism/)
 25. «Christianity and Manichaeism», The Cambridge History of Christianity. [Consultar](https://www.cambridge.org/core/books/abs/cambridge-history-of-christianity/christianity-and-manichaeism/76492F500FBA0FC50C70C4363ECA5AB4)
+26. Una compilación de derecho canónico representa el Concilio de Nicea y, debajo, la quema de libros arrianos. Dibujo anónimo de hacia 825. Biblioteca Capitolare de Vercelli, manuscrito CLXV. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Constantine_burning_Arian_books.jpg).
