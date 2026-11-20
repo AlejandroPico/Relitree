@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 493" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Cuatro contextos americanos</title>
+<desc id="descripcion">Cuatro contextos americanos. México · Guadalupe. Relato en náhuatl y circulación de imágenes. Andes · Corpus y Qoyllurit’i. Parroquias, promesas, peregrinación y recorridos. Brasil · Devociones del Rosario. Cofradías, comunidades negras y fiestas. Cuba · Regla de Ocha. Transmisión en redes religiosas y asociaciones entre imágenes.</desc>
+<rect width="720" height="493" fill="#fbf8ef"/>
+<g font-family="system-ui, sans-serif">
+<text x="34" y="52" font-size="31" font-weight="700" fill="#243238" text-anchor="start">Cuatro contextos americanos</text>
+<text x="35" y="87" font-size="22" font-weight="400" fill="#46575d" text-anchor="start">Devociones, autoridades y transmisión</text>
+<path d="M36 120v72" stroke="#6b4b63" stroke-width="4"/>
+<circle cx="36" cy="137" r="8" fill="#6b4b63"/>
+<text x="61" y="145" font-size="25" font-weight="700" fill="#6b4b63" text-anchor="start">México · Guadalupe</text>
+<text x="61" y="173" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Relato en náhuatl y circulación de imágenes.</text>
+<path d="M36 205v72" stroke="#6b4b63" stroke-width="4"/>
+<circle cx="36" cy="222" r="8" fill="#6b4b63"/>
+<text x="61" y="230" font-size="25" font-weight="700" fill="#6b4b63" text-anchor="start">Andes · Corpus y Qoyllurit’i</text>
+<text x="61" y="258" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Parroquias, promesas, peregrinación y recorridos.</text>
+<path d="M36 290v72" stroke="#6b4b63" stroke-width="4"/>
+<circle cx="36" cy="307" r="8" fill="#6b4b63"/>
+<text x="61" y="315" font-size="25" font-weight="700" fill="#6b4b63" text-anchor="start">Brasil · Devociones del Rosario</text>
+<text x="61" y="343" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Cofradías, comunidades negras y fiestas.</text>
+<path d="M36 375v96" stroke="#6b4b63" stroke-width="4"/>
+<circle cx="36" cy="392" r="8" fill="#6b4b63"/>
+<text x="61" y="400" font-size="25" font-weight="700" fill="#6b4b63" text-anchor="start">Cuba · Regla de Ocha</text>
+<text x="61" y="428" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Transmisión en redes religiosas y asociaciones entre</text>
+<text x="61" y="452" font-size="22" font-weight="400" fill="#243238" text-anchor="start">imágenes.</text>
+</g>
+</svg>

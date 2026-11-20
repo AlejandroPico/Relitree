@@ -4,6 +4,13 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E09 · Entrega 9.0. [«La expansión mundial del cristianismo · Visión de conjunto»](enciclopedia/es/religiones/cristianismo/expansion-mundial/panorama.md), 5.032 palabras de cuerpo, 11 fuentes, 2 imágenes y 2 gráficos propios. Versión 1.7.31.
+- [x] E09 · Entrega 9.1. [«La cristianización de Europa»](enciclopedia/es/religiones/cristianismo/expansion-mundial/cristianizacion-de-europa.md), 5.025 palabras de cuerpo, 17 fuentes, 3 imágenes y 2 gráficos propios. Versión 1.7.31.
+- [x] E09 · Entrega 9.1. [«Cristianismo en América · Conquista y evangelización»](enciclopedia/es/religiones/cristianismo/expansion-mundial/conquista-y-evangelizacion-en-america.md), 5.013 palabras de cuerpo, 19 fuentes, 3 imágenes y 2 gráficos propios. Versión 1.7.31.
+- [x] E09 · Entrega 9.2. [«Sincretismos y rituales del cristianismo americano»](enciclopedia/es/religiones/cristianismo/expansion-mundial/sincretismos-y-rituales-americanos.md), 5.065 palabras de cuerpo, 14 fuentes, 3 imágenes y 2 gráficos propios. Versión 1.7.31.
+- [x] E09 · Entrega 9.2. [«Las Casas y la escuela de Salamanca · Los debates sobre los derechos indígenas»](enciclopedia/es/religiones/cristianismo/expansion-mundial/las-casas-y-escuela-de-salamanca.md), 5.066 palabras de cuerpo, 13 fuentes, 2 imágenes y 2 gráficos propios. Versión 1.7.31.
+- [x] E09 · Entrega 9.3. [«Cristianismo y esclavitud»](enciclopedia/es/religiones/cristianismo/expansion-mundial/cristianismo-y-esclavitud.md), 5.012 palabras de cuerpo, 16 fuentes, 2 imágenes y 2 gráficos propios. Versión 1.7.31.
+- [x] E09 · Entrega 9.3. [«El abolicionismo cristiano»](enciclopedia/es/religiones/cristianismo/expansion-mundial/abolicionismo-cristiano.md), 5.014 palabras de cuerpo, 20 fuentes, 2 imágenes y 2 gráficos propios. Versión 1.7.31.
 - [x] E08 · Entrega 8.5. [«1568–1648 · La guerra de los Ochenta Años»](enciclopedia/es/religiones/cristianismo/reforma/guerra-de-los-ochenta-anos.md), 5.206 palabras de cuerpo, 16 fuentes, 2 gráficos y 4 reproducciones históricas. Versión 1.7.30.
 - [x] E08 · Entrega 8.5. [«1618–1648 · La guerra de los Treinta Años»](enciclopedia/es/religiones/cristianismo/reforma/guerra-de-los-treinta-anos.md), 5.105 palabras de cuerpo, 13 fuentes, 2 gráficos y 3 reproducciones históricas. Versión 1.7.30.
 - [x] E08 · Entrega 8.6. [«1555 y 1648 · Paces de Augsburgo y Westfalia»](enciclopedia/es/religiones/cristianismo/reforma/augsburgo-y-westfalia.md), 5.151 palabras de cuerpo, 15 fuentes, 2 gráficos y 3 reproducciones históricas. Versión 1.7.30.
@@ -93,7 +100,7 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 - [x] E00 · Índice de secciones y subsecciones plegado por defecto.
 - [x] Mapa · Los giros terminales sustituyen el tramo de tronco que solapaban. Se incorporó una primera separación de ramas del mismo año y lado.
 
-## Fase A · Enciclopedia (78 fases, 859 artículos; detalle en `enciclopedia/PLAN.md`)
+## Fase A · Enciclopedia (78 fases, 860 artículos; detalle en `enciclopedia/PLAN.md`)
 - E00 · Infraestructura (pestañas, fichas, galerías y búsqueda de texto)
 - E01 · Temas generales. Textos ampliados: «Cómo leer el árbol» y «Tipos de religión». Quedan por desarrollar y revisar los otros ocho temas, con sus fuentes y recursos visuales.
 - E02 · Cristianismo: fundamentos. Cinco artículos completos. Quedan por desarrollar y revisar los otros siete.
@@ -101,7 +108,8 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 - E04 · Cristianismo, concilios ecuménicos (I). Completa, 11 de 11 artículos publicados. Disponibles [Nicea I (325)](enciclopedia/es/religiones/cristianismo/concilios/nicea-i.md), [Constantinopla I (381)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-i.md), [Éfeso (431)](enciclopedia/es/religiones/cristianismo/concilios/efeso.md), [Calcedonia (451)](enciclopedia/es/religiones/cristianismo/concilios/calcedonia.md), [Constantinopla II (553)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-ii.md), [Constantinopla III (680–681)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-iii.md), [Nicea II (787)](enciclopedia/es/religiones/cristianismo/concilios/nicea-ii.md), [Constantinopla IV (869–870)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-iv.md), [Letrán I (1123)](enciclopedia/es/religiones/cristianismo/concilios/letran-i.md), [Letrán II (1139)](enciclopedia/es/religiones/cristianismo/concilios/letran-ii.md) y [Letrán III (1179)](enciclopedia/es/religiones/cristianismo/concilios/letran-iii.md).
 - E05 · Cristianismo, concilios ecuménicos (II). Completa, 11 de 11 artículos publicados. Disponibles [Letrán IV (1215)](enciclopedia/es/religiones/cristianismo/concilios/letran-iv.md), [Lyon I (1245)](enciclopedia/es/religiones/cristianismo/concilios/lyon-i.md), [Lyon II (1274)](enciclopedia/es/religiones/cristianismo/concilios/lyon-ii.md), [Vienne (1311–1312)](enciclopedia/es/religiones/cristianismo/concilios/vienne.md), [Constanza (1414–1418)](enciclopedia/es/religiones/cristianismo/concilios/constanza.md), [Basilea–Ferrara–Florencia (1431–1445)](enciclopedia/es/religiones/cristianismo/concilios/basilea-ferrara-florencia.md), [Letrán V (1512–1517)](enciclopedia/es/religiones/cristianismo/concilios/letran-v.md), [Trento (1545–1563)](enciclopedia/es/religiones/cristianismo/concilios/trento.md), [Vaticano I (1869–1870)](enciclopedia/es/religiones/cristianismo/concilios/vaticano-i.md) y [Vaticano II (1962–1965)](enciclopedia/es/religiones/cristianismo/concilios/vaticano-ii.md). La [visión de conjunto](enciclopedia/es/religiones/cristianismo/concilios/panorama.md) enlaza los 21 estudios individuales de E04 y E05.
 - E07 · Cruzadas y guerras santas. Fase completada con quince artículos.
-- E08–E22 · Cristianismo (Reforma, expansión, época contemporánea, papas, santos y 105 tradiciones)
+- E09 · Expansión mundial del cristianismo. En curso, 7 de 13 artículos. Siguiente entrega 9.4, misiones jesuitas en Asia y cristianismo en China, Japón y Corea.
+- E10–E22 · Cristianismo (época contemporánea, papas, santos y 105 tradiciones)
 - E23–E26 · Judaísmo
 - E27–E33 · Islam
 - E34–E41 · Hinduismo (más de 100 deidades) y sijismo

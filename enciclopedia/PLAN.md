@@ -1,6 +1,6 @@
 # Plan de la enciclopedia de Relitree
 
-78 fases · 859 artículos · objetivo mínimo ≈ 4.3 millones de palabras.
+78 fases · 860 artículos · objetivo mínimo ≈ 4.3 millones de palabras.
 
 Cada fase se trabaja en una sesión. Al terminarla se marcan sus artículos como `estado: completo` y se dan los comandos de git. Las normas están en `agentes.md`, apartado «Enciclopedia: normas».
 
@@ -161,18 +161,22 @@ Estado editorial: completa, 12 de 12 artículos publicados. Entregas 8.5 y 8.6 i
 
 ## Fase E09 · Cristianismo · Expansión mundial
 
-- La cristianización de Europa
-- Cristianismo en América: conquista y evangelización
-- Sincretismos y rituales del cristianismo americano
-- Defensores de los indios: Las Casas y la escuela de Salamanca
-- Misiones jesuitas en Asia
-- Misiones y colonialismo en África
-- Cristianismo y esclavitud
-- El abolicionismo cristiano
-- Misiones protestantes del siglo XIX
-- Cristianismo en China, Japón y Corea
-- El cristianismo africano contemporáneo
-- El sur global y el futuro del cristianismo
+Estado editorial: en curso, 7 de 13 artículos publicados. La visión de conjunto abre el recorrido. Entregas 9.0–9.3 incorporadas en la versión 1.7.31.
+
+- [x] 9.0 · [La expansión mundial del cristianismo · Visión de conjunto](es/religiones/cristianismo/expansion-mundial/panorama.md)
+- [x] 9.1 · [La cristianización de Europa](es/religiones/cristianismo/expansion-mundial/cristianizacion-de-europa.md)
+- [x] 9.1 · [Cristianismo en América · Conquista y evangelización](es/religiones/cristianismo/expansion-mundial/conquista-y-evangelizacion-en-america.md)
+- [x] 9.2 · [Sincretismos y rituales del cristianismo americano](es/religiones/cristianismo/expansion-mundial/sincretismos-y-rituales-americanos.md)
+- [x] 9.2 · [Las Casas y la escuela de Salamanca · Los debates sobre los derechos indígenas](es/religiones/cristianismo/expansion-mundial/las-casas-y-escuela-de-salamanca.md)
+- [x] 9.3 · [Cristianismo y esclavitud](es/religiones/cristianismo/expansion-mundial/cristianismo-y-esclavitud.md)
+- [x] 9.3 · [El abolicionismo cristiano](es/religiones/cristianismo/expansion-mundial/abolicionismo-cristiano.md)
+
+- [ ] 9.4 · Misiones jesuitas en Asia
+- [ ] 9.4 · Cristianismo en China, Japón y Corea
+- [ ] 9.5 · Misiones y colonialismo en África
+- [ ] 9.5 · Misiones protestantes del siglo XIX
+- [ ] 9.6 · El cristianismo africano contemporáneo
+- [ ] 9.6 · El sur global y el futuro del cristianismo
 
 ## Fase E10 · Cristianismo · Edad contemporánea
 

@@ -1,7 +1,7 @@
 ---
 estado: completo
 fase: E02
-palabras: 5275
+palabras: 5302
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/christian-population-change/"
   - "https://assets.cambridge.org/97805218/12399/frontmatter/9780521812399_frontmatter.pdf"
@@ -108,6 +108,8 @@ La inscripción de Xi'an, erigida en 781, retrospectivamente sitúa la llegada d
 El [[cristianismo/cismas-herejias/papado-de-avinon|papado de Aviñón]] y el [[cristianismo/cismas-herejias/cisma-de-occidente|Cisma de Occidente]] pusieron a prueba las formas de obediencia institucional. Entre 1378 y 1417, distintas autoridades reconocieron a papas rivales. La resolución en el Concilio de Constanza se relacionó con discusiones sobre el poder de los concilios. Las propuestas de reforma asociadas a John Wyclif y Jan Hus se desarrollaron en contextos ingleses y bohemios propios. En el siglo XV, la caída de Constantinopla en 1453 cambió las condiciones políticas de las iglesias orientales. Las comunidades ortodoxas se organizaron bajo distintos regímenes, y la Iglesia rusa desarrolló una trayectoria propia de creciente autonomía. Esas historias son relevantes para entender por qué «cristiandad medieval» tiene un sentido diferente según la región de que se hable. [6]
 
 ## Siglos XVI–XVIII · Reformas, confesiones y expansión colonial
+
+La [[cristianismo/expansion-mundial/panorama|visión de conjunto de la expansión mundial del cristianismo]] reúne los estudios sobre cristianización, evangelización, esclavitud y abolición. Incluye mapas y un recorrido de lectura.
 
 [[cristianismo/cismas-herejias/inquisicion-espanola|La Inquisición española]] y [[cristianismo/cismas-herejias/inquisicion-romana|la Inquisición romana]] surgieron con estructuras distintas. [[cristianismo/cismas-herejias/caza-de-brujas|La caza de brujas]] examina la intervención de autoridades religiosas y civiles en las persecuciones de la Edad Moderna.
 

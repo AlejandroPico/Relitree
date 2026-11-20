@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 517" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Recorrido de la fase 9</title>
+<desc id="descripcion">Recorrido de la fase 9. 9.1 · Europa y América. Conversión, conquista, parroquias y misiones. 9.2–9.3 · Ritos, dominio y libertad. Traducciones, derechos indígenas, esclavitud y abolición. 9.4–9.5 · Asia, África y misiones. Iglesias locales, órdenes religiosas, imperios y redes protestantes. 9.6 · El cristianismo actual. África contemporánea y el peso del sur global.</desc>
+<rect width="720" height="517" fill="#fbf8ef"/>
+<g font-family="system-ui, sans-serif">
+<text x="34" y="52" font-size="31" font-weight="700" fill="#243238" text-anchor="start">Recorrido de la fase 9</text>
+<text x="35" y="87" font-size="22" font-weight="400" fill="#46575d" text-anchor="start">De las fundaciones a las iglesias contemporáneas</text>
+<path d="M36 120v72" stroke="#385b6b" stroke-width="4"/>
+<circle cx="36" cy="137" r="8" fill="#385b6b"/>
+<text x="61" y="145" font-size="25" font-weight="700" fill="#385b6b" text-anchor="start">9.1 · Europa y América</text>
+<text x="61" y="173" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Conversión, conquista, parroquias y misiones.</text>
+<path d="M36 205v96" stroke="#385b6b" stroke-width="4"/>
+<circle cx="36" cy="222" r="8" fill="#385b6b"/>
+<text x="61" y="230" font-size="25" font-weight="700" fill="#385b6b" text-anchor="start">9.2–9.3 · Ritos, dominio y libertad</text>
+<text x="61" y="258" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Traducciones, derechos indígenas, esclavitud y</text>
+<text x="61" y="282" font-size="22" font-weight="400" fill="#243238" text-anchor="start">abolición.</text>
+<path d="M36 314v96" stroke="#385b6b" stroke-width="4"/>
+<circle cx="36" cy="331" r="8" fill="#385b6b"/>
+<text x="61" y="339" font-size="25" font-weight="700" fill="#385b6b" text-anchor="start">9.4–9.5 · Asia, África y misiones</text>
+<text x="61" y="367" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Iglesias locales, órdenes religiosas, imperios y</text>
+<text x="61" y="391" font-size="22" font-weight="400" fill="#243238" text-anchor="start">redes protestantes.</text>
+<path d="M36 423v72" stroke="#385b6b" stroke-width="4"/>
+<circle cx="36" cy="440" r="8" fill="#385b6b"/>
+<text x="61" y="448" font-size="25" font-weight="700" fill="#385b6b" text-anchor="start">9.6 · El cristianismo actual</text>
+<text x="61" y="476" font-size="22" font-weight="400" fill="#243238" text-anchor="start">África contemporánea y el peso del sur global.</text>
+</g>
+</svg>

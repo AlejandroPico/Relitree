@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 541" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Aboliciones en el Atlántico</title>
+<desc id="descripcion">Aboliciones en el Atlántico. 1791–1804 · Haití. Levantamiento en Saint-Domingue, abolición francesa de 1794 e independencia haitiana. 1807–1838 · Imperio británico. Prohibición de la trata, emancipación legal y fin del aprendizaje colonial. 1863–1865 · Estados Unidos. Proclamación en tiempo de guerra y Decimotercera Enmienda. 1886–1888 · Cuba y Brasil. Fin del patronato en Cuba y Ley Áurea en Brasil.</desc>
+<rect width="720" height="541" fill="#fbf8ef"/>
+<g font-family="system-ui, sans-serif">
+<text x="34" y="52" font-size="31" font-weight="700" fill="#243238" text-anchor="start">Aboliciones en el Atlántico</text>
+<text x="35" y="87" font-size="22" font-weight="400" fill="#46575d" text-anchor="start">Hitos y aplicación · 1791–1888</text>
+<path d="M36 120v96" stroke="#396058" stroke-width="4"/>
+<circle cx="36" cy="137" r="8" fill="#396058"/>
+<text x="61" y="145" font-size="25" font-weight="700" fill="#396058" text-anchor="start">1791–1804 · Haití</text>
+<text x="61" y="173" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Levantamiento en Saint-Domingue, abolición francesa</text>
+<text x="61" y="197" font-size="22" font-weight="400" fill="#243238" text-anchor="start">de 1794 e independencia haitiana.</text>
+<path d="M36 229v96" stroke="#396058" stroke-width="4"/>
+<circle cx="36" cy="246" r="8" fill="#396058"/>
+<text x="61" y="254" font-size="25" font-weight="700" fill="#396058" text-anchor="start">1807–1838 · Imperio británico</text>
+<text x="61" y="282" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Prohibición de la trata, emancipación legal y fin</text>
+<text x="61" y="306" font-size="22" font-weight="400" fill="#243238" text-anchor="start">del aprendizaje colonial.</text>
+<path d="M36 338v96" stroke="#396058" stroke-width="4"/>
+<circle cx="36" cy="355" r="8" fill="#396058"/>
+<text x="61" y="363" font-size="25" font-weight="700" fill="#396058" text-anchor="start">1863–1865 · Estados Unidos</text>
+<text x="61" y="391" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Proclamación en tiempo de guerra y Decimotercera</text>
+<text x="61" y="415" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Enmienda.</text>
+<path d="M36 447v72" stroke="#396058" stroke-width="4"/>
+<circle cx="36" cy="464" r="8" fill="#396058"/>
+<text x="61" y="472" font-size="25" font-weight="700" fill="#396058" text-anchor="start">1886–1888 · Cuba y Brasil</text>
+<text x="61" y="500" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Fin del patronato en Cuba y Ley Áurea en Brasil.</text>
+</g>
+</svg>

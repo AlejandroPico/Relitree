@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 541" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">De la denuncia al debate público</title>
+<desc id="descripcion">De la denuncia al debate público. 1511–1513. Predicación dominica, Leyes de Burgos y Requerimiento. 1537–1539. Sublimis Deus y relecciones de Vitoria. 1542. Leyes Nuevas; el cumplimiento encuentra resistencias. 1550–1552. Junta de Valladolid y publicación de la Brevísima relación.</desc>
+<rect width="720" height="541" fill="#fbf8ef"/>
+<g font-family="system-ui, sans-serif">
+<text x="34" y="52" font-size="31" font-weight="700" fill="#243238" text-anchor="start">De la denuncia al debate público</text>
+<text x="35" y="87" font-size="22" font-weight="400" fill="#46575d" text-anchor="start">Caribe, Salamanca y Valladolid</text>
+<path d="M36 120v96" stroke="#825440" stroke-width="4"/>
+<circle cx="36" cy="137" r="8" fill="#825440"/>
+<text x="61" y="145" font-size="25" font-weight="700" fill="#825440" text-anchor="start">1511–1513</text>
+<text x="61" y="173" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Predicación dominica, Leyes de Burgos y</text>
+<text x="61" y="197" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Requerimiento.</text>
+<path d="M36 229v72" stroke="#825440" stroke-width="4"/>
+<circle cx="36" cy="246" r="8" fill="#825440"/>
+<text x="61" y="254" font-size="25" font-weight="700" fill="#825440" text-anchor="start">1537–1539</text>
+<text x="61" y="282" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Sublimis Deus y relecciones de Vitoria.</text>
+<path d="M36 314v96" stroke="#825440" stroke-width="4"/>
+<circle cx="36" cy="331" r="8" fill="#825440"/>
+<text x="61" y="339" font-size="25" font-weight="700" fill="#825440" text-anchor="start">1542</text>
+<text x="61" y="367" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Leyes Nuevas; el cumplimiento encuentra</text>
+<text x="61" y="391" font-size="22" font-weight="400" fill="#243238" text-anchor="start">resistencias.</text>
+<path d="M36 423v96" stroke="#825440" stroke-width="4"/>
+<circle cx="36" cy="440" r="8" fill="#825440"/>
+<text x="61" y="448" font-size="25" font-weight="700" fill="#825440" text-anchor="start">1550–1552</text>
+<text x="61" y="476" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Junta de Valladolid y publicación de la Brevísima</text>
+<text x="61" y="500" font-size="22" font-weight="400" fill="#243238" text-anchor="start">relación.</text>
+</g>
+</svg>

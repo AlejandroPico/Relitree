@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 456" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Lecturas bíblicas en conflicto</title>
+<desc id="descripcion">Lecturas bíblicas en conflicto. Justificación de la esclavitud. Se esgrimieron normas y exhortaciones dirigidas a amos y personas esclavizadas. Crítica de la esclavitud. Se invocaron la liberación, la justicia y la pertenencia común ante Dios. Selección de lecturas. La edición de 1807 muestra la capacidad institucional para escoger pasajes.</desc>
+<rect width="720" height="456" fill="#fbf8ef"/>
+<g font-family="system-ui, sans-serif">
+<text x="34" y="52" font-size="31" font-weight="700" fill="#243238" text-anchor="start">Lecturas bíblicas en conflicto</text>
+<text x="35" y="87" font-size="22" font-weight="400" fill="#46575d" text-anchor="start">Textos y argumentos de la época moderna</text>
+<path d="M36 120v96" stroke="#3e597b" stroke-width="4"/>
+<circle cx="36" cy="137" r="8" fill="#3e597b"/>
+<text x="61" y="145" font-size="25" font-weight="700" fill="#3e597b" text-anchor="start">Justificación de la esclavitud</text>
+<text x="61" y="173" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Se esgrimieron normas y exhortaciones dirigidas a</text>
+<text x="61" y="197" font-size="22" font-weight="400" fill="#243238" text-anchor="start">amos y personas esclavizadas.</text>
+<path d="M36 229v96" stroke="#3e597b" stroke-width="4"/>
+<circle cx="36" cy="246" r="8" fill="#3e597b"/>
+<text x="61" y="254" font-size="25" font-weight="700" fill="#3e597b" text-anchor="start">Crítica de la esclavitud</text>
+<text x="61" y="282" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Se invocaron la liberación, la justicia y la</text>
+<text x="61" y="306" font-size="22" font-weight="400" fill="#243238" text-anchor="start">pertenencia común ante Dios.</text>
+<path d="M36 338v96" stroke="#3e597b" stroke-width="4"/>
+<circle cx="36" cy="355" r="8" fill="#3e597b"/>
+<text x="61" y="363" font-size="25" font-weight="700" fill="#3e597b" text-anchor="start">Selección de lecturas</text>
+<text x="61" y="391" font-size="22" font-weight="400" fill="#243238" text-anchor="start">La edición de 1807 muestra la capacidad</text>
+<text x="61" y="415" font-size="22" font-weight="400" fill="#243238" text-anchor="start">institucional para escoger pasajes.</text>
+</g>
+</svg>

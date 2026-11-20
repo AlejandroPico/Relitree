@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 456" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Tres cambios diferentes</title>
+<desc id="descripcion">Tres cambios diferentes. Prohibir la trata. Restringe nuevas operaciones; exige vigilancia y aplicación. Abolir la esclavitud. Extingue una condición de propiedad conforme al ámbito y los plazos de la norma. Ejercer la libertad. Depende del acceso real a trabajo, seguridad, residencia y vínculos familiares.</desc>
+<rect width="720" height="456" fill="#fbf8ef"/>
+<g font-family="system-ui, sans-serif">
+<text x="34" y="52" font-size="31" font-weight="700" fill="#243238" text-anchor="start">Tres cambios diferentes</text>
+<text x="35" y="87" font-size="22" font-weight="400" fill="#46575d" text-anchor="start">Trata, propiedad y libertad efectiva</text>
+<path d="M36 120v96" stroke="#396058" stroke-width="4"/>
+<circle cx="36" cy="137" r="8" fill="#396058"/>
+<text x="61" y="145" font-size="25" font-weight="700" fill="#396058" text-anchor="start">Prohibir la trata</text>
+<text x="61" y="173" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Restringe nuevas operaciones; exige vigilancia y</text>
+<text x="61" y="197" font-size="22" font-weight="400" fill="#243238" text-anchor="start">aplicación.</text>
+<path d="M36 229v96" stroke="#396058" stroke-width="4"/>
+<circle cx="36" cy="246" r="8" fill="#396058"/>
+<text x="61" y="254" font-size="25" font-weight="700" fill="#396058" text-anchor="start">Abolir la esclavitud</text>
+<text x="61" y="282" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Extingue una condición de propiedad conforme al</text>
+<text x="61" y="306" font-size="22" font-weight="400" fill="#243238" text-anchor="start">ámbito y los plazos de la norma.</text>
+<path d="M36 338v96" stroke="#396058" stroke-width="4"/>
+<circle cx="36" cy="355" r="8" fill="#396058"/>
+<text x="61" y="363" font-size="25" font-weight="700" fill="#396058" text-anchor="start">Ejercer la libertad</text>
+<text x="61" y="391" font-size="22" font-weight="400" fill="#243238" text-anchor="start">Depende del acceso real a trabajo, seguridad,</text>
+<text x="61" y="415" font-size="22" font-weight="400" fill="#243238" text-anchor="start">residencia y vínculos familiares.</text>
+</g>
+</svg>
