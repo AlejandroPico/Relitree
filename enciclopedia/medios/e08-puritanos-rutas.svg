@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 359" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Dos trayectorias migratorias</title>
+<desc id="descripcion">Una ruta va de Inglaterra a Leiden y Patuxet en 1620; la otra va de Inglaterra a la Bahía de Massachusetts desde 1630</desc>
+<rect width="720" height="359" fill="#faf7ef"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="52" font-size="31" font-weight="700" fill="#17262a" text-anchor="start">Dos trayectorias migratorias</text>
+<text x="36" y="88" font-size="22" font-weight="400" fill="#43555a" text-anchor="start">Inglaterra, Leiden y Nueva Inglaterra</text>
+<text x="36" y="130" font-size="23" font-weight="700" fill="#74506f" text-anchor="start">Plymouth · 1620</text>
+<rect x="35" y="151" width="178" height="55" fill="#f1e9f0"/>
+<text x="124.0" y="187" font-size="23" font-weight="600" fill="#17262a" text-anchor="middle">Inglaterra</text>
+<path d="M227 178h28m-8 -7 8 7-8 7" fill="none" stroke="#74506f" stroke-width="3"/>
+<rect x="269" y="151" width="178" height="55" fill="#f1e9f0"/>
+<text x="358.0" y="187" font-size="23" font-weight="600" fill="#17262a" text-anchor="middle">Leiden</text>
+<path d="M461 178h28m-8 -7 8 7-8 7" fill="none" stroke="#74506f" stroke-width="3"/>
+<rect x="504" y="151" width="178" height="55" fill="#f1e9f0"/>
+<text x="593.0" y="187" font-size="23" font-weight="600" fill="#17262a" text-anchor="middle">Patuxet</text>
+<text x="36" y="249" font-size="23" font-weight="700" fill="#74506f" text-anchor="start">Massachusetts Bay · desde 1630</text>
+<rect x="35" y="270" width="178" height="55" fill="#f1e9f0"/>
+<text x="124.0" y="306" font-size="23" font-weight="600" fill="#17262a" text-anchor="middle">Inglaterra</text>
+<path d="M227 297h28m-8 -7 8 7-8 7" fill="none" stroke="#74506f" stroke-width="3"/>
+<rect x="269" y="270" width="413" height="55" fill="#f1e9f0"/>
+<text x="475.5" y="306" font-size="23" font-weight="600" fill="#17262a" text-anchor="middle">Bahía de Massachusetts</text>
+</g>
+</svg>

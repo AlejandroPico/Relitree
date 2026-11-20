@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 501" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Plymouth y Massachusetts Bay</title>
+<desc id="descripcion">Comparación entre Plymouth, fundada en 1620 en Patuxet, y Massachusetts Bay, organizada bajo una carta regia de 1629</desc>
+<rect width="720" height="501" fill="#faf7ef"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="52" font-size="31" font-weight="700" fill="#17262a" text-anchor="start">Plymouth y Massachusetts Bay</text>
+<text x="36" y="88" font-size="22" font-weight="400" fill="#43555a" text-anchor="start">Fechas, comunidades y documentos</text>
+<rect x="35" y="117" width="4" height="100" fill="#74506f"/>
+<circle cx="37" cy="137" r="8" fill="#74506f"/>
+<text x="63" y="144" font-size="25" font-weight="700" fill="#74506f" text-anchor="start">Plymouth · 1620</text>
+<text x="63" y="178" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Separatistas de Leiden y otros pasajeros. El Pacto</text>
+<text x="63" y="204" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">del Mayflower organiza un cuerpo político civil.</text>
+<rect x="35" y="232" width="4" height="126" fill="#74506f"/>
+<circle cx="37" cy="252" r="8" fill="#74506f"/>
+<text x="63" y="259" font-size="25" font-weight="700" fill="#74506f" text-anchor="start">Massachusetts Bay · 1629–1630</text>
+<text x="63" y="293" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Una compañía recibe una carta regia y traslada su</text>
+<text x="63" y="319" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">gobierno a América. La migración aumenta en los años</text>
+<text x="63" y="345" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">treinta.</text>
+<rect x="35" y="373" width="4" height="100" fill="#74506f"/>
+<circle cx="37" cy="393" r="8" fill="#74506f"/>
+<text x="63" y="400" font-size="25" font-weight="700" fill="#74506f" text-anchor="start">Nueva provincia · 1691–1692</text>
+<text x="63" y="434" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Una carta real reúne Plymouth y Massachusetts Bay en</text>
+<text x="63" y="460" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">la Provincia de la Bahía de Massachusetts.</text>
+</g>
+</svg>

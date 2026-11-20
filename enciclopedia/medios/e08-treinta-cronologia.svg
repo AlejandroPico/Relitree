@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 627" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Treinta años de campañas y pactos</title>
+<desc id="descripcion">Cronología desde la revuelta de Bohemia hasta los tratados imperiales de Westfalia</desc>
+<rect width="720" height="627" fill="#faf7ef"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="52" font-size="31" font-weight="700" fill="#17262a" text-anchor="start">Treinta años de campañas y pactos</text>
+<text x="36" y="88" font-size="22" font-weight="400" fill="#43555a" text-anchor="start">Sacro Imperio · 1618–1648</text>
+<rect x="35" y="117" width="4" height="100" fill="#385879"/>
+<circle cx="37" cy="137" r="8" fill="#385879"/>
+<text x="63" y="144" font-size="25" font-weight="700" fill="#385879" text-anchor="start">1618–1623</text>
+<text x="63" y="178" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Revuelta de Bohemia, Montaña Blanca y lucha por el</text>
+<text x="63" y="204" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Palatinado</text>
+<rect x="35" y="232" width="4" height="100" fill="#385879"/>
+<circle cx="37" cy="252" r="8" fill="#385879"/>
+<text x="63" y="259" font-size="25" font-weight="700" fill="#385879" text-anchor="start">1625–1629</text>
+<text x="63" y="293" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Intervención danesa, Paz de Lübeck y Edicto de</text>
+<text x="63" y="319" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Restitución</text>
+<rect x="35" y="347" width="4" height="74" fill="#385879"/>
+<circle cx="37" cy="367" r="8" fill="#385879"/>
+<text x="63" y="374" font-size="25" font-weight="700" fill="#385879" text-anchor="start">1630–1634</text>
+<text x="63" y="408" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Intervención sueca, Magdeburgo, Lützen y Nördlingen</text>
+<rect x="35" y="436" width="4" height="74" fill="#385879"/>
+<circle cx="37" cy="456" r="8" fill="#385879"/>
+<text x="63" y="463" font-size="25" font-weight="700" fill="#385879" text-anchor="start">1635</text>
+<text x="63" y="497" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Paz de Praga y ampliación de la intervención francesa</text>
+<rect x="35" y="525" width="4" height="74" fill="#385879"/>
+<circle cx="37" cy="545" r="8" fill="#385879"/>
+<text x="63" y="552" font-size="25" font-weight="700" fill="#385879" text-anchor="start">1648</text>
+<text x="63" y="586" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Tratados de Münster y Osnabrück</text>
+</g>
+</svg>

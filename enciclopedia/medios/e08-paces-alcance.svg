@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 553" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Protección del culto en el Imperio</title>
+<desc id="descripcion">Comparación de las confesiones reconocidas, las garantías de los súbditos y el uso de 1624 en Augsburgo y Westfalia</desc>
+<rect width="720" height="553" fill="#faf7ef"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="52" font-size="31" font-weight="700" fill="#17262a" text-anchor="start">Protección del culto en el Imperio</text>
+<text x="36" y="88" font-size="22" font-weight="400" fill="#43555a" text-anchor="start">Disposiciones de 1555 y 1648</text>
+<rect x="35" y="117" width="4" height="126" fill="#3a6553"/>
+<circle cx="37" cy="137" r="8" fill="#3a6553"/>
+<text x="63" y="144" font-size="25" font-weight="700" fill="#3a6553" text-anchor="start">Augsburgo · 1555</text>
+<text x="63" y="178" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Católicos y adherentes a la Confesión de Augsburgo.</text>
+<text x="63" y="204" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Salida con bienes bajo condiciones y reglas</text>
+<text x="63" y="230" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">especiales para prelados y ciudades mixtas.</text>
+<rect x="35" y="258" width="4" height="126" fill="#3a6553"/>
+<circle cx="37" cy="278" r="8" fill="#3a6553"/>
+<text x="63" y="285" font-size="25" font-weight="700" fill="#3a6553" text-anchor="start">Westfalia · 1648</text>
+<text x="63" y="319" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Los reformados se incorporan al arreglo. Garantías</text>
+<text x="63" y="345" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">diferenciadas para culto, devoción doméstica y</text>
+<text x="63" y="371" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">ciertos derechos civiles.</text>
+<rect x="35" y="399" width="4" height="126" fill="#3a6553"/>
+<circle cx="37" cy="419" r="8" fill="#3a6553"/>
+<text x="63" y="426" font-size="25" font-weight="700" fill="#3a6553" text-anchor="start">1624 en Westfalia</text>
+<text x="63" y="460" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">El día de referencia ordena numerosas restituciones.</text>
+<text x="63" y="486" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Algunos derechos de culto se acreditan con usos</text>
+<text x="63" y="512" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">durante el año.</text>
+</g>
+</svg>

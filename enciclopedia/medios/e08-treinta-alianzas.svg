@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 512" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Cambios en las alianzas</title>
+<desc id="descripcion">Sajonia coopera con Fernando en Bohemia, con Suecia en 1631 y vuelve a pactar con el emperador en 1635. Francia financia a Suecia desde 1631</desc>
+<rect width="720" height="512" fill="#faf7ef"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="52" font-size="31" font-weight="700" fill="#17262a" text-anchor="start">Cambios en las alianzas</text>
+<text x="36" y="88" font-size="22" font-weight="400" fill="#43555a" text-anchor="start">La posición de Sajonia y la intervención francesa</text>
+<rect x="35" y="117" width="4" height="74" fill="#385879"/>
+<circle cx="37" cy="137" r="8" fill="#385879"/>
+<text x="63" y="144" font-size="25" font-weight="700" fill="#385879" text-anchor="start">Sajonia · 1619–1620</text>
+<text x="63" y="178" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Apoya al emperador en la revuelta bohemia.</text>
+<rect x="35" y="206" width="4" height="74" fill="#385879"/>
+<circle cx="37" cy="226" r="8" fill="#385879"/>
+<text x="63" y="233" font-size="25" font-weight="700" fill="#385879" text-anchor="start">Sajonia · 1631</text>
+<text x="63" y="267" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Coopera con Suecia y combate en Breitenfeld.</text>
+<rect x="35" y="295" width="4" height="74" fill="#385879"/>
+<circle cx="37" cy="315" r="8" fill="#385879"/>
+<text x="63" y="322" font-size="25" font-weight="700" fill="#385879" text-anchor="start">Sajonia · 1635</text>
+<text x="63" y="356" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Negocia con el emperador la Paz de Praga.</text>
+<rect x="35" y="384" width="4" height="100" fill="#385879"/>
+<circle cx="37" cy="404" r="8" fill="#385879"/>
+<text x="63" y="411" font-size="25" font-weight="700" fill="#385879" text-anchor="start">Francia · 1631 / 1635</text>
+<text x="63" y="445" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Subsidia a Suecia y después declara la guerra a</text>
+<text x="63" y="471" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">España.</text>
+</g>
+</svg>

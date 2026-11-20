@@ -143,7 +143,7 @@ Revisión visual en la versión 1.7.28 con 26 imágenes contextualizadas en las 
 
 ## Fase E08 · Cristianismo · Reforma y guerras de religión
 
-Estado editorial: en curso, 8 de 12 artículos publicados.
+Estado editorial: completa, 12 de 12 artículos publicados. Entregas 8.5 y 8.6 incorporadas en la versión 1.7.30.
 
 - [x] [La Reforma protestante · Visión de conjunto](es/religiones/cristianismo/reforma/panorama.md)
 - [x] [1483–1546 · Martín Lutero](es/religiones/cristianismo/reforma/martin-lutero.md)
@@ -154,10 +154,10 @@ Estado editorial: en curso, 8 de 12 artículos publicados.
 
 - [x] [Siglos XVI–XVII · La Contrarreforma](es/religiones/cristianismo/reforma/contrarreforma.md)
 - [x] [1562–1598 · Las guerras de religión de Francia](es/religiones/cristianismo/reforma/guerras-de-religion-de-francia.md)
-- [ ] La guerra de los Ochenta Años
-- [ ] La guerra de los Treinta Años
-- [ ] Paz de Augsburgo y Paz de Westfalia
-- [ ] Puritanos y la emigración a América
+- [x] [1568–1648 · La guerra de los Ochenta Años](es/religiones/cristianismo/reforma/guerra-de-los-ochenta-anos.md)
+- [x] [1618–1648 · La guerra de los Treinta Años](es/religiones/cristianismo/reforma/guerra-de-los-treinta-anos.md)
+- [x] [1555 y 1648 · Paces de Augsburgo y Westfalia](es/religiones/cristianismo/reforma/augsburgo-y-westfalia.md)
+- [x] [Siglos XVI–XVII · Puritanos y la emigración a América](es/religiones/cristianismo/reforma/puritanos-y-emigracion-a-america.md)
 
 ## Fase E09 · Cristianismo · Expansión mundial
 

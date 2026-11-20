@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 575" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">De la revuelta a la paz</title>
+<desc id="descripcion">Cronología de la guerra de los Ochenta Años desde la crisis de 1566 hasta la paz de Münster</desc>
+<rect width="720" height="575" fill="#faf7ef"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="52" font-size="31" font-weight="700" fill="#17262a" text-anchor="start">De la revuelta a la paz</text>
+<text x="36" y="88" font-size="22" font-weight="400" fill="#43555a" text-anchor="start">Países Bajos · 1566–1648</text>
+<rect x="35" y="117" width="4" height="74" fill="#845027"/>
+<circle cx="37" cy="137" r="8" fill="#845027"/>
+<text x="63" y="144" font-size="25" font-weight="700" fill="#845027" text-anchor="start">1566–1568</text>
+<text x="63" y="178" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Protesta, iconoclasia y primeras campañas</text>
+<rect x="35" y="206" width="4" height="74" fill="#845027"/>
+<circle cx="37" cy="226" r="8" fill="#845027"/>
+<text x="63" y="233" font-size="25" font-weight="700" fill="#845027" text-anchor="start">1572–1576</text>
+<text x="63" y="267" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Brielle, socorro de Leiden y Pacificación de Gante</text>
+<rect x="35" y="295" width="4" height="74" fill="#845027"/>
+<circle cx="37" cy="315" r="8" fill="#845027"/>
+<text x="63" y="322" font-size="25" font-weight="700" fill="#845027" text-anchor="start">1579–1585</text>
+<text x="63" y="356" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Uniones, ruptura con Felipe II y caída de Amberes</text>
+<rect x="35" y="384" width="4" height="74" fill="#845027"/>
+<circle cx="37" cy="404" r="8" fill="#845027"/>
+<text x="63" y="411" font-size="25" font-weight="700" fill="#845027" text-anchor="start">1609–1621</text>
+<text x="63" y="445" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Tregua de los Doce Años</text>
+<rect x="35" y="473" width="4" height="74" fill="#845027"/>
+<circle cx="37" cy="493" r="8" fill="#845027"/>
+<text x="63" y="500" font-size="25" font-weight="700" fill="#845027" text-anchor="start">1621–1648</text>
+<text x="63" y="534" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Reanudación de la guerra, campañas y paz de Münster</text>
+</g>
+</svg>

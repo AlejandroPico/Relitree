@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 475" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">De Gante a Arrás y Utrecht</title>
+<desc id="descripcion">Tres acuerdos de los estamentos neerlandeses: Gante en 1576 y Arrás y Utrecht en 1579</desc>
+<rect width="720" height="475" fill="#faf7ef"/>
+<g font-family="system-ui, sans-serif">
+<text x="36" y="52" font-size="31" font-weight="700" fill="#17262a" text-anchor="start">De Gante a Arrás y Utrecht</text>
+<text x="36" y="88" font-size="22" font-weight="400" fill="#43555a" text-anchor="start">Objetivos de los tres acuerdos</text>
+<rect x="35" y="117" width="4" height="100" fill="#845027"/>
+<circle cx="37" cy="137" r="8" fill="#845027"/>
+<text x="63" y="144" font-size="25" font-weight="700" fill="#845027" text-anchor="start">Gante · 1576</text>
+<text x="63" y="178" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Acuerdo entre provincias para retirar tropas,</text>
+<text x="63" y="204" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">defender privilegios y aplazar el arreglo religioso.</text>
+<rect x="35" y="232" width="4" height="100" fill="#845027"/>
+<circle cx="37" cy="252" r="8" fill="#845027"/>
+<text x="63" y="259" font-size="25" font-weight="700" fill="#845027" text-anchor="start">Arrás · 1579</text>
+<text x="63" y="293" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Artois, Henao y Douai se asocian. Después pactan su</text>
+<text x="63" y="319" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">reconciliación con Felipe II.</text>
+<rect x="35" y="347" width="4" height="100" fill="#845027"/>
+<circle cx="37" cy="367" r="8" fill="#845027"/>
+<text x="63" y="374" font-size="25" font-weight="700" fill="#845027" text-anchor="start">Utrecht · 1579</text>
+<text x="63" y="408" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">Alianza de defensa y contribuciones que deja margen</text>
+<text x="63" y="434" font-size="23" font-weight="400" fill="#17262a" text-anchor="start">provincial en materia de culto.</text>
+</g>
+</svg>
