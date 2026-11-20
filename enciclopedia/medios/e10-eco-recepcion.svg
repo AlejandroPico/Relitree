@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="325" viewBox="0 0 720 325" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Cómo se recibe un texto ecuménico</title>
+  <desc id="descripcion">Cómo se recibe un texto ecuménico. Tres momentos que conviene documentar. Redacción. La comisión identifica coincidencias y diferencias y formula un texto.. Respuesta. Cada iglesia decide qué reconoce y qué requiere aclaración.. Aplicación. Los órganos competentes definen si cambian procedimientos o prácticas..</desc>
+  <rect width="720" height="325" fill="#faf8f1"/>
+  <g font-family="system-ui, sans-serif" fill="#202d36">
+    <text x="30" y="45" font-size="26" font-weight="700">Cómo se recibe un texto ecuménico</text>
+    <text x="30" y="73" font-size="16" fill="#4b5b61">Tres momentos que conviene documentar</text>
+    <rect x="30" y="94" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="94" width="3" height="64" fill="#376764"/>
+    <text x="44" y="123" font-size="16" font-weight="700" fill="#254d4b">Redacción</text>
+    <text x="228" y="120" font-size="16">La comisión identifica coincidencias y diferencias y</text>
+    <text x="228" y="142" font-size="16">formula un texto.</text>
+    <rect x="30" y="166" width="660" height="64" fill="#f4eee3"/>
+    <rect x="30" y="166" width="3" height="64" fill="#376764"/>
+    <text x="44" y="195" font-size="16" font-weight="700" fill="#254d4b">Respuesta</text>
+    <text x="228" y="192" font-size="16">Cada iglesia decide qué reconoce y qué requiere</text>
+    <text x="228" y="214" font-size="16">aclaración.</text>
+    <rect x="30" y="238" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="238" width="3" height="64" fill="#376764"/>
+    <text x="44" y="267" font-size="16" font-weight="700" fill="#254d4b">Aplicación</text>
+    <text x="228" y="264" font-size="16">Los órganos competentes definen si cambian</text>
+    <text x="228" y="286" font-size="16">procedimientos o prácticas.</text>
+  </g>
+</svg>

@@ -2,7 +2,7 @@
 estado: completo
 fase: E10
 orden: 0
-palabras: 5016
+palabras: 5057
 fuentes:
   - "https://doi.org/10.1017/CHOL9780521815000"
   - "https://www.assemblee-nationale.fr/histoire/eglise-etat/chronologie.asp"
@@ -136,7 +136,7 @@ El estudio sobre mujer e iglesias se orienta por preguntas de acceso a la formac
 
 Una comparación entre confesiones necesita usar vocabulario preciso. Un cargo docente, la dirección de una congregación, el diaconado, el presbiterado y un puesto de gobierno no tienen idéntico alcance. La apertura de uno de ellos en una fecha determinada informa sobre ese ámbito. Para reconstruir su aplicación interesa saber quién podía concurrir, qué preparación exigía la institución y dónde se hicieron efectivos los nombramientos. Historias de congregaciones, asociaciones y comunidades religiosas permiten explorar el trabajo de personas que tuvieron responsabilidad antes de que se modificaran las normas. [1,21]
 
-El estudio sobre abusos sexuales y encubrimiento se centrará en daños documentados, trayectorias de supervivientes, investigaciones públicas y respuesta institucional. Una declaración de una persona sobre lo que vivió, un informe de una comisión y una resolución judicial aportan evidencias de naturaleza diferente. Las comisiones pueden reconstruir fallos de supervisión o patrones de traslado durante un periodo y bajo un mandato concreto. Una resolución judicial decide cuestiones delimitadas por un expediente y un procedimiento. Para citar ambas con precisión se necesita explicar qué examinó cada una y en qué ámbito tuvo efecto. [22,23]
+El estudio sobre abusos sexuales y encubrimiento se centra en daños documentados, trayectorias de supervivientes, investigaciones públicas y respuesta institucional. Una declaración de una persona sobre lo que vivió, un informe de una comisión y una resolución judicial aportan evidencias de naturaleza diferente. Las comisiones pueden reconstruir fallos de supervisión o patrones de traslado durante un periodo y bajo un mandato concreto. Una resolución judicial decide cuestiones delimitadas por un expediente y un procedimiento. Para citar ambas con precisión se necesita explicar qué examinó cada una y en qué ámbito tuvo efecto. [22,23]
 
 Este tema exige especial atención a categorías, fechas y denominadores. Un recuento de testimonios recibidos durante un periodo informa sobre personas que pudieron acceder a una vía de comunicación. Una auditoría de expedientes puede abarcar únicamente archivos conservados de ciertas jurisdicciones. El número de denuncias, el de personas que las formularon y el de clérigos investigados son medidas diferentes. Una comparación entre informes debe precisar qué unidades cuentan, cómo se asignó cada caso y qué límites reconoce la investigación. Los estudios se leen junto a testimonios publicados con garantías de privacidad y consentimiento. [22,23]
 
@@ -194,6 +194,12 @@ Quien se interese por historia política puede empezar por Ilustración y revolu
 El bloque 10.1 estudia la Ilustración, las revoluciones y las controversias científicas. Empieza con los usos de tolerancia y coacción en la vida pública y sigue con el papel de la evidencia y de las instituciones educativas. El bloque 10.2 examina las dictaduras y la coerción mediante dos estudios. Uno compara las relaciones de grupos cristianos con el nazismo y el fascismo y sitúa otras dictaduras según sus propias historias. El otro sigue las políticas antirreligiosas de gobiernos comunistas y las formas en que variaron entre la prohibición, la supervisión y la práctica reconocida. [2–13]
 
 El bloque 10.3 aborda las transformaciones dentro del cristianismo. Un artículo reconstruye la teología liberal y el fundamentalismo histórico y muestra qué se discutió en seminarios, publicaciones y denominaciones. Otro sigue la renovación pentecostal y carismática desde la organización de sus primeras redes a varios ámbitos confesionales. Los bloques 10.4 a 10.6 completan el itinerario con el ecumenismo y la doctrina social, la participación de las mujeres y la respuesta institucional a los abusos, y el contraste entre secularización y diversidad contemporánea. La numeración corresponde a entregas y cada estudio tiene su propio título. [14–25]
+
+Los últimos seis artículos se pueden recorrer por parejas.
+
+- **10.4** · [[cristianismo/edad-contemporanea/el-movimiento-ecumenico|El movimiento ecuménico]] y [[cristianismo/edad-contemporanea/doctrina-social-de-la-iglesia|Doctrina social de la Iglesia]].
+- **10.5** · [[cristianismo/edad-contemporanea/mujer-e-iglesias|Mujer e iglesias]] y [[cristianismo/edad-contemporanea/los-abusos-sexuales-y-su-encubrimiento|Los abusos sexuales y su encubrimiento]].
+- **10.6** · [[cristianismo/edad-contemporanea/secularizacion-de-occidente|Secularización de Occidente]] y [[cristianismo/edad-contemporanea/el-cristianismo-hoy|El cristianismo hoy]].
 
 La relación entre los bloques se puede seguir observando un mecanismo común. Una autoridad establece qué cuenta como enseñanza aceptable, qué formas de reunión reconoce y con qué evidencias admite una petición de reforma. Los fieles, docentes, investigadores, asociaciones y comunidades locales tienen recursos desiguales para intervenir. En el curso de dos siglos esos recursos cambiaron por la difusión de la escuela, la prensa, la investigación, el traslado de población y la aparición de organizaciones nuevas. La lectura de los casos concretos permite reconocer los cambios de escala y ver qué consecuencias tuvo una decisión fuera de la institución que la tomó. [1–25]
 

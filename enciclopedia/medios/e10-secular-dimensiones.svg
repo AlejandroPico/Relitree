@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="325" viewBox="0 0 720 325" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Tres dimensiones del cambio religioso</title>
+  <desc id="descripcion">Tres dimensiones del cambio religioso. Indicadores para reconocer qué mide cada estudio. Atribuciones públicas. Registro civil, enseñanza y normas que regulan la cooperación.. Capacidad institucional. Congregaciones activas, recursos y redes escolares o asistenciales.. Identidad y conducta. Adscripción declarada, asistencia, oración y otras creencias o prácticas..</desc>
+  <rect width="720" height="325" fill="#faf8f1"/>
+  <g font-family="system-ui, sans-serif" fill="#202d36">
+    <text x="30" y="45" font-size="26" font-weight="700">Tres dimensiones del cambio religioso</text>
+    <text x="30" y="73" font-size="16" fill="#4b5b61">Indicadores para reconocer qué mide cada estudio</text>
+    <rect x="30" y="94" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="94" width="3" height="64" fill="#376764"/>
+    <text x="44" y="123" font-size="16" font-weight="700" fill="#254d4b">Atribuciones públicas</text>
+    <text x="228" y="120" font-size="16">Registro civil, enseñanza y normas que regulan la</text>
+    <text x="228" y="142" font-size="16">cooperación.</text>
+    <rect x="30" y="166" width="660" height="64" fill="#f4eee3"/>
+    <rect x="30" y="166" width="3" height="64" fill="#376764"/>
+    <text x="44" y="195" font-size="16" font-weight="700" fill="#254d4b">Capacidad institucional</text>
+    <text x="228" y="192" font-size="16">Congregaciones activas, recursos y redes escolares o</text>
+    <text x="228" y="214" font-size="16">asistenciales.</text>
+    <rect x="30" y="238" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="238" width="3" height="64" fill="#376764"/>
+    <text x="44" y="267" font-size="16" font-weight="700" fill="#254d4b">Identidad y conducta</text>
+    <text x="228" y="264" font-size="16">Adscripción declarada, asistencia, oración y otras</text>
+    <text x="228" y="286" font-size="16">creencias o prácticas.</text>
+  </g>
+</svg>

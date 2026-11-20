@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="397" viewBox="0 0 720 397" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Cuatro preguntas para examinar una decisión</title>
+  <desc id="descripcion">Cuatro preguntas para examinar una decisión. Principios de la enseñanza social católica. Dignidad. ¿Cómo afecta la medida a cada persona y a su capacidad de actuar?. Bien común. ¿Qué condiciones facilita para que la comunidad pueda desarrollarse?. Solidaridad. ¿Quién responde ante costes y daños que recaen sobre otros?. Subsidiariedad. ¿Qué órgano puede actuar y qué apoyo necesita para hacerlo?.</desc>
+  <rect width="720" height="397" fill="#faf8f1"/>
+  <g font-family="system-ui, sans-serif" fill="#202d36">
+    <text x="30" y="45" font-size="26" font-weight="700">Cuatro preguntas para examinar una decisión</text>
+    <text x="30" y="73" font-size="16" fill="#4b5b61">Principios de la enseñanza social católica</text>
+    <rect x="30" y="94" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="94" width="3" height="64" fill="#376764"/>
+    <text x="44" y="123" font-size="16" font-weight="700" fill="#254d4b">Dignidad</text>
+    <text x="228" y="120" font-size="16">¿Cómo afecta la medida a cada persona y a su</text>
+    <text x="228" y="142" font-size="16">capacidad de actuar?</text>
+    <rect x="30" y="166" width="660" height="64" fill="#f4eee3"/>
+    <rect x="30" y="166" width="3" height="64" fill="#376764"/>
+    <text x="44" y="195" font-size="16" font-weight="700" fill="#254d4b">Bien común</text>
+    <text x="228" y="192" font-size="16">¿Qué condiciones facilita para que la comunidad pueda</text>
+    <text x="228" y="214" font-size="16">desarrollarse?</text>
+    <rect x="30" y="238" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="238" width="3" height="64" fill="#376764"/>
+    <text x="44" y="267" font-size="16" font-weight="700" fill="#254d4b">Solidaridad</text>
+    <text x="228" y="264" font-size="16">¿Quién responde ante costes y daños que recaen sobre</text>
+    <text x="228" y="286" font-size="16">otros?</text>
+    <rect x="30" y="310" width="660" height="64" fill="#f4eee3"/>
+    <rect x="30" y="310" width="3" height="64" fill="#376764"/>
+    <text x="44" y="339" font-size="16" font-weight="700" fill="#254d4b">Subsidiariedad</text>
+    <text x="228" y="336" font-size="16">¿Qué órgano puede actuar y qué apoyo necesita para</text>
+    <text x="228" y="358" font-size="16">hacerlo?</text>
+  </g>
+</svg>

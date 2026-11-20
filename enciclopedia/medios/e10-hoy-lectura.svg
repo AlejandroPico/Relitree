@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="397" viewBox="0 0 720 397" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Cuatro escalas para leer el cristianismo hoy</title>
+  <desc id="descripcion">Cuatro escalas para leer el cristianismo hoy. Cada escala aporta un tipo de evidencia. Población. Censos y encuestas estiman adscripción con una definición común.. Tradición. Los registros de las iglesias describen pertenencia, cargos y organización.. Comunidad. Archivos y observación local permiten seguir vínculos y servicios.. Vida pública. Normas, convenios e informes muestran responsabilidades y ámbitos de actuación..</desc>
+  <rect width="720" height="397" fill="#faf8f1"/>
+  <g font-family="system-ui, sans-serif" fill="#202d36">
+    <text x="30" y="45" font-size="26" font-weight="700">Cuatro escalas para leer el cristianismo hoy</text>
+    <text x="30" y="73" font-size="16" fill="#4b5b61">Cada escala aporta un tipo de evidencia</text>
+    <rect x="30" y="94" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="94" width="3" height="64" fill="#376764"/>
+    <text x="44" y="123" font-size="16" font-weight="700" fill="#254d4b">Población</text>
+    <text x="228" y="120" font-size="16">Censos y encuestas estiman adscripción con una</text>
+    <text x="228" y="142" font-size="16">definición común.</text>
+    <rect x="30" y="166" width="660" height="64" fill="#f4eee3"/>
+    <rect x="30" y="166" width="3" height="64" fill="#376764"/>
+    <text x="44" y="195" font-size="16" font-weight="700" fill="#254d4b">Tradición</text>
+    <text x="228" y="192" font-size="16">Los registros de las iglesias describen pertenencia,</text>
+    <text x="228" y="214" font-size="16">cargos y organización.</text>
+    <rect x="30" y="238" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="238" width="3" height="64" fill="#376764"/>
+    <text x="44" y="267" font-size="16" font-weight="700" fill="#254d4b">Comunidad</text>
+    <text x="228" y="264" font-size="16">Archivos y observación local permiten seguir vínculos</text>
+    <text x="228" y="286" font-size="16">y servicios.</text>
+    <rect x="30" y="310" width="660" height="64" fill="#f4eee3"/>
+    <rect x="30" y="310" width="3" height="64" fill="#376764"/>
+    <text x="44" y="339" font-size="16" font-weight="700" fill="#254d4b">Vida pública</text>
+    <text x="228" y="336" font-size="16">Normas, convenios e informes muestran</text>
+    <text x="228" y="358" font-size="16">responsabilidades y ámbitos de actuación.</text>
+  </g>
+</svg>

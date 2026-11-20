@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="541" viewBox="0 0 720 541" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Un recorrido por la enseñanza social católica</title>
+  <desc id="descripcion">Un recorrido por la enseñanza social católica. Cronología selectiva de documentos. 1891. Rerum novarum · trabajo y asociaciones.. 1931. Quadragesimo anno · concentración económica y subsidiariedad.. 1963 · 1965. Pacem in terris y Gaudium et spes · derechos humanos y vida pública.. 1967. Populorum progressio · desarrollo entre países.. 1981–1991. Tres encíclicas de Juan Pablo II sobre trabajo, desarrollo y economía.. 2015 · 2020. Laudato si’ y Fratelli tutti · ecología integral y fraternidad..</desc>
+  <rect width="720" height="541" fill="#faf8f1"/>
+  <g font-family="system-ui, sans-serif" fill="#202d36">
+    <text x="30" y="45" font-size="26" font-weight="700">Un recorrido por la enseñanza social católica</text>
+    <text x="30" y="73" font-size="16" fill="#4b5b61">Cronología selectiva de documentos</text>
+    <rect x="30" y="94" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="94" width="3" height="64" fill="#376764"/>
+    <text x="44" y="123" font-size="16" font-weight="700" fill="#254d4b">1891</text>
+    <text x="228" y="120" font-size="16">Rerum novarum · trabajo y asociaciones.</text>
+    <rect x="30" y="166" width="660" height="64" fill="#f4eee3"/>
+    <rect x="30" y="166" width="3" height="64" fill="#376764"/>
+    <text x="44" y="195" font-size="16" font-weight="700" fill="#254d4b">1931</text>
+    <text x="228" y="192" font-size="16">Quadragesimo anno · concentración económica y</text>
+    <text x="228" y="214" font-size="16">subsidiariedad.</text>
+    <rect x="30" y="238" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="238" width="3" height="64" fill="#376764"/>
+    <text x="44" y="267" font-size="16" font-weight="700" fill="#254d4b">1963 · 1965</text>
+    <text x="228" y="264" font-size="16">Pacem in terris y Gaudium et spes · derechos humanos</text>
+    <text x="228" y="286" font-size="16">y vida pública.</text>
+    <rect x="30" y="310" width="660" height="64" fill="#f4eee3"/>
+    <rect x="30" y="310" width="3" height="64" fill="#376764"/>
+    <text x="44" y="339" font-size="16" font-weight="700" fill="#254d4b">1967</text>
+    <text x="228" y="336" font-size="16">Populorum progressio · desarrollo entre países.</text>
+    <rect x="30" y="382" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="382" width="3" height="64" fill="#376764"/>
+    <text x="44" y="411" font-size="16" font-weight="700" fill="#254d4b">1981–1991</text>
+    <text x="228" y="408" font-size="16">Tres encíclicas de Juan Pablo II sobre trabajo,</text>
+    <text x="228" y="430" font-size="16">desarrollo y economía.</text>
+    <rect x="30" y="454" width="660" height="64" fill="#f4eee3"/>
+    <rect x="30" y="454" width="3" height="64" fill="#376764"/>
+    <text x="44" y="483" font-size="16" font-weight="700" fill="#254d4b">2015 · 2020</text>
+    <text x="228" y="480" font-size="16">Laudato si’ y Fratelli tutti · ecología integral y</text>
+    <text x="228" y="502" font-size="16">fraternidad.</text>
+  </g>
+</svg>

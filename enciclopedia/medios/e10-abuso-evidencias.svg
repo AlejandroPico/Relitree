@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="469" viewBox="0 0 720 469" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Qué permite examinar cada fuente</title>
+  <desc id="descripcion">Qué permite examinar cada fuente. El contexto y el alcance acompañan siempre a la evidencia. Testimonio. Relata lo vivido y puede indicar cómo se comunicó y recibió.. Archivo. Conserva hechos registrados, actuaciones y ausencias en la documentación.. Encuesta. Estima experiencias declaradas para una población definida.. Investigación pública. Reconstruye patrones bajo un mandato y un periodo explícitos.. Resolución judicial. Decide los hechos y responsabilidades sometidos al procedimiento..</desc>
+  <rect width="720" height="469" fill="#faf8f1"/>
+  <g font-family="system-ui, sans-serif" fill="#202d36">
+    <text x="30" y="45" font-size="26" font-weight="700">Qué permite examinar cada fuente</text>
+    <text x="30" y="73" font-size="16" fill="#4b5b61">El contexto y el alcance acompañan siempre a la evidencia</text>
+    <rect x="30" y="94" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="94" width="3" height="64" fill="#376764"/>
+    <text x="44" y="123" font-size="16" font-weight="700" fill="#254d4b">Testimonio</text>
+    <text x="228" y="120" font-size="16">Relata lo vivido y puede indicar cómo se comunicó y</text>
+    <text x="228" y="142" font-size="16">recibió.</text>
+    <rect x="30" y="166" width="660" height="64" fill="#f4eee3"/>
+    <rect x="30" y="166" width="3" height="64" fill="#376764"/>
+    <text x="44" y="195" font-size="16" font-weight="700" fill="#254d4b">Archivo</text>
+    <text x="228" y="192" font-size="16">Conserva hechos registrados, actuaciones y ausencias</text>
+    <text x="228" y="214" font-size="16">en la documentación.</text>
+    <rect x="30" y="238" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="238" width="3" height="64" fill="#376764"/>
+    <text x="44" y="267" font-size="16" font-weight="700" fill="#254d4b">Encuesta</text>
+    <text x="228" y="264" font-size="16">Estima experiencias declaradas para una población</text>
+    <text x="228" y="286" font-size="16">definida.</text>
+    <rect x="30" y="310" width="660" height="64" fill="#f4eee3"/>
+    <rect x="30" y="310" width="3" height="64" fill="#376764"/>
+    <text x="44" y="339" font-size="16" font-weight="700" fill="#254d4b">Investigación pública</text>
+    <text x="228" y="336" font-size="16">Reconstruye patrones bajo un mandato y un periodo</text>
+    <text x="228" y="358" font-size="16">explícitos.</text>
+    <rect x="30" y="382" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="382" width="3" height="64" fill="#376764"/>
+    <text x="44" y="411" font-size="16" font-weight="700" fill="#254d4b">Resolución judicial</text>
+    <text x="228" y="408" font-size="16">Decide los hechos y responsabilidades sometidos al</text>
+    <text x="228" y="430" font-size="16">procedimiento.</text>
+  </g>
+</svg>

@@ -180,7 +180,7 @@ Estado editorial: fase cerrada, 13 de 13 artículos publicados. La visión de co
 
 ## Fase E10 · Cristianismo · Edad contemporánea
 
-Estado editorial: en curso, 7 de 13 artículos publicados. Entregas 10.0–10.3 incorporadas en la versión 1.7.33.
+Estado editorial: completo, 13 de 13 artículos publicados. Entregas 10.0–10.6 incorporadas hasta la versión 1.7.34.
 
 - [x] 10.0 · [El cristianismo en la Edad Contemporánea · Visión de conjunto](es/religiones/cristianismo/edad-contemporanea/panorama.md)
 - [x] 10.1 · [Ilustración, revolución y anticlericalismo](es/religiones/cristianismo/edad-contemporanea/ilustracion-revolucion-y-anticlericalismo.md)
@@ -189,12 +189,12 @@ Estado editorial: en curso, 7 de 13 artículos publicados. Entregas 10.0–10.3 
 - [x] 10.2 · [Persecución bajo regímenes comunistas](es/religiones/cristianismo/edad-contemporanea/persecucion-bajo-regimenes-comunistas.md)
 - [x] 10.3 · [Teología liberal y fundamentalismo](es/religiones/cristianismo/edad-contemporanea/teologia-liberal-y-fundamentalismo.md)
 - [x] 10.3 · [Pentecostalismo y movimiento carismático](es/religiones/cristianismo/edad-contemporanea/pentecostalismo-y-movimiento-carismatico.md)
-- [ ] 10.4 · El movimiento ecuménico
-- [ ] 10.4 · Doctrina social de la Iglesia
-- [ ] 10.5 · Mujer e iglesias
-- [ ] 10.5 · Los abusos sexuales y su encubrimiento
-- [ ] 10.6 · Secularización de Occidente
-- [ ] 10.6 · El cristianismo hoy
+- [x] 10.4 · [El movimiento ecuménico](es/religiones/cristianismo/edad-contemporanea/el-movimiento-ecumenico.md)
+- [x] 10.4 · [Doctrina social de la Iglesia](es/religiones/cristianismo/edad-contemporanea/doctrina-social-de-la-iglesia.md)
+- [x] 10.5 · [Mujer e iglesias](es/religiones/cristianismo/edad-contemporanea/mujer-e-iglesias.md)
+- [x] 10.5 · [Los abusos sexuales y su encubrimiento](es/religiones/cristianismo/edad-contemporanea/los-abusos-sexuales-y-su-encubrimiento.md)
+- [x] 10.6 · [Secularización de Occidente](es/religiones/cristianismo/edad-contemporanea/secularizacion-de-occidente.md)
+- [x] 10.6 · [El cristianismo hoy](es/religiones/cristianismo/edad-contemporanea/el-cristianismo-hoy.md)
 
 ## Fase E11 · Cristianismo · Los papas (I)
 

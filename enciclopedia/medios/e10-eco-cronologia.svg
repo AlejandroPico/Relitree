@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="541" viewBox="0 0 720 541" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Hitos del ecumenismo contemporáneo</title>
+  <desc id="descripcion">Hitos del ecumenismo contemporáneo. Cronología selectiva · distancia uniforme entre filas. 1910. Edimburgo reúne a sociedades misioneras.. 1925 · 1927. Vida y Acción en Estocolmo; Fe y Constitución en Lausana.. 1948. Se constituye el Consejo Mundial de Iglesias en Ámsterdam.. 1964 · 1965. Decreto del Vaticano II y declaración de Pablo VI y Atenágoras.. 1982. Fe y Constitución adopta el documento de Lima.. 1999. Católicos y luteranos firman la declaración sobre la justificación..</desc>
+  <rect width="720" height="541" fill="#faf8f1"/>
+  <g font-family="system-ui, sans-serif" fill="#202d36">
+    <text x="30" y="45" font-size="26" font-weight="700">Hitos del ecumenismo contemporáneo</text>
+    <text x="30" y="73" font-size="16" fill="#4b5b61">Cronología selectiva · distancia uniforme entre filas</text>
+    <rect x="30" y="94" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="94" width="3" height="64" fill="#376764"/>
+    <text x="44" y="123" font-size="16" font-weight="700" fill="#254d4b">1910</text>
+    <text x="228" y="120" font-size="16">Edimburgo reúne a sociedades misioneras.</text>
+    <rect x="30" y="166" width="660" height="64" fill="#f4eee3"/>
+    <rect x="30" y="166" width="3" height="64" fill="#376764"/>
+    <text x="44" y="195" font-size="16" font-weight="700" fill="#254d4b">1925 · 1927</text>
+    <text x="228" y="192" font-size="16">Vida y Acción en Estocolmo; Fe y Constitución en</text>
+    <text x="228" y="214" font-size="16">Lausana.</text>
+    <rect x="30" y="238" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="238" width="3" height="64" fill="#376764"/>
+    <text x="44" y="267" font-size="16" font-weight="700" fill="#254d4b">1948</text>
+    <text x="228" y="264" font-size="16">Se constituye el Consejo Mundial de Iglesias en</text>
+    <text x="228" y="286" font-size="16">Ámsterdam.</text>
+    <rect x="30" y="310" width="660" height="64" fill="#f4eee3"/>
+    <rect x="30" y="310" width="3" height="64" fill="#376764"/>
+    <text x="44" y="339" font-size="16" font-weight="700" fill="#254d4b">1964 · 1965</text>
+    <text x="228" y="336" font-size="16">Decreto del Vaticano II y declaración de Pablo VI y</text>
+    <text x="228" y="358" font-size="16">Atenágoras.</text>
+    <rect x="30" y="382" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="382" width="3" height="64" fill="#376764"/>
+    <text x="44" y="411" font-size="16" font-weight="700" fill="#254d4b">1982</text>
+    <text x="228" y="408" font-size="16">Fe y Constitución adopta el documento de Lima.</text>
+    <rect x="30" y="454" width="660" height="64" fill="#f4eee3"/>
+    <rect x="30" y="454" width="3" height="64" fill="#376764"/>
+    <text x="44" y="483" font-size="16" font-weight="700" fill="#254d4b">1999</text>
+    <text x="228" y="480" font-size="16">Católicos y luteranos firman la declaración sobre la</text>
+    <text x="228" y="502" font-size="16">justificación.</text>
+  </g>
+</svg>

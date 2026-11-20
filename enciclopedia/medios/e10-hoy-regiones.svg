@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="274" viewBox="0 0 720 274" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Población cristiana en tres regiones</title>
+  <desc id="descripcion">Estimaciones de población cristiana en 2020. África subsahariana, unos 697 millones. Europa, unos 505 millones. Norteamérica, unos 238 millones.</desc>
+  <rect width="720" height="274" fill="#faf8f1"/>
+  <g font-family="system-ui, sans-serif" fill="#202d36">
+    <text x="30" y="45" font-size="26" font-weight="700">Población cristiana en tres regiones</text>
+    <text x="30" y="73" font-size="16" fill="#4b5b61">Estimación en millones · año 2020 · Pew Research Center</text>
+    <text x="30" y="120" font-size="16" font-weight="650">África subsahariana</text>
+    <rect x="250" y="101" width="331" height="26" fill="#e7eae1"/>
+    <rect x="250" y="101" width="330" height="26" fill="#376764"/>
+    <text x="600" y="120" font-size="17" font-weight="700">697</text>
+    <text x="30" y="170" font-size="16" font-weight="650">Europa</text>
+    <rect x="250" y="151" width="331" height="26" fill="#e7eae1"/>
+    <rect x="250" y="151" width="239" height="26" fill="#376764"/>
+    <text x="600" y="170" font-size="17" font-weight="700">505</text>
+    <text x="30" y="220" font-size="16" font-weight="650">Norteamérica</text>
+    <rect x="250" y="201" width="331" height="26" fill="#e7eae1"/>
+    <rect x="250" y="201" width="113" height="26" fill="#376764"/>
+    <text x="600" y="220" font-size="17" font-weight="700">238</text>
+  </g>
+</svg>

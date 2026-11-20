@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="325" viewBox="0 0 720 325" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Tres investigaciones, tres maneras de contar</title>
+  <desc id="descripcion">Tres investigaciones, tres maneras de contar. Cada cifra lleva su periodo, población y significado. Francia · CIASE. 216.000 personas estimadas por abusos de clérigos o religiosos, 1950–2020.. Australia · Comisión. 7 % ponderado de sacerdotes católicos con alegaciones, 1950–2010.. España · Defensor. Encuesta: 0,6 % por sacerdote o religioso católico; 1,13 % en ámbito religioso..</desc>
+  <rect width="720" height="325" fill="#faf8f1"/>
+  <g font-family="system-ui, sans-serif" fill="#202d36">
+    <text x="30" y="45" font-size="26" font-weight="700">Tres investigaciones, tres maneras de contar</text>
+    <text x="30" y="73" font-size="16" fill="#4b5b61">Cada cifra lleva su periodo, población y significado</text>
+    <rect x="30" y="94" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="94" width="3" height="64" fill="#376764"/>
+    <text x="44" y="123" font-size="16" font-weight="700" fill="#254d4b">Francia · CIASE</text>
+    <text x="228" y="120" font-size="16">216.000 personas estimadas por abusos de clérigos o</text>
+    <text x="228" y="142" font-size="16">religiosos, 1950–2020.</text>
+    <rect x="30" y="166" width="660" height="64" fill="#f4eee3"/>
+    <rect x="30" y="166" width="3" height="64" fill="#376764"/>
+    <text x="44" y="195" font-size="16" font-weight="700" fill="#254d4b">Australia · Comisión</text>
+    <text x="228" y="192" font-size="16">7 % ponderado de sacerdotes católicos con</text>
+    <text x="228" y="214" font-size="16">alegaciones, 1950–2010.</text>
+    <rect x="30" y="238" width="660" height="64" fill="#e8eeea"/>
+    <rect x="30" y="238" width="3" height="64" fill="#376764"/>
+    <text x="44" y="267" font-size="16" font-weight="700" fill="#254d4b">España · Defensor</text>
+    <text x="228" y="264" font-size="16">Encuesta: 0,6 % por sacerdote o religioso católico;</text>
+    <text x="228" y="286" font-size="16">1,13 % en ámbito religioso.</text>
+  </g>
+</svg>
