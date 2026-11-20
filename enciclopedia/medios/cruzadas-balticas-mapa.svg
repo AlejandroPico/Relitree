@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 495" role="img" aria-labelledby="title description">
+  <title id="title">Cruzadas bálticas · Mapa</title>
+  <desc id="description">Rügen, Demmin, Gdańsk, Marienburgo, Grunwald, Königsberg, Vilna, Durbe, Riga, Tallin, Saaremaa, Peipus</desc>
+  <rect width="760" height="495" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #243532 }
+    .title { font-size: 27px; font-weight: 720 }
+    .note { font-size: 15px; fill: #435653 }
+    .date { font-size: 17px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 18px; font-weight: 520 }
+    .place { font-size: 16px; font-weight: 650; paint-order: stroke; stroke: #f7f4ec; stroke-width: 3px; stroke-linejoin: round }
+    .water { font-size: 17px; font-weight: 570; fill: #466875; font-style: italic }
+  </style>
+  <text x="28" y="45" class="title">Cruzadas bálticas · Mapa</text>
+  <text x="28" y="72" class="note">Localización aproximada de plazas, islas y enfrentamientos · sin fronteras históricas</text>
+  <defs><clipPath id="map-clip"><rect x="30" y="86" width="700" height="365"/></clipPath></defs>
+  <rect x="30" y="86" width="700" height="365" fill="#eae3d2"/>
+  <g clip-path="url(#map-clip)">
+    <polygon points="-18.7,216.8 8.7,237.5 57.4,223.7 84.8,220.3 93.9,244.4 81.7,275.4 81.7,299.5 104.6,302.2 126.8,327.0 163.3,338.1 188.0,346.3 224.8,339.1 259.5,330.1 315.2,320.2 331.3,335.6 361.4,332.9 364.8,321.9 385.5,300.9 396.4,279.9 395.8,262.6 393.7,236.5 419.0,224.1 445.1,218.9 459.7,238.5 487.7,242.7 500.5,213.8 481.7,197.2 471.3,189.3 468.6,170.7 497.8,157.6 538.0,157.6 583.0,160.0 613.1,150.4 666.4,143.2 625.0,122.8 576.3,125.6 534.3,133.9 486.5,145.9 439.0,143.2 413.5,131.1 401.3,86.7 372.4,-3.5 310.0,30.9 283.5,75.7 282.6,121.8 328.3,149.0 324.0,168.0 285.0,184.1 261.9,207.6 264.3,238.5 242.7,274.4 203.5,273.7 154.8,300.2 143.5,273.7 121.6,244.7 118.9,219.6 87.8,183.1 43.7,173.8 2.6,204.5" fill="#dcebee" stroke="#9daea4" stroke-width="1.2" stroke-linejoin="round"/>
+    <polygon points="425.7,209.3 421.4,194.5 446.7,187.2 464.6,191.4 450.0,203.1" fill="#eae3d2" stroke="#9daea4" stroke-width="1.2" stroke-linejoin="round"/>
+    <polygon points="305.1,238.9 309.7,217.9 338.6,211.3 321.9,234.1" fill="#eae3d2" stroke="#9daea4" stroke-width="1.2" stroke-linejoin="round"/>
+    <polygon points="132.0,316.0 111.9,311.2 98.5,290.2 137.7,280.9" fill="#eae3d2" stroke="#9daea4" stroke-width="1.2" stroke-linejoin="round"/>
+    <text x="323.7" y="216.8" text-anchor="middle" class="water">Mar Báltico</text>
+  </g>
+  <rect x="30" y="86" width="700" height="365" fill="none" stroke="#a8b9b6"/>
+  <circle cx="163.9" cy="333.9" r="4.4" fill="#22665a" stroke="#f7f4ec" stroke-width="1.4"/>
+  <text x="154.9" y="321.9" class="place" text-anchor="end">Rügen</text>
+  <circle cx="152.7" cy="351.1" r="4.4" fill="#22665a" stroke="#f7f4ec" stroke-width="1.4"/>
+  <text x="142.7" y="368.1" class="place" text-anchor="end">Demmin</text>
+  <circle cx="323.7" cy="335.6" r="4.4" fill="#22665a" stroke="#f7f4ec" stroke-width="1.4"/>
+  <text x="312.7" y="325.6" class="place" text-anchor="end">Gdańsk</text>
+  <circle cx="335.3" cy="346.3" r="4.4" fill="#22665a" stroke="#f7f4ec" stroke-width="1.4"/>
+  <text x="325.3" y="375.3" class="place" text-anchor="end">Marienburgo</text>
+  <circle cx="367.5" cy="365.6" r="4.4" fill="#22665a" stroke="#f7f4ec" stroke-width="1.4"/>
+  <text x="377.5" y="383.6" class="place">Grunwald</text>
+  <circle cx="380.3" cy="323.3" r="4.4" fill="#22665a" stroke="#f7f4ec" stroke-width="1.4"/>
+  <text x="390.3" y="314.3" class="place">Königsberg</text>
+  <circle cx="525.5" cy="323.9" r="4.4" fill="#22665a" stroke="#f7f4ec" stroke-width="1.4"/>
+  <text x="534.5" y="339.9" class="place">Vilna</text>
+  <circle cx="406.5" cy="258.5" r="4.4" fill="#22665a" stroke="#f7f4ec" stroke-width="1.4"/>
+  <text x="396.5" y="248.5" class="place" text-anchor="end">Durbe</text>
+  <circle cx="489.9" cy="246.1" r="4.4" fill="#22665a" stroke="#f7f4ec" stroke-width="1.4"/>
+  <text x="499.9" y="260.1" class="place">Riga</text>
+  <circle cx="509.3" cy="160.4" r="4.4" fill="#22665a" stroke="#f7f4ec" stroke-width="1.4"/>
+  <text x="518.3" y="150.4" class="place">Tallin</text>
+  <circle cx="441.5" cy="197.2" r="4.4" fill="#22665a" stroke="#f7f4ec" stroke-width="1.4"/>
+  <text x="429.5" y="215.2" class="place" text-anchor="end">Saaremaa</text>
+  <circle cx="593" cy="184.8" r="4.4" fill="#22665a" stroke="#f7f4ec" stroke-width="1.4"/>
+  <text x="603.0" y="201.8" class="place">Peipus</text>
+  <text x="30" y="479" class="note">Geografía actual simplificada · cartografía esquemática de Relitree</text>
+</svg>

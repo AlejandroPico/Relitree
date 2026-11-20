@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 476" role="img" aria-labelledby="title description">
+  <title id="title">Cruzadas bálticas · Cronología</title>
+  <desc id="description">1147. Expedición contra los vendos. 1201–1202. Fundación de Riga y de los Hermanos de la Espada. 1219. Intervención danesa en Tallin. 1236–1237. Derrota en Saule y paso a la Orden Teutónica. 1260. Durbe y gran levantamiento prusiano. 1386–1387. Bautismo de Jogaila y organización católica lituana. 1410. Victoria polaco-lituana en Grunwald. 1422. Acuerdos de frontera en el tratado de Melno</desc>
+  <rect width="760" height="476" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #243532 }
+    .title { font-size: 27px; font-weight: 720 }
+    .note { font-size: 15px; fill: #435653 }
+    .date { font-size: 17px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 18px; font-weight: 520 }
+    .place { font-size: 16px; font-weight: 650; paint-order: stroke; stroke: #f7f4ec; stroke-width: 3px; stroke-linejoin: round }
+    .water { font-size: 17px; font-weight: 570; fill: #466875; font-style: italic }
+  </style>
+  <text x="28" y="45" class="title">Cruzadas bálticas · Cronología</text>
+  <text x="28" y="73" class="note">Hitos seleccionados · intervalos sin escala proporcional</text>
+  <path d="M213 117V443" stroke="#8ca39c" stroke-width="3"/>
+  <text x="194" y="123" class="date" text-anchor="end">1147</text>
+  <circle cx="213" cy="117" r="5" fill="#267568"/>
+  <text x="237" y="123" class="item"><tspan x="237" dy="0">Expedición contra los vendos</tspan></text>
+  <text x="194" y="168" class="date" text-anchor="end">1201–1202</text>
+  <circle cx="213" cy="162" r="5" fill="#267568"/>
+  <text x="237" y="168" class="item"><tspan x="237" dy="0">Fundación de Riga y de los Hermanos de la Espada</tspan></text>
+  <text x="194" y="213" class="date" text-anchor="end">1219</text>
+  <circle cx="213" cy="207" r="5" fill="#267568"/>
+  <text x="237" y="213" class="item"><tspan x="237" dy="0">Intervención danesa en Tallin</tspan></text>
+  <text x="194" y="258" class="date" text-anchor="end">1236–1237</text>
+  <circle cx="213" cy="252" r="5" fill="#267568"/>
+  <text x="237" y="258" class="item"><tspan x="237" dy="0">Derrota en Saule y paso a la Orden Teutónica</tspan></text>
+  <text x="194" y="303" class="date" text-anchor="end">1260</text>
+  <circle cx="213" cy="297" r="5" fill="#267568"/>
+  <text x="237" y="303" class="item"><tspan x="237" dy="0">Durbe y gran levantamiento prusiano</tspan></text>
+  <text x="194" y="348" class="date" text-anchor="end">1386–1387</text>
+  <circle cx="213" cy="342" r="5" fill="#267568"/>
+  <text x="237" y="348" class="item"><tspan x="237" dy="0">Bautismo de Jogaila y organización católica lituana</tspan></text>
+  <text x="194" y="393" class="date" text-anchor="end">1410</text>
+  <circle cx="213" cy="387" r="5" fill="#267568"/>
+  <text x="237" y="393" class="item"><tspan x="237" dy="0">Victoria polaco-lituana en Grunwald</tspan></text>
+  <text x="194" y="438" class="date" text-anchor="end">1422</text>
+  <circle cx="213" cy="432" r="5" fill="#267568"/>
+  <text x="237" y="438" class="item"><tspan x="237" dy="0">Acuerdos de frontera en el tratado de Melno</tspan></text>
+</svg>

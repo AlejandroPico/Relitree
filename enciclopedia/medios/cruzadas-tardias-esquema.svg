@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 301" role="img" aria-labelledby="title description">
+  <title id="title">Cruzadas tardías · Tres resultados</title>
+  <desc id="description">Esmirna, 1344. Una liga ocupó el puerto y asumió el coste de sostener la posición. Varna, 1444. La coalición lanzó una campaña y fue derrotada por Murad II. Ancona, 1464. La concentración impulsada por Pío II se interrumpió antes de que partiera la expedición.</desc>
+  <rect width="760" height="301" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #243532 }
+    .title { font-size: 27px; font-weight: 720 }
+    .note { font-size: 15px; fill: #435653 }
+    .date { font-size: 17px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 18px; font-weight: 520 }
+    .place { font-size: 16px; font-weight: 650; paint-order: stroke; stroke: #f7f4ec; stroke-width: 3px; stroke-linejoin: round }
+    .water { font-size: 17px; font-weight: 570; fill: #466875; font-style: italic }
+  </style>
+  <text x="28" y="45" class="title">Cruzadas tardías · Tres resultados</text>
+  <rect x="28" y="74" width="704" height="68" fill="#e1ebe5"/>
+  <text x="44" y="94" class="date">Esmirna, 1344</text>
+  <text x="44" y="117" class="item"><tspan x="44" dy="0">Una liga ocupó el puerto y asumió el coste de sostener la posición.</tspan></text>
+  <rect x="28" y="146" width="704" height="68" fill="#e9eee9"/>
+  <text x="44" y="166" class="date">Varna, 1444</text>
+  <text x="44" y="189" class="item"><tspan x="44" dy="0">La coalición lanzó una campaña y fue derrotada por Murad II.</tspan></text>
+  <rect x="28" y="218" width="704" height="68" fill="#e1ebe5"/>
+  <text x="44" y="238" class="date">Ancona, 1464</text>
+  <text x="44" y="261" class="item"><tspan x="44" dy="0">La concentración impulsada por Pío II se interrumpió antes de que partiera la</tspan><tspan x="44" dy="19">expedición.</tspan></text>
+</svg>

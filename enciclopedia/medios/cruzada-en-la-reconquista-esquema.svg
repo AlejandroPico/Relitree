@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 301" role="img" aria-labelledby="title description">
+  <title id="title">La cruzada en la Reconquista · Tres conceptos</title>
+  <desc id="description">Guerra y restauración. Los cronistas asociaron conquistas y restituciones a un pasado cristiano. Privilegios de cruzada. Cartas y bulas identifican el objetivo, los destinatarios y los beneficios concedidos. Reconquista. La historiografía posterior reunió varios siglos en una categoría común.</desc>
+  <rect width="760" height="301" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #243532 }
+    .title { font-size: 27px; font-weight: 720 }
+    .note { font-size: 15px; fill: #435653 }
+    .date { font-size: 17px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 18px; font-weight: 520 }
+    .place { font-size: 16px; font-weight: 650; paint-order: stroke; stroke: #f7f4ec; stroke-width: 3px; stroke-linejoin: round }
+    .water { font-size: 17px; font-weight: 570; fill: #466875; font-style: italic }
+  </style>
+  <text x="28" y="45" class="title">La cruzada en la Reconquista · Tres conceptos</text>
+  <rect x="28" y="74" width="704" height="68" fill="#e1ebe5"/>
+  <text x="44" y="94" class="date">Guerra y restauración</text>
+  <text x="44" y="117" class="item"><tspan x="44" dy="0">Los cronistas asociaron conquistas y restituciones a un pasado cristiano.</tspan></text>
+  <rect x="28" y="146" width="704" height="68" fill="#e9eee9"/>
+  <text x="44" y="166" class="date">Privilegios de cruzada</text>
+  <text x="44" y="189" class="item"><tspan x="44" dy="0">Cartas y bulas identifican el objetivo, los destinatarios y los beneficios</tspan><tspan x="44" dy="19">concedidos.</tspan></text>
+  <rect x="28" y="218" width="704" height="68" fill="#e1ebe5"/>
+  <text x="44" y="238" class="date">Reconquista</text>
+  <text x="44" y="261" class="item"><tspan x="44" dy="0">La historiografía posterior reunió varios siglos en una categoría común.</tspan></text>
+</svg>

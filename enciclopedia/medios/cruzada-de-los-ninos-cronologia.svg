@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 358" role="img" aria-labelledby="title description">
+  <title id="title">Cruzada de los Niños · Cronología</title>
+  <desc id="description">1212 · Francia. La crónica de Laon sitúa a Esteban en Saint-Denis. 1212 · Rin. Fuentes germánicas registran partidas de peregrinos. Agosto de 1212. Los anales documentan una llegada a Génova. Después de la llegada. Regreso, dispersión y otros destinos difíciles de seguir. Décadas posteriores. Alberico transmite el relato marítimo de Marsella</desc>
+  <rect width="760" height="358" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #243532 }
+    .title { font-size: 27px; font-weight: 720 }
+    .note { font-size: 15px; fill: #435653 }
+    .date { font-size: 17px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 18px; font-weight: 520 }
+    .place { font-size: 16px; font-weight: 650; paint-order: stroke; stroke: #f7f4ec; stroke-width: 3px; stroke-linejoin: round }
+    .water { font-size: 17px; font-weight: 570; fill: #466875; font-style: italic }
+  </style>
+  <text x="28" y="45" class="title">Cruzada de los Niños · Cronología</text>
+  <text x="28" y="73" class="note">Hitos seleccionados · intervalos sin escala proporcional</text>
+  <path d="M213 117V325" stroke="#8ca39c" stroke-width="3"/>
+  <text x="194" y="123" class="date" text-anchor="end">1212 · Francia</text>
+  <circle cx="213" cy="117" r="5" fill="#267568"/>
+  <text x="237" y="123" class="item"><tspan x="237" dy="0">La crónica de Laon sitúa a Esteban en Saint-Denis</tspan></text>
+  <text x="194" y="168" class="date" text-anchor="end">1212 · Rin</text>
+  <circle cx="213" cy="162" r="5" fill="#267568"/>
+  <text x="237" y="168" class="item"><tspan x="237" dy="0">Fuentes germánicas registran partidas de peregrinos</tspan></text>
+  <text x="194" y="213" class="date" text-anchor="end">Agosto de 1212</text>
+  <circle cx="213" cy="207" r="5" fill="#267568"/>
+  <text x="237" y="213" class="item"><tspan x="237" dy="0">Los anales documentan una llegada a Génova</tspan></text>
+  <text x="194" y="258" class="date" text-anchor="end">Después de la llegada</text>
+  <circle cx="213" cy="252" r="5" fill="#267568"/>
+  <text x="237" y="258" class="item"><tspan x="237" dy="0">Regreso, dispersión y otros destinos difíciles de</tspan><tspan x="237" dy="23">seguir</tspan></text>
+  <text x="194" y="320" class="date" text-anchor="end">Décadas posteriores</text>
+  <circle cx="213" cy="314" r="5" fill="#267568"/>
+  <text x="237" y="320" class="item"><tspan x="237" dy="0">Alberico transmite el relato marítimo de Marsella</tspan></text>
+</svg>

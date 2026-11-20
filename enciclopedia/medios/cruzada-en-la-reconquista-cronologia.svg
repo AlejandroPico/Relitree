@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 476" role="img" aria-labelledby="title description">
+  <title id="title">La cruzada en la Reconquista · Cronología</title>
+  <desc id="description">1064. Expedición de Barbastro y debate sobre su carácter. 1085. Toma de Toledo y restitución de la sede episcopal. 1118. Alfonso I toma Zaragoza. 1147. Una flota de cruzados participa en el sitio de Lisboa. 1212. Victoria de la coalición en las Navas de Tolosa. 1229–1248. Campañas en Mallorca, Valencia y el Guadalquivir. 1340–1344. Batalla del Salado y caída de Algeciras. 1482–1492. Guerra y entrega de Granada</desc>
+  <rect width="760" height="476" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #243532 }
+    .title { font-size: 27px; font-weight: 720 }
+    .note { font-size: 15px; fill: #435653 }
+    .date { font-size: 17px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 18px; font-weight: 520 }
+    .place { font-size: 16px; font-weight: 650; paint-order: stroke; stroke: #f7f4ec; stroke-width: 3px; stroke-linejoin: round }
+    .water { font-size: 17px; font-weight: 570; fill: #466875; font-style: italic }
+  </style>
+  <text x="28" y="45" class="title">La cruzada en la Reconquista · Cronología</text>
+  <text x="28" y="73" class="note">Hitos seleccionados · intervalos sin escala proporcional</text>
+  <path d="M213 117V443" stroke="#8ca39c" stroke-width="3"/>
+  <text x="194" y="123" class="date" text-anchor="end">1064</text>
+  <circle cx="213" cy="117" r="5" fill="#267568"/>
+  <text x="237" y="123" class="item"><tspan x="237" dy="0">Expedición de Barbastro y debate sobre su carácter</tspan></text>
+  <text x="194" y="168" class="date" text-anchor="end">1085</text>
+  <circle cx="213" cy="162" r="5" fill="#267568"/>
+  <text x="237" y="168" class="item"><tspan x="237" dy="0">Toma de Toledo y restitución de la sede episcopal</tspan></text>
+  <text x="194" y="213" class="date" text-anchor="end">1118</text>
+  <circle cx="213" cy="207" r="5" fill="#267568"/>
+  <text x="237" y="213" class="item"><tspan x="237" dy="0">Alfonso I toma Zaragoza</tspan></text>
+  <text x="194" y="258" class="date" text-anchor="end">1147</text>
+  <circle cx="213" cy="252" r="5" fill="#267568"/>
+  <text x="237" y="258" class="item"><tspan x="237" dy="0">Una flota de cruzados participa en el sitio de Lisboa</tspan></text>
+  <text x="194" y="303" class="date" text-anchor="end">1212</text>
+  <circle cx="213" cy="297" r="5" fill="#267568"/>
+  <text x="237" y="303" class="item"><tspan x="237" dy="0">Victoria de la coalición en las Navas de Tolosa</tspan></text>
+  <text x="194" y="348" class="date" text-anchor="end">1229–1248</text>
+  <circle cx="213" cy="342" r="5" fill="#267568"/>
+  <text x="237" y="348" class="item"><tspan x="237" dy="0">Campañas en Mallorca, Valencia y el Guadalquivir</tspan></text>
+  <text x="194" y="393" class="date" text-anchor="end">1340–1344</text>
+  <circle cx="213" cy="387" r="5" fill="#267568"/>
+  <text x="237" y="393" class="item"><tspan x="237" dy="0">Batalla del Salado y caída de Algeciras</tspan></text>
+  <text x="194" y="438" class="date" text-anchor="end">1482–1492</text>
+  <circle cx="213" cy="432" r="5" fill="#267568"/>
+  <text x="237" y="438" class="item"><tspan x="237" dy="0">Guerra y entrega de Granada</tspan></text>
+</svg>

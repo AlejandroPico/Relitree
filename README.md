@@ -1,8 +1,8 @@
 # Relitree
 
-**Versión 1.7.23**
+**Versión 1.7.24**
 
-La [enciclopedia](enciclopedia/PLAN.md#fase-e07--cristianismo--cruzadas-y-guerras-santas) reúne en «Cruzadas y guerras santas» la visión de conjunto, la cruzada popular y las expediciones de 1101, y las ocho cruzadas numeradas. Las seis incorporaciones incluyen mapas, cronologías y esquemas. El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
+La [enciclopedia](enciclopedia/PLAN.md#fase-e07--cristianismo--cruzadas-y-guerras-santas) completa «Cruzadas y guerras santas» con 15 artículos. Las entregas 7.6 y 7.7 incorporan la cruzada albigense, las cruzadas bálticas, la Cruzada de los Niños, las cruzadas tardías y la idea de cruzada en la Reconquista. «Los concilios · Visión de conjunto» abre el desplegable de concilios ecuménicos. El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
 
 El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto.
 

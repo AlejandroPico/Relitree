@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 301" role="img" aria-labelledby="title description">
+  <title id="title">Cruzada de los Niños · Los testimonios</title>
+  <desc id="description">Noticias próximas. Saint-Denis, el ámbito renano y la llegada a Génova se documentan por separado. Identidad discutida. La voz latina pueri admite sentidos ligados a la edad y la condición social. Relato posterior. El embarque, los naufragios y la venta narrados por Alberico requieren corroboración.</desc>
+  <rect width="760" height="301" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #243532 }
+    .title { font-size: 27px; font-weight: 720 }
+    .note { font-size: 15px; fill: #435653 }
+    .date { font-size: 17px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 18px; font-weight: 520 }
+    .place { font-size: 16px; font-weight: 650; paint-order: stroke; stroke: #f7f4ec; stroke-width: 3px; stroke-linejoin: round }
+    .water { font-size: 17px; font-weight: 570; fill: #466875; font-style: italic }
+  </style>
+  <text x="28" y="45" class="title">Cruzada de los Niños · Los testimonios</text>
+  <rect x="28" y="74" width="704" height="68" fill="#e1ebe5"/>
+  <text x="44" y="94" class="date">Noticias próximas</text>
+  <text x="44" y="117" class="item"><tspan x="44" dy="0">Saint-Denis, el ámbito renano y la llegada a Génova se documentan por</tspan><tspan x="44" dy="19">separado.</tspan></text>
+  <rect x="28" y="146" width="704" height="68" fill="#e9eee9"/>
+  <text x="44" y="166" class="date">Identidad discutida</text>
+  <text x="44" y="189" class="item"><tspan x="44" dy="0">La voz latina pueri admite sentidos ligados a la edad y la condición social.</tspan></text>
+  <rect x="28" y="218" width="704" height="68" fill="#e1ebe5"/>
+  <text x="44" y="238" class="date">Relato posterior</text>
+  <text x="44" y="261" class="item"><tspan x="44" dy="0">El embarque, los naufragios y la venta narrados por Alberico requieren</tspan><tspan x="44" dy="19">corroboración.</tspan></text>
+</svg>

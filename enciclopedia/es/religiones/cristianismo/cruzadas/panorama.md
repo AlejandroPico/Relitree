@@ -2,7 +2,7 @@
 estado: completo
 fase: E07
 orden: 0
-palabras: 5068
+palabras: 5132
 fuentes:
   - "https://www.cambridge.org/core/books/cambridge-history-of-the-crusades/historiography-of-the-crusades/8DDD37C4376EFA3EE79DA544287A2500"
   - "https://www.cambridge.org/core/books/abs/cambridge-history-of-the-crusades/origins-of-the-first-crusade/572F0D212BB327B19686A906DD96B5D5"
@@ -101,11 +101,13 @@ Luis IX de Francia dirigió dos campañas. La [[cristianismo/cruzadas/septima-cr
 
 ### El Báltico, al-Ándalus y el sur de Francia
 
-El vínculo entre cruzada y Jerusalén fue central para muchas generaciones de participantes. La autorización eclesiástica y los privilegios del voto llegaron también a campañas que seguían objetivos regionales. En 1147 se recurrió a la idea de cruzada en el norte de Europa, en un espacio donde gobernantes sajones y daneses y comunidades eslavas mantenían relaciones anteriores de comercio, guerra y negociación. Autorizar una campaña transformaba los argumentos de quienes defendían la guerra y podía ayudar a movilizar nuevas fuerzas. La historia de la cristianización báltica abarca también acuerdos, predicación y disputas por el gobierno de lugares sometidos. [1, 17, 18, 22]
+El vínculo entre cruzada y Jerusalén fue central para muchas generaciones de participantes. La autorización eclesiástica y los privilegios del voto llegaron también a campañas que seguían objetivos regionales. En 1147 se recurrió a la idea de cruzada en el norte de Europa, en un espacio donde gobernantes sajones y daneses y comunidades eslavas mantenían relaciones anteriores de comercio, guerra y negociación. Autorizar una campaña transformaba los argumentos de quienes defendían la guerra y podía ayudar a movilizar nuevas fuerzas. El estudio de las [[cristianismo/cruzadas/cruzadas-balticas|cruzadas bálticas]] y de la cristianización de esta región abarca también acuerdos, predicación y disputas por el gobierno de lugares sometidos. [1, 17, 18, 22]
 
-Durante la Segunda cruzada, una flota que navegaba hacia el Mediterráneo intervino en la conquista de Lisboa por Afonso Henriques en 1147. El relato conservado permite examinar el acuerdo entre el rey y los contingentes marítimos. El asedio formaba parte de las ambiciones de la monarquía portuguesa y ofreció a quienes iban hacia Oriente la posibilidad de participar en otra empresa reconocida como religiosa. La relación entre cruzada y expansión cristiana en la península ibérica se estudia campaña por campaña. Una guerra de frontera puede preceder a la adopción de privilegios, y un título usado en una época posterior puede resumir de forma imprecisa lo que decían los documentos contemporáneos. [1, 17, 18, 21, 25, 26]
+Durante la Segunda cruzada, una flota que navegaba hacia el Mediterráneo intervino en la conquista de Lisboa por Afonso Henriques en 1147. El relato conservado permite examinar el acuerdo entre el rey y los contingentes marítimos. El asedio formaba parte de las ambiciones de la monarquía portuguesa y ofreció a quienes iban hacia Oriente la posibilidad de participar en otra empresa reconocida como religiosa. La relación entre [[cristianismo/cruzadas/cruzada-en-la-reconquista|cruzada y expansión cristiana en la península ibérica]] se estudia campaña por campaña. Una guerra de frontera puede preceder a la adopción de privilegios, y un título usado en una época posterior puede resumir de forma imprecisa lo que decían los documentos contemporáneos. [1, 17, 18, 21, 25, 26]
 
-La cruzada albigense, iniciada en 1209, se dirigió contra territorios del sur de Francia cuyos gobernantes o habitantes se asociaban a la persistencia de la herejía. Las autoridades eclesiásticas definieron la legitimidad de la empresa y diversos poderes laicos actuaron según intereses propios. La guerra dio lugar a matanzas, cambios de señorío y la ampliación del poder regio francés. La presencia de una campaña autorizada contra otros cristianos obliga a observar el significado que adquirió el voto en la legislación y la predicación. Puede compararse con los conflictos expuestos en [[cristianismo/cismas-herejias/herejias-medievales|Herejías medievales]]. [1, 13, 30]
+La [[cristianismo/cruzadas/cruzada-albigense|cruzada albigense]], iniciada en 1209, se dirigió contra territorios del sur de Francia cuyos gobernantes o habitantes se asociaban a la persistencia de la herejía. Las autoridades eclesiásticas definieron la legitimidad de la empresa y diversos poderes laicos actuaron según intereses propios. La guerra dio lugar a matanzas, cambios de señorío y la ampliación del poder regio francés. La presencia de una campaña autorizada contra otros cristianos obliga a observar el significado que adquirió el voto en la legislación y la predicación. Puede compararse con los conflictos expuestos en [[cristianismo/cismas-herejias/herejias-medievales|Herejías medievales]]. [1, 13, 30]
+
+La [[cristianismo/cruzadas/cruzada-de-los-ninos|Cruzada de los Niños]] de 1212 reúne testimonios sobre movimientos populares en Francia y en tierras del Rin. Su estudio distingue las noticias contemporáneas sobre los grupos y lugares de los episodios añadidos en relatos posteriores.
 
 ### Autorización y disputas dentro de la cristiandad latina
 
@@ -114,6 +116,8 @@ Hubo empresas contra adversarios políticos del papado. Para estudiar cómo se l
 Los votos podían conmutarse o cumplirse en una región distinta cuando las autoridades lo permitían. Los mecanismos de financiación evolucionaron e incluyeron subvenciones y aportaciones relacionadas con la predicación y los beneficios espirituales. En etapas tardías se plantearon cuestiones vinculadas a la contratación de fuerzas, a la protección de las rutas marítimas y al acuerdo entre gobernantes cristianos enfrentados. La vinculación con la curia podía ser necesaria para obtener reconocimiento, y el resultado dependía además de la cooperación de quienes controlaban puertos, dinero y combatientes. Las autorizaciones conservadas son una vía para estudiar esos arreglos. [1, 13, 17, 18, 25]
 
 ### Expediciones tardías y duración del movimiento
+
+Las [[cristianismo/cruzadas/cruzadas-tardias|cruzadas tardías]] recorren los proyectos de recuperación, las ligas navales y las campañas posteriores a la caída de Acre.
 
 En siglos posteriores, distintos proyectos de cruzada se dirigieron a la defensa de territorios mediterráneos, la recuperación de plazas o la guerra contra poderes musulmanes. Hubo campañas que nacieron de coaliciones difíciles de sostener y proyectos que quedaron en negociaciones. Un cronista podía dar por segura una partida porque había escuchado una predicación. Para saber si se produjo hay que localizar contratos de transporte, cartas diplomáticas o cuentas que registren pagos. La historia de proyectos cancelados permite estudiar qué impedía actuar y cómo se administraban las promesas y recursos ya movilizados. [1, 12–14]
 

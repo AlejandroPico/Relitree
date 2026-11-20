@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 566" role="img" aria-labelledby="title description">
+  <title id="title">Cruzadas tardías · Cronología</title>
+  <desc id="description">1291. Toma mameluca de Acre. 1344. La liga ocupa el puerto de Esmirna. 1365. Toma, saqueo y retirada de Alejandría. 1390–1396. Campaña de Mahdía y derrota de Nicópolis. 1420–1431. Expediciones contra los husitas. 1444. Derrota de la coalición en Varna. 1453–1456. Caída de Constantinopla y defensa de Belgrado. 1464. El proyecto de Pío II se interrumpe en Ancona. 1480–1522. Rodas resiste un sitio y capitula en el siguiente. 1571. Victoria de la Liga Santa en Lepanto</desc>
+  <rect width="760" height="566" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #243532 }
+    .title { font-size: 27px; font-weight: 720 }
+    .note { font-size: 15px; fill: #435653 }
+    .date { font-size: 17px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 18px; font-weight: 520 }
+    .place { font-size: 16px; font-weight: 650; paint-order: stroke; stroke: #f7f4ec; stroke-width: 3px; stroke-linejoin: round }
+    .water { font-size: 17px; font-weight: 570; fill: #466875; font-style: italic }
+  </style>
+  <text x="28" y="45" class="title">Cruzadas tardías · Cronología</text>
+  <text x="28" y="73" class="note">Hitos seleccionados · intervalos sin escala proporcional</text>
+  <path d="M213 117V533" stroke="#8ca39c" stroke-width="3"/>
+  <text x="194" y="123" class="date" text-anchor="end">1291</text>
+  <circle cx="213" cy="117" r="5" fill="#267568"/>
+  <text x="237" y="123" class="item"><tspan x="237" dy="0">Toma mameluca de Acre</tspan></text>
+  <text x="194" y="168" class="date" text-anchor="end">1344</text>
+  <circle cx="213" cy="162" r="5" fill="#267568"/>
+  <text x="237" y="168" class="item"><tspan x="237" dy="0">La liga ocupa el puerto de Esmirna</tspan></text>
+  <text x="194" y="213" class="date" text-anchor="end">1365</text>
+  <circle cx="213" cy="207" r="5" fill="#267568"/>
+  <text x="237" y="213" class="item"><tspan x="237" dy="0">Toma, saqueo y retirada de Alejandría</tspan></text>
+  <text x="194" y="258" class="date" text-anchor="end">1390–1396</text>
+  <circle cx="213" cy="252" r="5" fill="#267568"/>
+  <text x="237" y="258" class="item"><tspan x="237" dy="0">Campaña de Mahdía y derrota de Nicópolis</tspan></text>
+  <text x="194" y="303" class="date" text-anchor="end">1420–1431</text>
+  <circle cx="213" cy="297" r="5" fill="#267568"/>
+  <text x="237" y="303" class="item"><tspan x="237" dy="0">Expediciones contra los husitas</tspan></text>
+  <text x="194" y="348" class="date" text-anchor="end">1444</text>
+  <circle cx="213" cy="342" r="5" fill="#267568"/>
+  <text x="237" y="348" class="item"><tspan x="237" dy="0">Derrota de la coalición en Varna</tspan></text>
+  <text x="194" y="393" class="date" text-anchor="end">1453–1456</text>
+  <circle cx="213" cy="387" r="5" fill="#267568"/>
+  <text x="237" y="393" class="item"><tspan x="237" dy="0">Caída de Constantinopla y defensa de Belgrado</tspan></text>
+  <text x="194" y="438" class="date" text-anchor="end">1464</text>
+  <circle cx="213" cy="432" r="5" fill="#267568"/>
+  <text x="237" y="438" class="item"><tspan x="237" dy="0">El proyecto de Pío II se interrumpe en Ancona</tspan></text>
+  <text x="194" y="483" class="date" text-anchor="end">1480–1522</text>
+  <circle cx="213" cy="477" r="5" fill="#267568"/>
+  <text x="237" y="483" class="item"><tspan x="237" dy="0">Rodas resiste un sitio y capitula en el siguiente</tspan></text>
+  <text x="194" y="528" class="date" text-anchor="end">1571</text>
+  <circle cx="213" cy="522" r="5" fill="#267568"/>
+  <text x="237" y="528" class="item"><tspan x="237" dy="0">Victoria de la Liga Santa en Lepanto</tspan></text>
+</svg>

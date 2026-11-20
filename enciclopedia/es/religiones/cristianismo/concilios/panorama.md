@@ -1,6 +1,7 @@
 ---
 estado: completo
 fase: E05
+orden: 0
 palabras: 5130
 fuentes:
   - "https://www.cambridge.org/core/journals/studies-in-church-history/article/abs/book-of-the-councils-nicaea-i-to-vatican-ii/BDE24CDCBB964DEB7B82F79B6CD80C62"
@@ -25,7 +26,7 @@ fuentes:
   - "https://historicalpapers.journals.yorku.ca/index.php/historicalpapers/article/download/39636/35941"
 ---
 
-# Los concilios: visión de conjunto
+# Los concilios · Visión de conjunto
 
 Entre Nicea I, en 325, y Vaticano II, clausurado en 1965, el modo de celebrar un concilio cristiano cambió junto con las iglesias que se reunían, las autoridades que las convocaban y los públicos que recibían sus decisiones. Esta guía compara los veintiún concilios del catálogo católico y enlaza cada uno con su estudio individual. La numeración sirve para recorrer esa tradición editorial. Otras iglesias reconocen una serie diferente, y los límites entre ellas se explican en parte por el modo en que se aceptaron, discutieron o rechazaron determinadas asambleas. Para entender qué decidió un concilio conviene preguntar quién se reunió, qué texto aprobó, con qué autoridad y qué ocurrió cuando ese texto llegó a las iglesias. [1–7, 15, 16]
 
