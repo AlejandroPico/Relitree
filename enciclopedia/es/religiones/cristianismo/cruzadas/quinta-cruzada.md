@@ -15,6 +15,7 @@ fuentes:
   - "https://academic.oup.com/book/57913"
   - "https://www.cambridge.org/core/books/abs/cambridge-history-of-the-crusades/louis-ix-and-the-seventh-crusade/765F1BB0D6280BB3B833F798669F191F"
   - "https://orca.cardiff.ac.uk/id/eprint/87056/1/2016fultonmsphd.pdf"
+  - "https://commons.wikimedia.org/wiki/File:Giotto_-_Legend_of_St_Francis_-_-11-_-_St_Francis_before_the_Sultan_%28Trial_by_Fire%29.jpg"
 ---
 
 # 1217–1221 · Quinta cruzada
@@ -114,6 +115,11 @@ Las razones para rechazar o no concluir una propuesta se han interpretado de for
 
 En 1219, Francisco de Asís fue al campamento de al-Kāmil y se entrevistó con él. Hubo contacto en un entorno de guerra. Los testimonios próximos a los hechos y las biografías franciscanas posteriores interpretaron el sentido del encuentro desde lugares diferentes. Para fijar su alcance conviene distinguir el hecho de que Francisco fue recibido, las motivaciones que transmitieron las fuentes y las palabras precisas que atribuyeron a la conversación. No hay un registro directo de un diálogo completo que permita verificar esas palabras. Los relatos posteriores elaboraron motivos relacionados con predicación, martirio y hospitalidad. [1, 3, 6–8]
 
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Giotto_-_Legend_of_St_Francis_-_-11-_-_St_Francis_before_the_Sultan_%28Trial_by_Fire%29.jpg" alt="Francisco de Asís ante el sultán sentado en un fresco que incluye la prueba del fuego" width="405" height="424" loading="lazy" decoding="async">
+  <figcaption><i>Francisco ante el sultán</i>, fresco atribuido a Giotto, hacia 1295. La escena de la prueba del fuego forma parte del relato hagiográfico. Basílica superior de Asís. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Giotto_-_Legend_of_St_Francis_-_-11-_-_St_Francis_before_the_Sultan_%28Trial_by_Fire%29.jpg">Ficha en Wikimedia Commons</a>. [12]</figcaption>
+</figure>
+
 Jacobo de Vitry, figura eclesiástica que conoció la campaña, ofrece un testimonio que se puede poner en relación con la producción de los primeros relatos franciscanos. La fecha y el género de cada texto importan. Una carta escrita para comunicar noticias de la expedición se diferencia de una biografía destinada a explicar la santidad de Francisco. Un testimonio puede resaltar el riesgo de acudir y otro la disposición del sultán a escucharlo. Para conocer lo que ambos interlocutores pudieron esperar del encuentro hay que evitar convertir la interpretación de un autor en una transcripción de su conversación. [3, 6–8]
 
 La recepción moderna ha dado al encuentro un significado en la historia del diálogo entre cristianos y musulmanes. Ese uso posterior se puede estudiar observando qué aspectos se recuerdan y cuáles resultan relevantes para comunidades de otras épocas. La reconstrucción medieval conserva al mismo tiempo la especificidad de un religioso que actuó en el contexto de un asedio y la de un gobernante que protegía sus intereses políticos y ejercía facultades sobre la recepción de visitantes. Reconocer la distancia entre el episodio y su memoria permite leer ambas historias con mayor precisión. [1, 6–8]
@@ -205,3 +211,4 @@ La [[cristianismo/cruzadas/panorama|visión de conjunto]] sitúa esta estrategia
 9. Michael S. Fulton, The Damietta Crusade, 1217–1221: A Military History, Oxford University Press. [Consultar](https://academic.oup.com/book/57913).
 10. «Louis IX and the Seventh Crusade», The Cambridge History of the Crusades. [Consultar](https://www.cambridge.org/core/books/abs/cambridge-history-of-the-crusades/louis-ix-and-the-seventh-crusade/765F1BB0D6280BB3B833F798669F191F).
 11. Michael S. Fulton, Artillery in and around the Latin East, Cardiff University, capítulo sobre la Quinta cruzada. [Consultar](https://orca.cardiff.ac.uk/id/eprint/87056/1/2016fultonmsphd.pdf).
+12. Francisco ante el sultán, fresco atribuido a Giotto, hacia 1295. La escena de la prueba del fuego forma parte del relato hagiográfico. Basílica superior de Asís. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Giotto_-_Legend_of_St_Francis_-_-11-_-_St_Francis_before_the_Sultan_%28Trial_by_Fire%29.jpg).

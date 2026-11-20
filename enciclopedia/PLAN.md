@@ -121,6 +121,7 @@ Estado editorial: fase completada, 12 de 12 artículos publicados.
 ## Fase E07 · Cristianismo · Cruzadas y guerras santas
 
 Estado editorial: fase completada, 15 de 15 artículos publicados.
+Revisión visual en la versión 1.7.28 con 26 imágenes contextualizadas en las 15 entradas.
 
 - [x] [Las cruzadas · Visión de conjunto](es/religiones/cristianismo/cruzadas/panorama.md)
 - [x] [Siglos XI–XV · La idea de cruzada en la Reconquista](es/religiones/cristianismo/cruzadas/cruzada-en-la-reconquista.md)

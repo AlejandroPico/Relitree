@@ -29,6 +29,8 @@ fuentes:
   - "https://projects.mcah.columbia.edu/medieval-architecture/htm/ms/ma_ms_gloss_crusades.htm"
   - "https://routledgetextbooks.com/textbooks/medievalportal/9781405872935.php"
   - "https://etheses.bham.ac.uk/id/eprint/7267/4/Spacey17PhD.pdf"
+  - "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ais_5594%2C_fol._f.138_haut_-_Louis_VII_se_croisant.jpg"
+  - "https://commons.wikimedia.org/wiki/File:Si%C3%A8ge_de_Damas_%281148%29_-_BL_Royal_MS_16_G_VI.jpg"
 ---
 
 # 1147–1149 · Segunda cruzada
@@ -64,6 +66,11 @@ Las disposiciones relativas a las deudas y la custodia de bienes muestran el cos
 ### Bernardo de Claraval y las dos monarquías
 
 Bernardo de Claraval desempeñó un papel destacado en la predicación. En Vézelay, en 1146, Luis VII y miembros de su entorno asumieron públicamente el compromiso. Se sumó Leonor de Aquitania. La participación de una reina permite estudiar el viaje como asunto del gobierno y de las relaciones entre territorios, además de como decisión personal. El contingente francés tenía que mantener comunicaciones con quienes administraban sus asuntos durante la ausencia. La predicación recibió apoyos distintos de los que aportaban los combatientes que llegaron al Levante. [10–13, 18, 24, 25]
+
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Fran%C3%A7ais_5594%2C_fol._f.138_haut_-_Louis_VII_se_croisant.jpg/960px-Fran%C3%A7ais_5594%2C_fol._f.138_haut_-_Louis_VII_se_croisant.jpg" alt="Luis VII toma la cruz en presencia de Bernardo de Claraval y otros clérigos" width="440" height="394" loading="lazy" decoding="async">
+  <figcaption>Luis VII toma la cruz en Vézelay. Miniatura de Jean Colombe para <i>Les Passages d’outremer</i>, hacia 1474–1475. Biblioteca Nacional de Francia, Français 5594, folio 138. <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>. <a href="https://commons.wikimedia.org/wiki/File:Fran%C3%A7ais_5594%2C_fol._f.138_haut_-_Louis_VII_se_croisant.jpg">Ficha en Wikimedia Commons</a>. [26]</figcaption>
+</figure>
 
 Conrado III tomó la cruz más tarde, en el ámbito germánico. La decisión reunió a quienes podían marchar con él y planteó cuestiones sobre el gobierno de sus territorios mientras faltara. Su dignidad regia tenía una relación particular con la elección y el reconocimiento dentro del Imperio. En las fuentes y en la historiografía conviene distinguir su título de rey de romanos del de un titular coronado como emperador. La incorporación de dos monarcas a la empresa dio visibilidad a la convocatoria. Cada uno conservó su propio contingente y sus relaciones políticas, con efectos sobre los plazos y los acuerdos de tránsito. [11–13, 18, 24]
 
@@ -124,6 +131,11 @@ Los dirigentes reunidos en 1148 decidieron atacar Damasco. Entre quienes partici
 ### El cerco del 24 al 28 de julio
 
 El ataque empezó el 24 de julio de 1148. Los relatos hablan de combates en los alrededores y de la escasez de recursos que afectó a quienes cercaban la ciudad. Hubo un desplazamiento de las posiciones de los sitiadores que las fuentes interpretaron de maneras distintas. Damasco reunió a sus defensores y buscó ayuda. El tiempo disponible para los cruzados se redujo conforme aumentaba el peligro de que llegaran fuerzas adversarias. Después de unos días los dirigentes acordaron retirarse. Las fechas permiten medir la rapidez del desenlace. La causa exacta del cambio de posiciones y la responsabilidad de diferentes actores siguen siendo cuestiones de interpretación. [11–13, 16, 24]
+
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Si%C3%A8ge_de_Damas_%281148%29_-_BL_Royal_MS_16_G_VI.jpg" alt="Un ejército ante las murallas de Damasco en una miniatura medieval" width="550" height="300" loading="lazy" decoding="async">
+  <figcaption>El asedio de Damasco de 1148. Miniatura anónima del siglo XIV. British Library, Royal MS 16 G VI. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Si%C3%A8ge_de_Damas_%281148%29_-_BL_Royal_MS_16_G_VI.jpg">Ficha en Wikimedia Commons</a>. [27]</figcaption>
+</figure>
 
 Los contemporáneos y escritores posteriores atribuyeron el fracaso a desacuerdos, errores, escasez, negociaciones ocultas o amenaza de refuerzos. Se conservaron argumentos que permiten examinar algunas de estas posibilidades. Una acusación contra un dirigente es evidencia de que circuló, y para comprobarla hace falta documentación sobre lo que hizo y las relaciones que mantenía. Un estudio del abastecimiento puede observar el tiempo que los sitiadores llevaban en campaña y los lugares donde se registran dificultades. El resultado de un asedio breve puede reflejar la acumulación de problemas anteriores y decisiones tomadas bajo presión. [11–13, 16]
 
@@ -237,3 +249,5 @@ La Segunda cruzada amplió la forma en que distintos públicos podían entender 
 23. Columbia University, cronología de las cruzadas del Mediterráneo oriental. [Consultar](https://projects.mcah.columbia.edu/medieval-architecture/htm/ms/ma_ms_gloss_crusades.htm).
 24. Routledge Medieval Portal, cronología de las campañas de la Segunda cruzada. [Consultar](https://routledgetextbooks.com/textbooks/medievalportal/9781405872935.php).
 25. Rebecca Spacey, estudio de las fuentes narrativas de las cruzadas, Universidad de Birmingham. [Consultar](https://etheses.bham.ac.uk/id/eprint/7267/4/Spacey17PhD.pdf).
+26. Luis VII toma la cruz en Vézelay. Miniatura de Jean Colombe para Les Passages d’outremer, hacia 1474–1475. Biblioteca Nacional de Francia, Français 5594, folio 138. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Fran%C3%A7ais_5594%2C_fol._f.138_haut_-_Louis_VII_se_croisant.jpg).
+27. El asedio de Damasco de 1148. Miniatura anónima del siglo XIV. British Library, Royal MS 16 G VI. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Si%C3%A8ge_de_Damas_%281148%29_-_BL_Royal_MS_16_G_VI.jpg).

@@ -24,6 +24,8 @@ fuentes:
   - "https://brill.com/display/book/9789004527607/9789004527607_webready_content_text.pdf"
   - "https://api.pageplace.de/preview/DT0400.9781317496434_A24762221/preview-9781317496434_A24762221.pdf"
   - "https://cris.huji.ac.il/en/publications/the-jerusalem-massacre-of-july-1099-in-the-western-historiography/"
+  - "https://commons.wikimedia.org/wiki/File:Passages_d%27outremer_-_BNF_Fr5594_f59v_-_Si%C3%A8ge_d%27Antioche.jpg"
+  - "https://commons.wikimedia.org/wiki/File:Siege_of_Jerusalem_1099.jpg"
 ---
 
 # 1096–1099 · Primera cruzada
@@ -110,6 +112,11 @@ Las mujeres aparecen en las fuentes de manera desigual. Parte de la documentaci�
 
 Los contingentes llegaron a Antioquía en octubre de 1097. La ciudad estaba en manos de Yaghi Siyan y se encontraba cerca del río Orontes. Sus murallas y su posición permitían a los defensores mantener durante tiempo la plaza. El cerco duró hasta junio de 1098. Los cruzados dependieron de comunicaciones exteriores y de suministros que llegaron en condiciones cambiantes. Con el paso de los meses, las dificultades de abastecimiento, las enfermedades y las deserciones alteraron las fuerzas disponibles. Parte de la documentación permite seguir actuaciones muy localizadas, como la búsqueda de acceso a mercados o la defensa de puntos que servían para recibir provisiones. [3, 4, 6, 7, 10, 17]
 
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Passages_d%27outremer_-_BNF_Fr5594_f59v_-_Si%C3%A8ge_d%27Antioche.jpg/500px-Passages_d%27outremer_-_BNF_Fr5594_f59v_-_Si%C3%A8ge_d%27Antioche.jpg" alt="Miniatura del asedio de Antioquía con figuras armadas junto a las murallas" width="365" height="532" loading="lazy" decoding="async">
+  <figcaption>El asedio de Antioquía en <i>Les Passages d’outremer</i>, iluminado por Jean Colombe hacia 1474. Biblioteca Nacional de Francia, Français 5594, folio 59v. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Passages_d%27outremer_-_BNF_Fr5594_f59v_-_Si%C3%A8ge_d%27Antioche.jpg">Ficha en Wikimedia Commons</a>. [21]</figcaption>
+</figure>
+
 Los habitantes de Antioquía vivieron el asedio desde posiciones distintas. Había población cristiana oriental y musulmana, así como quienes disponían de armas o tenían responsabilidades en el gobierno. Las decisiones de las autoridades sobre el paso de personas y la utilización de alimentos podían afectar a cada grupo de manera diferente. Los relatos de los sitiadores incluyen información sobre desertores y contactos clandestinos. Es más difícil recuperar lo que vivió una persona que carecía de acceso a un escribano o no pertenecía al entorno de los jefes. Las comunicaciones de fuera de la ciudad pueden aportar noticias sobre las rutas por las que llegó ayuda y el modo en que se recibió una petición. [3, 4, 6, 8, 10, 17]
 
 El representante bizantino Taticio se retiró durante el cerco. Las versiones atribuyen motivos distintos a su partida y a las relaciones con Bohemundo. El hecho tuvo consecuencias en el relato posterior de lo que los cruzados debían al emperador. Si se considera que hubo abandono, puede presentarse la ocupación latina como un cambio justificado. Desde la perspectiva imperial, el compromiso de devolver Antioquía seguía teniendo valor. Comparar posiciones resulta más informativo que adjudicar sin reservas el motivo que cada narrador atribuye al otro. [3, 4, 6, 17]
@@ -149,6 +156,11 @@ Los defensores y los habitantes se prepararon ante la llegada de un ejército cu
 ### El asedio y la toma
 
 Los cruzados llegaron ante Jerusalén en junio de 1099. Durante varias semanas tuvieron dificultades para mantener el cerco y reunir recursos que necesitaban. Hubo contactos con navíos llegados al litoral y trabajo para preparar el asalto. La tradición latina describe también una procesión penitencial alrededor de la ciudad. El episodio permite comprender cómo quienes participaban en el asedio relacionaban actos devocionales y expectativas de victoria. Las fuentes registran la ceremonia junto a asuntos materiales decisivos para sostener a los sitiadores. Los distintos relatos pueden seguir momentos distintos del mismo recorrido. [4, 6–8, 10]
+
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Siege_of_Jerusalem_1099.jpg/500px-Siege_of_Jerusalem_1099.jpg" alt="Miniatura del cerco de Jerusalén en la que se distinguen murallas y figuras armadas" width="370" height="474" loading="lazy" decoding="async">
+  <figcaption>Asedio de Jerusalén de 1099, en una miniatura anónima del siglo XIV. Biblioteca Nacional de Francia, Français 2824, folio 45. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Siege_of_Jerusalem_1099.jpg">Ficha en Wikimedia Commons</a>. [22]</figcaption>
+</figure>
 
 Las fuerzas cruzadas entraron el 15 de julio de 1099. Hubo matanzas de habitantes musulmanes y judíos. Parte de los autores latinos presentó la matanza mediante imágenes bíblicas y en términos victoriosos. Las tradiciones árabes e informes de otras procedencias ofrecen información sobre quienes murieron, huyeron, fueron capturados o salieron tras acuerdos. Los datos sobre la escala son incompletos. El trabajo histórico distingue la certeza del episodio de la posibilidad de identificar cifras, lugares y trayectorias concretas. [4, 6, 8, 10]
 
@@ -217,3 +229,5 @@ También existieron diferencias entre la repetición de noticias sobre la victor
 18. Armenia through the Lens of Time, estudios sobre Edessa y sus comunidades, Brill. [Consultar](https://brill.com/display/book/9789004527607/9789004527607_webready_content_text.pdf).
 19. The Crusader States 1100–1144, extracto editorial de Routledge. [Consultar](https://api.pageplace.de/preview/DT0400.9781317496434_A24762221/preview-9781317496434_A24762221.pdf).
 20. Benjamin Z. Kedar, «The Jerusalem Massacre of July 1099 in the Western Historiography of the Crusades», ficha de la Universidad Hebrea de Jerusalén. [Consultar](https://cris.huji.ac.il/en/publications/the-jerusalem-massacre-of-july-1099-in-the-western-historiography/).
+21. El asedio de Antioquía en Les Passages d’outremer, iluminado por Jean Colombe hacia 1474. Biblioteca Nacional de Francia, Français 5594, folio 59v. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Passages_d%27outremer_-_BNF_Fr5594_f59v_-_Si%C3%A8ge_d%27Antioche.jpg).
+22. Asedio de Jerusalén de 1099, en una miniatura anónima del siglo XIV. Biblioteca Nacional de Francia, Français 2824, folio 45. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Siege_of_Jerusalem_1099.jpg).

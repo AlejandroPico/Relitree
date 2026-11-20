@@ -11,6 +11,8 @@ fuentes:
   - "https://www.routledge.com/the-archaeology-of-the-prussian-crusade-holy-war-and-colonisation/pluskowski/p/book/9781032120355"
   - "https://press.uchicago.edu/ucp/books/book/distributed/T/bo214800151.html"
   - "https://gs.elaba.lt/object/elaba%3A21301411/21301411.pdf"
+  - "https://commons.wikimedia.org/wiki/File:Malbork_zamek_01.jpg"
+  - "https://commons.wikimedia.org/wiki/File:Jan_Matejko%2C_Bitwa_pod_Grunwaldem.jpg"
 ---
 
 # Desde 1147 · Cruzadas bálticas
@@ -115,6 +117,11 @@ El duque Conrado de Mazovia buscó ayuda contra las incursiones y disputas de su
 
 Las posiciones castellanas permitían organizar rutas de aprovisionamiento y asegurar guarniciones. Las fundaciones urbanas daban soporte al comercio, a la recaudación y al asentamiento. El fuero asociado a Culm o Chełmno sirvió para ordenar derechos y obligaciones de ciertas ciudades, y se extendió a otras en un proceso de colonización. El sistema combinó parcelas, mercados, administradores y normas judiciales. Para una población sometida, los efectos de la conquista podían incluir la pérdida de tierras, deberes de servicio o nuevos recursos accesibles mediante pactos. La carta de una fundación ofrece un ideal de poblamiento que puede cotejarse con el desarrollo del sitio. [2, 5–6]
 
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Malbork_zamek_01.jpg/960px-Malbork_zamek_01.jpg" alt="Panorámica del castillo de Malbork, de ladrillo rojo, junto al río Nogat" width="650" height="209" loading="lazy" decoding="async">
+  <figcaption>Castillo de la Orden Teutónica en Malbork, también llamado Marienburgo, desde el río Nogat. Fotografía de Andrzej Otrębski, 2014. <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. <a href="https://commons.wikimedia.org/wiki/File:Malbork_zamek_01.jpg">Ficha en Wikimedia Commons</a>. [8]</figcaption>
+</figure>
+
 Königsberg surgió en el contexto de las acciones de mediados del siglo XIII, con intervención del rey Otakar II de Bohemia en la campaña de 1255. La participación de un príncipe de fuera de la región muestra cómo se redistribuían prestigio y apoyos mediante expediciones concretas. Los edificios que se conservan en otras plazas, como Marienburgo, documentan fases de desarrollo y posibilidades de un régimen consolidado. Compararlos con fortificaciones tempranas ayuda a distinguir una instalación militar de recursos limitados de un centro capaz de concentrar oficinas, depósitos y medios de representación. [2, 5–6]
 
 ### Rebeliones y el alcance de la conquista
@@ -140,6 +147,11 @@ La orden cuestionó la autenticidad o eficacia de la conversión y mantuvo la gu
 ### Grunwald, Constanza y las paces
 
 La victoria de las fuerzas polaco-lituanas en Grunwald o Tannenberg en 1410 asestó un golpe al poder de la orden. Sus vencedores no ocuparon Marienburgo y la primera paz de Toruń de 1411 estableció arreglos territoriales y financieros limitados. A comienzos del siglo XV, las disputas se llevaron asimismo a ámbitos de debate jurídico y eclesiástico. En el [[cristianismo/concilios/constanza|Concilio de Constanza]], representantes polacos defendieron tesis sobre los derechos de los no cristianos y la legitimidad de la guerra contra ellos. Samogitia fue objeto de nuevas negociaciones y el tratado de Melno de 1422 fijó disposiciones fronterizas duraderas. [2, 4, 6–7]
+
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Jan_Matejko%2C_Bitwa_pod_Grunwaldem.jpg/960px-Jan_Matejko%2C_Bitwa_pod_Grunwaldem.jpg" alt="Cuadro de gran formato con combatientes y estandartes en la batalla de Grunwald" width="650" height="289" loading="lazy" decoding="async">
+  <figcaption>Jan Matejko, <i>La batalla de Grunwald</i>, 1878. Pintura histórica sobre el enfrentamiento de 1410. Museo Nacional de Varsovia. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Jan_Matejko%2C_Bitwa_pod_Grunwaldem.jpg">Ficha en Wikimedia Commons</a>. [9]</figcaption>
+</figure>
 
 La segunda paz de Toruń, en 1466, llegó tras la guerra de los Trece Años. La Corona polaca obtuvo territorios como la llamada Prusia Real y la orden se mantuvo en otros bajo condiciones nuevas. Esa guerra pertenece a la historia posterior del Estado de la orden y se explica mediante la acción de ciudades, estamentos y autoridades regionales, además de la presión entre poderes vecinos. A la larga, la rama prusiana se secularizó en 1525. La rama livonia entró en otra crisis durante el siglo XVI, en una región donde actuaban potencias distintas. [2, 5–6]
 
@@ -209,3 +221,5 @@ La [[cristianismo/cruzadas/panorama|visión de conjunto]] reúne las institucion
 5. Aleksander Pluskowski, *The Archaeology of the Prussian Crusade. Holy War and Colonisation*. [Routledge](https://www.routledge.com/the-archaeology-of-the-prussian-crusade-holy-war-and-colonisation/pluskowski/p/book/9781032120355).
 6. Aleksander Pluskowski, *The Teutonic Knights: Rise and Fall of a Religious Corporation*. [University of Chicago Press](https://press.uchicago.edu/ucp/books/book/distributed/T/bo214800151.html).
 7. Darius Baronas y S. C. Rowell, *The Conversion of Lithuania*. [Repositorio académico lituano](https://gs.elaba.lt/object/elaba%3A21301411/21301411.pdf).
+8. Castillo de la Orden Teutónica en Malbork, también llamado Marienburgo, desde el río Nogat. Fotografía de Andrzej Otrębski, 2014. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Malbork_zamek_01.jpg).
+9. Jan Matejko, La batalla de Grunwald, 1878. Pintura histórica sobre el enfrentamiento de 1410. Museo Nacional de Varsovia. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Jan_Matejko%2C_Bitwa_pod_Grunwaldem.jpg).

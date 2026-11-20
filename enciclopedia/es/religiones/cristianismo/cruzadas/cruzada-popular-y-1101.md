@@ -21,6 +21,7 @@ fuentes:
   - "https://www.posenlibrary.com/entry/book-remembrance-crusade-chronicle"
   - "https://api.pageplace.de/preview/DT0400.9781317496434_A24762221/preview-9781317496434_A24762221.pdf"
   - "https://sourcebooks.fordham.edu/source/1096jews.asp"
+  - "https://commons.wikimedia.org/wiki/File:Peter_the_Hermit.jpg"
 ---
 
 # 1096 y 1101 · Cruzada popular y expediciones de 1101
@@ -34,6 +35,11 @@ El nombre <em>popular</em> destaca la presencia de gente con menos recursos y es
 ### La predicación y el tiempo de partida
 
 El llamamiento de Clermont difundió una propuesta de viaje penitencial armando contingentes. La noticia se propagó por visitas, cartas y predicación. Distintas personas pudieron actuar antes de que los nobles concluyeran negociaciones y preparativos. La asistencia a un sermón y la incorporación efectiva a una marcha son acontecimientos que se reconstruyen mediante documentos distintos. A veces un cronista quiere explicar por qué acudió mucha gente y atribuye a un predicador la dirección de todos los grupos de un territorio. Otra fuente permite seguir movimientos locales que se incorporaron más tarde o tomaron un camino propio. [1–3, 5, 7, 13, 14]
+
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Peter_the_Hermit.jpg/500px-Peter_the_Hermit.jpg" alt="Pedro el Ermitaño guía a un grupo de peregrinos en una miniatura" width="370" height="357" loading="lazy" decoding="async">
+  <figcaption>Pedro el Ermitaño al frente de un grupo de la expedición de 1096. Miniatura anónima del siglo XIV. British Library, Egerton 1500, folio 45v. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Peter_the_Hermit.jpg">Ficha en Wikimedia Commons</a>. [18]</figcaption>
+</figure>
 
 Pedro el Ermitaño aparece en las crónicas como predicador y dirigente. Su actividad se relacionó con un entorno que ya conocía el llamamiento papal. Los relatos posteriores le atribuyeron papeles muy diferentes en el origen del movimiento. La hipótesis de que él inició por sí solo la Primera cruzada depende de tradiciones difíciles de conciliar con los documentos de la convocatoria. Su actuación como dirigente de uno de los grupos de 1096 está mejor atestiguada. Para estudiarla resulta útil seguir los lugares y las fechas donde se lo menciona y separar esa trayectoria de las historias sobre sus motivos o experiencias personales. [1–3, 6, 7, 13, 14]
 
@@ -211,3 +217,4 @@ En conjunto, la escasez de noticias personales es uno de los límites de las fue
 15. Efraín de Bonn, Sefer Zekhirah, selección de The Posen Library. [Consultar](https://www.posenlibrary.com/entry/book-remembrance-crusade-chronicle).
 16. The Crusader States 1100–1144, extracto editorial de Routledge. [Consultar](https://api.pageplace.de/preview/DT0400.9781317496434_A24762221/preview-9781317496434_A24762221.pdf).
 17. Fordham University, documentación latina y hebrea sobre la violencia contra los judíos en 1096. [Consultar](https://sourcebooks.fordham.edu/source/1096jews.asp).
+18. Pedro el Ermitaño al frente de un grupo de la expedición de 1096. Miniatura anónima del siglo XIV. British Library, Egerton 1500, folio 45v. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Peter_the_Hermit.jpg).

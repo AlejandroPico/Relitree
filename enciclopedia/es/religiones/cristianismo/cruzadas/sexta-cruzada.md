@@ -14,6 +14,8 @@ fuentes:
   - "https://www.cambridge.org/core/books/abs/medieval-selfcoronations/frederick-ii-of-germany/B0C8F5EDFBE598AA0BB580F4F537BB43"
   - "https://assets.cambridge.org/97811084/74511/frontmatter/9781108474511_frontmatter.pdf"
   - "https://www.cambridge.org/core/books/abs/cambridge-history-of-the-crusades/louis-ix-and-the-seventh-crusade/765F1BB0D6280BB3B833F798669F191F"
+  - "https://commons.wikimedia.org/wiki/File:%E2%80%9CAugustalis%E2%80%9D_of_Frederick_II_Hohenstaufen_%28r._1215%E2%80%9350%29_MET_sf67-265-26s2.jpg"
+  - "https://commons.wikimedia.org/wiki/File:Al-Kamil_Muhammad_al-Malik_and_Frederick_II_Holy_Roman_Emperor.jpg"
 ---
 
 # 1228–1229 · Sexta cruzada
@@ -33,6 +35,11 @@ El acuerdo de San Germano de 1225 fijó nuevas obligaciones para preparar la sal
 ### La doble escala de San Germano
 
 San Germano, cuyo nombre se asocia a compromisos de 1225 y al arreglo de 1230, permite distinguir dos situaciones. En la primera se fijaron obligaciones relativas a una salida futura. En la segunda había que resolver un conflicto entre el emperador y el papado que se había agravado con la excomunión y la ausencia del monarca. Cada negociación partió de recursos y problemas distintos. Los compromisos sobre el viaje podían concernir a personas que se preparaban para embarcar. La reconciliación posterior se relacionaba con el gobierno del reino de Sicilia y el reconocimiento eclesiástico de Federico. [1–4, 6, 9]
+
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%E2%80%9CAugustalis%E2%80%9D_of_Frederick_II_Hohenstaufen_%28r._1215%E2%80%9350%29_MET_sf67-265-26s2.jpg/500px-%E2%80%9CAugustalis%E2%80%9D_of_Frederick_II_Hohenstaufen_%28r._1215%E2%80%9350%29_MET_sf67-265-26s2.jpg" alt="Moneda de oro con la efigie imperial de perfil y una inscripción en el borde" width="310" height="309" loading="lazy" decoding="async">
+  <figcaption>Augustal de oro de Federico II, hacia 1230–1250. La efigie sigue un modelo imperial de tradición romana. Metropolitan Museum of Art. <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>. <a href="https://commons.wikimedia.org/wiki/File:%E2%80%9CAugustalis%E2%80%9D_of_Frederick_II_Hohenstaufen_%28r._1215%E2%80%9350%29_MET_sf67-265-26s2.jpg">Ficha en Wikimedia Commons</a>. [11]</figcaption>
+</figure>
 
 Desde el punto de vista de quienes partieron en 1227, el hecho de que el emperador volviera pudo alterar su itinerario sin anular su propia salida. Parte de las fuerzas llegó a Oriente antes de que Federico lo hiciera. Para comprender lo que encontró en Acre conviene situar los preparativos de las dos temporadas y lo que se había realizado durante su ausencia. Una defensa ya comenzada o un grupo que había llegado en un barco podía ofrecer apoyo aunque su jefatura no coincidiera con la del contingente imperial. Esa secuencia explica por qué la marcha de 1228 debe leerse junto a trabajos iniciados antes. [1–3, 6–9]
 
@@ -78,6 +85,11 @@ El término poder ayubí comprende autoridades emparentadas que gobernaban terri
 ### Enviados y modalidades de negociación
 
 Los contactos se hicieron mediante enviados. Su papel incluía comunicar qué autoridad podía aceptar condiciones y trasladar propuestas a personas que actuaban en ciudades distintas. Un cronista puede recordar la habilidad de uno de esos intermediarios y no conservar el orden completo de las reuniones. Los historiadores relacionan las fechas de la marcha, la presencia de representantes y las versiones del acuerdo que difundieron las partes. El recurso a un intermediario resulta especialmente importante cuando los dirigentes tenían intereses que necesitaban presentar ante públicos diferentes. Un mismo término podía ser aceptable en la negociación y adquirir otro sentido en una carta de victoria. [1–4, 8–9]
+
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Al-Kamil_Muhammad_al-Malik_and_Frederick_II_Holy_Roman_Emperor.jpg" alt="Federico II a la izquierda y al-Kāmil a la derecha, enfrentados en una miniatura" width="191" height="393" loading="lazy" decoding="async">
+  <figcaption>Federico II y al-Kāmil en una miniatura anónima de la <i>Nuova Cronica</i> de Giovanni Villani, hacia 1341–1348. Biblioteca Apostólica Vaticana. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Al-Kamil_Muhammad_al-Malik_and_Frederick_II_Holy_Roman_Emperor.jpg">Ficha en Wikimedia Commons</a>. [12]</figcaption>
+</figure>
 
 La conservación documental es desigual. Entre los textos latinos figuran la carta que Federico dirigió a Enrique III de Inglaterra y la comunicación del patriarca Geroldo. Hay relatos árabes escritos desde tradiciones distintas, que permiten recuperar reacciones y condiciones apenas visibles en un texto latino. Lo prudente es especificar qué disposición se conoce por qué testimonio. Así se puede comparar lo sucedido en la ciudad con lo que los responsables de la negociación dijeron a otros gobernantes y con lo que se discutió tras hacerse pública. [1–4, 8–9]
 
@@ -207,3 +219,5 @@ La duración de los efectos políticos exige comparar la tregua con el tiempo qu
 8. Jaume Aurell, «Frederick II of Germany», Medieval Self-Coronations, Cambridge University Press. [Consultar](https://www.cambridge.org/core/books/abs/medieval-selfcoronations/frederick-ii-of-germany/B0C8F5EDFBE598AA0BB580F4F537BB43).
 9. The Cambridge Companion to the Literature of the Crusades, cronología y guía de fuentes. [Consultar](https://assets.cambridge.org/97811084/74511/frontmatter/9781108474511_frontmatter.pdf).
 10. «Louis IX and the Seventh Crusade», The Cambridge History of the Crusades. [Consultar](https://www.cambridge.org/core/books/abs/cambridge-history-of-the-crusades/louis-ix-and-the-seventh-crusade/765F1BB0D6280BB3B833F798669F191F).
+11. Augustal de oro de Federico II, hacia 1230–1250. La efigie sigue un modelo imperial de tradición romana. Metropolitan Museum of Art. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:%E2%80%9CAugustalis%E2%80%9D_of_Frederick_II_Hohenstaufen_%28r._1215%E2%80%9350%29_MET_sf67-265-26s2.jpg).
+12. Federico II y al-Kāmil en una miniatura anónima de la Nuova Cronica de Giovanni Villani, hacia 1341–1348. Biblioteca Apostólica Vaticana. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Al-Kamil_Muhammad_al-Malik_and_Frederick_II_Holy_Roman_Emperor.jpg).

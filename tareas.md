@@ -4,6 +4,7 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E07 · Revisión visual de [Cruzadas y guerras santas](enciclopedia/PLAN.md#fase-e07--cristianismo--cruzadas-y-guerras-santas). 26 imágenes contextualizadas en los 15 artículos. Versión 1.7.28.
 - [x] E08 · Entrega 8.4. [«Siglos XVI–XVII · La Contrarreforma»](enciclopedia/es/religiones/cristianismo/reforma/contrarreforma.md), 5.096 palabras de cuerpo, 14 fuentes, dos gráficos y tres reproducciones históricas. Versión 1.7.27.
 - [x] E08 · Entrega 8.4. [«1562–1598 · Las guerras de religión de Francia»](enciclopedia/es/religiones/cristianismo/reforma/guerras-de-religion-de-francia.md), 5.146 palabras de cuerpo, 16 fuentes, dos gráficos y cuatro reproducciones históricas. Versión 1.7.27.
 - [x] E08 · Revisión visual de las entregas 8.1–8.3. Diez figuras históricas distribuidas en las seis entradas existentes. Versión 1.7.27.

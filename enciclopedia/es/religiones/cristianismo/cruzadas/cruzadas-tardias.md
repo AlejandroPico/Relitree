@@ -19,6 +19,8 @@ fuentes:
   - "https://al-qantara.revistas.csic.es/index.php/al-qantara/article/download/700/923?inline=1"
   - "https://ucrisportal.univie.ac.at/en/publications/the-crusades-against-the-hussites-in-bohemia-14191436/"
   - "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E46C0217C69B5CBCDD0027C744690B6B/S0022046920002602a.pdf/taxes_wagenburgs_and_a_nightingale_the_imperial_abbey_of_ellwangen_and_the_hussite_wars_14271435.pdf"
+  - "https://commons.wikimedia.org/wiki/File:Akra1291.jpg"
+  - "https://commons.wikimedia.org/wiki/File:Battle_of_Nicopolis.jpg"
 ---
 
 # Desde 1291 · Cruzadas tardías
@@ -37,6 +39,11 @@ El punto de partida de 1291 sirve para organizar este recorrido. Las institucion
 ### Lo que terminó en 1291
 
 La toma mameluca de Acre en mayo de 1291 tuvo consecuencias para los habitantes, las órdenes y quienes utilizaban el puerto para comerciar. Otras posiciones del litoral latino se perdieron en poco tiempo. Los vencidos que pudieron desplazarse buscaron refugio o continuaron sus actividades en otros centros. Chipre siguió bajo el gobierno de los Lusignan y se convirtió en un punto importante de reunión y tránsito. Algunas posiciones menores subsistieron por periodos limitados. Los templarios utilizaron Ruad, frente a la costa siria, hasta que cayó en manos mamelucas al comienzo del siglo XIV. [1–3, 5, 10]
+
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Akra1291.jpg" alt="Letra capitular con combatientes ante las murallas de Acre" width="355" height="379" loading="lazy" decoding="async">
+  <figcaption>El asedio de Acre de 1291 en una inicial historiada del <i>Livre d’Eracles</i>, de autor anónimo, hacia 1300. Biblioteca Nacional de Francia. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Akra1291.jpg">Ficha en Wikimedia Commons</a>. [16]</figcaption>
+</figure>
 
 La pérdida territorial afectó a los medios disponibles para intervenir. Desde un puerto de la costa se podía reunir gente en relativa cercanía al objetivo y sostener comunicaciones con el interior. Cuando desapareció esa infraestructura, ganaron importancia los transportes marítimos, los puertos de reagrupamiento y la negociación sobre dónde desembarcar. También podían seguir relaciones de comercio y peregrinación con autoridades que controlaban los lugares a los que se pretendía volver. Estudiar qué pasó con cada actividad permite distinguir el cierre de un orden territorial de la continuidad de conexiones mediterráneas. [1–3, 5]
 
@@ -108,6 +115,11 @@ Las cartas y noticias acerca de la liberación del rey ofrecen información que 
 ### La expansión otomana y la coalición de Nicópolis
 
 El poder otomano se extendió por los Balcanes durante el siglo XIV. Las autoridades de la región conservaron márgenes diversos de negociación, sometimiento o resistencia. La proyección otomana hacia el Danubio preocupaba al rey Segismundo de Hungría y a quienes dependían del acceso a los estrechos. El apoyo a una campaña podía buscar la defensa de ciertas plazas, la recuperación de otras o la reducción de presiones sobre aliados concretos. Los participantes occidentales llegaban con ideas de cruzada conocidas y con prioridades que no siempre coincidían con las de quienes vivían en la región. [1–4, 10]
+
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Battle_of_Nicopolis.jpg/330px-Battle_of_Nicopolis.jpg" alt="Miniatura otomana de la batalla de Nicópolis con jinetes, soldados y estandartes" width="330" height="481" loading="lazy" decoding="async">
+  <figcaption>La batalla de Nicópolis de 1396 representada en una miniatura otomana del manuscrito Hazine 1523. Palacio de Topkapi, Estambul. Digitalización de Szilas. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Battle_of_Nicopolis.jpg">Ficha en Wikimedia Commons</a>. [17]</figcaption>
+</figure>
 
 En 1396, la coalición de Segismundo reunió húngaros, fuerzas de otros territorios y un contingente con una presencia destacada de caballeros franco-borgoñones. Bayaceto I acudió al encuentro de quienes sitiaban Nicópolis y venció. Las crónicas discutieron el orden de combate, la coordinación y el valor de jefes y contingentes. Algunas tradiciones cargaron la responsabilidad sobre la precipitación de los extranjeros. Para interpretar esas afirmaciones es pertinente cotejar noticias contemporáneas, géneros narrativos y filiación política de los cronistas. La derrota y sus consecuencias están mejor delimitadas que una explicación única de todas las decisiones del día. [1–2, 10]
 
@@ -223,3 +235,5 @@ La [[cristianismo/cruzadas/panorama|visión de conjunto]] permite volver a los e
 13. «The Crusader Kingdoms, an Archival Crossroads», *Al-Qanṭara*, sección sobre Chipre en 1426. [CSIC](https://al-qantara.revistas.csic.es/index.php/al-qantara/article/download/700/923?inline=1).
 14. «The Crusades Against the Hussites in Bohemia (1419–1436)». [Universidad de Viena](https://ucrisportal.univie.ac.at/en/publications/the-crusades-against-the-hussites-in-bohemia-14191436/).
 15. «Taxes, Wagenburgs and a Nightingale: The Imperial Abbey of Ellwangen and the Hussite Wars, 1427–1435». [Cambridge University Press](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E46C0217C69B5CBCDD0027C744690B6B/S0022046920002602a.pdf/taxes_wagenburgs_and_a_nightingale_the_imperial_abbey_of_ellwangen_and_the_hussite_wars_14271435.pdf).
+16. El asedio de Acre de 1291 en una inicial historiada del Livre d’Eracles, de autor anónimo, hacia 1300. Biblioteca Nacional de Francia. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Akra1291.jpg).
+17. La batalla de Nicópolis de 1396 representada en una miniatura otomana del manuscrito Hazine 1523. Palacio de Topkapi, Estambul. Digitalización de Szilas. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Battle_of_Nicopolis.jpg).

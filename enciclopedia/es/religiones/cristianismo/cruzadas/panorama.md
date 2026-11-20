@@ -35,6 +35,8 @@ fuentes:
   - "https://sourcebooks.fordham.edu/source/1096jews.asp"
   - "https://www.cambridge.org/core/books/abs/cambridge-history-of-the-crusades/albigensian-crusade/40C43083CE36F17C3B361EAF5A54AC7F"
   - "https://projects.mcah.columbia.edu/medieval-architecture/htm/ms/ma_ms_gloss_crusades.htm"
+  - "https://commons.wikimedia.org/wiki/File:CouncilofClermont.jpg"
+  - "https://commons.wikimedia.org/wiki/File:Krak_des_Chevaliers_exterior_from_southwest_3224.jpg"
 ---
 
 # Las cruzadas · Visión de conjunto
@@ -71,6 +73,11 @@ Las mujeres aparecen en donaciones, administración de patrimonios, patronazgo, 
 ### De Clermont a los principados latinos
 
 En noviembre de 1095, Urbano II predicó en Clermont. El llamamiento se produjo en un contexto de contactos entre Roma y Constantinopla y de dificultades bizantinas para recuperar posiciones en Asia Menor. Las distintas versiones posteriores del discurso hablan de socorrer a cristianos de Oriente, de Jerusalén y del valor penitencial de la empresa. En 1096 salieron grupos con formas de organización diferentes. Algunos precedieron a los grandes contingentes señoriales. La [[cristianismo/cruzadas/primera-cruzada|Primera cruzada]] logró ocupar Jerusalén en julio de 1099 después de atravesar Asia Menor y tomar Antioquía. [2–8, 19]
+
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/CouncilofClermont.jpg/500px-CouncilofClermont.jpg" alt="Urbano II habla ante una asamblea de clérigos en una miniatura" width="370" height="357" loading="lazy" decoding="async">
+  <figcaption>Urbano II en el concilio de Clermont. Miniatura de Jean Colombe para <i>Les Passages d’outremer</i>, hacia 1474. Biblioteca Nacional de Francia. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:CouncilofClermont.jpg">Ficha en Wikimedia Commons</a>. [32]</figcaption>
+</figure>
 
 El éxito militar se produjo en un espacio políticamente fragmentado. Gobernantes selyúcidas disputaban posiciones en Siria y en Anatolia. Los fatimíes de Egipto habían recuperado Jerusalén en 1098. La oposición a los cruzados se organizó desde poderes cuyas prioridades y relaciones podían variar. Durante el paso por Anatolia, los contingentes occidentales cooperaron con el Imperio bizantino y entraron en desacuerdos acerca de los juramentos y la entrega de plazas. Varios acuerdos adoptaron un significado distinto después de que alguna de las partes adquiriera control de una ciudad. [4, 5, 9, 11, 12, 19]
 
@@ -154,6 +161,11 @@ Los cautivos eran parte de muchas sociedades afectadas por la guerra. Su destino
 ### Creencias e instituciones sobre el terreno
 
 En el Levante, la población incluía cristianos orientales de diversas iglesias, comunidades judías y distintas poblaciones musulmanas. Los nuevos poderes latinos crearon instituciones propias y negociaron con autoridades locales. El estatuto de quienes habitaban zonas urbanas y rurales dependía de su lugar, su trabajo y sus vínculos con señores y ciudades. Una donación de tierras puede conservar topónimos y noticias de obligaciones. La historia de un santuario puede revelar cambios en la administración de un edificio y en el acceso de distintos fieles. Las situaciones variaron durante los casi dos siglos de presencia latina en el continente. [4, 11, 12, 19, 27]
+
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Krak_des_Chevaliers_exterior_from_southwest_3224.jpg/960px-Krak_des_Chevaliers_exterior_from_southwest_3224.jpg" alt="Murallas y torres del Crac de los Caballeros vistas desde la ladera" width="590" height="393" loading="lazy" decoding="async">
+  <figcaption>El Crac de los Caballeros, en la actual Siria. Vista desde el suroeste del castillo que ocuparon los hospitalarios. Fotografía de Dosseman, 2008. <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. <a href="https://commons.wikimedia.org/wiki/File:Krak_des_Chevaliers_exterior_from_southwest_3224.jpg">Ficha en Wikimedia Commons</a>. [33]</figcaption>
+</figure>
 
 La formación de órdenes militares como el Temple y el Hospital vinculó disciplina religiosa, patronazgo y defensa de posiciones en el Levante. Sus casas en Europa participaron en la gestión de recursos. Su presencia en territorios orientales les dio funciones que cambiaron con el tiempo. Examinar un documento de donación permite ver el destino que imaginaba quien contribuía. Las cuentas de una casa hablan de lo que se pudo administrar y trasladar. Los relatos de cronistas describen el papel de sus miembros en acontecimientos en que intervenían también nobles, obispos y reyes. [6, 11–14]
 
@@ -245,3 +257,5 @@ La memoria posterior construyó imágenes de heroísmo y martirio y también rel
 29. Fordham University, documentación latina y hebrea sobre la violencia contra los judíos en 1096. [Consultar](https://sourcebooks.fordham.edu/source/1096jews.asp).
 30. The Cambridge History of the Crusades, capítulo dedicado a la cruzada albigense. [Consultar](https://www.cambridge.org/core/books/abs/cambridge-history-of-the-crusades/albigensian-crusade/40C43083CE36F17C3B361EAF5A54AC7F).
 31. Columbia University, cronología de las cruzadas del Mediterráneo oriental. [Consultar](https://projects.mcah.columbia.edu/medieval-architecture/htm/ms/ma_ms_gloss_crusades.htm).
+32. Urbano II en el concilio de Clermont. Miniatura de Jean Colombe para Les Passages d’outremer, hacia 1474. Biblioteca Nacional de Francia. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:CouncilofClermont.jpg).
+33. El Crac de los Caballeros, en la actual Siria. Vista desde el suroeste del castillo que ocuparon los hospitalarios. Fotografía de Dosseman, 2008. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Krak_des_Chevaliers_exterior_from_southwest_3224.jpg).

@@ -10,6 +10,7 @@ fuentes:
   - "https://sourcebooks.fordham.edu/source/1212pueri.asp"
   - "https://www.persee.fr/doc/bec_0373-6237_1995_num_153_1_450759?pageId=T1_56"
   - "https://assets.cambridge.org/97811084/74511/frontmatter/9781108474511_frontmatter.pdf"
+  - "https://commons.wikimedia.org/wiki/File:Gustave_dore_crusades_the_childrens_crusade.jpg"
 ---
 
 # 1212 · Cruzada de los Niños
@@ -195,6 +196,11 @@ La [[cristianismo/cruzadas/panorama|visión de conjunto]] sitúa el episodio ent
 
 A lo largo de los siglos, el grupo que marcha confiado hacia el mar ha servido para hablar de inocencia, explotación, persecución o promesas colectivas. La creación literaria puede tomar el episodio como punto de partida y concederle un sentido ajeno a su datación original. Para reconocer esa recepción importa indicar en qué momento una obra cambió a los protagonistas o desplazó el final. Las noticias medievales siguen teniendo valor propio, incluso cuando el desenlace más recordado no puede confirmarse. El estudio de cómo se formó esa memoria permite explicar por qué cierto relato llegó a parecer más familiar que el viaje documentado. [1–3]
 
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Gustave_dore_crusades_the_childrens_crusade.jpg/500px-Gustave_dore_crusades_the_childrens_crusade.jpg" alt="Grabado en blanco y negro con una multitud que avanza tras una cruz" width="380" height="477" loading="lazy" decoding="async">
+  <figcaption>Gustave Doré, <i>La cruzada de los Niños</i>. Grabado del siglo XIX que refleja la recepción posterior del episodio de 1212. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Gustave_dore_crusades_the_childrens_crusade.jpg">Ficha en Wikimedia Commons</a>. [7]</figcaption>
+</figure>
+
 ## Fuentes
 
 1. Gary Dickson, «La genèse de la croisade des enfants (1212)». [Bibliothèque de l’École des chartes, Persée](https://www.persee.fr/doc/bec_0373-6237_1995_num_153_1_450759).
@@ -203,3 +209,4 @@ A lo largo de los siglos, el grupo que marcha confiado hacia el mar ha servido p
 4. *Chronica Regiae Coloniensis*, noticia de la marcha de 1212, edición traducida por James A. Brundage. [Fordham University](https://sourcebooks.fordham.edu/source/1212pueri.asp).
 5. Gary Dickson, discusión de los anales de Génova, Piacenza y otras fuentes italianas. [Bibliothèque de l’École des chartes, p. 56](https://www.persee.fr/doc/bec_0373-6237_1995_num_153_1_450759?pageId=T1_56).
 6. *The Cambridge Companion to the Literature of the Crusades*, introducción y cronología. [Cambridge University Press](https://assets.cambridge.org/97811084/74511/frontmatter/9781108474511_frontmatter.pdf).
+7. Gustave Doré, La cruzada de los Niños. Grabado del siglo XIX que refleja la recepción posterior del episodio de 1212. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Gustave_dore_crusades_the_childrens_crusade.jpg).

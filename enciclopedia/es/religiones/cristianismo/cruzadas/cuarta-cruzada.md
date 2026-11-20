@@ -14,6 +14,8 @@ fuentes:
   - "https://www.jstor.org/stable/j.ctt3fh9x5"
   - "https://catalogue.bnf.fr/ark%3A/12148/cb39157581q"
   - "https://www.meravigliedivenezia.it/en/virtual-objects/SPEC_02_SPEC_03_SPEC_04_SPEC_05.html"
+  - "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ais_2754%2C_fol._222v%2C_Si%C3%A8ge_de_Constantinople_%281203%29.jpeg"
+  - "https://commons.wikimedia.org/wiki/File:Markusdom_Venedig_Original_Pferde_im_Inneren_des_Domes.jpg"
 ---
 
 # 1202–1204 · Cuarta cruzada y saqueo de Constantinopla
@@ -83,6 +85,11 @@ La promesa de acuerdo eclesiástico merece una lectura particular. Un aspirante 
 
 La fuerza navegó a Constantinopla en 1203. El paso por Corfú es relevante para seguir la ruta y las discusiones internas sobre la decisión. La ciudad tenía defensas terrestres y marítimas, y su situación entre el Bósforo y el Cuerno de Oro condicionaba el movimiento de la flota. El enfrentamiento de julio incluyó operaciones en la zona de Gálata y ataques contra la ciudad. Incendios destruyeron parte del tejido urbano. Para comprender su efecto hay que distinguir los combates por las defensas y el desplazamiento de los habitantes cuyas casas, talleres o santuarios quedaron afectados. [1–4, 7, 9]
 
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Fran%C3%A7ais_2754%2C_fol._222v%2C_Si%C3%A8ge_de_Constantinople_%281203%29.jpeg/960px-Fran%C3%A7ais_2754%2C_fol._222v%2C_Si%C3%A8ge_de_Constantinople_%281203%29.jpeg" alt="Miniatura medieval del asedio de Constantinopla en 1203" width="420" height="396" loading="lazy" decoding="async">
+  <figcaption>El asedio de Constantinopla de 1203 visto por un iluminador anónimo del siglo XIII. Biblioteca Nacional de Francia, Français 2754, folio 222v. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Fran%C3%A7ais_2754%2C_fol._222v%2C_Si%C3%A8ge_de_Constantinople_%281203%29.jpeg">Ficha en Wikimedia Commons</a>. [11]</figcaption>
+</figure>
+
 Alejo III salió de Constantinopla. Isaac II volvió al trono y su hijo fue asociado al gobierno como Alejo IV. Para los cruzados, el resultado podía servir para exigir el apoyo prometido. Las autoridades que lo reconocieron en la ciudad afrontaban una sucesión difícil y relaciones tensas con las fuerzas acampadas en sus inmediaciones. La restauración de un emperador resolvió la cuestión inmediata de quién figuraba al mando y dejó otras abiertas. El uso que cada cronista hizo de esta primera toma ayuda a distinguirla de la conquista y el saqueo de abril de 1204. [1–4, 7, 9]
 
 ### Pagar lo prometido
@@ -127,6 +134,11 @@ La vida de una ciudad no se puede reconstruir únicamente a partir de las fechas
 ### Reliquias, objetos y memoria en Venecia
 
 Venecia conserva objetos cuya historia se vinculó al saqueo, como los caballos de bronce trasladados desde Constantinopla y asociados a San Marcos. Seguir su recorrido permite estudiar cómo una ciudad exhibe signos de victoria y atribuye un nuevo sentido a obras que habían formado parte de otro paisaje urbano. La identificación y la restauración del objeto pertenecen a etapas distintas. Para entender el uso público de una pieza es útil saber dónde se colocó, quién podía verla y qué narraciones acompañaron su incorporación al edificio. Estos datos ayudan a explicar cómo las consecuencias materiales de 1204 permanecieron visibles para generaciones que no vivieron la expedición. [2, 4, 7, 10]
+
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Markusdom_Venedig_Original_Pferde_im_Inneren_des_Domes.jpg/960px-Markusdom_Venedig_Original_Pferde_im_Inneren_des_Domes.jpg" alt="Los caballos de bronce originales expuestos dentro de la basílica de San Marcos" width="460" height="428" loading="lazy" decoding="async">
+  <figcaption>Los caballos de San Marcos, trasladados desde Constantinopla a Venecia tras el saqueo de 1204. Fotografía de Andraszy de las piezas originales, 2016. <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. <a href="https://commons.wikimedia.org/wiki/File:Markusdom_Venedig_Original_Pferde_im_Inneren_des_Domes.jpg">Ficha en Wikimedia Commons</a>. [12]</figcaption>
+</figure>
 
 Las reliquias podían circular con documentos que contaban de dónde procedían y cómo llegaron a una iglesia. Esos textos tenían valor para la institución receptora y podían presentar el traslado como protección de una pieza sagrada o beneficio para sus fieles. Para la comunidad de origen podía ser una pérdida causada por la conquista. Una relación sobre la llegada de una reliquia da una parte de la trayectoria, que debe cotejarse con la información sobre quienes la llevaron y las circunstancias en que la obtuvieron. La historia de esos objetos conecta la violencia de la ciudad tomada con nuevas prácticas de culto en otros lugares de Europa. [1–4, 6–7, 10]
 
@@ -203,3 +215,5 @@ El recorrido que comenzó con un contrato de transporte terminó modificando el 
 8. Crusade and Christendom: Annotated Documents in Translation, documentos de la convocatoria pontificia. [Consultar](https://www.jstor.org/stable/j.ctt3fh9x5).
 9. Godofredo de Villehardouin, La conquête de Constantinople, edición de Jean Dufournet, ficha de la BnF. [Consultar](https://catalogue.bnf.fr/ark%3A/12148/cb39157581q).
 10. Meraviglie di Venezia, documentación patrimonial sobre los caballos de San Marcos. [Consultar](https://www.meravigliedivenezia.it/en/virtual-objects/SPEC_02_SPEC_03_SPEC_04_SPEC_05.html).
+11. El asedio de Constantinopla de 1203 visto por un iluminador anónimo del siglo XIII. Biblioteca Nacional de Francia, Français 2754, folio 222v. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Fran%C3%A7ais_2754%2C_fol._222v%2C_Si%C3%A8ge_de_Constantinople_%281203%29.jpeg).
+12. Los caballos de San Marcos, trasladados desde Constantinopla a Venecia tras el saqueo de 1204. Fotografía de Andraszy de las piezas originales, 2016. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Markusdom_Venedig_Original_Pferde_im_Inneren_des_Domes.jpg).

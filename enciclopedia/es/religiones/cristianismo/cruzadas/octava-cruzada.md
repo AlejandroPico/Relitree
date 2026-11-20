@@ -15,6 +15,8 @@ fuentes:
   - "https://www.archives.defense.gouv.fr/content/download/626077/10405005/DPMA_2021_Mecenat_Saint-Louis_v3.pdf"
   - "https://projects.mcah.columbia.edu/medieval-architecture/htm/ms/ma_ms_gloss_crusades.htm"
   - "https://www.monuments-nationaux.fr/es/editions-du-patrimoine/les-ouvrages/the-cite-d-aigues-mortes"
+  - "https://commons.wikimedia.org/wiki/File:Aigues_Mortes_-_City_Walls_6.jpg"
+  - "https://commons.wikimedia.org/wiki/File:Death_of_Louis9.jpg"
 ---
 
 # 1270 · Octava cruzada
@@ -71,6 +73,11 @@ El hecho de que Eduardo acabara llegando a Acre no resuelve por sí solo qué hu
 
 La expedición salió del sur de Francia en 1270. Las fuerzas y los barcos podían moverse en momentos distintos y encontrarse en lugares convenidos. Se hizo escala en el ámbito de Cagliari, en Cerdeña, antes de cruzar hacia la costa tunecina. Los puertos eran lugares de reunión, abastecimiento y transmisión de noticias, además de simples puntos de paso. La coordinación de barcos que procedían de distintas ciudades afectaba a la fecha de partida, al espacio disponible para transportar animales y a la capacidad de organizar el desembarco. [1–3, 8]
 
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Aigues_Mortes_-_City_Walls_6.jpg/960px-Aigues_Mortes_-_City_Walls_6.jpg" alt="Muralla norte de Aigues-Mortes y torre circular al fondo" width="570" height="380" loading="lazy" decoding="async">
+  <figcaption>La muralla norte de Aigues-Mortes con la torre de Constanza al fondo. Vista actual del puerto de donde partió Luis IX. Fotografía de Ingo Mehling. <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. <a href="https://commons.wikimedia.org/wiki/File:Aigues_Mortes_-_City_Walls_6.jpg">Ficha en Wikimedia Commons</a>. [12]</figcaption>
+</figure>
+
 Ese tramo del viaje permite distinguir la función de una escala y el objetivo de la expedición. Un gobernador podía facilitar el paso sin participar en lo que se hiciera después. Un contrato de transporte daba obligaciones a tripulantes y pasajeros sin resolver por sí solo qué autoridad ocuparía la plaza que se pretendiera atacar. Las fuentes narrativas tienden a reunir la flota como si fuera un solo cuerpo. Saber desde dónde salió cada grupo y cuándo se incorporó aclara por qué algunos participantes afrontaron la situación de Túnez en fechas diferentes. [1–3, 8–10]
 
 ### Contratar barcos para el Mediterráneo
@@ -107,6 +114,11 @@ Entre los fallecidos estuvo Juan Tristán, hijo de Luis. Su muerte y la del rey 
 ### Qué se puede saber de la muerte del rey
 
 Luis murió el 25 de agosto de 1270. Las narraciones cercanas a su entorno dieron importancia a su preparación espiritual, a las personas que lo asistieron y a sus últimas palabras. Estos pasajes deben leerse en relación con el género de cada fuente. Un relato concebido para recordar la santidad de un rey podía poner en primer plano sus últimas decisiones y dejar menos información clínica. Las causas de la muerte se han discutido posteriormente. Un diagnóstico retrospectivo tiene un alcance diferente de la constatación de que existía un entorno de enfermedad y un deterioro suficientemente grave para causar numerosas bajas. [1–3, 6, 8–9]
+
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Death_of_Louis9.jpg" alt="Luis IX yace en su lecho rodeado de figuras en una miniatura" width="350" height="421" loading="lazy" decoding="async">
+  <figcaption>La muerte de Luis IX ante Túnez en 1270. Miniatura anónima del siglo XV de <i>Le livre des faits de Monseigneur Saint Louis</i>. Biblioteca Nacional de Francia. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Death_of_Louis9.jpg">Ficha en Wikimedia Commons</a>. [13]</figcaption>
+</figure>
 
 Un estudio moderno de restos atribuidos a Luis ha considerado el escorbuto y una posible infección. Su conclusión se refiere a pruebas e interpretaciones sobre el monarca y queda condicionada por la atribución del material y por los límites de una reconstrucción retrospectiva. No permite deducir por sí sola qué dolencia afectó a todos los que murieron durante la campaña. Las fuentes escritas llegaron a describir cuadros diversos. Para tratarlos conjuntamente haría falta verificar qué síntomas correspondían a qué persona y si procedían de un mismo momento. [1, 6, 8–9]
 
@@ -217,3 +229,5 @@ La Octava se suele situar al final de las expediciones numeradas dirigidas por L
 9. Ministerio de las Fuerzas Armadas de Francia, dossier sobre Luis IX y la campaña de Túnez. [Consultar](https://www.archives.defense.gouv.fr/content/download/626077/10405005/DPMA_2021_Mecenat_Saint-Louis_v3.pdf).
 10. Columbia University, cronología de las cruzadas y de la expedición de Eduardo. [Consultar](https://projects.mcah.columbia.edu/medieval-architecture/htm/ms/ma_ms_gloss_crusades.htm).
 11. Centre des monuments nationaux, La Cité d’Aigues-Mortes. [Consultar](https://www.monuments-nationaux.fr/es/editions-du-patrimoine/les-ouvrages/the-cite-d-aigues-mortes).
+12. La muralla norte de Aigues-Mortes con la torre de Constanza al fondo. Vista actual del puerto de donde partió Luis IX. Fotografía de Ingo Mehling. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Aigues_Mortes_-_City_Walls_6.jpg).
+13. La muerte de Luis IX ante Túnez en 1270. Miniatura anónima del siglo XV de Le livre des faits de Monseigneur Saint Louis. Biblioteca Nacional de Francia. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Death_of_Louis9.jpg).

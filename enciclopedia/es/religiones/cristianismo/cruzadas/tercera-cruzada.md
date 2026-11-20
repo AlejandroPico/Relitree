@@ -14,6 +14,8 @@ fuentes:
   - "https://www.cambridge.org/core/books/abs/third-crusade-11891192/call-to-defend-the-inheritance-of-christ-developments-in-papal-crusade-rhetoric-at-the-third-crusade/F4D41C36CE0DF35C9D54F73179ED9613"
   - "https://projects.mcah.columbia.edu/medieval-architecture/htm/ms/ma_ms_gloss_crusades.htm"
   - "https://sourcebooks.fordham.edu/source/1187ansbert.asp"
+  - "https://commons.wikimedia.org/wiki/File:Medieval_coin%2C_Fals_of_Saladin_%28FindID_399423%29.jpg"
+  - "https://commons.wikimedia.org/wiki/File:Richard-Saladin_legendaerer_Kampf_vor_Jaffa.jpg"
 ---
 
 # 1189–1192 · Tercera cruzada
@@ -25,6 +27,11 @@ La Tercera cruzada fue una respuesta a la destrucción de buena parte del ejérc
 ### Los poderes que se enfrentaron en Hattin
 
 Saladino había establecido su autoridad en Egipto y ampliado su dominio sobre Siria. Esa capacidad de coordinar recursos de territorios separados cambió las condiciones en que el reino de Jerusalén negociaba y combatía. El mundo político musulmán de la región incluía otros gobernantes y relaciones de dependencia cambiantes. Obtener el apoyo de fuerzas provenientes de distintas ciudades exigía comunicaciones, autoridad reconocida y tiempo. El recurso al lenguaje del <em>yihad</em> daba una justificación religiosa a la lucha, y también interesa conocer cómo movilizó Saladino a sus aliados y qué obligaciones tuvieron los poderes que lo acompañaban. [1, 3, 5, 7]
+
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Medieval_coin%2C_Fals_of_Saladin_%28FindID_399423%29.jpg" alt="Dos caras de una moneda de aleación de cobre con inscripciones desgastadas" width="420" height="271" loading="lazy" decoding="async">
+  <figcaption>Moneda ayubí atribuida con reservas a Saladino. Fotografía de Anni Byard para Oxfordshire County Council y el Portable Antiquities Scheme, ficha 399423. <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>. <a href="https://commons.wikimedia.org/wiki/File:Medieval_coin%2C_Fals_of_Saladin_%28FindID_399423%29.jpg">Ficha en Wikimedia Commons</a>. [11]</figcaption>
+</figure>
 
 En el reino latino, la sucesión y la distribución de autoridad entre linajes provocaron disputas. Guido de Lusignan llegó a la realeza a través de su matrimonio con Sibila y en un contexto de competencia por la herencia. Raimundo III de Trípoli y otros señores poseían sus propios dominios y relaciones regionales. La acción del señor de Transjordania, Reinaldo de Châtillon, contra caravanas y acuerdos formó parte del conflicto anterior a Hattin. La situación de cada señor afectaba a la posibilidad de mantener una tregua. Un compromiso del reino podía verse alterado por decisiones tomadas en una frontera lejos de la capital. [1, 3, 5, 7]
 
@@ -143,6 +150,11 @@ Los gobernantes del Levante tenían además intereses propios. Conrado mantenía
 
 En julio y agosto de 1192 se combatió de nuevo por Jaffa. Saladino atacó mientras parte de las fuerzas cruzadas se encontraba en otros lugares. Ricardo acudió por mar y logró restablecer el control latino. La secuencia muestra la ventaja de poder trasladar fuerzas a lo largo de la costa y la fragilidad de lo conseguido durante la marcha del año anterior. Los relatos dan importancia a las decisiones de los jefes y a la resistencia de quienes quedaron en lugares fortificados. Para entender los dos momentos hay que distinguir el ataque a la población y las defensas, la llegada de ayuda y el posterior combate. [1–3, 7]
 
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Richard-Saladin_legendaerer_Kampf_vor_Jaffa.jpg" alt="Detalle del salterio con dos jinetes enfrentados con lanzas" width="605" height="213" loading="lazy" decoding="async">
+  <figcaption>Duelo legendario entre Ricardo I y Saladino ante Jaffa. Detalle anónimo del <i>Salterio de Luttrell</i>, hacia 1325–1335. British Library, Add MS 42130, folio 82r. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Richard-Saladin_legendaerer_Kampf_vor_Jaffa.jpg">Ficha en Wikimedia Commons</a>. [12]</figcaption>
+</figure>
+
 La proximidad de un acuerdo no eliminaba los motivos para actuar militarmente. Quien podía recuperar una plaza quizá lo intentara para mejorar su posición o impedir que siguiera sirviendo de base. Al mismo tiempo, prolongar la campaña ofrecía rendimientos inciertos a fuerzas que llevaban mucho tiempo movilizadas. La salud, el coste y los problemas de gobierno en Europa afectaban a Ricardo. Saladino debía coordinar intereses de dirigentes que habían contribuido a su ejército y conservar ciudades de importancia política y religiosa. El acuerdo de septiembre se entiende en este marco de decisiones y recursos. [1–3, 7]
 
 ### El acuerdo de 1192
@@ -195,3 +207,5 @@ La [[cristianismo/cruzadas/panorama|visión de conjunto]] sitúa la Tercera cruz
 8. «A Call to Defend the Inheritance of Christ», estudio de la convocatoria pontificia, Cambridge University Press. [Consultar](https://www.cambridge.org/core/books/abs/third-crusade-11891192/call-to-defend-the-inheritance-of-christ-developments-in-papal-crusade-rhetoric-at-the-third-crusade/F4D41C36CE0DF35C9D54F73179ED9613).
 9. Columbia University, cronología de las cruzadas en el Mediterráneo oriental. [Consultar](https://projects.mcah.columbia.edu/medieval-architecture/htm/ms/ma_ms_gloss_crusades.htm).
 10. Carta de Oriente al maestre del Hospital (1187), Fordham University. [Consultar](https://sourcebooks.fordham.edu/source/1187ansbert.asp).
+11. Moneda ayubí atribuida con reservas a Saladino. Fotografía de Anni Byard para Oxfordshire County Council y el Portable Antiquities Scheme, ficha 399423. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Medieval_coin%2C_Fals_of_Saladin_%28FindID_399423%29.jpg).
+12. Duelo legendario entre Ricardo I y Saladino ante Jaffa. Detalle anónimo del Salterio de Luttrell, hacia 1325–1335. British Library, Add MS 42130, folio 82r. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Richard-Saladin_legendaerer_Kampf_vor_Jaffa.jpg).

@@ -15,6 +15,8 @@ fuentes:
   - "https://www.unav.es/biblioteca/fondoantiguo/hufaexp24/"
   - "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/2214032"
   - "https://cvc.cervantes.es/el_rinconete/anteriores/marzo_20/31032020_01.htm"
+  - "https://commons.wikimedia.org/wiki/File:Batalla_de_las_Navas_de_Tolosa%2C_por_Francisco_van_Halen.jpg"
+  - "https://commons.wikimedia.org/wiki/File:La_Rendici%C3%B3n_de_Granada_%28Francisco_Pradilla%2C_Palacio_del_Senado%2C_1882%29.jpg"
 ---
 
 # Siglos XI–XV · La idea de cruzada en la Reconquista
@@ -95,6 +97,11 @@ El apoyo exterior incluyó contingentes de más allá de los Pirineos. Algunos m
 
 El 16 de julio de 1212, las fuerzas de la coalición vencieron al ejército almohade del califa Muhammad al-Nasir en las Navas de Tolosa. La reconstrucción de la campaña se basa en cartas, crónicas cristianas y testimonios de otras procedencias. Rodrigo Jiménez de Rada fue actor de los acontecimientos y elaboró después un relato histórico con objetivos propios. Sus informaciones pueden cotejarse con cartas próximas al combate para identificar qué se supo en cada momento y qué sentido se atribuyó a la victoria cuando se volvió a contar años más tarde. [1, 3, 9]
 
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Batalla_de_las_Navas_de_Tolosa%2C_por_Francisco_van_Halen.jpg/960px-Batalla_de_las_Navas_de_Tolosa%2C_por_Francisco_van_Halen.jpg" alt="Pintura de la batalla de las Navas de Tolosa con jinetes y estandartes" width="620" height="429" loading="lazy" decoding="async">
+  <figcaption>Francisco van Halen, <i>La batalla de las Navas de Tolosa</i>, 1864. Interpretación del combate de 1212, conservada en el Palacio del Senado. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Batalla_de_las_Navas_de_Tolosa%2C_por_Francisco_van_Halen.jpg">Ficha en Wikimedia Commons</a>. [12]</figcaption>
+</figure>
+
 Los testimonios asignan papeles destacados a dirigentes y narran episodios que adquirieron vida propia. Algunas imágenes sobre un paso de sierra o las defensas del campamento se convirtieron en elementos de memoria. Para averiguar qué muestran sobre el combate conviene preguntar en qué fuente figuran por primera vez y cómo se relacionan con la topografía y las noticias de otras versiones. El que un detalle sea recordado con frecuencia puede decir mucho sobre su poder simbólico y poco sobre la posibilidad de comprobación independiente. [1, 3, 9]
 
 La victoria facilitó nuevos cambios en la frontera y adquirió un valor simbólico duradero. Los poderes almohades y andalusíes siguieron actuando después. La expansión castellana y aragonesa de décadas posteriores dependió también de la fragmentación política, de nuevas decisiones de gobierno y de operaciones distintas de las Navas. Los documentos sobre los avances de mediados de siglo permiten estudiar qué recursos se habían reunido para cada conquista y qué se hizo con el territorio. La batalla de 1212 y esos procesos están conectados y requieren explicaciones en escalas temporales diferentes. [1–4, 9]
@@ -136,6 +143,11 @@ Los siglos XIV y XV incluyeron episodios de ofensiva castellana y periodos en qu
 ### Los Reyes Católicos y la campaña de 1482–1492
 
 La toma cristiana de Alhama en 1482 marcó el comienzo de una fase de operaciones continuadas. Isabel de Castilla y Fernando de Aragón movilizaron recursos y sostuvieron campañas en las que importaban la disponibilidad de artillería, los contingentes, el transporte de pertrechos y las obligaciones de las ciudades y la nobleza. Los cambios de equilibrio dentro de la dinastía nazarí incidieron en lo que cada grupo podía defender o negociar. Málaga cayó en 1487 y Baza en 1489. Granada se rindió al comenzar 1492, tras negociaciones llevadas a cabo el año anterior. [4, 8, 10]
+
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/La_Rendici%C3%B3n_de_Granada_%28Francisco_Pradilla%2C_Palacio_del_Senado%2C_1882%29.jpg/960px-La_Rendici%C3%B3n_de_Granada_%28Francisco_Pradilla%2C_Palacio_del_Senado%2C_1882%29.jpg" alt="Boabdil se aproxima a los Reyes Católicos para entregar las llaves de Granada" width="620" height="401" loading="lazy" decoding="async">
+  <figcaption>Francisco Pradilla, <i>La rendición de Granada</i>, 1882. Pintura histórica sobre la entrega de la ciudad en 1492. Palacio del Senado. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:La_Rendici%C3%B3n_de_Granada_%28Francisco_Pradilla%2C_Palacio_del_Senado%2C_1882%29.jpg">Ficha en Wikimedia Commons</a>. [13]</figcaption>
+</figure>
 
 El respaldo pontificio y las aportaciones vinculadas a la cruzada formaron parte de la financiación. Su relación con otros ingresos se comprueba en cuentas y concesiones. Para el gobierno, poder planificar el coste de varios años dio otra escala a la guerra. Para quien contribuía, la predicación podía ofrecer un modo de actuar en un conflicto lejano sin desplazarse. Para las poblaciones sometidas, los resultados dependían también del modo en que se había obtenido cada entrega y de la capacidad de hacer cumplir sus condiciones. La conquista de Málaga y la capitulación negociada de Granada ilustran la diferencia entre trayectorias de ciudades en la misma guerra. [4, 8, 10]
 
@@ -213,3 +225,5 @@ La [[cristianismo/cruzadas/panorama|visión de conjunto]] explica cómo se artic
 9. «1212: Las Navas de Tolosa», exposición bibliográfica. [Universidad de Navarra](https://www.unav.es/biblioteca/fondoantiguo/hufaexp24/).
 10. «Capitulación entre los Reyes Católicos y Boabdil, rey de Granada, para la entrega de esta ciudad». [Portal de Archivos Españoles](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/2214032).
 11. Jeneze Riquer, «Iberia legendaria. Santiago Matamoros». [Centro Virtual Cervantes](https://cvc.cervantes.es/el_rinconete/anteriores/marzo_20/31032020_01.htm).
+12. Francisco van Halen, La batalla de las Navas de Tolosa, 1864. Interpretación del combate de 1212, conservada en el Palacio del Senado. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Batalla_de_las_Navas_de_Tolosa%2C_por_Francisco_van_Halen.jpg).
+13. Francisco Pradilla, La rendición de Granada, 1882. Pintura histórica sobre la entrega de la ciudad en 1492. Palacio del Senado. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:La_Rendici%C3%B3n_de_Granada_%28Francisco_Pradilla%2C_Palacio_del_Senado%2C_1882%29.jpg).

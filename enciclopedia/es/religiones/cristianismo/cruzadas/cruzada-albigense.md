@@ -12,6 +12,8 @@ fuentes:
   - "https://gams.uni-graz.at/archive/objects/o%3Acord.f53e6aea.5579.39e3.9012.042bce6e4538/methods/sdef%3ATEI/get?locale=en&mode=datelist"
   - "https://bibnum.chartes.psl.eu/s/thenca/item/59048"
   - "https://sourcebooks.fordham.edu/basis/lateran4.asp"
+  - "https://commons.wikimedia.org/wiki/File:Cathars_expelled.JPG"
+  - "https://commons.wikimedia.org/wiki/File:Carcassonne-Panorama_de_la_Cit%C3%A9_A-20201017.jpg"
 ---
 
 # 1209–1229 · Cruzada albigense
@@ -75,6 +77,11 @@ El episodio tuvo efectos sobre la forma en que otras plazas podían evaluar un a
 ### Carcasona y el nuevo titular de los vizcondados
 
 Carcasona cayó en agosto, tras presión militar, dificultades de agua y negociaciones. Los habitantes abandonaron la ciudad en circunstancias diferentes de las de Béziers. Raimundo Roger Trencavel quedó prisionero y murió en noviembre. Las fuentes difieren al describir su detención y muerte. Quedaba abierta la cuestión del derecho de su familia a recobrar los dominios. La muerte del vizconde favoreció una decisión sobre el mando cruzado que generaría nuevas querellas durante años. [1–3]
+
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Cathars_expelled.JPG/500px-Cathars_expelled.JPG" alt="Figuras que salen por una puerta de la ciudad en una miniatura de la expulsión de Carcasona" width="380" height="398" loading="lazy" decoding="async">
+  <figcaption>La expulsión de los habitantes de Carcasona en 1209 según las <i>Grandes Chroniques de France</i>. Taller del Maestro de Boucicaut, hacia 1415. British Library. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Cathars_expelled.JPG">Ficha en Wikimedia Commons</a>. [9]</figcaption>
+</figure>
 
 Simón de Montfort recibió el mando y el señorío sobre las tierras conquistadas, tras las negativas de otros nobles a asumirlos. Su capacidad para ocuparlas dependió de una red de guarniciones, nuevas llegadas de cruzados y acuerdos con poderes locales. El reconocimiento pontificio y el reconocimiento de quienes tenían derechos feudales eran cuestiones relacionadas que exigían trámites y negociaciones distintos. Asegurar una conquista requería ejercer justicia, percibir recursos, distribuir responsabilidades y controlar plazas que podían cambiar de obediencia al retirarse el grueso del ejército. [1–3]
 
@@ -185,6 +192,11 @@ La correspondencia entre el centro pontificio y el sur se hacía con tiempos de 
 
 Una fortaleza servía para controlar un paso, almacenar bienes, alojar a una pequeña fuerza y ofrecer refugio. La sucesión de sitios de 1210 muestra que esa combinación afectaba a lo que ocurría fuera de las murallas. Una guarnición podía beneficiarse de acuerdos con aldeas próximas o de rutas que le permitieran reponer agua y víveres. Quien sitiaba necesitaba sostener a personas que consumían los recursos disponibles en la comarca. El relato escrito puede concentrarse en una capitulación y dejar sin mencionar los suministros apropiados a lo largo de varios meses. Las dificultades en Minerve y Termes se entienden mejor cuando se conectan los recintos con el territorio que debía sostenerlos. [1–2]
 
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Carcassonne-Panorama_de_la_Cit%C3%A9_A-20201017.jpg/960px-Carcassonne-Panorama_de_la_Cit%C3%A9_A-20201017.jpg" alt="Vista panorámica de las torres y murallas de la ciudad fortificada de Carcasona" width="630" height="214" loading="lazy" decoding="async">
+  <figcaption>La ciudad fortificada de Carcasona en la actualidad. Su aspecto reúne obras de distintas épocas. Fotografía de Daniel Villafruela, 2020. <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. <a href="https://commons.wikimedia.org/wiki/File:Carcassonne-Panorama_de_la_Cit%C3%A9_A-20201017.jpg">Ficha en Wikimedia Commons</a>. [10]</figcaption>
+</figure>
+
 En Carcasona puede seguirse una historia posterior de fortificación y administración regia. En Toulouse, las defensas que aparecen en las narraciones de 1217 y 1218 estaban ligadas a una población que podía movilizar trabajo, conseguir apoyos e intervenir en decisiones colectivas. La imagen moderna de un castillo aislado tiende a dar el mismo papel a todos los recintos. La documentación medieval permite distinguir entre el asiento de un linaje, una posición estratégica que pasó a manos regias y el refugio que cobró importancia en una etapa ulterior de persecución. Los lugares podían conservar el nombre mientras cambiaban su función militar y el alcance de su jurisdicción. [1–3, 5–6]
 
 ### La guerra y la transmisión de bienes
@@ -207,3 +219,5 @@ Un relato sobre huidas y cautivos puede presentar a los habitantes como un conju
 6. Ratificación de Raimundo VII, París, 12 de abril de 1229, Archives nationales AE/II/230. [Edición digital, Universidad de Graz](https://gams.uni-graz.at/archive/objects/o%3Acord.f53e6aea.5579.39e3.9012.042bce6e4538/methods/sdef%3ATEI/get?locale=en&mode=datelist).
 7. *Raimond VII de Toulouse et la paix de Paris (1229–1249)*. [École nationale des chartes](https://bibnum.chartes.psl.eu/s/thenca/item/59048).
 8. Constituciones de Letrán IV, especialmente el canon tercero. [Fordham University](https://sourcebooks.fordham.edu/basis/lateran4.asp).
+9. La expulsión de los habitantes de Carcasona en 1209 según las Grandes Chroniques de France. Taller del Maestro de Boucicaut, hacia 1415. British Library. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Cathars_expelled.JPG).
+10. La ciudad fortificada de Carcasona en la actualidad. Su aspecto reúne obras de distintas épocas. Fotografía de Daniel Villafruela, 2020. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Carcassonne-Panorama_de_la_Cit%C3%A9_A-20201017.jpg).

@@ -17,6 +17,7 @@ fuentes:
   - "https://www.monuments-nationaux.fr/es/editions-du-patrimoine/les-ouvrages/the-cite-d-aigues-mortes"
   - "https://api.pageplace.de/preview/DT0400.9781351882026_A39657495/preview-9781351882026_A39657495.pdf"
   - "https://ignca.gov.in/Asi_data/6025.pdf"
+  - "https://commons.wikimedia.org/wiki/File:Damietta1249A.jpg"
 ---
 
 # 1248–1254 · Séptima cruzada
@@ -58,6 +59,11 @@ Construir una posición portuaria tenía efectos más allá de una expedición. 
 ### El desembarco y la toma de la ciudad
 
 La flota llegó al litoral egipcio en junio de 1249. El desembarco dio lugar a combates. Las fuerzas encargadas de la defensa se retiraron y Damieta pasó a manos cruzadas con rapidez. La comparación con el asedio de 1218–1219 aclara la diferencia entre esta ocupación y la anterior. El acceso al puerto, el estado de los defensores y las decisiones tomadas en el momento alteraron lo que se necesitó para tomar la plaza. Un relato que celebra la rapidez de un desembarco y otro que explica la retirada egipcia parten de perspectivas distintas del mismo cambio de autoridad. [1–4, 7]
+
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Damietta1249A.jpg/500px-Damietta1249A.jpg" alt="Miniatura en dos escenas que representa la partida de Luis IX y el asedio de Damieta" width="390" height="473" loading="lazy" decoding="async">
+  <figcaption>La partida de Luis IX y el asedio de Damieta en 1249. Miniatura anónima del siglo XIII. Biblioteca Nacional de Francia, Français 2628, folio 328v. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Damietta1249A.jpg">Ficha en Wikimedia Commons</a>. [14]</figcaption>
+</figure>
 
 La posesión de Damieta dio al ejército una base en la desembocadura y permitió aprovechar el suministro por mar. La campaña había alcanzado una posición que podía utilizarse para negociar o para avanzar. Había que decidir cómo alojar a las fuerzas, distribuir bienes y proteger la comunicación con el Mediterráneo. Los habitantes habían afrontado retirada, pérdida de propiedades o cambios de gobierno. Para estudiar su suerte conviene combinar lo que describen los cronistas del asalto con las noticias sobre lo que ocurrió durante la ocupación. La rapidez de la toma no elimina los problemas que planteó después administrar un centro urbano. [1–4, 7]
 
@@ -215,3 +221,4 @@ La pérdida de Damieta y el cautiverio de Luis fueron un fracaso de la expedici�
 11. Centre des monuments nationaux, La Cité d’Aigues-Mortes. [Consultar](https://www.monuments-nationaux.fr/es/editions-du-patrimoine/les-ouvrages/the-cite-d-aigues-mortes).
 12. Edición de fuentes de la Séptima cruzada, introducción a las cartas de Luis IX. [Consultar](https://api.pageplace.de/preview/DT0400.9781351882026_A39657495/preview-9781351882026_A39657495.pdf).
 13. Historia de los contactos euroasiáticos, capítulo sobre Guillermo de Rubruck, IGNCA. [Consultar](https://ignca.gov.in/Asi_data/6025.pdf).
+14. La partida de Luis IX y el asedio de Damieta en 1249. Miniatura anónima del siglo XIII. Biblioteca Nacional de Francia, Français 2628, folio 328v. [Ficha, reproducción y licencia](https://commons.wikimedia.org/wiki/File:Damietta1249A.jpg).
