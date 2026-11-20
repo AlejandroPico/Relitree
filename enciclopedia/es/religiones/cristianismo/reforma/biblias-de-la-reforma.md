@@ -27,6 +27,8 @@ fuentes:
   - "https://estudiosmedievales.revistas.csic.es/index.php/estudiosmedievales/article/view/1369"
   - "https://phte.upf.edu/hte/siglos-de-oro/fernandez-marcos/"
   - "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/19/66/68/35/2019666835/2019666835.pdf"
+  - "https://commons.wikimedia.org/wiki/File:Title_page_of_Luther%27s_first_edition_of_the_entire_Bible_Wittenberg%2C_1534.png"
+  - "https://commons.wikimedia.org/wiki/File:Biblia_del_Oso.png"
 ---
 
 # Siglos XVI–XVII · Las Biblias de la Reforma
@@ -95,6 +97,11 @@ En la edición de Lutero, los prólogos ofrecían indicaciones acerca de cómo i
 La Biblia completa apareció en Wittenberg en 1534. Lutero y un grupo de colaboradores examinaron los textos y siguieron revisando la traducción. En esa labor, las competencias en hebreo, griego y latín se complementaban con el conocimiento de cómo expresarse en alemán. Las versiones de distintas fechas ilustran cómo se modificó el texto a medida que aparecían problemas de interpretación o de comprensión. Las Biblias impresas permitían además ofrecer al lector prólogos y una disposición de los libros que orientaban su uso. Su estudio requiere identificar la edición concreta. [1–2, 12]
 
 La Biblia de Lutero alcanzó una difusión considerable y se utilizó en culto y enseñanza. Su influencia sobre el alemán escrito se entiende como parte de procesos de circulación y elaboración anteriores y posteriores. El trabajo de los impresores, las decisiones de las iglesias y la repetición de expresiones en la escuela y el hogar contribuyeron a su alcance. Un modo de medirlo es seguir ediciones, citas y revisiones. Que una fórmula se conozca en un lugar permite preguntar si llegó por lectura directa, predicación o reproducción de un pasaje ya incorporado al uso común. [1–2, 12]
+
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Title_page_of_Luther%27s_first_edition_of_the_entire_Bible_Wittenberg%2C_1534.png/500px-Title_page_of_Luther%27s_first_edition_of_the_entire_Bible_Wittenberg%2C_1534.png" alt="Portada de 1534 con el título alemán enmarcado por figuras e ilustraciones" width="315" height="484" loading="lazy" decoding="async">
+  <figcaption>Portada de la primera edición completa de la Biblia de Lutero, Wittenberg, 1534. Facsímil reproducido por Johann Michael Reu en 1917. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Title_page_of_Luther%27s_first_edition_of_the_entire_Bible_Wittenberg%2C_1534.png">Ficha y reproducción</a>. [24]</figcaption>
+</figure>
 
 ### La Biblia de Zúrich de 1531
 
@@ -187,6 +194,11 @@ Cipriano de Valera publicó en Ámsterdam en 1602 una revisión de la traducció
 
 La trayectoria del texto demuestra el valor de estudiar el exilio como condición de publicación. Un traductor podía pasar por lugares que ofrecían apoyo personal o posibilidades de imprimir, mientras los lectores para quienes escribía vivían bajo autoridades diferentes. Para comprender la transmisión se examina qué versiones se imprimieron de nuevo, cómo se adaptaron a sus públicos y qué comunidades las conservaron. En otras lenguas, como el inglés y el francés, hubo procesos semejantes de publicación exterior con historias políticas diferentes. La comparación permite identificar el papel que desempeña una red sin reducir las traducciones a un solo modelo. [5–9, 18]
 
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Biblia_del_Oso.png" alt="Portada de la Biblia castellana de 1569 con un oso junto a un árbol" width="315" height="427" loading="lazy" decoding="async">
+  <figcaption>Portada de la Biblia del Oso, traducción de Casiodoro de Reina, Basilea, 1569. El emblema del oso dio nombre a la edición. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Biblia_del_Oso.png">Ficha y reproducción</a>. [25]</figcaption>
+</figure>
+
 ## Otros centros de traducción y la respuesta católica
 
 ### Gales, Moravia y Hungría
@@ -250,3 +262,5 @@ Para estudiar la edición como objeto puede compararse la portada de la Biblia d
 21. «De la Biblia de Ferrara a la Biblia del Oso: traducciones bíblicas del siglo XVI y su relación con las versiones medievales de las Escrituras». [Anuario de Estudios Medievales, CSIC](https://estudiosmedievales.revistas.csic.es/index.php/estudiosmedievales/article/view/1369).
 22. Natalio Fernández Marcos, panorama de las traducciones bíblicas del Siglo de Oro. [Universitat Pompeu Fabra](https://phte.upf.edu/hte/siglos-de-oro/fernandez-marcos/).
 23. H. A. G. Houghton, *The Latin New Testament. A Guide to Its Early History, Texts, and Manuscripts*. [Oxford University Press, ejemplar digital de la Library of Congress](https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/19/66/68/35/2019666835/2019666835.pdf).
+24. Portada de la primera edición completa de la Biblia de Lutero, Wittenberg, 1534. Facsímil reproducido por Johann Michael Reu en 1917. [Ficha y reproducción](https://commons.wikimedia.org/wiki/File:Title_page_of_Luther%27s_first_edition_of_the_entire_Bible_Wittenberg%2C_1534.png).
+25. Portada de la Biblia del Oso, traducción de Casiodoro de Reina, Basilea, 1569. El emblema del oso dio nombre a la edición. [Ficha y reproducción](https://commons.wikimedia.org/wiki/File:Biblia_del_Oso.png).

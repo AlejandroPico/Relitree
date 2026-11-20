@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 311" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Las garantías del Edicto de Nantes</title>
+  <desc id="descripcion">Ámbitos regulados por el edicto y los documentos complementarios.</desc>
+  <rect width="760" height="311" fill="#f5efe2"/>
+  <path d="M0 0h760v9H0z" fill="#7e3f32"/>
+  <text x="29" y="45" fill="#272c29" font-family="Georgia, serif" font-size="26">Las garantías del Edicto de Nantes</text>
+  <text x="30" y="73" fill="#49554f" font-family="system-ui, sans-serif" font-size="15">Ámbitos regulados por el edicto y los documentos complementarios.</text>
+  <path d="M218 108v153" stroke="#b58265" stroke-width="2"/>
+  <g font-family="system-ui, sans-serif" font-size="16">
+    <text x="30" y="113" fill="#733c34" font-weight="700">Conciencia</text>
+    <circle cx="218" cy="108" r="5" fill="#7e3f32"/>
+    <text x="245" y="113" fill="#272c29">Residencia en el reino con libertad de conciencia</text>
+    <text x="30" y="164" fill="#733c34" font-weight="700">Culto público</text>
+    <circle cx="218" cy="159" r="5" fill="#7e3f32"/>
+    <text x="245" y="164" fill="#272c29">Lugares y condiciones definidos por el edicto</text>
+    <text x="30" y="215" fill="#733c34" font-weight="700">Derechos civiles</text>
+    <circle cx="218" cy="210" r="5" fill="#7e3f32"/>
+    <text x="245" y="215" fill="#272c29">Acceso a cargos y garantías en los tribunales</text>
+    <text x="30" y="266" fill="#733c34" font-weight="700">Plazas de seguridad</text>
+    <circle cx="218" cy="261" r="5" fill="#7e3f32"/>
+    <text x="245" y="266" fill="#272c29">Garantías militares temporales, en documentos aparte</text>
+  </g>
+</svg>

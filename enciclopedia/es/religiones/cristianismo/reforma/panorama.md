@@ -20,6 +20,7 @@ fuentes:
   - "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/martin-luther-ninety-five-theses-october-31-1517"
   - "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/the-reformation-defined-the-diet-of-augsburg-1530"
   - "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/grievances-and-demands-the-twelve-articles-of-the-swabian-peasants-february-27-march-1-1525"
+  - "https://commons.wikimedia.org/wiki/File:Cranach_Gesetz_und_Gnade_Gotha.jpg"
 ---
 
 # La Reforma protestante · Visión de conjunto
@@ -80,6 +81,11 @@ Lutero reconoció agravios de los campesinos en un escrito de exhortación y des
 ### La ciudad y el territorio como centros de decisión
 
 En una ciudad imperial, un consejo podía organizar un debate, revisar la predicación o resolver a quién correspondía un bien eclesiástico. En un principado, el itinerario podía pasar por la orden de un soberano y por visitadores que examinaban parroquias de características muy distintas. La adopción de una reforma dependió de relaciones entre quienes proponían cambios, quienes tenían competencia para decidir y quienes debían aplicarlos. En el nivel imperial, la disciplina de una ciudad y las condiciones de una paz ofrecían marcos distintos. El análisis a varias escalas ayuda a explicar por qué dos localidades cercanas podían terminar bajo regímenes confesionales diferentes. [1–4, 7]
+
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Cranach_Gesetz_und_Gnade_Gotha.jpg" alt="Dos escenas alegóricas separadas por un árbol seco a un lado y frondoso al otro" width="590" height="406" loading="lazy" decoding="async">
+  <figcaption>Lucas Cranach el Viejo, <i>Ley y Evangelio</i>, 1529, versión de Gotha. La pintura contrapone dos escenas para explicar la relación entre ley y gracia. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Cranach_Gesetz_und_Gnade_Gotha.jpg">Ficha y reproducción</a>. [17]</figcaption>
+</figure>
 
 ## Zúrich, Ginebra y las iglesias reformadas
 
@@ -185,7 +191,7 @@ La fórmula posterior *cuius regio, eius religio* expresa el peso que adquirió 
 
 ### Francia y los Países Bajos
 
-En Francia, las guerras de religión iniciadas en 1562 enfrentaron coaliciones con objetivos confesionales, dinásticos y territoriales diversos. Las matanzas de San Bartolomé de 1572 revelaron la vulnerabilidad de comunidades protestantes y la capacidad de propagación de la violencia. El Edicto de Nantes de 1598 dispuso un marco para la coexistencia con derechos y límites concretos para los reformados. Su aplicación y memoria dependieron de disputas locales, y la Corona lo revocó en 1685. La secuencia sirve para estudiar cómo una paz podía organizar la convivencia durante generaciones bajo un régimen revisable. [1–2, 9]
+En Francia, las [[cristianismo/reforma/guerras-de-religion-de-francia|guerras de religión]] iniciadas en 1562 enfrentaron coaliciones con objetivos confesionales, dinásticos y territoriales diversos. Las matanzas de San Bartolomé de 1572 revelaron la vulnerabilidad de comunidades protestantes y la capacidad de propagación de la violencia. El Edicto de Nantes de 1598 dispuso un marco para la coexistencia con derechos y límites concretos para los reformados. Su aplicación y memoria dependieron de disputas locales, y la Corona lo revocó en 1685. La secuencia sirve para estudiar cómo una paz podía organizar la convivencia durante generaciones bajo un régimen revisable. [1–2, 9]
 
 En los Países Bajos, la rebelión contra Felipe II se desenvolvió en un territorio de provincias con privilegios y orientaciones diferentes. La imposición fiscal, las prerrogativas de las ciudades y la represión de la disidencia interactuaron. La guerra dio lugar al desarrollo político de las Provincias Unidas, mientras otras provincias permanecieron bajo gobierno de los Habsburgo. En 1648 la paz de Münster entre la monarquía hispánica y las Provincias Unidas reconoció la independencia de estas. Su relación temporal con los acuerdos imperiales de Westfalia permite distinguir guerras que estuvieron conectadas y conservaron causas y arreglos propios. [1–4, 8]
 
@@ -222,7 +228,7 @@ Al estudiar una reforma, resulta práctico anotar por separado la fecha en que s
 
 ### Un recorrido por los artículos de la fase
 
-El primer paso es el estudio de [[cristianismo/reforma/martin-lutero|Martín Lutero]], que explica la controversia de las indulgencias, Worms y la traducción bíblica desde la perspectiva de una biografía. Los estudios sobre [[cristianismo/reforma/calvino-y-reforma-suiza|Calvino y la Reforma suiza]] y [[cristianismo/reforma/reforma-radical|la Reforma radical]] amplían la comparación suiza y centroeuropea. [[cristianismo/reforma/reforma-inglesa|La Reforma inglesa]] sigue los cambios de culto y gobierno bajo los Tudor. [[cristianismo/reforma/biblias-de-la-reforma|Las Biblias de la Reforma]] recorren los vínculos entre traducción, imprenta y lectura. La reforma católica, las guerras, los tratados y el puritanismo permiten seguir cambios en los que la pertenencia religiosa afectó a la política, la vida local y las migraciones. Las conexiones con Trento, las iglesias reformadas y las tradiciones luteranas ofrecen ya caminos adicionales desde esta guía. [1–13]
+El primer paso es el estudio de [[cristianismo/reforma/martin-lutero|Martín Lutero]], que explica la controversia de las indulgencias, Worms y la traducción bíblica desde la perspectiva de una biografía. Los estudios sobre [[cristianismo/reforma/calvino-y-reforma-suiza|Calvino y la Reforma suiza]] y [[cristianismo/reforma/reforma-radical|la Reforma radical]] amplían la comparación suiza y centroeuropea. [[cristianismo/reforma/reforma-inglesa|La Reforma inglesa]] sigue los cambios de culto y gobierno bajo los Tudor. [[cristianismo/reforma/biblias-de-la-reforma|Las Biblias de la Reforma]] recorren los vínculos entre traducción, imprenta y lectura. La [[cristianismo/reforma/contrarreforma|reforma católica]], las guerras, los tratados y el puritanismo permiten seguir cambios en los que la pertenencia religiosa afectó a la política, la vida local y las migraciones. Las conexiones con Trento, las iglesias reformadas y las tradiciones luteranas ofrecen ya caminos adicionales desde esta guía. [1–13]
 
 ## Fuentes
 
@@ -242,3 +248,4 @@ El primer paso es el estudio de [[cristianismo/reforma/martin-lutero|Martín Lut
 14. Martín Lutero, noventa y cinco tesis, 1517. [German History in Documents and Images](https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/martin-luther-ninety-five-theses-october-31-1517).
 15. La Dieta de Augsburgo de 1530 y la Confesión de Augsburgo. [German History in Documents and Images](https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/the-reformation-defined-the-diet-of-augsburg-1530).
 16. *Los Doce artículos de los campesinos de Suabia*, 1525, texto con introducción. [German History in Documents and Images](https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/grievances-and-demands-the-twelve-articles-of-the-swabian-peasants-february-27-march-1-1525).
+17. Lucas Cranach el Viejo, Ley y Evangelio, 1529, versión de Gotha. La pintura contrapone dos escenas para explicar la relación entre ley y gracia. [Ficha y reproducción](https://commons.wikimedia.org/wiki/File:Cranach_Gesetz_und_Gnade_Gotha.jpg).

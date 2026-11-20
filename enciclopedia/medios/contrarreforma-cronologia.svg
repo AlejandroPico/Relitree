@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 464" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">La Reforma católica en el siglo XVI</title>
+  <desc id="descripcion">Hitos de renovación religiosa, doctrina y aplicación local.</desc>
+  <rect width="760" height="464" fill="#f5efe2"/>
+  <path d="M0 0h760v9H0z" fill="#7e3f32"/>
+  <text x="29" y="45" fill="#272c29" font-family="Georgia, serif" font-size="26">La Reforma católica en el siglo XVI</text>
+  <text x="30" y="73" fill="#49554f" font-family="system-ui, sans-serif" font-size="15">Hitos de renovación religiosa, doctrina y aplicación local.</text>
+  <path d="M218 108v306" stroke="#b58265" stroke-width="2"/>
+  <g font-family="system-ui, sans-serif" font-size="16">
+    <text x="30" y="113" fill="#733c34" font-weight="700">1524–1535</text>
+    <circle cx="218" cy="108" r="5" fill="#7e3f32"/>
+    <text x="245" y="113" fill="#272c29">Teatinos, capuchinos y la Compañía de Santa Úrsula</text>
+    <text x="30" y="164" fill="#733c34" font-weight="700">1540–1542</text>
+    <circle cx="218" cy="159" r="5" fill="#7e3f32"/>
+    <text x="245" y="164" fill="#272c29">Aprobación de los jesuitas e Inquisición romana</text>
+    <text x="30" y="215" fill="#733c34" font-weight="700">1545–1547</text>
+    <circle cx="218" cy="210" r="5" fill="#7e3f32"/>
+    <text x="245" y="215" fill="#272c29">Primera etapa de Trento y traslado a Bolonia</text>
+    <text x="30" y="266" fill="#733c34" font-weight="700">1551–1552</text>
+    <circle cx="218" cy="261" r="5" fill="#7e3f32"/>
+    <text x="245" y="266" fill="#272c29">Segunda etapa de Trento y nueva suspensión</text>
+    <text x="30" y="317" fill="#733c34" font-weight="700">1562–1563</text>
+    <circle cx="218" cy="312" r="5" fill="#7e3f32"/>
+    <text x="245" y="317" fill="#272c29">Fundación de San José de Ávila y cierre de Trento</text>
+    <text x="30" y="368" fill="#733c34" font-weight="700">1564–1570</text>
+    <circle cx="218" cy="363" r="5" fill="#7e3f32"/>
+    <text x="245" y="368" fill="#272c29">Confirmación, catecismo y libros litúrgicos</text>
+    <text x="30" y="419" fill="#733c34" font-weight="700">1592–1599</text>
+    <circle cx="218" cy="414" r="5" fill="#7e3f32"/>
+    <text x="245" y="419" fill="#272c29">Vulgata clementina y plan de estudios jesuita</text>
+  </g>
+</svg>

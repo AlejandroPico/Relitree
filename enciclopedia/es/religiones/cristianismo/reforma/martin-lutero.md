@@ -21,6 +21,8 @@ fuentes:
   - "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/luther-and-emperor-charles-v-at-the-diet-of-worms-1521"
   - "https://editions.mml.ox.ac.uk/editions/sendbrief/"
   - "https://www.metmuseum.org/art/collection/search/436047"
+  - "https://commons.wikimedia.org/wiki/File:Lucas_Cranach_%28I%29_workshop_-_Martin_Luther_%28Uffizi%29.jpg"
+  - "https://commons.wikimedia.org/wiki/File:Title_page_of_Luther%27s_first_edition_of_the_entire_Bible_Wittenberg%2C_1534.png"
 ---
 
 # 1483–1546 · Martín Lutero
@@ -32,6 +34,11 @@ Su trayectoria se puede seguir a través de clases, tratados, cartas, sermones, 
 <figure>
   <img src="datos/medios/martin-lutero-cronologia.svg" alt="Cronología de Martín Lutero desde su nacimiento en 1483 hasta su muerte en 1546" loading="lazy">
   <figcaption>Formación, controversias, traducción y elaboración de instrumentos para enseñar la nueva doctrina. [1–4, 7–9, 13]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Lucas_Cranach_%28I%29_workshop_-_Martin_Luther_%28Uffizi%29.jpg" alt="Martín Lutero de medio cuerpo, vestido de negro y sobre un fondo azul" width="290" height="424" loading="lazy" decoding="async">
+  <figcaption>Retrato de Martín Lutero, 1529. Taller de Lucas Cranach el Viejo, Galería de los Uffizi. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Lucas_Cranach_%28I%29_workshop_-_Martin_Luther_%28Uffizi%29.jpg">Ficha y reproducción</a>. [18]</figcaption>
 </figure>
 
 ## Los años de formación
@@ -137,6 +144,11 @@ Lutero se casó en 1525 con Catalina de Bora, que había dejado la vida monásti
 
 Las llamadas *Charlas de sobremesa* proceden de apuntes de quienes escuchaban a Lutero y de ediciones elaboradas con posterioridad. Pueden aportar noticias sobre relaciones y formas de conversación y requieren atender a la identidad de quien anotó una frase, cuándo se fijó y qué versión se conservó. Una expresión recordada tras una comida tiene una situación diferente de una tesis fechada o de una carta cuyo destinatario se conoce. Ambas pueden ayudar a entender cómo intervenía Lutero, siempre que el uso que se haga de ellas tenga en cuenta sus condiciones de transmisión. [1–3]
 
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Title_page_of_Luther%27s_first_edition_of_the_entire_Bible_Wittenberg%2C_1534.png/500px-Title_page_of_Luther%27s_first_edition_of_the_entire_Bible_Wittenberg%2C_1534.png" alt="Portada de 1534 con el título alemán enmarcado por figuras e ilustraciones" width="315" height="484" loading="lazy" decoding="async">
+  <figcaption>Portada de la primera edición completa de la Biblia de Lutero, Wittenberg, 1534. Facsímil reproducido por Johann Michael Reu en 1917. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Title_page_of_Luther%27s_first_edition_of_the_entire_Bible_Wittenberg%2C_1534.png">Ficha y reproducción</a>. [19]</figcaption>
+</figure>
+
 ## La guerra de los Campesinos y los límites de la reforma
 
 ### Demandas y respuesta en 1525
@@ -238,3 +250,5 @@ Los retratos, monumentos y aniversarios fijaron escenas de identificación colec
 15. Lutero y Carlos V en la Dieta de Worms, 1521, fuentes con introducción. [German History in Documents and Images](https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/luther-and-emperor-charles-v-at-the-diet-of-worms-1521).
 16. Martín Lutero, *Carta abierta sobre la traducción*, 1530, edición digital. [Universidad de Oxford](https://editions.mml.ox.ac.uk/editions/sendbrief/).
 17. Taller de Lucas Cranach el Viejo, *Martín Lutero*, hacia 1532, ficha de la colección. [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/436047).
+18. Retrato de Martín Lutero, 1529. Taller de Lucas Cranach el Viejo, Galería de los Uffizi. [Ficha y reproducción](https://commons.wikimedia.org/wiki/File:Lucas_Cranach_%28I%29_workshop_-_Martin_Luther_%28Uffizi%29.jpg).
+19. Portada de la primera edición completa de la Biblia de Lutero, Wittenberg, 1534. Facsímil reproducido por Johann Michael Reu en 1917. [Ficha y reproducción](https://commons.wikimedia.org/wiki/File:Title_page_of_Luther%27s_first_edition_of_the_entire_Bible_Wittenberg%2C_1534.png).

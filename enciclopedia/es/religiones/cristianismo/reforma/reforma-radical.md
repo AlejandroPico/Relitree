@@ -19,6 +19,7 @@ fuentes:
   - "https://gameo.org/index.php?title=Marpeck%2C_Pilgram_%28d._1556%29"
   - "https://escholarship.org/uc/item/8xp3280j"
   - "https://www.cambridge.org/core/journals/church-history/article/abs/double-honor-elite-hutterite-women-in-the-sixteenth-century/662204E863F145356E8DD329E4ADE920"
+  - "https://commons.wikimedia.org/wiki/File:MennoSimons.jpg"
 ---
 
 # Siglo XVI · La Reforma radical
@@ -145,6 +146,11 @@ Menno Simons, que había sido sacerdote católico, se vinculó en la década de 
   <figcaption>Selección de corrientes, regiones y debates que se cruzan en la historia de la Reforma radical. [1–4, 8–12]</figcaption>
 </figure>
 
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/MennoSimons.jpg" alt="Retrato grabado de Menno Simons con una inscripción debajo" width="220" height="265" loading="lazy" decoding="async">
+  <figcaption>Retrato grabado de Menno Simons. La ficha de la reproducción no identifica al grabador. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:MennoSimons.jpg">Ficha y reproducción</a>. [16]</figcaption>
+</figure>
+
 ## Espiritualistas y antitrinitarios
 
 ### La palabra interior y la crítica de las instituciones
@@ -226,3 +232,4 @@ Iglesias y congregaciones de épocas posteriores han identificado antecesores en
 13. «Marpeck, Pilgram», trayectoria y controversias. [Global Anabaptist Mennonite Encyclopedia Online](https://gameo.org/index.php?title=Marpeck%2C_Pilgram_%28d._1556%29).
 14. *The Reformation Suits. Litigation as Constitution-Making in a German Imperial Court, 1521–1555*. [University of California](https://escholarship.org/uc/item/8xp3280j).
 15. «Double Honor: Elite Hutterite Women in the Sixteenth Century». [Church History, Cambridge University Press](https://www.cambridge.org/core/journals/church-history/article/abs/double-honor-elite-hutterite-women-in-the-sixteenth-century/662204E863F145356E8DD329E4ADE920).
+16. Retrato grabado de Menno Simons. La ficha de la reproducción no identifica al grabador. [Ficha y reproducción](https://commons.wikimedia.org/wiki/File:MennoSimons.jpg).

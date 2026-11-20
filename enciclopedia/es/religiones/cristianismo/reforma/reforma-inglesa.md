@@ -18,6 +18,8 @@ fuentes:
   - "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/catholics/"
   - "https://www.nationalarchives.gov.uk/education/resources/the-english-reformation-c1527-1590/policy-on-recusants/"
   - "https://www.library.wales/discover-learn/digital-exhibitions/printed-material/1588-welsh-bible"
+  - "https://commons.wikimedia.org/wiki/File:Henry_VIII_%283%29_by_Hans_Holbein_the_Younger.jpg"
+  - "https://commons.wikimedia.org/wiki/File:Elizabeth_I_Darnley_Portrait.jpg"
 ---
 
 # 1527–1603 · La Reforma inglesa
@@ -78,6 +80,11 @@ El Acta de Supremacía de 1534 reconoció a Enrique como cabeza suprema de la Ig
 ### La disidencia ante el juramento
 
 Los juramentos hicieron que una controversia institucional se convirtiera en una decisión individual para quienes debían prestarlos. Tomás Moro y el obispo Juan Fisher acabaron siendo ejecutados en 1535 por su oposición a las exigencias que acompañaban a la nueva posición de la Corona. Sus casos se conocen por registros legales, cartas y relatos que adquirieron un lugar en la memoria católica. Conviene distinguir los términos exactos de la acusación y las razones que expresaron las personas implicadas. La exigencia de una declaración pública podía tener efectos sobre el acceso al oficio, la conservación de bienes y la libertad. [1, 3–5]
+
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Henry_VIII_%283%29_by_Hans_Holbein_the_Younger.jpg/500px-Henry_VIII_%283%29_by_Hans_Holbein_the_Younger.jpg" alt="Enrique VIII con sombrero, joyas y vestiduras de corte" width="300" height="364" loading="lazy" decoding="async">
+  <figcaption>Retrato de Enrique VIII según un modelo de Hans Holbein el Joven, hacia 1560–1580. Royal Collection, Windsor. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Henry_VIII_%283%29_by_Hans_Holbein_the_Younger.jpg">Ficha y reproducción</a>. [15]</figcaption>
+</figure>
 
 ## Los monasterios y la reforma bajo Enrique
 
@@ -198,6 +205,11 @@ Entre los protestantes que buscaban cambios adicionales hubo quienes discutieron
 
 La introducción de un libro dependía de conseguir ejemplares, enseñar su uso y disponer de ministros. La visita parroquial permitía preguntar por bautismos, sermones, ornamentos y asistencia. Al mismo tiempo, miembros del vecindario podían denunciar prácticas o pedir una corrección. Las cuentas pueden mostrar que se compró un libro o que se pagó por retirar un objeto. Dicen menos acerca de cómo se escuchaba un sermón o qué opinaba una persona sobre la comunión. Para reconstruir cambios concretos se comparan expedientes de fechas cercanas y se identifica qué parte del nuevo orden podía aplicarse con los recursos disponibles. [1–2, 5, 9, 12]
 
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Elizabeth_I_Darnley_Portrait.jpg/500px-Elizabeth_I_Darnley_Portrait.jpg" alt="Isabel I con una gorguera y un vestido bordado, en el retrato Darnley" width="300" height="439" loading="lazy" decoding="async">
+  <figcaption>Isabel I de Inglaterra en el <i>retrato Darnley</i>, hacia 1575. Pintor anónimo, National Portrait Gallery, Londres. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Elizabeth_I_Darnley_Portrait.jpg">Ficha y reproducción</a>. [16]</figcaption>
+</figure>
+
 ## El legado de las reformas Tudor
 
 ### Una secuencia de decisiones distintas
@@ -234,3 +246,5 @@ Para documentar una decisión de la Corona interesan su fecha, el destinatario y
 12. Guía de documentos sobre católicos y recusación. [The National Archives](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/catholics/).
 13. «Policy on recusants», documento de la época isabelina. [The National Archives](https://www.nationalarchives.gov.uk/education/resources/the-english-reformation-c1527-1590/policy-on-recusants/).
 14. Biblia en galés y trabajo de William Morgan, 1588. [Biblioteca Nacional de Gales](https://www.library.wales/discover-learn/digital-exhibitions/printed-material/1588-welsh-bible).
+15. Retrato de Enrique VIII según un modelo de Hans Holbein el Joven, hacia 1560–1580. Royal Collection, Windsor. [Ficha y reproducción](https://commons.wikimedia.org/wiki/File:Henry_VIII_%283%29_by_Hans_Holbein_the_Younger.jpg).
+16. Isabel I de Inglaterra en el retrato Darnley, hacia 1575. Pintor anónimo, National Portrait Gallery, Londres. [Ficha y reproducción](https://commons.wikimedia.org/wiki/File:Elizabeth_I_Darnley_Portrait.jpg).

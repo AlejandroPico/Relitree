@@ -14,6 +14,8 @@ fuentes:
   - "https://archives-etat-ge.ch/page_de_base/5-1541-1556-retour-de-calvin/"
   - "https://archives-etat-ge.ch/page_de_base/10-reforme-lespace-public/"
   - "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315"
+  - "https://commons.wikimedia.org/wiki/File:Zwingli_Hans_Asper.jpeg"
+  - "https://commons.wikimedia.org/wiki/File:Portrait_john_calvin.jpg"
 ---
 
 # 1519–1566 · Calvino y la Reforma suiza
@@ -73,6 +75,11 @@ Un consejo que cambiaba el culto también debía determinar qué usos siguieron 
 
 La atención a los pobres ofreció una prueba concreta de la capacidad de gobierno de la ciudad. Poner rentas eclesiásticas al servicio de instituciones nuevas requería identificar beneficiarios, elegir responsables y establecer reglas. Una organización asistencial podía atender a habitantes de la ciudad y tratar de modo distinto a quienes llegaban de fuera. Las cuentas y listas iluminan el alcance de esas decisiones. Permiten distinguir entre el propósito declarado de dedicar bienes al bien común y las cantidades que se reunieron, los grupos que recibieron ayuda y los problemas que siguieron afectando a cada barrio. [1–3]
 
+<figure>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Zwingli_Hans_Asper.jpeg/500px-Zwingli_Hans_Asper.jpeg" alt="Retrato de Ulrico Zuinglio de perfil, con bonete negro" width="270" height="336" loading="lazy" decoding="async">
+  <figcaption>Hans Asper, retrato póstumo de Ulrico Zuinglio, 1549. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Zwingli_Hans_Asper.jpeg">Ficha y reproducción</a>. [11]</figcaption>
+</figure>
+
 ## Berna, Basilea y las guerras de Kappel
 
 ### La reforma avanza por expedientes locales
@@ -128,6 +135,11 @@ La predicación pública exigía preparar ministros y asegurar un calendario de 
 <figure>
   <img src="datos/medios/reforma-suiza-ordenanzas.svg" alt="Cuatro ministerios ginebrinos y competencias de los consejos civiles" loading="lazy">
   <figcaption>Las Ordenanzas de Ginebra asignaron responsabilidades distintas a los ministerios de la Iglesia y a las autoridades civiles. [4–5, 8]</figcaption>
+</figure>
+
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Portrait_john_calvin.jpg" alt="Retrato de Juan Calvino con barba y tocado oscuro" width="270" height="410" loading="lazy" decoding="async">
+  <figcaption>Retrato anónimo de Juan Calvino, siglo XVI. Biblioteca de Ginebra. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Portrait_john_calvin.jpg">Ficha y reproducción</a>. [12]</figcaption>
 </figure>
 
 ## La vida eclesiástica ginebrina
@@ -218,3 +230,5 @@ La predicación de Zuinglio comenzó antes de la primera *Institución* de Calvi
 8. «1541–1556, retour de Calvin», ordenanzas y registros. [Archives d’État de Genève](https://archives-etat-ge.ch/page_de_base/5-1541-1556-retour-de-calvin/).
 9. «La réforme dans l’espace public», expediente documental ginebrino. [Archives d’État de Genève](https://archives-etat-ge.ch/page_de_base/10-reforme-lespace-public/).
 10. *Artículos de Schleitheim*, introducción sobre la disidencia zuriquesa. [German History in Documents and Images](https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315).
+11. Hans Asper, retrato póstumo de Ulrico Zuinglio, 1549. [Ficha y reproducción](https://commons.wikimedia.org/wiki/File:Zwingli_Hans_Asper.jpeg).
+12. Retrato anónimo de Juan Calvino, siglo XVI. Biblioteca de Ginebra. [Ficha y reproducción](https://commons.wikimedia.org/wiki/File:Portrait_john_calvin.jpg).

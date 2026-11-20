@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 515" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Las ocho guerras de religión de Francia</title>
+  <desc id="descripcion">Cronología de las guerras y los acuerdos de pacificación.</desc>
+  <rect width="760" height="515" fill="#f5efe2"/>
+  <path d="M0 0h760v9H0z" fill="#7e3f32"/>
+  <text x="29" y="45" fill="#272c29" font-family="Georgia, serif" font-size="26">Las ocho guerras de religión de Francia</text>
+  <text x="30" y="73" fill="#49554f" font-family="system-ui, sans-serif" font-size="15">Cronología de las guerras y los acuerdos de pacificación.</text>
+  <path d="M218 108v357" stroke="#b58265" stroke-width="2"/>
+  <g font-family="system-ui, sans-serif" font-size="16">
+    <text x="30" y="113" fill="#733c34" font-weight="700">1 · 1562–1563</text>
+    <circle cx="218" cy="108" r="5" fill="#7e3f32"/>
+    <text x="245" y="113" fill="#272c29">Wassy y Dreux · Edicto de Amboise</text>
+    <text x="30" y="164" fill="#733c34" font-weight="700">2 · 1567–1568</text>
+    <circle cx="218" cy="159" r="5" fill="#7e3f32"/>
+    <text x="245" y="164" fill="#272c29">Meaux y Saint-Denis · Paz de Longjumeau</text>
+    <text x="30" y="215" fill="#733c34" font-weight="700">3 · 1568–1570</text>
+    <circle cx="218" cy="210" r="5" fill="#7e3f32"/>
+    <text x="245" y="215" fill="#272c29">Jarnac y Moncontour · Paz de Saint-Germain</text>
+    <text x="30" y="266" fill="#733c34" font-weight="700">4 · 1572–1573</text>
+    <circle cx="218" cy="261" r="5" fill="#7e3f32"/>
+    <text x="245" y="266" fill="#272c29">San Bartolomé y La Rochelle · Edicto de Boulogne</text>
+    <text x="30" y="317" fill="#733c34" font-weight="700">5 · 1574–1576</text>
+    <circle cx="218" cy="312" r="5" fill="#7e3f32"/>
+    <text x="245" y="317" fill="#272c29">Malcontentos · Edicto de Beaulieu</text>
+    <text x="30" y="368" fill="#733c34" font-weight="700">6 · 1576–1577</text>
+    <circle cx="218" cy="363" r="5" fill="#7e3f32"/>
+    <text x="245" y="368" fill="#272c29">Paz de Bergerac y Edicto de Poitiers</text>
+    <text x="30" y="419" fill="#733c34" font-weight="700">7 · 1579–1580</text>
+    <circle cx="218" cy="414" r="5" fill="#7e3f32"/>
+    <text x="245" y="419" fill="#272c29">Cahors · Paz de Fleix</text>
+    <text x="30" y="470" fill="#733c34" font-weight="700">8 · 1585–1598</text>
+    <circle cx="218" cy="465" r="5" fill="#7e3f32"/>
+    <text x="245" y="470" fill="#272c29">Liga y sucesión · Nantes y Vervins</text>
+  </g>
+</svg>

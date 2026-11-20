@@ -1,8 +1,8 @@
 # Relitree
 
-**Versión 1.7.26**
+**Versión 1.7.27**
 
-La [enciclopedia](enciclopedia/PLAN.md#fase-e08--cristianismo--reforma-y-guerras-de-religión) desarrolla «Reforma y guerras de religión» con la visión de conjunto, la biografía de Martín Lutero y los estudios sobre la Reforma suiza, la Reforma radical, la Reforma inglesa y las Biblias de la Reforma. El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
+La [enciclopedia](enciclopedia/PLAN.md#fase-e08--cristianismo--reforma-y-guerras-de-religión) desarrolla «Reforma y guerras de religión» con la visión de conjunto, la biografía de Martín Lutero y los estudios sobre la Reforma suiza, la Reforma radical, la Reforma inglesa, las Biblias de la Reforma, la Contrarreforma y las guerras de religión de Francia. El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
 
 El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto.
 

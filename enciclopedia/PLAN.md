@@ -9,7 +9,7 @@ Cada fase se trabaja en una sesión. Al terminarla se marcan sus artículos como
 - Índice en árbol con anidación ilimitada (religión → categorías → subcategorías → artículos). Implementado junto con el acceso móvil en la primera entrega de E01.
 - Pestañas dentro de cada artículo (Historia · Creencias · Textos · Ritos · Símbolos · Figuras · Cronología · Fuentes)
 - Ficha resumen lateral (infobox), tablas largas, cronologías visuales, galerías
-- Imágenes de Wikimedia Commons descargadas al repositorio con autor y licencia; vídeo solo de instituciones oficiales
+- Retratos, pinturas, grabados y documentos históricos junto a los pasajes que ilustran, con pie de imagen, autoría, procedencia y licencia. Las reproducciones de Wikimedia Commons se conservan en el repositorio. Vídeo solo de instituciones oficiales.
 - Cabecera YAML en cada artículo: estado (borrador/completo), palabras, fuentes
 - Validación incorporada. La compilación rechaza artículos completos con menos de 5.000 palabras de texto de cuerpo.
 - Búsqueda dentro del texto de toda la enciclopedia.
@@ -140,7 +140,7 @@ Estado editorial: fase completada, 15 de 15 artículos publicados.
 
 ## Fase E08 · Cristianismo · Reforma y guerras de religión
 
-Estado editorial: en curso, 6 de 12 artículos publicados.
+Estado editorial: en curso, 8 de 12 artículos publicados.
 
 - [x] [La Reforma protestante · Visión de conjunto](es/religiones/cristianismo/reforma/panorama.md)
 - [x] [1483–1546 · Martín Lutero](es/religiones/cristianismo/reforma/martin-lutero.md)
@@ -149,8 +149,8 @@ Estado editorial: en curso, 6 de 12 artículos publicados.
 - [x] [Siglo XVI · La Reforma radical](es/religiones/cristianismo/reforma/reforma-radical.md)
 - [x] [1527–1603 · La Reforma inglesa](es/religiones/cristianismo/reforma/reforma-inglesa.md)
 
-- [ ] La Contrarreforma
-- [ ] Las guerras de religión de Francia
+- [x] [Siglos XVI–XVII · La Contrarreforma](es/religiones/cristianismo/reforma/contrarreforma.md)
+- [x] [1562–1598 · Las guerras de religión de Francia](es/religiones/cristianismo/reforma/guerras-de-religion-de-francia.md)
 - [ ] La guerra de los Ochenta Años
 - [ ] La guerra de los Treinta Años
 - [ ] Paz de Augsburgo y Paz de Westfalia
