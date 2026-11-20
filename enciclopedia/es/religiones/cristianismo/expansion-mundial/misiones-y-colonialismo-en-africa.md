@@ -35,8 +35,8 @@ El gobierno de Afonso I combinó relaciones con la monarquía portuguesa y una p
 Un crucifijo producido en el área kongo puede reunir una forma de devoción cristiana con técnicas y decisiones formales de talleres locales. Su fabricación presupone personas interesadas en encargar, adquirir y conservar el objeto. Una figura con rasgos distintos de un modelo europeo puede responder a la manera de trabajar de un taller o a interpretaciones del uso de la pieza. La información de procedencia y de adquisición sirve para acotar qué se sabe de ella. Cuando faltan testimonios de quienes la usaron, el objeto muestra la circulación y transformación de una forma, y deja preguntas abiertas sobre la oración o el ritual en que participó. [1–3,10]
 
 <figure>
-  <img src="datos/medios/e09-crucifijo.jpg" alt="Crucifijo de metal del área cultural kongo" width="960" height="705" loading="lazy" decoding="async">
-  <figcaption>Crucifijo de tradición kongo, siglos XVI–XVII con añadidos posteriores. La pieza se conserva en The Metropolitan Museum of Art. The Metropolitan Museum of Art. <a href="https://commons.wikimedia.org/wiki/File:Crucifix_MET_DP326208.jpg">Ficha de origen</a>. <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>. [10]</figcaption>
+  <img src="datos/medios/e09-crucifijo.jpg" alt="Detalle de una mano fijada con un clavo de metal en un crucifijo de tradición kongo" width="960" height="705" loading="lazy" decoding="async">
+  <figcaption>Detalle de una mano en un crucifijo de tradición kongo, siglos XVI–XVII con añadidos posteriores. La pieza se conserva en The Metropolitan Museum of Art. The Metropolitan Museum of Art. <a href="https://commons.wikimedia.org/wiki/File:Crucifix_MET_DP326208.jpg">Ficha de origen</a>. <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>. [10]</figcaption>
 </figure>
 
 ### Comercio atlántico y capacidad de hacer cumplir acuerdos

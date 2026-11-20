@@ -90,8 +90,8 @@ La rebelión de Shimabara y Amakusa, en 1637–1638, tuvo lugar después del edi
 En las décadas siguientes, las relaciones marítimas se regularon de manera estricta. Determinados intercambios siguieron por canales vigilados. Considerar aquel Japón completamente incomunicado impediría comprender por qué la presencia de extranjeros y la transmisión de noticias tenían un régimen específico para cada grupo. Las comunidades cristianas privadas tuvieron posibilidades muy limitadas de restablecer trato con clérigos de fuera. Su continuidad se reconstruye con restos que documentan, sobre todo, cómo se organizaban en los lugares donde podían seguir reuniéndose. [5,6]
 
 <figure>
-  <img src="datos/medios/e09-oura.jpg" alt="Fachada de la iglesia de Ōura en Nagasaki" width="938" height="1250" loading="lazy" decoding="async">
-  <figcaption>Iglesia de Ōura, Nagasaki. En 1865, fieles procedentes de Urakami se dieron a conocer aquí a Bernard Petitjean. Chris 73. <a href="https://commons.wikimedia.org/wiki/File:Oura_Church_Nagasaki.JPG">Ficha de origen</a>. <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. [14]</figcaption>
+  <img src="datos/medios/e09-oura.jpg" alt="Nave central de la iglesia de Ōura en Nagasaki" width="938" height="1250" loading="lazy" decoding="async">
+  <figcaption>Interior de la iglesia de Ōura, Nagasaki. En 1865, fieles procedentes de Urakami se dieron a conocer aquí a Bernard Petitjean. Chris 73. <a href="https://commons.wikimedia.org/wiki/File:Oura_Church_Nagasaki.JPG">Ficha de origen</a>. <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. [14]</figcaption>
 </figure>
 
 ### Reencuentro, reconocimiento y continuidad
@@ -132,8 +132,8 @@ Otras campañas marcaron el siglo XIX. En 1839 hubo una persecución en el perio
 La documentación sobre estas comunidades permite seguir a mujeres en funciones que una nómina clerical dejaría fuera. Asegurar un alojamiento, mantener vínculos entre hogares y transmitir prácticas religiosas eran tareas realizadas con los recursos que ofrecían relaciones de parentesco y de trabajo. El uso de textos en lengua y escritura accesibles a otro público amplió las vías de participación. Los documentos conservados ofrecen detalles de casos concretos. Generalizar a partir de una red conocida exige tener en cuenta los sesgos de los procesos y de las narraciones eclesiásticas de martirio. [7]
 
 <figure>
-  <img src="datos/medios/e09-myeongdong.jpg" alt="Exterior de la catedral de Myeongdong en Seúl" width="960" height="720" loading="lazy" decoding="async">
-  <figcaption>Catedral de Myeongdong, en Seúl, sede católica de la etapa de culto público, fotografiada en 2024. Immanuelle. <a href="https://commons.wikimedia.org/wiki/File:Myeongdong_Cathedral_in_Seoul.jpg">Ficha de origen</a>. <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. [15]</figcaption>
+  <img src="datos/medios/e09-myeongdong.jpg" alt="Nave central y altar de la catedral de Myeongdong en Seúl" width="938" height="1250" loading="lazy" decoding="async">
+  <figcaption>Interior de la catedral de Myeongdong, Seúl, fotografiado en 2024. La catedral pertenece a la etapa de culto público. Se ha corregido la orientación de la reproducción. Immanuelle. <a href="https://commons.wikimedia.org/wiki/File:Myeongdong_Cathedral_in_Seoul.jpg">Ficha de origen</a>. <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. [15]</figcaption>
 </figure>
 
 ### Protestantismos, educación y sociedad coreana
