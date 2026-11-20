@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 400" role="img" aria-labelledby="title description">
+  <title id="title">Qué cambió en 1192</title>
+  <desc id="description">Acre y Jaffa. El gobierno latino conservó posiciones costeras.. Los puertos facilitaron la comunicación marítima.. Jerusalén. La ciudad quedó bajo el gobierno de Saladino.. La tregua permitió el acceso de peregrinos cristianos.. Ascalón. Se acordó desmantelar sus defensas.. Su posición importaba en la comunicación con Egipto.</desc>
+  <rect width="760" height="400" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #23302d }
+    .title { font-size: 28px; font-weight: 730 }
+    .note { font-size: 16px; fill: #435653 }
+    .date { font-size: 19px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 19px; font-weight: 550 }
+    .head { font-size: 22px; font-weight: 680 }
+    .place { font-size: 17px; font-weight: 700; paint-order: stroke; stroke: #f7f4ec; stroke-width: 4; stroke-linejoin: round }
+    .water { font-size: 17px; fill: #456672; font-style: italic }
+  </style>
+  <text x="30" y="45" class="title">Qué cambió en 1192</text>
+  <rect x="30" y="72" width="700" height="92" fill="#e5ece6"/>
+  <text x="50" y="99" class="head">Acre y Jaffa</text>
+  <text x="50" y="125" class="item">El gobierno latino conservó posiciones costeras.</text>
+  <text x="50" y="148" class="note">Los puertos facilitaron la comunicación marítima.</text>
+  <rect x="30" y="177" width="700" height="92" fill="#f0ece1"/>
+  <text x="50" y="204" class="head">Jerusalén</text>
+  <text x="50" y="230" class="item">La ciudad quedó bajo el gobierno de Saladino.</text>
+  <text x="50" y="253" class="note">La tregua permitió el acceso de peregrinos cristianos.</text>
+  <rect x="30" y="282" width="700" height="92" fill="#e5ece6"/>
+  <text x="50" y="309" class="head">Ascalón</text>
+  <text x="50" y="335" class="item">Se acordó desmantelar sus defensas.</text>
+  <text x="50" y="358" class="note">Su posición importaba en la comunicación con Egipto.</text>
+</svg>

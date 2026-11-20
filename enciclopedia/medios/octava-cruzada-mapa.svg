@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 510" role="img" aria-labelledby="title description">
+  <title id="title">Rumbo a Túnez en 1270</title>
+  <desc id="description">Aigues-Mortes, Cagliari, Cartago, Túnez, Sicilia. Las líneas señalan recorridos aproximados.</desc>
+  <metadata>Cartografía de Relitree a partir de Natural Earth, capa Land a escala 1:110m, de dominio público.</metadata>
+  <rect width="760" height="510" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #23302d }
+    .title { font-size: 28px; font-weight: 730 }
+    .note { font-size: 16px; fill: #435653 }
+    .date { font-size: 19px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 19px; font-weight: 550 }
+    .head { font-size: 22px; font-weight: 680 }
+    .place { font-size: 17px; font-weight: 700; paint-order: stroke; stroke: #f7f4ec; stroke-width: 4; stroke-linejoin: round }
+    .water { font-size: 17px; fill: #456672; font-style: italic }
+  </style>
+  <text x="30" y="45" class="title">Rumbo a Túnez en 1270</text>
+  <text x="30" y="71" class="note">Hitos históricos sobre el litoral actual · trazados aproximados</text>
+  <rect x="30" y="86" width="700" height="360" fill="#deebee" stroke="#a8b9b6"/>
+  <g fill="#ece5d6" stroke="#9a9e89" stroke-width=".7">
+    <path d="M588.1,285.3L576.4,303.8L581.2,311.1L574.4,323.2L549.7,314.3L533.2,311.8L487.9,299.8L492.5,287.7L530.4,289.9L563.5,287.3L588.1,285.3Z" fill-rule="evenodd"/>
+    <path d="M383.6,215.2L403,231.9L398.5,263L383.7,261.5L370.5,269.4L358.2,263.1L356.9,234.7L349.5,221.3L367.4,222.5L383.6,215.2Z" fill-rule="evenodd"/>
+    <path d="M394.9,193L384.2,211.2L369.5,206.4L362,190.6L368.5,181.8L389.4,172.8L394.9,193Z" fill-rule="evenodd"/>
+    <path d="M730,86L730,446L30,446L30,351L45.9,344.5L81,340.4L101.4,330.7L132.6,323.5L187.6,319.3L241.2,317.4L257.5,320.9L288,311.6L322.7,311.4L335.8,316.9L358,315.5L393.3,306L416,308.8L415,320.7L442.5,312.1L444.8,316.6L428.6,328.1L428.4,339L439.6,344.8L435.3,365.2L414,377L420.2,389.9L436.9,390.3L445.1,401.5L457.4,405.1L495.5,413.2L509.1,411.2L536.2,415.1L579.2,425.6L593.9,446L730,446L730,443.9L727.4,437.7L730,434.8L730,244.8L714,237.7L711.2,226.5L713.9,210.5L718.3,203.2L712.9,199.5L706.1,197.6L697,190L683,185.3L652.5,176.6L633.8,168.1L604.1,161.1L576.9,143.8L583.4,142.1L568.6,132.2L568,124.2L547.2,120.5L537.2,130.7L527.7,122.8L528.4,114.6L529.6,114.2L536.8,112.1L511,108.7L484.6,117L486.4,128.7L482.5,135.4L493.1,147.4L523.5,159.2L539.8,178.7L575.8,197.6L601.2,197.5L609.1,202.7L600,207.4L629.1,215.9L652.8,223L680.6,235.3L684,239.7L677.9,248.1L660,237.1L631.8,233.2L618.2,248.5L641.6,257.2L637.7,269.5L624.2,270.9L606.9,291L593.4,292.8L593.5,285.7L600.1,273L607.2,268L594.5,254.4L584.6,242.5L571.2,239.6L561.6,229.4L540.8,225.1L526.7,215.7L502.8,214.2L477.4,203.5L447.8,188.2L425.8,174.7L415.7,151.4L399.5,148.7L373.2,140.9L358.2,144.1L339.5,155L326.1,156.7L296.7,170L232.8,163.7L185.6,171.3L181.9,185.5L183.6,199.1L152.9,214.8L111.4,219.8L108.5,227.7L88.6,240.7L76.1,259.9L88.7,273.3L70,283.8L62.9,299.1L38.5,303.8L30,310.5L30,157.6L40.2,149L46.4,102.1L30,90L30,86Z" fill-rule="evenodd"/>
+  </g>
+  <text x="237.4" y="276.6" class="water" text-anchor="middle">Mediterráneo</text>
+  <polyline points="220.9,159.8 292.5,178.2 347.6,238.9 380,262 396.2,293.1 419.5,317.8" stroke="#22665a" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="220.9" y1="159.8" x2="227.9" y2="144.8" stroke="#626966"/>
+  <circle cx="220.9" cy="159.8" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="232.9" y="148.8" class="place">Aigues-Mortes</text>
+  <line x1="380" y1="262" x2="372" y2="247" stroke="#626966"/>
+  <circle cx="380" cy="262" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="367" y="251" class="place" text-anchor="end">Cagliari</text>
+  <line x1="419.5" y1="317.8" x2="427.5" y2="299.8" stroke="#626966"/>
+  <circle cx="419.5" cy="317.8" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="432.5" y="303.8" class="place">Cartago</text>
+  <line x1="415" y1="318.9" x2="405" y2="336.9" stroke="#626966"/>
+  <circle cx="415" cy="318.9" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="400" y="340.9" class="place" text-anchor="end">Túnez</text>
+  <line x1="518.1" y1="288.1" x2="530.1" y2="302.1" stroke="#626966"/>
+  <circle cx="518.1" cy="288.1" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="535.1" y="306.1" class="place">Sicilia</text>
+  <path d="M30 466h30" fill="none" stroke="#22665a" stroke-width="3"/>
+  <text x="69" y="471" class="note">Ruta aproximada de la flota de Luis IX</text>
+  <text x="30" y="494" class="note">Base geográfica · Natural Earth, dominio público</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 510" role="img" aria-labelledby="title description">
+  <title id="title">La costa y Jerusalén en 1228–1229</title>
+  <desc id="description">Chipre, Acre, Jaffa, Jerusalén, Damasco, El Cairo. Las líneas señalan recorridos aproximados.</desc>
+  <metadata>Cartografía de Relitree a partir de Natural Earth, capa Land a escala 1:110m, de dominio público.</metadata>
+  <rect width="760" height="510" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #23302d }
+    .title { font-size: 28px; font-weight: 730 }
+    .note { font-size: 16px; fill: #435653 }
+    .date { font-size: 19px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 19px; font-weight: 550 }
+    .head { font-size: 22px; font-weight: 680 }
+    .place { font-size: 17px; font-weight: 700; paint-order: stroke; stroke: #f7f4ec; stroke-width: 4; stroke-linejoin: round }
+    .water { font-size: 17px; fill: #456672; font-style: italic }
+  </style>
+  <text x="30" y="45" class="title">La costa y Jerusalén en 1228–1229</text>
+  <text x="30" y="71" class="note">Hitos históricos sobre el litoral actual · trazados aproximados</text>
+  <rect x="30" y="86" width="700" height="360" fill="#deebee" stroke="#a8b9b6"/>
+  <g fill="#ece5d6" stroke="#9a9e89" stroke-width=".7">
+    <path d="M483.6,138.6L444.2,156.9L448.5,164.9L450.3,168.4L390.5,185.8L361.9,180.2L348.3,163L376,161.4L380.1,161.2L388.6,150.9L430.6,151.4L483.6,138.6Z" fill-rule="evenodd"/>
+    <path d="M730,86L730,446L494.2,446L496,441.4L498.5,426.4L505.8,409.3L503.8,403.1L487.4,420.3L477.5,446L397.3,446L358,388.1L352,392L376.2,437.2L383.5,446L30,446L30,317.3L68.4,325.1L126.3,337.7L153.3,344.4L198.2,330.8L222.2,318.6L273.7,315L315.1,320.4L331,341.7L344.6,327.7L391.3,337.8L436.8,340.2L465.5,329.5L482.5,315.3L478.5,312.9L493.9,292.9L505.7,260.5L514.1,249.7L515.7,249.2L536.5,214.3L565.5,184.1L566.6,182.6L561.1,149.9L575.4,132.2L554,112.8L576.1,96.7L540.5,100.3L491.7,90.5L451.6,115.1L363,120L315.8,97L252.9,95.5L239.5,113.3L199.2,118.4L142.8,95.6L79.1,96.3L70.7,86Z" fill-rule="evenodd"/>
+  </g>
+  <text x="210.8" y="210.3" class="water" text-anchor="middle">Mediterráneo</text>
+  <polyline points="394,181.6 490.8,210.3 513,256.1 493.8,293.9" stroke="#22665a" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="493.8,293.9 521.8,305.4" stroke="#986347" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="6 5"/>
+  <line x1="394" y1="181.6" x2="387" y2="164.6" stroke="#626966"/>
+  <circle cx="394" cy="181.6" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="382" y="168.6" class="place" text-anchor="end">Chipre</text>
+  <line x1="513" y1="256.1" x2="520" y2="242.10000000000002" stroke="#626966"/>
+  <circle cx="513" cy="256.1" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="525" y="246.10000000000002" class="place">Acre</text>
+  <line x1="493.8" y1="293.9" x2="486.8" y2="305.9" stroke="#626966"/>
+  <circle cx="493.8" cy="293.9" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="481.8" y="309.9" class="place" text-anchor="end">Jaffa</text>
+  <line x1="521.8" y1="305.4" x2="530.8" y2="316.4" stroke="#626966"/>
+  <circle cx="521.8" cy="305.4" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="535.8" y="320.4" class="place">Jerusalén</text>
+  <line x1="583.6" y1="231.3" x2="592.6" y2="215.3" stroke="#626966"/>
+  <circle cx="583.6" cy="231.3" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="597.6" y="219.3" class="place">Damasco</text>
+  <line x1="289" y1="380" x2="298" y2="391" stroke="#626966"/>
+  <circle cx="289" cy="380" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="303" y="395" class="place">El Cairo</text>
+  <path d="M30 466h30" fill="none" stroke="#22665a" stroke-width="3"/>
+  <text x="69" y="471" class="note">Puntos de paso de Federico II</text>
+  <path d="M372 466h30" fill="none" stroke="#986347" stroke-width="3" stroke-dasharray="6 5"/>
+  <text x="411" y="471" class="note">Comunicación con Jerusalén</text>
+  <text x="30" y="494" class="note">Base geográfica · Natural Earth, dominio público</text>
+</svg>

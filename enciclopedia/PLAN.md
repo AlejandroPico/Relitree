@@ -94,7 +94,7 @@ Estado editorial: completa, 11 de 11 artículos publicados.
 - [x] [Concilio de Trento (1545–1563)](es/religiones/cristianismo/concilios/trento.md)
 - [x] [Concilio Vaticano I (1869–1870)](es/religiones/cristianismo/concilios/vaticano-i.md)
 - [x] [Concilio Vaticano II (1962–1965)](es/religiones/cristianismo/concilios/vaticano-ii.md)
-- [x] [Los concilios: visión de conjunto](es/religiones/cristianismo/concilios-ecumenicos.md)
+- [x] [Los concilios: visión de conjunto](es/religiones/cristianismo/concilios/panorama.md)
 
 ## Fase E06 · Cristianismo · Cismas, herejías e Inquisición
 
@@ -120,19 +120,19 @@ Estado editorial: fase completada, 12 de 12 artículos publicados.
 
 ## Fase E07 · Cristianismo · Cruzadas y guerras santas
 
-Estado editorial: en curso, 4 de 15 artículos publicados.
+Estado editorial: en curso, 10 de 15 artículos publicados.
 
 - [x] [Las cruzadas · Visión de conjunto](es/religiones/cristianismo/cruzadas/panorama.md)
 - [x] [1096 y 1101 · Cruzada popular y expediciones de 1101](es/religiones/cristianismo/cruzadas/cruzada-popular-y-1101.md)
 - [x] [1096–1099 · Primera cruzada](es/religiones/cristianismo/cruzadas/primera-cruzada.md)
 - [x] [1147–1149 · Segunda cruzada](es/religiones/cristianismo/cruzadas/segunda-cruzada.md)
+- [x] [1189–1192 · Tercera cruzada](es/religiones/cristianismo/cruzadas/tercera-cruzada.md)
+- [x] [1202–1204 · Cuarta cruzada y saqueo de Constantinopla](es/religiones/cristianismo/cruzadas/cuarta-cruzada.md)
+- [x] [1217–1221 · Quinta cruzada](es/religiones/cristianismo/cruzadas/quinta-cruzada.md)
+- [x] [1228–1229 · Sexta cruzada](es/religiones/cristianismo/cruzadas/sexta-cruzada.md)
+- [x] [1248–1254 · Séptima cruzada](es/religiones/cristianismo/cruzadas/septima-cruzada.md)
+- [x] [1270 · Octava cruzada](es/religiones/cristianismo/cruzadas/octava-cruzada.md)
 
-- [ ] 1189–1192 · Tercera cruzada
-- [ ] 1202–1204 · Cuarta cruzada y saqueo de Constantinopla
-- [ ] 1217–1221 · Quinta cruzada
-- [ ] 1228–1229 · Sexta cruzada
-- [ ] 1248–1254 · Séptima cruzada
-- [ ] 1270 · Octava cruzada
 - [ ] Cruzada albigense (1209–1229)
 - [ ] Cruzadas bálticas
 - [ ] Cruzada de los Niños (1212)

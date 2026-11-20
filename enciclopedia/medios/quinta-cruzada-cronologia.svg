@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 444" role="img" aria-labelledby="title description">
+  <title id="title">Quinta cruzada · 1217–1221</title>
+  <desc id="description">1213. Inocencio III promueve la campaña. 1215. Disposiciones del IV Concilio de Letrán. 1217. Llegada de contingentes a Acre. 1218. Comienza el asedio de Damieta. 1219. Francisco de Asís visita a al-Kāmil. Nov. 1219. Caída de Damieta. 1221. Avance por el delta y retirada pactada. 1221. Devolución de Damieta</desc>
+  <rect width="760" height="444" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #23302d }
+    .title { font-size: 28px; font-weight: 730 }
+    .note { font-size: 16px; fill: #435653 }
+    .date { font-size: 19px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 19px; font-weight: 550 }
+    .head { font-size: 22px; font-weight: 680 }
+    .place { font-size: 17px; font-weight: 700; paint-order: stroke; stroke: #f7f4ec; stroke-width: 4; stroke-linejoin: round }
+    .water { font-size: 17px; fill: #456672; font-style: italic }
+  </style>
+  <text x="30" y="45" class="title">Quinta cruzada · 1217–1221</text>
+  <text x="30" y="73" class="note">Hitos cronológicos · intervalos sin escala proporcional</text>
+  <path d="M173 105V406" stroke="#6d9188" stroke-width="3"/>
+  <text x="151" y="111" class="date" text-anchor="end">1213</text>
+  <circle cx="173" cy="105" r="6" fill="#277268"/>
+  <text x="200" y="111" class="item">Inocencio III promueve la campaña</text>
+  <text x="151" y="154" class="date" text-anchor="end">1215</text>
+  <circle cx="173" cy="148" r="6" fill="#277268"/>
+  <text x="200" y="154" class="item">Disposiciones del IV Concilio de Letrán</text>
+  <text x="151" y="197" class="date" text-anchor="end">1217</text>
+  <circle cx="173" cy="191" r="6" fill="#277268"/>
+  <text x="200" y="197" class="item">Llegada de contingentes a Acre</text>
+  <text x="151" y="240" class="date" text-anchor="end">1218</text>
+  <circle cx="173" cy="234" r="6" fill="#277268"/>
+  <text x="200" y="240" class="item">Comienza el asedio de Damieta</text>
+  <text x="151" y="283" class="date" text-anchor="end">1219</text>
+  <circle cx="173" cy="277" r="6" fill="#277268"/>
+  <text x="200" y="283" class="item">Francisco de Asís visita a al-Kāmil</text>
+  <text x="151" y="326" class="date" text-anchor="end">Nov. 1219</text>
+  <circle cx="173" cy="320" r="6" fill="#277268"/>
+  <text x="200" y="326" class="item">Caída de Damieta</text>
+  <text x="151" y="369" class="date" text-anchor="end">1221</text>
+  <circle cx="173" cy="363" r="6" fill="#277268"/>
+  <text x="200" y="369" class="item">Avance por el delta y retirada pactada</text>
+  <text x="151" y="412" class="date" text-anchor="end">1221</text>
+  <circle cx="173" cy="406" r="6" fill="#277268"/>
+  <text x="200" y="412" class="item">Devolución de Damieta</text>
+</svg>

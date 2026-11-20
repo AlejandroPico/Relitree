@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 510" role="img" aria-labelledby="title description">
+  <title id="title">Rutas de la Tercera cruzada</title>
+  <desc id="description">Danubio, Constantinopla, Iconio, Saleph, Sicilia, Chipre, Acre, Jaffa, Jerusalén. Las líneas señalan recorridos aproximados.</desc>
+  <metadata>Cartografía de Relitree a partir de Natural Earth, capa Land a escala 1:110m, de dominio público.</metadata>
+  <rect width="760" height="510" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #23302d }
+    .title { font-size: 28px; font-weight: 730 }
+    .note { font-size: 16px; fill: #435653 }
+    .date { font-size: 19px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 19px; font-weight: 550 }
+    .head { font-size: 22px; font-weight: 680 }
+    .place { font-size: 17px; font-weight: 700; paint-order: stroke; stroke: #f7f4ec; stroke-width: 4; stroke-linejoin: round }
+    .water { font-size: 17px; fill: #456672; font-style: italic }
+  </style>
+  <text x="30" y="45" class="title">Rutas de la Tercera cruzada</text>
+  <text x="30" y="71" class="note">Hitos históricos sobre el litoral actual · trazados aproximados</text>
+  <rect x="30" y="86" width="700" height="360" fill="#deebee" stroke="#a8b9b6"/>
+  <g fill="#ece5d6" stroke="#9a9e89" stroke-width=".7">
+    <path d="M566.2,283.1L553.1,288.6L554.5,291L555.1,292L535.2,297.2L525.6,295.6L521.1,290.4L530.3,289.9L531.7,289.8L534.5,286.7L548.5,286.9L566.2,283.1Z" fill-rule="evenodd"/>
+    <path d="M354.7,282.6L365.4,287L380.5,286.3L395,287.2L394.5,289.4L405.1,287.9L402.7,291.7L374.7,292.7L374.8,290.6L351.1,288.1L354.7,282.6Z" fill-rule="evenodd"/>
+    <path d="M195.7,250.2L188.7,260.3L191.6,264.3L187.5,270.9L172.6,266L162.7,264.7L135.6,258.1L138.3,251.5L161.1,252.7L180.9,251.3L195.7,250.2Z" fill-rule="evenodd"/>
+    <path d="M73,211.9L84.6,221L81.9,238L73.1,237.2L65.1,241.5L57.8,238.1L57,222.6L52.6,215.2L63.2,215.9L73,211.9Z" fill-rule="evenodd"/>
+    <path d="M79.8,199.8L73.4,209.7L64.5,207.1L60,198.4L64,193.6L76.5,188.7L79.8,199.8Z" fill-rule="evenodd"/>
+    <path d="M730,86L730,446L649.3,446L642.4,437.1L633.2,432.1L622.7,429.5L616.3,422.1L617.4,419.2L612,412.5L606.3,409.7L598.7,400.1L586.9,389.7L577,380.9L567.3,381L570.3,373.9L571.2,369.4L573.6,364.3L572.9,362.4L567.5,367.6L563.3,377.3L558,384L553.5,386.2L547,382.1L538.2,376.3L524.3,357.9L522.3,359.1L530.4,372.6L542.3,385.6L557,405.6L564.2,412.6L570.5,419.9L587.9,434.1L584,436.3L584.7,444.7L587.3,446L30,446L30,264.5L36.4,264.5L44.3,267.5L57.6,266.7L78.8,261.5L92.4,263L91.8,269.5L108.3,264.8L109.7,267.3L100,273.6L99.9,279.5L106.6,282.7L104,293.9L91.2,300.3L94.9,307.3L105,307.5L109.9,313.7L117.3,315.7L140.1,320.1L148.3,319L164.5,321.1L190.3,326.9L199.4,338.3L216.9,340.8L244.3,346.2L265,352.6L274.5,349.2L283.8,343.3L279.3,333.5L285.4,327.2L299.4,321.2L312.8,319.4L339.1,322.1L345.7,327.8L353,327.9L359.1,330.1L378.5,331.6L383.2,335.8L409.1,335.6L427.8,339L447.1,342.8L456.1,344.8L471.1,340.7L479.1,337.1L496.2,336L510,337.6L515.3,344L519.9,339.8L535.4,342.8L550.6,343.6L560.2,340.3L565.8,336.1L564.5,335.4L569.6,329.3L573.6,319.6L576.4,316.4L576.9,316.3L583.8,305.8L593.5,296.7L593.9,296.3L592,286.4L596.8,281.2L589.7,275.3L597,270.5L585.2,271.6L568.9,268.6L555.5,276L526,277.5L510.3,270.6L489.3,270.1L484.8,275.5L471.4,277L452.6,270.2L431.4,270.4L419.8,257.6L405.6,250.5L415.1,240.5L402.8,234.3L424.3,222L454.3,221.5L462.4,211.7L499.5,213.4L522.9,205.1L545.5,201.5L577.7,201.2L611.6,210.3L639.5,215.2L662.2,213.2L678.9,214.4L701.9,207.7L704.8,202.2L699.9,193.4L688.7,188.7L677.9,187.2L670.8,183.3L646,172.4L623.8,167.5L607,160L621.2,157.9L637.3,147.2L626.4,142.1L655.1,136.9L654.6,134L637.1,136.1L621.6,137.1L608.7,141.3L590.5,142L573.7,146.8L574.9,154.8L584.4,157.9L604.2,157.1L600.4,161.7L579.1,163.9L552.7,171.4L541.9,168.7L546.2,162.7L524.9,158.9L528.4,156.5L547,152.2L541.4,149.2L511.1,146L509.8,141.2L491.8,142.8L484.6,149.9L469.5,159.4L470,162.7L460.5,165.5L454.6,164.3L449.2,179.8L439.1,185.1L432,194.3L438.3,201.6L440.6,206.6L457.6,210.7L454,213.9L430.9,214.6L422.6,218.5L406.4,225.5L400.3,219.5L400.6,216.8L388.7,216.5L378.6,215.3L355,218.6L368.5,225.8L358.6,227.9L347.8,227.9L337.5,221.3L333.8,224.1L338.2,231.8L347.9,237.8L340.6,240.7L351.4,246.6L361,250.3L361.3,257.6L343.3,254.2L349.1,260.7L336.7,262.1L344.1,273.4L331.2,273.6L315.3,268L308,257.7L304.6,249.2L297,243.2L287,235.9L285.7,232.2L282.4,231.3L282,228.5L271.2,224.2L269.5,218.1L271.2,209.3L273.8,205.3L270.6,203.3L266.5,202.3L261,198.1L252.6,195.5L234.4,190.8L223.1,186.2L205.3,182.3L188.9,172.9L192.9,171.9L184,166.5L183.6,162.2L171.1,160.1L165.2,165.7L159.4,161.4L159.9,156.9L160.6,156.7L164.9,155.5L149.4,153.7L133.6,158.2L134.7,164.6L132.3,168.3L138.7,174.8L156.9,181.3L166.7,191.9L188.3,202.3L203.6,202.2L208.3,205.1L202.8,207.6L220.3,212.3L234.5,216.2L251.2,222.9L253.2,225.3L249.6,229.9L238.8,223.9L221.9,221.7L213.7,230.1L227.8,234.8L225.5,241.5L217.3,242.3L207,253.3L198.9,254.3L198.9,250.4L202.9,243.5L207.1,240.7L199.5,233.3L193.6,226.8L185.5,225.2L179.8,219.7L167.3,217.3L158.9,212.2L144.5,211.3L129.3,205.5L111.5,197.1L98.3,189.7L92.2,177L82.5,175.5L66.7,171.3L57.8,173L46.5,179L38.5,179.9L30,183.4L30,86Z" fill-rule="evenodd"/>
+  </g>
+  <text x="292.5" y="304.6" class="water" text-anchor="middle">Mediterráneo</text>
+  <polyline points="88.3,124.6 264.3,131 327.5,176 401.4,201.7 457.4,214.4 525.6,254.8 553.4,274 597,276.3 576,318.3" stroke="#22665a" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="78.6,240.3 189.4,250.6 321.7,286.6 536.3,296 576,318.3" stroke="#986347" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="6 5"/>
+  <line x1="264.3" y1="131" x2="274.3" y2="131" stroke="#626966"/>
+  <circle cx="264.3" cy="131" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="279.3" y="135" class="place">Danubio</text>
+  <line x1="457.4" y1="214.4" x2="465.4" y2="198.4" stroke="#626966"/>
+  <circle cx="457.4" cy="214.4" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="470.4" y="202.4" class="place">Constantinopla</text>
+  <line x1="525.6" y1="254.8" x2="517.6" y2="269.8" stroke="#626966"/>
+  <circle cx="525.6" cy="254.8" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="512.6" y="273.8" class="place" text-anchor="end">Iconio</text>
+  <line x1="553.4" y1="274" x2="545.4" y2="307" stroke="#626966"/>
+  <circle cx="553.4" cy="274" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="540.4" y="311" class="place" text-anchor="end">Saleph</text>
+  <line x1="189.4" y1="250.6" x2="180.4" y2="264.6" stroke="#626966"/>
+  <circle cx="189.4" cy="250.6" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="175.4" y="268.6" class="place" text-anchor="end">Sicilia</text>
+  <line x1="536.3" y1="296" x2="530.3" y2="311" stroke="#626966"/>
+  <circle cx="536.3" cy="296" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="525.3" y="315" class="place" text-anchor="end">Chipre</text>
+  <line x1="576" y1="318.3" x2="585" y2="314.3" stroke="#626966"/>
+  <circle cx="576" cy="318.3" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="590" y="318.3" class="place">Acre</text>
+  <line x1="569.6" y1="329.6" x2="564.6" y2="354.6" stroke="#626966"/>
+  <circle cx="569.6" cy="329.6" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="559.6" y="358.6" class="place" text-anchor="end">Jaffa</text>
+  <line x1="578.9" y1="333.1" x2="586.9" y2="359.1" stroke="#626966"/>
+  <circle cx="578.9" cy="333.1" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="591.9" y="363.1" class="place">Jerusalén</text>
+  <path d="M30 466h30" fill="none" stroke="#22665a" stroke-width="3"/>
+  <text x="69" y="471" class="note">Federico I y parte de los supervivientes</text>
+  <path d="M410 466h30" fill="none" stroke="#986347" stroke-width="3" stroke-dasharray="6 5"/>
+  <text x="449" y="471" class="note">Ruta marítima, con escala de Ricardo en Chipre</text>
+  <text x="30" y="494" class="note">Base geográfica · Natural Earth, dominio público</text>
+</svg>

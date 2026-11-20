@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 400" role="img" aria-labelledby="title description">
+  <title id="title">Qué reguló la tregua de Jaffa</title>
+  <desc id="description">Gobierno de Jerusalén. La ciudad volvió a quedar bajo control latino.. Su aplicación dependía de garantías y recursos locales.. Recinto sagrado musulmán. El culto musulmán continuó en al-Ḥaram al-Sharīf.. El recinto conservó competencias y reglas propias.. Paso y duración. Las plazas y rutas daban acceso desde el litoral.. La tregua se pactó por un período de unos diez años.</desc>
+  <rect width="760" height="400" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #23302d }
+    .title { font-size: 28px; font-weight: 730 }
+    .note { font-size: 16px; fill: #435653 }
+    .date { font-size: 19px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 19px; font-weight: 550 }
+    .head { font-size: 22px; font-weight: 680 }
+    .place { font-size: 17px; font-weight: 700; paint-order: stroke; stroke: #f7f4ec; stroke-width: 4; stroke-linejoin: round }
+    .water { font-size: 17px; fill: #456672; font-style: italic }
+  </style>
+  <text x="30" y="45" class="title">Qué reguló la tregua de Jaffa</text>
+  <rect x="30" y="72" width="700" height="92" fill="#e5ece6"/>
+  <text x="50" y="99" class="head">Gobierno de Jerusalén</text>
+  <text x="50" y="125" class="item">La ciudad volvió a quedar bajo control latino.</text>
+  <text x="50" y="148" class="note">Su aplicación dependía de garantías y recursos locales.</text>
+  <rect x="30" y="177" width="700" height="92" fill="#f0ece1"/>
+  <text x="50" y="204" class="head">Recinto sagrado musulmán</text>
+  <text x="50" y="230" class="item">El culto musulmán continuó en al-Ḥaram al-Sharīf.</text>
+  <text x="50" y="253" class="note">El recinto conservó competencias y reglas propias.</text>
+  <rect x="30" y="282" width="700" height="92" fill="#e5ece6"/>
+  <text x="50" y="309" class="head">Paso y duración</text>
+  <text x="50" y="335" class="item">Las plazas y rutas daban acceso desde el litoral.</text>
+  <text x="50" y="358" class="note">La tregua se pactó por un período de unos diez años.</text>
+</svg>

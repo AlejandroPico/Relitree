@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 505" role="img" aria-labelledby="title description">
+  <title id="title">Cuatro perspectivas sobre 1204</title>
+  <desc id="description">Godofredo de Villehardouin. Conoció los acuerdos entre los jefes.. Participó en la negociación del transporte.. Roberto de Clari. Narró la campaña desde otro rango del ejército.. Su relato dedica atención a la ciudad y sus riquezas.. Nicetas Coniates. Describió la crisis desde el ámbito bizantino.. Su relato recoge los efectos del saqueo sobre la población.. Inocencio III. Sus cartas permiten seguir prohibiciones y reacciones.. Hay que fecharlas según lo que se sabía en Roma.</desc>
+  <rect width="760" height="505" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #23302d }
+    .title { font-size: 28px; font-weight: 730 }
+    .note { font-size: 16px; fill: #435653 }
+    .date { font-size: 19px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 19px; font-weight: 550 }
+    .head { font-size: 22px; font-weight: 680 }
+    .place { font-size: 17px; font-weight: 700; paint-order: stroke; stroke: #f7f4ec; stroke-width: 4; stroke-linejoin: round }
+    .water { font-size: 17px; fill: #456672; font-style: italic }
+  </style>
+  <text x="30" y="45" class="title">Cuatro perspectivas sobre 1204</text>
+  <rect x="30" y="72" width="700" height="92" fill="#e5ece6"/>
+  <text x="50" y="99" class="head">Godofredo de Villehardouin</text>
+  <text x="50" y="125" class="item">Conoció los acuerdos entre los jefes.</text>
+  <text x="50" y="148" class="note">Participó en la negociación del transporte.</text>
+  <rect x="30" y="177" width="700" height="92" fill="#f0ece1"/>
+  <text x="50" y="204" class="head">Roberto de Clari</text>
+  <text x="50" y="230" class="item">Narró la campaña desde otro rango del ejército.</text>
+  <text x="50" y="253" class="note">Su relato dedica atención a la ciudad y sus riquezas.</text>
+  <rect x="30" y="282" width="700" height="92" fill="#e5ece6"/>
+  <text x="50" y="309" class="head">Nicetas Coniates</text>
+  <text x="50" y="335" class="item">Describió la crisis desde el ámbito bizantino.</text>
+  <text x="50" y="358" class="note">Su relato recoge los efectos del saqueo sobre la población.</text>
+  <rect x="30" y="387" width="700" height="92" fill="#f0ece1"/>
+  <text x="50" y="414" class="head">Inocencio III</text>
+  <text x="50" y="440" class="item">Sus cartas permiten seguir prohibiciones y reacciones.</text>
+  <text x="50" y="463" class="note">Hay que fecharlas según lo que se sabía en Roma.</text>
+</svg>

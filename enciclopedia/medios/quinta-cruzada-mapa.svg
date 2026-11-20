@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 510" role="img" aria-labelledby="title description">
+  <title id="title">Acre y el delta del Nilo</title>
+  <desc id="description">Acre, Damieta, Al-Manṣūra, El Cairo. Las líneas señalan recorridos aproximados.</desc>
+  <metadata>Cartografía de Relitree a partir de Natural Earth, capa Land a escala 1:110m, de dominio público.</metadata>
+  <rect width="760" height="510" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #23302d }
+    .title { font-size: 28px; font-weight: 730 }
+    .note { font-size: 16px; fill: #435653 }
+    .date { font-size: 19px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 19px; font-weight: 550 }
+    .head { font-size: 22px; font-weight: 680 }
+    .place { font-size: 17px; font-weight: 700; paint-order: stroke; stroke: #f7f4ec; stroke-width: 4; stroke-linejoin: round }
+    .water { font-size: 17px; fill: #456672; font-style: italic }
+  </style>
+  <text x="30" y="45" class="title">Acre y el delta del Nilo</text>
+  <text x="30" y="71" class="note">Hitos históricos sobre el litoral actual · trazados aproximados</text>
+  <rect x="30" y="86" width="700" height="360" fill="#deebee" stroke="#a8b9b6"/>
+  <g fill="#ece5d6" stroke="#9a9e89" stroke-width=".7">
+    <path d="M491.2,123.3L450,142.4L454.5,150.9L456.4,154.5L394,172.8L364.2,166.9L350,148.9L378.9,147.2L383.2,147L392,136.1L435.8,136.7L491.2,123.3Z" fill-rule="evenodd"/>
+    <path d="M730,86L730,446L502.2,446L504,441.2L506.7,425.4L514.3,407.4L512.3,400.9L495.1,419L484.8,446L401.1,446L360.1,385.2L353.9,389.3L379.1,436.8L386.7,446L30,446L30,313.4L57.9,319L118.3,332.3L146.5,339.3L193.3,325.1L218.4,312.2L272.1,308.5L315.4,314.2L331.9,336.5L346.1,321.8L394.8,332.4L442.3,335L472.2,323.6L490,308.8L485.8,306.3L501.9,285.2L514.2,251.3L523,239.9L524.6,239.4L546.3,202.8L576.6,171L577.7,169.5L572,135L587,116.5L564.6,96.1L578.4,86L478.1,86L457.7,98.6L365.3,103.7L329.3,86L244.4,86L236.4,96.7L194.4,102L155,86Z" fill-rule="evenodd"/>
+  </g>
+  <text x="243" y="180.5" class="water" text-anchor="middle">Mediterráneo</text>
+  <polyline points="521.8,246.7 486.5,225.5 358.7,252.5 322.8,314.6" stroke="#22665a" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="322.8,314.6 310,324.5 296.6,331.7" stroke="#986347" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="6 5"/>
+  <line x1="521.8" y1="246.7" x2="529.8" y2="232.7" stroke="#626966"/>
+  <circle cx="521.8" cy="246.7" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="534.8" y="236.7" class="place">Acre</text>
+  <line x1="322.8" y1="314.6" x2="329.8" y2="295.6" stroke="#626966"/>
+  <circle cx="322.8" cy="314.6" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="334.8" y="299.6" class="place">Damieta</text>
+  <line x1="296.6" y1="331.7" x2="285.6" y2="341.7" stroke="#626966"/>
+  <circle cx="296.6" cy="331.7" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="280.6" y="345.7" class="place" text-anchor="end">Al-Manṣūra</text>
+  <line x1="288.1" y1="376.7" x2="297.1" y2="387.7" stroke="#626966"/>
+  <circle cx="288.1" cy="376.7" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="302.1" y="391.7" class="place">El Cairo</text>
+  <path d="M30 466h30" fill="none" stroke="#22665a" stroke-width="3"/>
+  <text x="69" y="471" class="note">Llegada a Damieta</text>
+  <path d="M352 466h30" fill="none" stroke="#986347" stroke-width="3" stroke-dasharray="6 5"/>
+  <text x="391" y="471" class="note">Avance por el delta en 1221</text>
+  <text x="30" y="494" class="note">Base geográfica · Natural Earth, dominio público</text>
+</svg>

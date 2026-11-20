@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 400" role="img" aria-labelledby="title description">
+  <title id="title">El desenlace de la campaña de Túnez</title>
+  <desc id="description">Cartago y Túnez. La expedición se estableció en el entorno de Cartago.. La capital siguió bajo el gobierno hafsí.. Cambio de mando. Luis IX murió en el campamento en agosto.. Felipe y Carlos intervinieron en la etapa final.. Tratado. Se pactaron pagos y condiciones de trato comercial.. La fuerza cruzada abandonó sus posiciones.</desc>
+  <rect width="760" height="400" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #23302d }
+    .title { font-size: 28px; font-weight: 730 }
+    .note { font-size: 16px; fill: #435653 }
+    .date { font-size: 19px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 19px; font-weight: 550 }
+    .head { font-size: 22px; font-weight: 680 }
+    .place { font-size: 17px; font-weight: 700; paint-order: stroke; stroke: #f7f4ec; stroke-width: 4; stroke-linejoin: round }
+    .water { font-size: 17px; fill: #456672; font-style: italic }
+  </style>
+  <text x="30" y="45" class="title">El desenlace de la campaña de Túnez</text>
+  <rect x="30" y="72" width="700" height="92" fill="#e5ece6"/>
+  <text x="50" y="99" class="head">Cartago y Túnez</text>
+  <text x="50" y="125" class="item">La expedición se estableció en el entorno de Cartago.</text>
+  <text x="50" y="148" class="note">La capital siguió bajo el gobierno hafsí.</text>
+  <rect x="30" y="177" width="700" height="92" fill="#f0ece1"/>
+  <text x="50" y="204" class="head">Cambio de mando</text>
+  <text x="50" y="230" class="item">Luis IX murió en el campamento en agosto.</text>
+  <text x="50" y="253" class="note">Felipe y Carlos intervinieron en la etapa final.</text>
+  <rect x="30" y="282" width="700" height="92" fill="#e5ece6"/>
+  <text x="50" y="309" class="head">Tratado</text>
+  <text x="50" y="335" class="item">Se pactaron pagos y condiciones de trato comercial.</text>
+  <text x="50" y="358" class="note">La fuerza cruzada abandonó sus posiciones.</text>
+</svg>

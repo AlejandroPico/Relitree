@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 400" role="img" aria-labelledby="title description">
+  <title id="title">Las fases de Damieta</title>
+  <desc id="description">1218–1219 · Asedio. La lucha por el paso del río precedió a la toma.. El cerco se sostuvo con recursos navales y terrestres.. 1219–1221 · Ocupación. La ciudad quedó bajo control cruzado.. Conservarla implicó administrar bienes y sostener defensas.. 1221 · Devolución. La marcha hacia el interior quedó comprometida.. Restituir la ciudad fue condición de la retirada.</desc>
+  <rect width="760" height="400" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #23302d }
+    .title { font-size: 28px; font-weight: 730 }
+    .note { font-size: 16px; fill: #435653 }
+    .date { font-size: 19px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 19px; font-weight: 550 }
+    .head { font-size: 22px; font-weight: 680 }
+    .place { font-size: 17px; font-weight: 700; paint-order: stroke; stroke: #f7f4ec; stroke-width: 4; stroke-linejoin: round }
+    .water { font-size: 17px; fill: #456672; font-style: italic }
+  </style>
+  <text x="30" y="45" class="title">Las fases de Damieta</text>
+  <rect x="30" y="72" width="700" height="92" fill="#e5ece6"/>
+  <text x="50" y="99" class="head">1218–1219 · Asedio</text>
+  <text x="50" y="125" class="item">La lucha por el paso del río precedió a la toma.</text>
+  <text x="50" y="148" class="note">El cerco se sostuvo con recursos navales y terrestres.</text>
+  <rect x="30" y="177" width="700" height="92" fill="#f0ece1"/>
+  <text x="50" y="204" class="head">1219–1221 · Ocupación</text>
+  <text x="50" y="230" class="item">La ciudad quedó bajo control cruzado.</text>
+  <text x="50" y="253" class="note">Conservarla implicó administrar bienes y sostener defensas.</text>
+  <rect x="30" y="282" width="700" height="92" fill="#e5ece6"/>
+  <text x="50" y="309" class="head">1221 · Devolución</text>
+  <text x="50" y="335" class="item">La marcha hacia el interior quedó comprometida.</text>
+  <text x="50" y="358" class="note">Restituir la ciudad fue condición de la retirada.</text>
+</svg>

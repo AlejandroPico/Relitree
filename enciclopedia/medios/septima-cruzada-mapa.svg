@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" viewBox="0 0 760 510" role="img" aria-labelledby="title description">
+  <title id="title">Egipto y el Levante · 1249–1254</title>
+  <desc id="description">Chipre, Damieta, Fariskur, Al-Manṣūra, Acre, Jaffa, Sidón. Las líneas señalan recorridos aproximados.</desc>
+  <metadata>Cartografía de Relitree a partir de Natural Earth, capa Land a escala 1:110m, de dominio público.</metadata>
+  <rect width="760" height="510" fill="#f7f4ec"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #23302d }
+    .title { font-size: 28px; font-weight: 730 }
+    .note { font-size: 16px; fill: #435653 }
+    .date { font-size: 19px; font-weight: 700; fill: #165d53 }
+    .item { font-size: 19px; font-weight: 550 }
+    .head { font-size: 22px; font-weight: 680 }
+    .place { font-size: 17px; font-weight: 700; paint-order: stroke; stroke: #f7f4ec; stroke-width: 4; stroke-linejoin: round }
+    .water { font-size: 17px; fill: #456672; font-style: italic }
+  </style>
+  <text x="30" y="45" class="title">Egipto y el Levante · 1249–1254</text>
+  <text x="30" y="71" class="note">Hitos históricos sobre el litoral actual · trazados aproximados</text>
+  <rect x="30" y="86" width="700" height="360" fill="#deebee" stroke="#a8b9b6"/>
+  <g fill="#ece5d6" stroke="#9a9e89" stroke-width=".7">
+    <path d="M512.1,132.3L469.1,151.4L473.8,159.9L475.8,163.5L410.5,181.8L379.4,175.9L364.5,157.9L394.7,156.2L399.2,156L408.4,145.1L454.3,145.7L512.1,132.3Z" fill-rule="evenodd"/>
+    <path d="M730,86L730,446L526.3,446L528.4,434.4L536.3,416.4L534.2,409.9L516.3,428L509.1,446L411.6,446L375.1,394.2L368.6,398.3L394.9,445.8L395.2,446L30,446L30,322.4L59.1,328L122.3,341.3L151.8,348.3L200.8,334.1L227,321.2L283.1,317.5L328.3,323.2L345.7,345.5L360.4,330.8L411.4,341.4L461,344L492.4,332.6L510.9,317.8L506.5,315.3L523.4,294.2L536.3,260.3L545.4,248.9L547.1,248.4L569.8,211.8L601.4,180L602.6,178.5L596.7,144L612.3,125.5L588.9,105.1L613,88.2L574.2,92.1L543,86L513.7,86L477.2,107.6L380.6,112.7L329.1,88.5L260.5,87L245.8,105.7L201.8,111L140.3,87L70.8,87.9L69.3,86Z" fill-rule="evenodd"/>
+  </g>
+  <text x="214.5" y="203" class="water" text-anchor="middle">Mediterráneo</text>
+  <polyline points="414.4,177.4 354.5,214.3 336.1,323.6 330.4,327.7 308.7,340.7" stroke="#22665a" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="336.1,323.6 411.8,283.1 494.5,257 544.2,255.7" stroke="#986347" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="6 5"/>
+  <line x1="414.4" y1="177.4" x2="407.4" y2="161.4" stroke="#626966"/>
+  <circle cx="414.4" cy="177.4" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="402.4" y="165.4" class="place" text-anchor="end">Chipre</text>
+  <line x1="336.1" y1="323.6" x2="349.1" y2="302.6" stroke="#626966"/>
+  <circle cx="336.1" cy="323.6" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="354.1" y="306.6" class="place">Damieta</text>
+  <line x1="330.4" y1="327.7" x2="341.4" y2="340.7" stroke="#626966"/>
+  <circle cx="330.4" cy="327.7" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="346.4" y="344.7" class="place">Fariskur</text>
+  <line x1="308.7" y1="340.7" x2="296.7" y2="354.7" stroke="#626966"/>
+  <circle cx="308.7" cy="340.7" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="291.7" y="358.7" class="place" text-anchor="end">Al-Manṣūra</text>
+  <line x1="544.2" y1="255.7" x2="554.2" y2="257.7" stroke="#626966"/>
+  <circle cx="544.2" cy="255.7" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="559.2" y="261.7" class="place">Acre</text>
+  <line x1="523.2" y1="295.3" x2="532.2" y2="303.3" stroke="#626966"/>
+  <circle cx="523.2" cy="295.3" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="537.2" y="307.3" class="place">Jaffa</text>
+  <line x1="562.6" y1="227.3" x2="571.6" y2="212.3" stroke="#626966"/>
+  <circle cx="562.6" cy="227.3" r="4.5" fill="#145b51" stroke="#fffaf1" stroke-width="1.4"/>
+  <text x="576.6" y="216.3" class="place">Sidón</text>
+  <path d="M30 466h30" fill="none" stroke="#22665a" stroke-width="3"/>
+  <text x="69" y="471" class="note">Etapa egipcia</text>
+  <path d="M310 466h30" fill="none" stroke="#986347" stroke-width="3" stroke-dasharray="6 5"/>
+  <text x="349" y="471" class="note">Salida hacia Acre tras el rescate</text>
+  <text x="30" y="494" class="note">Base geográfica · Natural Earth, dominio público</text>
+</svg>
