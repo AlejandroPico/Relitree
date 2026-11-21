@@ -354,7 +354,7 @@ export class Enciclopedia {
     const resto = this.porTerritorio()
       ? this.datos.regiones.map((r) => grupo(r.id, r.nombre, r.color, actual?.grupo === r.id))
       : [grupo('todas', this.i18n.t('religiones'), 'var(--tenue)', true)];
-    return [temas, ...resto].filter((g) => g.total);
+    return [temas, ...resto].filter((g) => g.entradas.length);
   });
   bloques = computed(() => {
     const r = this.religion(); if (!r) return [];
