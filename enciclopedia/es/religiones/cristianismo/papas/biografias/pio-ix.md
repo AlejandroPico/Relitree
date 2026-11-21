@@ -2,7 +2,7 @@
 estado: completo
 fase: E12
 orden: 50
-palabras: 5097
+palabras: 5103
 fuentes:
   - "https://www.treccani.it/enciclopedia/pio-ix-papa-beato_%28Dizionario-Biografico%29/"
   - "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20000903_pius-ix_it.html"
@@ -167,6 +167,11 @@ Esta fase permite entender mejor qué cambió al caer el poder temporal. En terr
 En este escenario, la prensa siguió difundiendo criterios comunes y noticias del terreno. La Civiltà Cattolica, fundada en 1850 y vinculada a la Compañía de Jesús, tuvo un papel en la defensa intelectual de posturas romanas. Sus argumentos podían referirse a un debate europeo y encontraban eco en lectores que sufrían consecuencias más inmediatas. Un texto sobre la soberanía del papa circulaba a la vez que los católicos de una localidad intentaban sostener una asociación o una escuela. Las formas de apoyo a Roma se desarrollaron mediante esas combinaciones de argumentos generales y actividades concretas. [1,2,4,5]
 
 El periodismo permite por ello seguir el tramo que media entre una declaración pontificia y su transformación en tema de conversación pública. Un editorial podía traducir una norma a los términos de la política de un país, conectarla con una disputa cercana y suscitar una respuesta. La difusión del Vaticano I y la defensa del pontífice tras la ocupación se apoyaron en redes que podían aprovechar y transformar las mismas noticias. [1–5,14,15]
+
+## Lecturas relacionadas
+
+- [[cristianismo/maria-y-figuras-mayores/maria-madre-de-jesus|María, madre de Jesús]]
+- [[cristianismo/maria-y-figuras-mayores/apariciones-marianas|Apariciones marianas]]
 
 ## Fuentes
 

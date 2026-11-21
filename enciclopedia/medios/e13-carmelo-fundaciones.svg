@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 526" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Los pasos de la reforma del Carmelo</title>
+<desc id="detalle">1562 · San José de Ávila. Primera comunidad de la reforma impulsada por Teresa. 1567 · Medina del Campo. Fundación y encuentro de Teresa con Juan. 1568 · Duruelo. Se establece la primera comunidad masculina de la nueva observancia. 1577–1578 · Toledo. Encierro de Juan y fuga. 1580 · Separación provincial. Se aprueba un marco provincial propio para los descalzos. 1582 · Burgos y Alba. Última fundación de Teresa y muerte en Alba de Tormes.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#193144}.title{font-size:27px;font-weight:650}.label{font-weight:650}.subtitle{fill:#4b6576}.grid-note{font-size:12px;fill:#415c6f}.map-label{font-size:15px;paint-order:stroke;stroke:#eef6f8;stroke-width:4px;stroke-linejoin:round}</style>
+<rect width="740" height="526" fill="white"/>
+<text class="title" x="20" y="39">Los pasos de la reforma del Carmelo</text>
+<text class="subtitle" x="20" y="70">Fundaciones, gobierno y conflicto de jurisdicciones</text>
+<rect x="20" y="100" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="100" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="125">1562 · San José de</text>
+<text class="label" x="39" y="148">Ávila</text>
+<text x="267" y="125">Primera comunidad de la reforma impulsada por</text>
+<text x="267" y="148">Teresa.</text>
+<rect x="20" y="172" width="700" height="56" fill="#f7f9fc"/>
+<rect x="20" y="172" width="5" height="56" fill="#47748d"/>
+<text class="label" x="39" y="197">1567 · Medina del Campo</text>
+<text x="267" y="197">Fundación y encuentro de Teresa con Juan.</text>
+<rect x="20" y="233" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="233" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="258">1568 · Duruelo</text>
+<text x="267" y="258">Se establece la primera comunidad masculina de</text>
+<text x="267" y="281">la nueva observancia.</text>
+<rect x="20" y="305" width="700" height="56" fill="#f7f9fc"/>
+<rect x="20" y="305" width="5" height="56" fill="#47748d"/>
+<text class="label" x="39" y="330">1577–1578 · Toledo</text>
+<text x="267" y="330">Encierro de Juan y fuga.</text>
+<rect x="20" y="366" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="366" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="391">1580 · Separación</text>
+<text class="label" x="39" y="414">provincial</text>
+<text x="267" y="391">Se aprueba un marco provincial propio para los</text>
+<text x="267" y="414">descalzos.</text>
+<rect x="20" y="438" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="438" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="463">1582 · Burgos y Alba</text>
+<text x="267" y="463">Última fundación de Teresa y muerte en Alba de</text>
+<text x="267" y="486">Tormes.</text>
+</svg>

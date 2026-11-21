@@ -2,7 +2,7 @@
 estado: completo
 fase: E05
 orden: 1962
-palabras: 5049
+palabras: 5053
 fuentes:
   - "https://www.vatican.va/content/dam/wss/archive/hist_councils/ii_vatican_council/index_sp.htm"
   - "https://www.vatican.va/content/john-xxiii/es/speeches/1962/documents/hf_j-xxiii_spe_19621011_opening-council.html"
@@ -210,6 +210,10 @@ En la historia de los [[cristianismo/concilios-ecumenicos|concilios ecuménicos]
 - [[cristianismo/papas/biografias/juan-xxiii-y-pablo-vi|Juan XXIII y Pablo VI]]
 - [[cristianismo/papas/biografias/juan-pablo-ii|Juan Pablo II]]
 - [[cristianismo/papas/biografias/benedicto-xvi-y-francisco|Benedicto XVI y Francisco]]
+
+## Lecturas relacionadas
+
+- [[cristianismo/maria-y-figuras-mayores/maria-madre-de-jesus|María, madre de Jesús]]
 
 ## Fuentes
 

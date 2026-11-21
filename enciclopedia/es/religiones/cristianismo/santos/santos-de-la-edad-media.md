@@ -2,7 +2,7 @@
 estado: completo
 fase: E12
 orden: 30
-palabras: 5071
+palabras: 5077
 fuentes:
   - "https://obnb.uk/p8761919-sainthood-in-the-later-middle-ages"
   - "https://www.utupub.fi/server/api/core/bitstreams/67599ecc-8db8-417e-b643-8476c6068444/content"
@@ -197,6 +197,11 @@ Algunas causas ofrecen la oportunidad de reconocer qué papel ejercieron las per
 Las fuentes dejan ver la tensión entre los intereses de quienes defendían una causa y las necesidades de quienes convivían con un candidato. Las virtudes podían verse en la atención dispensada por un superior, por un predicador o por alguien que gestionaba recursos. Para apreciar el alcance dado a cada conducta es preciso saber qué se preguntó a los testigos y qué episodios se seleccionaron para el expediente. Esa atención al procedimiento permite seguir la historia de las instituciones sin perder de vista la de personas cuyos trabajos y responsabilidades se desarrollaban a menor escala. [1,2,14,15,20]
 
 En las ciudades episcopales, un templo podía atraer donaciones de personas que esperaban que se recordara a sus familias. Su crecimiento implicaba obras, mantenimiento y una liturgia capaz de recibir visitas sin perder sus usos ordinarios. Los textos que celebran el prestigio de un centro pueden complementarse con lo que se conserva de su administración. Allí se observa cuánto costó sostener un servicio y qué grupos participaron en él. El derecho a fabricar o vender insignias, la gestión de las ofrendas y el hospedaje de peregrinos dan al culto un aspecto económico que explica parte de su continuidad. Una devoción podía durar porque encontraba una forma de integrarse en el trabajo de muchas personas que jamás habían conocido a quien dio nombre al santuario. En Santiago y Canterbury, las tradiciones escritas se prolongaron así mediante prácticas que incluían a personas de toda la región. [1,7–10]
+
+## Lecturas relacionadas
+
+- [[cristianismo/maria-y-figuras-mayores/francisco-de-asis|Francisco de Asís]]
+- [[cristianismo/maria-y-figuras-mayores/tomas-de-aquino|Tomás de Aquino]]
 
 ## Fuentes
 

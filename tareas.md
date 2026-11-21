@@ -4,6 +4,12 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E13 · Entrega 13.1. [«María, madre de Jesús»](enciclopedia/es/religiones/cristianismo/maria-y-figuras-mayores/maria-madre-de-jesus.md), 5.187 palabras de cuerpo, 24 fuentes y créditos, 2 imágenes y 2 gráficos propios. Versión 1.7.39.
+- [x] E13 · Entrega 13.1. [«Apariciones marianas»](enciclopedia/es/religiones/cristianismo/maria-y-figuras-mayores/apariciones-marianas.md), 5.060 palabras de cuerpo, 23 fuentes y créditos, 3 imágenes y 2 gráficos propios. Versión 1.7.39.
+- [x] E13 · Entrega 13.2. [«Agustín de Hipona»](enciclopedia/es/religiones/cristianismo/maria-y-figuras-mayores/agustin-de-hipona.md), 5.107 palabras de cuerpo, 24 fuentes y créditos, 2 imágenes y 2 gráficos propios. Versión 1.7.39.
+- [x] E13 · Entrega 13.2. [«Tomás de Aquino»](enciclopedia/es/religiones/cristianismo/maria-y-figuras-mayores/tomas-de-aquino.md), 5.027 palabras de cuerpo, 18 fuentes y créditos, 2 imágenes y 2 gráficos propios. Versión 1.7.39.
+- [x] E13 · Entrega 13.3. [«Francisco de Asís»](enciclopedia/es/religiones/cristianismo/maria-y-figuras-mayores/francisco-de-asis.md), 5.069 palabras de cuerpo, 18 fuentes y créditos, 3 imágenes y 2 gráficos propios. Versión 1.7.39.
+- [x] E13 · Entrega 13.3. [«Teresa de Ávila y Juan de la Cruz»](enciclopedia/es/religiones/cristianismo/maria-y-figuras-mayores/teresa-de-avila-y-juan-de-la-cruz.md), 5.084 palabras de cuerpo, 16 fuentes y créditos, 3 imágenes y 2 gráficos propios. Versión 1.7.39.
 - [x] E12 · Entrega 12.4. [«Juan Pablo II»](enciclopedia/es/religiones/cristianismo/papas/biografias/juan-pablo-ii.md), 5.015 palabras de cuerpo, 35 fuentes y créditos, 2 imágenes y 2 gráficos propios. Versión 1.7.38.
 - [x] E12 · Entrega 12.4. [«Benedicto XVI y Francisco»](enciclopedia/es/religiones/cristianismo/papas/biografias/benedicto-xvi-y-francisco.md), 5.048 palabras de cuerpo, 41 fuentes y créditos, 3 imágenes y 2 gráficos propios. Versión 1.7.38.
 - [x] E12 · Entrega 12.5. [«Los santos: culto, canonización y reliquias»](enciclopedia/es/religiones/cristianismo/santos/culto-canonizacion-y-reliquias.md), 5.073 palabras de cuerpo, 31 fuentes y créditos, 4 imágenes y 2 gráficos propios. Versión 1.7.38.

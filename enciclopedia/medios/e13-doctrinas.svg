@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 476" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">La formación de las doctrinas marianas</title>
+<desc id="detalle">431 · Éfeso. Madre de Dios. El título se refiere al Hijo encarnado. 451 · Calcedonia. El mismo Cristo nace de María según la humanidad. 1854 · Pío IX. La Inmaculada Concepción se refiere al comienzo de la vida de María. 1950 · Pío XII. La Asunción se refiere a su glorificación en cuerpo y alma. 1964 · Vaticano II. Lumen gentium sitúa a María en el misterio de Cristo y de la Iglesia.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#193144}.title{font-size:27px;font-weight:650}.label{font-weight:650}.subtitle{fill:#4b6576}.grid-note{font-size:12px;fill:#415c6f}.map-label{font-size:15px;paint-order:stroke;stroke:#eef6f8;stroke-width:4px;stroke-linejoin:round}</style>
+<rect width="740" height="476" fill="white"/>
+<text class="title" x="20" y="39">La formación de las doctrinas marianas</text>
+<text class="subtitle" x="20" y="70">Cada formulación responde a una pregunta distinta</text>
+<rect x="20" y="100" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="100" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="125">431 · Éfeso</text>
+<text x="267" y="125">Madre de Dios. El título se refiere al Hijo</text>
+<text x="267" y="148">encarnado.</text>
+<rect x="20" y="172" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="172" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="197">451 · Calcedonia</text>
+<text x="267" y="197">El mismo Cristo nace de María según la</text>
+<text x="267" y="220">humanidad.</text>
+<rect x="20" y="244" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="244" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="269">1854 · Pío IX</text>
+<text x="267" y="269">La Inmaculada Concepción se refiere al comienzo</text>
+<text x="267" y="292">de la vida de María.</text>
+<rect x="20" y="316" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="316" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="341">1950 · Pío XII</text>
+<text x="267" y="341">La Asunción se refiere a su glorificación en</text>
+<text x="267" y="364">cuerpo y alma.</text>
+<rect x="20" y="388" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="388" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="413">1964 · Vaticano II</text>
+<text x="267" y="413">Lumen gentium sitúa a María en el misterio de</text>
+<text x="267" y="436">Cristo y de la Iglesia.</text>
+</svg>

@@ -2,7 +2,7 @@
 estado: completo
 fase: E04
 orden: 431
-palabras: 5123
+palabras: 5127
 fuentes:
   - "https://www.jstor.org/stable/jj.38238602"
   - "https://www.newadvent.org/fathers/3810.htm"
@@ -157,6 +157,10 @@ En 1994, la Iglesia católica y la Iglesia asiria del Oriente firmaron una decla
 Las actas de la asamblea de Cirilo conservan decisiones cuyo reconocimiento posterior puede rastrearse en otras colecciones. Las objeciones de los orientales y las comunicaciones de los funcionarios imperiales permiten ver que ese resultado seguía siendo discutible para sus contemporáneos. Sócrates de Constantinopla aporta una narración próxima en el tiempo, con un juicio propio acerca de Nestorio y de sus adversarios. Sus fechas y el orden de algunos sucesos no coinciden con la secuencia que puede reconstruirse a partir de la documentación conciliar. Su relato sigue siendo valioso para preguntas sobre la memoria de la disputa en la capital y acerca de lo que se atribuía a la predicación episcopal. La combinación de testimonios sirve mejor si se distingue qué preguntas puede responder cada clase de fuente. [1, 4, 5, 7, 10]
 
 En una historia conciliar, la transmisión posterior de un escrito puede ser tan decisiva como su primera lectura. Lo que en 431 comenzó como una sentencia discutida por una segunda asamblea se convirtió en referencia autorizada en iglesias que volvieron a leer sus actas. Estudiar Éfeso exige seguir al mismo tiempo el juicio de Nestorio, la elaboración de una explicación de la encarnación y el proceso que dio vigencia a esa explicación fuera de la ciudad. El acuerdo de 433 y la recepción de 451 ayudan a distinguir lo que los obispos decidieron en Éfeso de las consecuencias que tuvo su decisión para iglesias con historias distintas. [1–3, 5, 6, 9, 14]
+
+## Lecturas relacionadas
+
+- [[cristianismo/maria-y-figuras-mayores/maria-madre-de-jesus|María, madre de Jesús]]
 
 ## Fuentes
 

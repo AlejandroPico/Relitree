@@ -2,7 +2,7 @@
 estado: completo
 fase: E12
 orden: 20
-palabras: 5082
+palabras: 5085
 fuentes:
   - "https://press.uchicago.edu/ucp/books/book/chicago/C/bo19109018.html"
   - "https://csla.history.ox.ac.uk/"
@@ -192,6 +192,10 @@ La historia de los cultos antiguos se apoya también en testimonios muy breves. 
 La pasión de una mártir podía desarrollarse con escenas y discursos y llegar a un público que nunca hubiese visitado la tumba. Un relato que menciona edad, familia y castigos se recuerda con facilidad. La inscripción puede conservar un nombre con más seguridad y ofrecer pocos detalles acerca de la muerte. Al revisar ambos testimonios, la coincidencia del nombre permite formular una relación que habrá que comprobar con fechas, usos litúrgicos y otros datos. Cuando la coincidencia alcanza solo una parte, queda todavía información sobre la vida religiosa de las comunidades. El conocimiento de muchos santos antiguos consiste precisamente en reunir certezas parciales. [1,2,8,9,29]
 
 Estas formas de transmisión dan contexto a la recepción medieval. Una comunidad podía heredar un nombre en el calendario, una narración para leer y un lugar que requería custodia, en combinaciones diferentes. La distancia respecto a los acontecimientos planteó nuevas preguntas sobre qué relato considerar autorizado y qué grado de antigüedad podían demostrar sus promotores. Las soluciones que ensayaron las Iglesias medievales se apoyaron en ese legado y en sus propios modos de organizar la peregrinación y el reconocimiento público. [1,2,20,29]
+
+## Lecturas relacionadas
+
+- [[cristianismo/maria-y-figuras-mayores/agustin-de-hipona|Agustín de Hipona]]
 
 ## Fuentes
 

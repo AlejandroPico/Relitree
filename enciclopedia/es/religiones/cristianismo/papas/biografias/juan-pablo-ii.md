@@ -2,7 +2,7 @@
 estado: completo
 fase: E12
 orden: 70
-palabras: 5015
+palabras: 5017
 fuentes:
   - "https://www.vatican.va/content/john-paul-ii/es/biografia/documents/hf_jp-ii_spe_20190722_biografia.html"
   - "https://www.britannica.com/biography/Saint-John-Paul-II"
@@ -178,6 +178,10 @@ En 2003, frente a la inminente guerra en Irak, Juan Pablo II defendió la búsqu
 Los viajes a Asia plantearon aún otras preguntas. En India, el pontífice vinculó el diálogo interreligioso con la situación de comunidades católicas que vivían junto a tradiciones con gran arraigo. La exhortación Ecclesia in Asia, de 1999, se publicó tras una asamblea especial del Sínodo de los Obispos. La población católica de países como Filipinas tenía una presencia pública diferente a la de grupos que constituían una pequeña minoría en otros Estados. Cualquier orientación general debía traducirse en opciones locales sobre enseñanza, lenguas, cooperación social y testimonio religioso. El sínodo permitió que obispos de la región formularan problemas propios y el viaje dio visibilidad a la lectura que el papa hacía de ellos. [1,4,33]
 
 La comparación entre estos casos ayuda a comprender qué funciones podía ejercer la misma persona. La mediación requería consentimiento de los gobiernos y trabajo reservado. Un viaje permitía escuchar a comunidades y difundir posiciones que podían adquirir un significado inesperado. Una exhortación posterior a una asamblea daba curso a propuestas de obispos y a materias que seguirían desarrollándose tras la salida del pontífice. La biografía reúne esas formas de presencia para situar los resultados dentro de la acción compartida de personas con posibilidades muy distintas. [1,4,20,30–33]
+
+## Lecturas relacionadas
+
+- [[cristianismo/maria-y-figuras-mayores/apariciones-marianas|Apariciones marianas]]
 
 ## Fuentes
 

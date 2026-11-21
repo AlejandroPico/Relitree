@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 526" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Las seis conclusiones de 2024</title>
+<desc id="detalle">Nihil obstat. Se respalda prudentemente una propuesta pastoral. Prae oculis habeatur. Se requieren atención y aclaraciones. Curatur. Se reorienta una devoción ya extendida que presenta dificultades. Sub mandato. La autoridad asume la conducción pastoral. Prohibetur et obstruatur. Se impide la adhesión por la gravedad de los problemas. Declaratio de non supernaturalitate. Se declara el carácter no sobrenatural conforme a pruebas.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#193144}.title{font-size:27px;font-weight:650}.label{font-weight:650}.subtitle{fill:#4b6576}.grid-note{font-size:12px;fill:#415c6f}.map-label{font-size:15px;paint-order:stroke;stroke:#eef6f8;stroke-width:4px;stroke-linejoin:round}</style>
+<rect width="740" height="526" fill="white"/>
+<text class="title" x="20" y="39">Las seis conclusiones de 2024</text>
+<text class="subtitle" x="20" y="70">El procedimiento católico examina cada caso y sus frutos</text>
+<rect x="20" y="100" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="100" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="125">Nihil obstat</text>
+<text x="267" y="125">Se respalda prudentemente una propuesta</text>
+<text x="267" y="148">pastoral.</text>
+<rect x="20" y="172" width="700" height="56" fill="#f7f9fc"/>
+<rect x="20" y="172" width="5" height="56" fill="#47748d"/>
+<text class="label" x="39" y="197">Prae oculis habeatur</text>
+<text x="267" y="197">Se requieren atención y aclaraciones.</text>
+<rect x="20" y="233" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="233" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="258">Curatur</text>
+<text x="267" y="258">Se reorienta una devoción ya extendida que</text>
+<text x="267" y="281">presenta dificultades.</text>
+<rect x="20" y="305" width="700" height="56" fill="#f7f9fc"/>
+<rect x="20" y="305" width="5" height="56" fill="#47748d"/>
+<text class="label" x="39" y="330">Sub mandato</text>
+<text x="267" y="330">La autoridad asume la conducción pastoral.</text>
+<rect x="20" y="366" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="366" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="391">Prohibetur et</text>
+<text class="label" x="39" y="414">obstruatur</text>
+<text x="267" y="391">Se impide la adhesión por la gravedad de los</text>
+<text x="267" y="414">problemas.</text>
+<rect x="20" y="438" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="438" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="463">Declaratio de non</text>
+<text class="label" x="39" y="486">supernaturalitate</text>
+<text x="267" y="463">Se declara el carácter no sobrenatural conforme</text>
+<text x="267" y="486">a pruebas.</text>
+</svg>

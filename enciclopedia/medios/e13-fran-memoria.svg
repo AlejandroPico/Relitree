@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 393" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Francisco en los documentos y el arte</title>
+<desc id="detalle">Reglas y cartas. Qué prácticas debían organizar los hermanos. Testamento. Cómo recuerda Francisco los comienzos al final de su vida. Celano y Buenaventura. Qué testimonios seleccionan las vidas y con qué propósito. Frescos de Asís. Cómo se ordena la memoria de Francisco para un público posterior.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#193144}.title{font-size:27px;font-weight:650}.label{font-weight:650}.subtitle{fill:#4b6576}.grid-note{font-size:12px;fill:#415c6f}.map-label{font-size:15px;paint-order:stroke;stroke:#eef6f8;stroke-width:4px;stroke-linejoin:round}</style>
+<rect width="740" height="393" fill="white"/>
+<text class="title" x="20" y="39">Francisco en los documentos y el arte</text>
+<text class="subtitle" x="20" y="70">Qué pregunta se puede hacer a cada testimonio</text>
+<rect x="20" y="100" width="700" height="56" fill="#f0f5f8"/>
+<rect x="20" y="100" width="5" height="56" fill="#47748d"/>
+<text class="label" x="39" y="125">Reglas y cartas</text>
+<text x="267" y="125">Qué prácticas debían organizar los hermanos.</text>
+<rect x="20" y="161" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="161" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="186">Testamento</text>
+<text x="267" y="186">Cómo recuerda Francisco los comienzos al final</text>
+<text x="267" y="209">de su vida.</text>
+<rect x="20" y="233" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="233" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="258">Celano y Buenaventura</text>
+<text x="267" y="258">Qué testimonios seleccionan las vidas y con qué</text>
+<text x="267" y="281">propósito.</text>
+<rect x="20" y="305" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="305" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="330">Frescos de Asís</text>
+<text x="267" y="330">Cómo se ordena la memoria de Francisco para un</text>
+<text x="267" y="353">público posterior.</text>
+</svg>

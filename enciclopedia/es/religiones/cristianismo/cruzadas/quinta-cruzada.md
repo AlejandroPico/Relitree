@@ -2,7 +2,7 @@
 estado: completo
 fase: E07
 orden: 121700
-palabras: 5062
+palabras: 5065
 fuentes:
   - "https://www.cambridge.org/core/books/abs/cambridge-history-of-the-crusades/fifth-crusade-and-the-levant-in-the-early-thirteenth-century/12347E603B8390865C61C76C5BE9F9E4"
   - "https://www.jstor.org/stable/j.ctt3fhpgt"
@@ -197,6 +197,10 @@ Los relatos de enfermedad y hambre también ayudan a conocer la experiencia de q
 Comparar las propuestas de al-Kāmil permite distinguir entre una intención negociadora y un acuerdo realizable. Una noticia difundida en el campamento podía presentar la oferta como ocasión única. Un cronista que conocía el desenlace podía juzgar que se había desaprovechado. La situación de quienes debían aceptar era más compleja y dependía de cómo se transmitirían y garantizarían los términos. Puede examinarse por separado el destino de Jerusalén, el estado de sus defensas y qué ocurriría con las posiciones que comunicaban el interior con la costa. Esta forma de mirar la negociación permite relacionarla con el arreglo de 1229 sin tratar como idénticas las oportunidades de ambos momentos. [1–3, 7, 9]
 
 La [[cristianismo/cruzadas/panorama|visión de conjunto]] sitúa esta estrategia dentro de las campañas que dirigieron fuerzas a Egipto. La [[cristianismo/cruzadas/septima-cruzada|Séptima cruzada]] volvió a tomar Damieta con otros mandos y en una situación política diferente. Compararlas permite ver qué ventajas ofrecía la desembocadura y por qué conservar un puerto no garantizaba el éxito de una campaña en el interior. [1, 4, 9–10]
+
+## Lecturas relacionadas
+
+- [[cristianismo/maria-y-figuras-mayores/francisco-de-asis|Francisco de Asís]]
 
 ## Fuentes
 

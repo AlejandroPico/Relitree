@@ -2,7 +2,7 @@
 estado: completo
 fase: E12
 orden: 40
-palabras: 5035
+palabras: 5043
 fuentes:
   - "https://www.degruyterbrill.com/de/document/doi/10.1515/jemc-2022-2028/html"
   - "https://www.britannica.com/biography/Saint-Ignatius-of-Loyola"
@@ -195,6 +195,10 @@ La canonización en 2015 de Luis Martin y Celia Guérin, padres de Teresa de Lis
 La existencia de materiales domésticos facilita examinar qué significa reconocer conjuntamente a dos personas. Hay decisiones de un matrimonio que pueden reconstruirse con más seguridad al comparar cartas y cuentas. Hay también actos individuales cuyo contexto se pierde cuando todo se describe como un proyecto común. En este caso, la relación con una hija ampliamente conocida pudo aumentar el interés por recuperar las fuentes familiares. El examen de los padres amplía, a su vez, el conocimiento de un entorno que condicionó la experiencia de aquella hija. Es un ejemplo de hasta qué punto la fama de alguien puede acabar ofreciendo visibilidad a personas cuyas vidas se llevaron a cabo en otras instituciones y con responsabilidades distintas. [10,18,30]
 
 La ampliación geográfica de las causas ofrece un problema comparable. Las comunidades que cuentan con archivos y colaboradores capaces de redactar un expediente pueden sostener mejor una petición. Las que han vivido persecución o décadas de desplazamiento pueden tener pérdidas difíciles de remediar. Reconocer a grupos amplios, como se hizo con algunos mártires coreanos, permite preservar nombres y situaciones de vida diferentes dentro de una misma conmemoración. El reparto de reconocimientos entre países refleja tanto la diversidad de experiencias religiosas como los recursos disponibles para darlas a conocer. Seguir esas condiciones ayuda a entender por qué hay memorias persistentes que nunca han formado parte de un trámite romano. [8,13,18–20]
+
+## Lecturas relacionadas
+
+- [[cristianismo/maria-y-figuras-mayores/teresa-de-avila-y-juan-de-la-cruz|Teresa de Ávila y Juan de la Cruz]]
 
 ## Fuentes
 

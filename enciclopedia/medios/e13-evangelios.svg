@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 548" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">María en el Nuevo Testamento</title>
+<desc id="detalle">Gálatas 4,4. Pablo habla del Hijo nacido de mujer y bajo la ley. Mateo 1–2. José, el nacimiento, los magos y el itinerario de la familia. Lucas 1–2. Anunciación, visita a Isabel, Magníficat y presentación en el templo. Marcos 3 y 6. La madre de Jesús y el debate sobre los parentescos. Juan 2 y 19. La boda de Caná y la relación con el discípulo junto a la cruz. Hechos 1,14. María está entre quienes perseveran en la oración.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#193144}.title{font-size:27px;font-weight:650}.label{font-weight:650}.subtitle{fill:#4b6576}.grid-note{font-size:12px;fill:#415c6f}.map-label{font-size:15px;paint-order:stroke;stroke:#eef6f8;stroke-width:4px;stroke-linejoin:round}</style>
+<rect width="740" height="548" fill="white"/>
+<text class="title" x="20" y="39">María en el Nuevo Testamento</text>
+<text class="subtitle" x="20" y="70">Escenas y referencias que conservan los textos</text>
+<rect x="20" y="100" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="100" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="125">Gálatas 4,4</text>
+<text x="267" y="125">Pablo habla del Hijo nacido de mujer y bajo la</text>
+<text x="267" y="148">ley.</text>
+<rect x="20" y="172" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="172" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="197">Mateo 1–2</text>
+<text x="267" y="197">José, el nacimiento, los magos y el itinerario</text>
+<text x="267" y="220">de la familia.</text>
+<rect x="20" y="244" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="244" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="269">Lucas 1–2</text>
+<text x="267" y="269">Anunciación, visita a Isabel, Magníficat y</text>
+<text x="267" y="292">presentación en el templo.</text>
+<rect x="20" y="316" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="316" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="341">Marcos 3 y 6</text>
+<text x="267" y="341">La madre de Jesús y el debate sobre los</text>
+<text x="267" y="364">parentescos.</text>
+<rect x="20" y="388" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="388" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="413">Juan 2 y 19</text>
+<text x="267" y="413">La boda de Caná y la relación con el discípulo</text>
+<text x="267" y="436">junto a la cruz.</text>
+<rect x="20" y="460" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="460" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="485">Hechos 1,14</text>
+<text x="267" y="485">María está entre quienes perseveran en la</text>
+<text x="267" y="508">oración.</text>
+</svg>

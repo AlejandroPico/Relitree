@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 465" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Teresa y Juan, del manuscrito al lector</title>
+<desc id="detalle">Teresa · Libro de la vida. Memoria y examen de la oración ante lectores concretos. Teresa · Camino. Vida común y enseñanza del padrenuestro. Teresa · Moradas. La arquitectura del castillo organiza imágenes de la vida interior. Juan · Cántico espiritual. La búsqueda se expresa en verso y se desarrolla en el comentario. Juan · Subida y Noche. Proceso de purificación explicado con imágenes y distinciones.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#193144}.title{font-size:27px;font-weight:650}.label{font-weight:650}.subtitle{fill:#4b6576}.grid-note{font-size:12px;fill:#415c6f}.map-label{font-size:15px;paint-order:stroke;stroke:#eef6f8;stroke-width:4px;stroke-linejoin:round}</style>
+<rect width="740" height="465" fill="white"/>
+<text class="title" x="20" y="39">Teresa y Juan, del manuscrito al lector</text>
+<text class="subtitle" x="20" y="70">Diferentes maneras de explicar la experiencia religiosa</text>
+<rect x="20" y="100" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="100" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="125">Teresa · Libro de la</text>
+<text class="label" x="39" y="148">vida</text>
+<text x="267" y="125">Memoria y examen de la oración ante lectores</text>
+<text x="267" y="148">concretos.</text>
+<rect x="20" y="172" width="700" height="56" fill="#f7f9fc"/>
+<rect x="20" y="172" width="5" height="56" fill="#47748d"/>
+<text class="label" x="39" y="197">Teresa · Camino</text>
+<text x="267" y="197">Vida común y enseñanza del padrenuestro.</text>
+<rect x="20" y="233" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="233" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="258">Teresa · Moradas</text>
+<text x="267" y="258">La arquitectura del castillo organiza imágenes</text>
+<text x="267" y="281">de la vida interior.</text>
+<rect x="20" y="305" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="305" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="330">Juan · Cántico</text>
+<text class="label" x="39" y="353">espiritual</text>
+<text x="267" y="330">La búsqueda se expresa en verso y se desarrolla</text>
+<text x="267" y="353">en el comentario.</text>
+<rect x="20" y="377" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="377" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="402">Juan · Subida y Noche</text>
+<text x="267" y="402">Proceso de purificación explicado con imágenes</text>
+<text x="267" y="425">y distinciones.</text>
+</svg>

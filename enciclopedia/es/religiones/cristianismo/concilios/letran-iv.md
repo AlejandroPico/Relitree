@@ -2,7 +2,7 @@
 estado: completo
 fase: E05
 orden: 1215
-palabras: 5193
+palabras: 5201
 fuentes:
   - "https://www.papalencyclicals.net/councils/ecum12-2.htm"
   - "https://sourcebooks.fordham.edu/basis/lateran4.asp"
@@ -194,6 +194,10 @@ Una comparación entre rutas de aplicación pone de relieve la capacidad desigua
 ## Biografías relacionadas
 
 - [[cristianismo/papas/biografias/gregorio-vii-e-inocencio-iii|Gregorio VII e Inocencio III]]
+
+## Lecturas relacionadas
+
+- [[cristianismo/maria-y-figuras-mayores/tomas-de-aquino|Tomás de Aquino]]
 
 ## Fuentes
 

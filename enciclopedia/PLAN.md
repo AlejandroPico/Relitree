@@ -235,12 +235,12 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 
 ## Fase E13 · Cristianismo · María y figuras mayores
 
-- María, madre de Jesús
-- Apariciones marianas
-- Agustín de Hipona
-- Tomás de Aquino
-- Francisco de Asís
-- Teresa de Ávila y Juan de la Cruz
+- [x] 13.1 · [María, madre de Jesús](es/religiones/cristianismo/maria-y-figuras-mayores/maria-madre-de-jesus.md)
+- [x] 13.1 · [Apariciones marianas](es/religiones/cristianismo/maria-y-figuras-mayores/apariciones-marianas.md)
+- [x] 13.2 · [Agustín de Hipona](es/religiones/cristianismo/maria-y-figuras-mayores/agustin-de-hipona.md)
+- [x] 13.2 · [Tomás de Aquino](es/religiones/cristianismo/maria-y-figuras-mayores/tomas-de-aquino.md)
+- [x] 13.3 · [Francisco de Asís](es/religiones/cristianismo/maria-y-figuras-mayores/francisco-de-asis.md)
+- [x] 13.3 · [Teresa de Ávila y Juan de la Cruz](es/religiones/cristianismo/maria-y-figuras-mayores/teresa-de-avila-y-juan-de-la-cruz.md)
 - Ignacio de Loyola
 - Juan Wesley
 - Patriarcas de Constantinopla
