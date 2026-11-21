@@ -196,6 +196,11 @@ Un discurso de presentación, una reunión con los cardenales y la firma de un d
 
 El caso reciente también muestra por qué la cronología distingue el cierre de un pontificado de los textos en proceso de elaboración. Dilexi te recoge trabajo iniciado bajo Francisco y fue asumido y publicado por su sucesor. Su propia introducción permite identificar esa continuidad sin alterar la atribución del documento final. [14,17]
 
+## Biografías relacionadas
+
+- [[cristianismo/papas/biografias/pio-ix|Pío IX]]
+- [[cristianismo/papas/biografias/juan-xxiii-y-pablo-vi|Juan XXIII y Pablo VI]]
+
 ## Fuentes
 
 1. Santa Sede, catálogo cronológico de pontífices. [Consultar](https://www.vatican.va/content/vatican/es/holy-father.html)

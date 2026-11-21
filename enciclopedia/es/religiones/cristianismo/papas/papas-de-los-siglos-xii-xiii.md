@@ -240,6 +240,11 @@ Esa distinción es útil al comparar Lyon con los acuerdos que sostuvieron una n
 
 [[cristianismo/papas/panorama|Volver a la visión de conjunto del papado]].
 
+## Biografías relacionadas
+
+- [[cristianismo/papas/biografias/gregorio-vii-e-inocencio-iii|Gregorio VII e Inocencio III]]
+- [[cristianismo/papas/biografias/bonifacio-viii|Bonifacio VIII]]
+
 ## Fuentes
 1. Santa Sede, lista cronológica de pontífices, con variantes en las fechas tempranas. [Consultar](https://www.vatican.va/content/vatican/es/holy-father.html)
 2. «The papacy, 1122–1198», The New Cambridge Medieval History. [Consultar](https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/papacy-11221198/1A5B922E54ABD27C9E75764391A27626)

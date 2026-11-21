@@ -264,6 +264,10 @@ La elección determina quién recibe el oficio, aunque los participantes puedan 
 
 [[cristianismo/papas/panorama|Volver a la visión de conjunto del papado]].
 
+## Biografías relacionadas
+
+- [[cristianismo/papas/biografias/gregorio-vii-e-inocencio-iii|Gregorio VII e Inocencio III]]
+
 ## Fuentes
 1. Santa Sede, lista cronológica de pontífices, con variantes en las fechas tempranas. [Consultar](https://www.vatican.va/content/vatican/es/holy-father.html)
 2. Gerd Tellenbach, The Church in Western Europe from the Tenth to the Early Twelfth Century. Cambridge University Press. [Consultar](https://www.cambridge.org/core/books/church-in-western-europe-from-the-tenth-to-the-early-twelfth-century/0F793425BFB35059F6F4E5DE80A9292A)

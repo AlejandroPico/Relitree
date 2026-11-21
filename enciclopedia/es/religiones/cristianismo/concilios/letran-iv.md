@@ -191,6 +191,10 @@ Una comparación entre rutas de aplicación pone de relieve la capacidad desigua
 | Cómo se aplicaron restricciones a minorías | Cánones 67 a 70 | Ordenanzas locales y registros de comunidades |
 | Qué se reunió y qué se gastó para la expedición | Decreto *Ad liberandam* | Cartas, cuentas y testimonios de la campaña |
 
+## Biografías relacionadas
+
+- [[cristianismo/papas/biografias/gregorio-vii-e-inocencio-iii|Gregorio VII e Inocencio III]]
+
 ## Fuentes
 
 1. [Norman P. Tanner, ed. Decrees of the Ecumenical Councils. Introducción y constituciones de Letrán IV](https://www.papalencyclicals.net/councils/ecum12-2.htm)

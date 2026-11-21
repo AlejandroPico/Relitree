@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 461" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Del Tomo a la definición</title>
+<desc id="detalle">448 · Constantinopla. Un sínodo presidido por Flaviano condena a Eutiques. 449 · Roma. León envía el Tomo a Flaviano. 449 · Éfeso. La asamblea rehabilita a Eutiques y depone a Flaviano. 451 · Calcedonia. El concilio examina la carta y formula su definición. Después de 451. La recepción de la definición sigue caminos enfrentados.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="461" fill="white"/>
+<text class="title" x="20" y="39">Del Tomo a la definición</text>
+<text class="subtitle" x="20" y="70">León I y la recepción de su carta a Flaviano</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">448 · Constantinopla</text>
+<text x="257" y="127">Un sínodo presidido por Flaviano condena a</text>
+<text x="257" y="150">Eutiques.</text>
+<rect x="20" y="172" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="197">449 · Roma</text>
+<text x="257" y="197">León envía el Tomo a Flaviano.</text>
+<rect x="20" y="234" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="234" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="259">449 · Éfeso</text>
+<text x="257" y="259">La asamblea rehabilita a Eutiques y depone a</text>
+<text x="257" y="282">Flaviano.</text>
+<rect x="20" y="304" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="304" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="329">451 · Calcedonia</text>
+<text x="257" y="329">El concilio examina la carta y formula su</text>
+<text x="257" y="352">definición.</text>
+<rect x="20" y="374" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="374" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="399">Después de 451</text>
+<text x="257" y="399">La recepción de la definición sigue caminos</text>
+<text x="257" y="422">enfrentados.</text>
+</svg>

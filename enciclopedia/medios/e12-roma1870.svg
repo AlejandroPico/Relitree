@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 453" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">El final del poder temporal</title>
+<desc id="detalle">1859–1860. El papado pierde las Legaciones, las Marcas y Umbría. 1861 · Reino de Italia. Roma sigue bajo el gobierno pontificio. 1867 · Mentana. La intervención francesa ayuda a mantener la protección. 1870 · Porta Pia. El ejército italiano toma Roma. Se suspende el concilio. 1871 · Garantías. Italia aprueba una ley que Pío IX rechaza.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="453" fill="white"/>
+<text class="title" x="20" y="39">El final del poder temporal</text>
+<text class="subtitle" x="20" y="70">Unificación italiana y cuestión romana</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">1859–1860</text>
+<text x="257" y="127">El papado pierde las Legaciones, las Marcas y</text>
+<text x="257" y="150">Umbría.</text>
+<rect x="20" y="172" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="197">1861 · Reino de Italia</text>
+<text x="257" y="197">Roma sigue bajo el gobierno pontificio.</text>
+<rect x="20" y="234" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="234" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="259">1867 · Mentana</text>
+<text x="257" y="259">La intervención francesa ayuda a mantener la</text>
+<text x="257" y="282">protección.</text>
+<rect x="20" y="304" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="304" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="329">1870 · Porta Pia</text>
+<text x="257" y="329">El ejército italiano toma Roma. Se suspende el</text>
+<text x="257" y="352">concilio.</text>
+<rect x="20" y="374" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="374" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="399">1871 · Garantías</text>
+<text x="257" y="399">Italia aprueba una ley que Pío IX rechaza.</text>
+</svg>

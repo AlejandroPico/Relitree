@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 453" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Cómo se organizó el Jubileo</title>
+<desc id="detalle">Convocatoria. La bula Antiquorum habet fija las condiciones de la indulgencia. Destinatarios. Los plazos de visita distinguen a romanos y forasteros. Recorrido. Se visitan las basílicas de San Pedro y San Pablo. Vida urbana. La concentración de gente afecta al tránsito y al abastecimiento. Memoria. La práctica continúa con otros plazos y ritos.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="453" fill="white"/>
+<text class="title" x="20" y="39">Cómo se organizó el Jubileo</text>
+<text class="subtitle" x="20" y="70">Roma recibió peregrinos de distintos lugares en 1300</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">Convocatoria</text>
+<text x="257" y="127">La bula Antiquorum habet fija las condiciones de la</text>
+<text x="257" y="150">indulgencia.</text>
+<rect x="20" y="172" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="197">Destinatarios</text>
+<text x="257" y="197">Los plazos de visita distinguen a romanos y</text>
+<text x="257" y="220">forasteros.</text>
+<rect x="20" y="242" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="242" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="267">Recorrido</text>
+<text x="257" y="267">Se visitan las basílicas de San Pedro y San Pablo.</text>
+<rect x="20" y="304" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="304" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="329">Vida urbana</text>
+<text x="257" y="329">La concentración de gente afecta al tránsito y al</text>
+<text x="257" y="352">abastecimiento.</text>
+<rect x="20" y="374" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="374" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="399">Memoria</text>
+<text x="257" y="399">La práctica continúa con otros plazos y ritos.</text>
+</svg>

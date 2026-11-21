@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 469" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Las reformas de Letrán IV</title>
+<desc id="detalle">Fe y sacramentos. La profesión de fe y la disciplina sacramental se difunden en diócesis. Predicación. Los obispos organizan la enseñanza y el auxilio de predicadores. Confesión anual. La obligación conecta a los fieles con la cura pastoral local. Herejía. Las censuras incluyen deberes para autoridades seculares. Cruzada. Legados y predicadores organizan una nueva expedición.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="469" fill="white"/>
+<text class="title" x="20" y="39">Las reformas de Letrán IV</text>
+<text class="subtitle" x="20" y="70">La asamblea de 1215 y los responsables de su aplicación</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">Fe y sacramentos</text>
+<text x="257" y="127">La profesión de fe y la disciplina sacramental se</text>
+<text x="257" y="150">difunden en diócesis.</text>
+<rect x="20" y="172" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="197">Predicación</text>
+<text x="257" y="197">Los obispos organizan la enseñanza y el auxilio de</text>
+<text x="257" y="220">predicadores.</text>
+<rect x="20" y="242" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="242" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="267">Confesión anual</text>
+<text x="257" y="267">La obligación conecta a los fieles con la cura</text>
+<text x="257" y="290">pastoral local.</text>
+<rect x="20" y="312" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="312" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="337">Herejía</text>
+<text x="257" y="337">Las censuras incluyen deberes para autoridades</text>
+<text x="257" y="360">seculares.</text>
+<rect x="20" y="382" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="382" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="407">Cruzada</text>
+<text x="257" y="407">Legados y predicadores organizan una nueva</text>
+<text x="257" y="430">expedición.</text>
+</svg>

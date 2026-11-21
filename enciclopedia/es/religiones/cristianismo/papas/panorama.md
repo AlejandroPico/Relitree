@@ -214,6 +214,15 @@ También hay que reconocer de qué manera llega una decisión a su destinatario.
 - [[cristianismo/papas/conclave|Elección del papa · El cónclave]]
 - [[cristianismo/papas/antipapas|Los antipapas]]
 
+## Biografías relacionadas
+
+- [[cristianismo/papas/biografias/leon-magno-y-gregorio-magno|León Magno y Gregorio Magno]]
+- [[cristianismo/papas/biografias/gregorio-vii-e-inocencio-iii|Gregorio VII e Inocencio III]]
+- [[cristianismo/papas/biografias/bonifacio-viii|Bonifacio VIII]]
+- [[cristianismo/papas/biografias/alejandro-vi-y-los-borgia|Alejandro VI y los Borgia]]
+- [[cristianismo/papas/biografias/pio-ix|Pío IX]]
+- [[cristianismo/papas/biografias/juan-xxiii-y-pablo-vi|Juan XXIII y Pablo VI]]
+
 ## Fuentes
 1. Joëlle Rollo-Koster, Robert A. Ventresca, Melodie H. Eichbauer y Miles Pattenden (eds.), The Cambridge History of the Papacy. [Consultar](https://www.cambridge.org/core/books/cambridge-history-of-the-papacy/98D8D333DC99C18176A137ADEFE1FDA3)
 2. Kristina Sessa, The Formation of Papal Authority in Late Antique Italy. Cambridge University Press. [Consultar](https://assets.cambridge.org/97811070/01060/frontmatter/9781107001060_frontmatter.pdf)

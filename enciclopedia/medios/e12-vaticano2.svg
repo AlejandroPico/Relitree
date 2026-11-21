@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 461" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Cuatro sesiones del Vaticano II</title>
+<desc id="detalle">1962 · Juan XXIII. Primera sesión: se debaten los esquemas preparatorios. 1963 · Pablo VI. Se promulgan los textos sobre liturgia y medios de comunicación. 1964 · Pablo VI. Lumen gentium, ecumenismo e Iglesias orientales católicas. 1965 · Pablo VI. Textos sobre revelación, libertad religiosa y mundo contemporáneo. Diciembre de 1965. Clausura del concilio. Continúa la aplicación.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="461" fill="white"/>
+<text class="title" x="20" y="39">Cuatro sesiones del Vaticano II</text>
+<text class="subtitle" x="20" y="70">De la apertura a la promulgación de los últimos documentos</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">1962 · Juan XXIII</text>
+<text x="257" y="127">Primera sesión: se debaten los esquemas</text>
+<text x="257" y="150">preparatorios.</text>
+<rect x="20" y="172" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="197">1963 · Pablo VI</text>
+<text x="257" y="197">Se promulgan los textos sobre liturgia y medios de</text>
+<text x="257" y="220">comunicación.</text>
+<rect x="20" y="242" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="242" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="267">1964 · Pablo VI</text>
+<text x="257" y="267">Lumen gentium, ecumenismo e Iglesias orientales</text>
+<text x="257" y="290">católicas.</text>
+<rect x="20" y="312" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="312" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="337">1965 · Pablo VI</text>
+<text x="257" y="337">Textos sobre revelación, libertad religiosa y mundo</text>
+<text x="257" y="360">contemporáneo.</text>
+<rect x="20" y="382" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="382" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="407">Diciembre de 1965</text>
+<text x="257" y="407">Clausura del concilio. Continúa la aplicación.</text>
+</svg>

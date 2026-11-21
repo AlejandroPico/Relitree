@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 453" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Del impuesto a Anagni</title>
+<desc id="detalle">1296 · Clericis laicos. Bonifacio exige su autorización para gravar las rentas del clero. 1297 · Etsi de statu. Roma admite contribuciones en caso de necesidad. 1301 · Pamiers. El proceso contra Bernard Saisset abre una disputa de jurisdicción. 1302 · Unam sanctam. El pontífice formula su posición sobre las potestades. 1303 · Anagni. Nogaret y Sciarra Colonna retienen al pontífice.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="453" fill="white"/>
+<text class="title" x="20" y="39">Del impuesto a Anagni</text>
+<text class="subtitle" x="20" y="70">Fases de la disputa entre Bonifacio VIII y Felipe IV</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">1296 · Clericis laicos</text>
+<text x="257" y="127">Bonifacio exige su autorización para gravar las</text>
+<text x="257" y="150">rentas del clero.</text>
+<rect x="20" y="172" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="197">1297 · Etsi de statu</text>
+<text x="257" y="197">Roma admite contribuciones en caso de necesidad.</text>
+<rect x="20" y="234" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="234" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="259">1301 · Pamiers</text>
+<text x="257" y="259">El proceso contra Bernard Saisset abre una disputa</text>
+<text x="257" y="282">de jurisdicción.</text>
+<rect x="20" y="304" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="304" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="329">1302 · Unam sanctam</text>
+<text x="257" y="329">El pontífice formula su posición sobre las</text>
+<text x="257" y="352">potestades.</text>
+<rect x="20" y="374" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="374" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="399">1303 · Anagni</text>
+<text x="257" y="399">Nogaret y Sciarra Colonna retienen al pontífice.</text>
+</svg>

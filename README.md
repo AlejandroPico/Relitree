@@ -1,8 +1,8 @@
 # Relitree
 
-**Versión 1.7.36**
+**Versión 1.7.37**
 
-La [enciclopedia](enciclopedia/PLAN.md#fase-e11--cristianismo--los-papas) completa «Los papas» con el recorrido desde Constanza hasta León XIV, el cónclave y los antipapas. El índice incluye «Biografías» dentro de «Los papas» y un desplegable independiente para «Los santos». El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
+La [enciclopedia](enciclopedia/PLAN.md#fase-e12--cristianismo--biografías-de-papas-y-santos) incorpora seis artículos del fascículo 12. Se encuentran en **Cristianismo → Los papas → Biografías**. El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
 
 El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto. La capa **Puentes** marca los cruces de ramas y líneas de vida en las vistas por territorios y radial. Las marcas temporales mantienen una separación visual regular. El símbolo ≈ identifica los años redondeados.
 

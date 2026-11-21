@@ -174,6 +174,10 @@ Las actas ofrecen un registro desigual de intervenciones, lecturas, aclamaciones
 
 La importancia de Calcedonia reside en que una misma asamblea hizo legible una tradición doctrinal mediante una fórmula, intervino sobre personas y modificó jurisdicciones. En algunas iglesias, las decisiones del concilio se convirtieron en una referencia para interpretar la encarnación y formular nuevas definiciones. En otras se reconoció a Cirilo y al concilio de 431 como criterios suficientes para objetar las decisiones de 451. Volver de esas posiciones posteriores a los expedientes permite identificar a los interlocutores originales, los acuerdos que lograron y las cuestiones que la fórmula por sí sola dejó en manos de las iglesias y de sus autoridades. [1, 5, 8–10, 12, 13, 16, 17]
 
+## Biografías relacionadas
+
+- [[cristianismo/papas/biografias/leon-magno-y-gregorio-magno|León Magno y Gregorio Magno]]
+
 ## Fuentes
 
 1. [Richard Price y Michael Gaddis, trads. The Acts of the Council of Chalcedon. Liverpool University Press, 2005, 3 vols. Traducción y comentario de las actas.](https://www.jstor.org/stable/jj.38238633)

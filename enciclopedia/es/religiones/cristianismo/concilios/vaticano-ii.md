@@ -205,6 +205,10 @@ En el debate posterior, «el concilio» puede designar una asamblea histórica, 
 
 En la historia de los [[cristianismo/concilios-ecumenicos|concilios ecuménicos]], la comparación con Trento y Vaticano I muestra el valor de leer las actas, las promulgaciones y las publicaciones posteriores por la función que cumplen. Trento encargó reformas de libros que se publicaron después de su clausura. Vaticano I dejó materias sin promulgar por la interrupción de la reunión. Vaticano II completó su programa con dieciséis documentos y abrió trabajos de aplicación que volvieron a plantear preguntas sobre la competencia de las autoridades y la iniciativa de las iglesias locales. Así se puede estudiar una decisión de Roma y sus consecuencias en una región sin confundir la fecha en que nació la norma con la fecha en que cambió una práctica. [1, 4, 5, 7, 9, 15, 16]
 
+## Biografías relacionadas
+
+- [[cristianismo/papas/biografias/juan-xxiii-y-pablo-vi|Juan XXIII y Pablo VI]]
+
 ## Fuentes
 
 1. [Santa Sede, índice de los documentos de Vaticano II](https://www.vatican.va/content/dam/wss/archive/hist_councils/ii_vatican_council/index_sp.htm)

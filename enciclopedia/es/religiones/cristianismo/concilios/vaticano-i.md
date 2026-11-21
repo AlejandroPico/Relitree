@@ -193,6 +193,10 @@ Tampoco todas las tradiciones cristianas leen del mismo modo los testimonios sob
 
 En el [[cristianismo/concilios-ecumenicos|conjunto de los concilios ecuménicos]], Vaticano I ofrece un ejemplo de cómo se relacionan el procedimiento de votación, la formulación de doctrina y la coyuntura política. Trento pudo reanudar sus sesiones después de varias interrupciones, mientras que los esquemas de Vaticano I permanecieron sin una nueva sesión que los examinase. Ambos produjeron textos doctrinales que siguieron teniendo efectos tras la partida de los obispos, y en ambos casos interpretar ese efecto exige distinguir un decreto de sus aplicaciones posteriores. Se puede seguir la comparación a través de las fuentes: los registros de trabajo revelan las alternativas, las actas de promulgación fijan las decisiones y la documentación posterior muestra cómo fueron enseñadas, aceptadas o discutidas. [2–5, 10, 13, 15]
 
+## Biografías relacionadas
+
+- [[cristianismo/papas/biografias/pio-ix|Pío IX]]
+
 ## Fuentes
 
 1. [Pío IX, *Aeterni Patris* (29 de junio de 1868). Convocatoria](https://www.vatican.va/content/pius-ix/en/documents/litterae-apostolicae-aeterni-patris-29-iunii-1868.html)

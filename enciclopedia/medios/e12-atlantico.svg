@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 445" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Dos demarcaciones atlánticas</title>
+<desc id="detalle">1493 · Inter caetera. Bula de Alejandro VI para los monarcas castellanos. 100 leguas. Referencia al oeste y sur de las Azores y Cabo Verde. 1494 · Tordesillas. Tratado negociado por Castilla y Portugal. 370 leguas. Referencia al oeste de Cabo Verde. Aplicación. Los cálculos de longitud y la referencia de partida siguen en discusión.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="445" fill="white"/>
+<text class="title" x="20" y="39">Dos demarcaciones atlánticas</text>
+<text class="subtitle" x="20" y="70">El esquema compara referencias expresadas en leguas</text>
+<rect x="20" y="102" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="127">1493 · Inter caetera</text>
+<text x="257" y="127">Bula de Alejandro VI para los monarcas castellanos.</text>
+<rect x="20" y="164" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="164" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="189">100 leguas</text>
+<text x="257" y="189">Referencia al oeste y sur de las Azores y Cabo</text>
+<text x="257" y="212">Verde.</text>
+<rect x="20" y="234" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="234" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="259">1494 · Tordesillas</text>
+<text x="257" y="259">Tratado negociado por Castilla y Portugal.</text>
+<rect x="20" y="296" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="296" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="321">370 leguas</text>
+<text x="257" y="321">Referencia al oeste de Cabo Verde.</text>
+<rect x="20" y="358" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="358" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="383">Aplicación</text>
+<text x="257" y="383">Los cálculos de longitud y la referencia de partida</text>
+<text x="257" y="406">siguen en discusión.</text>
+</svg>

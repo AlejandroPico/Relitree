@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 453" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">De la amnistía a la restauración</title>
+<desc id="detalle">1846 · Roma. Amnistía y expectativas de reforma tras la elección. Marzo de 1848. Los Estados Pontificios reciben un estatuto. Abril de 1848. Pío IX se distancia de la guerra contra Austria. Noviembre de 1848. Asesinan a Pellegrino Rossi. El papa sale hacia Gaeta. 1849–1850. República, intervención francesa y regreso del pontífice.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="453" fill="white"/>
+<text class="title" x="20" y="39">De la amnistía a la restauración</text>
+<text class="subtitle" x="20" y="70">La primera crisis del poder temporal de Pío IX</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">1846 · Roma</text>
+<text x="257" y="127">Amnistía y expectativas de reforma tras la</text>
+<text x="257" y="150">elección.</text>
+<rect x="20" y="172" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="197">Marzo de 1848</text>
+<text x="257" y="197">Los Estados Pontificios reciben un estatuto.</text>
+<rect x="20" y="234" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="234" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="259">Abril de 1848</text>
+<text x="257" y="259">Pío IX se distancia de la guerra contra Austria.</text>
+<rect x="20" y="296" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="296" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="321">Noviembre de 1848</text>
+<text x="257" y="321">Asesinan a Pellegrino Rossi. El papa sale hacia</text>
+<text x="257" y="344">Gaeta.</text>
+<rect x="20" y="366" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="366" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="391">1849–1850</text>
+<text x="257" y="391">República, intervención francesa y regreso del</text>
+<text x="257" y="414">pontífice.</text>
+</svg>

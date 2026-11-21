@@ -4,6 +4,12 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E12 · Entrega 12.1. [«León Magno y Gregorio Magno»](enciclopedia/es/religiones/cristianismo/papas/biografias/leon-magno-y-gregorio-magno.md), 5.010 palabras de cuerpo, 15 fuentes, 2 imágenes y 2 gráficos propios. Versión 1.7.37.
+- [x] E12 · Entrega 12.1. [«Gregorio VII e Inocencio III»](enciclopedia/es/religiones/cristianismo/papas/biografias/gregorio-vii-e-inocencio-iii.md), 5.063 palabras de cuerpo, 22 fuentes, 4 imágenes y 2 gráficos propios. Versión 1.7.37.
+- [x] E12 · Entrega 12.2. [«Bonifacio VIII»](enciclopedia/es/religiones/cristianismo/papas/biografias/bonifacio-viii.md), 5.056 palabras de cuerpo, 18 fuentes, 2 imágenes y 2 gráficos propios. Versión 1.7.37.
+- [x] E12 · Entrega 12.2. [«Alejandro VI y los Borgia»](enciclopedia/es/religiones/cristianismo/papas/biografias/alejandro-vi-y-los-borgia.md), 5.066 palabras de cuerpo, 19 fuentes, 2 imágenes y 2 gráficos propios. Versión 1.7.37.
+- [x] E12 · Entrega 12.3. [«Pío IX»](enciclopedia/es/religiones/cristianismo/papas/biografias/pio-ix.md), 5.097 palabras de cuerpo, 20 fuentes, 2 imágenes y 2 gráficos propios. Versión 1.7.37.
+- [x] E12 · Entrega 12.3. [«Juan XXIII y Pablo VI»](enciclopedia/es/religiones/cristianismo/papas/biografias/juan-xxiii-y-pablo-vi.md), 5.003 palabras de cuerpo, 30 fuentes, 3 imágenes y 2 gráficos propios. Versión 1.7.37.
 - [x] E11 · Entrega 11.4. [«El papado después de Constanza y durante el Renacimiento»](enciclopedia/es/religiones/cristianismo/papas/papas-del-renacimiento.md), 5.018 palabras de cuerpo, 14 fuentes, 3 imágenes y 2 gráficos propios. Versión 1.7.36.
 - [x] E11 · Entrega 11.4. [«Papas de los siglos XVII–XVIII»](enciclopedia/es/religiones/cristianismo/papas/papas-de-los-siglos-xvii-xviii.md), 5.026 palabras de cuerpo, 15 fuentes, 3 imágenes y 2 gráficos propios. Versión 1.7.36.
 - [x] E11 · Entrega 11.5. [«Papas de los siglos XIX–XXI»](enciclopedia/es/religiones/cristianismo/papas/papas-de-los-siglos-xix-xxi.md), 5.050 palabras de cuerpo, 20 fuentes, 3 imágenes y 2 gráficos propios. Versión 1.7.36.

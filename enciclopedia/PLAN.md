@@ -217,14 +217,15 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 
 ### Los papas → Biografías
 
-- León Magno y Gregorio Magno
-- Gregorio VII e Inocencio III
-- Bonifacio VIII
-- Alejandro VI y los Borgia
-- Pío IX
-- Juan XXIII y Pablo VI
+- [x] 12.1 · [León Magno y Gregorio Magno](es/religiones/cristianismo/papas/biografias/leon-magno-y-gregorio-magno.md)
+- [x] 12.1 · [Gregorio VII e Inocencio III](es/religiones/cristianismo/papas/biografias/gregorio-vii-e-inocencio-iii.md)
+- [x] 12.2 · [Bonifacio VIII](es/religiones/cristianismo/papas/biografias/bonifacio-viii.md)
+- [x] 12.2 · [Alejandro VI y los Borgia](es/religiones/cristianismo/papas/biografias/alejandro-vi-y-los-borgia.md)
+- [x] 12.3 · [Pío IX](es/religiones/cristianismo/papas/biografias/pio-ix.md)
+- [x] 12.3 · [Juan XXIII y Pablo VI](es/religiones/cristianismo/papas/biografias/juan-xxiii-y-pablo-vi.md)
 - Juan Pablo II
 - Benedicto XVI y Francisco
+
 ### Los santos
 
 - Los santos: culto, canonización y reliquias

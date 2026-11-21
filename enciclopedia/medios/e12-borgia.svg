@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 445" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">De Roma a la Romaña</title>
+<desc id="detalle">1498 · Roma. César deja el cardenalato e inicia su trayectoria secular. 1498–1499 · Francia. Título de Valentinois, matrimonio y apoyo de Luis XII. 1499–1501 · Romaña. Las campañas y los acuerdos amplían su dominio. 1502 · Magione. Parte de sus capitanes conspira contra él. 1503 · Sucesión. La muerte de Alejandro VI altera sus apoyos.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="445" fill="white"/>
+<text class="title" x="20" y="39">De Roma a la Romaña</text>
+<text class="subtitle" x="20" y="70">Los recursos y aliados de César Borgia entre 1498 y 1503</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">1498 · Roma</text>
+<text x="257" y="127">César deja el cardenalato e inicia su trayectoria</text>
+<text x="257" y="150">secular.</text>
+<rect x="20" y="172" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="197">1498–1499 · Francia</text>
+<text x="257" y="197">Título de Valentinois, matrimonio y apoyo de Luis</text>
+<text x="257" y="220">XII.</text>
+<rect x="20" y="242" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="242" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="267">1499–1501 · Romaña</text>
+<text x="257" y="267">Las campañas y los acuerdos amplían su dominio.</text>
+<rect x="20" y="304" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="304" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="329">1502 · Magione</text>
+<text x="257" y="329">Parte de sus capitanes conspira contra él.</text>
+<rect x="20" y="366" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="366" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="391">1503 · Sucesión</text>
+<text x="257" y="391">La muerte de Alejandro VI altera sus apoyos.</text>
+</svg>

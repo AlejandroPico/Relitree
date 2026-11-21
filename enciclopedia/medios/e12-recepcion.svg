@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 453" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Decisiones tras el Vaticano II</title>
+<desc id="detalle">1965 · Sínodo. Pablo VI establece un cauce estable de consulta episcopal. 1967 · Desarrollo. Populorum progressio trata la desigualdad entre pueblos. 1968 · Medellín. El episcopado latinoamericano formula prioridades regionales. 1969 · Misal Romano. Promulgación tras la revisión litúrgica. 1975 · Evangelización. Evangelii nuntiandi recoge el trabajo de un sínodo.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="453" fill="white"/>
+<text class="title" x="20" y="39">Decisiones tras el Vaticano II</text>
+<text class="subtitle" x="20" y="70">La recepción sigue cauces y calendarios distintos</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">1965 · Sínodo</text>
+<text x="257" y="127">Pablo VI establece un cauce estable de consulta</text>
+<text x="257" y="150">episcopal.</text>
+<rect x="20" y="172" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="197">1967 · Desarrollo</text>
+<text x="257" y="197">Populorum progressio trata la desigualdad entre</text>
+<text x="257" y="220">pueblos.</text>
+<rect x="20" y="242" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="242" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="267">1968 · Medellín</text>
+<text x="257" y="267">El episcopado latinoamericano formula prioridades</text>
+<text x="257" y="290">regionales.</text>
+<rect x="20" y="312" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="312" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="337">1969 · Misal Romano</text>
+<text x="257" y="337">Promulgación tras la revisión litúrgica.</text>
+<rect x="20" y="374" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="374" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="399">1975 · Evangelización</text>
+<text x="257" y="399">Evangelii nuntiandi recoge el trabajo de un sínodo.</text>
+</svg>

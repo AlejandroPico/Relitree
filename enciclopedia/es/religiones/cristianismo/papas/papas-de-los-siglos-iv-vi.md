@@ -228,6 +228,10 @@ Una inscripción de dedicación puede identificar al obispo bajo cuyo mandato se
 
 [[cristianismo/papas/panorama|Volver a la visión de conjunto del papado]].
 
+## Biografías relacionadas
+
+- [[cristianismo/papas/biografias/leon-magno-y-gregorio-magno|León Magno y Gregorio Magno]]
+
 ## Fuentes
 1. «Inventing Peter in Late Antiquity», The Cambridge History of the Papacy. [Consultar](https://www.cambridge.org/core/books/abs/cambridge-history-of-the-papacy/inventing-peter-in-late-antiquity/E5D165D50DEA13CC1AF8177A0BBA9A4D)
 2. Kristina Sessa, The Formation of Papal Authority in Late Antique Italy. Cambridge University Press. [Consultar](https://assets.cambridge.org/97811070/01060/frontmatter/9781107001060_frontmatter.pdf)

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 469" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">De Worms a Salerno</title>
+<desc id="detalle">1076 · Worms y Roma. Obispos del rey repudian al papa. Gregorio excomulga a Enrique. 1077 · Canossa. Enrique recibe la absolución. Prosigue la disputa en el reino. 1080 · Brixen. Los partidarios del rey eligen a Guiberto de Rávena. 1084 · Roma. Clemente III corona a Enrique. Gregorio parte hacia el sur. 1085 · Salerno. Muere Gregorio. La disputa se prolonga hasta el acuerdo de 1122.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="469" fill="white"/>
+<text class="title" x="20" y="39">De Worms a Salerno</text>
+<text class="subtitle" x="20" y="70">El conflicto entre Gregorio VII y Enrique IV</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">1076 · Worms y Roma</text>
+<text x="257" y="127">Obispos del rey repudian al papa. Gregorio</text>
+<text x="257" y="150">excomulga a Enrique.</text>
+<rect x="20" y="172" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="197">1077 · Canossa</text>
+<text x="257" y="197">Enrique recibe la absolución. Prosigue la disputa</text>
+<text x="257" y="220">en el reino.</text>
+<rect x="20" y="242" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="242" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="267">1080 · Brixen</text>
+<text x="257" y="267">Los partidarios del rey eligen a Guiberto de</text>
+<text x="257" y="290">Rávena.</text>
+<rect x="20" y="312" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="312" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="337">1084 · Roma</text>
+<text x="257" y="337">Clemente III corona a Enrique. Gregorio parte hacia</text>
+<text x="257" y="360">el sur.</text>
+<rect x="20" y="382" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="382" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="407">1085 · Salerno</text>
+<text x="257" y="407">Muere Gregorio. La disputa se prolonga hasta el</text>
+<text x="257" y="430">acuerdo de 1122.</text>
+</svg>

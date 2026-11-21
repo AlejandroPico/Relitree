@@ -161,6 +161,10 @@ La secuencia entre Martín V y Clemente VIII puede seguirse según tres problema
 
 La sucesión abre su siguiente tramo en [[cristianismo/papas/papas-de-los-siglos-xvii-xviii|Papas de los siglos XVII–XVIII]]. Para el desarrollo de la disciplina tridentina puede consultarse [[cristianismo/concilios/trento|Concilio de Trento]]. Para el paso de la normativa electoral a la práctica de la curia, véase [[cristianismo/papas/conclave|Elección del papa · El cónclave]]. [7,9,11]
 
+## Biografías relacionadas
+
+- [[cristianismo/papas/biografias/alejandro-vi-y-los-borgia|Alejandro VI y los Borgia]]
+
 ## Fuentes para reconstruir el papado del Renacimiento
 
 La historia de Nicolás V y Pío II se beneficia de dos clases de testimonios que a menudo se citan juntas. Un relato compuesto por un humanista de la corte identifica modelos literarios y cualidades que quería reivindicar para su protagonista. Un registro de pagos o de adquisición de libros muestra qué se pudo realizar con recursos concretos. Si una descripción atribuye a un papa un proyecto monumental, conviene buscar cuándo se iniciaron obras en el lugar y qué componentes abandonaron o modificaron sus sucesores. La comparación permite apreciar la continuidad entre pontificados sin adjudicar a un solo titular los resultados visibles décadas más tarde. La basílica de San Pedro ofrece un caso especialmente claro porque la obra iniciada bajo Julio II pasó por proyectos sucesivos. [2–4]
