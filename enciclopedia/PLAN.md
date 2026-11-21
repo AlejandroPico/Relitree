@@ -196,9 +196,9 @@ Estado editorial: completo, 13 de 13 artículos publicados. Entregas 10.0–10.6
 - [x] 10.6 · [Secularización de Occidente](es/religiones/cristianismo/edad-contemporanea/secularizacion-de-occidente.md)
 - [x] 10.6 · [El cristianismo hoy](es/religiones/cristianismo/edad-contemporanea/el-cristianismo-hoy.md)
 
-## Fase E11 · Cristianismo · Los papas (I)
+## Fase E11 · Cristianismo · Los papas
 
-Estado editorial. Completos 7 de 12 artículos, incorporados en las entregas 11.0–11.3 (versión 1.7.35). Quedan las entregas 11.4–11.6.
+Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La versión 1.7.36 cierra la fase y reúne las entradas en el desplegable «Los papas».
 
 - [x] 11.0 · [El papado: historia de la institución · Visión de conjunto](es/religiones/cristianismo/papas/panorama.md)
 - [x] 11.1 · [Papas de los siglos I–III](es/religiones/cristianismo/papas/papas-de-los-siglos-i-iii.md)
@@ -207,13 +207,15 @@ Estado editorial. Completos 7 de 12 artículos, incorporados en las entregas 11.
 - [x] 11.2 · [Papas de los siglos X–XI](es/religiones/cristianismo/papas/papas-de-los-siglos-x-xi.md)
 - [x] 11.3 · [Papas de los siglos XII–XIII](es/religiones/cristianismo/papas/papas-de-los-siglos-xii-xiii.md)
 - [x] 11.3 · [Papas y antipapas de los siglos XIV–XV](es/religiones/cristianismo/papas/papas-y-antipapas-de-los-siglos-xiv-xv.md)
-- [ ] 11.4 · Papas del Renacimiento
-- [ ] 11.4 · Papas de los siglos XVII–XVIII
-- [ ] 11.5 · Papas de los siglos XIX–XXI
-- [ ] 11.5 · Elección del papa: el cónclave
-- [ ] 11.6 · Antipapas
+- [x] 11.4 · [El papado después de Constanza y durante el Renacimiento](es/religiones/cristianismo/papas/papas-del-renacimiento.md)
+- [x] 11.4 · [Papas de los siglos XVII–XVIII](es/religiones/cristianismo/papas/papas-de-los-siglos-xvii-xviii.md)
+- [x] 11.5 · [Papas de los siglos XIX–XXI](es/religiones/cristianismo/papas/papas-de-los-siglos-xix-xxi.md)
+- [x] 11.5 · [Elección del papa · El cónclave](es/religiones/cristianismo/papas/conclave.md)
+- [x] 11.6 · [Los antipapas](es/religiones/cristianismo/papas/antipapas.md)
 
-## Fase E12 · Cristianismo · Los papas (II) y los santos
+## Fase E12 · Cristianismo · Biografías de papas y santos
+
+### Los papas → Biografías
 
 - León Magno y Gregorio Magno
 - Gregorio VII e Inocencio III
@@ -223,6 +225,8 @@ Estado editorial. Completos 7 de 12 artículos, incorporados en las entregas 11.
 - Juan XXIII y Pablo VI
 - Juan Pablo II
 - Benedicto XVI y Francisco
+### Los santos
+
 - Los santos: culto, canonización y reliquias
 - Santos de la Antigüedad
 - Santos de la Edad Media

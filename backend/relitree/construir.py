@@ -142,7 +142,8 @@ def insertar_subarticulos(bd, idioma, carpeta, prefijo, grupo, padre, nombres):
             orden = orden_de(cabecera)
             titulo = titulo_de(texto, ruta.name.replace("-", " ").capitalize())
             total_hijo = insertar_subarticulos(bd, idioma, ruta, prefijo_hijo, grupo, categoria, nombres)
-            if total_hijo:
+            mostrar_vacio = re.search(r"(?m)^mostrar_vacio:\s*true[ 	]*$", cabecera)
+            if total_hijo or mostrar_vacio:
                 bd.execute("INSERT INTO articulos VALUES (?,?,?,?,?,?,?,?)", (
                     idioma, categoria, grupo, padre, titulo, normalizar(titulo), None,
                     orden,

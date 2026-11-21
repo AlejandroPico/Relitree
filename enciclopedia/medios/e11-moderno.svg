@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 498" role="img" aria-labelledby="tit desc">
+<title id="tit">Los papas desde 1800</title><desc id="desc">1800–1801. Pío VII es elegido en Venecia y acuerda el concordato francés. 1870. Vaticano I y fin de los Estados Pontificios. 1891–1929. Rerum novarum y Tratados de Letrán, en pontificados distintos. 1962–1965. Juan XXIII abre el Vaticano II. Pablo VI lo concluye. 1978. Se celebran dos elecciones ese mismo año. 2013–2025. Renuncia Benedicto XVI. Pontificados de Francisco y León XIV.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#20314a}.title{font-size:26px;font-weight:640}.label{font-weight:650}.sub{fill:#435570}</style>
+<rect width="740" height="498" fill="white"/>
+<text class="title" x="22" y="37">Los papas desde 1800</text>
+<text class="sub" x="22" y="66">Hitos de la sucesión y de la vida de la Iglesia</text>
+<rect x="22" y="98" width="696" height="62" fill="#f1f5f8"/>
+<rect x="22" y="98" width="4" height="62" fill="#59718e"/>
+<text class="label" x="41" y="123">1800–1801</text>
+<text class="event" x="237" y="123">Pío VII es elegido en Venecia y acuerda el</text>
+<text class="event" x="237" y="146">concordato francés.</text>
+<rect x="22" y="164" width="696" height="56" fill="#f1f5f8"/>
+<rect x="22" y="164" width="4" height="56" fill="#59718e"/>
+<text class="label" x="41" y="189">1870</text>
+<text class="event" x="237" y="189">Vaticano I y fin de los Estados Pontificios.</text>
+<rect x="22" y="224" width="696" height="62" fill="#f1f5f8"/>
+<rect x="22" y="224" width="4" height="62" fill="#59718e"/>
+<text class="label" x="41" y="249">1891–1929</text>
+<text class="event" x="237" y="249">Rerum novarum y Tratados de Letrán, en</text>
+<text class="event" x="237" y="272">pontificados distintos.</text>
+<rect x="22" y="290" width="696" height="62" fill="#f1f5f8"/>
+<rect x="22" y="290" width="4" height="62" fill="#59718e"/>
+<text class="label" x="41" y="315">1962–1965</text>
+<text class="event" x="237" y="315">Juan XXIII abre el Vaticano II. Pablo VI lo</text>
+<text class="event" x="237" y="338">concluye.</text>
+<rect x="22" y="356" width="696" height="56" fill="#f1f5f8"/>
+<rect x="22" y="356" width="4" height="56" fill="#59718e"/>
+<text class="label" x="41" y="381">1978</text>
+<text class="event" x="237" y="381">Se celebran dos elecciones ese mismo año.</text>
+<rect x="22" y="416" width="696" height="62" fill="#f1f5f8"/>
+<rect x="22" y="416" width="4" height="62" fill="#59718e"/>
+<text class="label" x="41" y="441">2013–2025</text>
+<text class="event" x="237" y="441">Renuncia Benedicto XVI. Pontificados de Francisco</text>
+<text class="event" x="237" y="464">y León XIV.</text>
+</svg>

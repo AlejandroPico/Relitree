@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 378" role="img" aria-labelledby="tit desc">
+<title id="tit">El escrutinio del cónclave</title><desc id="desc">1 · Votación. Cada elector deposita su papeleta. Se comprueba el número total. 2 · Recuento. Se leen los votos y los revisores comprueban la cuenta. 3 · Mayoría. Dos tercios. Si falta el umbral, se repite según el reglamento. 4 · Aceptación. El elegido responde y elige el nombre con el que será anunciado.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#20314a}.title{font-size:26px;font-weight:640}.label{font-weight:650}.sub{fill:#435570}</style>
+<rect width="740" height="378" fill="white"/>
+<text class="title" x="22" y="37">El escrutinio del cónclave</text>
+<text class="sub" x="22" y="66">De la papeleta a la aceptación</text>
+<rect x="22" y="98" width="696" height="62" fill="#f1f5f8"/>
+<rect x="22" y="98" width="4" height="62" fill="#59718e"/>
+<text class="label" x="41" y="123">1 · Votación</text>
+<text class="event" x="237" y="123">Cada elector deposita su papeleta. Se comprueba el</text>
+<text class="event" x="237" y="146">número total.</text>
+<rect x="22" y="164" width="696" height="62" fill="#f1f5f8"/>
+<rect x="22" y="164" width="4" height="62" fill="#59718e"/>
+<text class="label" x="41" y="189">2 · Recuento</text>
+<text class="event" x="237" y="189">Se leen los votos y los revisores comprueban la</text>
+<text class="event" x="237" y="212">cuenta.</text>
+<rect x="22" y="230" width="696" height="62" fill="#f1f5f8"/>
+<rect x="22" y="230" width="4" height="62" fill="#59718e"/>
+<text class="label" x="41" y="255">3 · Mayoría</text>
+<text class="event" x="237" y="255">Dos tercios. Si falta el umbral, se repite según</text>
+<text class="event" x="237" y="278">el reglamento.</text>
+<rect x="22" y="296" width="696" height="62" fill="#f1f5f8"/>
+<rect x="22" y="296" width="4" height="62" fill="#59718e"/>
+<text class="label" x="41" y="321">4 · Aceptación</text>
+<text class="event" x="237" y="321">El elegido responde y elige el nombre con el que</text>
+<text class="event" x="237" y="344">será anunciado.</text>
+</svg>

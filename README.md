@@ -1,8 +1,8 @@
 # Relitree
 
-**Versión 1.7.35**
+**Versión 1.7.36**
 
-La [enciclopedia](enciclopedia/PLAN.md#fase-e11--cristianismo--los-papas-i) abre «Los papas (I)» con siete artículos sobre la institución y la sucesión pontificia, desde Pedro hasta la elección de Martín V en Constanza. El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
+La [enciclopedia](enciclopedia/PLAN.md#fase-e11--cristianismo--los-papas) completa «Los papas» con el recorrido desde Constanza hasta León XIV, el cónclave y los antipapas. El índice incluye «Biografías» dentro de «Los papas» y un desplegable independiente para «Los santos». El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
 
 El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto. La capa **Puentes** marca los cruces de ramas y líneas de vida en las vistas por territorios y radial. Las marcas temporales mantienen una separación visual regular. El símbolo ≈ identifica los años redondeados.
 

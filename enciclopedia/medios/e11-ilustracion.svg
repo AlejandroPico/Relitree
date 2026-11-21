@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 438" role="img" aria-labelledby="tit desc">
+<title id="tit">Controversias y cambios de poder</title><desc id="desc">1713. Unigenitus y conflicto sobre su recepción en Francia. 1742. Benedicto XIV reafirma restricciones sobre los ritos chinos. 1773. Clemente XIV dispone la supresión de la Compañía de Jesús. 1782. Pío VI viaja a Viena y negocia con José II. 1790–1799. Revolución francesa, pérdida temporal de Roma y exilio de Pío VI.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#20314a}.title{font-size:26px;font-weight:640}.label{font-weight:650}.sub{fill:#435570}</style>
+<rect width="740" height="438" fill="white"/>
+<text class="title" x="22" y="37">Controversias y cambios de poder</text>
+<text class="sub" x="22" y="66">Del gobierno de Clemente XI a la muerte de Pío VI</text>
+<rect x="22" y="98" width="696" height="62" fill="#f1f5f8"/>
+<rect x="22" y="98" width="4" height="62" fill="#59718e"/>
+<text class="label" x="41" y="123">1713</text>
+<text class="event" x="237" y="123">Unigenitus y conflicto sobre su recepción en</text>
+<text class="event" x="237" y="146">Francia.</text>
+<rect x="22" y="164" width="696" height="62" fill="#f1f5f8"/>
+<rect x="22" y="164" width="4" height="62" fill="#59718e"/>
+<text class="label" x="41" y="189">1742</text>
+<text class="event" x="237" y="189">Benedicto XIV reafirma restricciones sobre los</text>
+<text class="event" x="237" y="212">ritos chinos.</text>
+<rect x="22" y="230" width="696" height="62" fill="#f1f5f8"/>
+<rect x="22" y="230" width="4" height="62" fill="#59718e"/>
+<text class="label" x="41" y="255">1773</text>
+<text class="event" x="237" y="255">Clemente XIV dispone la supresión de la Compañía</text>
+<text class="event" x="237" y="278">de Jesús.</text>
+<rect x="22" y="296" width="696" height="56" fill="#f1f5f8"/>
+<rect x="22" y="296" width="4" height="56" fill="#59718e"/>
+<text class="label" x="41" y="321">1782</text>
+<text class="event" x="237" y="321">Pío VI viaja a Viena y negocia con José II.</text>
+<rect x="22" y="356" width="696" height="62" fill="#f1f5f8"/>
+<rect x="22" y="356" width="4" height="62" fill="#59718e"/>
+<text class="label" x="41" y="381">1790–1799</text>
+<text class="event" x="237" y="381">Revolución francesa, pérdida temporal de Roma y</text>
+<text class="event" x="237" y="404">exilio de Pío VI.</text>
+</svg>

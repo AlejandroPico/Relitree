@@ -79,7 +79,7 @@ function leerPreferenciasLectura(): PreferenciasLectura {
       </nav>
       <ng-template #rama let-entradas>
         @for (entrada of entradas; track entrada.articulo.id) {
-          @if (entrada.hijos.length) {
+          @if (entrada.hijos.length || entrada.categoria) {
             <details class="rama-indice" [class.raiz-religion]="esReligion(entrada.articulo.id)"
                      [attr.id]="entrada.categoria ? entrada.articulo.id : null" [open]="entrada.abierto">
               <summary><span>{{ entrada.articulo.titulo }}</span></summary>
@@ -95,6 +95,9 @@ function leerPreferenciasLectura(): PreferenciasLectura {
                       </details>
                     }
                   }
+                }
+                @if (entrada.categoria && !entrada.hijos.length) {
+                  <p class="rama-pendiente">{{ i18n.t('articulosEnPreparacion') }}</p>
                 }
                 <ng-container [ngTemplateOutlet]="rama" [ngTemplateOutletContext]="{ $implicit: entrada.hijos }"/>
               </div>
@@ -331,10 +334,11 @@ export class Enciclopedia {
     const entrada = (articulo: Articulo, coincideRama = false): EntradaIndice | null => {
       const categoria = articulo.id.startsWith('categoria:');
       const coincide = coincideRama || !q || normalizar(articulo.titulo).includes(q);
-      const hijos = (porPadre.get(articulo.id) ?? [])
+      const hijosDirectos = porPadre.get(articulo.id) ?? [];
+      const hijos = hijosDirectos
         .map((hijo) => entrada(hijo, coincide))
         .filter((hijo): hijo is EntradaIndice => hijo !== null);
-      if ((!coincide || categoria) && !hijos.length) return null;
+      if (!hijos.length && (!coincide || (categoria && hijosDirectos.length))) return null;
       const abierto = !!q || actual?.id === articulo.id || hijos.some((hijo) => hijo.abierto);
       const total = hijos.reduce((suma, hijo) => suma + hijo.total, categoria ? 0 : 1);
       return { articulo, hijos, categoria, abierto, total };

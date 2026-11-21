@@ -124,6 +124,7 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .enciclopedia summary::-webkit-details-marker { display: none; }
 .enciclopedia summary small { color: var(--tenue); letter-spacing: 0; }
 .enciclopedia .subindice { padding-inline-start: .85rem; }
+.enciclopedia .rama-pendiente { margin: .35rem 0; font-size: .8rem; }
 .enciclopedia .rama-indice > summary { font-weight: 400; justify-content: flex-start; align-items: baseline; gap: .45em; margin: 6px 0; text-transform: none; letter-spacing: normal; font-size: 13.5px; }
 .enciclopedia .rama-indice > summary::before { content: '▸'; flex: none; }
 .enciclopedia .rama-indice[open] > summary::before { content: '▾'; }

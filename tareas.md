@@ -4,6 +4,12 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E11 · Entrega 11.4. [«El papado después de Constanza y durante el Renacimiento»](enciclopedia/es/religiones/cristianismo/papas/papas-del-renacimiento.md), 5.018 palabras de cuerpo, 14 fuentes, 3 imágenes y 2 gráficos propios. Versión 1.7.36.
+- [x] E11 · Entrega 11.4. [«Papas de los siglos XVII–XVIII»](enciclopedia/es/religiones/cristianismo/papas/papas-de-los-siglos-xvii-xviii.md), 5.026 palabras de cuerpo, 15 fuentes, 3 imágenes y 2 gráficos propios. Versión 1.7.36.
+- [x] E11 · Entrega 11.5. [«Papas de los siglos XIX–XXI»](enciclopedia/es/religiones/cristianismo/papas/papas-de-los-siglos-xix-xxi.md), 5.050 palabras de cuerpo, 20 fuentes, 3 imágenes y 2 gráficos propios. Versión 1.7.36.
+- [x] E11 · Entrega 11.5. [«Elección del papa · El cónclave»](enciclopedia/es/religiones/cristianismo/papas/conclave.md), 5.051 palabras de cuerpo, 22 fuentes, 3 imágenes y 2 gráficos propios. Versión 1.7.36.
+- [x] E11 · Entrega 11.6. [«Los antipapas»](enciclopedia/es/religiones/cristianismo/papas/antipapas.md), 5.050 palabras de cuerpo, 20 fuentes, 3 imágenes y 2 gráficos propios. Versión 1.7.36.
+- [x] Índice de Cristianismo. «Los papas» incluye «Biografías» y «Los santos» tiene un desplegable propio. Versión 1.7.36.
 - [x] E11 · Entrega 11.0. [«El papado: historia de la institución · Visión de conjunto»](enciclopedia/es/religiones/cristianismo/papas/panorama.md), 5.090 palabras de cuerpo, 59 fuentes, 2 imágenes y 2 gráficos propios. Versión 1.7.35.
 - [x] E11 · Entrega 11.1. [«Papas de los siglos I–III»](enciclopedia/es/religiones/cristianismo/papas/papas-de-los-siglos-i-iii.md), 5.061 palabras de cuerpo, 26 fuentes, 2 imágenes y 2 gráficos propios. Versión 1.7.35.
 - [x] E11 · Entrega 11.1. [«Papas de los siglos IV–VI»](enciclopedia/es/religiones/cristianismo/papas/papas-de-los-siglos-iv-vi.md), 5.105 palabras de cuerpo, 29 fuentes, 2 imágenes y 2 gráficos propios. Versión 1.7.35.
@@ -135,8 +141,8 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 - E04 · Cristianismo, concilios ecuménicos (I). Completa, 11 de 11 artículos publicados. Disponibles [Nicea I (325)](enciclopedia/es/religiones/cristianismo/concilios/nicea-i.md), [Constantinopla I (381)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-i.md), [Éfeso (431)](enciclopedia/es/religiones/cristianismo/concilios/efeso.md), [Calcedonia (451)](enciclopedia/es/religiones/cristianismo/concilios/calcedonia.md), [Constantinopla II (553)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-ii.md), [Constantinopla III (680–681)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-iii.md), [Nicea II (787)](enciclopedia/es/religiones/cristianismo/concilios/nicea-ii.md), [Constantinopla IV (869–870)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-iv.md), [Letrán I (1123)](enciclopedia/es/religiones/cristianismo/concilios/letran-i.md), [Letrán II (1139)](enciclopedia/es/religiones/cristianismo/concilios/letran-ii.md) y [Letrán III (1179)](enciclopedia/es/religiones/cristianismo/concilios/letran-iii.md).
 - E05 · Cristianismo, concilios ecuménicos (II). Completa, 11 de 11 artículos publicados. Disponibles [Letrán IV (1215)](enciclopedia/es/religiones/cristianismo/concilios/letran-iv.md), [Lyon I (1245)](enciclopedia/es/religiones/cristianismo/concilios/lyon-i.md), [Lyon II (1274)](enciclopedia/es/religiones/cristianismo/concilios/lyon-ii.md), [Vienne (1311–1312)](enciclopedia/es/religiones/cristianismo/concilios/vienne.md), [Constanza (1414–1418)](enciclopedia/es/religiones/cristianismo/concilios/constanza.md), [Basilea–Ferrara–Florencia (1431–1445)](enciclopedia/es/religiones/cristianismo/concilios/basilea-ferrara-florencia.md), [Letrán V (1512–1517)](enciclopedia/es/religiones/cristianismo/concilios/letran-v.md), [Trento (1545–1563)](enciclopedia/es/religiones/cristianismo/concilios/trento.md), [Vaticano I (1869–1870)](enciclopedia/es/religiones/cristianismo/concilios/vaticano-i.md) y [Vaticano II (1962–1965)](enciclopedia/es/religiones/cristianismo/concilios/vaticano-ii.md). La [visión de conjunto](enciclopedia/es/religiones/cristianismo/concilios/panorama.md) enlaza los 21 estudios individuales de E04 y E05.
 - E07 · Cruzadas y guerras santas. Fase completada con quince artículos.
-- E11 · Los papas (I). Pendientes las entregas 11.4–11.6.
-- E12–E22 · Cristianismo (papas, santos y 105 tradiciones)
+- E12 · Biografías de papas y santos.
+- E13–E22 · Cristianismo (figuras y tradiciones)
 - E23–E26 · Judaísmo
 - E27–E33 · Islam
 - E34–E41 · Hinduismo (más de 100 deidades) y sijismo

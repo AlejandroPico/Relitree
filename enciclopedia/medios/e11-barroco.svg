@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 414" role="img" aria-labelledby="tit desc">
+<title id="tit">Roma y las monarquías del siglo XVII</title><desc id="desc">1606–1607. Entredicho de Venecia y mediación francesa. 1622. Gregorio XV establece Propaganda Fide. 1633. Proceso romano contra Galileo. 1648. Paz de Westfalia y protesta de Inocencio X. 1682–1692. Conflicto galicano y límites al nepotismo.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#20314a}.title{font-size:26px;font-weight:640}.label{font-weight:650}.sub{fill:#435570}</style>
+<rect width="740" height="414" fill="white"/>
+<text class="title" x="22" y="37">Roma y las monarquías del siglo XVII</text>
+<text class="sub" x="22" y="66">Gobierno urbano, Iglesia y diplomacia</text>
+<rect x="22" y="98" width="696" height="56" fill="#f1f5f8"/>
+<rect x="22" y="98" width="4" height="56" fill="#59718e"/>
+<text class="label" x="41" y="123">1606–1607</text>
+<text class="event" x="237" y="123">Entredicho de Venecia y mediación francesa.</text>
+<rect x="22" y="158" width="696" height="56" fill="#f1f5f8"/>
+<rect x="22" y="158" width="4" height="56" fill="#59718e"/>
+<text class="label" x="41" y="183">1622</text>
+<text class="event" x="237" y="183">Gregorio XV establece Propaganda Fide.</text>
+<rect x="22" y="218" width="696" height="56" fill="#f1f5f8"/>
+<rect x="22" y="218" width="4" height="56" fill="#59718e"/>
+<text class="label" x="41" y="243">1633</text>
+<text class="event" x="237" y="243">Proceso romano contra Galileo.</text>
+<rect x="22" y="278" width="696" height="56" fill="#f1f5f8"/>
+<rect x="22" y="278" width="4" height="56" fill="#59718e"/>
+<text class="label" x="41" y="303">1648</text>
+<text class="event" x="237" y="303">Paz de Westfalia y protesta de Inocencio X.</text>
+<rect x="22" y="338" width="696" height="56" fill="#f1f5f8"/>
+<rect x="22" y="338" width="4" height="56" fill="#59718e"/>
+<text class="label" x="41" y="363">1682–1692</text>
+<text class="event" x="237" y="363">Conflicto galicano y límites al nepotismo.</text>
+</svg>

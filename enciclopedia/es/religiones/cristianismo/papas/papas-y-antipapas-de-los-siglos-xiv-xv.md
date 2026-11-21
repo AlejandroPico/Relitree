@@ -2,7 +2,7 @@
 estado: completo
 fase: E11
 orden: 60
-palabras: 5019
+palabras: 5025
 fuentes:
   - "https://www.vatican.va/content/vatican/es/holy-father.html"
   - "https://doi.org/10.1017/9781108750608.013"
@@ -34,7 +34,7 @@ fuentes:
 
 # Papas y antipapas de los siglos XIV–XV
 
-En noviembre de 1417 se eligió a Martín V en Constanza. La elección se produjo tras décadas en que varios grupos habían mantenido pontífices distintos, con sus cardenales, servidores, ingresos y destinatarios. El hecho de que uno de esos pretendientes conservara partidarios después de 1417 obliga a distinguir una solución de alcance general y el fin de toda reclamación local. El panorama empieza con Benedicto XI, sucesor de Bonifacio VIII en 1303, recorre la residencia de los papas en Aviñón y sigue las obediencias de Roma, Aviñón y Pisa hasta la elección de Martín. Incluye un epílogo breve sobre la supervivencia de la reclamación aviñonesa. El pontificado posterior a Constanza enlaza con la siguiente entrega. [1,2,3,4,5]
+En noviembre de 1417 se eligió a Martín V en Constanza. La elección se produjo tras décadas en que varios grupos habían mantenido pontífices distintos, con sus cardenales, servidores, ingresos y destinatarios. El hecho de que uno de esos pretendientes conservara partidarios después de 1417 obliga a distinguir una solución de alcance general y el fin de toda reclamación local. El panorama empieza con Benedicto XI, sucesor de Bonifacio VIII en 1303, recorre la residencia de los papas en Aviñón y sigue las obediencias de Roma, Aviñón y Pisa hasta la elección de Martín. Incluye un epílogo breve sobre la supervivencia de la reclamación aviñonesa. El pontificado posterior a Constanza enlaza con [[cristianismo/papas/papas-del-renacimiento|El papado después de Constanza y durante el Renacimiento]]. [1,2,3,4,5]
 
 El papado de Aviñón y el Cisma de Occidente se leen como episodios sucesivos con cronologías parcialmente distintas. Bajo Clemente V y sus sucesores hubo una única línea pontificia reconocida en el repertorio romano, con una corte que se encontraba en el valle del Ródano. La primera elección rival del Cisma tuvo lugar en 1378, después de la vuelta de Gregorio XI a Roma. Cuando la segunda obediencia acabó establecida de nuevo en Aviñón, el uso de la misma ciudad dio continuidad material a oficinas y palacios, pero la posición que ocupó dentro del conjunto del cristianismo latino había cambiado. La cronología separa a cada titular de la línea que lo reconocía y sitúa las actuaciones del concilio de Constanza junto a ellas. [2,3,6,4]
 

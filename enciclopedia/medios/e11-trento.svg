@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 372" role="img" aria-labelledby="tit desc">
+<title id="tit">Las tres etapas del Concilio de Trento</title><desc id="desc">1545–1547. Pablo III. Primera etapa conciliar, con traslado a Bolonia. 1551–1552. Julio III. Reanudación y nueva suspensión. 1562–1563. Pío IV. Últimas sesiones, clausura y confirmación en 1564. 1566–1570. Pío V. Aplicación y ediciones de libros litúrgicos.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#20314a}.title{font-size:26px;font-weight:640}.label{font-weight:650}.sub{fill:#435570}</style>
+<rect width="740" height="372" fill="white"/>
+<text class="title" x="22" y="37">Las tres etapas del Concilio de Trento</text>
+<text class="sub" x="22" y="66">De la convocatoria a la aplicación</text>
+<rect x="22" y="98" width="696" height="62" fill="#f1f5f8"/>
+<rect x="22" y="98" width="4" height="62" fill="#59718e"/>
+<text class="label" x="41" y="123">1545–1547</text>
+<text class="event" x="237" y="123">Pablo III. Primera etapa conciliar, con traslado a</text>
+<text class="event" x="237" y="146">Bolonia.</text>
+<rect x="22" y="164" width="696" height="56" fill="#f1f5f8"/>
+<rect x="22" y="164" width="4" height="56" fill="#59718e"/>
+<text class="label" x="41" y="189">1551–1552</text>
+<text class="event" x="237" y="189">Julio III. Reanudación y nueva suspensión.</text>
+<rect x="22" y="224" width="696" height="62" fill="#f1f5f8"/>
+<rect x="22" y="224" width="4" height="62" fill="#59718e"/>
+<text class="label" x="41" y="249">1562–1563</text>
+<text class="event" x="237" y="249">Pío IV. Últimas sesiones, clausura y confirmación</text>
+<text class="event" x="237" y="272">en 1564.</text>
+<rect x="22" y="290" width="696" height="62" fill="#f1f5f8"/>
+<rect x="22" y="290" width="4" height="62" fill="#59718e"/>
+<text class="label" x="41" y="315">1566–1570</text>
+<text class="event" x="237" y="315">Pío V. Aplicación y ediciones de libros</text>
+<text class="event" x="237" y="338">litúrgicos.</text>
+</svg>

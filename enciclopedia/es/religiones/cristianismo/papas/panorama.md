@@ -2,7 +2,7 @@
 estado: completo
 fase: E11
 orden: 0
-palabras: 5090
+palabras: 5118
 fuentes:
   - "https://www.cambridge.org/core/books/cambridge-history-of-the-papacy/98D8D333DC99C18176A137ADEFE1FDA3"
   - "https://assets.cambridge.org/97811070/01060/frontmatter/9781107001060_frontmatter.pdf"
@@ -205,6 +205,14 @@ Esta diferencia tiene efectos al estudiar la diplomacia. Los tratados entre la S
 Un nombramiento, un sermón y una constitución pueden llegar a los fieles como actuaciones de la misma persona. Cada género permite formular preguntas diferentes. Un nombramiento determina quién ocupa un cargo en las condiciones del documento y de las normas que lo rigen. Un sermón expresa una enseñanza en el marco de una celebración y se dirige en origen a un público que puede identificarse. Una constitución puede establecer reglas de funcionamiento con validez general o definir materia doctrinal. Al utilizar un texto como fuente histórica hace falta también conocer su transmisión. Una traducción institucional posterior facilita el acceso, mientras que el original fechado permite contrastar la forma inicial de un mandato. La diferencia interesa especialmente en los siglos en que una carta se convirtió en precedente jurídico sin haber sido publicada originalmente como ley para todos. [29,21,34,8]
 
 También hay que reconocer de qué manera llega una decisión a su destinatario. En una etapa medieval, el trámite podía necesitar un juez delegado y una copia conservada por la comunidad interesada. En una etapa contemporánea, puede quedar constancia de su promulgación pública y de posteriores interpretaciones. Los cambios en la conservación tienen efectos para la historia: las personas que no podían formular una petición por escrito quedan menos visibles que aquellas con notarios y recursos, aunque sus prácticas fueran objeto del expediente. Leer el archivo junto al contexto local ayuda a valorar quién obtuvo una respuesta y quién tuvo que asumir sus efectos. [21,34,3,56]
+
+## Del Renacimiento al siglo XXI
+
+- [[cristianismo/papas/papas-del-renacimiento|El papado después de Constanza y durante el Renacimiento]]
+- [[cristianismo/papas/papas-de-los-siglos-xvii-xviii|Papas de los siglos XVII–XVIII]]
+- [[cristianismo/papas/papas-de-los-siglos-xix-xxi|Papas de los siglos XIX–XXI]]
+- [[cristianismo/papas/conclave|Elección del papa · El cónclave]]
+- [[cristianismo/papas/antipapas|Los antipapas]]
 
 ## Fuentes
 1. Joëlle Rollo-Koster, Robert A. Ventresca, Melodie H. Eichbauer y Miles Pattenden (eds.), The Cambridge History of the Papacy. [Consultar](https://www.cambridge.org/core/books/cambridge-history-of-the-papacy/98D8D333DC99C18176A137ADEFE1FDA3)
