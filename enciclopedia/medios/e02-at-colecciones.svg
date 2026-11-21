@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="408" viewBox="0 0 760 408" role="img" aria-labelledby="title desc">
+<title id="title">Cómo se ordenan las Escrituras</title><desc id="desc">Tanaj · 24 libros. Torá, Profetas y Escritos. Los Doce se cuentan como una unidad. Antiguo Testamento protestante · 39. El núcleo se distribuye en Pentateuco, historias, poesía y profetas. Antiguo Testamento católico · 46. Incluye los siete libros deuterocanónicos y secciones griegas de Ester y Daniel. Tradiciones ortodoxas. El inventario depende de la Iglesia y de la edición. Las colecciones tewahedo tienen particularidades propias.</desc>
+<style>text{font-family:system-ui,sans-serif;font-size:16px;fill:#16374a}.name{font-size:29px;font-weight:700}.label{font-weight:650}.sub{fill:#486473}.fine{font-size:12px}.place{font-size:13px;font-weight:650;paint-order:stroke;stroke:#eff8fb;stroke-width:3px;stroke-linejoin:round}</style>
+<rect width="760" height="408" fill="#fff"/>
+<text x="24" y="38" class="name">Cómo se ordenan las Escrituras</text><text x="25" y="67" class="sub">El contenido compartido se cuenta y se agrupa de formas distintas</text>
+<rect x="24" y="94" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="94" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="120">Tanaj · 24 libros</text>
+<text x="289" y="120">Torá, Profetas y Escritos. Los Doce se cuentan como</text>
+<text x="289" y="144">una unidad.</text>
+<rect x="24" y="162" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="162" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="188">Antiguo Testamento</text>
+<text class="label" x="40" y="212">protestante · 39</text>
+<text x="289" y="188">El núcleo se distribuye en Pentateuco, historias,</text>
+<text x="289" y="212">poesía y profetas.</text>
+<rect x="24" y="230" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="230" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="256">Antiguo Testamento</text>
+<text class="label" x="40" y="280">católico · 46</text>
+<text x="289" y="256">Incluye los siete libros deuterocanónicos y</text>
+<text x="289" y="280">secciones griegas de Ester y Daniel.</text>
+<rect x="24" y="298" width="712" height="86" fill="#f4f6fc"/>
+<rect x="24" y="298" width="4" height="86" fill="#2f7186"/>
+<text class="label" x="40" y="324">Tradiciones ortodoxas</text>
+<text x="289" y="324">El inventario depende de la Iglesia y de la edición.</text>
+<text x="289" y="348">Las colecciones tewahedo tienen particularidades</text>
+<text x="289" y="372">propias.</text>
+</svg>

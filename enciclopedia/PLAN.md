@@ -32,18 +32,18 @@ Avance editorial: los dos primeros artículos se han ampliado. Los otros ocho ti
 
 ## Fase E02 · Cristianismo · Fundamentos
 
-Avance editorial. «Cristianismo», «La vida de Jesús de Nazaret», «Pasión, muerte y resurrección», «Canon, apócrifos y traducciones de la Biblia» y «La Trinidad y los dogmas» superan las 5.000 palabras de cuerpo. Quedan siete entradas pendientes de desarrollo y revisión.
+Avance editorial. Diez de doce artículos están completos. El Antiguo y el Nuevo Testamento, Liturgia y año litúrgico, Mandamientos, sacramentos y moral y Simbología cristiana superan las 10.000 palabras de cuerpo. Quedan pendientes las entradas propias de Pedro y Pablo de Tarso.
 
 - Cristianismo (artículo principal, por épocas)
 - La vida de Jesús de Nazaret
 - Pasión, muerte y resurrección
 - La Trinidad y los dogmas
-- La Biblia: Antiguo Testamento
-- La Biblia: Nuevo Testamento
+- [x] [La Biblia: Antiguo Testamento](es/religiones/cristianismo/biblia/antiguo-testamento.md)
+- [x] [La Biblia: Nuevo Testamento](es/religiones/cristianismo/biblia/nuevo-testamento.md)
 - Canon, apócrifos y traducciones de la Biblia
-- Mandamientos, sacramentos y moral
-- Liturgia y año litúrgico
-- Simbología cristiana
+- [x] [Mandamientos, sacramentos y moral](es/religiones/cristianismo/vida-cristiana/mandamientos-sacramentos-moral.md)
+- [x] [Liturgia y año litúrgico](es/religiones/cristianismo/vida-cristiana/liturgia-y-ano-liturgico.md)
+- [x] [Simbología cristiana](es/religiones/cristianismo/vida-cristiana/simbologia.md)
 - Pedro
 - Pablo de Tarso
 

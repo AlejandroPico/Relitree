@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="497" viewBox="0 0 760 497" role="img" aria-labelledby="title desc">
+<title id="title">Cuatro signos y sus contextos</title><desc id="desc">1 · Cruz. El contorno y el contexto ayudan a precisar qué uso recibió. 2 · Crismón. Superposición de ji y rho, iniciales de Christós. 3 · Anj. Jeroglífico egipcio relacionado con la vida. En Egipto cristiano existen cruces ansadas. 4 · Pez. Forma visual y acróstico cristiano, con otros usos posibles según el objeto.</desc>
+<style>text{font-family:system-ui,sans-serif;font-size:16px;fill:#16374a}.name{font-size:29px;font-weight:700}.label{font-weight:650}.sub{fill:#486473}.fine{font-size:12px}.place{font-size:13px;font-weight:650;paint-order:stroke;stroke:#eff8fb;stroke-width:3px;stroke-linejoin:round}</style>
+<rect width="760" height="497" fill="#fff"/>
+<text x="24" y="38" class="name">Cuatro signos y sus contextos</text><text x="25" y="67" class="sub">Claves para reconocer letras y formas</text>
+<rect x="25" y="100" width="170" height="101" fill="#eaf2f5"/>
+<path d="M0 -32V31M-23 -7H23" transform="translate(110 151)" fill="none" stroke="#29516d" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="35" y="191" class="fine">1</text>
+<rect x="205" y="100" width="170" height="101" fill="#eaf2f5"/>
+<path d="M-25 -26L25 24M25 -26L-25 24M0 34V-34H12C34 -34 34 -7 12 -7H0" transform="translate(290 151)" fill="none" stroke="#29516d" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="215" y="191" class="fine">2</text>
+<rect x="385" y="100" width="170" height="101" fill="#eaf2f5"/>
+<path d="M0 32V-5M-25 1H25M0 -5C-26 -8 -16 -39 0 -39C16 -39 26 -8 0 -5Z" transform="translate(470 151)" fill="none" stroke="#29516d" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="395" y="191" class="fine">3</text>
+<rect x="565" y="100" width="170" height="101" fill="#eaf2f5"/>
+<path d="M-41 0Q-6 -39 32 17M-41 0Q-6 38 32 -17" transform="translate(650 151)" fill="none" stroke="#29516d" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="575" y="191" class="fine">4</text>
+<rect x="24" y="215" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="215" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="241">1 · Cruz</text>
+<text x="289" y="241">El contorno y el contexto ayudan a precisar qué uso</text>
+<text x="289" y="265">recibió.</text>
+<rect x="24" y="283" width="712" height="54" fill="#f4f6fc"/>
+<rect x="24" y="283" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="309">2 · Crismón</text>
+<text x="289" y="309">Superposición de ji y rho, iniciales de Christós.</text>
+<rect x="24" y="343" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="343" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="369">3 · Anj</text>
+<text x="289" y="369">Jeroglífico egipcio relacionado con la vida. En</text>
+<text x="289" y="393">Egipto cristiano existen cruces ansadas.</text>
+<rect x="24" y="411" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="411" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="437">4 · Pez</text>
+<text x="289" y="437">Forma visual y acróstico cristiano, con otros usos</text>
+<text x="289" y="461">posibles según el objeto.</text>
+</svg>

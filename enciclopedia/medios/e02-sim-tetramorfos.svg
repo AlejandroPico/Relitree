@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420" role="img" aria-labelledby="title desc">
+<title id="title">El tetramorfos de los evangelistas</title><desc id="desc">Mateo. Figura humana o ángel. Marcos. León. Lucas. Toro o buey. Juan. Águila. Fuentes. Ezequiel y Apocalipsis. Hubo otras asociaciones en la interpretación antigua.</desc>
+<style>text{font-family:system-ui,sans-serif;font-size:16px;fill:#16374a}.name{font-size:29px;font-weight:700}.label{font-weight:650}.sub{fill:#486473}.fine{font-size:12px}.place{font-size:13px;font-weight:650;paint-order:stroke;stroke:#eff8fb;stroke-width:3px;stroke-linejoin:round}</style>
+<rect width="760" height="420" fill="#fff"/>
+<text x="24" y="38" class="name">El tetramorfos de los evangelistas</text><text x="25" y="67" class="sub">Asociación más extendida en el arte cristiano occidental</text>
+<rect x="24" y="94" width="712" height="54" fill="#eef5f7"/>
+<rect x="24" y="94" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="120">Mateo</text>
+<text x="289" y="120">Figura humana o ángel.</text>
+<rect x="24" y="154" width="712" height="54" fill="#f4f6fc"/>
+<rect x="24" y="154" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="180">Marcos</text>
+<text x="289" y="180">León.</text>
+<rect x="24" y="214" width="712" height="54" fill="#eef5f7"/>
+<rect x="24" y="214" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="240">Lucas</text>
+<text x="289" y="240">Toro o buey.</text>
+<rect x="24" y="274" width="712" height="54" fill="#f4f6fc"/>
+<rect x="24" y="274" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="300">Juan</text>
+<text x="289" y="300">Águila.</text>
+<rect x="24" y="334" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="334" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="360">Fuentes</text>
+<text x="289" y="360">Ezequiel y Apocalipsis. Hubo otras asociaciones en</text>
+<text x="289" y="384">la interpretación antigua.</text>
+</svg>

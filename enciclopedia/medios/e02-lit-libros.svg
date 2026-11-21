@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="428" viewBox="0 0 760 428" role="img" aria-labelledby="title desc">
+<title id="title">Qué libro consultar</title><desc id="desc">Calendario. Fecha, conmemoración y rango de la celebración. Leccionario. Pasajes bíblicos y secuencia de lecturas. Misal o eucologio. Orden de la celebración, oraciones y participación de sus ministros. Libro de oficio. Salmos, lecturas y plegarias de la mañana, la tarde y otras horas. Himnario. Repertorio de cantos y respuestas.</desc>
+<style>text{font-family:system-ui,sans-serif;font-size:16px;fill:#16374a}.name{font-size:29px;font-weight:700}.label{font-weight:650}.sub{fill:#486473}.fine{font-size:12px}.place{font-size:13px;font-weight:650;paint-order:stroke;stroke:#eff8fb;stroke-width:3px;stroke-linejoin:round}</style>
+<rect width="760" height="428" fill="#fff"/>
+<text x="24" y="38" class="name">Qué libro consultar</text><text x="25" y="67" class="sub">Fecha, orden, lecturas y canto se buscan en recursos distintos</text>
+<rect x="24" y="94" width="712" height="54" fill="#eef5f7"/>
+<rect x="24" y="94" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="120">Calendario</text>
+<text x="289" y="120">Fecha, conmemoración y rango de la celebración.</text>
+<rect x="24" y="154" width="712" height="54" fill="#f4f6fc"/>
+<rect x="24" y="154" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="180">Leccionario</text>
+<text x="289" y="180">Pasajes bíblicos y secuencia de lecturas.</text>
+<rect x="24" y="214" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="214" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="240">Misal o eucologio</text>
+<text x="289" y="240">Orden de la celebración, oraciones y participación</text>
+<text x="289" y="264">de sus ministros.</text>
+<rect x="24" y="282" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="282" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="308">Libro de oficio</text>
+<text x="289" y="308">Salmos, lecturas y plegarias de la mañana, la tarde</text>
+<text x="289" y="332">y otras horas.</text>
+<rect x="24" y="350" width="712" height="54" fill="#eef5f7"/>
+<rect x="24" y="350" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="376">Himnario</text>
+<text x="289" y="376">Repertorio de cantos y respuestas.</text>
+</svg>

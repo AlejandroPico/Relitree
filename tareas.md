@@ -4,6 +4,11 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E02 · Ampliación. [«La Biblia: Antiguo Testamento»](enciclopedia/es/religiones/cristianismo/biblia/antiguo-testamento.md), 11.051 palabras de cuerpo, 2 imágenes acreditadas y 3 gráficos propios. Versión 1.7.41.
+- [x] E02 · Ampliación. [«La Biblia: Nuevo Testamento»](enciclopedia/es/religiones/cristianismo/biblia/nuevo-testamento.md), 10.123 palabras de cuerpo, 2 imágenes acreditadas y 3 gráficos propios. Versión 1.7.41.
+- [x] E02 · Ampliación. [«Liturgia y año litúrgico»](enciclopedia/es/religiones/cristianismo/vida-cristiana/liturgia-y-ano-liturgico.md), 10.163 palabras de cuerpo, 3 imágenes acreditadas y 3 gráficos propios. Versión 1.7.41.
+- [x] E02 · Ampliación. [«Mandamientos, sacramentos y moral»](enciclopedia/es/religiones/cristianismo/vida-cristiana/mandamientos-sacramentos-moral.md), 10.067 palabras de cuerpo, 2 imágenes acreditadas y 2 gráficos propios. Versión 1.7.41.
+- [x] E02 · Ampliación. [«Simbología cristiana»](enciclopedia/es/religiones/cristianismo/vida-cristiana/simbologia.md), 10.082 palabras de cuerpo, 5 imágenes acreditadas y 3 gráficos propios. Versión 1.7.41.
 - [x] E13 · Entrega 13.1. [«María, madre de Jesús»](enciclopedia/es/religiones/cristianismo/maria-y-figuras-mayores/maria-madre-de-jesus.md), 5.187 palabras de cuerpo, 24 fuentes y créditos, 2 imágenes y 2 gráficos propios. Versión 1.7.39.
 - [x] E13 · Entrega 13.1. [«Apariciones marianas»](enciclopedia/es/religiones/cristianismo/maria-y-figuras-mayores/apariciones-marianas.md), 5.060 palabras de cuerpo, 23 fuentes y créditos, 3 imágenes y 2 gráficos propios. Versión 1.7.39.
 - [x] E13 · Entrega 13.2. [«Agustín de Hipona»](enciclopedia/es/religiones/cristianismo/maria-y-figuras-mayores/agustin-de-hipona.md), 5.107 palabras de cuerpo, 24 fuentes y créditos, 2 imágenes y 2 gráficos propios. Versión 1.7.39.

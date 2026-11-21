@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="376" viewBox="0 0 760 376" role="img" aria-labelledby="title desc">
+<title id="title">El Decálogo y sus preguntas</title><desc id="desc">Culto y palabra. Fidelidad a Dios, imágenes y responsabilidad al invocar su nombre. Tiempo y generación. Descanso y obligaciones con progenitores y personas dependientes. Vida e intimidad. Protección de la vida y fidelidad en las relaciones. Bienes, testimonio y deseo. Daño, restitución, palabra en público y deseos que pueden llevar a la apropiación.</desc>
+<style>text{font-family:system-ui,sans-serif;font-size:16px;fill:#16374a}.name{font-size:29px;font-weight:700}.label{font-weight:650}.sub{fill:#486473}.fine{font-size:12px}.place{font-size:13px;font-weight:650;paint-order:stroke;stroke:#eff8fb;stroke-width:3px;stroke-linejoin:round}</style>
+<rect width="760" height="376" fill="#fff"/>
+<text x="24" y="38" class="name">El Decálogo y sus preguntas</text><text x="25" y="67" class="sub">Lectura desde Éxodo 20 y Deuteronomio 5</text>
+<rect x="24" y="94" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="94" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="120">Culto y palabra</text>
+<text x="289" y="120">Fidelidad a Dios, imágenes y responsabilidad al</text>
+<text x="289" y="144">invocar su nombre.</text>
+<rect x="24" y="162" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="162" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="188">Tiempo y generación</text>
+<text x="289" y="188">Descanso y obligaciones con progenitores y personas</text>
+<text x="289" y="212">dependientes.</text>
+<rect x="24" y="230" width="712" height="54" fill="#eef5f7"/>
+<rect x="24" y="230" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="256">Vida e intimidad</text>
+<text x="289" y="256">Protección de la vida y fidelidad en las relaciones.</text>
+<rect x="24" y="290" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="290" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="316">Bienes, testimonio y</text>
+<text class="label" x="40" y="340">deseo</text>
+<text x="289" y="316">Daño, restitución, palabra en público y deseos que</text>
+<text x="289" y="340">pueden llevar a la apropiación.</text>
+</svg>

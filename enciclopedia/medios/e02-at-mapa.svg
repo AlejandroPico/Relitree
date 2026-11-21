@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="706" viewBox="0 0 760 706" role="img" aria-labelledby="title desc">
+<title id="title">El mundo del Antiguo Testamento</title><desc id="desc">Egipto y Sinaí. Lugares del relato de la salida. La ubicación de su itinerario sigue abierta. Samaría y Jerusalén. Capitales de los reinos del norte y del sur en buena parte de la etapa monárquica. Nínive y Babilonia. El poder asirio y el babilónico intervienen en momentos diferentes. Susa y el mundo persa. La corte de Ester da otro contexto que el regreso a Judá bajo el poder persa. Lugares representados: Delta del Nilo, Sinaí, Jerusalén, Samaría, Nínive, Babilonia, Susa.</desc>
+<style>text{font-family:system-ui,sans-serif;font-size:16px;fill:#16374a}.name{font-size:29px;font-weight:700}.label{font-weight:650}.sub{fill:#486473}.fine{font-size:12px}.place{font-size:13px;font-weight:650;paint-order:stroke;stroke:#eff8fb;stroke-width:3px;stroke-linejoin:round}</style>
+<rect width="760" height="706" fill="#fff"/>
+<text x="24" y="38" class="name">El mundo del Antiguo Testamento</text><text x="25" y="67" class="sub">Lugares de referencia del Mediterráneo oriental y el Próximo Oriente</text>
+<rect x="28" y="99" width="704" height="303" rx="3" fill="#dceefa"/>
+<polygon points="32.0,115.0 219.4,115.0 299.7,156.5 299.7,175.2 294.3,189.8 289.0,204.3 275.6,233.4 262.2,260.4 254.2,270.8 206.0,281.2 181.9,270.8 139.1,273.9 117.7,283.2 32.0,281.2 32.0,385.0 728.0,385.0 728.0,115.0 32.0,115.0" fill="#eaf0df" stroke="#6d8580" stroke-width="1.6"/>
+<polyline points="202.8,280.7 207.9,304.0 236.8,346.6 254.2,347.6 270.8,310.2 272.9,342.4 278.3,385.0" fill="none" stroke="#6d8580" stroke-width="1.6"/>
+<path d="M701 151V118m-5 8 5-8 5 8" fill="none" stroke="#29516d" stroke-width="2"/><text x="696" y="112" class="fine">N</text>
+<circle cx="171.2" cy="279.1" r="4.3" fill="#253e72" stroke="white" stroke-width="1.4"/>
+<text x="91.2" y="303.1" class="place">Delta del Nilo</text>
+<circle cx="246.2" cy="333.1" r="4.3" fill="#253e72" stroke="white" stroke-width="1.4"/>
+<text x="221.2" y="358.1" class="place">Sinaí</text>
+<circle cx="278.8" cy="265.0" r="4.3" fill="#253e72" stroke="white" stroke-width="1.4"/>
+<text x="290.8" y="288.0" class="place">Jerusalén</text>
+<circle cx="278.0" cy="254.6" r="4.3" fill="#253e72" stroke="white" stroke-width="1.4"/>
+<text x="218.0" y="245.6" class="place">Samaría</text>
+<circle cx="490.8" cy="169.8" r="4.3" fill="#253e72" stroke="white" stroke-width="1.4"/>
+<text x="500.8" y="158.8" class="place">Nínive</text>
+<circle cx="525.1" cy="249.2" r="4.3" fill="#253e72" stroke="white" stroke-width="1.4"/>
+<text x="491.1" y="272.2" class="place">Babilonia</text>
+<circle cx="627.9" cy="256.2" r="4.3" fill="#253e72" stroke="white" stroke-width="1.4"/>
+<text x="639.9" y="258.2" class="place">Susa</text>
+<text x="37" y="395" class="fine">Costa y posiciones aproximadas. Sin itinerarios reconstruidos.</text>
+<rect x="24" y="416" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="416" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="442">Egipto y Sinaí</text>
+<text x="289" y="442">Lugares del relato de la salida. La ubicación de su</text>
+<text x="289" y="466">itinerario sigue abierta.</text>
+<rect x="24" y="484" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="484" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="510">Samaría y Jerusalén</text>
+<text x="289" y="510">Capitales de los reinos del norte y del sur en buena</text>
+<text x="289" y="534">parte de la etapa monárquica.</text>
+<rect x="24" y="552" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="552" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="578">Nínive y Babilonia</text>
+<text x="289" y="578">El poder asirio y el babilónico intervienen en</text>
+<text x="289" y="602">momentos diferentes.</text>
+<rect x="24" y="620" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="620" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="646">Susa y el mundo persa</text>
+<text x="289" y="646">La corte de Ester da otro contexto que el regreso a</text>
+<text x="289" y="670">Judá bajo el poder persa.</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-labelledby="title desc">
+<title id="title">Los siete sacramentos</title><desc id="desc">Iniciación. Bautismo, confirmación y eucaristía. Curación. Penitencia y unción de los enfermos. Servicio a la comunión. Orden y matrimonio. Comparación. Las Iglesias difieren en el número, la definición, el ministro y el reconocimiento de los ritos.</desc>
+<style>text{font-family:system-ui,sans-serif;font-size:16px;fill:#16374a}.name{font-size:29px;font-weight:700}.label{font-weight:650}.sub{fill:#486473}.fine{font-size:12px}.place{font-size:13px;font-weight:650;paint-order:stroke;stroke:#eff8fb;stroke-width:3px;stroke-linejoin:round}</style>
+<rect width="760" height="360" fill="#fff"/>
+<text x="24" y="38" class="name">Los siete sacramentos</text><text x="25" y="67" class="sub">Clasificación católica y puntos de comparación con otras Iglesias</text>
+<rect x="24" y="94" width="712" height="54" fill="#eef5f7"/>
+<rect x="24" y="94" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="120">Iniciación</text>
+<text x="289" y="120">Bautismo, confirmación y eucaristía.</text>
+<rect x="24" y="154" width="712" height="54" fill="#f4f6fc"/>
+<rect x="24" y="154" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="180">Curación</text>
+<text x="289" y="180">Penitencia y unción de los enfermos.</text>
+<rect x="24" y="214" width="712" height="54" fill="#eef5f7"/>
+<rect x="24" y="214" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="240">Servicio a la comunión</text>
+<text x="289" y="240">Orden y matrimonio.</text>
+<rect x="24" y="274" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="274" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="300">Comparación</text>
+<text x="289" y="300">Las Iglesias difieren en el número, la definición,</text>
+<text x="289" y="324">el ministro y el reconocimiento de los ritos.</text>
+</svg>

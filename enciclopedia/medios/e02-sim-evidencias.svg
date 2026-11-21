@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="376" viewBox="0 0 760 376" role="img" aria-labelledby="title desc">
+<title id="title">Cómo se documenta un símbolo</title><desc id="desc">Objeto. Registrar soporte, medidas, estado e inscripciones. Contexto. Datar la pieza y comprobar dónde se usaba y quién podía verla. Comparación. Buscar objetos fechados y textos pertinentes para cada rasgo. Conclusión. Indicar qué se puede demostrar y qué queda como hipótesis.</desc>
+<style>text{font-family:system-ui,sans-serif;font-size:16px;fill:#16374a}.name{font-size:29px;font-weight:700}.label{font-weight:650}.sub{fill:#486473}.fine{font-size:12px}.place{font-size:13px;font-weight:650;paint-order:stroke;stroke:#eff8fb;stroke-width:3px;stroke-linejoin:round}</style>
+<rect width="760" height="376" fill="#fff"/>
+<text x="24" y="38" class="name">Cómo se documenta un símbolo</text><text x="25" y="67" class="sub">Del rasgo visible a una interpretación con pruebas</text>
+<rect x="24" y="94" width="712" height="54" fill="#eef5f7"/>
+<rect x="24" y="94" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="120">Objeto</text>
+<text x="289" y="120">Registrar soporte, medidas, estado e inscripciones.</text>
+<rect x="24" y="154" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="154" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="180">Contexto</text>
+<text x="289" y="180">Datar la pieza y comprobar dónde se usaba y quién</text>
+<text x="289" y="204">podía verla.</text>
+<rect x="24" y="222" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="222" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="248">Comparación</text>
+<text x="289" y="248">Buscar objetos fechados y textos pertinentes para</text>
+<text x="289" y="272">cada rasgo.</text>
+<rect x="24" y="290" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="290" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="316">Conclusión</text>
+<text x="289" y="316">Indicar qué se puede demostrar y qué queda como</text>
+<text x="289" y="340">hipótesis.</text>
+</svg>

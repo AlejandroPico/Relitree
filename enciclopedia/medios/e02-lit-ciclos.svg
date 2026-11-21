@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="376" viewBox="0 0 760 376" role="img" aria-labelledby="title desc">
+<title id="title">Ciclos del año litúrgico</title><desc id="desc">Ciclo fijo. Fiestas ancladas a un día de un mes, con diferencias entre calendarios. Ciclo móvil. La fecha de Pascua ordena el tiempo previo y las fiestas que la siguen. Ciclo semanal. El domingo y otros días adquieren usos estables. Precedencia. Las reglas de cada Iglesia indican qué celebrar si coinciden dos fechas.</desc>
+<style>text{font-family:system-ui,sans-serif;font-size:16px;fill:#16374a}.name{font-size:29px;font-weight:700}.label{font-weight:650}.sub{fill:#486473}.fine{font-size:12px}.place{font-size:13px;font-weight:650;paint-order:stroke;stroke:#eff8fb;stroke-width:3px;stroke-linejoin:round}</style>
+<rect width="760" height="376" fill="#fff"/>
+<text x="24" y="38" class="name">Ciclos del año litúrgico</text><text x="25" y="67" class="sub">Fechas fijas, fiestas móviles y particularidades locales</text>
+<rect x="24" y="94" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="94" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="120">Ciclo fijo</text>
+<text x="289" y="120">Fiestas ancladas a un día de un mes, con diferencias</text>
+<text x="289" y="144">entre calendarios.</text>
+<rect x="24" y="162" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="162" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="188">Ciclo móvil</text>
+<text x="289" y="188">La fecha de Pascua ordena el tiempo previo y las</text>
+<text x="289" y="212">fiestas que la siguen.</text>
+<rect x="24" y="230" width="712" height="54" fill="#eef5f7"/>
+<rect x="24" y="230" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="256">Ciclo semanal</text>
+<text x="289" y="256">El domingo y otros días adquieren usos estables.</text>
+<rect x="24" y="290" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="290" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="316">Precedencia</text>
+<text x="289" y="316">Las reglas de cada Iglesia indican qué celebrar si</text>
+<text x="289" y="340">coinciden dos fechas.</text>
+</svg>

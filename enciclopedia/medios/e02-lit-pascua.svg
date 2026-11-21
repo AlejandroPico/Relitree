@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="476" viewBox="0 0 760 476" role="img" aria-labelledby="title desc">
+<title id="title">De la Pasión a la Pascua</title><desc id="desc">Ramos. Procesión y proclamación de la Pasión en el uso romano. Jueves. Memoria de la Cena y comienzo del Triduo romano por la tarde. Viernes. Pasión y veneración en el rito romano. En el uso bizantino destacan los oficios vinculados a la sepultura. Noche pascual. Vigilia y liturgia bautismal en el rito romano. Procesión y maitines de Pascua en usos bizantinos. Cincuenta días. El domingo de Pentecostés culmina el periodo pascual.</desc>
+<style>text{font-family:system-ui,sans-serif;font-size:16px;fill:#16374a}.name{font-size:29px;font-weight:700}.label{font-weight:650}.sub{fill:#486473}.fine{font-size:12px}.place{font-size:13px;font-weight:650;paint-order:stroke;stroke:#eff8fb;stroke-width:3px;stroke-linejoin:round}</style>
+<rect width="760" height="476" fill="#fff"/>
+<text x="24" y="38" class="name">De la Pasión a la Pascua</text><text x="25" y="67" class="sub">Momentos del rito romano y casos del uso bizantino</text>
+<rect x="24" y="94" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="94" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="120">Ramos</text>
+<text x="289" y="120">Procesión y proclamación de la Pasión en el uso</text>
+<text x="289" y="144">romano.</text>
+<rect x="24" y="162" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="162" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="188">Jueves</text>
+<text x="289" y="188">Memoria de la Cena y comienzo del Triduo romano por</text>
+<text x="289" y="212">la tarde.</text>
+<rect x="24" y="230" width="712" height="86" fill="#eef5f7"/>
+<rect x="24" y="230" width="4" height="86" fill="#2f7186"/>
+<text class="label" x="40" y="256">Viernes</text>
+<text x="289" y="256">Pasión y veneración en el rito romano. En el uso</text>
+<text x="289" y="280">bizantino destacan los oficios vinculados a la</text>
+<text x="289" y="304">sepultura.</text>
+<rect x="24" y="322" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="322" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="348">Noche pascual</text>
+<text x="289" y="348">Vigilia y liturgia bautismal en el rito romano.</text>
+<text x="289" y="372">Procesión y maitines de Pascua en usos bizantinos.</text>
+<rect x="24" y="390" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="390" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="416">Cincuenta días</text>
+<text x="289" y="416">El domingo de Pentecostés culmina el periodo</text>
+<text x="289" y="440">pascual.</text>
+</svg>

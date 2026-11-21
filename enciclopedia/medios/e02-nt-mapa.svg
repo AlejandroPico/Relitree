@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="706" viewBox="0 0 760 706" role="img" aria-labelledby="title desc">
+<title id="title">Ciudades del Nuevo Testamento</title><desc id="desc">Galilea y Jerusalén. Escenarios principales de los Evangelios y del comienzo de Hechos. Antioquía y Éfeso. Centros de conexión con comunidades del Mediterráneo oriental. Corinto, Filipos y Tesalónica. Ciudades que aparecen en itinerarios y cartas. Roma y Patmos. Roma cierra Hechos. Juan sitúa en Patmos el inicio de su visión. Lugares representados: Roma, Tesalónica, Filipos, Corinto, Éfeso, Patmos, Antioquía, Galilea, Jerusalén.</desc>
+<style>text{font-family:system-ui,sans-serif;font-size:16px;fill:#16374a}.name{font-size:29px;font-weight:700}.label{font-weight:650}.sub{fill:#486473}.fine{font-size:12px}.place{font-size:13px;font-weight:650;paint-order:stroke;stroke:#eff8fb;stroke-width:3px;stroke-linejoin:round}</style>
+<rect width="760" height="706" fill="#fff"/>
+<text x="24" y="38" class="name">Ciudades del Nuevo Testamento</text><text x="25" y="67" class="sub">Mapa esquemático de lugares documentados en los escritos</text>
+<rect x="28" y="99" width="704" height="303" rx="3" fill="#dceefa"/>
+<polyline points="32.0,142.0 75.2,148.8 96.8,172.4 132.8,185.9 152.0,199.4 166.4,201.1 171.2,223.0 185.6,217.9 188.0,204.4 233.6,199.4 209.6,184.2 176.0,172.4 130.4,155.5 116.0,126.8" fill="none" stroke="#6d8580" stroke-width="1.6"/>
+<polyline points="128.0,126.8 188.0,140.3 250.4,172.4 272.0,206.1 310.4,231.4 320.0,256.8 348.8,257.6 348.8,233.1 369.7,229.7 344.0,212.9 358.4,191.8 383.6,186.7 423.2,189.2 440.0,192.6 488.0,180.8 728.0,128.5" fill="none" stroke="#6d8580" stroke-width="1.6"/>
+<polyline points="728.0,190.9 632.0,172.4 536.0,180.8 488.0,179.1 485.6,187.6 449.6,196.0 418.4,211.2 430.4,225.5 447.2,233.6 448.4,250.0 504.8,263.5 536.0,253.4 584.0,266.9 648.8,255.1 653.6,272.8 645.2,287.1 632.0,317.5 622.4,339.4 612.8,344.5 569.6,349.6 540.8,342.0 512.0,348.7 478.4,354.6 392.0,341.1 356.0,332.7 272.0,331.8 245.6,364.8 32.0,379.9" fill="none" stroke="#6d8580" stroke-width="1.6"/>
+<polygon points="356.0,275.3 384.8,276.2 423.2,280.4 396.8,283.8 356.0,275.3" fill="#eaf0df" stroke="#6d8580" stroke-width="1.6"/>
+<polygon points="567.2,283.8 599.6,277.8 620.0,272.3 608.0,285.4 567.2,283.8" fill="#eaf0df" stroke="#6d8580" stroke-width="1.6"/>
+<polygon points="89.6,234.8 116.0,228.9 158.0,229.7 154.4,255.1 114.8,246.6 89.6,234.8" fill="#eaf0df" stroke="#6d8580" stroke-width="1.6"/>
+<path d="M701 151V118m-5 8 5-8 5 8" fill="none" stroke="#29516d" stroke-width="2"/><text x="696" y="112" class="fine">N</text>
+<circle cx="92.0" cy="167.3" r="4.3" fill="#253e72" stroke="white" stroke-width="1.4"/>
+<text x="104.0" y="159.3" class="place">Roma</text>
+<circle cx="342.6" cy="188.6" r="4.3" fill="#253e72" stroke="white" stroke-width="1.4"/>
+<text x="252.6" y="176.6" class="place">Tesalónica</text>
+<circle cx="375.0" cy="182.3" r="4.3" fill="#253e72" stroke="white" stroke-width="1.4"/>
+<text x="387.0" y="171.3" class="place">Filipos</text>
+<circle cx="342.1" cy="234.3" r="4.3" fill="#253e72" stroke="white" stroke-width="1.4"/>
+<text x="268.1" y="257.3" class="place">Corinto</text>
+<circle cx="448.2" cy="234.1" r="4.3" fill="#253e72" stroke="white" stroke-width="1.4"/>
+<text x="459.2" y="224.1" class="place">Éfeso</text>
+<circle cx="429.2" cy="244.8" r="4.3" fill="#253e72" stroke="white" stroke-width="1.4"/>
+<text x="399.2" y="264.8" class="place">Patmos</text>
+<circle cx="659.8" cy="263.5" r="4.3" fill="#253e72" stroke="white" stroke-width="1.4"/>
+<text x="672.8" y="255.5" class="place">Antioquía</text>
+<circle cx="644.7" cy="319.7" r="4.3" fill="#253e72" stroke="white" stroke-width="1.4"/>
+<text x="592.7" y="322.7" class="place">Galilea</text>
+<circle cx="637.3" cy="338.1" r="4.3" fill="#253e72" stroke="white" stroke-width="1.4"/>
+<text x="649.3" y="356.1" class="place">Jerusalén</text>
+<text x="37" y="395" class="fine">Costa y posiciones aproximadas. Sin itinerarios reconstruidos.</text>
+<rect x="24" y="416" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="416" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="442">Galilea y Jerusalén</text>
+<text x="289" y="442">Escenarios principales de los Evangelios y del</text>
+<text x="289" y="466">comienzo de Hechos.</text>
+<rect x="24" y="484" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="484" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="510">Antioquía y Éfeso</text>
+<text x="289" y="510">Centros de conexión con comunidades del Mediterráneo</text>
+<text x="289" y="534">oriental.</text>
+<rect x="24" y="552" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="552" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="578">Corinto, Filipos y</text>
+<text class="label" x="40" y="602">Tesalónica</text>
+<text x="289" y="578">Ciudades que aparecen en itinerarios y cartas.</text>
+<rect x="24" y="620" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="620" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="646">Roma y Patmos</text>
+<text x="289" y="646">Roma cierra Hechos. Juan sitúa en Patmos el inicio</text>
+<text x="289" y="670">de su visión.</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="384" viewBox="0 0 760 384" role="img" aria-labelledby="title desc">
+<title id="title">De los reinos al periodo helenístico</title><desc id="desc">Siglo VIII a. C.. Presión asiria, caída de Samaría y campaña de Senaquerib contra Judá. Siglo VI a. C.. Caída de Jerusalén, exilio babilónico y cambio de poder con Ciro. Época persa. Reconstrucción del templo. Esdras y Nehemías sitúan la Ley y la ciudad en primer plano. Siglo II a. C.. Conflictos bajo los seléucidas y levantamiento macabeo. Contexto de varias visiones de Daniel.</desc>
+<style>text{font-family:system-ui,sans-serif;font-size:16px;fill:#16374a}.name{font-size:29px;font-weight:700}.label{font-weight:650}.sub{fill:#486473}.fine{font-size:12px}.place{font-size:13px;font-weight:650;paint-order:stroke;stroke:#eff8fb;stroke-width:3px;stroke-linejoin:round}</style>
+<rect width="760" height="384" fill="#fff"/>
+<text x="24" y="38" class="name">De los reinos al periodo helenístico</text><text x="25" y="67" class="sub">Hitos para situar historias, profecías y poemas</text>
+<rect x="24" y="94" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="94" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="120">Siglo VIII a. C.</text>
+<text x="289" y="120">Presión asiria, caída de Samaría y campaña de</text>
+<text x="289" y="144">Senaquerib contra Judá.</text>
+<rect x="24" y="162" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="162" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="188">Siglo VI a. C.</text>
+<text x="289" y="188">Caída de Jerusalén, exilio babilónico y cambio de</text>
+<text x="289" y="212">poder con Ciro.</text>
+<rect x="24" y="230" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="230" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="256">Época persa</text>
+<text x="289" y="256">Reconstrucción del templo. Esdras y Nehemías sitúan</text>
+<text x="289" y="280">la Ley y la ciudad en primer plano.</text>
+<rect x="24" y="298" width="712" height="62" fill="#f4f6fc"/>
+<rect x="24" y="298" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="324">Siglo II a. C.</text>
+<text x="289" y="324">Conflictos bajo los seléucidas y levantamiento</text>
+<text x="289" y="348">macabeo. Contexto de varias visiones de Daniel.</text>
+</svg>

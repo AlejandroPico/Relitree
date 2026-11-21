@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="480" viewBox="0 0 760 480" role="img" aria-labelledby="title desc">
+<title id="title">Los 27 libros del Nuevo Testamento</title><desc id="desc">4 Evangelios. Mateo, Marcos, Lucas y Juan. 1 narración. Hechos de los Apóstoles. 13 cartas paulinas. Siete de atribución ampliamente aceptada y seis de autoría discutida en distinto grado. 1 exhortación. Hebreos, de autor anónimo. 7 cartas católicas. Santiago, dos de Pedro, tres de Juan y Judas. 1 apocalipsis. Apocalipsis de Juan.</desc>
+<style>text{font-family:system-ui,sans-serif;font-size:16px;fill:#16374a}.name{font-size:29px;font-weight:700}.label{font-weight:650}.sub{fill:#486473}.fine{font-size:12px}.place{font-size:13px;font-weight:650;paint-order:stroke;stroke:#eff8fb;stroke-width:3px;stroke-linejoin:round}</style>
+<rect width="760" height="480" fill="#fff"/>
+<text x="24" y="38" class="name">Los 27 libros del Nuevo Testamento</text><text x="25" y="67" class="sub">Mapa de lectura por colecciones</text>
+<rect x="24" y="94" width="712" height="54" fill="#eef5f7"/>
+<rect x="24" y="94" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="120">4 Evangelios</text>
+<text x="289" y="120">Mateo, Marcos, Lucas y Juan.</text>
+<rect x="24" y="154" width="712" height="54" fill="#f4f6fc"/>
+<rect x="24" y="154" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="180">1 narración</text>
+<text x="289" y="180">Hechos de los Apóstoles.</text>
+<rect x="24" y="214" width="712" height="62" fill="#eef5f7"/>
+<rect x="24" y="214" width="4" height="62" fill="#2f7186"/>
+<text class="label" x="40" y="240">13 cartas paulinas</text>
+<text x="289" y="240">Siete de atribución ampliamente aceptada y seis de</text>
+<text x="289" y="264">autoría discutida en distinto grado.</text>
+<rect x="24" y="282" width="712" height="54" fill="#f4f6fc"/>
+<rect x="24" y="282" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="308">1 exhortación</text>
+<text x="289" y="308">Hebreos, de autor anónimo.</text>
+<rect x="24" y="342" width="712" height="54" fill="#eef5f7"/>
+<rect x="24" y="342" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="368">7 cartas católicas</text>
+<text x="289" y="368">Santiago, dos de Pedro, tres de Juan y Judas.</text>
+<rect x="24" y="402" width="712" height="54" fill="#f4f6fc"/>
+<rect x="24" y="402" width="4" height="54" fill="#2f7186"/>
+<text class="label" x="40" y="428">1 apocalipsis</text>
+<text x="289" y="428">Apocalipsis de Juan.</text>
+</svg>
