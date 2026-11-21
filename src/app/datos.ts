@@ -16,7 +16,7 @@ export interface Trazado {
   ancho: number; regiones: Region[]; religiones: Religion[]; porId: ReadonlyMap<string, Religion>;
 }
 export interface Relacion { origen: string; destino: string; clase: string; principal: boolean; }
-export interface Articulo { id: string; grupo: string; padre: string | null; titulo: string; html?: string; orden?: number | null; }
+export interface Articulo { id: string; grupo: string; padre: string | null; titulo: string; html?: string; orden?: number | null; destino_indice?: string | null; }
 
 /** Acceso a la base SQLite generada por el backend de Python (se consulta en el navegador con WebAssembly). */
 @Injectable({ providedIn: 'root' })
@@ -90,9 +90,10 @@ export class Datos {
       }
       this.relaciones = this.filas('SELECT * FROM relaciones').map((f: any) => ({ ...f, principal: !!f.principal }));
       const indice = new Map<string, Articulo>();
-      const tieneOrden = this.filas('PRAGMA table_info(articulos)').some((columna) => columna.name === 'orden');
-      const orden = tieneOrden ? ', orden' : '';
-      for (const a of capas(`SELECT id, grupo, padre, titulo${orden} FROM articulos WHERE idioma = ?`)) indice.set(a.id, a);
+      const columnas = this.filas('PRAGMA table_info(articulos)').map((columna) => columna.name);
+      const camposOpcionales = ['orden', 'destino_indice'].filter((campo) => columnas.includes(campo));
+      const campos = ['id', 'grupo', 'padre', 'titulo', ...camposOpcionales].join(', ');
+      for (const a of capas(`SELECT ${campos} FROM articulos WHERE idioma = ?`)) indice.set(a.id, a);
       this.indice = [...indice.values()].sort((a, b) =>
         (a.orden ?? Number.MAX_SAFE_INTEGER) - (b.orden ?? Number.MAX_SAFE_INTEGER) ||
         a.titulo.localeCompare(b.titulo, this.idioma));
@@ -121,7 +122,11 @@ export class Datos {
       [this.idioma, this.base, `%${q}%`, `${q}%`, limite * 2]).map((f) => this.porId.get(f.id)!).filter(Boolean)
       .sort((a, b) => b.importancia - a.importancia).slice(0, limite);
   }
+  destinoArticulo(id: string): string {
+    return this.indice.find((entrada) => entrada.id === id)?.destino_indice ?? id;
+  }
   articulo(id: string): Articulo | null {
+    id = this.destinoArticulo(id);
     const sql = 'SELECT id, grupo, padre, titulo, html FROM articulos WHERE id = ? AND idioma = ?';
     return this.filas(sql, [id, this.idioma])[0] ?? this.filas(sql, [id, this.base])[0] ?? null;
   }

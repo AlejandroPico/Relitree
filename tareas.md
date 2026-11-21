@@ -4,6 +4,7 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E02–E03 · Reorganización del índice de Primeras comunidades y Los apóstoles. Los Doce y Matías se consultan por separado. Se añaden María Magdalena y Santiago de Jerusalén y se amplían Pedro, Pablo, Jerusalén, persecuciones y mártires. Versión 1.7.42.
 - [x] E02 · Ampliación. [«La Biblia: Antiguo Testamento»](enciclopedia/es/religiones/cristianismo/biblia/antiguo-testamento.md), 11.051 palabras de cuerpo, 2 imágenes acreditadas y 3 gráficos propios. Versión 1.7.41.
 - [x] E02 · Ampliación. [«La Biblia: Nuevo Testamento»](enciclopedia/es/religiones/cristianismo/biblia/nuevo-testamento.md), 10.123 palabras de cuerpo, 2 imágenes acreditadas y 3 gráficos propios. Versión 1.7.41.
 - [x] E02 · Ampliación. [«Liturgia y año litúrgico»](enciclopedia/es/religiones/cristianismo/vida-cristiana/liturgia-y-ano-liturgico.md), 10.163 palabras de cuerpo, 3 imágenes acreditadas y 3 gráficos propios. Versión 1.7.41.

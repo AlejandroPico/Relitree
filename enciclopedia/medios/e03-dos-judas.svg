@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="324" viewBox="0 0 760 324" role="img" aria-labelledby="title desc">
+<title id="title">Dos Judas en los Evangelios</title>
+<desc id="desc">Iscariote. Miembro de los Doce. Las cuatro narraciones de la Pasión le atribuyen la entrega. Judas de Santiago. Figura en Lucas y Hechos. Se lo suele identificar con Tadeo. Judas, no el Iscariote. En Juan 14 hace una pregunta sobre cómo se manifestará Jesús.</desc>
+<style>text{font:16px system-ui,sans-serif;fill:#19364a}.label{font-weight:660}.title{font-size:26px;font-weight:700}.subtitle{fill:#466577}</style>
+<rect width="760" height="324" fill="white"/>
+<text x="22" y="39" class="title">Dos Judas en los Evangelios</text><text x="23" y="67" class="subtitle">Nombres y funciones que las fuentes permiten distinguir</text>
+<rect x="21" y="94" width="718" height="66" fill="#e9f3f6"/>
+<rect x="21" y="94" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="120">Iscariote</text>
+<text x="280" y="120">Miembro de los Doce. Las cuatro narraciones de la</text>
+<text x="280" y="143">Pasión le atribuyen la entrega.</text>
+<rect x="21" y="166" width="718" height="66" fill="#f2f5fb"/>
+<rect x="21" y="166" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="192">Judas de Santiago</text>
+<text x="280" y="192">Figura en Lucas y Hechos. Se lo suele identificar</text>
+<text x="280" y="215">con Tadeo.</text>
+<rect x="21" y="238" width="718" height="66" fill="#e9f3f6"/>
+<rect x="21" y="238" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="264">Judas, no el Iscariote</text>
+<text x="280" y="264">En Juan 14 hace una pregunta sobre cómo se</text>
+<text x="280" y="287">manifestará Jesús.</text>
+</svg>

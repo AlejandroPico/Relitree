@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="396" viewBox="0 0 760 396" role="img" aria-labelledby="title desc">
+<title id="title">Redes de Pablo en el Mediterráneo</title>
+<desc id="desc">Cilicia, Damasco y Jerusalén. Orígenes, experiencia de Damasco y encuentros con dirigentes. Antioquía y Éfeso. Colaboradores, enseñanza y disputas sobre pertenencia y culto. Macedonia y Grecia. Filipos, Tesalónica y Corinto. Las cartas documentan relaciones activas. Roma y el proyecto de Hispania. Hechos termina en Roma. La carta a los Romanos presenta el viaje a Hispania como intención.</desc>
+<style>text{font:16px system-ui,sans-serif;fill:#19364a}.label{font-weight:660}.title{font-size:26px;font-weight:700}.subtitle{fill:#466577}</style>
+<rect width="760" height="396" fill="white"/>
+<text x="22" y="39" class="title">Redes de Pablo en el Mediterráneo</text><text x="23" y="67" class="subtitle">Lugares presentes en cartas, en Hechos o en ambos</text>
+<rect x="21" y="94" width="718" height="66" fill="#e9f3f6"/>
+<rect x="21" y="94" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="120">Cilicia, Damasco y</text>
+<text class="label" x="37" y="143">Jerusalén</text>
+<text x="280" y="120">Orígenes, experiencia de Damasco y encuentros con</text>
+<text x="280" y="143">dirigentes.</text>
+<rect x="21" y="166" width="718" height="66" fill="#f2f5fb"/>
+<rect x="21" y="166" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="192">Antioquía y Éfeso</text>
+<text x="280" y="192">Colaboradores, enseñanza y disputas sobre</text>
+<text x="280" y="215">pertenencia y culto.</text>
+<rect x="21" y="238" width="718" height="66" fill="#e9f3f6"/>
+<rect x="21" y="238" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="264">Macedonia y Grecia</text>
+<text x="280" y="264">Filipos, Tesalónica y Corinto. Las cartas</text>
+<text x="280" y="287">documentan relaciones activas.</text>
+<rect x="21" y="310" width="718" height="66" fill="#f2f5fb"/>
+<rect x="21" y="310" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="336">Roma y el proyecto de</text>
+<text class="label" x="37" y="359">Hispania</text>
+<text x="280" y="336">Hechos termina en Roma. La carta a los Romanos</text>
+<text x="280" y="359">presenta el viaje a Hispania como intención.</text>
+</svg>

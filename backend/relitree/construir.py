@@ -27,7 +27,7 @@ CREATE TABLE religiones (
   icono TEXT, icono_credito TEXT, icono_heredado INTEGER, fieles INTEGER, fieles_max INTEGER, fieles_fuente TEXT);
 CREATE TABLE textos (idioma TEXT, id TEXT, nombre TEXT, busqueda TEXT, resumen TEXT, PRIMARY KEY (idioma, id));
 CREATE TABLE relaciones (origen TEXT, destino TEXT, clase TEXT, principal INTEGER);
-CREATE TABLE articulos (idioma TEXT, id TEXT, grupo TEXT, padre TEXT, titulo TEXT, busqueda TEXT, html TEXT, orden INTEGER, PRIMARY KEY (idioma, id));
+CREATE TABLE articulos (idioma TEXT, id TEXT, grupo TEXT, padre TEXT, titulo TEXT, busqueda TEXT, html TEXT, orden INTEGER, destino_indice TEXT, PRIMARY KEY (idioma, id));
 CREATE INDEX idx_rel_origen ON relaciones(origen);
 CREATE INDEX idx_rel_destino ON relaciones(destino);
 """
@@ -117,6 +117,7 @@ def orden_de(cabecera: str) -> int | None:
 
 def insertar_articulo(bd, idioma, md, id_articulo, grupo, padre, nombres, reserva, orden=None):
     cabecera, texto = separar_cabecera(md.read_text(encoding="utf-8-sig"))
+    destino = re.search(r"^enlace_indice:[ \t]*([\w/-]+)[ \t]*$", cabecera, re.M)
     if re.search(r"^estado:\s*completo\s*$", cabecera, re.M):
         palabras = palabras_de_cuerpo(texto)
         if palabras < 5000:
@@ -124,9 +125,11 @@ def insertar_articulo(bd, idioma, md, id_articulo, grupo, padre, nombres, reserv
     titulo = titulo_de(texto, reserva)
     if orden is None:
         orden = orden_de(cabecera)
-    bd.execute("INSERT INTO articulos VALUES (?,?,?,?,?,?,?,?)", (
-        idioma, id_articulo, grupo, padre, titulo, normalizar(titulo), a_html(texto, nombres), orden,
+    bd.execute("INSERT INTO articulos VALUES (?,?,?,?,?,?,?,?,?)", (
+        idioma, id_articulo, grupo, padre, titulo, normalizar(titulo),
+        None if destino else a_html(texto, nombres), orden, destino[1] if destino else None,
     ))
+    return not destino
 
 
 def insertar_subarticulos(bd, idioma, carpeta, prefijo, grupo, padre, nombres):
@@ -144,14 +147,13 @@ def insertar_subarticulos(bd, idioma, carpeta, prefijo, grupo, padre, nombres):
             total_hijo = insertar_subarticulos(bd, idioma, ruta, prefijo_hijo, grupo, categoria, nombres)
             mostrar_vacio = re.search(r"(?m)^mostrar_vacio:\s*true[ 	]*$", cabecera)
             if total_hijo or mostrar_vacio:
-                bd.execute("INSERT INTO articulos VALUES (?,?,?,?,?,?,?,?)", (
+                bd.execute("INSERT INTO articulos VALUES (?,?,?,?,?,?,?,?,?)", (
                     idioma, categoria, grupo, padre, titulo, normalizar(titulo), None,
-                    orden,
+                    orden, None,
                 ))
                 total += total_hijo
         elif ruta.suffix == ".md" and ruta.name != "_indice.md":
-            insertar_articulo(bd, idioma, ruta, f"{prefijo}/{ruta.stem}", grupo, padre, nombres, ruta.stem)
-            total += 1
+            total += insertar_articulo(bd, idioma, ruta, f"{prefijo}/{ruta.stem}", grupo, padre, nombres, ruta.stem)
     return total
 
 
@@ -241,6 +243,19 @@ def main() -> int:
             orden = int(numero) if separador and numero.isdigit() else None
             insertar_articulo(bd, idioma, md, f"tema:{slug}", "tema", None, nombres, slug, orden)
             n_articulos += 1
+    invalidos = bd.execute("""
+        SELECT enlace.id, enlace.destino_indice
+        FROM articulos enlace
+        WHERE enlace.destino_indice IS NOT NULL
+          AND NOT EXISTS (
+            SELECT 1 FROM articulos articulo
+            WHERE articulo.id = enlace.destino_indice
+              AND articulo.idioma IN (enlace.idioma, 'es')
+              AND articulo.html IS NOT NULL
+          )
+    """).fetchall()
+    if invalidos:
+        raise ValueError(f"Enlaces de índice sin un artículo de destino: {invalidos}")
     bd.commit(); bd.execute("VACUUM"); bd.close()
     tmp.replace(bd_ruta)
     print(f"{len(religiones)} religiones, {n_articulos} articulos; lienzo {plano['ancho_total']:.0f}x{escala.ALTO_TOTAL:.0f}; {bd_ruta.relative_to(RAIZ)}")

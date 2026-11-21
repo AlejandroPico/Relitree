@@ -32,7 +32,7 @@ Avance editorial: los dos primeros artículos se han ampliado. Los otros ocho ti
 
 ## Fase E02 · Cristianismo · Fundamentos
 
-Avance editorial. Diez de doce artículos están completos. El Antiguo y el Nuevo Testamento, Liturgia y año litúrgico, Mandamientos, sacramentos y moral y Simbología cristiana superan las 10.000 palabras de cuerpo. Quedan pendientes las entradas propias de Pedro y Pablo de Tarso.
+Avance editorial. Diez de doce artículos están completos. El Antiguo y el Nuevo Testamento, Liturgia y año litúrgico, Mandamientos, sacramentos y moral y Simbología cristiana superan las 10.000 palabras de cuerpo. Las ampliaciones de Pedro y Pablo de Tarso se sitúan en Primeras comunidades. Su revisión de fondo figura en el registro de entregas.
 
 - Cristianismo (artículo principal, por épocas)
 - La vida de Jesús de Nazaret
@@ -44,20 +44,31 @@ Avance editorial. Diez de doce artículos están completos. El Antiguo y el Nuev
 - [x] [Mandamientos, sacramentos y moral](es/religiones/cristianismo/vida-cristiana/mandamientos-sacramentos-moral.md)
 - [x] [Liturgia y año litúrgico](es/religiones/cristianismo/vida-cristiana/liturgia-y-ano-liturgico.md)
 - [x] [Simbología cristiana](es/religiones/cristianismo/vida-cristiana/simbologia.md)
-- Pedro
-- Pablo de Tarso
+- [Pedro](es/religiones/cristianismo/primeras-comunidades/figuras/pedro.md)
+- [Pablo de Tarso](es/religiones/cristianismo/primeras-comunidades/figuras/pablo-de-tarso.md)
 
 ## Fase E03 · Cristianismo · Apóstoles y primeros siglos
 
-Las doce entradas son borradores. Queda pendiente su desarrollo completo con fuentes contrastadas y recursos visuales.
+Avance editorial. Jerusalén, las persecuciones y los mártires se revisan por separado. El índice ofrece a cada apóstol una entrada individual. Matías figura por su incorporación posterior, y las primeras comunidades reúnen también perfiles de personas ajenas al grupo de los Doce. Artículos de esta ampliación que alcanzan las 10.000 palabras. Pedro, Pablo de Tarso, La Iglesia de Jerusalén y la ruptura con el judaísmo. Las demás entradas se mantienen en desarrollo.
 
-- Los apóstoles (I): Andrés, Santiago el Mayor, Juan
-- Los apóstoles (II): Felipe, Bartolomé, Tomás
-- Los apóstoles (III): Mateo, Santiago el Menor, Judas Tadeo
-- Los apóstoles (IV): Simón, Judas Iscariote, Matías
-- La Iglesia de Jerusalén y la ruptura con el judaísmo
-- Las persecuciones romanas
-- Los mártires
+- [Pedro](es/religiones/cristianismo/primeras-comunidades/figuras/pedro.md), accesible también desde Los apóstoles.
+- [Andrés](es/religiones/cristianismo/apostoles/andres.md)
+- [Santiago el Mayor](es/religiones/cristianismo/apostoles/santiago-mayor.md)
+- [Juan, hijo de Zebedeo](es/religiones/cristianismo/apostoles/juan.md)
+- [Felipe, el apóstol](es/religiones/cristianismo/apostoles/felipe.md)
+- [Bartolomé](es/religiones/cristianismo/apostoles/bartolome.md)
+- [Tomás](es/religiones/cristianismo/apostoles/tomas.md)
+- [Mateo](es/religiones/cristianismo/apostoles/mateo.md)
+- [Santiago hijo de Alfeo](es/religiones/cristianismo/apostoles/santiago-menor.md)
+- [Judas Tadeo](es/religiones/cristianismo/apostoles/judas-tadeo.md)
+- [Simón el Zelote](es/religiones/cristianismo/apostoles/simon-zelote.md)
+- [Judas Iscariote](es/religiones/cristianismo/apostoles/judas-iscariote.md)
+- [Matías](es/religiones/cristianismo/apostoles/matias.md)
+- [María Magdalena](es/religiones/cristianismo/primeras-comunidades/figuras/maria-magdalena.md)
+- [Santiago de Jerusalén](es/religiones/cristianismo/primeras-comunidades/figuras/santiago-de-jerusalen.md)
+- [x] [La Iglesia de Jerusalén y la ruptura con el judaísmo](es/religiones/cristianismo/primeras-comunidades/iglesia-de-jerusalen.md)
+- [Las persecuciones romanas](es/religiones/cristianismo/primeras-comunidades/persecuciones-romanas.md)
+- [Los mártires](es/religiones/cristianismo/primeras-comunidades/martires.md)
 - Padres apostólicos y apologistas
 - Padres de la Iglesia griegos
 - Padres de la Iglesia latinos

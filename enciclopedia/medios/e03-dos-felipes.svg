@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="324" viewBox="0 0 760 324" role="img" aria-labelledby="title desc">
+<title id="title">Los dos Felipes</title>
+<desc id="desc">Felipe, uno de los Doce. Figura en las listas. En Juan se le relaciona con Betsaida, Natanael y Andrés. Felipe, uno de los Siete. Predica en Samaría y aparece con el funcionario etíope en Hechos. Noticias de Asia Menor. Las memorias sobre Hierápolis se estudian según el nombre y los detalles que conserva cada autor.</desc>
+<style>text{font:16px system-ui,sans-serif;fill:#19364a}.label{font-weight:660}.title{font-size:26px;font-weight:700}.subtitle{fill:#466577}</style>
+<rect width="760" height="324" fill="white"/>
+<text x="22" y="39" class="title">Los dos Felipes</text><text x="23" y="67" class="subtitle">Identificar al personaje antes de combinar tradiciones</text>
+<rect x="21" y="94" width="718" height="66" fill="#e9f3f6"/>
+<rect x="21" y="94" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="120">Felipe, uno de los Doce</text>
+<text x="280" y="120">Figura en las listas. En Juan se le relaciona con</text>
+<text x="280" y="143">Betsaida, Natanael y Andrés.</text>
+<rect x="21" y="166" width="718" height="66" fill="#f2f5fb"/>
+<rect x="21" y="166" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="192">Felipe, uno de los Siete</text>
+<text x="280" y="192">Predica en Samaría y aparece con el funcionario</text>
+<text x="280" y="215">etíope en Hechos.</text>
+<rect x="21" y="238" width="718" height="66" fill="#e9f3f6"/>
+<rect x="21" y="238" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="264">Noticias de Asia Menor</text>
+<text x="280" y="264">Las memorias sobre Hierápolis se estudian según el</text>
+<text x="280" y="287">nombre y los detalles que conserva cada autor.</text>
+</svg>

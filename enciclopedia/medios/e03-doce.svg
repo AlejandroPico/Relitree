@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="396" viewBox="0 0 760 396" role="img" aria-labelledby="title desc">
+<title id="title">Los Doce y la incorporación de Matías</title>
+<desc id="desc">Durante la actividad de Jesús. Los sinópticos incluyen a Pedro y Judas Iscariote. Variantes del nombre. Mateo y Marcos enumeran a Tadeo. Lucas y Hechos nombran a Judas de Santiago. Al comienzo de Hechos. La lista contiene a once, sin Iscariote. La asamblea incorpora a Matías. Apóstol en sentido amplio. Pablo y Bernabé reciben el nombre en relación con su misión.</desc>
+<style>text{font:16px system-ui,sans-serif;fill:#19364a}.label{font-weight:660}.title{font-size:26px;font-weight:700}.subtitle{fill:#466577}</style>
+<rect width="760" height="396" fill="white"/>
+<text x="22" y="39" class="title">Los Doce y la incorporación de Matías</text><text x="23" y="67" class="subtitle">Cómo comparar las listas sin confundir etapas</text>
+<rect x="21" y="94" width="718" height="66" fill="#e9f3f6"/>
+<rect x="21" y="94" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="120">Durante la actividad de</text>
+<text class="label" x="37" y="143">Jesús</text>
+<text x="280" y="120">Los sinópticos incluyen a Pedro y Judas Iscariote.</text>
+<rect x="21" y="166" width="718" height="66" fill="#f2f5fb"/>
+<rect x="21" y="166" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="192">Variantes del nombre</text>
+<text x="280" y="192">Mateo y Marcos enumeran a Tadeo. Lucas y Hechos</text>
+<text x="280" y="215">nombran a Judas de Santiago.</text>
+<rect x="21" y="238" width="718" height="66" fill="#e9f3f6"/>
+<rect x="21" y="238" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="264">Al comienzo de Hechos</text>
+<text x="280" y="264">La lista contiene a once, sin Iscariote. La</text>
+<text x="280" y="287">asamblea incorpora a Matías.</text>
+<rect x="21" y="310" width="718" height="66" fill="#f2f5fb"/>
+<rect x="21" y="310" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="336">Apóstol en sentido amplio</text>
+<text x="280" y="336">Pablo y Bernabé reciben el nombre en relación con</text>
+<text x="280" y="359">su misión.</text>
+</svg>

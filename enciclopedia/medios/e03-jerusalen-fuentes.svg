@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="396" viewBox="0 0 760 396" role="img" aria-labelledby="title desc">
+<title id="title">Cómo se conoce la comunidad de Jerusalén</title>
+<desc id="desc">Gálatas. Testimonio de encuentros, reconocimiento de la misión y disputa en Antioquía. Hechos. Relato compuesto después sobre la formación y expansión de comunidades. Josefo. Contexto de la guerra y noticia externa sobre la muerte del hermano de Jesús. Eusebio. Memoria posterior, sucesiones y referencias a escritos antiguos.</desc>
+<style>text{font:16px system-ui,sans-serif;fill:#19364a}.label{font-weight:660}.title{font-size:26px;font-weight:700}.subtitle{fill:#466577}</style>
+<rect width="760" height="396" fill="white"/>
+<text x="22" y="39" class="title">Cómo se conoce la comunidad de Jerusalén</text><text x="23" y="67" class="subtitle">Cartas, narraciones antiguas y memoria posterior</text>
+<rect x="21" y="94" width="718" height="66" fill="#e9f3f6"/>
+<rect x="21" y="94" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="120">Gálatas</text>
+<text x="280" y="120">Testimonio de encuentros, reconocimiento de la</text>
+<text x="280" y="143">misión y disputa en Antioquía.</text>
+<rect x="21" y="166" width="718" height="66" fill="#f2f5fb"/>
+<rect x="21" y="166" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="192">Hechos</text>
+<text x="280" y="192">Relato compuesto después sobre la formación y</text>
+<text x="280" y="215">expansión de comunidades.</text>
+<rect x="21" y="238" width="718" height="66" fill="#e9f3f6"/>
+<rect x="21" y="238" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="264">Josefo</text>
+<text x="280" y="264">Contexto de la guerra y noticia externa sobre la</text>
+<text x="280" y="287">muerte del hermano de Jesús.</text>
+<rect x="21" y="310" width="718" height="66" fill="#f2f5fb"/>
+<rect x="21" y="310" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="336">Eusebio</text>
+<text x="280" y="336">Memoria posterior, sucesiones y referencias a</text>
+<text x="280" y="359">escritos antiguos.</text>
+</svg>

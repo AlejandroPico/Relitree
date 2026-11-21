@@ -1,8 +1,8 @@
 # Relitree
 
-**Versión 1.7.41**
+**Versión 1.7.42**
 
-La [enciclopedia](enciclopedia/PLAN.md#fase-e02--cristianismo--fundamentos) amplía cinco artículos de **Biblia y transmisión de los textos** y **Vida cristiana**. El Antiguo y el Nuevo Testamento incorporan un recorrido libro por libro. Los artículos de liturgia, mandamientos y sacramentos, y simbología reúnen calendarios, comparaciones entre tradiciones y ejemplos visuales.
+La [enciclopedia](enciclopedia/PLAN.md#fase-e03--cristianismo--apóstoles-y-primeros-siglos) incorpora entradas individuales para los Doce y Matías, y desarrolla Primeras comunidades con un índice que reúne sus figuras.
 
 El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto. La capa **Puentes** marca los cruces de ramas y líneas de vida en las vistas por territorios y radial. Las marcas temporales mantienen una separación visual regular. El símbolo ≈ identifica los años redondeados.
 

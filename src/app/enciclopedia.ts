@@ -320,7 +320,7 @@ export class Enciclopedia {
   desarrollo = computed(() => {
     const a = this.articulo(); if (!a) return [];
     const raiz = a.padre ?? a.id;
-    return this.datos.indice.filter((x) => x.padre === raiz && !x.id.startsWith('categoria:'));
+    return this.datos.indice.filter((x) => x.padre === raiz && !x.id.startsWith('categoria:') && !x.destino_indice);
   });
   grupos = computed(() => {
     const q = normalizar(this.filtro().trim());
@@ -340,7 +340,7 @@ export class Enciclopedia {
         .filter((hijo): hijo is EntradaIndice => hijo !== null);
       if (!hijos.length && (!coincide || (categoria && hijosDirectos.length))) return null;
       const abierto = !!q || actual?.id === articulo.id || hijos.some((hijo) => hijo.abierto);
-      const total = hijos.reduce((suma, hijo) => suma + hijo.total, categoria ? 0 : 1);
+      const total = hijos.reduce((suma, hijo) => suma + hijo.total, categoria || articulo.destino_indice ? 0 : 1);
       return { articulo, hijos, categoria, abierto, total };
     };
     const raices = (porPadre.get(null) ?? []).map((articulo) => entrada(articulo))
@@ -418,6 +418,7 @@ export class Enciclopedia {
 
   color(region: string) { return this.datos.region.get(region)!.color; }
   abrir(id: string, titulo = '') {
+    id = this.datos.destinoArticulo(id);
     if (id === this.articulo()?.id) {
       this.indiceAbierto.set(false);
       return;

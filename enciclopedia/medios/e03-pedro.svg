@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="385" viewBox="0 0 760 385" role="img" aria-labelledby="title desc">
+<title id="title">Pedro en las fuentes</title>
+<desc id="desc">Evangelios. Galilea, confesión, negaciones y relatos de Pascua. Cartas de Pablo. Encuentros en Jerusalén y conflicto de la mesa en Antioquía. Hechos. Intervenciones junto a Juan, viajes y admisión de gentiles. Recepción antigua. Memoria de su muerte y de su relación con Roma.</desc>
+<style>text{font:16px system-ui,sans-serif;fill:#19364a}.label{font-weight:660}.title{font-size:26px;font-weight:700}.subtitle{fill:#466577}</style>
+<rect width="760" height="385" fill="white"/>
+<text x="22" y="39" class="title">Pedro en las fuentes</text><text x="23" y="67" class="subtitle">Un nombre con trayectorias de transmisión diferentes</text>
+<rect x="21" y="94" width="718" height="66" fill="#e9f3f6"/>
+<rect x="21" y="94" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="120">Evangelios</text>
+<text x="280" y="120">Galilea, confesión, negaciones y relatos de</text>
+<text x="280" y="143">Pascua.</text>
+<rect x="21" y="166" width="718" height="66" fill="#f2f5fb"/>
+<rect x="21" y="166" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="192">Cartas de Pablo</text>
+<text x="280" y="192">Encuentros en Jerusalén y conflicto de la mesa en</text>
+<text x="280" y="215">Antioquía.</text>
+<rect x="21" y="238" width="718" height="66" fill="#e9f3f6"/>
+<rect x="21" y="238" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="264">Hechos</text>
+<text x="280" y="264">Intervenciones junto a Juan, viajes y admisión de</text>
+<text x="280" y="287">gentiles.</text>
+<rect x="21" y="310" width="718" height="55" fill="#f2f5fb"/>
+<rect x="21" y="310" width="4" height="55" fill="#46748a"/>
+<text class="label" x="37" y="336">Recepción antigua</text>
+<text x="280" y="336">Memoria de su muerte y de su relación con Roma.</text>
+</svg>

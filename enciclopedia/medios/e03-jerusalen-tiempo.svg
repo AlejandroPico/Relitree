@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="491" viewBox="0 0 760 491" role="img" aria-labelledby="title desc">
+<title id="title">Jerusalén y las primeras comunidades</title>
+<desc id="desc">Años 30. Primeras reuniones y tradiciones sobre la proclamación de la resurrección. Mediados del siglo I. Las cartas de Pablo documentan relaciones con dirigentes, disputas y proyectos de ayuda. Año 62, aproximadamente. Josefo sitúa la muerte de Santiago en un cambio de gobierno. 66–70. Guerra de Judea y destrucción del Templo. La noticia de Pela se conserva en fuentes posteriores. 132–135. Rebelión de Bar Kojba y transformación del marco urbano bajo Adriano.</desc>
+<style>text{font:16px system-ui,sans-serif;fill:#19364a}.label{font-weight:660}.title{font-size:26px;font-weight:700}.subtitle{fill:#466577}</style>
+<rect width="760" height="491" fill="white"/>
+<text x="22" y="39" class="title">Jerusalén y las primeras comunidades</text><text x="23" y="67" class="subtitle">Cronología de los hechos y de su memoria</text>
+<rect x="21" y="94" width="718" height="66" fill="#e9f3f6"/>
+<rect x="21" y="94" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="120">Años 30</text>
+<text x="280" y="120">Primeras reuniones y tradiciones sobre la</text>
+<text x="280" y="143">proclamación de la resurrección.</text>
+<rect x="21" y="166" width="718" height="66" fill="#f2f5fb"/>
+<rect x="21" y="166" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="192">Mediados del siglo I</text>
+<text x="280" y="192">Las cartas de Pablo documentan relaciones con</text>
+<text x="280" y="215">dirigentes, disputas y proyectos de ayuda.</text>
+<rect x="21" y="238" width="718" height="66" fill="#e9f3f6"/>
+<rect x="21" y="238" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="264">Año 62, aproximadamente</text>
+<text x="280" y="264">Josefo sitúa la muerte de Santiago en un cambio de</text>
+<text x="280" y="287">gobierno.</text>
+<rect x="21" y="310" width="718" height="89" fill="#f2f5fb"/>
+<rect x="21" y="310" width="4" height="89" fill="#46748a"/>
+<text class="label" x="37" y="336">66–70</text>
+<text x="280" y="336">Guerra de Judea y destrucción del Templo. La</text>
+<text x="280" y="359">noticia de Pela se conserva en fuentes</text>
+<text x="280" y="382">posteriores.</text>
+<rect x="21" y="405" width="718" height="66" fill="#e9f3f6"/>
+<rect x="21" y="405" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="431">132–135</text>
+<text x="280" y="431">Rebelión de Bar Kojba y transformación del marco</text>
+<text x="280" y="454">urbano bajo Adriano.</text>
+</svg>

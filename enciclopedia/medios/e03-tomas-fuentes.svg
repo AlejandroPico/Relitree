@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="374" viewBox="0 0 760 374" role="img" aria-labelledby="title desc">
+<title id="title">Tomás a través de sus testimonios</title>
+<desc id="desc">Juan. Escenas de Judea, la despedida y el encuentro en Pascua. Eusebio. Recoge una tradición que lo vincula con Partia. Hechos de Tomás. Narración apócrifa de una misión hacia la India. Comunidades de la India. Tradiciones y documentación sobre una memoria cristiana que se desarrolló allí.</desc>
+<style>text{font:16px system-ui,sans-serif;fill:#19364a}.label{font-weight:660}.title{font-size:26px;font-weight:700}.subtitle{fill:#466577}</style>
+<rect width="760" height="374" fill="white"/>
+<text x="22" y="39" class="title">Tomás a través de sus testimonios</text><text x="23" y="67" class="subtitle">De los Evangelios a las tradiciones de misión</text>
+<rect x="21" y="94" width="718" height="66" fill="#e9f3f6"/>
+<rect x="21" y="94" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="120">Juan</text>
+<text x="280" y="120">Escenas de Judea, la despedida y el encuentro en</text>
+<text x="280" y="143">Pascua.</text>
+<rect x="21" y="166" width="718" height="55" fill="#f2f5fb"/>
+<rect x="21" y="166" width="4" height="55" fill="#46748a"/>
+<text class="label" x="37" y="192">Eusebio</text>
+<text x="280" y="192">Recoge una tradición que lo vincula con Partia.</text>
+<rect x="21" y="227" width="718" height="55" fill="#e9f3f6"/>
+<rect x="21" y="227" width="4" height="55" fill="#46748a"/>
+<text class="label" x="37" y="253">Hechos de Tomás</text>
+<text x="280" y="253">Narración apócrifa de una misión hacia la India.</text>
+<rect x="21" y="288" width="718" height="66" fill="#f2f5fb"/>
+<rect x="21" y="288" width="4" height="66" fill="#46748a"/>
+<text class="label" x="37" y="314">Comunidades de la India</text>
+<text x="280" y="314">Tradiciones y documentación sobre una memoria</text>
+<text x="280" y="337">cristiana que se desarrolló allí.</text>
+</svg>
