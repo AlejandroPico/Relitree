@@ -1,8 +1,8 @@
 # Relitree
 
-**Versión 1.7.39**
+**Versión 1.7.40**
 
-La [enciclopedia](enciclopedia/PLAN.md#fase-e13--cristianismo--maría-y-figuras-mayores) incorpora las entregas 13.1 a 13.3 en **Cristianismo → María y figuras mayores**. Los seis artículos reúnen biografías, fuentes, reproducciones históricas y esquemas. El botón **Aa** permite ajustar la presentación del texto.
+La [enciclopedia](enciclopedia/PLAN.md#fase-e13--cristianismo--maría-y-figuras-mayores) completa las doce lecturas del fascículo 13 en **Cristianismo → María y figuras mayores**. Las entregas 13.4 a 13.6 incorporan a Ignacio de Loyola y Juan Wesley, los patriarcados de Constantinopla y Moscú, el monte Athos y el arte bizantino.
 
 El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto. La capa **Puentes** marca los cruces de ramas y líneas de vida en las vistas por territorios y radial. Las marcas temporales mantienen una separación visual regular. El símbolo ≈ identifica los años redondeados.
 

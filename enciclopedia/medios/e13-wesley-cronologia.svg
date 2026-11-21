@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 537" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Juan Wesley y el metodismo temprano</title>
+<desc id="detalle">1703–1735. Nacimiento en Epworth, formación en Oxford y ministerio anglicano. 1736–1738. Estancia en Georgia y regreso a Inglaterra. Reunión de Aldersgate en mayo de 1738. 1739–1744. Predicación al aire libre, New Room de Bristol y primera conferencia metodista. 1774. Publicación de Thoughts upon Slavery. 1784. Envío del Sunday Service y Conferencia de Navidad en Baltimore. 1791. Muerte en Londres. Las sociedades siguen trayectorias propias.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#193144}.title{font-size:27px;font-weight:650}.label{font-weight:650}.subtitle{fill:#4b6576}.grid-note{font-size:12px;fill:#415c6f}.map-label{font-size:15px;paint-order:stroke;stroke:#eef6f8;stroke-width:4px;stroke-linejoin:round}</style>
+<rect width="740" height="537" fill="white"/>
+<text class="title" x="20" y="39">Juan Wesley y el metodismo temprano</text>
+<text class="subtitle" x="20" y="70">De Epworth a la organización de una Iglesia en Norteamérica</text>
+<rect x="20" y="100" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="100" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="125">1703–1735</text>
+<text x="267" y="125">Nacimiento en Epworth, formación en Oxford y</text>
+<text x="267" y="148">ministerio anglicano.</text>
+<rect x="20" y="172" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="172" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="197">1736–1738</text>
+<text x="267" y="197">Estancia en Georgia y regreso a Inglaterra.</text>
+<text x="267" y="220">Reunión de Aldersgate en mayo de 1738.</text>
+<rect x="20" y="244" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="244" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="269">1739–1744</text>
+<text x="267" y="269">Predicación al aire libre, New Room de Bristol</text>
+<text x="267" y="292">y primera conferencia metodista.</text>
+<rect x="20" y="316" width="700" height="56" fill="#f7f9fc"/>
+<rect x="20" y="316" width="5" height="56" fill="#47748d"/>
+<text class="label" x="39" y="341">1774</text>
+<text x="267" y="341">Publicación de Thoughts upon Slavery.</text>
+<rect x="20" y="377" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="377" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="402">1784</text>
+<text x="267" y="402">Envío del Sunday Service y Conferencia de</text>
+<text x="267" y="425">Navidad en Baltimore.</text>
+<rect x="20" y="449" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="449" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="474">1791</text>
+<text x="267" y="474">Muerte en Londres. Las sociedades siguen</text>
+<text x="267" y="497">trayectorias propias.</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 465" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Qué expresa cada vínculo</title>
+<desc id="detalle">Precedencia. Lugar de una sede en un orden de honor. Jurisdicción. Responsabilidad eclesiástica ejercida en una sede o territorio. Comisión de diálogo. Formula convergencias y cuestiones pendientes en un ámbito de trabajo común. Declaración conjunta. Expresa lo acordado por los firmantes en un asunto y una fecha concretos. Tomos. Formaliza un acto como la concesión o reconocimiento de una autocefalia.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#193144}.title{font-size:27px;font-weight:650}.label{font-weight:650}.subtitle{fill:#4b6576}.grid-note{font-size:12px;fill:#415c6f}.map-label{font-size:15px;paint-order:stroke;stroke:#eef6f8;stroke-width:4px;stroke-linejoin:round}</style>
+<rect width="740" height="465" fill="white"/>
+<text class="title" x="20" y="39">Qué expresa cada vínculo</text>
+<text class="subtitle" x="20" y="70">Precedencia, jurisdicción y acuerdo entre Iglesias</text>
+<rect x="20" y="100" width="700" height="56" fill="#f0f5f8"/>
+<rect x="20" y="100" width="5" height="56" fill="#47748d"/>
+<text class="label" x="39" y="125">Precedencia</text>
+<text x="267" y="125">Lugar de una sede en un orden de honor.</text>
+<rect x="20" y="161" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="161" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="186">Jurisdicción</text>
+<text x="267" y="186">Responsabilidad eclesiástica ejercida en una</text>
+<text x="267" y="209">sede o territorio.</text>
+<rect x="20" y="233" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="233" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="258">Comisión de diálogo</text>
+<text x="267" y="258">Formula convergencias y cuestiones pendientes</text>
+<text x="267" y="281">en un ámbito de trabajo común.</text>
+<rect x="20" y="305" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="305" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="330">Declaración conjunta</text>
+<text x="267" y="330">Expresa lo acordado por los firmantes en un</text>
+<text x="267" y="353">asunto y una fecha concretos.</text>
+<rect x="20" y="377" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="377" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="402">Tomos</text>
+<text x="267" y="402">Formaliza un acto como la concesión o</text>
+<text x="267" y="425">reconocimiento de una autocefalia.</text>
+</svg>

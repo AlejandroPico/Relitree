@@ -2,7 +2,7 @@
 estado: completo
 fase: E05
 orden: 1545
-palabras: 5082
+palabras: 5085
 fuentes:
   - "https://www.papalencyclicals.net/councils/trent/the-complete-text.htm"
   - "https://history.hanover.edu/texts/trent.html"
@@ -185,6 +185,10 @@ Trento dejó formulaciones duraderas para la Iglesia católica y transformó los
 
 - [[cristianismo/santos/culto-canonizacion-y-reliquias|Los santos: culto, canonización y reliquias]]
 - [[cristianismo/santos/santos-de-la-edad-moderna-y-contemporanea|Santos de la Edad Moderna y contemporánea]]
+
+## Lecturas relacionadas
+
+- [[cristianismo/maria-y-figuras-mayores/ignacio-de-loyola|Ignacio de Loyola]]
 
 ## Fuentes
 

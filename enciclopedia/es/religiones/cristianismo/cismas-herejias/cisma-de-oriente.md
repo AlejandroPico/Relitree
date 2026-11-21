@@ -2,7 +2,7 @@
 estado: completo
 fase: E06
 orden: 3
-palabras: 5157
+palabras: 5163
 fuentes:
   - "https://www.cambridge.org/core/books/abs/cambridge-history-of-the-papacy/schism-of-1054/70C9594AB09FBB67487F1BF00BF7CCEE"
   - "https://academic.oup.com/book/5994"
@@ -196,6 +196,11 @@ Por otra parte, algunas decisiones de unión se presentan como hechos consumados
 El año 1054 conserva su utilidad. Permite situar actos identificables, reconstruir una embajada y remitir a documentos que pueden leerse uno junto al otro. Fechar de la misma manera una separación de siglos sería confundir la fecha de un acto con el proceso mediante el que sus protagonistas y sucesores fueron delimitando sus comunidades. Para seguir ese proceso ayudan otras preguntas. ¿Cuándo cambiaron los titulares de una iglesia y quién los reconoció? ¿Qué hicieron quienes debían celebrar, negociar, viajar o recurrir a una autoridad de otro rito? ¿Qué recuerdos de una guerra se convirtieron en argumento contra un acuerdo? Estas preguntas explican por qué los años 1204, 1274, 1439 y 1965 también son necesarios para contar la historia. [1–2, 7, 10–15]
 
 En una reconstrucción de conjunto conviene empezar por los documentos que fijan el acto y después ampliar la escala. La correspondencia permite establecer si otras sedes se dieron por implicadas. Las crónicas muestran cómo interpretaron el conflicto personas situadas en ámbitos diferentes. Los decretos de unión dan a conocer qué concesiones podían formular unos delegados. La historia de su aplicación exige, además, testimonios de las comunidades llamadas a reconocerlas. En el Cisma de Oriente, conectar esas escalas deja ver una división que afectó a instituciones, doctrinas y memorias colectivas, así como una sucesión de esfuerzos para negociar el significado de la unidad. [2–5, 10–17]
+
+## Lecturas relacionadas
+
+- [[cristianismo/maria-y-figuras-mayores/patriarcas-de-constantinopla|Patriarcas de Constantinopla]]
+- [[cristianismo/maria-y-figuras-mayores/patriarcas-de-moscu|Patriarcas de Moscú]]
 
 ## Fuentes
 

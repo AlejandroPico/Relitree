@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 620" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">La sede de Constantinopla</title>
+<desc id="detalle">381 y 451. Constantinopla I y Calcedonia fijan precedencia y atribuciones. 1204–1261. Conquista latina, sede ortodoxa en Nicea y regreso a Constantinopla. 1453–1454. Conquista otomana y patriarcado de Genadio II Escolario. Siglo XIX. Reformas otomanas, reglamentos y reorganización eclesiástica. 1920–1923. Carta ecuménica y Convenio de Lausana sobre intercambio de poblaciones. 1964–1965. Encuentro de Atenágoras y Pablo VI y declaración conjunta. 2016–2019. Concilio de Creta y tomos de autocefalia para la Iglesia ortodoxa de Ucrania.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#193144}.title{font-size:27px;font-weight:650}.label{font-weight:650}.subtitle{fill:#4b6576}.grid-note{font-size:12px;fill:#415c6f}.map-label{font-size:15px;paint-order:stroke;stroke:#eef6f8;stroke-width:4px;stroke-linejoin:round}</style>
+<rect width="740" height="620" fill="white"/>
+<text class="title" x="20" y="39">La sede de Constantinopla</text>
+<text class="subtitle" x="20" y="70">Fechas para comparar con la cronología de Moscú</text>
+<rect x="20" y="100" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="100" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="125">381 y 451</text>
+<text x="267" y="125">Constantinopla I y Calcedonia fijan precedencia</text>
+<text x="267" y="148">y atribuciones.</text>
+<rect x="20" y="172" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="172" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="197">1204–1261</text>
+<text x="267" y="197">Conquista latina, sede ortodoxa en Nicea y</text>
+<text x="267" y="220">regreso a Constantinopla.</text>
+<rect x="20" y="244" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="244" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="269">1453–1454</text>
+<text x="267" y="269">Conquista otomana y patriarcado de Genadio II</text>
+<text x="267" y="292">Escolario.</text>
+<rect x="20" y="316" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="316" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="341">Siglo XIX</text>
+<text x="267" y="341">Reformas otomanas, reglamentos y reorganización</text>
+<text x="267" y="364">eclesiástica.</text>
+<rect x="20" y="388" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="388" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="413">1920–1923</text>
+<text x="267" y="413">Carta ecuménica y Convenio de Lausana sobre</text>
+<text x="267" y="436">intercambio de poblaciones.</text>
+<rect x="20" y="460" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="460" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="485">1964–1965</text>
+<text x="267" y="485">Encuentro de Atenágoras y Pablo VI y</text>
+<text x="267" y="508">declaración conjunta.</text>
+<rect x="20" y="532" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="532" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="557">2016–2019</text>
+<text x="267" y="557">Concilio de Creta y tomos de autocefalia para</text>
+<text x="267" y="580">la Iglesia ortodoxa de Ucrania.</text>
+</svg>

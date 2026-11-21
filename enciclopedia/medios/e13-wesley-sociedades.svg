@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 476" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Cómo se organizaban las sociedades</title>
+<desc id="detalle">Sociedad. Reunía a personas que buscaban crecer en la vida cristiana. Clase. Grupo pequeño con un responsable. Seguimiento regular de sus miembros. Banda. Reunión más reducida para el examen mutuo y la oración. Circuito. Itinerario que permitía a predicadores servir en varias localidades. Conferencia. Punto de encuentro para discutir enseñanza, disciplina y destinos.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#193144}.title{font-size:27px;font-weight:650}.label{font-weight:650}.subtitle{fill:#4b6576}.grid-note{font-size:12px;fill:#415c6f}.map-label{font-size:15px;paint-order:stroke;stroke:#eef6f8;stroke-width:4px;stroke-linejoin:round}</style>
+<rect width="740" height="476" fill="white"/>
+<text class="title" x="20" y="39">Cómo se organizaban las sociedades</text>
+<text class="subtitle" x="20" y="70">Reunión local, ministerio itinerante y deliberación común</text>
+<rect x="20" y="100" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="100" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="125">Sociedad</text>
+<text x="267" y="125">Reunía a personas que buscaban crecer en la</text>
+<text x="267" y="148">vida cristiana.</text>
+<rect x="20" y="172" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="172" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="197">Clase</text>
+<text x="267" y="197">Grupo pequeño con un responsable. Seguimiento</text>
+<text x="267" y="220">regular de sus miembros.</text>
+<rect x="20" y="244" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="244" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="269">Banda</text>
+<text x="267" y="269">Reunión más reducida para el examen mutuo y la</text>
+<text x="267" y="292">oración.</text>
+<rect x="20" y="316" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="316" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="341">Circuito</text>
+<text x="267" y="341">Itinerario que permitía a predicadores servir</text>
+<text x="267" y="364">en varias localidades.</text>
+<rect x="20" y="388" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="388" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="413">Conferencia</text>
+<text x="267" y="413">Punto de encuentro para discutir enseñanza,</text>
+<text x="267" y="436">disciplina y destinos.</text>
+</svg>

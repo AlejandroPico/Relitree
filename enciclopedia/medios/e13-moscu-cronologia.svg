@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 681" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">La sede de Moscú</title>
+<desc id="detalle">988 y 1448. Cristianización vinculada a Kiev y elección de Jonás en Moscú. 1589–1593. Reconocimiento de Job y confirmación del lugar de la sede. 1666–1667. Deposición de Nikon y confirmación de la reforma litúrgica. 1721–1917. Periodo sinodal con supervisión imperial. 1917–1918. Concilio y restauración del patriarcado con Tijón. 1943. Elección de Sergio tras el cambio de política soviética en la guerra. 1970 y 2007. Tomos de la Iglesia ortodoxa en América y acta con la Iglesia rusa fuera de Rusia. 2018–2019. Disputa entre las sedes de Moscú y Constantinopla en torno a Ucrania.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#193144}.title{font-size:27px;font-weight:650}.label{font-weight:650}.subtitle{fill:#4b6576}.grid-note{font-size:12px;fill:#415c6f}.map-label{font-size:15px;paint-order:stroke;stroke:#eef6f8;stroke-width:4px;stroke-linejoin:round}</style>
+<rect width="740" height="681" fill="white"/>
+<text class="title" x="20" y="39">La sede de Moscú</text>
+<text class="subtitle" x="20" y="70">Fechas para comparar con la cronología de Constantinopla</text>
+<rect x="20" y="100" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="100" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="125">988 y 1448</text>
+<text x="267" y="125">Cristianización vinculada a Kiev y elección de</text>
+<text x="267" y="148">Jonás en Moscú.</text>
+<rect x="20" y="172" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="172" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="197">1589–1593</text>
+<text x="267" y="197">Reconocimiento de Job y confirmación del lugar</text>
+<text x="267" y="220">de la sede.</text>
+<rect x="20" y="244" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="244" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="269">1666–1667</text>
+<text x="267" y="269">Deposición de Nikon y confirmación de la</text>
+<text x="267" y="292">reforma litúrgica.</text>
+<rect x="20" y="316" width="700" height="56" fill="#f7f9fc"/>
+<rect x="20" y="316" width="5" height="56" fill="#47748d"/>
+<text class="label" x="39" y="341">1721–1917</text>
+<text x="267" y="341">Periodo sinodal con supervisión imperial.</text>
+<rect x="20" y="377" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="377" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="402">1917–1918</text>
+<text x="267" y="402">Concilio y restauración del patriarcado con</text>
+<text x="267" y="425">Tijón.</text>
+<rect x="20" y="449" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="449" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="474">1943</text>
+<text x="267" y="474">Elección de Sergio tras el cambio de política</text>
+<text x="267" y="497">soviética en la guerra.</text>
+<rect x="20" y="521" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="521" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="546">1970 y 2007</text>
+<text x="267" y="546">Tomos de la Iglesia ortodoxa en América y acta</text>
+<text x="267" y="569">con la Iglesia rusa fuera de Rusia.</text>
+<rect x="20" y="593" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="593" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="618">2018–2019</text>
+<text x="267" y="618">Disputa entre las sedes de Moscú y</text>
+<text x="267" y="641">Constantinopla en torno a Ucrania.</text>
+</svg>

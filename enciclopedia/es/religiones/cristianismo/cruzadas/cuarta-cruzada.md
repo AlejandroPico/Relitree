@@ -2,7 +2,7 @@
 estado: completo
 fase: E07
 orden: 120200
-palabras: 5070
+palabras: 5073
 fuentes:
   - "https://www.cambridge.org/core/books/abs/cambridge-history-of-the-crusades/fourth-crusade/48A954754C2F456962361870290B43C7"
   - "https://www.pennpress.org/9780812217131/the-fourth-crusade/"
@@ -202,6 +202,10 @@ Una explicación que atribuye el desenlace a un único motivo parte de pruebas i
 La toma y el saqueo dieron lugar a interpretaciones religiosas y políticas de alcance diferente. Algunas fuentes latinas legitimaron el resultado y algunas bizantinas interpretaron la crisis a la luz de problemas internos y de la violencia de los extranjeros. Las cartas papales y las reacciones locales conservan valoraciones que cambiaron con el tiempo. La relación entre los cristianos latinos y griegos se deterioró y las negociaciones posteriores tuvieron que responder a nuevas pérdidas y reclamaciones. El artículo sobre el [[cristianismo/cismas-herejias/cisma-de-oriente|Cisma de Oriente]] sitúa esa consecuencia en una historia de mayor duración. [1, 3–7]
 
 El recorrido que comenzó con un contrato de transporte terminó modificando el gobierno de grandes ciudades y las relaciones de distintos poderes mediterráneos. Para seguir sus consecuencias más allá de 1204 conviene pasar de las crónicas de la expedición a la documentación del Imperio latino y de sus vecinos. Allí aparecen el reparto efectivo de bienes, la resistencia, los acuerdos que sustentaron nuevas instituciones y la recuperación de la capital en 1261. La [[cristianismo/cruzadas/panorama|visión de conjunto]] permite situar esta guerra respecto a las expediciones que sí actuaron en Egipto o el Levante. [1–2, 7–8, 10]
+
+## Lecturas relacionadas
+
+- [[cristianismo/maria-y-figuras-mayores/patriarcas-de-constantinopla|Patriarcas de Constantinopla]]
 
 ## Fuentes
 

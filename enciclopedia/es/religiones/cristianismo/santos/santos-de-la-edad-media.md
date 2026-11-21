@@ -2,7 +2,7 @@
 estado: completo
 fase: E12
 orden: 30
-palabras: 5077
+palabras: 5082
 fuentes:
   - "https://obnb.uk/p8761919-sainthood-in-the-later-middle-ages"
   - "https://www.utupub.fi/server/api/core/bitstreams/67599ecc-8db8-417e-b643-8476c6068444/content"
@@ -200,6 +200,7 @@ En las ciudades episcopales, un templo podía atraer donaciones de personas que 
 
 ## Lecturas relacionadas
 
+- [[cristianismo/maria-y-figuras-mayores/monacato-oriental-el-monte-athos|Monacato oriental: el monte Athos]]
 - [[cristianismo/maria-y-figuras-mayores/francisco-de-asis|Francisco de Asís]]
 - [[cristianismo/maria-y-figuras-mayores/tomas-de-aquino|Tomás de Aquino]]
 

@@ -2,7 +2,7 @@
 estado: completo
 fase: E12
 orden: 40
-palabras: 5043
+palabras: 5046
 fuentes:
   - "https://www.degruyterbrill.com/de/document/doi/10.1515/jemc-2022-2028/html"
   - "https://www.britannica.com/biography/Saint-Ignatius-of-Loyola"
@@ -198,6 +198,7 @@ La ampliación geográfica de las causas ofrece un problema comparable. Las comu
 
 ## Lecturas relacionadas
 
+- [[cristianismo/maria-y-figuras-mayores/ignacio-de-loyola|Ignacio de Loyola]]
 - [[cristianismo/maria-y-figuras-mayores/teresa-de-avila-y-juan-de-la-cruz|Teresa de Ávila y Juan de la Cruz]]
 
 ## Fuentes

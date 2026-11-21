@@ -2,7 +2,7 @@
 estado: completo
 fase: E04
 orden: 787
-palabras: 5135
+palabras: 5139
 fuentes:
   - "https://www.jstor.org/stable/jj.38238639"
   - "https://www.newadvent.org/fathers/3819.htm"
@@ -186,6 +186,10 @@ La definición ofrece una distinción normativa entre honor y adoración. La pr�
 ## Biografías relacionadas
 
 - [[cristianismo/santos/culto-canonizacion-y-reliquias|Los santos: culto, canonización y reliquias]]
+
+## Lecturas relacionadas
+
+- [[cristianismo/maria-y-figuras-mayores/iconos-y-arte-bizantino|Iconos y arte bizantino]]
 
 ## Fuentes
 

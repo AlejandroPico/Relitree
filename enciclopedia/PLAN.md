@@ -241,12 +241,12 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 - [x] 13.2 · [Tomás de Aquino](es/religiones/cristianismo/maria-y-figuras-mayores/tomas-de-aquino.md)
 - [x] 13.3 · [Francisco de Asís](es/religiones/cristianismo/maria-y-figuras-mayores/francisco-de-asis.md)
 - [x] 13.3 · [Teresa de Ávila y Juan de la Cruz](es/religiones/cristianismo/maria-y-figuras-mayores/teresa-de-avila-y-juan-de-la-cruz.md)
-- Ignacio de Loyola
-- Juan Wesley
-- Patriarcas de Constantinopla
-- Patriarcas de Moscú
-- Monacato oriental: el monte Athos
-- Iconos y arte bizantino
+- [x] 13.4 · [Ignacio de Loyola](es/religiones/cristianismo/maria-y-figuras-mayores/ignacio-de-loyola.md)
+- [x] 13.4 · [Juan Wesley](es/religiones/cristianismo/maria-y-figuras-mayores/juan-wesley.md)
+- [x] 13.5 · [Patriarcas de Constantinopla](es/religiones/cristianismo/maria-y-figuras-mayores/patriarcas-de-constantinopla.md)
+- [x] 13.5 · [Patriarcas de Moscú](es/religiones/cristianismo/maria-y-figuras-mayores/patriarcas-de-moscu.md)
+- [x] 13.6 · [Monacato oriental: el monte Athos](es/religiones/cristianismo/maria-y-figuras-mayores/monacato-oriental-el-monte-athos.md)
+- [x] 13.6 · [Iconos y arte bizantino](es/religiones/cristianismo/maria-y-figuras-mayores/iconos-y-arte-bizantino.md)
 
 ## Fase E14 · Cristianismo · tradiciones (1/9)
 

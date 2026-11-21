@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 782" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Monasterios del monte Athos</title>
+<desc id="detalle">Entrada y centro. Dafní es un puerto de acceso. Karyés reúne órganos de la comunidad. Costa oriental. Vatopedi e Iviron dan referencias a lo largo de esta vertiente. Costa occidental. Simonos Petra aprovecha un emplazamiento elevado sobre el mar. Extremo meridional. La cumbre y la Gran Laura ocupan sectores distintos en la parte más montañosa.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#193144}.title{font-size:27px;font-weight:650}.label{font-weight:650}.subtitle{fill:#4b6576}.grid-note{font-size:12px;fill:#415c6f}.map-label{font-size:15px;paint-order:stroke;stroke:#eef6f8;stroke-width:4px;stroke-linejoin:round}</style>
+<rect width="740" height="782" fill="white"/>
+<text class="title" x="20" y="39">Monasterios del monte Athos</text>
+<text class="subtitle" x="20" y="70">Mapa esquemático del paisaje y puntos de referencia</text>
+<rect x="20" y="95" width="700" height="368" fill="#e8f3f8"/>
+<path d="M134 95 L235 95 Q253 114 259 135 Q277 153 302 163 Q328 186 363 202 Q390 206 410 216 L445 242 Q467 264 493 275 Q504 291 501 319 Q516 337 542 346 Q564 355 586 365 Q618 372 646 387 Q662 401 665 414 Q636 417 603 417 Q578 425 546 433 Q515 425 491 403 Q467 382 447 371 Q422 348 394 345 Q358 331 342 314 Q331 296 315 276 Q297 252 265 230 Q238 219 222 196 Q210 171 187 154 Q155 122 134 95 Z" fill="#d8ead6" stroke="#50715a" stroke-width="2"/>
+<path d="M80 171 V127 m-7 10 7-10 7 10" fill="none" stroke="#234d68" stroke-width="2"/>
+<text class="label" x="74" y="120">N</text>
+<text x="55" y="258" class="subtitle">Golfo Singítico</text>
+<text x="484" y="165" class="subtitle">Mar Egeo</text>
+<text x="243" y="119" class="subtitle">Hacia Uranópolis</text>
+<text x="36" y="448" class="grid-note">Posiciones aproximadas. Selección de lugares a partir del mapa del expediente UNESCO.</text>
+<circle cx="252" cy="174" r="5" fill="#234d68" stroke="white" stroke-width="1.5"/>
+<text class="label map-label" x="185" y="160">Hilandar</text>
+<circle cx="394" cy="217" r="5" fill="#234d68" stroke="white" stroke-width="1.5"/>
+<text class="label map-label" x="403" y="203">Vatopedi</text>
+<circle cx="438" cy="299" r="5" fill="#234d68" stroke="white" stroke-width="1.5"/>
+<text class="label map-label" x="365" y="289">Karyés</text>
+<circle cx="380" cy="332" r="5" fill="#234d68" stroke="white" stroke-width="1.5"/>
+<text class="label map-label" x="325" y="333">Dafní</text>
+<circle cx="489" cy="307" r="5" fill="#234d68" stroke="white" stroke-width="1.5"/>
+<text class="label map-label" x="499" y="296">Iviron</text>
+<circle cx="458" cy="366" r="5" fill="#234d68" stroke="white" stroke-width="1.5"/>
+<text class="label map-label" x="343" y="380">Simonos Petra</text>
+<path d="M543 402 l5-10 5 10 z" fill="#234d68"/>
+<text class="label map-label" x="536" y="384">Cumbre</text>
+<circle cx="632" cy="393" r="5" fill="#234d68" stroke="white" stroke-width="1.5"/>
+<text class="label map-label" x="645" y="397">Gran Laura</text>
+<rect x="20" y="478" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="478" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="503">Entrada y centro</text>
+<text x="267" y="503">Dafní es un puerto de acceso. Karyés reúne</text>
+<text x="267" y="526">órganos de la comunidad.</text>
+<rect x="20" y="550" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="550" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="575">Costa oriental</text>
+<text x="267" y="575">Vatopedi e Iviron dan referencias a lo largo de</text>
+<text x="267" y="598">esta vertiente.</text>
+<rect x="20" y="622" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="622" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="647">Costa occidental</text>
+<text x="267" y="647">Simonos Petra aprovecha un emplazamiento</text>
+<text x="267" y="670">elevado sobre el mar.</text>
+<rect x="20" y="694" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="694" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="719">Extremo meridional</text>
+<text x="267" y="719">La cumbre y la Gran Laura ocupan sectores</text>
+<text x="267" y="742">distintos en la parte más montañosa.</text>
+</svg>

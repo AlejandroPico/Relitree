@@ -2,7 +2,7 @@
 estado: completo
 fase: E06
 orden: 2
-palabras: 5160
+palabras: 5164
 fuentes:
   - "https://history.princeton.edu/about/publications/byzantium-iconoclast-era-c-680-850-history"
   - "https://academic.oup.com/book/26922/chapter/196030746"
@@ -196,6 +196,10 @@ En una iglesia donde se reemplaza una composición puede variar la decoración s
 La defensa de las imágenes se apoyó en que una obra reconocible remite a alguien. Una reliquia se relaciona con un cuerpo santo por su origen o por un contacto al que la tradición de la comunidad atribuye un significado especial. Una tabla y una reliquia podían encontrarse en la misma iglesia y recibir determinadas formas de honor. El hecho de que en ambos casos se encendiese una lámpara no convertía los dos objetos en fuentes equivalentes para el historiador. Una inscripción y los rasgos de un retrato ayudan a establecer a quién se quiso representar. Un inventario, una inscripción de traslado o la documentación de un relicario responden a preguntas sobre de dónde procedía una reliquia y cómo se identificaba. [3–4, 6, 19]
 
 También podían coexistir una tabla venerada y pinturas que narraban episodios en las paredes de la misma iglesia. La primera podía acercarse a los participantes en una celebración, mientras que las segundas acompañaban la percepción del lugar a lo largo del año. Cuando una fuente habla de «las imágenes» sin enumerar su soporte, su ubicación o las prácticas que había en torno a ellas, queda abierto a qué parte de ese conjunto se refiere. Esta precaución importa al comparar las fórmulas generales de Hieria, los objetos que permanecieron en uso y la defensa de los distintos soportes que aparece en Nicea II. [1, 3–4]
+
+## Lecturas relacionadas
+
+- [[cristianismo/maria-y-figuras-mayores/iconos-y-arte-bizantino|Iconos y arte bizantino]]
 
 ## Fuentes
 

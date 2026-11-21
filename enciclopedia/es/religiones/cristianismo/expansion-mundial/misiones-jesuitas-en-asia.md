@@ -2,7 +2,7 @@
 estado: completo
 fase: E09
 orden: 70
-palabras: 5086
+palabras: 5089
 fuentes:
   - "https://www.cambridge.org/core/books/cambridge-companion-to-the-jesuits/9A941C15F936F6CDC7F251BA584B93DC/listing"
   - "https://academic.oup.com/edited-volume/41330/chapter/352332934"
@@ -173,6 +173,10 @@ El resto de la expansión cristiana en Asia discurrió también por canales fuer
 
 
 
+
+## Lecturas relacionadas
+
+- [[cristianismo/maria-y-figuras-mayores/ignacio-de-loyola|Ignacio de Loyola]]
 
 ## Fuentes
 

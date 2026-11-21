@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 670" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Formación de la comunidad del Athos</title>
+<desc id="detalle">Siglos IX–X. Testimonios de presencia monástica y expansión de los asentamientos. 963. Fundación de la Gran Laura por Atanasio el Athonita con apoyo imperial. 972. El Tragos regula aspectos de la convivencia y el gobierno. Hacia 979–980. Fundación de Iviron por monjes georgianos. 1198. Concesión que permite la refundación de Hilandar por Simeón y Sava. Siglo XIV. Controversias del hesicasmo y nuevas campañas pictóricas y constructivas. 1782. Edición griega de la Filocalia en Venecia. 1912 y siglo XX. Transición de soberanía e incorporación al régimen constitucional griego.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#193144}.title{font-size:27px;font-weight:650}.label{font-weight:650}.subtitle{fill:#4b6576}.grid-note{font-size:12px;fill:#415c6f}.map-label{font-size:15px;paint-order:stroke;stroke:#eef6f8;stroke-width:4px;stroke-linejoin:round}</style>
+<rect width="740" height="670" fill="white"/>
+<text class="title" x="20" y="39">Formación de la comunidad del Athos</text>
+<text class="subtitle" x="20" y="70">Fundaciones, documentos y cambios de soberanía</text>
+<rect x="20" y="100" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="100" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="125">Siglos IX–X</text>
+<text x="267" y="125">Testimonios de presencia monástica y expansión</text>
+<text x="267" y="148">de los asentamientos.</text>
+<rect x="20" y="172" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="172" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="197">963</text>
+<text x="267" y="197">Fundación de la Gran Laura por Atanasio el</text>
+<text x="267" y="220">Athonita con apoyo imperial.</text>
+<rect x="20" y="244" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="244" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="269">972</text>
+<text x="267" y="269">El Tragos regula aspectos de la convivencia y</text>
+<text x="267" y="292">el gobierno.</text>
+<rect x="20" y="316" width="700" height="56" fill="#f7f9fc"/>
+<rect x="20" y="316" width="5" height="56" fill="#47748d"/>
+<text class="label" x="39" y="341">Hacia 979–980</text>
+<text x="267" y="341">Fundación de Iviron por monjes georgianos.</text>
+<rect x="20" y="377" width="700" height="67" fill="#f0f5f8"/>
+<rect x="20" y="377" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="402">1198</text>
+<text x="267" y="402">Concesión que permite la refundación de</text>
+<text x="267" y="425">Hilandar por Simeón y Sava.</text>
+<rect x="20" y="449" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="449" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="474">Siglo XIV</text>
+<text x="267" y="474">Controversias del hesicasmo y nuevas campañas</text>
+<text x="267" y="497">pictóricas y constructivas.</text>
+<rect x="20" y="521" width="700" height="56" fill="#f0f5f8"/>
+<rect x="20" y="521" width="5" height="56" fill="#47748d"/>
+<text class="label" x="39" y="546">1782</text>
+<text x="267" y="546">Edición griega de la Filocalia en Venecia.</text>
+<rect x="20" y="582" width="700" height="67" fill="#f7f9fc"/>
+<rect x="20" y="582" width="5" height="67" fill="#47748d"/>
+<text class="label" x="39" y="607">1912 y siglo XX</text>
+<text x="267" y="607">Transición de soberanía e incorporación al</text>
+<text x="267" y="630">régimen constitucional griego.</text>
+</svg>
