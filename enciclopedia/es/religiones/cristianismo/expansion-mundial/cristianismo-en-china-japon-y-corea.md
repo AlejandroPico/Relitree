@@ -2,7 +2,7 @@
 estado: completo
 fase: E09
 orden: 80
-palabras: 5023
+palabras: 5030
 fuentes:
   - "https://www.aina.org/articles/dasotns.pdf"
   - "https://academic.oup.com/book/32113/chapter-abstract/268045254"
@@ -195,6 +195,10 @@ La llegada de garantías diplomáticas para comunidades cristianas modificó otr
 
 
 
+
+## Biografías relacionadas
+
+- [[cristianismo/santos/santos-de-la-edad-moderna-y-contemporanea|Santos de la Edad Moderna y contemporánea]]
 
 ## Fuentes
 

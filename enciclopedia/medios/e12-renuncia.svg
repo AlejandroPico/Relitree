@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 391" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">La transición de 2013</title>
+<desc id="detalle">11 de febrero. Benedicto XVI anuncia su renuncia ante un consistorio. 28 de febrero. La renuncia entra en vigor a las 20.00. Comienza la sede vacante. 12 de marzo. Se abre el cónclave en la Capilla Sixtina. 13 de marzo. El colegio de electores elige a Jorge Mario Bergoglio.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="391" fill="white"/>
+<text class="title" x="20" y="39">La transición de 2013</text>
+<text class="subtitle" x="20" y="70">De la declaración de renuncia a la elección</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">11 de febrero</text>
+<text x="259" y="127">Benedicto XVI anuncia su renuncia ante un</text>
+<text x="259" y="150">consistorio.</text>
+<rect x="20" y="172" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="197">28 de febrero</text>
+<text x="259" y="197">La renuncia entra en vigor a las 20.00. Comienza</text>
+<text x="259" y="220">la sede vacante.</text>
+<rect x="20" y="242" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="242" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="267">12 de marzo</text>
+<text x="259" y="267">Se abre el cónclave en la Capilla Sixtina.</text>
+<rect x="20" y="304" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="304" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="329">13 de marzo</text>
+<text x="259" y="329">El colegio de electores elige a Jorge Mario</text>
+<text x="259" y="352">Bergoglio.</text>
+</svg>

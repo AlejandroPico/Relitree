@@ -2,7 +2,7 @@
 estado: completo
 fase: E11
 orden: 0
-palabras: 5118
+palabras: 5149
 fuentes:
   - "https://www.cambridge.org/core/books/cambridge-history-of-the-papacy/98D8D333DC99C18176A137ADEFE1FDA3"
   - "https://assets.cambridge.org/97811070/01060/frontmatter/9781107001060_frontmatter.pdf"
@@ -222,6 +222,8 @@ También hay que reconocer de qué manera llega una decisión a su destinatario.
 - [[cristianismo/papas/biografias/alejandro-vi-y-los-borgia|Alejandro VI y los Borgia]]
 - [[cristianismo/papas/biografias/pio-ix|Pío IX]]
 - [[cristianismo/papas/biografias/juan-xxiii-y-pablo-vi|Juan XXIII y Pablo VI]]
+- [[cristianismo/papas/biografias/juan-pablo-ii|Juan Pablo II]]
+- [[cristianismo/papas/biografias/benedicto-xvi-y-francisco|Benedicto XVI y Francisco]]
 
 ## Fuentes
 1. Joëlle Rollo-Koster, Robert A. Ventresca, Melodie H. Eichbauer y Miles Pattenden (eds.), The Cambridge History of the Papacy. [Consultar](https://www.cambridge.org/core/books/cambridge-history-of-the-papacy/98D8D333DC99C18176A137ADEFE1FDA3)

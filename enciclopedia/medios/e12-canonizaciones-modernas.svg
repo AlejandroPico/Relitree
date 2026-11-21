@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 469" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Vidas y reconocimientos</title>
+<desc id="detalle">1552 → 1622. Muerte de Francisco Javier y canonización por Gregorio XV. 1582 → 1622. Muerte de Teresa de Jesús y canonización en la misma ceremonia. 1617 → 1671. Muerte de Rosa de Lima y canonización bajo Clemente X. 1639 → 1962. Muerte de Martín de Porres y canonización por Juan XXIII. 1680 → 2012. Muerte de Kateri Tekakwitha y canonización por Benedicto XVI.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="469" fill="white"/>
+<text class="title" x="20" y="39">Vidas y reconocimientos</text>
+<text class="subtitle" x="20" y="70">Casos católicos de la Edad Moderna</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">1552 → 1622</text>
+<text x="259" y="127">Muerte de Francisco Javier y canonización por</text>
+<text x="259" y="150">Gregorio XV.</text>
+<rect x="20" y="172" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="197">1582 → 1622</text>
+<text x="259" y="197">Muerte de Teresa de Jesús y canonización en la</text>
+<text x="259" y="220">misma ceremonia.</text>
+<rect x="20" y="242" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="242" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="267">1617 → 1671</text>
+<text x="259" y="267">Muerte de Rosa de Lima y canonización bajo</text>
+<text x="259" y="290">Clemente X.</text>
+<rect x="20" y="312" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="312" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="337">1639 → 1962</text>
+<text x="259" y="337">Muerte de Martín de Porres y canonización por</text>
+<text x="259" y="360">Juan XXIII.</text>
+<rect x="20" y="382" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="382" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="407">1680 → 2012</text>
+<text x="259" y="407">Muerte de Kateri Tekakwitha y canonización por</text>
+<text x="259" y="430">Benedicto XVI.</text>
+</svg>

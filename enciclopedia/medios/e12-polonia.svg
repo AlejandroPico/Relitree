@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 453" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">De la visita a la negociación</title>
+<desc id="detalle">1979. Primera visita de Juan Pablo II como papa a Polonia. 1980. Las huelgas y los acuerdos de agosto alumbran Solidaridad. 1981. El gobierno impone la ley marcial. 1983 y 1987. Nuevas visitas pontificias en contextos distintos. 1989. Mesa Redonda y elecciones parcialmente libres.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="453" fill="white"/>
+<text class="title" x="20" y="39">De la visita a la negociación</text>
+<text class="subtitle" x="20" y="70">Polonia entre 1979 y 1989</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">1979</text>
+<text x="259" y="127">Primera visita de Juan Pablo II como papa a</text>
+<text x="259" y="150">Polonia.</text>
+<rect x="20" y="172" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="197">1980</text>
+<text x="259" y="197">Las huelgas y los acuerdos de agosto alumbran</text>
+<text x="259" y="220">Solidaridad.</text>
+<rect x="20" y="242" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="242" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="267">1981</text>
+<text x="259" y="267">El gobierno impone la ley marcial.</text>
+<rect x="20" y="304" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="304" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="329">1983 y 1987</text>
+<text x="259" y="329">Nuevas visitas pontificias en contextos</text>
+<text x="259" y="352">distintos.</text>
+<rect x="20" y="374" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="374" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="399">1989</text>
+<text x="259" y="399">Mesa Redonda y elecciones parcialmente libres.</text>
+</svg>

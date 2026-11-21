@@ -2,7 +2,7 @@
 estado: completo
 fase: E11
 orden: 90
-palabras: 5050
+palabras: 5064
 fuentes:
   - "https://www.vatican.va/content/vatican/es/holy-father.html"
   - "https://www.oup.com.au/books/general-interest/religious-education/9780199295814"
@@ -200,6 +200,8 @@ El caso reciente también muestra por qué la cronología distingue el cierre de
 
 - [[cristianismo/papas/biografias/pio-ix|Pío IX]]
 - [[cristianismo/papas/biografias/juan-xxiii-y-pablo-vi|Juan XXIII y Pablo VI]]
+- [[cristianismo/papas/biografias/juan-pablo-ii|Juan Pablo II]]
+- [[cristianismo/papas/biografias/benedicto-xvi-y-francisco|Benedicto XVI y Francisco]]
 
 ## Fuentes
 

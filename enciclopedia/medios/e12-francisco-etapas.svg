@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 461" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Escritos y reformas de Francisco</title>
+<desc id="detalle">2013. Evangelii gaudium propone una renovación misionera. 2015–2016. Laudato si’ y Amoris laetitia abordan ecología y familia. 2019–2020. Documento de Abu Dabi, sínodo amazónico y Fratelli tutti. 2022. Praedicate evangelium reorganiza la Curia romana. 2023–2024. Dos sesiones de la asamblea del Sínodo sobre la sinodalidad.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="461" fill="white"/>
+<text class="title" x="20" y="39">Escritos y reformas de Francisco</text>
+<text class="subtitle" x="20" y="70">Secuencia de decisiones entre 2013 y 2024</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">2013</text>
+<text x="259" y="127">Evangelii gaudium propone una renovación</text>
+<text x="259" y="150">misionera.</text>
+<rect x="20" y="172" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="197">2015–2016</text>
+<text x="259" y="197">Laudato si’ y Amoris laetitia abordan ecología y</text>
+<text x="259" y="220">familia.</text>
+<rect x="20" y="242" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="242" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="267">2019–2020</text>
+<text x="259" y="267">Documento de Abu Dabi, sínodo amazónico y</text>
+<text x="259" y="290">Fratelli tutti.</text>
+<rect x="20" y="312" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="312" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="337">2022</text>
+<text x="259" y="337">Praedicate evangelium reorganiza la Curia romana.</text>
+<rect x="20" y="374" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="374" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="399">2023–2024</text>
+<text x="259" y="399">Dos sesiones de la asamblea del Sínodo sobre la</text>
+<text x="259" y="422">sinodalidad.</text>
+</svg>

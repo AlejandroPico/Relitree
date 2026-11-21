@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 453" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Otras figuras de santidad antigua</title>
+<desc id="detalle">Antonio. Vida de un asceta egipcio transmitida bajo el nombre de Atanasio. Efrén. Himnos y otras composiciones en lengua siríaca. Macrina. Vida y diálogo de Gregorio de Nisa, su hermano. Martín. Relato de Sulpicio Severo sobre un monje y obispo en la Galia. Paula. Carta de Jerónimo sobre su vida y sus fundaciones.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="453" fill="white"/>
+<text class="title" x="20" y="39">Otras figuras de santidad antigua</text>
+<text class="subtitle" x="20" y="70">Ejemplos del siglo IV y su documentación</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">Antonio</text>
+<text x="259" y="127">Vida de un asceta egipcio transmitida bajo el</text>
+<text x="259" y="150">nombre de Atanasio.</text>
+<rect x="20" y="172" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="197">Efrén</text>
+<text x="259" y="197">Himnos y otras composiciones en lengua siríaca.</text>
+<rect x="20" y="234" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="234" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="259">Macrina</text>
+<text x="259" y="259">Vida y diálogo de Gregorio de Nisa, su hermano.</text>
+<rect x="20" y="296" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="296" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="321">Martín</text>
+<text x="259" y="321">Relato de Sulpicio Severo sobre un monje y obispo</text>
+<text x="259" y="344">en la Galia.</text>
+<rect x="20" y="366" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="366" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="391">Paula</text>
+<text x="259" y="391">Carta de Jerónimo sobre su vida y sus</text>
+<text x="259" y="414">fundaciones.</text>
+</svg>

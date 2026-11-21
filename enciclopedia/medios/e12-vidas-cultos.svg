@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 437" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">De la vida al reconocimiento</title>
+<desc id="detalle">1226 → 1228. Muerte y canonización de Francisco de Asís. 1231 → 1235. Muerte y canonización de Isabel de Hungría. 1253 → 1255. Muerte y canonización de Clara de Asís. 1380 → 1461. Muerte y canonización de Catalina de Siena. 1431 → 1920. Ejecución y canonización de Juana de Arco, tras la nulidad de 1456.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="437" fill="white"/>
+<text class="title" x="20" y="39">De la vida al reconocimiento</text>
+<text class="subtitle" x="20" y="70">Cinco trayectorias con ritmos distintos</text>
+<rect x="20" y="102" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="127">1226 → 1228</text>
+<text x="259" y="127">Muerte y canonización de Francisco de Asís.</text>
+<rect x="20" y="164" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="164" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="189">1231 → 1235</text>
+<text x="259" y="189">Muerte y canonización de Isabel de Hungría.</text>
+<rect x="20" y="226" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="226" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="251">1253 → 1255</text>
+<text x="259" y="251">Muerte y canonización de Clara de Asís.</text>
+<rect x="20" y="288" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="288" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="313">1380 → 1461</text>
+<text x="259" y="313">Muerte y canonización de Catalina de Siena.</text>
+<rect x="20" y="350" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="350" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="375">1431 → 1920</text>
+<text x="259" y="375">Ejecución y canonización de Juana de Arco, tras</text>
+<text x="259" y="398">la nulidad de 1456.</text>
+</svg>

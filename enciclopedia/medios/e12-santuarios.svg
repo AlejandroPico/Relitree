@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 329" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Tres itinerarios de peregrinación</title>
+<desc id="detalle">Cuthbert · Durham. Relatos de traslado de los restos y evangelio conservado con el cuerpo. Santiago · Compostela. Liturgia, milagros e itinerarios agrupados en el Liber Sancti Jacobi. Becket · Canterbury. Culto extendido por peregrinación, insignias y relicarios.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="329" fill="white"/>
+<text class="title" x="20" y="39">Tres itinerarios de peregrinación</text>
+<text class="subtitle" x="20" y="70">Lugares, fuentes y material de culto</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">Cuthbert · Durham</text>
+<text x="259" y="127">Relatos de traslado de los restos y evangelio</text>
+<text x="259" y="150">conservado con el cuerpo.</text>
+<rect x="20" y="172" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="197">Santiago · Compostela</text>
+<text x="259" y="197">Liturgia, milagros e itinerarios agrupados en el</text>
+<text x="259" y="220">Liber Sancti Jacobi.</text>
+<rect x="20" y="242" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="242" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="267">Becket · Canterbury</text>
+<text x="259" y="267">Culto extendido por peregrinación, insignias y</text>
+<text x="259" y="290">relicarios.</text>
+</svg>

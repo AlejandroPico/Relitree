@@ -223,15 +223,15 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 - [x] 12.2 · [Alejandro VI y los Borgia](es/religiones/cristianismo/papas/biografias/alejandro-vi-y-los-borgia.md)
 - [x] 12.3 · [Pío IX](es/religiones/cristianismo/papas/biografias/pio-ix.md)
 - [x] 12.3 · [Juan XXIII y Pablo VI](es/religiones/cristianismo/papas/biografias/juan-xxiii-y-pablo-vi.md)
-- Juan Pablo II
-- Benedicto XVI y Francisco
+- [x] 12.4 · [Juan Pablo II](es/religiones/cristianismo/papas/biografias/juan-pablo-ii.md)
+- [x] 12.4 · [Benedicto XVI y Francisco](es/religiones/cristianismo/papas/biografias/benedicto-xvi-y-francisco.md)
 
 ### Los santos
 
-- Los santos: culto, canonización y reliquias
-- Santos de la Antigüedad
-- Santos de la Edad Media
-- Santos de la Edad Moderna y contemporánea
+- [x] 12.5 · [Los santos: culto, canonización y reliquias](es/religiones/cristianismo/santos/culto-canonizacion-y-reliquias.md)
+- [x] 12.5 · [Santos de la Antigüedad](es/religiones/cristianismo/santos/santos-de-la-antiguedad.md)
+- [x] 12.6 · [Santos de la Edad Media](es/religiones/cristianismo/santos/santos-de-la-edad-media.md)
+- [x] 12.6 · [Santos de la Edad Moderna y contemporánea](es/religiones/cristianismo/santos/santos-de-la-edad-moderna-y-contemporanea.md)
 
 ## Fase E13 · Cristianismo · María y figuras mayores
 

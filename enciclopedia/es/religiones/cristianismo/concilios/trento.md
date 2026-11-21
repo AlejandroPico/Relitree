@@ -2,7 +2,7 @@
 estado: completo
 fase: E05
 orden: 1545
-palabras: 5069
+palabras: 5082
 fuentes:
   - "https://www.papalencyclicals.net/councils/trent/the-complete-text.htm"
   - "https://history.hanover.edu/texts/trent.html"
@@ -180,6 +180,11 @@ El papado, los obispos, las órdenes, las monarquías y las comunidades intervin
 El adjetivo *tridentino* puede designar un decreto de la asamblea, un libro promulgado por el papado a raíz de ella o una práctica consolidada con el tiempo en una iglesia determinada. Los tres usos se relacionan. Para averiguar de dónde procede una medida concreta conviene identificar cuál se está empleando. Un registro parroquial abierto años después de la clausura puede responder a la reforma del matrimonio, a instrucciones diocesanas posteriores y a costumbres previas de llevar constancia de actos importantes. La inscripción, la norma local y el capítulo conciliar aportan información complementaria sobre cómo se transmitió la medida. [3–7, 9, 12]
 
 Trento dejó formulaciones duraderas para la Iglesia católica y transformó los instrumentos ordinarios de supervisión y formación. Sus dieciocho años incluyen meses de negociación, sesiones en que se aplazaron asuntos y largos intervalos en que la asamblea no se reunió. La distinción entre lo discutido, lo promulgado y lo aplicado permite leer las veinticinco sesiones como parte de una historia de decisiones que se extendió más allá de 1563. Permite también situarlas en el conjunto de los [[cristianismo/concilios-ecumenicos|concilios ecuménicos]], donde la forma en que una asamblea produce y transmite sus decisiones varía según la época y las autoridades implicadas. [1–7, 12–13]
+
+## Biografías relacionadas
+
+- [[cristianismo/santos/culto-canonizacion-y-reliquias|Los santos: culto, canonización y reliquias]]
+- [[cristianismo/santos/santos-de-la-edad-moderna-y-contemporanea|Santos de la Edad Moderna y contemporánea]]
 
 ## Fuentes
 

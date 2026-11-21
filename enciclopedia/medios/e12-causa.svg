@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 461" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Cómo se investiga una causa</title>
+<desc id="detalle">Investigación local. La diócesis reúne testimonios, escritos y documentación. Examen en Roma. Se evalúan virtudes, martirio u ofrecimiento de la vida. Signos atribuidos. Los milagros se estudian según la vía y la etapa. Beatificación. Se autoriza un culto público de alcance determinado. Canonización. Se inscribe al santo para el culto de la Iglesia universal.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="461" fill="white"/>
+<text class="title" x="20" y="39">Cómo se investiga una causa</text>
+<text class="subtitle" x="20" y="70">Esquema del procedimiento católico contemporáneo</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">Investigación local</text>
+<text x="259" y="127">La diócesis reúne testimonios, escritos y</text>
+<text x="259" y="150">documentación.</text>
+<rect x="20" y="172" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="197">Examen en Roma</text>
+<text x="259" y="197">Se evalúan virtudes, martirio u ofrecimiento de</text>
+<text x="259" y="220">la vida.</text>
+<rect x="20" y="242" width="700" height="57" fill="#f2f6f9"/>
+<rect x="20" y="242" width="5" height="57" fill="#557694"/>
+<text class="label" x="39" y="267">Signos atribuidos</text>
+<text x="259" y="267">Los milagros se estudian según la vía y la etapa.</text>
+<rect x="20" y="304" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="304" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="329">Beatificación</text>
+<text x="259" y="329">Se autoriza un culto público de alcance</text>
+<text x="259" y="352">determinado.</text>
+<rect x="20" y="374" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="374" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="399">Canonización</text>
+<text x="259" y="399">Se inscribe al santo para el culto de la Iglesia</text>
+<text x="259" y="422">universal.</text>
+</svg>

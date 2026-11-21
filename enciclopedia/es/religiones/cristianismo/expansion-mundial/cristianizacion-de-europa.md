@@ -2,7 +2,7 @@
 estado: completo
 fase: E09
 orden: 10
-palabras: 5025
+palabras: 5030
 fuentes:
   - "https://obnb.uk/p8720071-the-conversion-of-europe-from-paganism-to-christianity-371-1386-ad"
   - "https://www.cambridge.org/core/books/abs/cambridge-history-of-christianity/introduction-christendom-c-600/8ADCFAC1575CC69B275E9D1D9CD47598"
@@ -203,6 +203,10 @@ Las comparaciones entre la cristianización europea y otros procesos de expansi�
 - [[cristianismo/expansion-mundial/panorama|La expansión mundial del cristianismo · Visión de conjunto]]
 - [[cristianismo/expansion-mundial/conquista-y-evangelizacion-en-america|Cristianismo en América: conquista y evangelización]]
 - [[cristianismo/cruzadas/cruzadas-balticas|Las cruzadas bálticas]]
+
+## Biografías relacionadas
+
+- [[cristianismo/santos/santos-de-la-edad-media|Santos de la Edad Media]]
 
 ## Fuentes
 

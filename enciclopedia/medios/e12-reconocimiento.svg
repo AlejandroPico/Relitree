@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 469" role="img" aria-labelledby="titulo detalle">
+<title id="titulo">Del culto local al examen romano</title>
+<desc id="detalle">Antigüedad. Comunidades conservan tumbas, relatos y aniversarios. Edad Media temprana. Elevaciones y traslaciones dan relieve al culto local. 993. Juan XV reconoce a Ulrico de Augsburgo en un caso documentado. Siglos XII–XIII. Crece la intervención pontificia y se organizan investigaciones locales. Época moderna. Nuevas normas de examen y control del culto público.</desc>
+<style>text{font:17px system-ui,sans-serif;fill:#1d3044}.title{font-size:28px;font-weight:650}.label{font-weight:650}.subtitle{fill:#455d73}</style>
+<rect width="740" height="469" fill="white"/>
+<text class="title" x="20" y="39">Del culto local al examen romano</text>
+<text class="subtitle" x="20" y="70">Etapas de un cambio en el Occidente latino</text>
+<rect x="20" y="102" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="102" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="127">Antigüedad</text>
+<text x="259" y="127">Comunidades conservan tumbas, relatos y</text>
+<text x="259" y="150">aniversarios.</text>
+<rect x="20" y="172" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="172" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="197">Edad Media temprana</text>
+<text x="259" y="197">Elevaciones y traslaciones dan relieve al culto</text>
+<text x="259" y="220">local.</text>
+<rect x="20" y="242" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="242" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="267">993</text>
+<text x="259" y="267">Juan XV reconoce a Ulrico de Augsburgo en un caso</text>
+<text x="259" y="290">documentado.</text>
+<rect x="20" y="312" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="312" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="337">Siglos XII–XIII</text>
+<text x="259" y="337">Crece la intervención pontificia y se organizan</text>
+<text x="259" y="360">investigaciones locales.</text>
+<rect x="20" y="382" width="700" height="65" fill="#f2f6f9"/>
+<rect x="20" y="382" width="5" height="65" fill="#557694"/>
+<text class="label" x="39" y="407">Época moderna</text>
+<text x="259" y="407">Nuevas normas de examen y control del culto</text>
+<text x="259" y="430">público.</text>
+</svg>

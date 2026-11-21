@@ -2,7 +2,7 @@
 estado: completo
 fase: E04
 orden: 787
-palabras: 5129
+palabras: 5135
 fuentes:
   - "https://www.jstor.org/stable/jj.38238639"
   - "https://www.newadvent.org/fathers/3819.htm"
@@ -182,6 +182,10 @@ El mosaico también sirve para delimitar lo que puede preguntarse a un objeto co
 ## Cómo leer el alcance de Nicea II
 
 La definición ofrece una distinción normativa entre honor y adoración. La práctica histórica permite investigar de qué modo se utilizó esa distinción, y el estudio material de una imagen ofrece otra clase de datos. Un lector que acude a un acta puede comprobar qué argumentos fueron escuchados y quién suscribió la decisión. Al acudir a una pintura o un mosaico puede examinar cómo llegaron a expresarse ciertas ideas por medio de formas, inscripciones y emplazamientos. Para relacionar ambas clases de fuentes importa la fecha y la procedencia de cada una. La documentación de Nicea explica la autorización y el sentido que atribuyeron a las imágenes sus defensores en 787. Las reacciones francas y bizantinas posteriores muestran el trabajo de interpretación y aplicación al que dio lugar la decisión. [1–8, 11, 13, 14]
+
+## Biografías relacionadas
+
+- [[cristianismo/santos/culto-canonizacion-y-reliquias|Los santos: culto, canonización y reliquias]]
 
 ## Fuentes
 

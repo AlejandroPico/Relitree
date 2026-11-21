@@ -1,8 +1,8 @@
 # Relitree
 
-**Versión 1.7.37**
+**Versión 1.7.38**
 
-La [enciclopedia](enciclopedia/PLAN.md#fase-e12--cristianismo--biografías-de-papas-y-santos) incorpora seis artículos del fascículo 12. Se encuentran en **Cristianismo → Los papas → Biografías**. El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
+La [enciclopedia](enciclopedia/PLAN.md#fase-e12--cristianismo--biografías-de-papas-y-santos) completa el fascículo 12. Los ocho artículos de biografías pontificias están en **Cristianismo → Los papas → Biografías**. Los cuatro artículos sobre el culto y las vidas de los santos están en **Cristianismo → Los santos**. El botón **Aa** permite ajustar la presentación del texto.
 
 El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto. La capa **Puentes** marca los cruces de ramas y líneas de vida en las vistas por territorios y radial. Las marcas temporales mantienen una separación visual regular. El símbolo ≈ identifica los años redondeados.
 
