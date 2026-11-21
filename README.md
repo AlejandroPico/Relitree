@@ -1,8 +1,8 @@
 # Relitree
 
-**Versión 1.7.34**
+**Versión 1.7.35**
 
-La [enciclopedia](enciclopedia/PLAN.md#fase-e10--cristianismo--edad-contemporánea) completa «Cristianismo en la Edad Contemporánea» con trece artículos. El último bloque recorre el ecumenismo, la doctrina social, la participación de las mujeres, las investigaciones sobre abusos, la secularización y el cristianismo actual. El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
+La [enciclopedia](enciclopedia/PLAN.md#fase-e11--cristianismo--los-papas-i) abre «Los papas (I)» con siete artículos sobre la institución y la sucesión pontificia, desde Pedro hasta la elección de Martín V en Constanza. El botón **Aa** permite ajustar la letra, el interlineado, el espacio entre párrafos y el ancho de lectura.
 
 El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto. La capa **Puentes** marca los cruces de ramas y líneas de vida en las vistas por territorios y radial. Las marcas temporales mantienen una separación visual regular. El símbolo ≈ identifica los años redondeados.
 

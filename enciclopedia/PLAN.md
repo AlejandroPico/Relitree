@@ -198,18 +198,20 @@ Estado editorial: completo, 13 de 13 artículos publicados. Entregas 10.0–10.6
 
 ## Fase E11 · Cristianismo · Los papas (I)
 
-- El papado: historia de la institución
-- Papas de los siglos I–III
-- Papas de los siglos IV–VI
-- Papas de los siglos VII–IX
-- Papas de los siglos X–XI
-- Papas de los siglos XII–XIII
-- Papas y antipapas de los siglos XIV–XV
-- Papas del Renacimiento
-- Papas de los siglos XVII–XVIII
-- Papas de los siglos XIX–XXI
-- Antipapas
-- Elección del papa: el cónclave
+Estado editorial. Completos 7 de 12 artículos, incorporados en las entregas 11.0–11.3 (versión 1.7.35). Quedan las entregas 11.4–11.6.
+
+- [x] 11.0 · [El papado: historia de la institución · Visión de conjunto](es/religiones/cristianismo/papas/panorama.md)
+- [x] 11.1 · [Papas de los siglos I–III](es/religiones/cristianismo/papas/papas-de-los-siglos-i-iii.md)
+- [x] 11.1 · [Papas de los siglos IV–VI](es/religiones/cristianismo/papas/papas-de-los-siglos-iv-vi.md)
+- [x] 11.2 · [Papas de los siglos VII–IX](es/religiones/cristianismo/papas/papas-de-los-siglos-vii-ix.md)
+- [x] 11.2 · [Papas de los siglos X–XI](es/religiones/cristianismo/papas/papas-de-los-siglos-x-xi.md)
+- [x] 11.3 · [Papas de los siglos XII–XIII](es/religiones/cristianismo/papas/papas-de-los-siglos-xii-xiii.md)
+- [x] 11.3 · [Papas y antipapas de los siglos XIV–XV](es/religiones/cristianismo/papas/papas-y-antipapas-de-los-siglos-xiv-xv.md)
+- [ ] 11.4 · Papas del Renacimiento
+- [ ] 11.4 · Papas de los siglos XVII–XVIII
+- [ ] 11.5 · Papas de los siglos XIX–XXI
+- [ ] 11.5 · Elección del papa: el cónclave
+- [ ] 11.6 · Antipapas
 
 ## Fase E12 · Cristianismo · Los papas (II) y los santos
 
