@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 438" role="img" aria-labelledby="titulo nota">
+<title id="titulo">Testimonios sobre los ebionitas</title><desc id="nota">Fechas aproximadas de las obras, desde fines del siglo II.</desc>
+<style>text{font-family:system-ui,sans-serif;fill:#203b30}.h{font-size:23px;font-weight:650}.d{font-size:19px}.t{font-size:32px;font-weight:700}</style>
+<rect width="780" height="438" fill="#f6f5ef"/>
+<text x="32" y="54" class="t">Testimonios sobre los ebionitas</text>
+<text x="32" y="86" class="d">Fechas aproximadas de las obras, desde fines del siglo II.</text>
+<rect x="32" y="115" width="716" height="67" fill="#e5eee5"/><text x="49" y="142" class="h">Ireneo · Contra las herejías I.26</text><text x="49" y="168" class="d">Evangelio asociado a Mateo, Ley y rechazo a Pablo.</text>
+<rect x="32" y="194" width="716" height="67" fill="#e5eee5"/><text x="49" y="221" class="h">Orígenes · Contra Celso V.61</text><text x="49" y="247" class="d">Distingue dos posiciones sobre el nacimiento de Jesús.</text>
+<rect x="32" y="273" width="716" height="67" fill="#e5eee5"/><text x="49" y="300" class="h">Eusebio · Historia eclesiástica III.27</text><text x="49" y="326" class="d">Recoge la distinción y atribuye un ritmo semanal.</text>
+<rect x="32" y="352" width="716" height="67" fill="#e5eee5"/><text x="49" y="379" class="h">Epifanio · Panarion 30</text><text x="49" y="405" class="d">Cita fragmentos de un evangelio y describe prácticas.</text>
+</svg>

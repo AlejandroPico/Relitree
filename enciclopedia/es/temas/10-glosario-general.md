@@ -1,13 +1,15 @@
 ---
 estado: borrador
 fase: E01
-palabras: 497
+palabras: 702
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://historicengland.org.uk/images-books/publications/radiocarbon-dating-chronological-modelling/"
+  - "https://cart.sbl-site.org/books/069566P"
+  - "https://www.oikoumene.org/es/resources/documents/baptism-eucharist-and-ministry-faith-and-order-paper-no-111-the-lima-text"
 ---
 
 # Glosario general
@@ -94,6 +96,22 @@ Unidad de la diferencia entre porcentajes. Un cambio del 20 % al 23 % equivale a
 
 En [[origenes-pensamiento-religioso|Prehistoria]], [[historia-estudio-religiones|Historia del estudio de las religiones]] y [[mapa-religioso-actual|Demografía]] se muestran sus usos en casos concretos. La ampliación añadirá términos específicos de cada fase y sus remisiones. Un mismo término podrá recoger acepciones diferentes con contexto y ejemplos.
 
+### Heresiología
+
+Estudio y clasificación polémica de doctrinas que un autor considera erróneas o contrarias a la norma que defiende. En la Antigüedad cristiana incluye catálogos con fragmentos de escritos y explicaciones sobre el origen de las corrientes. Por ejemplo, el *Panarion* de Epifanio conserva citas atribuidas a los [[ebionitas|ebionitas]] en una obra que intenta refutar sus interpretaciones.
+
+### Judeocristianismo
+
+Categoría historiográfica que puede emplearse para estudiar a seguidores de Jesús de procedencia judía, la observancia de la Ley o ciertos textos y tradiciones. Su alcance depende del criterio aplicado y del periodo. Los retratos antiguos de los [[ebionitas|ebionitas]] permiten examinar cómo se relacionan esas cuestiones y qué aspectos se preservan en testimonios diferentes.
+
+### Cristología
+
+Reflexión y conjunto de afirmaciones sobre la identidad, la condición y el papel de Jesús como Cristo. Puede estudiar nacimiento, filiación, relación con Dios, humanidad, misión, muerte y resurrección. Los testimonios reunidos para los [[ebionitas|ebionitas]] muestran por qué un relato del bautismo y una afirmación acerca del nacimiento responden a preguntas distintas.
+
+### Comunión eclesial
+
+Vínculo reconocido entre comunidades o iglesias que puede comprender compartir la fe, reconocer ministerios o participar en la misma celebración. El grado y el ámbito del reconocimiento deben constar en cada caso. El diálogo sobre bautismo, eucaristía y ministerio se estudia en [[cristianismo|Cristianismo]].
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -101,3 +119,5 @@ En [[origenes-pensamiento-religioso|Prehistoria]], [[historia-estudio-religiones
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
 - Pew Research Center. [Estudio de la composición religiosa mundial](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/).
 - Historic England. [Radiocarbon Dating and Chronological Modelling](https://historicengland.org.uk/images-books/publications/radiocarbon-dating-chronological-modelling/).
+- Epifanio de Salamina. [Panarion, § 30, traducción de Frank Williams](https://cart.sbl-site.org/books/069566P).
+- Consejo Mundial de Iglesias. [Bautismo, Eucaristía, Ministerio](https://www.oikoumene.org/es/resources/documents/baptism-eucharist-and-ministry-faith-and-order-paper-no-111-the-lima-text).

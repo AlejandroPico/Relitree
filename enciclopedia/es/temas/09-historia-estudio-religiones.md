@@ -1,12 +1,14 @@
 ---
 estado: borrador
 fase: E01
-palabras: 651
+palabras: 741
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
   - "https://doi.org/10.1086/200061"
   - "https://academic.oup.com/book/3374"
+  - "https://www.degruyterbrill.com/document/isbn/9789004217430/html"
+  - "https://www.nli.org.il/en/books/NNL_ALEPH990039698480205171/NLI"
 ---
 
 # Historia del estudio de las religiones
@@ -49,6 +51,10 @@ La revisión de «animismo» por Nurit Bird-David es un ejemplo de cómo una etn
 
 Meredith McGuire estudia el modo en que las personas componen y transmiten prácticas en la vida cotidiana. Un investigador puede comenzar por los programas oficiales de una institución y añadir observación, objetos y testimonios de actividades domésticas. La comparación hace visibles formas de aprendizaje y participación que los programas recogen con desigual detalle. Una ficha historiográfica puede resumir el método de McGuire, indicar el tipo de casos que investiga y remitir a los artículos que emplean preguntas semejantes. En futuras ampliaciones se podrán seguir otras investigaciones con el mismo criterio, junto a los problemas que suscitaron y su recepción.
 
+### Epifanio como testigo y transmisor de fragmentos
+
+Petri Luomanen estudia cómo se reconstruyen los grupos y textos judeocristianos antiguos al comparar catálogos patrísticos y valorar sus relaciones literarias. Andrew Gregory edita y comenta las citas que se atribuyen al Evangelio según los Hebreos y al Evangelio de los ebionitas. Los dos trabajos abordan preguntas distintas. El primero permite examinar atribuciones de comunidades y el segundo muestra qué alternativas surgen al ordenar y delimitar fragmentos. La entrada [[ebionitas|Ebionitas]] señala las noticias de Ireneo, Orígenes, Eusebio y Epifanio y permite seguir qué puede sostenerse a partir de cada una.
+
 ## Nota editorial
 
 La ampliación desarrollará antecedentes, filología, sociología clásica, historia comparada, debates del siglo XX y aportaciones de la antropología, el feminismo y los estudios poscoloniales. Véanse [[que-es-una-religion|Qué es una religión]] y [[textos-sagrados|Textos sagrados del mundo comparados]].
@@ -59,3 +65,5 @@ La ampliación desarrollará antecedentes, filología, sociología clásica, his
 - Kevin Schilbrack. [The Concept of Religion](https://plato.stanford.edu/entries/concept-religion/). Stanford Encyclopedia of Philosophy.
 - Nurit Bird-David. [Animism Revisited](https://doi.org/10.1086/200061). Current Anthropology 40, 1999.
 - Meredith B. McGuire. [Lived Religion: Faith and Practice in Everyday Life](https://academic.oup.com/book/3374). Oxford University Press, 2008.
+- Petri Luomanen. [Recovering Jewish-Christian Sects and Gospels](https://www.degruyterbrill.com/document/isbn/9789004217430/html).
+- Andrew Gregory. [The Gospel according to the Hebrews and the Gospel of the Ebionites](https://www.nli.org.il/en/books/NNL_ALEPH990039698480205171/NLI).

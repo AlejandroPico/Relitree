@@ -4,6 +4,9 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E14 · 14.1. [Cristianismo](enciclopedia/es/religiones/cristianismo.md), 10.118 palabras de cuerpo. [Ebionitas](enciclopedia/es/religiones/ebionitas.md), 10.056 palabras de cuerpo. Versión 1.7.47.
+  - E01 actualizado en Textos, Simbología, Calendarios, Demografía, Historiografía y Glosario. La información sobre ebionitas se atribuye a los testimonios disponibles. Faltan recuentos de población y documentación de un calendario anual.
+
 - [x] E00 · Fase completada. Búsqueda por títulos y texto, fichas resumen, galerías e integración de los metadatos editoriales. El índice de secciones resuelve la navegación interna. Versión 1.7.45.
 - [x] E03 · Cinco ampliaciones de Patrística e Iglesias e Imperio romano, cada una de más de 10.000 palabras. Historial interno del lector y barras de desplazamiento que se ocultan en reposo. Versión 1.7.43.
 - [x] E02–E03 · Reorganización del índice de Primeras comunidades y Los apóstoles. Los Doce y Matías se consultan por separado. Se añaden María Magdalena y Santiago de Jerusalén y se amplían Pedro, Pablo, Jerusalén, persecuciones y mártires. Versión 1.7.42.

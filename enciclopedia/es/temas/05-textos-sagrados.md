@@ -1,10 +1,11 @@
 ---
 estado: borrador
 fase: E01
-palabras: 750
+palabras: 847
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
+  - "https://www.nli.org.il/en/books/NNL_ALEPH990039698480205171/NLI"
 ---
 
 # Textos sagrados del mundo comparados
@@ -49,6 +50,10 @@ El repertorio de SuttaCentral permite consultar paralelos de discursos budistas 
 
 Para describir una edición se empieza por su lengua, fecha, editor y texto de base. Si incluye una traducción, se comprueba si usa una edición crítica o una versión intermedia. Para explicar el papel que ocupa en una tradición se buscan testimonios de lectura, formación y uso ritual. Estas capas de información permiten seguir el recorrido desde una composición hasta una práctica documentada y comparar, por ejemplo, una versión usada en enseñanza con una edición concebida para el estudio de variantes.
 
+### Un evangelio reconstruido a partir de citas
+
+El llamado *Evangelio de los ebionitas* se estudia a partir de fragmentos recogidos en el capítulo 30 del *Panarion* de Epifanio. El transmisor lo relaciona con Mateo y con la denominación «según los Hebreos». Ireneo y Eusebio emplean atribuciones que es preciso valorar por separado. La edición de Andrew Gregory permite comparar los fragmentos, su traducción y el contexto en que se citan. Este caso ilustra la diferencia entre un evangelio identificado en un catálogo, un corpus reconstruido por los editores y un canon reconocido por una comunidad. Los testimonios y las variantes se analizan en [[ebionitas|Ebionitas]].
+
 ## Nota editorial
 
 La ampliación comparará tradiciones judías, cristianas, musulmanas, hindúes, budistas, jainas y sijs, con atención a la pluralidad interna. Se enlazará con [[cristianismo|Cristianismo]], [[que-es-una-religion|Qué es una religión]] y el [[glosario-general|Glosario general]].
@@ -57,3 +62,4 @@ La ampliación comparará tradiciones judías, cristianas, musulmanas, hindúes,
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
 - SuttaCentral. [Acerca del proyecto y sus paralelos](https://suttacentral.net/about).
+- National Library of Israel. [Edición de Andrew Gregory de los evangelios según los Hebreos y de los ebionitas](https://www.nli.org.il/en/books/NNL_ALEPH990039698480205171/NLI).

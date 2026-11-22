@@ -1,10 +1,12 @@
 ---
 estado: borrador
 fase: E01
-palabras: 723
+palabras: 838
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
+  - "https://cart.sbl-site.org/books/069566P"
+  - "https://www.metmuseum.org/art/collection/search/635401"
 ---
 
 # Simbología religiosa comparada
@@ -49,6 +51,10 @@ La transmisión de un motivo se comprueba con series fechadas, conexiones entre 
 
 Una ficha comparativa reúne nombre, fecha, lugar, soporte, comunidad o taller cuando se conocen y función documentada. Si hay una fotografía, se añade la autoría, la licencia y el acceso al original. Si una atribución cambió, conviene indicar quién defendió cada lectura y qué observable provocó la revisión. Esta información permite contrastar el objeto con otros y abre la posibilidad de ampliar el repertorio cuando se conozcan nuevas tradiciones.
 
+### Del motivo evangélico a la imagen devocional
+
+En el relato del bautismo de Jesús que conserva Epifanio para los [[ebionitas|ebionitas]], la paloma y la luz operan como señales narrativas. La cita permite estudiar la composición de la escena y compararla con otros evangelios. Para atribuir el motivo a un emblema comunitario haría falta documentación del uso que se hacía de él en soportes concretos. Un ejemplo de otro tipo de prueba es la pintura de Nicolás Enríquez sobre la Virgen de Guadalupe, fechada en 1773 y conservada en el Metropolitan Museum. La imagen reúne una figura de devoción y cuatro episodios de su relato. El artículo [[cristianismo|Cristianismo]] incorpora la reproducción acreditada y sitúa los testimonios que se necesitan para conocer su uso.
+
 ## Nota editorial
 
 Este borrador se ampliará con documentación de piezas y sus licencias, categorías visuales y cambios de sentido. [[como-leer|Cómo leer el árbol]] explica los emblemas del proyecto. [[origenes-pensamiento-religioso|Prehistoria]] aborda los límites para interpretar figuras antiguas sin textos.
@@ -57,3 +63,5 @@ Este borrador se ampliará con documentación de piezas y sus licencias, categor
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
 - Relitree. [Convenciones de símbolos y créditos](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
+- Epifanio de Salamina. [Panarion, § 30, traducción de Frank Williams](https://cart.sbl-site.org/books/069566P).
+- The Metropolitan Museum of Art. [La Virgen de Guadalupe con las cuatro apariciones](https://www.metmuseum.org/art/collection/search/635401).

@@ -1,11 +1,14 @@
 ---
 estado: borrador
 fase: E01
-palabras: 720
+palabras: 874
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
   - "https://www.pewresearch.org/religion/2025/06/09/global-religious-change-methodology/"
+  - "https://www.newadvent.org/fathers/0103126.htm"
+  - "https://www.newadvent.org/fathers/250103.htm"
+  - "https://www.pewresearch.org/religion/2025/06/09/christian-population-change/"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -54,6 +57,12 @@ Una agrupación internacional puede incluir comunidades de ámbito reducido dent
 
 La referencia junto a una cifra debe permitir identificar la tabla, el territorio, el año registrado y la población a la que se refiere. Conviene separar porcentajes de números absolutos y anotar qué tipo de medición se aplicó, como afiliación declarada o inscripción. Cuando la fuente publique intervalos o advierta de una cobertura incompleta, la nota se conserva junto al valor. La fuente metodológica de Pew enlazada al final ofrece un caso que se puede examinar junto a las tablas. Así se puede incorporar una cifra local a medida que se desarrolle cada tradición.
 
+### Situar la presencia histórica y medir la afiliación actual
+
+En el caso de los [[ebionitas|ebionitas]], se pueden fechar testimonios patrísticos desde finales del siglo II y examinar las menciones a Jerusalén y Transjordania. Ireneo describe un vínculo con Jerusalén, y Eusebio relata un traslado a Pella en relación con la guerra del siglo I. Esas noticias se refieren a cuestiones distintas y no permiten establecer una estimación de la población ni el número de comunidades. El mapa histórico se beneficia de situar los lugares y fechar el testimonio que los menciona.
+
+Para el [[cristianismo|cristianismo]] actual, las tablas de Pew distinguen el peso de cada región dentro de la población cristiana mundial y la proporción de cristianos dentro de cada región. La primera medida usa como denominador el total de cristianos en el mundo. La segunda emplea toda la población de la región. Ambas corresponden a estimaciones de afiliación para los años de referencia y ayudan a formular preguntas diferentes sobre la distribución actual.
+
 ## Nota editorial
 
 La ampliación incorporará un mapa propio con año y metodología visibles, diferencias regionales, discusión de identidades múltiples y el tratamiento de proyecciones. [[como-leer|Cómo leer el árbol]] explica la diferencia entre el territorio del nodo y la distribución geográfica actual. [[que-es-una-religion|Qué es una religión]] examina cómo afectan las definiciones a la medición.
@@ -63,3 +72,6 @@ La ampliación incorporará un mapa propio con año y metodología visibles, dif
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
 - Pew Research Center. [Religious Composition by Country, 2010–2020](https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/).
 - Pew Research Center. [Metodología de las estimaciones mundiales de 2010 y 2020](https://www.pewresearch.org/religion/2025/06/09/global-religious-change-methodology/).
+- Ireneo de Lyon. [Contra las herejías, I.26](https://www.newadvent.org/fathers/0103126.htm).
+- Eusebio de Cesarea. [Historia eclesiástica III.5 y III.27](https://www.newadvent.org/fathers/250103.htm).
+- Pew Research Center. [Distribución de la población cristiana por regiones](https://www.pewresearch.org/religion/2025/06/09/christian-population-change/).

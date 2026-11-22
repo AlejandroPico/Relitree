@@ -114,6 +114,12 @@ En `cristianismo/concilios/`, encabezar cada artículo con el año o intervalo a
 
 15. Al cerrar cada fase: actualizar `PLAN.md` y `tareas.md`, y dar los comandos PowerShell de git y de ejecución local.
 
+## Desarrollo de las tradiciones de E14–E22
+
+Cada tradición se desarrolla en `enciclopedia/es/religiones/<id>.md` y se abre desde su propia entidad del árbol. Los estudios adicionales y sus índices se sitúan en la carpeta de esa entidad. Escribir entre 10.000 y 15.000 palabras de cuerpo por entrada, con cronología, contexto, enseñanzas, ritos, organización, textos, símbolos, variantes y comparaciones documentadas. Se pueden distribuir las secciones en subcategorías cuando la navegación lo justifique. Aplicar el mantenimiento de E01 en cada entrega.
+
+Antes de retomar una fase, consultar el reparto y las casillas de `enciclopedia/PLAN.md` y comprobar la versión y las últimas entregas en `tareas.md`. Si una tanda queda interrumpida, retomar la primera entrega pendiente con sus archivos y fuentes de trabajo. Actualizar el registro al publicar.
+
 ## Mantenimiento acumulativo de E01
 
 **Aplicación obligatoria en la misma entrega.** Quien añada una tradición a la enciclopedia o revise de manera sustancial una tradición existente, aunque el cambio se haga en un subartículo, debe revisar los seis temas comparativos de E01. Se considera sustancial un cambio que aporta información nueva, corrige una interpretación o sustituye un dato o una fuente relevante. Aplicar también el procedimiento al corregir, renombrar, fusionar o retirar una tradición si ello afecta a sus referencias en E01. Los ajustes de ortografía o presentación se benefician de una corrección directa cuando también afectan a una entrada comparativa.
