@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 702
+palabras: 823
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -10,6 +10,9 @@ fuentes:
   - "https://historicengland.org.uk/images-books/publications/radiocarbon-dating-chronological-modelling/"
   - "https://cart.sbl-site.org/books/069566P"
   - "https://www.oikoumene.org/es/resources/documents/baptism-eucharist-and-ministry-faith-and-order-paper-no-111-the-lima-text"
+  - "https://www.newadvent.org/fathers/050109.htm"
+  - "https://www.iranicaonline.org/articles/festivals-index/festivals-ii/"
+  - "https://www.iranicaonline.org/articles/iran-ix1-religions-in-iran/iran-ix12-manicheism/"
 ---
 
 # Glosario general
@@ -112,6 +115,18 @@ Reflexión y conjunto de afirmaciones sobre la identidad, la condición y el pap
 
 Vínculo reconocido entre comunidades o iglesias que puede comprender compartir la fe, reconocer ministerios o participar en la misma celebración. El grado y el ámbito del reconocimiento deben constar en cada caso. El diálogo sobre bautismo, eucaristía y ministerio se estudia en [[cristianismo|Cristianismo]].
 
+### Inmersión ritual
+
+Aplicación de agua mediante la entrada del cuerpo en ella en una práctica reglada. El alcance depende de los actos, sus destinatarios, la ocasión y el propósito atribuido. Los textos sobre los [[elcasaitas|elcasaítas]] permiten comparar una segunda inmersión asociada a remisión con observancias repetidas en un grupo bautista.
+
+### Bēma
+
+Término griego para un estrado o asiento. En el [[maniqueismo|maniqueísmo]] designa la conmemoración vinculada a Mani y al estrado asociado a esa celebración. Su uso se documenta mediante himnos y estudios de su calendario.
+
+### Elegidos y oyentes
+
+Formas complementarias de participación que se distinguen en la iglesia maniquea. Los elegidos asumían una disciplina estricta. Los oyentes contribuían al sostenimiento del grupo y tenían obligaciones propias. La entrada [[maniqueismo|Maniqueísmo]] estudia su relación en diversas clases de fuente.
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -121,3 +136,6 @@ Vínculo reconocido entre comunidades o iglesias que puede comprender compartir 
 - Historic England. [Radiocarbon Dating and Chronological Modelling](https://historicengland.org.uk/images-books/publications/radiocarbon-dating-chronological-modelling/).
 - Epifanio de Salamina. [Panarion, § 30, traducción de Frank Williams](https://cart.sbl-site.org/books/069566P).
 - Consejo Mundial de Iglesias. [Bautismo, Eucaristía, Ministerio](https://www.oikoumene.org/es/resources/documents/baptism-eucharist-and-ministry-faith-and-order-paper-no-111-the-lima-text).
+- Refutación de todas las herejías. [Libro IX](https://www.newadvent.org/fathers/050109.htm).
+- Encyclopaedia Iranica. [Festivals: Manichean](https://www.iranicaonline.org/articles/festivals-index/festivals-ii/).
+- Encyclopaedia Iranica. [Religions in Iran: Manicheism](https://www.iranicaonline.org/articles/iran-ix1-religions-in-iran/iran-ix12-manicheism/).

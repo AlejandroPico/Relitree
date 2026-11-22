@@ -1,11 +1,13 @@
 ---
 estado: borrador
 fase: E01
-palabras: 731
+palabras: 843
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
   - "https://www.newadvent.org/fathers/250103.htm"
+  - "https://www.iranicaonline.org/articles/alchasai-a-sectarian-in-the-early-christian-church-1st-2nd-centuries-a/"
+  - "https://www.iranicaonline.org/articles/bema-festival-manicheans/"
 ---
 
 # Calendarios y festividades del mundo
@@ -50,6 +52,12 @@ La comparación también puede seguir los cambios al trasladarse una comunidad. 
 
 Eusebio de Cesarea, en *Historia eclesiástica* III.27, atribuye a los [[ebionitas|ebionitas]] la observancia del sábado y una práctica conmemorativa del día de la resurrección. El texto documenta una atribución del historiador en el siglo IV. Permite formular preguntas acerca de la semana y deja abierta la forma de las reuniones y su difusión. El evangelio fragmentario atribuido por Epifanio incluye también una escena relacionada con la comida de Pascua, cuya fecha civil y ejecución comunitaria requieren otro tipo de fuente.
 
+### El sábado en un grupo bautista y la fiesta del Bēma
+
+El *Códice Mani de Colonia* da pie a estudiar el sábado en la comunidad bautista donde su relato sitúa la juventud de Mani. Se trata de un dato de su reconstrucción de ese grupo. La aplicación de un calendario a todas las personas asociadas al nombre de los [[elcasaitas|elcasaítas]] necesita pruebas que las fuentes ofrecen de modo desigual.
+
+El [[maniqueismo|Bēma maniqueo]] era una conmemoración anual vinculada a Mani y se conoce por himnos y otros testimonios. El estrado del que recibe su nombre y los periodos de preparación permiten examinar la relación entre objetos, prácticas y calendario. Las equivalencias civiles requieren identificar el calendario y la fuente de cada comunidad y año.
+
 ## Nota editorial
 
 El desarrollo incluirá Pascuas cristianas, Pésaj, Yom Kipur, Ramadán y sus festividades, Diwali, Vesak, Nowruz y otros casos con documentación regional. El [[glosario-general|glosario]] recoge los conceptos de intercalación y calendario lunisolar. [[textos-sagrados|Textos sagrados]] ayuda a comprender la relación entre relatos, recitaciones y conmemoración.
@@ -59,3 +67,5 @@ El desarrollo incluirá Pascuas cristianas, Pésaj, Yom Kipur, Ramadán y sus fe
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
 - Naciones Unidas. [Fechas de festividades y observancias en 2026](https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf). Ejemplo de calendario institucional para un año determinado.
 - Eusebio de Cesarea. [Historia eclesiástica III.27](https://www.newadvent.org/fathers/250103.htm).
+- Encyclopaedia Iranica. [Alchasai](https://www.iranicaonline.org/articles/alchasai-a-sectarian-in-the-early-christian-church-1st-2nd-centuries-a/).
+- Encyclopaedia Iranica. [Bēma](https://www.iranicaonline.org/articles/bema-festival-manicheans/).

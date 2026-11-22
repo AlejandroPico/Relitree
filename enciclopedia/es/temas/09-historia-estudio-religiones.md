@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 741
+palabras: 845
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -9,6 +9,8 @@ fuentes:
   - "https://academic.oup.com/book/3374"
   - "https://www.degruyterbrill.com/document/isbn/9789004217430/html"
   - "https://www.nli.org.il/en/books/NNL_ALEPH990039698480205171/NLI"
+  - "https://research.rug.nl/en/publications/manis-baptists-and-the-elchasaites/"
+  - "https://www.jstor.org/stable/10.1163/j.ctv1v7zbdj"
 ---
 
 # Historia del estudio de las religiones
@@ -55,6 +57,12 @@ Meredith McGuire estudia el modo en que las personas componen y transmiten prác
 
 Petri Luomanen estudia cómo se reconstruyen los grupos y textos judeocristianos antiguos al comparar catálogos patrísticos y valorar sus relaciones literarias. Andrew Gregory edita y comenta las citas que se atribuyen al Evangelio según los Hebreos y al Evangelio de los ebionitas. Los dos trabajos abordan preguntas distintas. El primero permite examinar atribuciones de comunidades y el segundo muestra qué alternativas surgen al ordenar y delimitar fragmentos. La entrada [[ebionitas|Ebionitas]] señala las noticias de Ireneo, Orígenes, Eusebio y Epifanio y permite seguir qué puede sostenerse a partir de cada una.
 
+### La edición del Códice Mani y nuevos registros de vida local
+
+La edición del códice griego de Colonia por Albert Henrichs y Ludwig Koenen añadió un relato maniqueo de la juventud de Mani al expediente patrístico sobre Elcasai. Gerard Luttikhuizen estudió qué puede afirmarse acerca de la conexión entre los bautistas de Mani y los [[elcasaitas|elcasaítas]]. La comparación atiende a fuentes de géneros y cronologías diferentes.
+
+El trabajo de Håkon Fiane Teigen sobre Kellis reconstruye redes de relaciones e identidad religiosa con documentos de un poblado del Egipto tardío. En el estudio del [[maniqueismo|maniqueísmo]] este tipo de investigación permite acercarse a hogares y contactos locales y complementa los textos doctrinales y los relatos de misión.
+
 ## Nota editorial
 
 La ampliación desarrollará antecedentes, filología, sociología clásica, historia comparada, debates del siglo XX y aportaciones de la antropología, el feminismo y los estudios poscoloniales. Véanse [[que-es-una-religion|Qué es una religión]] y [[textos-sagrados|Textos sagrados del mundo comparados]].
@@ -67,3 +75,5 @@ La ampliación desarrollará antecedentes, filología, sociología clásica, his
 - Meredith B. McGuire. [Lived Religion: Faith and Practice in Everyday Life](https://academic.oup.com/book/3374). Oxford University Press, 2008.
 - Petri Luomanen. [Recovering Jewish-Christian Sects and Gospels](https://www.degruyterbrill.com/document/isbn/9789004217430/html).
 - Andrew Gregory. [The Gospel according to the Hebrews and the Gospel of the Ebionites](https://www.nli.org.il/en/books/NNL_ALEPH990039698480205171/NLI).
+- Gerard P. Luttikhuizen. [Mani’s Baptists and the Elchasaites](https://research.rug.nl/en/publications/manis-baptists-and-the-elchasaites/).
+- Håkon Fiane Teigen. [The Manichaean Church at Kellis](https://www.jstor.org/stable/10.1163/j.ctv1v7zbdj).

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 359" role="img" aria-labelledby="titulo nota">
+<title id="titulo">Los tres tiempos</title><desc id="nota">Una síntesis de la secuencia cosmológica maniquea.</desc>
+<style>text{font-family:system-ui,sans-serif;fill:#203b30}.h{font-size:23px;font-weight:650}.d{font-size:19px}.t{font-size:32px;font-weight:700}</style>
+<rect width="780" height="359" fill="#f6f5ef"/>
+<text x="32" y="54" class="t">Los tres tiempos</text>
+<text x="32" y="86" class="d">Una síntesis de la secuencia cosmológica maniquea.</text>
+<rect x="32" y="115" width="716" height="67" fill="#e5eee5"/><text x="49" y="142" class="h">Separación originaria</text><text x="49" y="168" class="d">Luz y Tinieblas se describen como realidades primordiales.</text>
+<rect x="32" y="194" width="716" height="67" fill="#e5eee5"/><text x="49" y="221" class="h">Conflicto y mezcla</text><text x="49" y="247" class="d">La Luz queda mezclada y el cosmos permite recuperarla.</text>
+<rect x="32" y="273" width="716" height="67" fill="#e5eee5"/><text x="49" y="300" class="h">Separación final</text><text x="49" y="326" class="d">Liberación de la Luz y contención de las Tinieblas.</text>
+</svg>

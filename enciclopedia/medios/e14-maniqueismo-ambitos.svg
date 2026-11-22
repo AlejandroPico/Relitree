@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 438" role="img" aria-labelledby="titulo nota">
+<title id="titulo">Presencia y testimonios</title><desc id="nota">Las pruebas permiten localizar aspectos distintos de la religión.</desc>
+<style>text{font-family:system-ui,sans-serif;fill:#203b30}.h{font-size:23px;font-weight:650}.d{font-size:19px}.t{font-size:32px;font-weight:700}</style>
+<rect width="780" height="438" fill="#f6f5ef"/>
+<text x="32" y="54" class="t">Presencia y testimonios</text>
+<text x="32" y="86" class="d">Las pruebas permiten localizar aspectos distintos de la religión.</text>
+<rect x="32" y="115" width="716" height="67" fill="#e5eee5"/><text x="49" y="142" class="h">Mesopotamia sasánida</text><text x="49" y="168" class="d">Actividad de Mani, corte de Sapor y primeras misiones.</text>
+<rect x="32" y="194" width="716" height="67" fill="#e5eee5"/><text x="49" y="221" class="h">Egipto y norte de África</text><text x="49" y="247" class="d">Papiros de Kellis, escritos coptos y controversia latina.</text>
+<rect x="32" y="273" width="716" height="67" fill="#e5eee5"/><text x="49" y="300" class="h">Asia central</text><text x="49" y="326" class="d">Inscripción de Karabalgasun y fragmentos de Turfán.</text>
+<rect x="32" y="352" width="716" height="67" fill="#e5eee5"/><text x="49" y="379" class="h">Sureste de China</text><text x="49" y="405" class="d">La figura de Mani en Cao’an y la historia de Quanzhou.</text>
+</svg>

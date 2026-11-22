@@ -1,12 +1,15 @@
 ---
 estado: borrador
 fase: E01
-palabras: 838
+palabras: 961
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://cart.sbl-site.org/books/069566P"
   - "https://www.metmuseum.org/art/collection/search/635401"
+  - "https://www.newadvent.org/fathers/050109.htm"
+  - "https://www.iranicaonline.org/articles/manichean-art/"
+  - "https://whc.unesco.org/en/documents/180648"
 ---
 
 # Simbología religiosa comparada
@@ -55,6 +58,12 @@ Una ficha comparativa reúne nombre, fecha, lugar, soporte, comunidad o taller c
 
 En el relato del bautismo de Jesús que conserva Epifanio para los [[ebionitas|ebionitas]], la paloma y la luz operan como señales narrativas. La cita permite estudiar la composición de la escena y compararla con otros evangelios. Para atribuir el motivo a un emblema comunitario haría falta documentación del uso que se hacía de él en soportes concretos. Un ejemplo de otro tipo de prueba es la pintura de Nicolás Enríquez sobre la Virgen de Guadalupe, fechada en 1773 y conservada en el Metropolitan Museum. La imagen reúne una figura de devoción y cuatro episodios de su relato. El artículo [[cristianismo|Cristianismo]] incorpora la reproducción acreditada y sitúa los testimonios que se necesitan para conocer su uso.
 
+### Mensajeros en un relato e imágenes conservadas
+
+La *Refutación* IX describe dos seres de tamaño extraordinario en el relato atribuido al libro de [[elcasaitas|Elcasai]]. Los identifica con el Hijo de Dios y el Espíritu Santo, que aparece como figura femenina. La prueba se refiere al significado de una escena y a la descripción del polemista. Para conocer qué símbolos se representaban materialmente en una comunidad se necesitarían otros testimonios.
+
+El [[maniqueismo|maniqueísmo]] cuenta con fragmentos de manuscritos iluminados de Turfán y obras como la estatua de Mani en el templo de Cao’an, documentada por la UNESCO. Un fragmento de página y un objeto de un santuario aportan información distinta. Los motivos se identifican mediante la escena, la procedencia, las inscripciones y sus comparaciones. La entrada incluye enlaces a piezas y colecciones.
+
 ## Nota editorial
 
 Este borrador se ampliará con documentación de piezas y sus licencias, categorías visuales y cambios de sentido. [[como-leer|Cómo leer el árbol]] explica los emblemas del proyecto. [[origenes-pensamiento-religioso|Prehistoria]] aborda los límites para interpretar figuras antiguas sin textos.
@@ -65,3 +74,6 @@ Este borrador se ampliará con documentación de piezas y sus licencias, categor
 - Relitree. [Convenciones de símbolos y créditos](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
 - Epifanio de Salamina. [Panarion, § 30, traducción de Frank Williams](https://cart.sbl-site.org/books/069566P).
 - The Metropolitan Museum of Art. [La Virgen de Guadalupe con las cuatro apariciones](https://www.metmuseum.org/art/collection/search/635401).
+- Refutación de todas las herejías. [Libro IX](https://www.newadvent.org/fathers/050109.htm).
+- Zsuzsanna Gulácsi. [Manichean Art](https://www.iranicaonline.org/articles/manichean-art/).
+- UNESCO. [Estatua de Mani](https://whc.unesco.org/en/documents/180648).

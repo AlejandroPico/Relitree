@@ -1,11 +1,14 @@
 ---
 estado: borrador
 fase: E01
-palabras: 847
+palabras: 976
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
   - "https://www.nli.org.il/en/books/NNL_ALEPH990039698480205171/NLI"
+  - "https://papyri.uni-koeln.de/stueck/tm64574"
+  - "https://www.iranicaonline.org/articles/sabuhragan/"
+  - "https://www.iranicaonline.org/articles/kephalaia/"
 ---
 
 # Textos sagrados del mundo comparados
@@ -54,6 +57,12 @@ Para describir una edición se empieza por su lengua, fecha, editor y texto de b
 
 El llamado *Evangelio de los ebionitas* se estudia a partir de fragmentos recogidos en el capítulo 30 del *Panarion* de Epifanio. El transmisor lo relaciona con Mateo y con la denominación «según los Hebreos». Ireneo y Eusebio emplean atribuciones que es preciso valorar por separado. La edición de Andrew Gregory permite comparar los fragmentos, su traducción y el contexto en que se citan. Este caso ilustra la diferencia entre un evangelio identificado en un catálogo, un corpus reconstruido por los editores y un canon reconocido por una comunidad. Los testimonios y las variantes se analizan en [[ebionitas|Ebionitas]].
 
+### Libro atribuido a Elcasai y corpus de Mani
+
+Las noticias patrísticas atribuyen a [[elcasaitas|Elcasai]] una revelación escrita que se conoce por extractos, descripciones y polémicas. El *Códice Mani de Colonia*, un manuscrito maniqueo con un relato de formación de Mani, permite investigar otro aspecto de la recepción del nombre. Conviene distinguir el libro perdido de ese testigo material, cuyo inventario se puede consultar en la Universidad de Colonia.
+
+En el [[maniqueismo|maniqueísmo]] se puede seguir la transmisión de obras atribuidas a Mani y de repertorios de su iglesia. El *Šābuhragān* se asocia a Sapor I y se conserva en fragmentos en persa medio. Los *Kephalaia* coptos contienen enseñanzas organizadas en capítulos. Sus títulos, lenguas y usos muestran por qué hace falta distinguir la composición de una obra, su versión conservada y las listas de libros que la registran.
+
 ## Nota editorial
 
 La ampliación comparará tradiciones judías, cristianas, musulmanas, hindúes, budistas, jainas y sijs, con atención a la pluralidad interna. Se enlazará con [[cristianismo|Cristianismo]], [[que-es-una-religion|Qué es una religión]] y el [[glosario-general|Glosario general]].
@@ -63,3 +72,6 @@ La ampliación comparará tradiciones judías, cristianas, musulmanas, hindúes,
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
 - SuttaCentral. [Acerca del proyecto y sus paralelos](https://suttacentral.net/about).
 - National Library of Israel. [Edición de Andrew Gregory de los evangelios según los Hebreos y de los ebionitas](https://www.nli.org.il/en/books/NNL_ALEPH990039698480205171/NLI).
+- Universidad de Colonia. [P. Köln inv. 4780](https://papyri.uni-koeln.de/stueck/tm64574).
+- Encyclopaedia Iranica. [Šābuhragān](https://www.iranicaonline.org/articles/sabuhragan/).
+- Encyclopaedia Iranica. [Kephalaia](https://www.iranicaonline.org/articles/kephalaia/).
