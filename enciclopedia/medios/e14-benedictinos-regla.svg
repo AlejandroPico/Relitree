@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 544" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">La Regla de san Benito por materias</title>
+<desc id="descripcion">Gobierno · 2, 3 y 64. Deberes del abad, consejo de la comunidad y elección. Oficio · 8–20. Celebraciones y disposición semanal de salmos y lecturas. Trabajo y lectura · 48. Reglas para alternar la actividad manual, la lectura y el tiempo de Cuaresma. Acogida · 53 y 58. Recepción de huéspedes, prueba y profesión de candidatos.</desc>
+<style>text{font-family:system-ui,sans-serif;fill:#1e3030}.titulo{font-size:28px;font-weight:700}.etiqueta{font-size:21px;font-weight:700}.detalle{font-size:18px}</style>
+<rect width="840" height="544" fill="#f5f4ec"/>
+<text x="34" y="40" class="titulo">La Regla de san Benito por materias</text>
+<rect x="34" y="70" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="70" width="5" height="100" fill="#36605a"/>
+<text x="55" y="99" class="etiqueta">Gobierno · 2, 3 y 64</text>
+<text x="55" y="128" class="detalle">Deberes del abad, consejo de la comunidad y elección.</text>
+<rect x="34" y="182" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="182" width="5" height="100" fill="#36605a"/>
+<text x="55" y="211" class="etiqueta">Oficio · 8–20</text>
+<text x="55" y="240" class="detalle">Celebraciones y disposición semanal de salmos y lecturas.</text>
+<rect x="34" y="294" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="294" width="5" height="100" fill="#36605a"/>
+<text x="55" y="323" class="etiqueta">Trabajo y lectura · 48</text>
+<text x="55" y="352" class="detalle">Reglas para alternar la actividad manual, la lectura y el tiempo de</text>
+<text x="55" y="374" class="detalle">Cuaresma.</text>
+<rect x="34" y="406" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="406" width="5" height="100" fill="#36605a"/>
+<text x="55" y="435" class="etiqueta">Acogida · 53 y 58</text>
+<text x="55" y="464" class="detalle">Recepción de huéspedes, prueba y profesión de candidatos.</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 544" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Cuatro usos dentro y fuera de la abadía</title>
+<desc id="descripcion">Iglesia y coro. Celebración de los oficios de la comunidad. Sala capitular y refectorio. Reuniones y comida común en espacios diferenciados. Enfermería y alojamiento. Atención y descanso con reglas y condiciones propias. Granjas y talleres. Producción y gestión de recursos dentro del conjunto o en dependencias.</desc>
+<style>text{font-family:system-ui,sans-serif;fill:#1e3030}.titulo{font-size:28px;font-weight:700}.etiqueta{font-size:21px;font-weight:700}.detalle{font-size:18px}</style>
+<rect width="840" height="544" fill="#f5f4ec"/>
+<text x="34" y="40" class="titulo">Cuatro usos dentro y fuera de la abadía</text>
+<rect x="34" y="70" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="70" width="5" height="100" fill="#36605a"/>
+<text x="55" y="99" class="etiqueta">Iglesia y coro</text>
+<text x="55" y="128" class="detalle">Celebración de los oficios de la comunidad.</text>
+<rect x="34" y="182" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="182" width="5" height="100" fill="#36605a"/>
+<text x="55" y="211" class="etiqueta">Sala capitular y refectorio</text>
+<text x="55" y="240" class="detalle">Reuniones y comida común en espacios diferenciados.</text>
+<rect x="34" y="294" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="294" width="5" height="100" fill="#36605a"/>
+<text x="55" y="323" class="etiqueta">Enfermería y alojamiento</text>
+<text x="55" y="352" class="detalle">Atención y descanso con reglas y condiciones propias.</text>
+<rect x="34" y="406" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="406" width="5" height="100" fill="#36605a"/>
+<text x="55" y="435" class="etiqueta">Granjas y talleres</text>
+<text x="55" y="464" class="detalle">Producción y gestión de recursos dentro del conjunto o en</text>
+<text x="55" y="486" class="detalle">dependencias.</text>
+</svg>

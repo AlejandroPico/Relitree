@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 962
+palabras: 1176
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -16,6 +16,12 @@ fuentes:
   - "https://www.jstor.org/stable/j.ctvjnrvhh"
   - "https://www.ucpress.edu/books/valentinian-christianity/hardcover"
   - "https://www.cambridge.org/core/books/nag-hammadi-codices-and-their-ancient-readers/9B2AEA9141B7E747BA33277AE8D9D187"
+  - "https://www.degruyterbrill.com/document/isbn/9789004282377/html"
+  - "https://emu.tind.io/record/353373"
+  - "https://www.ccel.org/ccel/pearse/morefathers/files/gregory_02_dialogues_book2.htm"
+  - "https://www.pennpress.org/9780812200799/the-cistercian-evolution/"
+  - "https://www.livius.org/sources/content/agathangelos/"
+  - "https://eprints.soas.ac.uk/14506/1/Studies_of_Armenian_Christian_Civilisation.pdf"
 ---
 
 # Historia del estudio de las religiones
@@ -78,6 +84,26 @@ Para el [[valentinianismo|valentinianismo]], la edición de Geoffrey S. Smith pe
 
 La ampliación desarrollará antecedentes, filología, sociología clásica, historia comparada, debates del siglo XX y aportaciones de la antropología, el feminismo y los estudios poscoloniales. Véanse [[que-es-una-religion|Qué es una religión]] y [[textos-sagrados|Textos sagrados del mundo comparados]].
 
+## Métodos para estudiar tradiciones cristianas
+
+### Leer a un adversario y reconstruir una tradición
+
+Dieter Roth distingue niveles de seguridad en la reconstrucción de un evangelio que conocemos sobre todo por polemistas de la iglesia antigua. En [[marcionismo|Marcionismo]], Lieu examina cómo esos polemistas describen a Marción. Para [[montanismo|Montanismo]], Tabbernee y Lampe contrastan la geografía de los textos con la investigación de campo en Frigia. La comparación separa evidencia de una palabra, identificación de un lugar y adscripción de un objeto o grupo.
+
+[Roth, The Text of Marcion’s Gospel](https://www.degruyterbrill.com/document/isbn/9789004282377/html) · [Tabbernee y Lampe, Pepouza and Tymion](https://emu.tind.io/record/353373)
+
+### Regla, hagiografía y arqueología de la vida común
+
+Las vidas de ascetas, una regla y la planta de un edificio plantean preguntas distintas en la historia del [[monacato|Monacato cristiano]]. En [[benedictinos|Orden benedictina]], conviene leer los *Diálogos* de Gregorio junto a una tradición normativa con historia propia. En [[cistercienses|Orden cisterciense]], los estudios de Berman, Burton y Kerr examinan la formación de la red y sus instituciones con historias locales y documentación de distinto género.
+
+[Gregorio Magno, Diálogos II](https://www.ccel.org/ccel/pearse/morefathers/files/gregory_02_dialogues_book2.htm) · [Berman, The Cistercian Evolution](https://www.pennpress.org/9780812200799/the-cistercian-evolution/)
+
+### Tradición de conversión y datación histórica
+
+La conversión regia en [[armenia|Armenia]] se conoce en parte por la memoria narrativa de Agatángelo. Se distingue la fecha que atribuye el texto a los acontecimientos, la cronología de su redacción y la fecha eclesial de conmemoración. Para estudiar recepciones conciliares, se aplican distinciones semejantes entre reunión, acuerdo y recepción posterior.
+
+[Agatángelo, introducción y fragmentos](https://www.livius.org/sources/content/agathangelos/) · [Studies of Armenian Christian Tradition, SOAS](https://eprints.soas.ac.uk/14506/1/Studies_of_Armenian_Christian_Civilisation.pdf)
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -93,3 +119,9 @@ La ampliación desarrollará antecedentes, filología, sociología clásica, his
 - David Brakke. [The Gnostics](https://www.jstor.org/stable/j.ctvjnrvhh).
 - Geoffrey S. Smith. [Valentinian Christianity](https://www.ucpress.edu/books/valentinian-christianity/hardcover).
 - Paul Linjamaa. [The Nag Hammadi Codices and their Ancient Readers](https://www.cambridge.org/core/books/nag-hammadi-codices-and-their-ancient-readers/9B2AEA9141B7E747BA33277AE8D9D187).
+- [Roth, The Text of Marcion’s Gospel](https://www.degruyterbrill.com/document/isbn/9789004282377/html).
+- [Tabbernee y Lampe, Pepouza and Tymion](https://emu.tind.io/record/353373).
+- [Gregorio Magno, Diálogos II](https://www.ccel.org/ccel/pearse/morefathers/files/gregory_02_dialogues_book2.htm).
+- [Berman, The Cistercian Evolution](https://www.pennpress.org/9780812200799/the-cistercian-evolution/).
+- [Agatángelo, introducción y fragmentos](https://www.livius.org/sources/content/agathangelos/).
+- [Studies of Armenian Christian Tradition, SOAS](https://eprints.soas.ac.uk/14506/1/Studies_of_Armenian_Christian_Civilisation.pdf).

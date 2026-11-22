@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1140
+palabras: 1364
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -12,6 +12,11 @@ fuentes:
   - "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-inv-10544-nag-hammadi-codex-ii/"
   - "https://scholarlyeditions.brill.com/cglo/"
   - "https://www.ucpress.edu/books/valentinian-christianity/hardcover"
+  - "https://www.degruyterbrill.com/document/isbn/9789004282377/html"
+  - "https://www.newadvent.org/fathers/250105.htm"
+  - "https://archive.osb.org/rb/text/"
+  - "https://www.ocso.org/uploads/resources/foundational-text/exordium-parvum/Exordium-Parvum-EN.pdf"
+  - "https://www.unesco.org/en/memory-world/mashtots-matenadaran-ancient-manuscripts-collection"
 ---
 
 # Textos sagrados del mundo comparados
@@ -80,6 +85,26 @@ La ampliación comparará tradiciones judías, cristianas, musulmanas, hindúes,
 
 Los códices II y IV de Nag Hammadi conservan la forma larga de la obra. El III y el papiro de Berlín 8502 conservan la breve. El texto puede compararse en la sinopsis de Michael Waldstein y Frederik Wisse recogida por el repertorio [*Apocryphon of John* de NASSCAL](https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphon-of-john/). Véanse [[gnosticismo|Gnosticismo]] y el [[glosario-general|Glosario general]].
 
+## Libros de las tradiciones cristianas
+
+### Escritos, oráculos y reglas del cristianismo
+
+**Marcionismo y Nueva Profecía.** En [[marcionismo|Marcionismo]], el *Euangelion* y el *Apostolikon* son los dos conjuntos de autoridad atribuidos a sus iglesias. Las ediciones actuales reconstruyen testimonios indirectos y señalan las variantes inciertas. Para [[montanismo|Montanismo]], Eusebio conserva palabras de profetas dentro de escritos contrarios y Tertuliano relaciona la autoridad de la Escritura con el discernimiento de la profecía. La transmisión de un oráculo y la de un evangelio requieren criterios de lectura distintos.
+
+[Dieter T. Roth, edición del evangelio](https://www.degruyterbrill.com/document/isbn/9789004282377/html) · [Eusebio, Historia eclesiástica V](https://www.newadvent.org/fathers/250105.htm)
+
+### Lectura monástica y transmisión de usos
+
+En [[monacato|Monacato cristiano]], la *Vida de Antonio*, las reglas pacomianas y las obras de Casiano tienen géneros y transmisiones propias. La [[benedictinos|Regla de san Benito]] distribuye los salmos y trata el uso del libro en comunidad. Para [[cistercienses|Cîteaux]], el *Exordium Parvum* transmite la memoria fundacional y la *Carta Caritatis* organiza la relación entre monasterios. La Biblia, la regla de vida y las actas de una red cumplen funciones diferentes.
+
+[Regla de san Benito, archivo benedictino](https://archive.osb.org/rb/text/) · [Exordium Parvum, OCSO](https://www.ocso.org/uploads/resources/foundational-text/exordium-parvum/Exordium-Parvum-EN.pdf)
+
+### Alfabeto, traducción y testimonios armenios
+
+La creación del alfabeto armenio se atribuye a Mesrop Mashtóts. Las traducciones bíblicas, el desarrollo de una lengua escrita de culto y los manuscritos de la [[armenia|Iglesia apostólica armenia]] forman una historia de transmisión que integra tradiciones griegas, siríacas y armenias. Para citar un libro deben distinguirse la fecha de traducción, la fecha de la copia y su uso litúrgico.
+
+[UNESCO, colección del Matenadaran](https://www.unesco.org/en/memory-world/mashtots-matenadaran-ancient-manuscripts-collection)
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -91,3 +116,8 @@ Los códices II y IV de Nag Hammadi conservan la forma larga de la obra. El III 
 - NASSCAL. [Cairo, Coptic Museum, Inv. 10544](https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-inv-10544-nag-hammadi-codex-ii/).
 - Brill. [Coptic Gnostic Library Online](https://scholarlyeditions.brill.com/cglo/).
 - Geoffrey S. Smith. [Valentinian Christianity](https://www.ucpress.edu/books/valentinian-christianity/hardcover).
+- [Dieter T. Roth, edición del evangelio](https://www.degruyterbrill.com/document/isbn/9789004282377/html).
+- [Eusebio, Historia eclesiástica V](https://www.newadvent.org/fathers/250105.htm).
+- [Regla de san Benito, archivo benedictino](https://archive.osb.org/rb/text/).
+- [Exordium Parvum, OCSO](https://www.ocso.org/uploads/resources/foundational-text/exordium-parvum/Exordium-Parvum-EN.pdf).
+- [UNESCO, colección del Matenadaran](https://www.unesco.org/en/memory-world/mashtots-matenadaran-ancient-manuscripts-collection).

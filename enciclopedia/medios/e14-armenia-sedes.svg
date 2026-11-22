@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 432" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Principales sedes de la Iglesia apostólica armenia</title>
+<desc id="descripcion">Santa Sede de Echmiadzin. En Armenia, sede del catolicós de todos los armenios. Gran Casa de Cilicia. Catolicosado con sede actual en Antelias, Líbano. Patriarcados históricos. Jerusalén y Constantinopla conservan responsabilidades en sus ámbitos.</desc>
+<style>text{font-family:system-ui,sans-serif;fill:#1e3030}.titulo{font-size:28px;font-weight:700}.etiqueta{font-size:21px;font-weight:700}.detalle{font-size:18px}</style>
+<rect width="840" height="432" fill="#f5f4ec"/>
+<text x="34" y="40" class="titulo">Principales sedes de la Iglesia apostólica armenia</text>
+<rect x="34" y="70" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="70" width="5" height="100" fill="#36605a"/>
+<text x="55" y="99" class="etiqueta">Santa Sede de Echmiadzin</text>
+<text x="55" y="128" class="detalle">En Armenia, sede del catolicós de todos los armenios.</text>
+<rect x="34" y="182" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="182" width="5" height="100" fill="#36605a"/>
+<text x="55" y="211" class="etiqueta">Gran Casa de Cilicia</text>
+<text x="55" y="240" class="detalle">Catolicosado con sede actual en Antelias, Líbano.</text>
+<rect x="34" y="294" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="294" width="5" height="100" fill="#36605a"/>
+<text x="55" y="323" class="etiqueta">Patriarcados históricos</text>
+<text x="55" y="352" class="detalle">Jerusalén y Constantinopla conservan responsabilidades en sus</text>
+<text x="55" y="374" class="detalle">ámbitos.</text>
+</svg>

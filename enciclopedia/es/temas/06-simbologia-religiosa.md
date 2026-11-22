@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1072
+palabras: 1224
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -12,6 +12,10 @@ fuentes:
   - "https://whc.unesco.org/en/documents/180648"
   - "https://commons.wikimedia.org/wiki/File:Ouroboros-simple.svg"
   - "https://scholarsarchive.byu.edu/sba/vol1/iss1/6/"
+  - "https://www.cambridge.org/core/books/marcion-and-the-making-of-a-heretic/5CACAE98DAE26863383990F4EBD18F72"
+  - "https://www.newadvent.org/fathers/250105.htm"
+  - "https://osb.org/the-medal-of-saint-benedict/"
+  - "https://ich.unesco.org/en/lists?RL=00434"
 ---
 
 # Simbología religiosa comparada
@@ -76,6 +80,20 @@ La cámara nupcial del *Evangelio de Felipe* se estudia como motivo de unión re
 
 Este borrador se ampliará con documentación de piezas y sus licencias, categorías visuales y cambios de sentido. [[como-leer|Cómo leer el árbol]] explica los emblemas del proyecto. [[origenes-pensamiento-religioso|Prehistoria]] aborda los límites para interpretar figuras antiguas sin textos.
 
+## Simbología cristiana en textos, hábitos y objetos
+
+### Motivos textuales de Marción y de la Nueva Profecía
+
+En [[marcionismo|Marcionismo]], el descenso de Cristo y la idea de rescate son motivos de los relatos reconstruidos. En [[montanismo|Montanismo]], la Jerusalén nueva opera como imagen profética y referencia territorial. Su estudio parte de atribuciones textuales precisas. Los esquemas del atlas muestran esas relaciones y se identifican como representaciones contemporáneas.
+
+[Judith M. Lieu, Marcion and the Making of a Heretic](https://www.cambridge.org/core/books/marcion-and-the-making-of-a-heretic/5CACAE98DAE26863383990F4EBD18F72) · [Eusebio, Historia eclesiástica V.18](https://www.newadvent.org/fathers/250105.htm)
+
+### Hábitos, medallas y piedra tallada
+
+En [[monacato|Monacato cristiano]], el hábito puede expresar pertenencia y tener variaciones locales. En [[benedictinos|Orden benedictina]], libro y báculo se relacionan con Regla y autoridad abacial. La medalla de san Benito cuenta con usos devocionales propios. La lana clara y el escapulario documentan formas del hábito [[cistercienses|cisterciense]]. En la [[armenia|tradición armenia]], la cruz tallada en un jachkar puede vincularse a memoria, devoción y espacio. El sentido de cada pieza se estudia con su fecha, soporte y uso.
+
+[Confederación Benedictina, medalla de san Benito](https://osb.org/the-medal-of-saint-benedict/) · [UNESCO, artesanía y simbología del jachkar](https://ich.unesco.org/en/lists?RL=00434)
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -87,3 +105,7 @@ Este borrador se ampliará con documentación de piezas y sus licencias, categor
 - UNESCO. [Estatua de Mani](https://whc.unesco.org/en/documents/180648).
 - AnonMoos. [Ouroboros simple](https://commons.wikimedia.org/wiki/File:Ouroboros-simple.svg).
 - Gaye Strathearn. [The Valentinian Bridal Chamber in the Gospel of Philip](https://scholarsarchive.byu.edu/sba/vol1/iss1/6/).
+- [Judith M. Lieu, Marcion and the Making of a Heretic](https://www.cambridge.org/core/books/marcion-and-the-making-of-a-heretic/5CACAE98DAE26863383990F4EBD18F72).
+- [Eusebio, Historia eclesiástica V.18](https://www.newadvent.org/fathers/250105.htm).
+- [Confederación Benedictina, medalla de san Benito](https://osb.org/the-medal-of-saint-benedict/).
+- [UNESCO, artesanía y simbología del jachkar](https://ich.unesco.org/en/lists?RL=00434).

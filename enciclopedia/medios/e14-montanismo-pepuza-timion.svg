@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 432" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Pepuza y Timión en el expediente documental</title>
+<desc id="descripcion">Apolonio, citado por Eusebio. Atribuye a Montano el nombre de Jerusalén para Pepuza y Timión. Prospección e inscripciones. Sirven para examinar la localización propuesta para cada lugar. Atribución religiosa. Vincular un edificio o tumba a la Nueva Profecía requiere indicios propios.</desc>
+<style>text{font-family:system-ui,sans-serif;fill:#1e3030}.titulo{font-size:28px;font-weight:700}.etiqueta{font-size:21px;font-weight:700}.detalle{font-size:18px}</style>
+<rect width="840" height="432" fill="#f5f4ec"/>
+<text x="34" y="40" class="titulo">Pepuza y Timión en el expediente documental</text>
+<rect x="34" y="70" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="70" width="5" height="100" fill="#36605a"/>
+<text x="55" y="99" class="etiqueta">Apolonio, citado por Eusebio</text>
+<text x="55" y="128" class="detalle">Atribuye a Montano el nombre de Jerusalén para Pepuza y Timión.</text>
+<rect x="34" y="182" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="182" width="5" height="100" fill="#36605a"/>
+<text x="55" y="211" class="etiqueta">Prospección e inscripciones</text>
+<text x="55" y="240" class="detalle">Sirven para examinar la localización propuesta para cada lugar.</text>
+<rect x="34" y="294" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="294" width="5" height="100" fill="#36605a"/>
+<text x="55" y="323" class="etiqueta">Atribución religiosa</text>
+<text x="55" y="352" class="detalle">Vincular un edificio o tumba a la Nueva Profecía requiere indicios</text>
+<text x="55" y="374" class="detalle">propios.</text>
+</svg>

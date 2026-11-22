@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 916
+palabras: 1103
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -10,6 +10,11 @@ fuentes:
   - "https://www.iranicaonline.org/articles/bema-festival-manicheans/"
   - "https://www.cambridge.org/core/books/knowledge-faith-and-early-christian-initiation/knowledge-pedagogy-and-initiation/80E6FD85E3A0F387DFF8164B40626D5C"
   - "https://www.pulaval.com/livres/sethian-gnosticism-and-the-platonic-tradition-bcnh-etudes-6"
+  - "https://www.newadvent.org/fathers/0408.htm"
+  - "https://www.newadvent.org/fathers/03121.htm"
+  - "https://archive.osb.org/rb/text/"
+  - "https://www.ocso.org/resources/history/"
+  - "https://www.armenianchurch.org/en/news/06-01-2024/11743"
 ---
 
 # Calendarios y festividades del mundo
@@ -68,6 +73,26 @@ Los documentos sobre [[gnosticismo|grupos llamados gnósticos]] y autores relaci
 
 El desarrollo incluirá Pascuas cristianas, Pésaj, Yom Kipur, Ramadán y sus festividades, Diwali, Vesak, Nowruz y otros casos con documentación regional. El [[glosario-general|glosario]] recoge los conceptos de intercalación y calendario lunisolar. [[textos-sagrados|Textos sagrados]] ayuda a comprender la relación entre relatos, recitaciones y conmemoración.
 
+## Ritmos cristianos de ayuno, oración y fiesta
+
+### Ayuno, estaciones y testimonios polémicos
+
+El ayuno en [[montanismo|Montanismo]] se estudia con Tertuliano y los críticos conservados por Eusebio. Los textos permiten identificar controversias sobre la duración de una estación y la obligación de seguirla. Para [[marcionismo|Marcionismo]] se documentan ritos y prescripciones de alcance desigual. Las fuentes conservadas resultan insuficientes para fijar en ambos casos un calendario completo de observancia.
+
+[Tertuliano, Sobre el ayuno](https://www.newadvent.org/fathers/0408.htm) · [Tertuliano, Contra Marción I](https://www.newadvent.org/fathers/03121.htm)
+
+### Escalas del tiempo monástico
+
+El oficio regula las horas de oración en varias formas de [[monacato|vida monástica]]. La [[benedictinos|Regla de san Benito]] describe el salterio semanal y modifica la lectura y el trabajo según la estación y la Cuaresma. Los [[cistercienses|cistercienses]] transmiten usos de canto y oficio en una red de abadías. Una prescripción sobre la jornada y la fecha de una fiesta se documentan por separado.
+
+[Regla de san Benito, capítulos 8–20 y 48–49](https://archive.osb.org/rb/text/) · [OCSO, historia y legislación](https://www.ocso.org/resources/history/)
+
+### Natividad y Teofanía armenias
+
+La [[armenia|Iglesia apostólica armenia]] celebra la Natividad y la Teofanía conjuntamente. La liturgia de Echmiadzin del 6 de enero de 2024 ofrece un caso institucional fechado. Las correspondencias con el calendario civil en otras jurisdicciones requieren indicar su regla local.
+
+[Santa Sede de Echmiadzin, celebración de 2024](https://www.armenianchurch.org/en/news/06-01-2024/11743)
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -77,3 +102,8 @@ El desarrollo incluirá Pascuas cristianas, Pésaj, Yom Kipur, Ramadán y sus fe
 - Encyclopaedia Iranica. [Bēma](https://www.iranicaonline.org/articles/bema-festival-manicheans/).
 - Cambridge University Press. [Knowledge, Pedagogy, and Initiation](https://www.cambridge.org/core/books/knowledge-faith-and-early-christian-initiation/knowledge-pedagogy-and-initiation/80E6FD85E3A0F387DFF8164B40626D5C).
 - John D. Turner. [Sethian Gnosticism and the Platonic Tradition](https://www.pulaval.com/livres/sethian-gnosticism-and-the-platonic-tradition-bcnh-etudes-6).
+- [Tertuliano, Sobre el ayuno](https://www.newadvent.org/fathers/0408.htm).
+- [Tertuliano, Contra Marción I](https://www.newadvent.org/fathers/03121.htm).
+- [Regla de san Benito, capítulos 8–20 y 48–49](https://archive.osb.org/rb/text/).
+- [OCSO, historia y legislación](https://www.ocso.org/resources/history/).
+- [Santa Sede de Echmiadzin, celebración de 2024](https://www.armenianchurch.org/en/news/06-01-2024/11743).

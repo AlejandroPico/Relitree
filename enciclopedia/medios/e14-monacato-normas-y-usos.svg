@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 432" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Cómo estudiar la vida de un monasterio</title>
+<desc id="descripcion">Regla y costumbre. Guardan las normas y expectativas de la comunidad. Carta, cuenta y acta. Documentan decisiones, relaciones con otras personas y asuntos de gobierno. Edificio y paisaje. Permiten estudiar usos, desplazamientos y cambios materiales.</desc>
+<style>text{font-family:system-ui,sans-serif;fill:#1e3030}.titulo{font-size:28px;font-weight:700}.etiqueta{font-size:21px;font-weight:700}.detalle{font-size:18px}</style>
+<rect width="840" height="432" fill="#f5f4ec"/>
+<text x="34" y="40" class="titulo">Cómo estudiar la vida de un monasterio</text>
+<rect x="34" y="70" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="70" width="5" height="100" fill="#36605a"/>
+<text x="55" y="99" class="etiqueta">Regla y costumbre</text>
+<text x="55" y="128" class="detalle">Guardan las normas y expectativas de la comunidad.</text>
+<rect x="34" y="182" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="182" width="5" height="100" fill="#36605a"/>
+<text x="55" y="211" class="etiqueta">Carta, cuenta y acta</text>
+<text x="55" y="240" class="detalle">Documentan decisiones, relaciones con otras personas y asuntos de</text>
+<text x="55" y="262" class="detalle">gobierno.</text>
+<rect x="34" y="294" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="294" width="5" height="100" fill="#36605a"/>
+<text x="55" y="323" class="etiqueta">Edificio y paisaje</text>
+<text x="55" y="352" class="detalle">Permiten estudiar usos, desplazamientos y cambios materiales.</text>
+</svg>

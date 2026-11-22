@@ -4,6 +4,15 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E14 · 14.6. [Orden cisterciense](enciclopedia/es/religiones/cistercienses.md), 5.068 palabras de cuerpo. [Iglesia apostólica armenia](enciclopedia/es/religiones/armenia.md), 5.022 palabras de cuerpo. Dos esquemas propios por artículo. Versión 1.7.51.
+  - E01 recoge la Carta de Caridad, los usos y directorios monásticos, el Badarak, los manuscritos armenios y los jachkares.
+
+- [x] E14 · 14.5. [Monacato cristiano](enciclopedia/es/religiones/monacato.md), 5.028 palabras de cuerpo. [Orden benedictina](enciclopedia/es/religiones/benedictinos.md), 5.024 palabras de cuerpo. Dos esquemas propios por artículo. Versión 1.7.51.
+  - E01 recoge la vida eremítica y cenobítica, la Regla, las horas monásticas, la estabilidad y la oblación.
+
+- [x] E14 · 14.4. [Marcionismo](enciclopedia/es/religiones/marcionismo.md), 5.423 palabras de cuerpo. [Montanismo](enciclopedia/es/religiones/montanismo.md), 5.139 palabras de cuerpo. Dos esquemas propios por artículo. Versión 1.7.51.
+  - E01 recoge el Euangelion, el Apostolikon, la Nueva Profecía y sus fuentes. Las cifras antiguas y la reconstrucción de los calendarios quedan abiertas.
+
 - [x] E14 · 14.3. [Gnosticismo](enciclopedia/es/religiones/gnosticismo.md), 10.122 palabras de cuerpo. [Valentinianismo](enciclopedia/es/religiones/valentinianismo.md), 10.123 palabras de cuerpo. Versión 1.7.49.
   - E01 actualizado en los seis temas. Los ritos se documentan por su alcance y fuente. Los testimonios conservados carecen de datos suficientes para un calendario común o cifras demográficas comparables.
 

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1060
+palabras: 1351
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -16,6 +16,14 @@ fuentes:
   - "https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphon-of-john/"
   - "https://www.newadvent.org/fathers/0103100.htm"
   - "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-philip/"
+  - "https://academic.oup.com/book/40383/chapter-abstract/347145778"
+  - "https://www.newadvent.org/fathers/250105.htm"
+  - "https://www.newadvent.org/fathers/0408.htm"
+  - "https://onlinelibrary.wiley.com/doi/book/10.1002/9780470754580"
+  - "https://archive.osb.org/rb/text/"
+  - "https://www.ocso.org/uploads/general-news/documents/Conferencias-Carta-Caritatis.-pdf-ES.pdf"
+  - "https://www.armenianchurch.org/en/The%20Liturgy%20of%20the%20Hours/"
+  - "https://ich.unesco.org/en/lists?RL=00434"
 ---
 
 # Glosario general
@@ -150,6 +158,44 @@ Motivo de unión que aparece en el *Evangelio de Felipe*. Se discute su relació
 
 Forma de una obra que se reconoce por un conjunto compartido de variantes. Puede transmitirse en varios manuscritos. Los cuatro testigos coptos del *Libro secreto de Juan* conservan dos recensiones, una larga y otra breve. La ficha de NASSCAL recoge los manuscritos y las ediciones en paralelo. Véase [[gnosticismo|Gnosticismo]].
 
+## Tradiciones cristianas antiguas, monásticas y armenias
+
+### Euangelion, Apostolikon y Antítesis
+
+*Euangelion* identifica en el estudio del [[marcionismo|Marcionismo]] un evangelio estrechamente relacionado con Lucas. *Apostolikon* designa su colección de diez cartas paulinas. *Antítesis* se aplica al escrito de oposiciones que le atribuyen los polemistas. Los tres nombres remiten a tradiciones de transmisión indirecta.
+
+[Roth, evangelio y colección paulina de Marción](https://academic.oup.com/book/40383/chapter-abstract/347145778)
+
+### Nueva Profecía y Paráclito
+
+«Nueva Profecía» alude al movimiento de Montano, Priscila y Maximila. Paráclito, nombre joánico del defensor o abogado, ocupa un lugar en la defensa de la disciplina y la inspiración continuada de Tertuliano. Véase [[montanismo|Montanismo]].
+
+[Eusebio, Historia eclesiástica V](https://www.newadvent.org/fathers/250105.htm) · [Tertuliano, Sobre el ayuno](https://www.newadvent.org/fathers/0408.htm)
+
+### Ascesis, cenobio y laura
+
+Ascesis es un ejercicio religioso que puede organizar el ayuno, la vigilia, la oración y otras prácticas. Un cenobio es una comunidad de vida en común. Una laura puede combinar celdas separadas con ciertas celebraciones y vínculos comunes. Véase [[monacato|Monacato cristiano]].
+
+[Dunn, The Emergence of Monasticism](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470754580)
+
+### Estabilidad, observancia y oblación
+
+La estabilidad vincula la profesión con una comunidad en la tradición [[benedictinos|benedictina]]. *Conversatio morum* se refiere a la forma de vida monástica asumida en la profesión. Oblación puede designar una vinculación laical contemporánea o prácticas medievales diferentes, entre ellas la entrega de un menor. La definición depende de la época y el documento.
+
+[Regla de san Benito, capítulos 58–59](https://archive.osb.org/rb/text/)
+
+### Filiación y Carta de Caridad
+
+Filiación es el vínculo de una abadía hija con su casa madre. La *Carta Caritatis* articula ese nexo con usos compartidos, visita y capítulo en la red [[cistercienses|cisterciense]]. Las formas jurídicas tienen una historia de versiones y desarrollo.
+
+[OCSO, estudios sobre la Carta de Caridad](https://www.ocso.org/uploads/general-news/documents/Conferencias-Carta-Caritatis.-pdf-ES.pdf)
+
+### Catolicós, Badarak y jachkar
+
+Catolicós es un título de primado en varias Iglesias orientales, entre ellas la [[armenia|Iglesia apostólica armenia]]. *Badarak* nombra su celebración eucarística. Jachkar o *khachkar* es una estela tallada con una cruz y ornamentación, con usos de memoria y devoción.
+
+[Santa Sede de Echmiadzin, liturgia armenia](https://www.armenianchurch.org/en/The%20Liturgy%20of%20the%20Hours/) · [UNESCO, tradición del jachkar](https://ich.unesco.org/en/lists?RL=00434)
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -165,3 +211,11 @@ Forma de una obra que se reconoce por un conjunto compartido de variantes. Puede
 - NASSCAL. [Apocryphon of John](https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphon-of-john/).
 - Ireneo de Lyon. [Contra las herejías I](https://www.newadvent.org/fathers/0103100.htm).
 - NASSCAL. [Gospel of Philip](https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-philip/).
+- [Roth, evangelio y colección paulina de Marción](https://academic.oup.com/book/40383/chapter-abstract/347145778).
+- [Eusebio, Historia eclesiástica V](https://www.newadvent.org/fathers/250105.htm).
+- [Tertuliano, Sobre el ayuno](https://www.newadvent.org/fathers/0408.htm).
+- [Dunn, The Emergence of Monasticism](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470754580).
+- [Regla de san Benito, capítulos 58–59](https://archive.osb.org/rb/text/).
+- [OCSO, estudios sobre la Carta de Caridad](https://www.ocso.org/uploads/general-news/documents/Conferencias-Carta-Caritatis.-pdf-ES.pdf).
+- [Santa Sede de Echmiadzin, liturgia armenia](https://www.armenianchurch.org/en/The%20Liturgy%20of%20the%20Hours/).
+- [UNESCO, tradición del jachkar](https://ich.unesco.org/en/lists?RL=00434).

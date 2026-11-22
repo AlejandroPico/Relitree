@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 432" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Dos escalas de organización benedictina</title>
+<desc id="descripcion">Cluny medieval. Abadía con prioratos y otros monasterios vinculados mediante relaciones diversas. Confederación Benedictina. Vínculo contemporáneo entre congregaciones y casas, con representación propia. Referencia compartida. La Regla se aplica dentro de estructuras de gobierno diferentes.</desc>
+<style>text{font-family:system-ui,sans-serif;fill:#1e3030}.titulo{font-size:28px;font-weight:700}.etiqueta{font-size:21px;font-weight:700}.detalle{font-size:18px}</style>
+<rect width="840" height="432" fill="#f5f4ec"/>
+<text x="34" y="40" class="titulo">Dos escalas de organización benedictina</text>
+<rect x="34" y="70" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="70" width="5" height="100" fill="#36605a"/>
+<text x="55" y="99" class="etiqueta">Cluny medieval</text>
+<text x="55" y="128" class="detalle">Abadía con prioratos y otros monasterios vinculados mediante</text>
+<text x="55" y="150" class="detalle">relaciones diversas.</text>
+<rect x="34" y="182" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="182" width="5" height="100" fill="#36605a"/>
+<text x="55" y="211" class="etiqueta">Confederación Benedictina</text>
+<text x="55" y="240" class="detalle">Vínculo contemporáneo entre congregaciones y casas, con</text>
+<text x="55" y="262" class="detalle">representación propia.</text>
+<rect x="34" y="294" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="294" width="5" height="100" fill="#36605a"/>
+<text x="55" y="323" class="etiqueta">Referencia compartida</text>
+<text x="55" y="352" class="detalle">La Regla se aplica dentro de estructuras de gobierno diferentes.</text>
+</svg>

@@ -116,15 +116,15 @@ En `cristianismo/concilios/`, encabezar cada artículo con el año o intervalo a
 
 ## Desarrollo de las tradiciones de E14–E22
 
-Cada tradición se desarrolla en `enciclopedia/es/religiones/<id>.md` y se abre desde su propia entidad del árbol. Los estudios adicionales y sus índices se sitúan en la carpeta de esa entidad. Escribir entre 10.000 y 15.000 palabras de cuerpo por entrada, con cronología, contexto, enseñanzas, ritos, organización, textos, símbolos, variantes y comparaciones documentadas. Se pueden distribuir las secciones en subcategorías cuando la navegación lo justifique. Aplicar el mantenimiento de E01 en cada entrega.
+Cada tradición se desarrolla en `enciclopedia/es/religiones/<id>.md` y se abre desde su propia entidad del árbol. Los estudios adicionales y sus índices se sitúan en la carpeta de esa entidad. Desarrollar cada entrada con un objetivo de 10.000 a 15.000 palabras de cuerpo, con cronología, contexto, enseñanzas, ritos, organización, textos, símbolos, variantes y comparaciones documentadas. Se pueden distribuir las secciones en subcategorías cuando la navegación lo justifique. Aplicar el mantenimiento de E01 en cada entrega.
 
 Antes de retomar una fase, consultar el reparto y las casillas de `enciclopedia/PLAN.md` y comprobar la versión y las últimas entregas en `tareas.md`. Si una tanda queda interrumpida, retomar la primera entrega pendiente con sus archivos y fuentes de trabajo. Actualizar el registro al publicar.
 
 ### Punto de relevo
 
-En la versión 1.7.49 están completos 14.1 (Cristianismo y Ebionitas), 14.2 (Elcasaítas y Maniqueísmo) y 14.3 (Gnosticismo y Valentinianismo). Sus seis entradas superan las 10.000 palabras de cuerpo y se consultan desde sus propias entidades. El índice de cada artículo enlaza a sus secciones y subsecciones.
+En la versión 1.7.51 está completa la fase E14, entregas 14.1–14.6. Sus doce entradas se abren desde sus entidades en el árbol. Los seis artículos de 14.4–14.6 tienen entre 5.000 y 5.500 palabras de cuerpo y dos esquemas cada uno. El objetivo de ampliación editorial sigue siendo 10.000 palabras por artículo. El glosario y los cinco temas comparativos de E01 recogen la fase. El índice de la Enciclopedia destaca en negrita los artículos con estado completo a partir de E14.
 
-La siguiente entrega de E14 es **14.4 · Marcionismo y Montanismo**. Revisar las fichas de partida en `enciclopedia/es/religiones/marcionismo.md` y `enciclopedia/es/religiones/montanismo.md`. El reparto de 14.5 y 14.6 figura en `enciclopedia/PLAN.md`. Al terminar cada tanda, actualizar este relevo y `tareas.md`, con el recuento y los cambios en los seis temas de E01.
+La siguiente fase del plan es **E15 · Cristianismo · tradiciones (2/9)**. Empieza por Donatismo y Arrianismo. Consulta `enciclopedia/PLAN.md` y `tareas.md` antes de intervenir. Al terminar cada tanda, actualiza el relevo, el recuento y el registro de los seis temas de E01.
 
 ## Mantenimiento acumulativo de E01
 

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 544" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Acontecimientos de historia eclesial armenia</title>
+<desc id="descripcion">Siglo IV. Cristianización regia. El año tradicional de conversión es 301. Comienzos del siglo V. Creación del alfabeto atribuida a Mesrop Mashtóts. 451 y siglos siguientes. Calcedonia, batalla de Avarayr y recepción conciliar gradual. 1441 y siglo XX. Restablecimiento de la sede de Echmiadzin y reorganización de comunidades tras el genocidio.</desc>
+<style>text{font-family:system-ui,sans-serif;fill:#1e3030}.titulo{font-size:28px;font-weight:700}.etiqueta{font-size:21px;font-weight:700}.detalle{font-size:18px}</style>
+<rect width="840" height="544" fill="#f5f4ec"/>
+<text x="34" y="40" class="titulo">Acontecimientos de historia eclesial armenia</text>
+<rect x="34" y="70" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="70" width="5" height="100" fill="#36605a"/>
+<text x="55" y="99" class="etiqueta">Siglo IV</text>
+<text x="55" y="128" class="detalle">Cristianización regia. El año tradicional de conversión es 301.</text>
+<rect x="34" y="182" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="182" width="5" height="100" fill="#36605a"/>
+<text x="55" y="211" class="etiqueta">Comienzos del siglo V</text>
+<text x="55" y="240" class="detalle">Creación del alfabeto atribuida a Mesrop Mashtóts.</text>
+<rect x="34" y="294" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="294" width="5" height="100" fill="#36605a"/>
+<text x="55" y="323" class="etiqueta">451 y siglos siguientes</text>
+<text x="55" y="352" class="detalle">Calcedonia, batalla de Avarayr y recepción conciliar gradual.</text>
+<rect x="34" y="406" width="772" height="100" fill="#e4ebe3"/>
+<rect x="34" y="406" width="5" height="100" fill="#36605a"/>
+<text x="55" y="435" class="etiqueta">1441 y siglo XX</text>
+<text x="55" y="464" class="detalle">Restablecimiento de la sede de Echmiadzin y reorganización de</text>
+<text x="55" y="486" class="detalle">comunidades tras el genocidio.</text>
+</svg>

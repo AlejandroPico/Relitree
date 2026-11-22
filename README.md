@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.50**
+**Versión 1.7.51**
+
+La [fase E14](enciclopedia/PLAN.md#fase-e14--cristianismo--tradiciones-19) incorpora Marcionismo, Montanismo, Monacato cristiano, Orden benedictina, Orden cisterciense e Iglesia apostólica armenia. Los artículos incluyen índice de secciones, esquemas y bibliografía. El glosario y los cinco temas comparativos de E01 recogen estas incorporaciones.
 
 El índice de la Enciclopedia muestra en negrita los artículos completos de la revisión iniciada en E14. El nombre de una entrada conserva esa indicación tanto si se abre directamente como si contiene un desplegable.
 

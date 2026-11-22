@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1053
+palabras: 1232
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -14,6 +14,11 @@ fuentes:
   - "https://www.newadvent.org/fathers/050109.htm"
   - "https://www.newadvent.org/fathers/0103304.htm"
   - "https://www.cambridge.org/core/books/nag-hammadi-codices-and-their-ancient-readers/9B2AEA9141B7E747BA33277AE8D9D187"
+  - "https://academic.oup.com/edited-volume/61673/chapter-abstract/549651580"
+  - "https://www.cambridge.org/core/books/marcion-and-the-making-of-a-heretic/5CACAE98DAE26863383990F4EBD18F72"
+  - "https://osb.org/the-benedictine-order/the-benedictine-confederation/"
+  - "https://www.ocso.org/resources/law/"
+  - "https://www.oikoumene.org/member-churches/armenian-apostolic-church-mother-see-of-holy-etchmiadzin"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -82,6 +87,26 @@ El lugar donde se conoció un escrito puede estar documentado de manera distinta
 
 La ampliación incorporará un mapa propio con año y metodología visibles, diferencias regionales, discusión de identidades múltiples y el tratamiento de proyecciones. [[como-leer|Cómo leer el árbol]] explica la diferencia entre el territorio del nodo y la distribución geográfica actual. [[que-es-una-religion|Qué es una religión]] examina cómo afectan las definiciones a la medición.
 
+## Comunidades cristianas, casas y territorios
+
+### Presencia documentada y tamaño desconocido
+
+Para [[marcionismo|Marcionismo]], los testimonios vinculan a Marción con Roma y conservan discusiones en otros territorios. Para [[montanismo|Montanismo]], se distinguen lugares mencionados en Frigia, identificaciones arqueológicas y la recepción latina en Cartago. Esos datos acreditan presencia documental, material o literaria. El tamaño de las poblaciones antiguas queda abierto.
+
+[Oxford Classical Dictionary, Montanism](https://academic.oup.com/edited-volume/61673/chapter-abstract/549651580) · [Judith M. Lieu, historia de las fuentes marcionitas](https://www.cambridge.org/core/books/marcion-and-the-making-of-a-heretic/5CACAE98DAE26863383990F4EBD18F72)
+
+### Monasterios, profesos y visitantes
+
+En [[monacato|Monacato cristiano]], una casa puede tener monjes o monjas, personas en formación, oblados y visitantes. El directorio de la Confederación [[benedictinos|benedictina]] responde a criterios de pertenencia institucional. Para [[cistercienses|Císter]], además, se debe indicar la orden u observancia a la que pertenece la casa. En una comparación estadística hay que fijar la unidad de recuento, la fecha y la cobertura.
+
+[Confederación Benedictina, estructura institucional](https://osb.org/the-benedictine-order/the-benedictine-confederation/) · [OCSO, constituciones y estatutos](https://www.ocso.org/resources/law/)
+
+### Adscripción eclesial y diáspora armenia
+
+Las jurisdicciones de la [[armenia|Iglesia apostólica armenia]] se extienden por Armenia y la diáspora. Un perfil de comunión eclesiástica describe sedes, diócesis y vínculos institucionales. Una cifra de población exige diferenciar ascendencia, autoadscripción, registro de parroquia y práctica, así como su territorio y fecha.
+
+[Consejo Mundial de Iglesias, Santa Sede de Echmiadzin](https://www.oikoumene.org/member-churches/armenian-apostolic-church-mother-see-of-holy-etchmiadzin)
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -95,3 +120,8 @@ La ampliación incorporará un mapa propio con año y metodología visibles, dif
 - Refutación de todas las herejías. [Libro IX](https://www.newadvent.org/fathers/050109.htm).
 - Ireneo de Lyon. [Contra las herejías III.4](https://www.newadvent.org/fathers/0103304.htm).
 - Paul Linjamaa. [The Nag Hammadi Codices and their Ancient Readers](https://www.cambridge.org/core/books/nag-hammadi-codices-and-their-ancient-readers/9B2AEA9141B7E747BA33277AE8D9D187).
+- [Oxford Classical Dictionary, Montanism](https://academic.oup.com/edited-volume/61673/chapter-abstract/549651580).
+- [Judith M. Lieu, historia de las fuentes marcionitas](https://www.cambridge.org/core/books/marcion-and-the-making-of-a-heretic/5CACAE98DAE26863383990F4EBD18F72).
+- [Confederación Benedictina, estructura institucional](https://osb.org/the-benedictine-order/the-benedictine-confederation/).
+- [OCSO, constituciones y estatutos](https://www.ocso.org/resources/law/).
+- [Consejo Mundial de Iglesias, Santa Sede de Echmiadzin](https://www.oikoumene.org/member-churches/armenian-apostolic-church-mother-see-of-holy-etchmiadzin).
