@@ -157,6 +157,7 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 - [x] E00 · Reproductor de la enciclopedia con navegación por párrafos y ajustes de lectura.
 - [x] E01 · «Cómo leer el árbol» y «Tipos de religión».
+- [x] E01 · «Qué es una religión» y «Los orígenes del pensamiento religioso en la prehistoria». Ampliación inicial de Textos, Simbología, Calendarios, Demografía, Historiografía y Glosario. Instrucciones de mantenimiento en `agentes.md`. Versión 1.7.46.
 - [x] E02 · «Cristianismo» y «La vida de Jesús de Nazaret».
 - [x] E00 · Ruta completa, índice de secciones, citas enlazadas y pronunciación en español.
 - [x] E00 · Validación de 5.000 palabras de cuerpo para los artículos completos.
@@ -166,7 +167,7 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 - [x] Mapa · Los giros terminales sustituyen el tramo de tronco que solapaban. Se incorporó una primera separación de ramas del mismo año y lado.
 
 ## Fase A · Enciclopedia (78 fases, 861 artículos; detalle en `enciclopedia/PLAN.md`)
-- E01 · Temas generales. Textos ampliados: «Cómo leer el árbol» y «Tipos de religión». Quedan por desarrollar y revisar los otros ocho temas, con sus fuentes y recursos visuales.
+- E01 · Temas generales. Cuatro artículos completos y seis borradores ampliados. Los borradores se actualizan en la misma entrega que las altas o revisiones sustanciales de tradiciones según `agentes.md`.
 - E02 · Cristianismo: fundamentos. Fase completada con doce artículos.
 - E03 · Apóstoles y primeros siglos. Las doce entradas son borradores pendientes de desarrollo completo.
 - E04 · Cristianismo, concilios ecuménicos (I). Completa, 11 de 11 artículos publicados. Disponibles [Nicea I (325)](enciclopedia/es/religiones/cristianismo/concilios/nicea-i.md), [Constantinopla I (381)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-i.md), [Éfeso (431)](enciclopedia/es/religiones/cristianismo/concilios/efeso.md), [Calcedonia (451)](enciclopedia/es/religiones/cristianismo/concilios/calcedonia.md), [Constantinopla II (553)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-ii.md), [Constantinopla III (680–681)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-iii.md), [Nicea II (787)](enciclopedia/es/religiones/cristianismo/concilios/nicea-ii.md), [Constantinopla IV (869–870)](enciclopedia/es/religiones/cristianismo/concilios/constantinopla-iv.md), [Letrán I (1123)](enciclopedia/es/religiones/cristianismo/concilios/letran-i.md), [Letrán II (1139)](enciclopedia/es/religiones/cristianismo/concilios/letran-ii.md) y [Letrán III (1179)](enciclopedia/es/religiones/cristianismo/concilios/letran-iii.md).
@@ -191,18 +192,18 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 Los borradores de E01–E03 indican al abrirse qué falta por desarrollar y en qué episodio corresponde hacerlo.
 
-Siete artículos alcanzan las 5.000 palabras de cuerpo. Las siguientes 27 entradas requieren investigación, desarrollo, recursos visuales y revisión antes de cambiar su estado.
+Registro de la auditoría inicial de E01–E03. El seguimiento de E01 se actualiza con la versión 1.7.46. Las demás líneas conservan los resultados de la auditoría inicial.
 
 ### E01
 
-- [ ] [Qué es una religión: definiciones y debates](enciclopedia/es/temas/03-que-es-una-religion.md) · 416 palabras de cuerpo en la auditoría inicial.
-- [ ] [Los orígenes del pensamiento religioso en la prehistoria](enciclopedia/es/temas/04-origenes-pensamiento-religioso.md) · 340 palabras de cuerpo en la auditoría inicial.
-- [ ] [Textos sagrados del mundo comparados](enciclopedia/es/temas/05-textos-sagrados.md) · 319 palabras de cuerpo en la auditoría inicial.
-- [ ] [Simbología religiosa comparada](enciclopedia/es/temas/06-simbologia-religiosa.md) · 304 palabras de cuerpo en la auditoría inicial.
-- [ ] [Calendarios y festividades del mundo](enciclopedia/es/temas/07-calendarios-festividades.md) · 306 palabras de cuerpo en la auditoría inicial.
-- [ ] [Mapa religioso actual: demografía y tendencias](enciclopedia/es/temas/08-mapa-religioso-actual.md) · 347 palabras de cuerpo en la auditoría inicial.
-- [ ] [Historia del estudio de las religiones](enciclopedia/es/temas/09-historia-estudio-religiones.md) · 307 palabras de cuerpo en la auditoría inicial.
-- [ ] [Glosario general](enciclopedia/es/temas/10-glosario-general.md) · 107 palabras de cuerpo en la auditoría inicial.
+- [x] [Qué es una religión: definiciones y debates](enciclopedia/es/temas/03-que-es-una-religion.md) · 5.355 palabras de cuerpo en 1.7.46.
+- [x] [Los orígenes del pensamiento religioso en la prehistoria](enciclopedia/es/temas/04-origenes-pensamiento-religioso.md) · 5.124 palabras de cuerpo en 1.7.46.
+- [ ] [Textos sagrados del mundo comparados](enciclopedia/es/temas/05-textos-sagrados.md) · 750 palabras de cuerpo en 1.7.46.
+- [ ] [Simbología religiosa comparada](enciclopedia/es/temas/06-simbologia-religiosa.md) · 723 palabras de cuerpo en 1.7.46.
+- [ ] [Calendarios y festividades del mundo](enciclopedia/es/temas/07-calendarios-festividades.md) · 650 palabras de cuerpo en 1.7.46.
+- [ ] [Mapa religioso actual: demografía y tendencias](enciclopedia/es/temas/08-mapa-religioso-actual.md) · 720 palabras de cuerpo en 1.7.46.
+- [ ] [Historia del estudio de las religiones](enciclopedia/es/temas/09-historia-estudio-religiones.md) · 651 palabras de cuerpo en 1.7.46.
+- [ ] [Glosario general](enciclopedia/es/temas/10-glosario-general.md) · 497 palabras de cuerpo en 1.7.46.
 
 ### E02
 

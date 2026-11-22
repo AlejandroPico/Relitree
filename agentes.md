@@ -114,6 +114,29 @@ En `cristianismo/concilios/`, encabezar cada artículo con el año o intervalo a
 
 15. Al cerrar cada fase: actualizar `PLAN.md` y `tareas.md`, y dar los comandos PowerShell de git y de ejecución local.
 
+## Mantenimiento acumulativo de E01
+
+**Aplicación obligatoria en la misma entrega.** Quien añada una tradición a la enciclopedia o revise de manera sustancial una tradición existente, aunque el cambio se haga en un subartículo, debe revisar los seis temas comparativos de E01. Se considera sustancial un cambio que aporta información nueva, corrige una interpretación o sustituye un dato o una fuente relevante. Aplicar también el procedimiento al corregir, renombrar, fusionar o retirar una tradición si ello afecta a sus referencias en E01. Los ajustes de ortografía o presentación se benefician de una corrección directa cuando también afectan a una entrada comparativa.
+
+1. Identificar el artículo de referencia y su identificador canónico. Revisar sus fuentes y anotar qué información se incorpora, qué ámbito tiene y qué datos anteriores quedan corregidos.
+2. Abrir los seis archivos indicados abajo. Consultar siempre el glosario. En cada tema aplicable, añadir, corregir o ampliar la entrada con la información pertinente y documentada en esta entrega. Dar preferencia a actualizar una entrada existente y separar sus variantes por territorio, época, escuela o uso cuando la documentación lo permita.
+3. Añadir junto al dato un enlace interno al artículo o subartículo de referencia y una fuente que sustente la afirmación. Enlazar desde el artículo de la tradición al tema general cuando facilite seguir la comparación. Comprobar que los identificadores y las remisiones sean válidos y que las secciones nuevas se puedan abrir desde el índice. Si se corrige un dato, revisar también las tablas, figuras, pies y referencias relacionadas.
+4. Cuando la nueva información resulte insuficiente para algún tema, indicar en el registro de la entrega en `tareas.md` qué tema se revisó y, si procede, qué evidencia queda por conseguir. Las tradiciones históricas pueden documentarse mediante el territorio y las fechas de su presencia. Dejar sin cuantificar los datos de población sin fundamento y distinguir los grados de certeza de cualquier atribución.
+5. Mantener el aviso visible de cada borrador y ajustar lo que queda por desarrollar. Recontar las palabras de cuerpo y actualizar `palabras`, `fuentes`, el plan y el estado editorial según la validación de la enciclopedia. Al cerrar la entrega, comprobar la compilación y anotar qué entradas y referencias de E01 se tocaron.
+
+| Tema en `enciclopedia/es/temas/` | Qué incorporar cuando la tradición aporte evidencia |
+|---|---|
+| `05-textos-sagrados.md` · Textos y transmisión | Nombre propio y variantes, lengua, corpus escrito u oral, periodo de composición o testimonio, forma de transmisión, autoridad reconocida y uso. Diferenciar manuscrito, edición, traducción, comentario y canon. Explicar qué grupo acepta un corpus y documentar las variantes internas. |
+| `06-simbologia-religiosa.md` · Simbología comparada | Motivo, soporte, época, procedencia, comunidad que lo usa, sentido documentado y variantes. Contrastar la semejanza visual y la posible transmisión mediante indicios fechados. Para una pieza ilustrada, registrar además autoría, procedencia, licencia, texto alternativo y fuente. |
+| `07-calendarios-festividades.md` · Calendarios y festividades | Nombre, fecha o regla en su propio calendario, duración, rito y ámbito regional o comunitario. Toda equivalencia gregoriana requiere año, ámbito y fuente. Distinguir reglas de cómputo, anuncios de fechas y prácticas locales. |
+| `08-mapa-religioso-actual.md` · Demografía y tendencias | Territorio, año de referencia, medida, población cubierta y fuente. Para porcentajes, precisar el denominador. Incluir el intervalo o la limitación de cobertura cuando la fuente los proporcione. Diferenciar afiliación, práctica, registro y estimaciones de presencia histórica. |
+| `09-historia-estudio-religiones.md` · Historiografía | Autoría y fecha del estudio, tipos de fuente, método, pregunta, aportación y desacuerdos relevantes. Situar por separado las fuentes antiguas y el estudio moderno que las interpreta. |
+| `10-glosario-general.md` · Glosario general | Lema y variantes o transliteración, definición con alcance, ejemplo documentado y enlace al caso. Buscar primero el término y sus variantes. Ampliar acepciones en la misma entrada cuando se trate del mismo lema y diferenciar los usos técnicos de los propios de una comunidad. |
+
+Ejemplo de aplicación. Una revisión que identifica dos formas locales documentadas de celebrar una fiesta debe explicar su regla y ámbito en el artículo de la tradición y en Calendarios. Si introduce un término nuevo de cómputo, incorporarlo al Glosario. Si el estudio incluye además una revisión de las fuentes históricas de la fiesta, incorporar el debate a Historiografía. Registrar los demás temas revisados cuando la evidencia no aporte datos para ampliarlos.
+
+Actualizar «Qué es una religión» y «Los orígenes del pensamiento religioso en la prehistoria» cuando una revisión aporte evidencia pertinente para una definición o una interpretación arqueológica tratada en ellos. Mantener las tradiciones en sus entradas propias del árbol y usar los temas generales como puntos de comparación y consulta.
+
 ## Criterios editoriales (obligatorios)
 
 - **Contenido propio.** Selección, fechas, relaciones y textos se redactan a partir de fuentes académicas y enciclopédicas contrastadas (Wikipedia, Britannica, bibliografía especializada). No se transcriben ni calcan infografías, mapas o textos de terceros.

@@ -1,12 +1,13 @@
 ---
 estado: borrador
 fase: E01
-palabras: 444
+palabras: 497
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
+  - "https://historicengland.org.uk/images-books/publications/radiocarbon-dating-chronological-modelling/"
 ---
 
 # Glosario general
@@ -49,6 +50,38 @@ En [[como-leer|Cómo leer el árbol]] aparecen ejemplos de los dos trazos puntea
 
 Consulta [[tipos|Tipos de religión]], [[textos-sagrados|Textos sagrados]], [[simbologia-religiosa|Simbología]] y [[calendarios-festividades|Calendarios y festividades]].
 
+## Formas de nombrar una tradición
+
+### Religión vivida
+
+Estudio de cómo se practican, interpretan y transmiten las religiones en la vida cotidiana. Examina la acción de las instituciones, las familias y las redes informales, además del modo en que las personas reúnen prácticas o les dan continuidad. Mirar cómo se mantiene un espacio de devoción doméstica ayuda a aplicar el concepto. Puede consultarse junto a los enfoques de [[que-es-una-religion|Qué es una religión]].
+
+### Autodenominación y exónimo
+
+Una **autodenominación** es un nombre usado por quienes se reconocen como miembros de un pueblo, grupo o tradición. Un **exónimo** es un nombre empleado desde fuera del grupo en un contexto determinado. Si una fuente antigua reúne a varias comunidades bajo una sola etiqueta, su estudio empieza por identificar quién la acuñó y quién usaba otras denominaciones. Ejemplos y criterios de clasificación en [[tipos|Tipos de religión]].
+
+## Conservación de nombres, prácticas y pruebas
+
+### Leccionario
+
+Conjunto organizado de lecturas asignadas según ocasiones o fechas de una celebración. Permite comprobar qué textos están previstos para un acto y en qué orden. Su estructura depende del rito, la edición y la autoridad o comunidad que la utiliza. Véase [[cristianismo/vida-cristiana/liturgia-y-ano-liturgico|Liturgia y año litúrgico]].
+
+### Iconografía
+
+Estudio de figuras, motivos y temas en su combinación y contexto. Una figura puede reconocerse mediante su posición, atributos, inscripciones y comparación con otras piezas. Si una rueda forma parte de una escena budista, su interpretación se argumenta con el conjunto del objeto y su procedencia. Véase [[simbologia-religiosa|Simbología religiosa comparada]].
+
+### Calendario lunisolar
+
+Calendario que organiza los meses en relación con las fases lunares y mantiene su correspondencia aproximada con el ciclo solar mediante ajustes. La intercalación de un mes ayuda a que una festividad siga en la estación prevista. Se explica junto a otros sistemas en [[calendarios-festividades|Calendarios y festividades]].
+
+### Tafonomía y relación estratigráfica
+
+La **tafonomía** estudia los procesos que modificaron los restos a partir de su depósito, como la acción del agua, el crecimiento de raíces o las intervenciones posteriores. Una **relación estratigráfica** describe el orden material entre depósitos y estructuras. Por ejemplo, una fosa que corta una capa se formó después de esa capa. Ambas nociones ayudan a interpretar los contextos en [[origenes-pensamiento-religioso|Los orígenes del pensamiento religioso en la prehistoria]].
+
+### Puntos porcentuales
+
+Unidad de la diferencia entre porcentajes. Un cambio del 20 % al 23 % equivale a tres puntos porcentuales. Si se calcula cuánto aumenta la magnitud respecto al porcentaje inicial, el resultado relativo es del 15 %. Véase [[mapa-religioso-actual|Mapa religioso actual]] para aplicar la diferencia a una serie con año y población definidos.
+
 ## Fuentes y población
 
 | Término | Uso |
@@ -67,3 +100,4 @@ En [[origenes-pensamiento-religioso|Prehistoria]], [[historia-estudio-religiones
 - Kevin Schilbrack. [The Concept of Religion](https://plato.stanford.edu/entries/concept-religion/). Stanford Encyclopedia of Philosophy.
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
 - Pew Research Center. [Estudio de la composición religiosa mundial](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/).
+- Historic England. [Radiocarbon Dating and Chronological Modelling](https://historicengland.org.uk/images-books/publications/radiocarbon-dating-chronological-modelling/).

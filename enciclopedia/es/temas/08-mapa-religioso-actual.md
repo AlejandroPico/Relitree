@@ -1,10 +1,11 @@
 ---
 estado: borrador
 fase: E01
-palabras: 414
+palabras: 720
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
+  - "https://www.pewresearch.org/religion/2025/06/09/global-religious-change-methodology/"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -37,6 +38,22 @@ La evolución del grupo cristiano ilustra la diferencia entre número y proporci
 
 Un mapa con el grupo mayoritario de cada país puede ocultar comunidades que reúnen a millones de personas. Un mapa de porcentajes representa una medida distinta de otro que muestra números absolutos o densidades. La categoría «otras religiones» reúne tradiciones diferentes y su tamaño no permite deducir el de cada una. La falta de afiliación se define por la respuesta de identidad en el estudio. En las preguntas sobre creencias, prácticas o tradiciones familiares pueden aparecer resultados distintos.
 
+## Leer tendencias y ámbitos geográficos
+
+### Cambio de proporción y cambio del número estimado
+
+La proporción mundial estimada de personas sin afiliación pasó del 23,3 % al 24,2 % en la serie de Pew. La diferencia es de 0,9 puntos porcentuales. En el mismo periodo, el número de personas y el total de habitantes cambiaron. Para informar de un incremento relativo de población hay que calcularlo a partir de recuentos comparables y expresar con claridad qué magnitud se usa. La cifra mundial agrega poblaciones que difieren en composición de edades, migraciones y modo de recoger la identidad religiosa. Para explicar un caso particular, el primer paso es consultar el desglose por país y ver qué tipo de fuentes intervienen en la estimación.
+
+Los informes de consolidación estadística pueden revisar estimaciones anteriores al incorporar nuevas fuentes. Conviene usar la misma publicación y metodología al presentar los dos años de una serie. Si se quiere comparar un dato con el de otro equipo, se comprueba primero si cada publicación considera la misma población, recoge las mismas respuestas y agrupa a las comunidades de la misma forma. Anotar la fecha y la edición facilita comprobar posteriormente cómo se llegó a un resultado.
+
+### Qué puede decirse sobre tradiciones pequeñas o históricas
+
+Una agrupación internacional puede incluir comunidades de ámbito reducido dentro de una categoría amplia. En esas circunstancias una estimación local, cuando especifica fechas y criterios, permite dar una descripción más precisa de la zona que estudió. Un directorio de asociaciones da otro tipo de información y puede servir para estudiar presencia institucional. Si una práctica está documentada históricamente, la síntesis demográfica puede ofrecer el periodo y territorio de los testimonios. Por ejemplo, una inscripción fechada permite situar la presencia de un grupo en un lugar. Para estimar su número se necesitan otros datos.
+
+### Cómo citar un dato nuevo
+
+La referencia junto a una cifra debe permitir identificar la tabla, el territorio, el año registrado y la población a la que se refiere. Conviene separar porcentajes de números absolutos y anotar qué tipo de medición se aplicó, como afiliación declarada o inscripción. Cuando la fuente publique intervalos o advierta de una cobertura incompleta, la nota se conserva junto al valor. La fuente metodológica de Pew enlazada al final ofrece un caso que se puede examinar junto a las tablas. Así se puede incorporar una cifra local a medida que se desarrolle cada tradición.
+
 ## Nota editorial
 
 La ampliación incorporará un mapa propio con año y metodología visibles, diferencias regionales, discusión de identidades múltiples y el tratamiento de proyecciones. [[como-leer|Cómo leer el árbol]] explica la diferencia entre el territorio del nodo y la distribución geográfica actual. [[que-es-una-religion|Qué es una religión]] examina cómo afectan las definiciones a la medición.
@@ -45,3 +62,4 @@ La ampliación incorporará un mapa propio con año y metodología visibles, dif
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
 - Pew Research Center. [Religious Composition by Country, 2010–2020](https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/).
+- Pew Research Center. [Metodología de las estimaciones mundiales de 2010 y 2020](https://www.pewresearch.org/religion/2025/06/09/global-religious-change-methodology/).

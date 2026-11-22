@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 399
+palabras: 723
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -30,6 +30,24 @@ En repertorios budistas, una rueda, una huella o un loto pueden desempeñar pape
 Relitree utiliza símbolos para orientarse en una visualización densa. Según la ficha, un motivo puede ser un emblema documentado, un dibujo original, un símbolo heredado de otra entrada o un glifo general de tipo. El crédito permite averiguar qué vía se ha usado. En una investigación iconográfica, resulta útil comenzar por un testimonio del objeto y anotar su repertorio, fecha, territorio y uso. El pequeño icono del catálogo permite reconocer la entrada y llevar esa consulta a su contexto.
 
 Dos símbolos parecidos pueden tener historias diferentes. Una semejanza formal permite formular una comparación y buscar testimonios de contacto. Para establecer una transmisión hay que rastrear cronología, agentes y circulación de modelos. También se puede comparar el uso de formas semejantes cuando proceden de series de objetos independientes. Cada operación responde a una pregunta histórica distinta.
+
+## Dos lecturas a partir de objetos y repertorios
+
+### Una rueda en un contexto budista
+
+El manual del Metropolitan Museum dedicado a Asia meridional y sudoriental ofrece casos en los que una rueda permite aludir a la enseñanza del Buda. El primer paso es identificar la pieza y atender a sus atributos, su emplazamiento y a las otras figuras que forman la escena. Cuando el motivo aparece asociado a un episodio de la vida del Buda, interesa saber cómo lo reconoce el catálogo y qué otros testimonios respaldan esa lectura. En otro objeto, un diseño semejante puede encontrarse en una composición con función y procedencia diferentes. Identificar ambos con la misma palabra permite localizarlos. Su comparación histórica empieza al estudiar las diferencias de uso y atribución.
+
+En una ficha visual conviene indicar si la pieza conserva su contexto de excavación, pertenece a un conjunto o llegó a una colección sin esos datos. El material y la técnica pueden describirse con detalle aunque se desconozca el emplazamiento inicial. Los grados de certeza también afectan a las atribuciones iconográficas. Una escena completa suele ofrecer más elementos para argumentar una lectura que un fragmento con un motivo aislado.
+
+### La imagen, la inscripción y el lugar en el cristianismo
+
+El artículo de [[cristianismo/vida-cristiana/simbologia|Simbología cristiana]] estudia motivos como la cruz y su relación con distintos soportes y prácticas. Una cruz colocada en una iglesia, una cruz procesional y una cruz grabada en una piedra comparten rasgos de forma. Su datación, los materiales y las huellas de uso permiten investigar acciones concretas. Una inscripción puede indicar la dedicatoria, la identidad de quien encargó el objeto o el nombre que se daba al lugar. En [[cristianismo/maria-y-figuras-mayores/iconos-y-arte-bizantino|Iconos y arte bizantino]] se pueden seguir ejemplos de imágenes con una historia propia de producción y uso devocional.
+
+La transmisión de un motivo se comprueba con series fechadas, conexiones entre talleres, movimiento de objetos o testimonios de quienes los copiaron. El estudio de semejanzas entre repertorios paganos, judíos y cristianos se apoya en estos rastros para precisar dónde y cuándo pudo darse una adopción. Puede haber cambios en las inscripciones, acompañantes, lugares de uso y maneras de explicar una forma. Una comparación documentada permite especificar qué motivo circuló y qué significados se desarrollaron en cada contexto.
+
+## Del soporte al catálogo
+
+Una ficha comparativa reúne nombre, fecha, lugar, soporte, comunidad o taller cuando se conocen y función documentada. Si hay una fotografía, se añade la autoría, la licencia y el acceso al original. Si una atribución cambió, conviene indicar quién defendió cada lectura y qué observable provocó la revisión. Esta información permite contrastar el objeto con otros y abre la posibilidad de ampliar el repertorio cuando se conozcan nuevas tradiciones.
 
 ## Nota editorial
 

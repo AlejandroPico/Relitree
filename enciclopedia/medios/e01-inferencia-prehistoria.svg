@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 385" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Del vestigio a la interpretación</title><desc id="descripcion">Diagrama en tres pasos que distingue el hallazgo, la acción y su interpretación.</desc>
+<style>
+  text {font-family: system-ui, Segoe UI, sans-serif; fill: #1b3029}
+  .titulo {font-size: 31px; font-weight: 700}
+  .subtitulo {font-size: 18px; fill: #334d43}
+  .etiqueta {font-size: 22px; font-weight: 650}
+  .nota {font-size: 18px; fill: #334d43}
+</style>
+<rect width="780" height="385" fill="#f6f5ef"/>
+<text x="34" y="49" class="titulo" text-anchor="start">Del vestigio a la interpretación</text>
+<text x="34" y="84" class="subtitulo" text-anchor="start">Un ejemplo a partir de un enterramiento</text>
+<rect x="34" y="106" width="712" height="67" fill="#e4eee6"/>
+<text x="50" y="134" class="etiqueta" text-anchor="start">1. Hallazgo</text>
+<text x="50" y="159" class="nota" text-anchor="start">Se registra un esqueleto articulado en su contexto.</text>
+<path d="M390 176v14m-6-6 6 6 6-6" fill="none" stroke="#2f6254" stroke-width="2"/>
+<rect x="34" y="197" width="712" height="67" fill="#e4eee6"/>
+<text x="50" y="225" class="etiqueta" text-anchor="start">2. Acción</text>
+<text x="50" y="250" class="nota" text-anchor="start">La estratigrafía y los sedimentos ayudan a reconstruir el depósito.</text>
+<path d="M390 267v14m-6-6 6 6 6-6" fill="none" stroke="#2f6254" stroke-width="2"/>
+<rect x="34" y="288" width="712" height="67" fill="#e4eee6"/>
+<text x="50" y="316" class="etiqueta" text-anchor="start">3. Interpretación</text>
+<text x="50" y="341" class="nota" text-anchor="start">Una explicación del sentido funerario requiere otros indicios.</text>
+</svg>

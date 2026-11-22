@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 463" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Cronología de algunos hallazgos</title><desc id="descripcion">Compara cuatro hallazgos paleolíticos con fechas aproximadas o mínimas y dos intervalos neolíticos. Los ejes utilizan unidades distintas.</desc>
+<style>
+  text {font-family: system-ui, Segoe UI, sans-serif; fill: #1b3029}
+  .titulo {font-size: 31px; font-weight: 700}
+  .subtitulo {font-size: 18px; fill: #334d43}
+  .etiqueta {font-size: 22px; font-weight: 650}
+  .nota {font-size: 18px; fill: #334d43; paint-order: stroke; stroke: #f6f5ef; stroke-width: 4px; stroke-linejoin: round}
+</style>
+<rect width="780" height="463" fill="#f6f5ef"/>
+<text x="34" y="47" class="titulo" text-anchor="start">Cronología de algunos hallazgos</text>
+<text x="34" y="91" class="subtitulo" text-anchor="start">Paleolítico · Miles de años de antigüedad, aproximadamente</text>
+<path d="M80 142H694" stroke="#5a6c64" stroke-width="2"/>
+<path d="M121 135v14" stroke="#5a6c64" stroke-width="2"/>
+<text x="121" y="128" class="nota" text-anchor="middle">100</text>
+<path d="M285 135v14" stroke="#5a6c64" stroke-width="2"/>
+<text x="285" y="128" class="nota" text-anchor="middle">80</text>
+<path d="M448 135v14" stroke="#5a6c64" stroke-width="2"/>
+<text x="448" y="128" class="nota" text-anchor="middle">60</text>
+<path d="M612 135v14" stroke="#5a6c64" stroke-width="2"/>
+<text x="612" y="128" class="nota" text-anchor="middle">40</text>
+<path d="M121 150V172" stroke="#8b9c91" stroke-dasharray="3 3"/>
+<path d="M342 150V203" stroke="#8b9c91" stroke-dasharray="3 3"/>
+<path d="M385 150V234" stroke="#8b9c91" stroke-dasharray="3 3"/>
+<path d="M520 150V265" stroke="#8b9c91" stroke-dasharray="3 3"/>
+<path d="M151 373V395" stroke="#8b9c91" stroke-dasharray="3 3"/>
+<path d="M411 373V426" stroke="#8b9c91" stroke-dasharray="3 3"/>
+<circle cx="121" cy="172" r="5" fill="#2f6254"/>
+<text x="133" y="178" class="nota" text-anchor="start">Qafzeh · ca. 100.000 años</text>
+<circle cx="342" cy="203" r="5" fill="#2f6254"/>
+<text x="354" y="209" class="nota" text-anchor="start">Blombos · ca. 73.000 años</text>
+<circle cx="385" cy="234" r="5" fill="#2f6254"/>
+<text x="397" y="240" class="nota" text-anchor="start">Liang Metanduno · al menos 67.800</text>
+<circle cx="520" cy="265" r="5" fill="#2f6254"/>
+<text x="508" y="271" class="nota" text-anchor="end">Leang Karampuang · al menos 51.200</text>
+<text x="34" y="312" class="subtitulo" text-anchor="start">Neolítico · Años de calendario a. C.</text>
+<path d="M80 365H694" stroke="#5a6c64" stroke-width="2"/>
+<path d="M104 358v14" stroke="#5a6c64" stroke-width="2"/>
+<text x="104" y="351" class="nota" text-anchor="middle">10.000</text>
+<path d="M340 358v14" stroke="#5a6c64" stroke-width="2"/>
+<text x="340" y="351" class="nota" text-anchor="middle">8.000</text>
+<path d="M576 358v14" stroke="#5a6c64" stroke-width="2"/>
+<text x="576" y="351" class="nota" text-anchor="middle">6.000</text>
+<path d="M151 395H316" stroke="#2f6254" stroke-width="6"/>
+<text x="328" y="401" class="nota" text-anchor="start">Göbekli Tepe · 9600–8200</text>
+<path d="M411 426H552" stroke="#2f6254" stroke-width="6"/>
+<text x="399" y="432" class="nota" text-anchor="end">Çatalhöyük este · 7400–6200</text>
+</svg>

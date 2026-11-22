@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 452" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Siete dimensiones de la religión</title><desc id="descripcion">Las dimensiones se presentan como preguntas para estudiar cada caso.</desc>
+<style>
+  text {font-family: system-ui, Segoe UI, sans-serif; fill: #1b3029}
+  .titulo {font-size: 31px; font-weight: 700}
+  .subtitulo {font-size: 18px; fill: #334d43}
+  .etiqueta {font-size: 22px; font-weight: 650}
+  .nota {font-size: 18px; fill: #334d43}
+</style>
+<rect width="780" height="452" fill="#f6f5ef"/>
+<text x="34" y="49" class="titulo" text-anchor="start">Siete dimensiones de la religión</text>
+<text x="34" y="83" class="subtitulo" text-anchor="start">Preguntas de lectura a partir del modelo de Ninian Smart</text>
+<rect x="34" y="107" width="350" height="67" fill="#e4eee6"/>
+<text x="50" y="135" class="etiqueta" text-anchor="start">Práctica y ritual</text>
+<text x="50" y="160" class="nota" text-anchor="start">¿Qué se hace y en qué ocasiones?</text>
+<rect x="396" y="107" width="350" height="67" fill="#e4eee6"/>
+<text x="412" y="135" class="etiqueta" text-anchor="start">Experiencia y emoción</text>
+<text x="412" y="160" class="nota" text-anchor="start">¿Cómo se describe lo vivido?</text>
+<rect x="34" y="189" width="350" height="67" fill="#e4eee6"/>
+<text x="50" y="217" class="etiqueta" text-anchor="start">Relatos</text>
+<text x="50" y="242" class="nota" text-anchor="start">¿Qué historias circulan y cuándo?</text>
+<rect x="396" y="189" width="350" height="67" fill="#e4eee6"/>
+<text x="412" y="217" class="etiqueta" text-anchor="start">Doctrina y filosofía</text>
+<text x="412" y="242" class="nota" text-anchor="start">¿Qué se enseña y cómo se argumenta?</text>
+<rect x="34" y="271" width="350" height="67" fill="#e4eee6"/>
+<text x="50" y="299" class="etiqueta" text-anchor="start">Ética y normas</text>
+<text x="50" y="324" class="nota" text-anchor="start">¿Qué conductas y deberes se definen?</text>
+<rect x="396" y="271" width="350" height="67" fill="#e4eee6"/>
+<text x="412" y="299" class="etiqueta" text-anchor="start">Comunidad e instituciones</text>
+<text x="412" y="324" class="nota" text-anchor="start">¿Quién asume y transmite autoridad?</text>
+<rect x="34" y="353" width="350" height="67" fill="#e4eee6"/>
+<text x="50" y="381" class="etiqueta" text-anchor="start">Cultura material</text>
+<text x="50" y="406" class="nota" text-anchor="start">¿Qué objetos y espacios se utilizan?</text>
+</svg>

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 404
+palabras: 650
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -28,6 +28,22 @@ El calendario hebreo emplea un sistema lunisolar. El calendario islámico ordina
 Una regla permite calcular o localizar un día. La celebración muestra lo que los participantes hacen con ese día. Una familia puede celebrar en casa y asistir también a una ceremonia pública. Las migraciones pueden llevar una festividad a un lugar donde el calendario laboral y las estaciones son distintos de los del territorio de origen. Estudiar la fecha junto con esas prácticas ayuda a entender qué cambia y qué continúa.
 
 La fecha civil anunciada por una institución es una referencia práctica para el lugar y año que cubre. La observancia comienza al atardecer en ciertas tradiciones, de modo que puede abarcar partes de dos días civiles. Al crear una cronología conviene registrar también la fuente y aclarar si se trata del comienzo de la observancia, su fecha principal o el intervalo completo.
+
+## Tres operaciones para comparar una festividad
+
+### Localizar la fecha dentro del sistema
+
+El primer dato es la regla en el calendario que utilizan los participantes. En el calendario hebreo, Pésaj se sitúa en nisán, y la intercalación ayuda a mantener la fiesta en la estación correspondiente. En el calendario islámico, Ramadán es un mes, y la fiesta de la ruptura del ayuno se sitúa al comienzo del mes siguiente. Si el comienzo de un mes se anuncia en ámbitos distintos, para comparar resultados interesa identificar el procedimiento y la autoridad que publicó la fecha. La fecha civil se añade a partir de un calendario concreto, con su año y ámbito. El calendario institucional de Naciones Unidas proporciona un ejemplo de este último tipo de documento.
+
+### Especificar duración y prácticas
+
+Una festividad tiene varios momentos. Puede comenzar con la puesta de sol, incluir actos en uno o más lugares de culto y dar paso a reuniones familiares con otros horarios. En una ficha se recoge la duración cuando está documentada, qué fecha indica el inicio y cuál se usa para el acto principal. Si hay variantes en distintas comunidades, se describen las que están atestiguadas. Consultar un calendario explica cuándo se sitúa la conmemoración. Seguir sus prácticas exige también fuentes que describan qué sucede y quién participa.
+
+### Relacionar el calendario con la historia de una comunidad
+
+En las tradiciones cristianas, la celebración de Pascua permite observar diferencias entre métodos de cómputo y calendarios eclesiásticos. Para averiguar una fecha concreta conviene identificar la comunidad que publica el calendario, observar el año y registrar cómo se inserta en el ciclo pascual. El estudio de las lecturas, ayunos y ceremonias asociados se continúa en [[cristianismo/vida-cristiana/liturgia-y-ano-liturgico|Liturgia y año litúrgico]]. Dos celebraciones pueden compartir el nombre y un relato mientras emplean cómputos diferentes.
+
+La comparación también puede seguir los cambios al trasladarse una comunidad. El horario habitual de trabajo y el acceso al lugar de culto condicionan qué actos son posibles a determinadas horas. Entrevistas, anuncios fechados y programas de cada lugar permiten observar cómo se adapta la reunión pública. La regla calendarial y la ejecución local pueden estudiarse juntas si la ficha conserva qué tipo de fecha ofrece y de dónde procede cada observación.
 
 ## Nota editorial
 

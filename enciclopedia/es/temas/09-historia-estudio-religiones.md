@@ -1,11 +1,12 @@
 ---
 estado: borrador
 fase: E01
-palabras: 420
+palabras: 651
 fuentes:
-  - "https://press.jhu.edu/books/title/1644/genealogies-religion"
+  - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
   - "https://doi.org/10.1086/200061"
+  - "https://academic.oup.com/book/3374"
 ---
 
 # Historia del estudio de las religiones
@@ -32,12 +33,29 @@ Un ejemplo es el uso de «animismo». Mientras Edward B. Tylor lo empleó en un 
 
 Talal Asad ha examinado la historia de «religión» como categoría y las condiciones en que se presenta como universal. Este trabajo plantea preguntas sobre disciplina, instituciones y poder. Es posible comparar tradiciones mientras se examina el lenguaje utilizado en la comparación. Para ello, conviene conservar tanto los nombres de los propios grupos como los conceptos empleados por quienes los estudian.
 
+## Del método a un debate documentado
+
+### Tylor y Durkheim frente a preguntas diferentes
+
+La definición de Tylor destaca el reconocimiento de seres espirituales y ayuda a estudiar qué se decía acerca de ellos en diferentes sociedades. Para entender su propuesta conviene situarla en la antropología de finales del siglo XIX e investigar la procedencia de los testimonios empleados. Durkheim formuló una explicación con otra pregunta de partida, centrada en la relación entre una comunidad moral, sus prácticas y aquello que se separa como sagrado. En ambos casos interesa distinguir la fecha de los materiales de la obra que los reordenó para desarrollar una teoría.
+
+El mismo caso puede servir a una historia de la comparación cuando se conserva su cadena de documentación. Primero se localiza el testimonio más cercano a la práctica, después se comprueba cómo fue traducido y finalmente se lee la obra que lo utilizó como ejemplo. Si otra investigación consultó fuentes más variadas, su comparación permite determinar qué diferencias se deben a observaciones nuevas. Para entender los términos de cada propuesta se puede consultar [[que-es-una-religion|Qué es una religión]].
+
+### De una categoría antropológica al trabajo de campo
+
+La revisión de «animismo» por Nurit Bird-David es un ejemplo de cómo una etnografía puede intervenir en un debate de larga duración. Al dar importancia a formas de relación descritas durante el trabajo de campo, se modifican las preguntas respecto a clasificaciones de creencias. Para presentar la revisión conviene citar la obra, identificar las condiciones del estudio y describir qué conceptos permiten reinterpretar. Esa información evita extender automáticamente a cualquier sociedad el resultado de una etnografía concreta.
+
+### La religión vivida como campo de investigación
+
+Meredith McGuire estudia el modo en que las personas componen y transmiten prácticas en la vida cotidiana. Un investigador puede comenzar por los programas oficiales de una institución y añadir observación, objetos y testimonios de actividades domésticas. La comparación hace visibles formas de aprendizaje y participación que los programas recogen con desigual detalle. Una ficha historiográfica puede resumir el método de McGuire, indicar el tipo de casos que investiga y remitir a los artículos que emplean preguntas semejantes. En futuras ampliaciones se podrán seguir otras investigaciones con el mismo criterio, junto a los problemas que suscitaron y su recepción.
+
 ## Nota editorial
 
 La ampliación desarrollará antecedentes, filología, sociología clásica, historia comparada, debates del siglo XX y aportaciones de la antropología, el feminismo y los estudios poscoloniales. Véanse [[que-es-una-religion|Qué es una religión]] y [[textos-sagrados|Textos sagrados del mundo comparados]].
 
 ## Fuentes
 
-- Talal Asad. [Genealogies of Religion](https://press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
+- Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
 - Kevin Schilbrack. [The Concept of Religion](https://plato.stanford.edu/entries/concept-religion/). Stanford Encyclopedia of Philosophy.
 - Nurit Bird-David. [Animism Revisited](https://doi.org/10.1086/200061). Current Anthropology 40, 1999.
+- Meredith B. McGuire. [Lived Religion: Faith and Practice in Everyday Life](https://academic.oup.com/book/3374). Oxford University Press, 2008.

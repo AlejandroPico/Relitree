@@ -18,12 +18,12 @@ Cada fase se trabaja en una sesión. Al terminarla se marcan sus artículos como
 
 ## Fase E01 · Temas generales
 
-**Estado parcial.** 2 de 10 artículos completos. Los otros ocho siguen publicados como borradores.
+**Estado parcial.** 4 de 10 artículos completos. Los otros seis tienen secciones y ejemplos iniciales y crecen con las altas y revisiones sustanciales de tradiciones. Cada entrega debe aplicar las [normas de mantenimiento de E01](../agentes.md#mantenimiento-acumulativo-de-e01).
 
 - [x] [Cómo leer el árbol](es/temas/01-como-leer.md)
 - [x] [Tipos de religión](es/temas/02-tipos.md)
-- [ ] [Qué es una religión: definiciones y debates](es/temas/03-que-es-una-religion.md)
-- [ ] [Los orígenes del pensamiento religioso en la prehistoria](es/temas/04-origenes-pensamiento-religioso.md)
+- [x] [Qué es una religión: definiciones y debates](es/temas/03-que-es-una-religion.md)
+- [x] [Los orígenes del pensamiento religioso en la prehistoria](es/temas/04-origenes-pensamiento-religioso.md)
 - [ ] [Textos sagrados del mundo comparados](es/temas/05-textos-sagrados.md)
 - [ ] [Simbología religiosa comparada](es/temas/06-simbologia-religiosa.md)
 - [ ] [Calendarios y festividades del mundo](es/temas/07-calendarios-festividades.md)

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 386
+palabras: 750
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -30,6 +30,24 @@ La UNESCO documenta la tradición de recitación védica como patrimonio cultura
 | Autoridad | A qué tradición pertenece el reconocimiento y para qué usos |
 | Conservación | Qué testigos materiales se conocen y cuál usa la edición |
 | Interpretación | Qué comentarios, métodos y controversias se han transmitido |
+
+## Cómo se reconoce el corpus en la práctica
+
+### La Biblia y la pluralidad de cánones cristianos
+
+Las comunidades cristianas comparten un núcleo de escritos y difieren en el alcance, la denominación y el orden de algunas colecciones. Al comparar dos ediciones conviene abrir sus índices y localizar los textos por nombre, incluidos los libros que se reúnen de maneras distintas. La comparación tiene que indicar la comunidad o edición a la que corresponde cada repertorio. Los nombres «apócrifo» y «deuterocanónico» requieren contexto porque describen juicios o convenciones que dependen del grupo que los utiliza. El mismo escrito puede ser objeto de lectura e investigación más allá de las comunidades en las que forma parte del canon.
+
+El paso de un corpus a su lectura regular involucra otras decisiones. Un leccionario reparte selecciones por fechas y actos, mientras que una edición completa presenta un orden de libros y puede incluir introducciones, variantes y notas. Para investigar qué contenido escucha o lee la gente en una ocasión determinada conviene conocer esos dos instrumentos. Los artículos del [[cristianismo/biblia/antiguo-testamento|Antiguo Testamento]] y del [[cristianismo/biblia/nuevo-testamento|Nuevo Testamento]] presentan los libros y su historia. La relación entre lecturas y festividades se estudia en [[cristianismo/vida-cristiana/liturgia-y-ano-liturgico|Liturgia y año litúrgico]].
+
+### Recitación, paralelos y traducciones
+
+En el caso de la recitación védica, las técnicas de transmisión vocal documentadas por la UNESCO invitan a distinguir el corpus, la lengua y la formación necesaria para pronunciar y preservar un enunciado. Un programa de enseñanza describe quién aprende y con qué secuencia. Una grabación permite examinar rasgos de la ejecución en un acto fechado. Cuando se describe la recitación en un artículo comparativo, hace falta especificar de qué práctica, comunidad y fuente se habla, especialmente si existen varias formas de transmitir textos emparentados.
+
+El repertorio de SuttaCentral permite consultar paralelos de discursos budistas antiguos en distintas lenguas y colecciones. Una ficha compartida ayuda a localizar testimonios que conservan afinidades. Para comparar versiones hay que revisar los pasajes y señalar si se cita una traducción, un texto en su lengua o la relación propuesta por el editor. Una similitud de contenido plantea preguntas sobre transmisión y desarrollo textual. El modo en que se enseña cada versión hoy depende también del lugar y de los programas documentados.
+
+### Cómo situar una edición
+
+Para describir una edición se empieza por su lengua, fecha, editor y texto de base. Si incluye una traducción, se comprueba si usa una edición crítica o una versión intermedia. Para explicar el papel que ocupa en una tradición se buscan testimonios de lectura, formación y uso ritual. Estas capas de información permiten seguir el recorrido desde una composición hasta una práctica documentada y comparar, por ejemplo, una versión usada en enseñanza con una edición concebida para el estudio de variantes.
 
 ## Nota editorial
 

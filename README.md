@@ -1,6 +1,6 @@
 # Relitree
 
-**Versión 1.7.45**
+**Versión 1.7.46**
 
 La [enciclopedia](enciclopedia/PLAN.md#fase-e03--cristianismo--apóstoles-y-primeros-siglos) amplía los artículos de Patrística e Iglesias e Imperio romano. El lector conserva el historial y la posición de lectura de cada visita y muestra barras de desplazamiento que se ocultan en reposo.
 
