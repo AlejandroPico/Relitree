@@ -16,7 +16,20 @@ export interface Trazado {
   ancho: number; regiones: Region[]; religiones: Religion[]; porId: ReadonlyMap<string, Religion>;
 }
 export interface Relacion { origen: string; destino: string; clase: string; principal: boolean; }
-export interface Articulo { id: string; grupo: string; padre: string | null; titulo: string; html?: string; orden?: number | null; destino_indice?: string | null; }
+export interface EditorialArticulo {
+  estado: 'borrador' | 'completo';
+  fase: string | null;
+  palabras: number;
+  fuentes: string[];
+  ficha: Record<string, string>;
+}
+export interface Articulo {
+  id: string; grupo: string; padre: string | null; titulo: string; html?: string;
+  orden?: number | null; destino_indice?: string | null; editorial?: EditorialArticulo;
+}
+export interface CoincidenciaArticulo {
+  id: string; titulo: string; seccion: string; titulo_seccion: string; fragmento: string;
+}
 
 /** Acceso a la base SQLite generada por el backend de Python (se consulta en el navegador con WebAssembly). */
 @Injectable({ providedIn: 'root' })
@@ -25,6 +38,8 @@ export class Datos {
   readonly listo = signal(false);
   readonly error = signal<string | null>(null);
   private bd: any;
+  private tieneTexto = false;
+  private tieneEditorial = false;
   private base = 'es'; private idioma = 'es';
   meta: Record<string, string> = {};
   regiones: Region[] = [];
@@ -91,6 +106,8 @@ export class Datos {
       this.relaciones = this.filas('SELECT * FROM relaciones').map((f: any) => ({ ...f, principal: !!f.principal }));
       const indice = new Map<string, Articulo>();
       const columnas = this.filas('PRAGMA table_info(articulos)').map((columna) => columna.name);
+      this.tieneEditorial = columnas.includes('editorial');
+      this.tieneTexto = this.filas("SELECT name FROM sqlite_master WHERE type = 'table' AND name = 'articulos_texto'").length > 0;
       const camposOpcionales = ['orden', 'destino_indice'].filter((campo) => columnas.includes(campo));
       const campos = ['id', 'grupo', 'padre', 'titulo', ...camposOpcionales].join(', ');
       for (const a of capas(`SELECT ${campos} FROM articulos WHERE idioma = ?`)) indice.set(a.id, a);
@@ -127,8 +144,39 @@ export class Datos {
   }
   articulo(id: string): Articulo | null {
     id = this.destinoArticulo(id);
-    const sql = 'SELECT id, grupo, padre, titulo, html FROM articulos WHERE id = ? AND idioma = ?';
-    return this.filas(sql, [id, this.idioma])[0] ?? this.filas(sql, [id, this.base])[0] ?? null;
+    const editorial = this.tieneEditorial ? ', editorial' : '';
+    const sql = 'SELECT id, grupo, padre, titulo, html' + editorial + ' FROM articulos WHERE id = ? AND idioma = ?';
+    const fila = this.filas(sql, [id, this.idioma])[0] ?? this.filas(sql, [id, this.base])[0];
+    return fila ? { ...fila, editorial: fila.editorial ? JSON.parse(fila.editorial) : undefined } : null;
+  }
+
+  buscarArticulos(consulta: string, limite: number): CoincidenciaArticulo[] {
+    const texto = normalizar(consulta.trim().replace(/\s+/g, ' '));
+    if (!texto || !this.tieneTexto) return [];
+
+    return this.filas(`
+      WITH coincidencias AS (
+        SELECT a.id, a.titulo, t.seccion, t.titulo_seccion, t.texto, t.orden,
+          instr(t.normalizado, ?1) AS posicion, instr(a.busqueda, ?1) AS ini_titulo
+        FROM articulos_texto t JOIN articulos a ON a.id = t.id AND a.idioma = t.idioma
+        WHERE (t.idioma = ?2 OR (t.idioma = ?3 AND NOT EXISTS (
+          SELECT 1 FROM articulos propia WHERE propia.id = t.id AND propia.idioma = ?2
+        ))) AND (posicion > 0 OR ini_titulo > 0)
+      ), ordenadas AS (
+        SELECT *, row_number() OVER (PARTITION BY id ORDER BY
+          CASE WHEN posicion = 0 THEN 2 WHEN posicion <= length(titulo_seccion) THEN 0 ELSE 1 END,
+          orden
+        ) AS numero,
+          max(1, posicion - 64) AS inicio, max(170, length(?1) + 100) AS longitud
+        FROM coincidencias
+      )
+      SELECT id, titulo, CASE WHEN posicion > 0 THEN seccion ELSE '' END AS seccion,
+        CASE WHEN posicion > 0 THEN titulo_seccion ELSE '' END AS titulo_seccion,
+        CASE WHEN inicio > 1 THEN '…' ELSE '' END || trim(substr(texto, inicio, longitud)) ||
+        CASE WHEN length(texto) >= inicio + longitud THEN '…' ELSE '' END AS fragmento
+      FROM ordenadas WHERE numero = 1
+      ORDER BY (ini_titulo = 0), (ini_titulo <> 1), titulo, id LIMIT ?4
+    `, [texto, this.idioma, this.base, limite]);
   }
   padres(id: string) { return this.relaciones.filter((r) => r.destino === id && r.clase !== 'influencia'); }
   hijas(id: string) { return this.relaciones.filter((r) => r.origen === id && r.clase !== 'influencia'); }
@@ -170,7 +218,7 @@ export class Datos {
 }
 
 export function normalizar(t: string): string {
-  return t.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+  return t.toLowerCase().normalize('NFD').replace(/\p{M}/gu, '');
 }
 
 /** Parte un nombre en un máximo de tres líneas para la etiqueta del nodo. */

@@ -2,6 +2,7 @@
 estado: completo
 fase: E02
 palabras: 10123
+ficha_resumen: {"Colección": "27 libros en el canon habitual.", "Lengua de composición": "Griego koiné.", "Géneros": "Evangelios, historia, cartas, exhortación y apocalipsis.", "Formación del canon": "Recepción gradual y con diferencias entre iglesias."}
 fuentes:
   - "https://oyc.yale.edu/religious-studies/rlst-152"
   - "https://bible.usccb.org/bible"
@@ -84,6 +85,7 @@ El evangelista prepara la Pasión mediante los discursos de despedida y el lavat
 
 Para interpretar términos colectivos que aparecen en disputas, como «los judíos», se debe examinar a qué personajes o autoridades alude cada episodio, qué figuras judías ocupan el centro del relato y qué efectos tuvo generalizar el vocabulario en la historia cristiana. La datación suele situar el Evangelio cerca del final del siglo I, con discusión sobre su relación con comunidades concretas y con el resto de escritos vinculados al nombre de Juan. En el arte y en la liturgia se recurre a su prólogo, a los signos y al lenguaje de la luz. La copia en gótico del *Codex Argenteus* permite estudiar una etapa material y lingüística de esa transmisión [1–4, 7].
 
+<div class="galeria-articulo" role="group" aria-label="El Evangelio en los manuscritos y el arte">
 <figure>
   <img src="datos/medios/e09-europa-argenteus.jpg" alt="Folio de los Evangelios en gótico, con letras claras sobre pergamino oscuro" width="470" height="575" loading="lazy" decoding="async">
   <figcaption>Codex Argenteus, folio con un pasaje del Evangelio de Juan. Copia de los Evangelios en gótico conservada por la Biblioteca de la Universidad de Uppsala. Dominio público. <a href="https://commons.wikimedia.org/wiki/File:Codex_Argenteus_page.jpg">Ficha en Wikimedia Commons</a>. [16]</figcaption>
@@ -93,6 +95,7 @@ Para interpretar términos colectivos que aparecen en disputas, como «los judí
   <img src="datos/medios/e061-cristo-sinai.jpg" alt="Cristo Pantocrátor del Sinaí, con nimbo crucífero, mano de bendición y libro" loading="lazy">
   <figcaption>Cristo Pantocrátor, siglo VI, monasterio de Santa Catalina del Sinaí. Pintor anónimo, encáustica sobre tabla. Reproducción de dominio público, <a href="https://commons.wikimedia.org/wiki/File:Pantocrator.jpg">Wikimedia Commons</a>. [17]</figcaption>
 </figure>
+</div>
 
 ## Hechos de los Apóstoles
 

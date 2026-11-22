@@ -6,6 +6,7 @@ from __future__ import annotations
 import json, re, shutil, sqlite3, sys
 from datetime import date
 from html import escape
+from html.parser import HTMLParser
 from pathlib import Path
 import markdown
 from . import modelo, trazado, escala
@@ -27,7 +28,11 @@ CREATE TABLE religiones (
   icono TEXT, icono_credito TEXT, icono_heredado INTEGER, fieles INTEGER, fieles_max INTEGER, fieles_fuente TEXT);
 CREATE TABLE textos (idioma TEXT, id TEXT, nombre TEXT, busqueda TEXT, resumen TEXT, PRIMARY KEY (idioma, id));
 CREATE TABLE relaciones (origen TEXT, destino TEXT, clase TEXT, principal INTEGER);
-CREATE TABLE articulos (idioma TEXT, id TEXT, grupo TEXT, padre TEXT, titulo TEXT, busqueda TEXT, html TEXT, orden INTEGER, destino_indice TEXT, PRIMARY KEY (idioma, id));
+CREATE TABLE articulos (idioma TEXT, id TEXT, grupo TEXT, padre TEXT, titulo TEXT, busqueda TEXT, html TEXT,
+  orden INTEGER, destino_indice TEXT, editorial TEXT, PRIMARY KEY (idioma, id));
+CREATE TABLE articulos_texto (idioma TEXT, id TEXT, seccion TEXT, titulo_seccion TEXT, orden INTEGER,
+  texto TEXT, normalizado TEXT, PRIMARY KEY (idioma, id, orden),
+  FOREIGN KEY (idioma, id) REFERENCES articulos(idioma, id));
 CREATE INDEX idx_rel_origen ON relaciones(origen);
 CREATE INDEX idx_rel_destino ON relaciones(destino);
 """
@@ -42,6 +47,7 @@ def palabras_de_cuerpo(texto: str) -> int:
     """Cuenta prosa y listas. Excluye encabezados, tablas, citas, figuras y bibliografía."""
     cuerpo = TITULO_FUENTES.split(texto, maxsplit=1)[0]
     cuerpo = re.sub(r"(?ms)^(`{3,}|~{3,})[^\n]*\n.*?^\1[ \t]*$", "", cuerpo)
+    cuerpo = re.sub(r'(?is)<div class="galeria-articulo"[^>]*>(.*?)</div>', r"\1", cuerpo)
     cuerpo = re.sub(r"(?is)<(?:figure|table|blockquote|pre)\b[^>]*>.*?</(?:figure|table|blockquote|pre)>", "", cuerpo)
     cuerpo = re.sub(r"(?m)^\s*(?:[#|>].*|!\[.*)$", "", cuerpo)
     cuerpo = re.sub(r"\[\[([^]]+)\]\]", lambda m: m[1].split("|")[-1], cuerpo)
@@ -115,20 +121,102 @@ def orden_de(cabecera: str) -> int | None:
     return int(orden[1]) if orden else None
 
 
+class TextoBuscable(HTMLParser):
+    """Extrae texto visible por sección sin indexar atributos, rutas ni etiquetas HTML."""
+
+    BLOQUES = set("p br li th td div section aside blockquote figure figcaption pre dt dd".split())
+    CABECERAS = {"h2", "h3", "h4", "h5", "h6"}
+
+    def __init__(self):
+        super().__init__()
+        self.secciones = []
+        self.id_seccion = ""
+        self.titulo_seccion = ""
+        self.partes = []
+        self.titulo = None
+        self.oculto = None
+
+    def handle_starttag(self, tag, attrs):
+        if self.oculto:
+            return
+        if tag in {"script", "style", "svg"}:
+            self.oculto = tag
+        elif tag in self.CABECERAS:
+            self.guardar()
+            self.id_seccion = dict(attrs).get("id") or ""
+            self.titulo = []
+        elif tag in self.BLOQUES:
+            self.partes.append(" ")
+
+    def handle_endtag(self, tag):
+        if self.oculto:
+            if tag == self.oculto:
+                self.oculto = None
+        elif tag in self.CABECERAS and self.titulo is not None:
+            self.titulo_seccion = " ".join("".join(self.titulo).split())
+            self.partes.extend([self.titulo_seccion, " "])
+            self.titulo = None
+        elif tag in self.BLOQUES:
+            self.partes.append(" ")
+
+    def handle_data(self, data):
+        if self.oculto:
+            return
+        if self.titulo is not None:
+            self.titulo.append(data)
+        else:
+            self.partes.append(data)
+
+    def guardar(self):
+        texto = " ".join("".join(self.partes).split())
+        if texto:
+            self.secciones.append((self.id_seccion, self.titulo_seccion, texto))
+        self.partes.clear()
+
+
+def metadatos_articulo(cabecera: str, texto: str, ruta: Path) -> str:
+    def campo(nombre):
+        valor = re.search(rf"^{nombre}:[ \t]*(.*)$", cabecera, re.M)
+        return valor[1].strip() if valor else ""
+
+    estado = campo("estado") or "borrador"
+    palabras = palabras_de_cuerpo(texto)
+    if estado not in {"completo", "borrador"}:
+        raise ValueError(f"{ruta}: estado editorial no válido: {estado}.")
+    if estado == "completo" and palabras < 5000:
+        raise ValueError(f"{ruta}: {palabras} palabras de cuerpo. Mínimo: 5000.")
+    bloque_fuentes = re.search(r'^fuentes:[ \t]*\n((?:[ \t]+-[ \t]+[^\n]+\n)*)', cabecera, re.M)
+    fuentes = re.findall(r'^[ \t]+-[ \t]+(.+)$', bloque_fuentes[1], re.M) if bloque_fuentes else []
+    ficha = json.loads(campo("ficha_resumen") or "{}")
+    if not isinstance(ficha, dict) or any(not k.strip() or not isinstance(v, str) or not v.strip() for k, v in ficha.items()):
+        raise ValueError(f"{ruta}: ficha_resumen debe contener pares de etiqueta y texto.")
+    return json.dumps({
+        "estado": estado, "fase": campo("fase") or None, "palabras": palabras,
+        "fuentes": [f.strip().strip("\"'") for f in fuentes], "ficha": ficha,
+    }, ensure_ascii=False)
+
+
 def insertar_articulo(bd, idioma, md, id_articulo, grupo, padre, nombres, reserva, orden=None):
     cabecera, texto = separar_cabecera(md.read_text(encoding="utf-8-sig"))
     destino = re.search(r"^enlace_indice:[ \t]*([\w/-]+)[ \t]*$", cabecera, re.M)
-    if re.search(r"^estado:\s*completo\s*$", cabecera, re.M):
-        palabras = palabras_de_cuerpo(texto)
-        if palabras < 5000:
-            raise ValueError(f"{md.relative_to(RAIZ) if md.is_relative_to(RAIZ) else md}: {palabras} palabras de cuerpo. Mínimo: 5000.")
     titulo = titulo_de(texto, reserva)
     if orden is None:
         orden = orden_de(cabecera)
-    bd.execute("INSERT INTO articulos VALUES (?,?,?,?,?,?,?,?,?)", (
+    html = None if destino else a_html(texto, nombres)
+    editorial = None if destino else metadatos_articulo(cabecera, texto, md)
+    bd.execute("INSERT INTO articulos VALUES (?,?,?,?,?,?,?,?,?,?)", (
         idioma, id_articulo, grupo, padre, titulo, normalizar(titulo),
-        None if destino else a_html(texto, nombres), orden, destino[1] if destino else None,
+        html, orden, destino[1] if destino else None, editorial,
     ))
+    if html:
+        extractor = TextoBuscable()
+        extractor.feed(html)
+        extractor.close()
+        extractor.guardar()
+        bd.executemany("INSERT INTO articulos_texto VALUES (?,?,?,?,?,?,?)", (
+            (idioma, id_articulo, seccion, titulo_seccion, numero, parte, normalizar(parte))
+            for numero, (seccion, titulo_seccion, parte) in enumerate(extractor.secciones)
+        ))
     return not destino
 
 
@@ -147,9 +235,9 @@ def insertar_subarticulos(bd, idioma, carpeta, prefijo, grupo, padre, nombres):
             total_hijo = insertar_subarticulos(bd, idioma, ruta, prefijo_hijo, grupo, categoria, nombres)
             mostrar_vacio = re.search(r"(?m)^mostrar_vacio:\s*true[ 	]*$", cabecera)
             if total_hijo or mostrar_vacio:
-                bd.execute("INSERT INTO articulos VALUES (?,?,?,?,?,?,?,?,?)", (
+                bd.execute("INSERT INTO articulos VALUES (?,?,?,?,?,?,?,?,?,?)", (
                     idioma, categoria, grupo, padre, titulo, normalizar(titulo), None,
-                    orden, None,
+                    orden, None, None,
                 ))
                 total += total_hijo
         elif ruta.suffix == ".md" and ruta.name != "_indice.md":

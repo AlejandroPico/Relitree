@@ -120,6 +120,16 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .enciclopedia .orden { display: flex; gap: 4px; margin: 10px 0 2px; }
 .enciclopedia .orden button { border: 0; background: none; cursor: pointer; padding: 4px 10px; border-radius: 999px; font-size: 12px; color: var(--tenue); }
 .enciclopedia .orden button.activo { color: var(--texto); background: color-mix(in srgb, var(--texto) 9%, transparent); }
+.enciclopedia .enc-modos-busqueda { margin-block-end: 0; }
+.enciclopedia nav :is(input, .enc-modos-busqueda button):focus-visible { outline: 2px solid var(--acento); outline-offset: -2px; }
+.enciclopedia .enc-resultados { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.enciclopedia .enc-resultados a { padding: 8px 9px; overflow-wrap: anywhere; }
+.enc-resultados strong, .enc-resultados small, .enc-fragmento { display: block; }
+.enc-resultados strong { color: var(--texto); font-weight: 600; }
+.enc-resultados small { color: var(--acento); margin-top: 2px; }
+.enc-fragmento { margin-top: 4px; line-height: 1.45; }
+.enc-sin-resultados { color: var(--tenue); margin: 12px 9px; }
+.enc-mas-resultados { margin: 10px 9px; color: var(--acento); background: transparent; border: 0; cursor: pointer; padding: 6px 0; }
 .enciclopedia summary { cursor: pointer; list-style: none; font-size: 11px; font-weight: 600; letter-spacing: .09em; text-transform: uppercase; margin: 16px 0 6px; display: flex; justify-content: space-between; }
 .enciclopedia summary::-webkit-details-marker { display: none; }
 .enciclopedia summary small { color: var(--tenue); letter-spacing: 0; }
@@ -219,6 +229,20 @@ rel-barra-desplazamiento { position: absolute; inset: 0; z-index: 2; pointer-eve
 }
 
 .enciclopedia .texto { padding: 0 clamp(12px, 2.4vw, 48px) 90px; min-width: 0; max-inline-size: var(--enc-ancho-lectura, none); margin-inline: auto; overflow-wrap: anywhere; }
+.enc-ficha-resumen {
+  float: inline-end;
+  max-inline-size: min(100%, 21rem, 38%);
+  margin: 0 0 1rem 1.6rem;
+  background: color-mix(in srgb, var(--texto) 5%, transparent);
+  padding: 1rem 1.15rem;
+}
+.enciclopedia .enc-ficha-resumen h2 { margin: 0 0 .7rem; }
+.enc-ficha-resumen dl { margin: 0; display: grid; gap: .55rem; }
+.enc-ficha-resumen dt { font: 600 .77rem var(--fuente); color: var(--tenue); }
+.enc-ficha-resumen dd { margin: .15rem 0 0; line-height: 1.4; }
+@media (max-width: 900px) {
+  .enc-ficha-resumen { float: none; max-inline-size: none; margin: 0 0 1rem; }
+}
 .enciclopedia .cabecera { display: flex; gap: 22px; align-items: center; margin-bottom: 26px; }
 .enciclopedia .cabecera .simbolo { margin: 0; width: 92px; height: 92px; flex: none; }
 .enciclopedia h1 { font: 600 clamp(30px, 3.4vw, 46px)/1.1 var(--serif); letter-spacing: -.015em; margin-bottom: 8px; }
@@ -477,3 +501,14 @@ app-root { --alto-barra-explorador: 48px; }
 .vis-punto-arco.vis-atenuado:hover, .vis-punto-arco.vis-atenuado:focus-visible { opacity: 1; }
 .vis-punto-arco.vis-conexo .vis-marca-arco { stroke: var(--fondo); stroke-width: 1.1; }
 .vis-punto-arco.actual .vis-marca-arco { stroke: var(--acento); stroke-width: 2.8; }
+
+.prosa .galeria-articulo {
+  clear: both;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
+  gap: 1.2rem;
+  margin-block: 1.4rem;
+}
+.prosa .galeria-articulo figure { margin: 0; min-width: 0; }
+.prosa .galeria-articulo img { max-block-size: 22rem; object-fit: contain; }
+.prosa .galeria-articulo figcaption { margin-block-start: .45rem; }

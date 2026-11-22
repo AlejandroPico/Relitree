@@ -1,7 +1,7 @@
 import { ChangeDetectionStrategy, Component, ElementRef, afterRenderEffect, computed, effect, inject, signal, viewChild } from '@angular/core';
 import { DomSanitizer } from '@angular/platform-browser';
 import { NgTemplateOutlet } from '@angular/common';
-import { Articulo, Datos, normalizar } from './datos';
+import { Articulo, CoincidenciaArticulo, Datos, normalizar } from './datos';
 import { Estado } from './estado';
 import { LectorEnciclopedia } from './lector-enciclopedia';
 import { BarraDesplazamiento } from './barra-desplazamiento';
@@ -64,18 +64,51 @@ function leerPreferenciasLectura(): PreferenciasLectura {
     <section class="enciclopedia">
       <nav id="indice-enciclopedia" [class.indice-abierto]="indiceAbierto()">
         <button type="button" class="indice-movil" (click)="indiceAbierto.set(false)">{{ i18n.t('cerrar') }}</button>
-        <input type="search" [placeholder]="i18n.t('filtrar')" [value]="filtro()" (input)="filtro.set($any($event.target).value)"/>
-        <div class="orden">
-          <button [class.activo]="!porTerritorio()" (click)="porTerritorio.set(false)">{{ i18n.t('ordenAZ') }}</button>
-          <button [class.activo]="porTerritorio()" (click)="porTerritorio.set(true)">{{ i18n.t('ordenTerritorio') }}</button>
+        <input type="search" [attr.aria-label]="i18n.t('buscarEnciclopedia')"
+               [placeholder]="i18n.t(busquedaTexto() ? 'buscarTexto' : 'buscarTitulos')"
+               [value]="filtro()" (input)="cambiarFiltro($any($event.target).value)"/>
+        <div class="orden enc-modos-busqueda" role="group" [attr.aria-label]="i18n.t('buscarEnciclopedia')">
+          <button type="button" [class.activo]="!busquedaTexto()" [attr.aria-pressed]="!busquedaTexto()"
+                  (click)="busquedaTexto.set(false)">{{ i18n.t('buscarTitulos') }}</button>
+          <button type="button" [class.activo]="busquedaTexto()" [attr.aria-pressed]="busquedaTexto()"
+                  (click)="busquedaTexto.set(true)">{{ i18n.t('buscarTexto') }}</button>
         </div>
+        @if (!mostrandoResultados()) {
+          <div class="orden">
+            <button [class.activo]="!porTerritorio()" (click)="porTerritorio.set(false)">{{ i18n.t('ordenAZ') }}</button>
+            <button [class.activo]="porTerritorio()" (click)="porTerritorio.set(true)">{{ i18n.t('ordenTerritorio') }}</button>
+          </div>
+        }
         <div class="enc-con-desplazamiento enc-indice-desplazable">
         <div #indice class="indice" tabindex="0">
-          @for (g of grupos(); track g.id) {
-            <details [open]="g.abierto">
-              <summary [style.color]="g.color">{{ g.nombre }}<small>{{ g.total }}</small></summary>
-              <ng-container [ngTemplateOutlet]="rama" [ngTemplateOutletContext]="{ $implicit: g.entradas }"/>
-            </details>
+          @if (mostrandoResultados()) {
+            @if (resultados().length) {
+              <ul class="enc-resultados">
+                @for (resultado of resultados().slice(0, limiteResultados()); track resultado.id) {
+                  <li>
+                    <a href="#" (click)="$event.preventDefault(); abrirCoincidencia(resultado)">
+                      <strong>{{ resultado.titulo }}</strong>
+                      @if (resultado.titulo_seccion) { <small>{{ resultado.titulo_seccion }}</small> }
+                      <span class="enc-fragmento">{{ resultado.fragmento }}</span>
+                    </a>
+                  </li>
+                }
+              </ul>
+              @if (resultados().length > limiteResultados()) {
+                <button type="button" class="enc-mas-resultados" (click)="limiteResultados.update(n => n + 40)">
+                  {{ i18n.t('masResultados') }}
+                </button>
+              }
+            } @else {
+              <p role="status" class="enc-sin-resultados">{{ i18n.t('sinResultadosTexto') }}</p>
+            }
+          } @else {
+            @for (g of grupos(); track g.id) {
+              <details [open]="g.abierto">
+                <summary [style.color]="g.color">{{ g.nombre }}<small>{{ g.total }}</small></summary>
+                <ng-container [ngTemplateOutlet]="rama" [ngTemplateOutletContext]="{ $implicit: g.entradas }"/>
+              </details>
+            }
           }
         </div>
         <rel-barra-desplazamiento [contenido]="indice"/>
@@ -240,6 +273,16 @@ function leerPreferenciasLectura(): PreferenciasLectura {
                 }
               </div>
             }
+            @if (fichaResumen().length) {
+              <aside class="enc-ficha-resumen" aria-labelledby="enc-ficha-titulo">
+                <h2 id="enc-ficha-titulo">{{ i18n.t('fichaResumen') }}</h2>
+                <dl>
+                  @for (dato of fichaResumen(); track dato[0]) {
+                    <div><dt>{{ dato[0] }}</dt><dd>{{ dato[1] }}</dd></div>
+                  }
+                </dl>
+              </aside>
+            }
             <div #prosa class="prosa" [innerHTML]="html()"></div>
             @if (desarrollo().length) {
               <h2>{{ i18n.t('desarrollo') }}</h2>
@@ -276,6 +319,12 @@ export class Enciclopedia {
   private san = inject(DomSanitizer);
   ui = UI; glifos = GLIFOS;
   filtro = signal('');
+  readonly busquedaTexto = signal(false);
+  readonly limiteResultados = signal(40);
+  readonly mostrandoResultados = computed(() => this.busquedaTexto() && !!this.filtro().trim());
+  readonly resultados = computed(() => this.mostrandoResultados()
+    ? this.datos.buscarArticulos(this.filtro(), this.limiteResultados() + 1) : []);
+  private readonly saltoResultado = signal<{ id: string; seccion: string } | null>(null);
   indiceAbierto = signal(false);
   porTerritorio = signal(false);
   readonly tituloPendiente = computed(() => this.estado.visitaEnciclopedia()?.titulo ?? '');
@@ -297,6 +346,7 @@ export class Enciclopedia {
 
   articulo = computed(() => { const id = this.estado.enciclopedia(); return id ? this.datos.articulo(id) : null; });
   religion = computed(() => this.datos.porId.get(this.estado.enciclopedia() ?? '') ?? null);
+  readonly fichaResumen = computed(() => Object.entries(this.articulo()?.editorial?.ficha ?? {}));
   readonly seccionActiva = signal('');
   readonly seccionesAbiertas = signal<ReadonlySet<string>>(new Set());
   readonly ruta = computed(() => {
@@ -396,6 +446,18 @@ export class Enciclopedia {
       cuerpo.scrollTop = this.estado.posicionesEnciclopedia.get(visita.clave) ?? 0;
     });
     afterRenderEffect(() => {
+      const salto = this.saltoResultado();
+      if (salto && this.articulo()?.id === salto.id && this.prosa()) {
+        this.saltoResultado.set(null);
+        if (salto.seccion) this.irASeccion(salto.seccion);
+        else {
+          this.cuerpo().nativeElement.scrollTop = 0;
+          this.cuerpo().nativeElement.focus({ preventScroll: true });
+        }
+      }
+    });
+    afterRenderEffect(() => {
+      if (this.mostrandoResultados()) return;
       const grupos = this.grupos();
       this.indiceAbierto(); // En móvil el índice se despliega después de abrir el artículo.
       const indice = this.indice().nativeElement;
@@ -440,6 +502,17 @@ export class Enciclopedia {
     evento.stopPropagation();
     this.ajustesLecturaAbiertos.set(false);
     this.botonLectura()?.nativeElement.focus();
+  }
+
+  cambiarFiltro(texto: string) {
+    this.limiteResultados.set(40);
+    this.filtro.set(texto);
+    if (this.busquedaTexto()) this.indice().nativeElement.scrollTop = 0;
+  }
+
+  abrirCoincidencia(resultado: CoincidenciaArticulo) {
+    this.abrir(resultado.id);
+    this.saltoResultado.set({ id: resultado.id, seccion: resultado.seccion });
   }
 
   color(region: string) { return this.datos.region.get(region)!.color; }

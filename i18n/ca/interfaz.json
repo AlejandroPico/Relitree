@@ -1,4 +1,10 @@
 {
+  "buscarEnciclopedia": "Cerca a l’enciclopèdia",
+  "buscarTitulos": "Títols",
+  "buscarTexto": "Text complet",
+  "sinResultadosTexto": "No hi ha coincidències als articles.",
+  "masResultados": "Més resultats",
+  "fichaResumen": "Fitxa resum",
   "articulosEnPreparacion": "Articles en preparació",
   "buscar": "Cerca",
   "buscarAyuda": "Cerca una religió…",

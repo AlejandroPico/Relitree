@@ -1,4 +1,10 @@
 {
+  "buscarEnciclopedia": "Enzyklopädie durchsuchen",
+  "buscarTitulos": "Titel",
+  "buscarTexto": "Volltext",
+  "sinResultadosTexto": "Keine Treffer in den Artikeln.",
+  "masResultados": "Weitere Ergebnisse",
+  "fichaResumen": "Übersicht",
   "articulosEnPreparacion": "Artikel in Vorbereitung",
   "buscar": "Suchen",
   "buscarAyuda": "Religion suchen…",

@@ -6,15 +6,14 @@ Cada fase se trabaja en una sesión. Al terminarla se marcan sus artículos como
 
 ## Fase E00 · Infraestructura de la enciclopedia
 
-**Estado parcial.** Una casilla vacía indica que queda todo o parte del trabajo previsto en esa línea.
+**Fase completada.** El lector reúne navegación, búsqueda y componentes para presentar los artículos.
 
-- [x] Índice en árbol con anidación ilimitada, acceso móvil e índice de secciones del artículo.
-- [ ] Pestañas para navegar entre grandes apartados dentro del artículo. El lector dispone de un índice de secciones con saltos a los encabezados.
-- [ ] Ficha resumen lateral dentro del artículo y galerías como componentes del lector. Ya se admiten tablas, cronologías visuales y figuras.
-- [x] Inserción de retratos, pinturas, grabados y documentos históricos junto al texto. Se documentan procedencia, autoría y licencia de las reproducciones, y el vídeo se reserva a fuentes institucionales.
-- [ ] Cabecera YAML editorial en todo el catálogo. Los artículos desarrollados usan estado, palabras y fuentes. Quedan fichas breves por incorporar a este formato.
+- [x] Índice en árbol con anidación ilimitada y acceso móvil. El índice de secciones y subsecciones lleva a cada encabezado del artículo.
+- [x] Fichas resumen al comienzo del artículo. Se ven al lado del texto en pantallas amplias y encima en móvil.
+- [x] Figuras individuales, galerías, tablas y cronologías visuales. Las reproducciones conservan sus pies, procedencia, autoría y licencia. El vídeo se reserva a fuentes institucionales.
+- [x] Metadatos editoriales de estado, fase, recuento y fuentes. Las fichas breves antiguas se registran como borradores y reciben su cabecera YAML al desarrollarse.
 - [x] Validación en la compilación. Los artículos marcados como completos requieren un mínimo de 5.000 palabras de cuerpo.
-- [ ] Búsqueda en el texto completo de la enciclopedia. El filtro del índice busca por títulos.
+- [x] Búsqueda de títulos y texto completo. Los resultados de texto muestran un fragmento y abren la sección correspondiente.
 - [x] Lectura en voz alta, con selección de párrafo, avance y retroceso y ajustes de voz, velocidad, tono y volumen.
 
 ## Fase E01 · Temas generales

@@ -2,6 +2,7 @@
 estado: completo
 fase: E02
 palabras: 5302
+ficha_resumen: {"Origen y ámbito inicial": "Judea y Galilea romanas, siglo I.", "Figura central": "Jesús de Nazaret.", "Textos": "Biblia cristiana. El canon del Antiguo Testamento varía entre tradiciones.", "Tradiciones principales": "Catolicismo, ortodoxias, iglesias orientales y tradiciones protestantes."}
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/christian-population-change/"
   - "https://assets.cambridge.org/97805218/12399/frontmatter/9780521812399_frontmatter.pdf"

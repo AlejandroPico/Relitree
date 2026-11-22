@@ -1,4 +1,10 @@
 {
+  "buscarEnciclopedia": "Search the encyclopedia",
+  "buscarTitulos": "Titles",
+  "buscarTexto": "Full text",
+  "sinResultadosTexto": "No matches in the articles.",
+  "masResultados": "More results",
+  "fichaResumen": "Summary",
   "articulosEnPreparacion": "Articles in preparation",
   "buscar": "Search",
   "buscarAyuda": "Search a religion…",

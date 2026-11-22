@@ -1,3 +1,4 @@
+import json
 import sqlite3
 
 import pytest
@@ -53,3 +54,43 @@ def test_articulo_breve_solo_puede_guardarse_como_borrador(tmp_path):
             insertar_articulo(bd, "es", md, "prueba", "tema", None, {}, "Prueba")
         md.write_text(md.read_text(encoding="utf-8").replace("completo", "borrador"), encoding="utf-8")
         insertar_articulo(bd, "es", md, "prueba", "tema", None, {}, "Prueba")
+
+        editorial, = bd.execute("SELECT editorial FROM articulos WHERE id = 'prueba'").fetchone()
+        assert json.loads(editorial)['palabras'] == 2
+
+
+def test_busqueda_indexa_prosa_visible_y_resuelve_la_seccion(tmp_path):
+    md = tmp_path / 'articulo.md'
+    md.write_text("""---
+ficha_resumen: {"Sede": "Cartago"}
+fuentes:
+  - "https://example.org/texto"
+---
+# Iglesia
+
+Introducción.
+
+## África romana
+
+En la ciudad de *Cártago* se escribe & se publica.
+
+<div class="galeria-articulo" role="group" aria-label="galería">
+<figure><img src="ruta-invisible.jpg" alt="texto alternativo"><figcaption>Un manuscrito.</figcaption></figure>
+</div>
+""", encoding='utf-8')
+    with sqlite3.connect(':memory:') as bd:
+        bd.executescript(ESQUEMA)
+        insertar_articulo(bd, 'es', md, 'iglesia', 'tema', None, {}, 'Iglesia')
+        seccion, titulo, texto, buscable = bd.execute("""
+            SELECT seccion, titulo_seccion, texto, normalizado FROM articulos_texto
+            WHERE id = 'iglesia' AND instr(normalizado, 'cartago') > 0
+        """).fetchone()
+        assert (seccion, titulo) == ('africa-romana', 'África romana')
+        assert 'Cártago se escribe & se publica.' in texto
+        assert 'Un manuscrito.' in texto
+        assert 'ruta-invisible' not in buscable and 'galeria-articulo' not in buscable
+        editorial, = bd.execute("SELECT editorial FROM articulos WHERE id = 'iglesia'").fetchone()
+        assert json.loads(editorial) == {
+            'estado': 'borrador', 'fase': None, 'palabras': 10,
+            'fuentes': ['https://example.org/texto'], 'ficha': {'Sede': 'Cartago'},
+        }
