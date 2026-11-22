@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.49**
+**Versión 1.7.50**
+
+El índice de la Enciclopedia muestra en negrita los artículos completos de la revisión iniciada en E14. El nombre de una entrada conserva esa indicación tanto si se abre directamente como si contiene un desplegable.
 
 Las entregas 14.1–14.3 de la enciclopedia amplían las entradas de Cristianismo, Ebionitas, Elcasaítas, Maniqueísmo, Gnosticismo y Valentinianismo. Cada entrada supera las 10.000 palabras y cuenta con un índice de secciones. La entrega incorpora las remisiones correspondientes en el glosario y los cinco temas comparativos de E01.
 

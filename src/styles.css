@@ -271,7 +271,7 @@ rel-barra-desplazamiento { position: absolute; inset: 0; z-index: 2; pointer-eve
 }
 .volver { margin: -14px 0 22px; } .volver a { color: var(--acento); }
 
-.enciclopedia .rama-indice.raiz-religion > summary, .enciclopedia .indice a.raiz-religion { font-weight: 600; }
+.enciclopedia .indice .articulo-revisado { color: var(--texto); font-weight: 700; }
 .enciclopedia .indice-articulo { list-style: none; margin: 0 0 .25em; padding-inline-start: .85rem; }
 .enciclopedia .indice-articulo a { font-size: 12.5px; line-height: 1.35; }
 .enciclopedia .ruta-articulo { display: flex; gap: .42em; flex-wrap: wrap; align-items: baseline; }

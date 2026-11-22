@@ -108,9 +108,11 @@ export class Datos {
       const columnas = this.filas('PRAGMA table_info(articulos)').map((columna) => columna.name);
       this.tieneEditorial = columnas.includes('editorial');
       this.tieneTexto = this.filas("SELECT name FROM sqlite_master WHERE type = 'table' AND name = 'articulos_texto'").length > 0;
-      const camposOpcionales = ['orden', 'destino_indice'].filter((campo) => columnas.includes(campo));
+      const camposOpcionales = ['orden', 'destino_indice', 'editorial'].filter((campo) => columnas.includes(campo));
       const campos = ['id', 'grupo', 'padre', 'titulo', ...camposOpcionales].join(', ');
-      for (const a of capas(`SELECT ${campos} FROM articulos WHERE idioma = ?`)) indice.set(a.id, a);
+      for (const a of capas(`SELECT ${campos} FROM articulos WHERE idioma = ?`)) {
+        indice.set(a.id, { ...a, editorial: a.editorial ? JSON.parse(a.editorial) : undefined });
+      }
       this.indice = [...indice.values()].sort((a, b) =>
         (a.orden ?? Number.MAX_SAFE_INTEGER) - (b.orden ?? Number.MAX_SAFE_INTEGER) ||
         a.titulo.localeCompare(b.titulo, this.idioma));

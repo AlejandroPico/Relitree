@@ -117,12 +117,12 @@ function leerPreferenciasLectura(): PreferenciasLectura {
       <ng-template #rama let-entradas>
         @for (entrada of entradas; track entrada.articulo.id) {
           @if (entrada.hijos.length || entrada.categoria) {
-            <details class="rama-indice" [class.raiz-religion]="esReligion(entrada.articulo.id)"
+            <details class="rama-indice"
                      [attr.id]="entrada.categoria ? entrada.articulo.id : null" [open]="entrada.abierto">
-              <summary><span>{{ entrada.articulo.titulo }}</span></summary>
+              <summary><span [class.articulo-revisado]="articuloRevisado(entrada.articulo)">{{ entrada.articulo.titulo }}</span></summary>
               <div class="subindice">
                 @if (!entrada.categoria) {
-                  <a href="#" [class.raiz-religion]="esReligion(entrada.articulo.id)" [class.activo]="entrada.articulo.id === estado.enciclopedia()" [attr.aria-current]="entrada.articulo.id === estado.enciclopedia() ? 'page' : null"
+                  <a href="#" [class.articulo-revisado]="articuloRevisado(entrada.articulo)" [class.activo]="entrada.articulo.id === estado.enciclopedia()" [attr.aria-current]="entrada.articulo.id === estado.enciclopedia() ? 'page' : null"
                      (click)="$event.preventDefault(); abrir(entrada.articulo.id)">{{ entrada.articulo.titulo }}</a>
                   @if (entrada.articulo.id === articulo()?.id) {
                     @if (indiceArticulo().length) {
@@ -140,7 +140,7 @@ function leerPreferenciasLectura(): PreferenciasLectura {
               </div>
             </details>
           } @else if (!entrada.categoria) {
-            <a href="#" [class.activo]="entrada.articulo.id === estado.enciclopedia()" [attr.aria-current]="entrada.articulo.id === estado.enciclopedia() ? 'page' : null"
+            <a href="#" [class.articulo-revisado]="articuloRevisado(entrada.articulo)" [class.activo]="entrada.articulo.id === estado.enciclopedia()" [attr.aria-current]="entrada.articulo.id === estado.enciclopedia() ? 'page' : null"
                (click)="$event.preventDefault(); abrir(entrada.articulo.id)">{{ entrada.articulo.titulo }}</a>
                   @if (entrada.articulo.id === articulo()?.id) {
                     @if (indiceArticulo().length) {
@@ -534,7 +534,10 @@ export class Enciclopedia {
   }
 
   verEnArbol(id: string) { this.cerrar(); this.estado.elegir(id, true); }
-  esReligion(id: string) { return this.datos.porId.has(id); }
+  articuloRevisado(articulo: Articulo): boolean {
+    const ficha = articulo.editorial;
+    return ficha?.estado === 'completo' && !!ficha.fase && /^E\d{2}$/.test(ficha.fase) && ficha.fase >= 'E14';
+  }
 
   alternarSeccion(id: string) {
     this.seccionesAbiertas.update(abiertas => {
