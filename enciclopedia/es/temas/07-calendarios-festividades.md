@@ -1,13 +1,15 @@
 ---
 estado: borrador
 fase: E01
-palabras: 843
+palabras: 916
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
   - "https://www.newadvent.org/fathers/250103.htm"
   - "https://www.iranicaonline.org/articles/alchasai-a-sectarian-in-the-early-christian-church-1st-2nd-centuries-a/"
   - "https://www.iranicaonline.org/articles/bema-festival-manicheans/"
+  - "https://www.cambridge.org/core/books/knowledge-faith-and-early-christian-initiation/knowledge-pedagogy-and-initiation/80E6FD85E3A0F387DFF8164B40626D5C"
+  - "https://www.pulaval.com/livres/sethian-gnosticism-and-the-platonic-tradition-bcnh-etudes-6"
 ---
 
 # Calendarios y festividades del mundo
@@ -58,6 +60,10 @@ El *Códice Mani de Colonia* da pie a estudiar el sábado en la comunidad bautis
 
 El [[maniqueismo|Bēma maniqueo]] era una conmemoración anual vinculada a Mani y se conoce por himnos y otros testimonios. El estrado del que recibe su nombre y los periodos de preparación permiten examinar la relación entre objetos, prácticas y calendario. Las equivalencias civiles requieren identificar el calendario y la fuente de cada comunidad y año.
 
+### Una secuencia ritual y un calendario anual
+
+Los documentos sobre [[gnosticismo|grupos llamados gnósticos]] y autores relacionados con el [[valentinianismo|valentinianismo]] permiten examinar secuencias o vocabulario de iniciación. Un texto puede vincular agua, sello o unción con un cambio de condición y aun así dejar sin fecha el acto. Para incorporar una celebración a un calendario se necesitan noticias de periodicidad, fecha o regla, junto con el ámbito donde se aplicaba. Los casos se presentan con el alcance que permiten los textos.
+
 ## Nota editorial
 
 El desarrollo incluirá Pascuas cristianas, Pésaj, Yom Kipur, Ramadán y sus festividades, Diwali, Vesak, Nowruz y otros casos con documentación regional. El [[glosario-general|glosario]] recoge los conceptos de intercalación y calendario lunisolar. [[textos-sagrados|Textos sagrados]] ayuda a comprender la relación entre relatos, recitaciones y conmemoración.
@@ -69,3 +75,5 @@ El desarrollo incluirá Pascuas cristianas, Pésaj, Yom Kipur, Ramadán y sus fe
 - Eusebio de Cesarea. [Historia eclesiástica III.27](https://www.newadvent.org/fathers/250103.htm).
 - Encyclopaedia Iranica. [Alchasai](https://www.iranicaonline.org/articles/alchasai-a-sectarian-in-the-early-christian-church-1st-2nd-centuries-a/).
 - Encyclopaedia Iranica. [Bēma](https://www.iranicaonline.org/articles/bema-festival-manicheans/).
+- Cambridge University Press. [Knowledge, Pedagogy, and Initiation](https://www.cambridge.org/core/books/knowledge-faith-and-early-christian-initiation/knowledge-pedagogy-and-initiation/80E6FD85E3A0F387DFF8164B40626D5C).
+- John D. Turner. [Sethian Gnosticism and the Platonic Tradition](https://www.pulaval.com/livres/sethian-gnosticism-and-the-platonic-tradition-bcnh-etudes-6).

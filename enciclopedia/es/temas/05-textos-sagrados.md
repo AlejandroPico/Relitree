@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 976
+palabras: 1140
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -9,6 +9,9 @@ fuentes:
   - "https://papyri.uni-koeln.de/stueck/tm64574"
   - "https://www.iranicaonline.org/articles/sabuhragan/"
   - "https://www.iranicaonline.org/articles/kephalaia/"
+  - "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-inv-10544-nag-hammadi-codex-ii/"
+  - "https://scholarlyeditions.brill.com/cglo/"
+  - "https://www.ucpress.edu/books/valentinian-christianity/hardcover"
 ---
 
 # Textos sagrados del mundo comparados
@@ -63,9 +66,19 @@ Las noticias patrísticas atribuyen a [[elcasaitas|Elcasai]] una revelación esc
 
 En el [[maniqueismo|maniqueísmo]] se puede seguir la transmisión de obras atribuidas a Mani y de repertorios de su iglesia. El *Šābuhragān* se asocia a Sapor I y se conserva en fragmentos en persa medio. Los *Kephalaia* coptos contienen enseñanzas organizadas en capítulos. Sus títulos, lenguas y usos muestran por qué hace falta distinguir la composición de una obra, su versión conservada y las listas de libros que la registran.
 
+### Obras reunidas en un códice y ediciones de una tradición
+
+El códice II de Nag Hammadi conserva obras de géneros y contenidos diferentes. La presencia del *Libro secreto de Juan* y del *Evangelio de Tomás* en una misma página demuestra la secuencia de la copia. Los catálogos permiten separar el orden del manuscrito y el repertorio doctrinal por el que cada texto se estudia en [[gnosticismo|Gnosticismo]].
+
+En [[valentinianismo|Valentinianismo]], el *Evangelio de la Verdad*, el *Tratado tripartito* y el *Evangelio de Felipe* se conocen por testimonios coptos. La *Carta a Flora* se conserva dentro del *Panarion*. La circulación y la atribución se estudian con criterios diferentes para una copia, una cita de un adversario y una carta dirigida a una lectora.
+
 ## Nota editorial
 
 La ampliación comparará tradiciones judías, cristianas, musulmanas, hindúes, budistas, jainas y sijs, con atención a la pluralidad interna. Se enlazará con [[cristianismo|Cristianismo]], [[que-es-una-religion|Qué es una religión]] y el [[glosario-general|Glosario general]].
+
+### Las recensiones del *Libro secreto de Juan*
+
+Los códices II y IV de Nag Hammadi conservan la forma larga de la obra. El III y el papiro de Berlín 8502 conservan la breve. El texto puede compararse en la sinopsis de Michael Waldstein y Frederik Wisse recogida por el repertorio [*Apocryphon of John* de NASSCAL](https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphon-of-john/). Véanse [[gnosticismo|Gnosticismo]] y el [[glosario-general|Glosario general]].
 
 ## Fuentes
 
@@ -75,3 +88,6 @@ La ampliación comparará tradiciones judías, cristianas, musulmanas, hindúes,
 - Universidad de Colonia. [P. Köln inv. 4780](https://papyri.uni-koeln.de/stueck/tm64574).
 - Encyclopaedia Iranica. [Šābuhragān](https://www.iranicaonline.org/articles/sabuhragan/).
 - Encyclopaedia Iranica. [Kephalaia](https://www.iranicaonline.org/articles/kephalaia/).
+- NASSCAL. [Cairo, Coptic Museum, Inv. 10544](https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-inv-10544-nag-hammadi-codex-ii/).
+- Brill. [Coptic Gnostic Library Online](https://scholarlyeditions.brill.com/cglo/).
+- Geoffrey S. Smith. [Valentinian Christianity](https://www.ucpress.edu/books/valentinian-christianity/hardcover).

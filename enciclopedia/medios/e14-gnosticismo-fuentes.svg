@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 438" role="img" aria-labelledby="titulo nota">
+<title id="titulo">Testimonios y preguntas</title><desc id="nota">El texto, su lector y la copia dejan pruebas distintas.</desc>
+<style>text{font-family:system-ui,sans-serif;fill:#203b30}.h{font-size:23px;font-weight:650}.d{font-size:19px}.t{font-size:32px;font-weight:700}</style>
+<rect width="780" height="438" fill="#f6f5ef"/>
+<text x="32" y="54" class="t">Testimonios y preguntas</text>
+<text x="32" y="86" class="d">El texto, su lector y la copia dejan pruebas distintas.</text>
+<rect x="32" y="115" width="716" height="67" fill="#e5eee5"/><text x="49" y="142" class="h">Ireneo · finales del siglo II</text><text x="49" y="168" class="d">Transmite clasificaciones y relatos en una polémica.</text>
+<rect x="32" y="194" width="716" height="67" fill="#e5eee5"/><text x="49" y="221" class="h">Plotino y Porfirio · siglo III</text><text x="49" y="247" class="d">Discuten ideas y sitúan lecturas en su entorno.</text>
+<rect x="32" y="273" width="716" height="67" fill="#e5eee5"/><text x="49" y="300" class="h">Nag Hammadi · copias de la Antigüedad tardía</text><text x="49" y="326" class="d">Conserva obras coptas de género y procedencia variada.</text>
+<rect x="32" y="352" width="716" height="67" fill="#e5eee5"/><text x="49" y="379" class="h">Ediciones y estudios modernos</text><text x="49" y="405" class="d">Comparan testigos, clasificaciones y contextos de lectura.</text>
+</svg>

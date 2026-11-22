@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.48**
+**Versión 1.7.49**
+
+Las entregas 14.1–14.3 de la enciclopedia amplían las entradas de Cristianismo, Ebionitas, Elcasaítas, Maniqueísmo, Gnosticismo y Valentinianismo. Cada entrada supera las 10.000 palabras y cuenta con un índice de secciones. La entrega incorpora las remisiones correspondientes en el glosario y los cinco temas comparativos de E01.
 
 La [enciclopedia](enciclopedia/PLAN.md#fase-e03--cristianismo--apóstoles-y-primeros-siglos) amplía los artículos de Patrística e Iglesias e Imperio romano. El lector conserva el historial y la posición de lectura de cada visita y muestra barras de desplazamiento que se ocultan en reposo.
 

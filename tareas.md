@@ -4,6 +4,9 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E14 · 14.3. [Gnosticismo](enciclopedia/es/religiones/gnosticismo.md), 10.122 palabras de cuerpo. [Valentinianismo](enciclopedia/es/religiones/valentinianismo.md), 10.123 palabras de cuerpo. Versión 1.7.49.
+  - E01 actualizado en los seis temas. Los ritos se documentan por su alcance y fuente. Los testimonios conservados carecen de datos suficientes para un calendario común o cifras demográficas comparables.
+
 - [x] E14 · 14.2. [Elcasaítas](enciclopedia/es/religiones/elcasaitas.md), 10.052 palabras de cuerpo. [Maniqueísmo](enciclopedia/es/religiones/maniqueismo.md), 10.061 palabras de cuerpo. Versión 1.7.48.
   - E01 actualizado en los seis temas. Los ámbitos históricos se documentan mediante testimonios y piezas localizadas. Las cifras de población y la extensión de las observancias elcasaítas quedan sin cuantificar.
 

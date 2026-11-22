@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 961
+palabras: 1072
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -10,6 +10,8 @@ fuentes:
   - "https://www.newadvent.org/fathers/050109.htm"
   - "https://www.iranicaonline.org/articles/manichean-art/"
   - "https://whc.unesco.org/en/documents/180648"
+  - "https://commons.wikimedia.org/wiki/File:Ouroboros-simple.svg"
+  - "https://scholarsarchive.byu.edu/sba/vol1/iss1/6/"
 ---
 
 # Simbología religiosa comparada
@@ -64,6 +66,12 @@ La *Refutación* IX describe dos seres de tamaño extraordinario en el relato at
 
 El [[maniqueismo|maniqueísmo]] cuenta con fragmentos de manuscritos iluminados de Turfán y obras como la estatua de Mani en el templo de Cao’an, documentada por la UNESCO. Un fragmento de página y un objeto de un santuario aportan información distinta. Los motivos se identifican mediante la escena, la procedencia, las inscripciones y sus comparaciones. La entrada incluye enlaces a piezas y colecciones.
 
+### Emblemas modernos, figuras narrativas y motivos rituales
+
+El ouroboros que identifica la entrada [[gnosticismo|Gnosticismo]] en Relitree es un dibujo moderno de un motivo con varios usos históricos. La atribución del gráfico se puede consultar en la ficha. El *Libro secreto de Juan* se estudia a partir de sus propios personajes y escenas. El diseño del árbol y las figuras del relato proceden de testimonios diferentes.
+
+La cámara nupcial del *Evangelio de Felipe* se estudia como motivo de unión relacionado con el lenguaje de unión y restauración, y como posible referencia ritual. La entrada [[valentinianismo|Valentinianismo]] explica qué aporta el pasaje, qué se ha propuesto sobre su relación con un rito y qué necesitaría verificarse para atribuirle un uso material.
+
 ## Nota editorial
 
 Este borrador se ampliará con documentación de piezas y sus licencias, categorías visuales y cambios de sentido. [[como-leer|Cómo leer el árbol]] explica los emblemas del proyecto. [[origenes-pensamiento-religioso|Prehistoria]] aborda los límites para interpretar figuras antiguas sin textos.
@@ -77,3 +85,5 @@ Este borrador se ampliará con documentación de piezas y sus licencias, categor
 - Refutación de todas las herejías. [Libro IX](https://www.newadvent.org/fathers/050109.htm).
 - Zsuzsanna Gulácsi. [Manichean Art](https://www.iranicaonline.org/articles/manichean-art/).
 - UNESCO. [Estatua de Mani](https://whc.unesco.org/en/documents/180648).
+- AnonMoos. [Ouroboros simple](https://commons.wikimedia.org/wiki/File:Ouroboros-simple.svg).
+- Gaye Strathearn. [The Valentinian Bridal Chamber in the Gospel of Philip](https://scholarsarchive.byu.edu/sba/vol1/iss1/6/).

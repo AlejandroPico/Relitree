@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 408" role="img" aria-labelledby="titulo descripcion">
+<title id="titulo">Plenitud, perturbación y restauración</title>
+<desc id="descripcion">Compara la secuencia descrita por Ireneo y la del Tratado tripartito, que da al Logos un papel propio.</desc>
+<style>text{font-family:system-ui,sans-serif;fill:#203b30}.h{font-size:22px;font-weight:700}.d{font-size:18px}.t{font-size:32px;font-weight:700}</style>
+<rect width="780" height="408" fill="#f6f5ef"/>
+<text x="32" y="54" class="t">Plenitud, perturbación y restauración</text>
+<rect x="32" y="83" width="348" height="283" fill="#e5eee5"/>
+<rect x="400" y="83" width="348" height="283" fill="#ebeae1"/>
+<text x="52" y="117" class="h">Relato recogido por Ireneo</text>
+<text x="420" y="117" class="h">Tratado tripartito</text>
+<text x="52" y="169" class="d">Plenitud organizada en eones</text>
+<text x="420" y="169" class="d">Exposición del orden divino</text>
+<text x="52" y="221" class="d">Crisis vinculada a Sofía</text>
+<text x="420" y="221" class="d">Perturbación vinculada al Logos</text>
+<text x="52" y="273" class="d">Intervención del Límite</text>
+<text x="420" y="273" class="d">Desarrollo de otros ámbitos</text>
+<text x="52" y="325" class="d">Distinción entre ámbitos</text>
+<text x="420" y="325" class="d">Restauración y acción salvadora</text>
+<path d="M52 183h306m-306 52h306m-306 52h306M420 183h306m-306 52h306m-306 52h306" stroke="#adbaae" fill="none"/>
+</svg>

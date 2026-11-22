@@ -120,6 +120,12 @@ Cada tradición se desarrolla en `enciclopedia/es/religiones/<id>.md` y se abre 
 
 Antes de retomar una fase, consultar el reparto y las casillas de `enciclopedia/PLAN.md` y comprobar la versión y las últimas entregas en `tareas.md`. Si una tanda queda interrumpida, retomar la primera entrega pendiente con sus archivos y fuentes de trabajo. Actualizar el registro al publicar.
 
+### Punto de relevo
+
+En la versión 1.7.49 están completos 14.1 (Cristianismo y Ebionitas), 14.2 (Elcasaítas y Maniqueísmo) y 14.3 (Gnosticismo y Valentinianismo). Sus seis entradas superan las 10.000 palabras de cuerpo y se consultan desde sus propias entidades. El índice de cada artículo enlaza a sus secciones y subsecciones.
+
+La siguiente entrega de E14 es **14.4 · Marcionismo y Montanismo**. Revisar las fichas de partida en `enciclopedia/es/religiones/marcionismo.md` y `enciclopedia/es/religiones/montanismo.md`. El reparto de 14.5 y 14.6 figura en `enciclopedia/PLAN.md`. Al terminar cada tanda, actualizar este relevo y `tareas.md`, con el recuento y los cambios en los seis temas de E01.
+
 ## Mantenimiento acumulativo de E01
 
 **Aplicación obligatoria en la misma entrega.** Quien añada una tradición a la enciclopedia o revise de manera sustancial una tradición existente, aunque el cambio se haga en un subartículo, debe revisar los seis temas comparativos de E01. Se considera sustancial un cambio que aporta información nueva, corrige una interpretación o sustituye un dato o una fuente relevante. Aplicar también el procedimiento al corregir, renombrar, fusionar o retirar una tradición si ello afecta a sus referencias en E01. Los ajustes de ortografía o presentación se benefician de una corrección directa cuando también afectan a una entrada comparativa.

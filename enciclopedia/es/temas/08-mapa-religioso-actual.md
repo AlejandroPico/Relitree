@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 982
+palabras: 1053
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -12,6 +12,8 @@ fuentes:
   - "https://www.iranicaonline.org/articles/manicheism-parent/manicheism-iv-missionary-activity-and-technique/"
   - "https://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/orient/aufgaben-profil/veroeffentlichungen/berlin-turfan-collection"
   - "https://www.newadvent.org/fathers/050109.htm"
+  - "https://www.newadvent.org/fathers/0103304.htm"
+  - "https://www.cambridge.org/core/books/nag-hammadi-codices-and-their-ancient-readers/9B2AEA9141B7E747BA33277AE8D9D187"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -72,6 +74,10 @@ El libro que describe la *Refutación* IX se vincula a la actividad de Alcibíad
 
 La documentación del [[maniqueismo|maniqueísmo]] procede de ámbitos como el oasis egipcio de Dajla, Turfán y la región china de Quanzhou. Cartas, manuscritos e inscripciones permiten fechar momentos y estudiar formas de organización, circulación y conservación. Conviene indicar qué clase de presencia acredita cada material cuando se sitúa en el mapa.
 
+### Localizar lectores, testimonios y copias
+
+El lugar donde se conoció un escrito puede estar documentado de manera distinta al lugar en que fue compuesto. Los catálogos coptos de Nag Hammadi sitúan ejemplares relacionados con [[gnosticismo|Gnosticismo]] y [[valentinianismo|Valentinianismo]]. Una noticia como la de Ireneo acerca de Valentín en Roma localiza una actividad distinta. Manuscritos y noticias permiten georreferenciar piezas y testimonios. La cifra de personas, el tamaño de las comunidades y sus límites territoriales requieren otra documentación.
+
 ## Nota editorial
 
 La ampliación incorporará un mapa propio con año y metodología visibles, diferencias regionales, discusión de identidades múltiples y el tratamiento de proyecciones. [[como-leer|Cómo leer el árbol]] explica la diferencia entre el territorio del nodo y la distribución geográfica actual. [[que-es-una-religion|Qué es una religión]] examina cómo afectan las definiciones a la medición.
@@ -87,3 +93,5 @@ La ampliación incorporará un mapa propio con año y metodología visibles, dif
 - Encyclopaedia Iranica. [Missionary Activity and Technique](https://www.iranicaonline.org/articles/manicheism-parent/manicheism-iv-missionary-activity-and-technique/).
 - Staatsbibliothek zu Berlin. [Berlin Turfan Collection](https://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/orient/aufgaben-profil/veroeffentlichungen/berlin-turfan-collection).
 - Refutación de todas las herejías. [Libro IX](https://www.newadvent.org/fathers/050109.htm).
+- Ireneo de Lyon. [Contra las herejías III.4](https://www.newadvent.org/fathers/0103304.htm).
+- Paul Linjamaa. [The Nag Hammadi Codices and their Ancient Readers](https://www.cambridge.org/core/books/nag-hammadi-codices-and-their-ancient-readers/9B2AEA9141B7E747BA33277AE8D9D187).

@@ -270,20 +270,21 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 
 ## Fase E14 · Cristianismo · tradiciones (1/9)
 
-**Avance.** 14.1 y 14.2 completas. La siguiente entrega es 14.3.
+**Avance.** Completadas las entregas 14.1–14.3. Quedan seis entradas de E14. El reparto propuesto para continuar figura debajo.
 
 - [x] 14.1 · [Cristianismo](es/religiones/cristianismo.md), revisión del artículo principal.
 - [x] 14.1 · [Ebionitas](es/religiones/ebionitas.md).
 - [x] 14.2 · [Elcasaítas](es/religiones/elcasaitas.md).
 - [x] 14.2 · [Maniqueísmo](es/religiones/maniqueismo.md).
-- [ ] 14.3 · [Gnosticismo](es/religiones/gnosticismo.md).
-- [ ] 14.3 · [Valentinianismo](es/religiones/valentinianismo.md).
-- Marcionismo (`marcionismo`)
-- Montanismo (`montanismo`)
-- Monacato cristiano (`monacato`)
-- Orden benedictina (`benedictinos`)
-- Orden cisterciense (`cistercienses`)
-- Iglesia apostólica armenia (`armenia`)
+- [x] 14.3 · [Gnosticismo](es/religiones/gnosticismo.md).
+- [x] 14.3 · [Valentinianismo](es/religiones/valentinianismo.md).
+
+- [ ] 14.4 · [Marcionismo](es/religiones/marcionismo.md).
+- [ ] 14.4 · [Montanismo](es/religiones/montanismo.md).
+- [ ] 14.5 · [Monacato cristiano](es/religiones/monacato.md).
+- [ ] 14.5 · [Orden benedictina](es/religiones/benedictinos.md).
+- [ ] 14.6 · [Orden cisterciense](es/religiones/cistercienses.md).
+- [ ] 14.6 · [Iglesia apostólica armenia](es/religiones/armenia.md).
 
 ## Fase E15 · Cristianismo · tradiciones (2/9)
 

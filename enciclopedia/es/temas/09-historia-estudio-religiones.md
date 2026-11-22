@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 845
+palabras: 962
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -11,6 +11,11 @@ fuentes:
   - "https://www.nli.org.il/en/books/NNL_ALEPH990039698480205171/NLI"
   - "https://research.rug.nl/en/publications/manis-baptists-and-the-elchasaites/"
   - "https://www.jstor.org/stable/10.1163/j.ctv1v7zbdj"
+  - "https://press.princeton.edu/books/ebook/9781400822218/rethinking-gnosticism-pdf"
+  - "https://books.google.com/books/about/What_is_Gnosticism.html?id=df1Tz5Cn8BQC"
+  - "https://www.jstor.org/stable/j.ctvjnrvhh"
+  - "https://www.ucpress.edu/books/valentinian-christianity/hardcover"
+  - "https://www.cambridge.org/core/books/nag-hammadi-codices-and-their-ancient-readers/9B2AEA9141B7E747BA33277AE8D9D187"
 ---
 
 # Historia del estudio de las religiones
@@ -63,6 +68,12 @@ La edición del códice griego de Colonia por Albert Henrichs y Ludwig Koenen a�
 
 El trabajo de Håkon Fiane Teigen sobre Kellis reconstruye redes de relaciones e identidad religiosa con documentos de un poblado del Egipto tardío. En el estudio del [[maniqueismo|maniqueísmo]] este tipo de investigación permite acercarse a hogares y contactos locales y complementa los textos doctrinales y los relatos de misión.
 
+### La historia de una categoría y la lectura material de los códices
+
+Michael Allen Williams, Karen King y David Brakke estudian qué conjuntos se reúnen en torno a «gnosticismo» y qué se gana o pierde según el criterio elegido. Williams examina generalizaciones a partir de obras concretas. King investiga la historia de las categorías de ortodoxia y herejía. Brakke plantea una delimitación de grupos, mitos y ritos en determinados contextos. [[gnosticismo|Gnosticismo]] recoge los términos de esa discusión.
+
+Para el [[valentinianismo|valentinianismo]], la edición de Geoffrey S. Smith permite contrastar testimonios griegos y coptos, y el estudio de Paul Linjamaa introduce preguntas sobre la construcción y el uso antiguo de los códices. Vincular ambos recorridos ayuda a separar el contenido de una obra y la historia del volumen que la conserva.
+
 ## Nota editorial
 
 La ampliación desarrollará antecedentes, filología, sociología clásica, historia comparada, debates del siglo XX y aportaciones de la antropología, el feminismo y los estudios poscoloniales. Véanse [[que-es-una-religion|Qué es una religión]] y [[textos-sagrados|Textos sagrados del mundo comparados]].
@@ -77,3 +88,8 @@ La ampliación desarrollará antecedentes, filología, sociología clásica, his
 - Andrew Gregory. [The Gospel according to the Hebrews and the Gospel of the Ebionites](https://www.nli.org.il/en/books/NNL_ALEPH990039698480205171/NLI).
 - Gerard P. Luttikhuizen. [Mani’s Baptists and the Elchasaites](https://research.rug.nl/en/publications/manis-baptists-and-the-elchasaites/).
 - Håkon Fiane Teigen. [The Manichaean Church at Kellis](https://www.jstor.org/stable/10.1163/j.ctv1v7zbdj).
+- Michael Allen Williams. [Rethinking “Gnosticism”](https://press.princeton.edu/books/ebook/9781400822218/rethinking-gnosticism-pdf).
+- Karen L. King. [What Is Gnosticism?](https://books.google.com/books/about/What_is_Gnosticism.html?id=df1Tz5Cn8BQC).
+- David Brakke. [The Gnostics](https://www.jstor.org/stable/j.ctvjnrvhh).
+- Geoffrey S. Smith. [Valentinian Christianity](https://www.ucpress.edu/books/valentinian-christianity/hardcover).
+- Paul Linjamaa. [The Nag Hammadi Codices and their Ancient Readers](https://www.cambridge.org/core/books/nag-hammadi-codices-and-their-ancient-readers/9B2AEA9141B7E747BA33277AE8D9D187).
