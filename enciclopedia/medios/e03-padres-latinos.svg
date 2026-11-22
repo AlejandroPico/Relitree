@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="434" viewBox="0 0 720 434" role="img" aria-labelledby="tit desc">
+<title id="tit">Una literatura latina en varias ciudades</title>
+<desc id="desc">Cartago. Tertuliano y Cipriano. Argumentación, disciplina y relaciones entre iglesias. Poitiers y Milán. Hilario y Ambrosio. Controversias doctrinales y vida urbana. Roma y Belén. Jerónimo. Revisión, traducción de las Escrituras y correspondencia. Hipona. Agustín. Predicación, controversia, memoria y gracia. Roma. León y Gregorio. Sermones, cartas y formas de gobierno eclesial.</desc>
+<style>text{font:16px system-ui,sans-serif;fill:#29364a}.titulo{font-size:25px;font-weight:700}</style>
+<rect width="720" height="434" fill="white"/>
+<text class="titulo" x="18" y="41">Una literatura latina en varias ciudades</text>
+<text x="18" y="66">Relitree · Elaboración propia</text>
+<rect x="18" y="90" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="115">Cartago</text>
+<text x="260" y="115">Tertuliano y Cipriano. Argumentación, disciplina y</text>
+<text x="260" y="138">relaciones entre iglesias.</text>
+<rect x="18" y="156" width="684" height="61" fill="#f6f2eb"/>
+<text x="36" y="181">Poitiers y Milán</text>
+<text x="260" y="181">Hilario y Ambrosio. Controversias doctrinales y</text>
+<text x="260" y="204">vida urbana.</text>
+<rect x="18" y="222" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="247">Roma y Belén</text>
+<text x="260" y="247">Jerónimo. Revisión, traducción de las Escrituras y</text>
+<text x="260" y="270">correspondencia.</text>
+<rect x="18" y="288" width="684" height="61" fill="#f6f2eb"/>
+<text x="36" y="313">Hipona</text>
+<text x="260" y="313">Agustín. Predicación, controversia, memoria y</text>
+<text x="260" y="336">gracia.</text>
+<rect x="18" y="354" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="379">Roma</text>
+<text x="260" y="379">León y Gregorio. Sermones, cartas y formas de</text>
+<text x="260" y="402">gobierno eclesial.</text>
+</svg>

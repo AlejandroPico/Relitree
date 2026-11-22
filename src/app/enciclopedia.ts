@@ -1,9 +1,10 @@
-import { ChangeDetectionStrategy, Component, ElementRef, afterRenderEffect, computed, inject, signal, viewChild } from '@angular/core';
+import { ChangeDetectionStrategy, Component, ElementRef, afterRenderEffect, computed, effect, inject, signal, viewChild } from '@angular/core';
 import { DomSanitizer } from '@angular/platform-browser';
 import { NgTemplateOutlet } from '@angular/common';
 import { Articulo, Datos, normalizar } from './datos';
 import { Estado } from './estado';
 import { LectorEnciclopedia } from './lector-enciclopedia';
+import { BarraDesplazamiento } from './barra-desplazamiento';
 import { I18n } from './i18n';
 import { GLIFOS, UI } from './glifos';
 
@@ -53,7 +54,7 @@ function leerPreferenciasLectura(): PreferenciasLectura {
 
 @Component({
   selector: 'app-enciclopedia',
-  imports: [NgTemplateOutlet, LectorEnciclopedia],
+  imports: [NgTemplateOutlet, LectorEnciclopedia, BarraDesplazamiento],
   changeDetection: ChangeDetectionStrategy.OnPush,
   host: {
     '(document:click)': 'cerrarAjustesFuera($event)',
@@ -68,13 +69,16 @@ function leerPreferenciasLectura(): PreferenciasLectura {
           <button [class.activo]="!porTerritorio()" (click)="porTerritorio.set(false)">{{ i18n.t('ordenAZ') }}</button>
           <button [class.activo]="porTerritorio()" (click)="porTerritorio.set(true)">{{ i18n.t('ordenTerritorio') }}</button>
         </div>
-        <div #indice class="indice">
+        <div class="enc-con-desplazamiento enc-indice-desplazable">
+        <div #indice class="indice" tabindex="0">
           @for (g of grupos(); track g.id) {
             <details [open]="g.abierto">
               <summary [style.color]="g.color">{{ g.nombre }}<small>{{ g.total }}</small></summary>
               <ng-container [ngTemplateOutlet]="rama" [ngTemplateOutletContext]="{ $implicit: g.entradas }"/>
             </details>
           }
+        </div>
+        <rel-barra-desplazamiento [contenido]="indice"/>
         </div>
       </nav>
       <ng-template #rama let-entradas>
@@ -147,9 +151,14 @@ function leerPreferenciasLectura(): PreferenciasLectura {
           </ul>
         }
       </ng-template>
-      <article #cuerpo tabindex="0" (click)="clic($event)">
+      <div class="enc-con-desplazamiento">
+      <article #cuerpo tabindex="0" (scroll)="guardarPosicion()" (click)="clic($event)">
         <header>
           <div class="enc-cabecera-indice">
+          <button type="button" class="ico" [title]="etiquetaVolver()" [attr.aria-label]="etiquetaVolver()"
+                  (click)="estado.volverArticulo()">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14 5-7 7 7 7M7 12h13"/></svg>
+          </button>
           <button type="button" class="indice-movil" aria-controls="indice-enciclopedia"
                   [attr.aria-expanded]="indiceAbierto()" (click)="indiceAbierto.set(!indiceAbierto())">
             {{ i18n.t('indiceEnciclopedia') }}
@@ -254,12 +263,12 @@ function leerPreferenciasLectura(): PreferenciasLectura {
           <div class="texto">
             <h1>{{ tituloPendiente() || i18n.t('articuloPendiente') }}</h1>
             @if (tituloPendiente()) { <p>{{ i18n.t('articuloPendiente') }}</p> }
-            @if (anterior()) {
-              <button type="button" (click)="volver()">{{ i18n.t('volverArticulo') }}</button>
-            }
+
           </div>
         }
       </article>
+      <rel-barra-desplazamiento [contenido]="cuerpo"/>
+      </div>
     </section>`,
 })
 export class Enciclopedia {
@@ -269,8 +278,11 @@ export class Enciclopedia {
   filtro = signal('');
   indiceAbierto = signal(false);
   porTerritorio = signal(false);
-  tituloPendiente = signal('');
-  anterior = signal<string | null>(null);
+  readonly tituloPendiente = computed(() => this.estado.visitaEnciclopedia()?.titulo ?? '');
+  readonly etiquetaVolver = computed(() => this.i18n.t(
+    (this.estado.visitaEnciclopedia()?.profundidad ?? 0) > 1 ? 'volverArticulo' : 'verArbol',
+  ));
+  private claveMostrada: string | null = null;
   readonly ajustesLecturaAbiertos = signal(false);
   readonly preferenciasLectura = signal(leerPreferenciasLectura());
   readonly anchoLectura = computed(() => ANCHOS_LECTURA[this.preferenciasLectura().ancho]);
@@ -369,6 +381,20 @@ export class Enciclopedia {
   });
 
   constructor() {
+    effect(() => {
+      this.estado.visitaEnciclopedia();
+      this.indiceAbierto.set(false);
+      this.ajustesLecturaAbiertos.set(false);
+      this.seccionActiva.set('');
+      this.seccionesAbiertas.set(new Set());
+    });
+    afterRenderEffect(() => {
+      const visita = this.estado.visitaEnciclopedia();
+      const cuerpo = this.cuerpo().nativeElement;
+      if (!visita || visita.clave === this.claveMostrada) return;
+      this.claveMostrada = visita.clave;
+      cuerpo.scrollTop = this.estado.posicionesEnciclopedia.get(visita.clave) ?? 0;
+    });
     afterRenderEffect(() => {
       const grupos = this.grupos();
       this.indiceAbierto(); // En móvil el índice se despliega después de abrir el artículo.
@@ -418,26 +444,22 @@ export class Enciclopedia {
 
   color(region: string) { return this.datos.region.get(region)!.color; }
   abrir(id: string, titulo = '') {
-    id = this.datos.destinoArticulo(id);
-    if (id === this.articulo()?.id) {
-      this.indiceAbierto.set(false);
-      return;
-    }
-    this.lector()?.detener();
-    this.ajustesLecturaAbiertos.set(false);
-    this.seccionActiva.set('');
-    this.seccionesAbiertas.set(new Set());
-    this.anterior.set(this.articulo()?.id ?? this.anterior());
-    this.tituloPendiente.set(titulo);
+    this.guardarPosicion();
+    this.estado.abrirArticulo(id, titulo);
     this.indiceAbierto.set(false);
-    this.estado.enciclopedia.set(id);
-    this.cuerpo().nativeElement.scrollTop = 0;
   }
-  volver() {
-    const id = this.anterior();
-    if (id) this.abrir(id);
+
+  guardarPosicion() {
+    if (this.claveMostrada && this.claveMostrada === this.estado.visitaEnciclopedia()?.clave) {
+      this.estado.posicionesEnciclopedia.set(this.claveMostrada, this.cuerpo().nativeElement.scrollTop);
+    }
   }
-  cerrar() { this.lector()?.detener(); this.estado.enciclopedia.set(null); }
+
+  cerrar() {
+    this.guardarPosicion();
+    this.estado.cerrarEnciclopedia();
+  }
+
   verEnArbol(id: string) { this.cerrar(); this.estado.elegir(id, true); }
   esReligion(id: string) { return this.datos.porId.has(id); }
 

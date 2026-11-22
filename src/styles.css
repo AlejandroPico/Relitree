@@ -116,7 +116,7 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .enciclopedia { position: fixed; inset: 0; z-index: 20; background: var(--fondo); display: grid; grid-template-columns: clamp(15rem, 19vw, 22rem) minmax(0, 1fr); animation: aparece .25s; }
 @keyframes aparece { from { opacity: 0; } }
 .enciclopedia nav { padding: 18px 8px 0 18px; display: flex; flex-direction: column; min-height: 0; }
-.enciclopedia .indice { overflow: auto; flex: 1; padding: 6px 8px 30px 0; }
+.enciclopedia .indice { overflow: auto; padding: 6px 8px 30px 0; }
 .enciclopedia .orden { display: flex; gap: 4px; margin: 10px 0 2px; }
 .enciclopedia .orden button { border: 0; background: none; cursor: pointer; padding: 4px 10px; border-radius: 999px; font-size: 12px; color: var(--tenue); }
 .enciclopedia .orden button.activo { color: var(--texto); background: color-mix(in srgb, var(--texto) 9%, transparent); }
@@ -134,9 +134,35 @@ small { color: var(--tenue); font-size: 11.5px; margin-left: auto; padding-left:
 .enciclopedia .indice a { display: block; padding: 4px 9px; border-radius: 7px; font-size: 13.5px; color: var(--tenue); }
 .enciclopedia .indice a:hover { color: var(--texto); }
 .enciclopedia .indice a.activo { color: var(--texto); background: color-mix(in srgb, var(--texto) 8%, transparent); }
+.enc-con-desplazamiento { position: relative; min-height: 0; min-width: 0; }
+.enc-indice-desplazable { flex: 1; }
+.enciclopedia :is(.indice, article) { height: 100%; overscroll-behavior-y: contain; }
 .enciclopedia article { overflow: auto; position: relative; scroll-padding-top: 76px; }
+rel-barra-desplazamiento { position: absolute; inset: 0; z-index: 2; pointer-events: none; }
+.enc-cursor-scroll {
+  position: absolute;
+  inset-block-start: 4px;
+  inset-inline-end: 0;
+  width: 12px;
+  opacity: 0;
+  touch-action: none;
+  transition: opacity .18s ease;
+}
+.enc-cursor-scroll::after {
+  content: '';
+  position: absolute;
+  inset-block: 0;
+  inset-inline-end: 3px;
+  width: 4px;
+  background: var(--tenue);
+}
+.enc-cursor-scroll.visible { opacity: .85; pointer-events: auto; cursor: grab; }
+.enc-cursor-scroll.visible:active { opacity: 1; cursor: grabbing; }
+@media (prefers-reduced-motion: reduce) {
+  .enc-cursor-scroll { transition: none; }
+}
 .enciclopedia header { position: sticky; top: 0; display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); align-items: center; gap: 4px; padding: 8px 12px; background: linear-gradient(var(--fondo) 70%, transparent); z-index: 1; }
-.enc-cabecera-indice { grid-column: 1; justify-self: start; }
+.enc-cabecera-indice { grid-column: 1; justify-self: start; display: flex; align-items: center; min-width: 0; }
 .enc-cabecera-acciones { grid-column: 3; justify-self: end; display: flex; gap: 2px; }
 .enc-ajustes-lectura { position: relative; }
 .enc-panel-lectura {

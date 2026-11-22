@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="368" viewBox="0 0 720 368" role="img" aria-labelledby="tit desc">
+<title id="tit">Tres cambios jurídicos e institucionales</title>
+<desc id="desc">Reunión. La disposición de Galerio de 311 vuelve a admitir reuniones cristianas. Restitución. El acuerdo de 313 dispone la devolución de bienes y espacios. Reconocimiento. En África, la administración debe decidir qué interlocutores representan a una iglesia. Patronazgo. La corte financia edificios y facilita reuniones episcopales de gran alcance.</desc>
+<style>text{font:16px system-ui,sans-serif;fill:#29364a}.titulo{font-size:25px;font-weight:700}</style>
+<rect width="720" height="368" fill="white"/>
+<text class="titulo" x="18" y="41">Tres cambios jurídicos e institucionales</text>
+<text x="18" y="66">Relitree · Elaboración propia</text>
+<rect x="18" y="90" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="115">Reunión</text>
+<text x="260" y="115">La disposición de Galerio de 311 vuelve a admitir</text>
+<text x="260" y="138">reuniones cristianas.</text>
+<rect x="18" y="156" width="684" height="61" fill="#f6f2eb"/>
+<text x="36" y="181">Restitución</text>
+<text x="260" y="181">El acuerdo de 313 dispone la devolución de bienes y</text>
+<text x="260" y="204">espacios.</text>
+<rect x="18" y="222" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="247">Reconocimiento</text>
+<text x="260" y="247">En África, la administración debe decidir qué</text>
+<text x="260" y="270">interlocutores representan a una iglesia.</text>
+<rect x="18" y="288" width="684" height="61" fill="#f6f2eb"/>
+<text x="36" y="313">Patronazgo</text>
+<text x="260" y="313">La corte financia edificios y facilita reuniones</text>
+<text x="260" y="336">episcopales de gran alcance.</text>
+</svg>

@@ -1,8 +1,8 @@
 # Relitree
 
-**Versión 1.7.42**
+**Versión 1.7.43**
 
-La [enciclopedia](enciclopedia/PLAN.md#fase-e03--cristianismo--apóstoles-y-primeros-siglos) incorpora entradas individuales para los Doce y Matías, y desarrolla Primeras comunidades con un índice que reúne sus figuras.
+La [enciclopedia](enciclopedia/PLAN.md#fase-e03--cristianismo--apóstoles-y-primeros-siglos) amplía los artículos de Patrística e Iglesias e Imperio romano. El lector conserva el historial y la posición de lectura de cada visita y muestra barras de desplazamiento que se ocultan en reposo.
 
 El menú Visualizaciones reúne doce maneras de explorar el catálogo. La vista por territorios abre en trazado compacto. La capa **Puentes** marca los cruces de ramas y líneas de vida en las vistas por territorios y radial. Las marcas temporales mantienen una separación visual regular. El símbolo ≈ identifica los años redondeados.
 

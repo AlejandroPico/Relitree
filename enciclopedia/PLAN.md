@@ -49,7 +49,7 @@ Avance editorial. Diez de doce artículos están completos. El Antiguo y el Nuev
 
 ## Fase E03 · Cristianismo · Apóstoles y primeros siglos
 
-Avance editorial. Jerusalén, las persecuciones y los mártires se revisan por separado. El índice ofrece a cada apóstol una entrada individual. Matías figura por su incorporación posterior, y las primeras comunidades reúnen también perfiles de personas ajenas al grupo de los Doce. Artículos de esta ampliación que alcanzan las 10.000 palabras. Pedro, Pablo de Tarso, La Iglesia de Jerusalén y la ruptura con el judaísmo. Las demás entradas se mantienen en desarrollo.
+Avance editorial. Jerusalén, las persecuciones y los mártires se revisan por separado. El índice ofrece a cada apóstol una entrada individual. Matías figura por su incorporación posterior, y las primeras comunidades reúnen también perfiles de personas ajenas al grupo de los Doce. Artículos de esta ampliación que alcanzan las 10.000 palabras. Pedro, Pablo de Tarso, La Iglesia de Jerusalén y la ruptura con el judaísmo. Las demás entradas de Primeras comunidades y Los apóstoles siguen en desarrollo.
 
 - [Pedro](es/religiones/cristianismo/primeras-comunidades/figuras/pedro.md), accesible también desde Los apóstoles.
 - [Andrés](es/religiones/cristianismo/apostoles/andres.md)
@@ -69,11 +69,11 @@ Avance editorial. Jerusalén, las persecuciones y los mártires se revisan por s
 - [x] [La Iglesia de Jerusalén y la ruptura con el judaísmo](es/religiones/cristianismo/primeras-comunidades/iglesia-de-jerusalen.md)
 - [Las persecuciones romanas](es/religiones/cristianismo/primeras-comunidades/persecuciones-romanas.md)
 - [Los mártires](es/religiones/cristianismo/primeras-comunidades/martires.md)
-- Padres apostólicos y apologistas
-- Padres de la Iglesia griegos
-- Padres de la Iglesia latinos
-- Constantino y el giro del siglo IV
-- De Teodosio al fin del paganismo
+- [x] [Padres apostólicos y apologistas](es/religiones/cristianismo/patristica/padres-apostolicos-y-apologistas.md)
+- [x] [Padres de la Iglesia griegos](es/religiones/cristianismo/patristica/padres-griegos.md)
+- [x] [Padres de la Iglesia latinos](es/religiones/cristianismo/patristica/padres-latinos.md)
+- [x] [Constantino y el giro del siglo IV](es/religiones/cristianismo/imperio/constantino-y-el-giro-del-siglo-iv.md)
+- [x] [De Teodosio al fin del paganismo](es/religiones/cristianismo/imperio/de-teodosio-al-fin-del-paganismo.md)
 
 ## Fase E04 · Cristianismo · Concilios ecuménicos (I)
 

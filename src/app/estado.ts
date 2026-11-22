@@ -1,7 +1,22 @@
-import { Injectable, computed, inject, signal } from '@angular/core';
+import { DestroyRef, Injectable, computed, inject, signal } from '@angular/core';
 import { Datos, Relacion, Religion } from './datos';
 
 import { Visualizacion } from './vistas';
+
+interface VisitaEnciclopedia {
+  id: string;
+  titulo: string;
+  profundidad: number;
+  clave: string;
+}
+
+function visitaDe(estado: unknown): VisitaEnciclopedia | null {
+  if (!estado || typeof estado !== 'object' || !('relitreeArticulo' in estado)) return null;
+  const visita = estado.relitreeArticulo as Partial<VisitaEnciclopedia> | null;
+  return typeof visita?.id === 'string' && typeof visita.titulo === 'string'
+    && typeof visita.clave === 'string' && typeof visita.profundidad === 'number'
+    && Number.isSafeInteger(visita.profundidad) && visita.profundidad > 0 ? visita as VisitaEnciclopedia : null;
+}
 
 export interface Vista { k: number; tx: number; ty: number; w: number; h: number; }
 
@@ -13,7 +28,10 @@ export class Estado {
   readonly relacion = signal<Relacion | null>(null);
   readonly vista = signal<Vista>({ k: 1, tx: 0, ty: 0, w: 0, h: 0 });
   readonly irA = signal<{ id: string; n: number } | null>(null);
-  readonly enciclopedia = signal<string | null>(null);      // id del artículo abierto
+  private readonly visitaActiva = signal(visitaDe(history.state));
+  readonly visitaEnciclopedia = this.visitaActiva.asReadonly();
+  readonly enciclopedia = computed(() => this.visitaActiva()?.id ?? null);
+  readonly posicionesEnciclopedia = new Map<string, number>();
   readonly visualizacion = signal<Visualizacion>('columnas');
   readonly radial = computed(() => this.visualizacion() === 'radial');
   readonly esLienzo = computed(() => this.visualizacion() === 'columnas' || this.radial());
@@ -63,6 +81,33 @@ export class Estado {
     }
     return s;
   });
+
+  constructor() {
+    const volver = (evento: PopStateEvent) => this.visitaActiva.set(visitaDe(evento.state));
+    window.addEventListener('popstate', volver);
+    inject(DestroyRef).onDestroy(() => window.removeEventListener('popstate', volver));
+  }
+
+  abrirArticulo(id: string, titulo = '') {
+    id = this.datos.destinoArticulo(id);
+    const anterior = this.visitaActiva();
+    if (id === anterior?.id) return;
+    const visita = {
+      id, titulo, profundidad: (anterior?.profundidad ?? 0) + 1,
+      clave: crypto.randomUUID(),
+    };
+    history.pushState({ ...history.state, relitreeArticulo: visita }, '');
+    this.visitaActiva.set(visita);
+  }
+
+  volverArticulo() {
+    if (this.visitaActiva()) history.back();
+  }
+
+  cerrarEnciclopedia() {
+    const visita = this.visitaActiva();
+    if (visita) history.go(-visita.profundidad);
+  }
 
   elegir(r: Religion | string | null, volar = false): void {
     const id = typeof r === 'string' ? r : r?.id ?? null;

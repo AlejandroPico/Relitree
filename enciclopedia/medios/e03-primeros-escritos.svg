@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="425" viewBox="0 0 720 425" role="img" aria-labelledby="tit desc">
+<title id="tit">Los primeros escritos y sus lectores</title>
+<desc id="desc">Roma → Corinto. 1 Clemente. Una iglesia interviene en un conflicto sobre sus ministros. Siria y Asia Menor. Ignacio. Comunidades enlazadas por cartas y visitas durante un viaje. Entorno debatido. Didaché. Aprendizaje del bautismo, la oración y la acogida. Roma. Hermas. Visiones y enseñanza sobre la penitencia. Imperio romano. Justino y otros apologistas discuten ante una audiencia pública.</desc>
+<style>text{font:16px system-ui,sans-serif;fill:#29364a}.titulo{font-size:25px;font-weight:700}</style>
+<rect width="720" height="425" fill="white"/>
+<text class="titulo" x="18" y="41">Los primeros escritos y sus lectores</text>
+<text x="18" y="66">Relitree · Elaboración propia</text>
+<rect x="18" y="90" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="115">Roma → Corinto</text>
+<text x="260" y="115">1 Clemente. Una iglesia interviene en un conflicto</text>
+<text x="260" y="138">sobre sus ministros.</text>
+<rect x="18" y="156" width="684" height="61" fill="#f6f2eb"/>
+<text x="36" y="181">Siria y Asia Menor</text>
+<text x="260" y="181">Ignacio. Comunidades enlazadas por cartas y visitas</text>
+<text x="260" y="204">durante un viaje.</text>
+<rect x="18" y="222" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="247">Entorno debatido</text>
+<text x="260" y="247">Didaché. Aprendizaje del bautismo, la oración y la</text>
+<text x="260" y="270">acogida.</text>
+<rect x="18" y="288" width="684" height="52" fill="#f6f2eb"/>
+<text x="36" y="313">Roma</text>
+<text x="260" y="313">Hermas. Visiones y enseñanza sobre la penitencia.</text>
+<rect x="18" y="345" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="370">Imperio romano</text>
+<text x="260" y="370">Justino y otros apologistas discuten ante una</text>
+<text x="260" y="393">audiencia pública.</text>
+</svg>

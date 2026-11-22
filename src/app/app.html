@@ -9,7 +9,7 @@
     <button class="ico" [class.activo]="panel() === 'buscar'" [title]="i18n.t('buscar')" (click)="abrir('buscar')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['buscar']"/></svg></button>
     <button class="ico" [class.activo]="panel() === 'filtros'" [title]="i18n.t('filtros')" (click)="abrir('filtros')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['capas']"/></svg></button>
     <button class="ico" [class.activo]="panel() === 'leyenda'" [title]="i18n.t('leyenda')" (click)="abrir('leyenda')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['leyenda']"/></svg></button>
-    <button class="ico" [title]="i18n.t('enciclopedia')" (click)="estado.enciclopedia.set(estado.seleccion() ?? 'tema:como-leer')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['libro']"/></svg></button>
+    <button class="ico" [title]="i18n.t('enciclopedia')" (click)="estado.abrirArticulo(estado.seleccion() ?? 'tema:como-leer')"><svg viewBox="0 0 24 24"><path [attr.d]="ui['libro']"/></svg></button>
     <button class="ico" [class.activo]="panel() === 'visualizaciones'" [title]="i18n.t('visualizaciones')" [attr.aria-label]="i18n.t('visualizaciones')" [attr.aria-expanded]="panel() === 'visualizaciones'" aria-controls="menu-vistas" (click)="abrir('visualizaciones')"><svg viewBox="0 0 24 24" aria-hidden="true"><path [attr.d]="ui['visualizaciones']"/></svg></button>
     <button class="ico" [class.activo]="panel() === 'tema'" [title]="i18n.t('tema')" (click)="abrir('tema')"><svg viewBox="0 0 24 24"><path [attr.d]="ui[tema()]"/></svg></button>
     <button class="ico" [class.activo]="panel() === 'acerca' || panel() === 'herramientas'" [title]="i18n.t('acerca')" (click)="info($event)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['info']"/></svg></button>
@@ -128,7 +128,7 @@
         </svg>
         <div>
           <h2>
-            <button type="button" class="titulo-enciclopedia" [title]="i18n.t('abrirEnc')" (click)="estado.enciclopedia.set(r.id)">{{ r.nombre }}</button>
+            <button type="button" class="titulo-enciclopedia" [title]="i18n.t('abrirEnc')" (click)="estado.abrirArticulo(r.id)">{{ r.nombre }}</button>
           </h2>
           <p class="datos">{{ i18n.periodo(r.inicio, r.fin) }}</p>
         </div>
@@ -145,7 +145,7 @@
           </div>
         }
         <div class="acciones">
-          <a (click)="estado.enciclopedia.set(r.id)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['libro']"/></svg>{{ i18n.t('abrirEnc') }}</a>
+          <a (click)="estado.abrirArticulo(r.id)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['libro']"/></svg>{{ i18n.t('abrirEnc') }}</a>
           <a (click)="verArbol(r)"><svg viewBox="0 0 24 24"><path [attr.d]="ui['diana']"/></svg>{{ i18n.t('verArbol') }}</a>
           <a [href]="wiki(r)" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path [attr.d]="ui['enlace']"/></svg>{{ i18n.t('wikipedia') }}</a>
         </div>

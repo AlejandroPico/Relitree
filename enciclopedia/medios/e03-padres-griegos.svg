@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="434" viewBox="0 0 720 434" role="img" aria-labelledby="tit desc">
+<title id="tit">Centros de la patrística en griego</title>
+<desc id="desc">Esmirna y Lyon. Ireneo conecta memorias de Asia Menor con una iglesia de la Galia. Alejandría y Cesarea. Clemente y Orígenes. Educación, exégesis y comparación de textos. Capadocia. Basilio y los dos Gregorios. Redes de obispos, familias y escuelas. Antioquía y Constantinopla. Juan Crisóstomo. Predicación, ciudad y corte. Alejandría. Atanasio y Cirilo intervienen en dos controversias de siglos diferentes.</desc>
+<style>text{font:16px system-ui,sans-serif;fill:#29364a}.titulo{font-size:25px;font-weight:700}</style>
+<rect width="720" height="434" fill="white"/>
+<text class="titulo" x="18" y="41">Centros de la patrística en griego</text>
+<text x="18" y="66">Relitree · Elaboración propia</text>
+<rect x="18" y="90" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="115">Esmirna y Lyon</text>
+<text x="260" y="115">Ireneo conecta memorias de Asia Menor con una</text>
+<text x="260" y="138">iglesia de la Galia.</text>
+<rect x="18" y="156" width="684" height="61" fill="#f6f2eb"/>
+<text x="36" y="181">Alejandría y Cesarea</text>
+<text x="260" y="181">Clemente y Orígenes. Educación, exégesis y</text>
+<text x="260" y="204">comparación de textos.</text>
+<rect x="18" y="222" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="247">Capadocia</text>
+<text x="260" y="247">Basilio y los dos Gregorios. Redes de obispos,</text>
+<text x="260" y="270">familias y escuelas.</text>
+<rect x="18" y="288" width="684" height="61" fill="#f6f2eb"/>
+<text x="36" y="313">Antioquía y</text>
+<text x="36" y="336">Constantinopla</text>
+<text x="260" y="313">Juan Crisóstomo. Predicación, ciudad y corte.</text>
+<rect x="18" y="354" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="379">Alejandría</text>
+<text x="260" y="379">Atanasio y Cirilo intervienen en dos controversias</text>
+<text x="260" y="402">de siglos diferentes.</text>
+</svg>

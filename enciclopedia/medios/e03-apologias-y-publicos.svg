@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="368" viewBox="0 0 720 368" role="img" aria-labelledby="tit desc">
+<title id="tit">Qué pide cada defensa al lector</title>
+<desc id="desc">Justino. Que examine las conductas y distinga la acusación de un nombre colectivo. Atenágoras. Que compruebe el alcance de los rumores y la lógica del trato desigual. Teófilo. Que compare afirmaciones sobre el origen y la antigüedad de las tradiciones. Minucio Félix. Que escuche a dos interlocutores y reevalúe su juicio en una conversación.</desc>
+<style>text{font:16px system-ui,sans-serif;fill:#29364a}.titulo{font-size:25px;font-weight:700}</style>
+<rect width="720" height="368" fill="white"/>
+<text class="titulo" x="18" y="41">Qué pide cada defensa al lector</text>
+<text x="18" y="66">Relitree · Elaboración propia</text>
+<rect x="18" y="90" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="115">Justino</text>
+<text x="260" y="115">Que examine las conductas y distinga la acusación</text>
+<text x="260" y="138">de un nombre colectivo.</text>
+<rect x="18" y="156" width="684" height="61" fill="#f6f2eb"/>
+<text x="36" y="181">Atenágoras</text>
+<text x="260" y="181">Que compruebe el alcance de los rumores y la lógica</text>
+<text x="260" y="204">del trato desigual.</text>
+<rect x="18" y="222" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="247">Teófilo</text>
+<text x="260" y="247">Que compare afirmaciones sobre el origen y la</text>
+<text x="260" y="270">antigüedad de las tradiciones.</text>
+<rect x="18" y="288" width="684" height="61" fill="#f6f2eb"/>
+<text x="36" y="313">Minucio Félix</text>
+<text x="260" y="313">Que escuche a dos interlocutores y reevalúe su</text>
+<text x="260" y="336">juicio en una conversación.</text>
+</svg>

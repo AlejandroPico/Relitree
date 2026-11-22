@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="368" viewBox="0 0 720 368" role="img" aria-labelledby="tit desc">
+<title id="tit">Cuatro trayectorias de templos antiguos</title>
+<desc id="desc">Serapeo de Alejandría. Destrucción recordada por historiadores cristianos y fases posteriores de uso. Filé. Inscripciones de culto tardías y un relato posterior de supresión bajo Justiniano. Afrodisias. Una basílica reorganiza parte de la estructura y las columnas del templo. Panteón de Roma. Dedicación cristiana en 609 con la arquitectura antigua todavía reconocible.</desc>
+<style>text{font:16px system-ui,sans-serif;fill:#29364a}.titulo{font-size:25px;font-weight:700}</style>
+<rect width="720" height="368" fill="white"/>
+<text class="titulo" x="18" y="41">Cuatro trayectorias de templos antiguos</text>
+<text x="18" y="66">Relitree · Elaboración propia</text>
+<rect x="18" y="90" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="115">Serapeo de Alejandría</text>
+<text x="260" y="115">Destrucción recordada por historiadores cristianos</text>
+<text x="260" y="138">y fases posteriores de uso.</text>
+<rect x="18" y="156" width="684" height="61" fill="#f6f2eb"/>
+<text x="36" y="181">Filé</text>
+<text x="260" y="181">Inscripciones de culto tardías y un relato</text>
+<text x="260" y="204">posterior de supresión bajo Justiniano.</text>
+<rect x="18" y="222" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="247">Afrodisias</text>
+<text x="260" y="247">Una basílica reorganiza parte de la estructura y</text>
+<text x="260" y="270">las columnas del templo.</text>
+<rect x="18" y="288" width="684" height="61" fill="#f6f2eb"/>
+<text x="36" y="313">Panteón de Roma</text>
+<text x="260" y="313">Dedicación cristiana en 609 con la arquitectura</text>
+<text x="260" y="336">antigua todavía reconocible.</text>
+</svg>

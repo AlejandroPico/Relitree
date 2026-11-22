@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="359" viewBox="0 0 720 359" role="img" aria-labelledby="tit desc">
+<title id="tit">De la obra al tipo de testimonio</title>
+<desc id="desc">Comentario. Explica una palabra o una dificultad de las Escrituras. Orígenes. Homilía. Interpreta un pasaje ante oyentes de una ciudad. Juan Crisóstomo. Carta festal. Orienta a comunidades en su lectura. Atanasio. Mistagogía. Explica el sentido de los movimientos y espacios del culto. Máximo.</desc>
+<style>text{font:16px system-ui,sans-serif;fill:#29364a}.titulo{font-size:25px;font-weight:700}</style>
+<rect width="720" height="359" fill="white"/>
+<text class="titulo" x="18" y="41">De la obra al tipo de testimonio</text>
+<text x="18" y="66">Relitree · Elaboración propia</text>
+<rect x="18" y="90" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="115">Comentario</text>
+<text x="260" y="115">Explica una palabra o una dificultad de las</text>
+<text x="260" y="138">Escrituras. Orígenes.</text>
+<rect x="18" y="156" width="684" height="61" fill="#f6f2eb"/>
+<text x="36" y="181">Homilía</text>
+<text x="260" y="181">Interpreta un pasaje ante oyentes de una ciudad.</text>
+<text x="260" y="204">Juan Crisóstomo.</text>
+<rect x="18" y="222" width="684" height="52" fill="#edf0f8"/>
+<text x="36" y="247">Carta festal</text>
+<text x="260" y="247">Orienta a comunidades en su lectura. Atanasio.</text>
+<rect x="18" y="279" width="684" height="61" fill="#f6f2eb"/>
+<text x="36" y="304">Mistagogía</text>
+<text x="260" y="304">Explica el sentido de los movimientos y espacios</text>
+<text x="260" y="327">del culto. Máximo.</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="368" viewBox="0 0 720 368" role="img" aria-labelledby="tit desc">
+<title id="tit">Cómo se transmite una lectura bíblica</title>
+<desc id="desc">Traducciones antiguas. Varias tradiciones latinas transmiten formas diferentes de un pasaje. Jerónimo. Revisa desde el griego y traduce libros del Antiguo Testamento desde el hebreo. Lectura y cita. Agustín y otros lectores adoptan o conservan variantes en momentos distintos. Copia y compilación. Una colección puede combinar libros procedentes de distintos trabajos.</desc>
+<style>text{font:16px system-ui,sans-serif;fill:#29364a}.titulo{font-size:25px;font-weight:700}</style>
+<rect width="720" height="368" fill="white"/>
+<text class="titulo" x="18" y="41">Cómo se transmite una lectura bíblica</text>
+<text x="18" y="66">Relitree · Elaboración propia</text>
+<rect x="18" y="90" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="115">Traducciones antiguas</text>
+<text x="260" y="115">Varias tradiciones latinas transmiten formas</text>
+<text x="260" y="138">diferentes de un pasaje.</text>
+<rect x="18" y="156" width="684" height="61" fill="#f6f2eb"/>
+<text x="36" y="181">Jerónimo</text>
+<text x="260" y="181">Revisa desde el griego y traduce libros del Antiguo</text>
+<text x="260" y="204">Testamento desde el hebreo.</text>
+<rect x="18" y="222" width="684" height="61" fill="#edf0f8"/>
+<text x="36" y="247">Lectura y cita</text>
+<text x="260" y="247">Agustín y otros lectores adoptan o conservan</text>
+<text x="260" y="270">variantes en momentos distintos.</text>
+<rect x="18" y="288" width="684" height="61" fill="#f6f2eb"/>
+<text x="36" y="313">Copia y compilación</text>
+<text x="260" y="313">Una colección puede combinar libros procedentes de</text>
+<text x="260" y="336">distintos trabajos.</text>
+</svg>
