@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1351
+palabras: 1512
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -24,6 +24,12 @@ fuentes:
   - "https://www.ocso.org/uploads/general-news/documents/Conferencias-Carta-Caritatis.-pdf-ES.pdf"
   - "https://www.armenianchurch.org/en/The%20Liturgy%20of%20the%20Hours/"
   - "https://ich.unesco.org/en/lists?RL=00434"
+  - "https://www.jstor.org/stable/jj.38238810"
+  - "https://academic.oup.com/edited-volume/61673/chapter-abstract/548508999"
+  - "https://www.newadvent.org/fathers/35052.htm"
+  - "https://academic.oup.com/edited-volume/60668"
+  - "https://www.oikoumene.org/church-families/orthodox-churches-oriental"
+  - "https://copticchurch.net/liturgy"
 ---
 
 # Glosario general
@@ -196,6 +202,32 @@ Catolicós es un título de primado en varias Iglesias orientales, entre ellas l
 
 [Santa Sede de Echmiadzin, liturgia armenia](https://www.armenianchurch.org/en/The%20Liturgy%20of%20the%20Hours/) · [UNESCO, tradición del jachkar](https://ich.unesco.org/en/lists?RL=00434)
 
+## Vocabulario de las tradiciones cristianas de E15
+
+### Traditor
+
+«El que entrega». En la controversia del [[donatismo]] se aplicaba a quienes habrían entregado libros u otros bienes cristianos a las autoridades durante la persecución. [1]
+
+### Homoiano
+
+En el debate que se agrupa bajo [[arrianismo]], partidario de una fórmula que afirmaba la semejanza del Hijo con el Padre según las Escrituras. Se distingue de *homoiousiano*, que precisaba la semejanza en sustancia. [2]
+
+### Maleficium
+
+Categoría penal que en la reconstrucción del proceso de [[priscilianismo|Prisciliano]] se relaciona con las acusaciones de prácticas mágicas. Corresponde al foro civil que impuso la pena. [3]
+
+### Gracia precedente
+
+Ayuda divina que precede al comienzo de una respuesta buena. Es un asunto central en la recepción occidental de las controversias vinculadas al [[pelagianismo]]. [4]
+
+### Miafisismo
+
+Término relacionado con la fórmula de una naturaleza encarnada del Verbo de Dios en las [[miafisismo|Iglesias ortodoxas orientales]]. Estas Iglesias confiesan la plena divinidad y la plena humanidad de Cristo. [5]
+
+### Agpeya
+
+Libro copto de las horas de oración diaria. En la [[copta|Iglesia copta]] se distingue de los libros que ordenan la celebración eucarística. [6]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -219,3 +251,9 @@ Catolicós es un título de primado en varias Iglesias orientales, entre ellas l
 - [OCSO, estudios sobre la Carta de Caridad](https://www.ocso.org/uploads/general-news/documents/Conferencias-Carta-Caritatis.-pdf-ES.pdf).
 - [Santa Sede de Echmiadzin, liturgia armenia](https://www.armenianchurch.org/en/The%20Liturgy%20of%20the%20Hours/).
 - [UNESCO, tradición del jachkar](https://ich.unesco.org/en/lists?RL=00434).
+1. [Traditor](https://www.jstor.org/stable/jj.38238810).
+2. [Homoiano](https://academic.oup.com/edited-volume/61673/chapter-abstract/548508999).
+3. [Maleficium](https://www.newadvent.org/fathers/35052.htm).
+4. [Gracia precedente](https://academic.oup.com/edited-volume/60668).
+5. [Miafisismo](https://www.oikoumene.org/church-families/orthodox-churches-oriental).
+6. [Agpeya](https://copticchurch.net/liturgy).

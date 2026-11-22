@@ -124,7 +124,7 @@ Antes de retomar una fase, consultar el reparto y las casillas de `enciclopedia/
 
 En la versión 1.7.51 está completa la fase E14, entregas 14.1–14.6. Sus doce entradas se abren desde sus entidades en el árbol. Los seis artículos de 14.4–14.6 tienen entre 5.000 y 5.500 palabras de cuerpo y dos esquemas cada uno. El objetivo de ampliación editorial sigue siendo 10.000 palabras por artículo. El glosario y los cinco temas comparativos de E01 recogen la fase. El índice de la Enciclopedia destaca en negrita los artículos con estado completo a partir de E14.
 
-La siguiente fase del plan es **E15 · Cristianismo · tradiciones (2/9)**. Empieza por Donatismo y Arrianismo. Consulta `enciclopedia/PLAN.md` y `tareas.md` antes de intervenir. Al terminar cada tanda, actualiza el relevo, el recuento y el registro de los seis temas de E01.
+En la versión 1.7.52 están completas las entregas **15.1–15.3 de E15**. Sus seis artículos superan las 10.000 palabras de cuerpo, reúnen 21 figuras acreditadas y enlazan con los seis temas comparativos de E01. El siguiente tramo de E15 empieza por 15.4. Consultar las entradas pendientes del plan y el registro de entregas antes de continuar.
 
 ## Mantenimiento acumulativo de E01
 

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1176
+palabras: 1299
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -22,6 +22,13 @@ fuentes:
   - "https://www.pennpress.org/9780812200799/the-cistercian-evolution/"
   - "https://www.livius.org/sources/content/agathangelos/"
   - "https://eprints.soas.ac.uk/14506/1/Studies_of_Armenian_Christian_Civilisation.pdf"
+  - "https://www.cambridge.org/core/journals/church-history/article/abs/dilatory-donatists-or-procrastinating-catholics-the-trial-at-the-conference-of-carthage/2F597DDAC201BC8CAA89B313C14E3584"
+  - "https://academic.oup.com/edited-volume/61673/chapter-abstract/548508999"
+  - "https://revistas.ucm.es/index.php/GERI/en/article/view/95761"
+  - "https://academic.oup.com/book/49930"
+  - "https://www.jstor.org/stable/jj.38238633"
+  - "https://copticorthodox.church/wp-content/uploads/2024/09/2nd-Agreed-Statement-Recommendations-Switzerland-1990.pdf"
+  - "https://egyptology.yale.edu/expeditions/current-expeditions/yale-monastic-archaeology-project-south-ymap-south/white-monastery"
 ---
 
 # Historia del estudio de las religiones
@@ -104,6 +111,20 @@ La conversión regia en [[armenia|Armenia]] se conoce en parte por la memoria na
 
 [Agatángelo, introducción y fragmentos](https://www.livius.org/sources/content/agathangelos/) · [Studies of Armenian Christian Tradition, SOAS](https://eprints.soas.ac.uk/14506/1/Studies_of_Armenian_Christian_Civilisation.pdf)
 
+## Seis casos de fuentes y categorías
+
+### Quién escribió el expediente
+
+En el [[donatismo]], Tilley estudia cómo las actuaciones del juicio de 411 afectan a su interpretación. Para el [[arrianismo]], Gwynn distingue corrientes que una etiqueta polémica reúne. Los dos casos muestran por qué debe identificarse quién aplica una clasificación y con qué objeto. [1, 2]
+
+### Autodefensas y textos transmitidos
+
+En el [[priscilianismo]], la comparación de cánones y autodefensas modifica la lectura del concilio de 380. Para el [[pelagianismo]], los comentarios paulinos y las cartas permiten contrastar el vocabulario de Pelagio con las imputaciones que se formularon contra él. [3, 4]
+
+### Actas, diálogos y restos materiales
+
+Las actas de Calcedonia y las declaraciones contemporáneas de las [[miafisismo|Iglesias ortodoxas orientales]] corresponden a foros y objetivos distintos. En el monacato de la tradición [[copta|copta]], el trabajo arqueológico vincula edificios y usos con la documentación de Shenute y su federación. [5, 6, 7]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -125,3 +146,10 @@ La conversión regia en [[armenia|Armenia]] se conoce en parte por la memoria na
 - [Berman, The Cistercian Evolution](https://www.pennpress.org/9780812200799/the-cistercian-evolution/).
 - [Agatángelo, introducción y fragmentos](https://www.livius.org/sources/content/agathangelos/).
 - [Studies of Armenian Christian Tradition, SOAS](https://eprints.soas.ac.uk/14506/1/Studies_of_Armenian_Christian_Civilisation.pdf).
+1. [Quién escribió el expediente](https://www.cambridge.org/core/journals/church-history/article/abs/dilatory-donatists-or-procrastinating-catholics-the-trial-at-the-conference-of-carthage/2F597DDAC201BC8CAA89B313C14E3584).
+2. [Quién escribió el expediente](https://academic.oup.com/edited-volume/61673/chapter-abstract/548508999).
+3. [Autodefensas y textos transmitidos](https://revistas.ucm.es/index.php/GERI/en/article/view/95761).
+4. [Autodefensas y textos transmitidos](https://academic.oup.com/book/49930).
+5. [Actas, diálogos y restos materiales](https://www.jstor.org/stable/jj.38238633).
+6. [Actas, diálogos y restos materiales](https://copticorthodox.church/wp-content/uploads/2024/09/2nd-Agreed-Statement-Recommendations-Switzerland-1990.pdf).
+7. [Actas, diálogos y restos materiales](https://egyptology.yale.edu/expeditions/current-expeditions/yale-monastic-archaeology-project-south-ymap-south/white-monastery).

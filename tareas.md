@@ -4,6 +4,11 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E15 · 15.1. [Donatismo](enciclopedia/es/religiones/donatismo.md), 10.045 palabras de cuerpo y 3 imágenes. [Arrianismo](enciclopedia/es/religiones/arrianismo.md), 10.043 palabras de cuerpo y 3 imágenes. Versión 1.7.52.
+- [x] E15 · 15.2. [Priscilianismo](enciclopedia/es/religiones/priscilianismo.md), 10.024 palabras de cuerpo y 3 imágenes. [Pelagianismo](enciclopedia/es/religiones/pelagianismo.md), 10.007 palabras de cuerpo y 4 imágenes. Versión 1.7.52.
+- [x] E15 · 15.3. [Iglesias ortodoxas orientales](enciclopedia/es/religiones/miafisismo.md), 10.013 palabras de cuerpo y 4 imágenes. [Iglesia copta](enciclopedia/es/religiones/copta.md), 10.060 palabras de cuerpo y 4 imágenes. Versión 1.7.52.
+  - E01 actualizado en Textos, Simbología, Calendarios, Demografía, Historiografía y Glosario. Las corrientes antiguas se documentan por sedes, textos y fechas. Para las Iglesias vivas se indican el ámbito de los usos litúrgicos y los límites de las estimaciones de población.
+
 - [x] E14 · 14.6. [Orden cisterciense](enciclopedia/es/religiones/cistercienses.md), 5.068 palabras de cuerpo. [Iglesia apostólica armenia](enciclopedia/es/religiones/armenia.md), 5.022 palabras de cuerpo. Dos esquemas propios por artículo. Versión 1.7.51.
   - E01 recoge la Carta de Caridad, los usos y directorios monásticos, el Badarak, los manuscritos armenios y los jachkares.
 
@@ -192,6 +197,7 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 - E05 · Cristianismo, concilios ecuménicos (II). Completa, 11 de 11 artículos publicados. Disponibles [Letrán IV (1215)](enciclopedia/es/religiones/cristianismo/concilios/letran-iv.md), [Lyon I (1245)](enciclopedia/es/religiones/cristianismo/concilios/lyon-i.md), [Lyon II (1274)](enciclopedia/es/religiones/cristianismo/concilios/lyon-ii.md), [Vienne (1311–1312)](enciclopedia/es/religiones/cristianismo/concilios/vienne.md), [Constanza (1414–1418)](enciclopedia/es/religiones/cristianismo/concilios/constanza.md), [Basilea–Ferrara–Florencia (1431–1445)](enciclopedia/es/religiones/cristianismo/concilios/basilea-ferrara-florencia.md), [Letrán V (1512–1517)](enciclopedia/es/religiones/cristianismo/concilios/letran-v.md), [Trento (1545–1563)](enciclopedia/es/religiones/cristianismo/concilios/trento.md), [Vaticano I (1869–1870)](enciclopedia/es/religiones/cristianismo/concilios/vaticano-i.md) y [Vaticano II (1962–1965)](enciclopedia/es/religiones/cristianismo/concilios/vaticano-ii.md). La [visión de conjunto](enciclopedia/es/religiones/cristianismo/concilios/panorama.md) enlaza los 21 estudios individuales de E04 y E05.
 - E07 · Cruzadas y guerras santas. Fase completada con quince artículos.
 - E12 · Biografías de papas y santos. Fase completada con doce artículos.
+- E15 · Tradiciones cristianas (2/9). Completos los seis artículos de 15.1–15.3. Quedan seis entradas para 15.4–15.6 según el plan de la fase.
 - E13–E22 · Cristianismo (figuras y tradiciones)
 - E23–E26 · Judaísmo
 - E27–E33 · Islam

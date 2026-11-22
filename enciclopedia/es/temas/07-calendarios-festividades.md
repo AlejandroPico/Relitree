@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1103
+palabras: 1240
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -15,6 +15,12 @@ fuentes:
   - "https://archive.osb.org/rb/text/"
   - "https://www.ocso.org/resources/history/"
   - "https://www.armenianchurch.org/en/news/06-01-2024/11743"
+  - "https://ccdl.libraries.claremont.edu/digital/collection/cce"
+  - "https://www.oikoumene.org/church-families/orthodox-churches-oriental"
+  - "https://www.jstor.org/stable/jj.38238777"
+  - "https://revistas.ucm.es/index.php/GERI/en/article/view/95761"
+  - "https://academic.oup.com/edited-volume/60668"
+  - "https://www.fourthcentury.com/wp-content/uploads/2024/12/Nicaea-from-the-Sources.pdf"
 ---
 
 # Calendarios y festividades del mundo
@@ -93,6 +99,20 @@ La [[armenia|Iglesia apostólica armenia]] celebra la Natividad y la Teofanía c
 
 [Santa Sede de Echmiadzin, celebración de 2024](https://www.armenianchurch.org/en/news/06-01-2024/11743)
 
+## Cómputos, ayunos y memoria cristiana
+
+### El año copto
+
+El calendario de la [[copta|Iglesia copta]] utiliza la Era de los Mártires. Su época se remonta al acceso de Diocleciano en 284. La persecución que marcó esa memoria comenzó en 303. Nayruz señala la apertura del año. Las demás [[miafisismo|Iglesias ortodoxas orientales]] tienen reglas propias y sus fechas civiles se deben verificar por año y jurisdicción. [1, 2]
+
+### Qué documentan los cánones y las pasiones
+
+Los relatos del [[donatismo|martirio donatista]] permiten estudiar conmemoraciones y lecciones, con un alcance local desigual. Los cánones zaragozanos de 380 asociados al debate del [[priscilianismo]] regulan descansos, reuniones y tiempos de ayuno. Esas normas y las controversias sobre el bautismo en el [[pelagianismo]] no constituyen calendarios propios. [3, 4, 5]
+
+### La Pascua y Nicea
+
+El concilio de Nicea se ocupó de la fecha de Pascua junto a la disputa sobre [[arrianismo|Arrio]]. Los documentos de ese acuerdo deben distinguirse de cualquier supuesto calendario propio de las comunidades homoianas posteriores. [6]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -107,3 +127,9 @@ La [[armenia|Iglesia apostólica armenia]] celebra la Natividad y la Teofanía c
 - [Regla de san Benito, capítulos 8–20 y 48–49](https://archive.osb.org/rb/text/).
 - [OCSO, historia y legislación](https://www.ocso.org/resources/history/).
 - [Santa Sede de Echmiadzin, celebración de 2024](https://www.armenianchurch.org/en/news/06-01-2024/11743).
+1. [El año copto](https://ccdl.libraries.claremont.edu/digital/collection/cce).
+2. [El año copto](https://www.oikoumene.org/church-families/orthodox-churches-oriental).
+3. [Qué documentan los cánones y las pasiones](https://www.jstor.org/stable/jj.38238777).
+4. [Qué documentan los cánones y las pasiones](https://revistas.ucm.es/index.php/GERI/en/article/view/95761).
+5. [Qué documentan los cánones y las pasiones](https://academic.oup.com/edited-volume/60668).
+6. [La Pascua y Nicea](https://www.fourthcentury.com/wp-content/uploads/2024/12/Nicaea-from-the-Sources.pdf).

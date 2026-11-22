@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.51**
+**Versión 1.7.52**
+
+La [fase E15](enciclopedia/PLAN.md#fase-e15--cristianismo--tradiciones-29) incorpora las entregas 15.1–15.3. Donatismo, Arrianismo, Priscilianismo, Pelagianismo, Iglesias ortodoxas orientales e Iglesia copta superan las 10.000 palabras de cuerpo por ficha. Los artículos reúnen 21 imágenes acreditadas y se enlazan desde el glosario y los cinco temas comparativos de E01.
 
 La [fase E14](enciclopedia/PLAN.md#fase-e14--cristianismo--tradiciones-19) incorpora Marcionismo, Montanismo, Monacato cristiano, Orden benedictina, Orden cisterciense e Iglesia apostólica armenia. Los artículos incluyen índice de secciones, esquemas y bibliografía. El glosario y los cinco temas comparativos de E01 recogen estas incorporaciones.
 

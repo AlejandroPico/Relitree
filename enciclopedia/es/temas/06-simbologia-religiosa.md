@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1224
+palabras: 1355
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -16,6 +16,11 @@ fuentes:
   - "https://www.newadvent.org/fathers/250105.htm"
   - "https://osb.org/the-medal-of-saint-benedict/"
   - "https://ich.unesco.org/en/lists?RL=00434"
+  - "https://www.cambridge.org/core/books/sacred-violence/8E9C0EA089C84ECAFF72B663DE9AF953"
+  - "https://publishing.cdlib.org/ucpressebooks/public/book/the-making-of-a-heretic-gender-authority-and-the-priscillianist-controversy.html"
+  - "https://academic.oup.com/edited-volume/60668"
+  - "https://whc.unesco.org/en/list/788"
+  - "https://case.edu/news/media-relations/elizabeth-bolman"
 ---
 
 # Simbología religiosa comparada
@@ -94,6 +99,20 @@ En [[monacato|Monacato cristiano]], el hábito puede expresar pertenencia y tene
 
 [Confederación Benedictina, medalla de san Benito](https://osb.org/the-medal-of-saint-benedict/) · [UNESCO, artesanía y simbología del jachkar](https://ich.unesco.org/en/lists?RL=00434)
 
+## Edificios, imágenes y pertenencia en E15
+
+### Cruces cristianas y atribución
+
+En el África del [[donatismo]], una cruz o una basílica no bastan para reconocer de manera aislada la comunión de sus usuarios. En el caso del [[priscilianismo]] tampoco se ha establecido un emblema exclusivo del círculo. Los relatos del [[pelagianismo]] documentan una controversia sin repertorio visual confesional común conocido. [1, 2, 3]
+
+### El bautismo en el mosaico de Rávena
+
+En la cúpula del baptisterio vinculado al [[arrianismo|cristianismo homoiano de la corte ostrogoda]] se representan Cristo, Juan, la paloma y el Jordán personificado. Se debe distinguir la atribución histórica del edificio del significado asignable a cada uno de esos elementos, compartidos en parte con otros ámbitos cristianos. [4]
+
+### Patrimonios ortodoxos orientales
+
+Los jachkares armenios y las pinturas del Monasterio Rojo de la tradición [[copta|copta]] son expresiones localizadas de dos tradiciones de las [[miafisismo|Iglesias ortodoxas orientales]]. La procedencia y el soporte orientan la comparación de los motivos. [5, 6]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -109,3 +128,9 @@ En [[monacato|Monacato cristiano]], el hábito puede expresar pertenencia y tene
 - [Eusebio, Historia eclesiástica V.18](https://www.newadvent.org/fathers/250105.htm).
 - [Confederación Benedictina, medalla de san Benito](https://osb.org/the-medal-of-saint-benedict/).
 - [UNESCO, artesanía y simbología del jachkar](https://ich.unesco.org/en/lists?RL=00434).
+1. [Cruces cristianas y atribución](https://www.cambridge.org/core/books/sacred-violence/8E9C0EA089C84ECAFF72B663DE9AF953).
+2. [Cruces cristianas y atribución](https://publishing.cdlib.org/ucpressebooks/public/book/the-making-of-a-heretic-gender-authority-and-the-priscillianist-controversy.html).
+3. [Cruces cristianas y atribución](https://academic.oup.com/edited-volume/60668).
+4. [El bautismo en el mosaico de Rávena](https://whc.unesco.org/en/list/788).
+5. [Patrimonios ortodoxos orientales](https://ich.unesco.org/en/lists?RL=00434).
+6. [Patrimonios ortodoxos orientales](https://case.edu/news/media-relations/elizabeth-bolman).

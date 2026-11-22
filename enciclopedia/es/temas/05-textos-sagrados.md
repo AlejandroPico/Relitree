@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1364
+palabras: 1503
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -17,6 +17,12 @@ fuentes:
   - "https://archive.osb.org/rb/text/"
   - "https://www.ocso.org/uploads/resources/foundational-text/exordium-parvum/Exordium-Parvum-EN.pdf"
   - "https://www.unesco.org/en/memory-world/mashtots-matenadaran-ancient-manuscripts-collection"
+  - "https://iucat.iu.edu/iub/2251701"
+  - "https://www.uu.se/en/library/visit-and-contact/exhibitions/codex-argenteus/the-history-of-codex-argenteus"
+  - "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=ha010551585"
+  - "https://academic.oup.com/book/49930"
+  - "https://www.oikoumene.org/church-families/orthodox-churches-oriental"
+  - "https://ccdl.libraries.claremont.edu/digital/collection/cce"
 ---
 
 # Textos sagrados del mundo comparados
@@ -105,6 +111,24 @@ La creación del alfabeto armenio se atribuye a Mesrop Mashtóts. Las traduccion
 
 [UNESCO, colección del Matenadaran](https://www.unesco.org/en/memory-world/mashtots-matenadaran-ancient-manuscripts-collection)
 
+## Textos cristianos de E15
+
+### Ticonio y la Biblia latina africana
+
+[[donatismo|Ticonio]] dedicó su *Libro de las siete reglas* a la interpretación bíblica. La pertenencia del autor a un medio episcopal en conflicto y la recepción posterior de sus reglas explican dos fases distintas de la obra. [1]
+
+### Evangelios en gótico
+
+El *Codex Argenteus*, manuscrito del siglo VI, conserva una forma de los Evangelios en gótico relacionada con la traducción asociada a [[arrianismo|Ulfila]]. La fecha de ese ejemplar difiere de la de la traducción. [2]
+
+### Tratados y comentarios
+
+Los tratados asociados a [[priscilianismo|Prisciliano]] discuten el discernimiento necesario para emplear obras fuera del canon. El comentario a Romanos de [[pelagianismo|Pelagio]] es una obra de exégesis transmitida a través de versiones y atribuciones que el editor debe distinguir. [3, 4]
+
+### Lenguas bíblicas y litúrgicas
+
+Las [[miafisismo|Iglesias ortodoxas orientales]] conservan repertorios en lenguas distintas. En Egipto, la tradición [[copta|copta]] preserva manuscritos en variedades como el sahídico y el bohaírico, con historias diferentes de transmisión y uso litúrgico. [5, 6]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -121,3 +145,9 @@ La creación del alfabeto armenio se atribuye a Mesrop Mashtóts. Las traduccion
 - [Regla de san Benito, archivo benedictino](https://archive.osb.org/rb/text/).
 - [Exordium Parvum, OCSO](https://www.ocso.org/uploads/resources/foundational-text/exordium-parvum/Exordium-Parvum-EN.pdf).
 - [UNESCO, colección del Matenadaran](https://www.unesco.org/en/memory-world/mashtots-matenadaran-ancient-manuscripts-collection).
+1. [Ticonio y la Biblia latina africana](https://iucat.iu.edu/iub/2251701).
+2. [Evangelios en gótico](https://www.uu.se/en/library/visit-and-contact/exhibitions/codex-argenteus/the-history-of-codex-argenteus).
+3. [Tratados y comentarios](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=ha010551585).
+4. [Tratados y comentarios](https://academic.oup.com/book/49930).
+5. [Lenguas bíblicas y litúrgicas](https://www.oikoumene.org/church-families/orthodox-churches-oriental).
+6. [Lenguas bíblicas y litúrgicas](https://ccdl.libraries.claremont.edu/digital/collection/cce).

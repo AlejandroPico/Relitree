@@ -288,17 +288,22 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 
 ## Fase E15 · Cristianismo · tradiciones (2/9)
 
-- Donatismo (`donatismo`)
-- Arrianismo (`arrianismo`)
+**Estado.** 6 de 12 artículos completos. Las entregas 15.1–15.3 se incorporaron en la versión 1.7.52. Las seis entradas restantes corresponden a 15.4–15.6.
+
+- [x] 15.1 · [Donatismo](es/religiones/donatismo.md). 10.045 palabras de cuerpo, 3 imágenes.
+- [x] 15.1 · [Arrianismo](es/religiones/arrianismo.md). 10.043 palabras de cuerpo, 3 imágenes.
+- [x] 15.2 · [Priscilianismo](es/religiones/priscilianismo.md). 10.024 palabras de cuerpo, 3 imágenes.
+- [x] 15.2 · [Pelagianismo](es/religiones/pelagianismo.md). 10.007 palabras de cuerpo, 4 imágenes.
+- [x] 15.3 · [Iglesias ortodoxas orientales](es/religiones/miafisismo.md). 10.013 palabras de cuerpo, 4 imágenes.
+- [x] 15.3 · [Iglesia copta](es/religiones/copta.md). 10.060 palabras de cuerpo, 4 imágenes.
+
+### Resto de E15
+
 - Iglesia ortodoxa etíope Tewahedo (`etiope`)
 - Rastafari (`rastafari`)
 - Cristianos de Santo Tomás (`cristianos-santo-tomas`)
-- Priscilianismo (`priscilianismo`)
-- Pelagianismo (`pelagianismo`)
 - Cristianismo celta (`celta-crist`)
 - Iglesia del Oriente (`iglesia-oriente`)
-- Iglesias ortodoxas orientales (`miafisismo`)
-- Iglesia copta (`copta`)
 - Cristianismo nubio (`nubia-cristiana`)
 
 ## Fase E16 · Cristianismo · tradiciones (3/9)

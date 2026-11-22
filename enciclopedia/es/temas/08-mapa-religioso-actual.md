@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1232
+palabras: 1364
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -19,6 +19,12 @@ fuentes:
   - "https://osb.org/the-benedictine-order/the-benedictine-confederation/"
   - "https://www.ocso.org/resources/law/"
   - "https://www.oikoumene.org/member-churches/armenian-apostolic-church-mother-see-of-holy-etchmiadzin"
+  - "https://www.cambridge.org/core/journals/church-history/article/abs/dilatory-donatists-or-procrastinating-catholics-the-trial-at-the-conference-of-carthage/2F597DDAC201BC8CAA89B313C14E3584"
+  - "https://publishing.cdlib.org/ucpressebooks/public/book/the-making-of-a-heretic-gender-authority-and-the-priscillianist-controversy.html"
+  - "https://www.cambridge.org/core/books/abs/arianism/barbarian-homoianism-in-the-fifth-and-sixth-centuries/F2FDE04E1A3DB7FDD87082D4A5C2388F"
+  - "https://academic.oup.com/edited-volume/60668"
+  - "https://www.oikoumene.org/church-families/orthodox-churches-oriental"
+  - "https://www.pewresearch.org/religion/2011/02/16/how-many-christians-are-there-in-egypt/"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -107,6 +113,20 @@ Las jurisdicciones de la [[armenia|Iglesia apostólica armenia]] se extienden po
 
 [Consejo Mundial de Iglesias, Santa Sede de Echmiadzin](https://www.oikoumene.org/member-churches/armenian-apostolic-church-mother-see-of-holy-etchmiadzin)
 
+## Sedes y presencia territorial en E15
+
+### África, Hispania y la corte romano-occidental
+
+Las sedes del [[donatismo]] dibujan una red africana, visible en la documentación de 411. Zaragoza, Ávila y Tréveris registran momentos de la controversia del [[priscilianismo]]. Estos itinerarios señalan actividad documentada, pero no proporcionan recuentos de población. [1, 2]
+
+### Redes imperiales y reinos posromanos
+
+Los casos agrupados bajo [[arrianismo]] aparecen en redes del Imperio del siglo IV y, en un contexto posterior, en varios reinos con Iglesias homoianas. Roma, Cartago y Palestina sirven para reconstruir los itinerarios del [[pelagianismo]]. No son áreas de mayoría confesional deducibles de sus procesos. [3, 4]
+
+### Comuniones y estimaciones
+
+El arraigo histórico de las [[miafisismo|Iglesias ortodoxas orientales]] y la localización de sus sedes no equivalen a un recuento de sus fieles. Los cálculos de población cristiana de Egipto tampoco se identifican automáticamente con los de la [[copta|Iglesia ortodoxa copta]]. Antes de comparar cifras hay que fijar año, lugar y definición. [5, 6]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -125,3 +145,9 @@ Las jurisdicciones de la [[armenia|Iglesia apostólica armenia]] se extienden po
 - [Confederación Benedictina, estructura institucional](https://osb.org/the-benedictine-order/the-benedictine-confederation/).
 - [OCSO, constituciones y estatutos](https://www.ocso.org/resources/law/).
 - [Consejo Mundial de Iglesias, Santa Sede de Echmiadzin](https://www.oikoumene.org/member-churches/armenian-apostolic-church-mother-see-of-holy-etchmiadzin).
+1. [África, Hispania y la corte romano-occidental](https://www.cambridge.org/core/journals/church-history/article/abs/dilatory-donatists-or-procrastinating-catholics-the-trial-at-the-conference-of-carthage/2F597DDAC201BC8CAA89B313C14E3584).
+2. [África, Hispania y la corte romano-occidental](https://publishing.cdlib.org/ucpressebooks/public/book/the-making-of-a-heretic-gender-authority-and-the-priscillianist-controversy.html).
+3. [Redes imperiales y reinos posromanos](https://www.cambridge.org/core/books/abs/arianism/barbarian-homoianism-in-the-fifth-and-sixth-centuries/F2FDE04E1A3DB7FDD87082D4A5C2388F).
+4. [Redes imperiales y reinos posromanos](https://academic.oup.com/edited-volume/60668).
+5. [Comuniones y estimaciones](https://www.oikoumene.org/church-families/orthodox-churches-oriental).
+6. [Comuniones y estimaciones](https://www.pewresearch.org/religion/2011/02/16/how-many-christians-are-there-in-egypt/).
