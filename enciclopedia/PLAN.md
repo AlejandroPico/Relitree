@@ -6,46 +6,48 @@ Cada fase se trabaja en una sesión. Al terminarla se marcan sus artículos como
 
 ## Fase E00 · Infraestructura de la enciclopedia
 
-- Índice en árbol con anidación ilimitada (religión → categorías → subcategorías → artículos). Implementado junto con el acceso móvil en la primera entrega de E01.
-- Pestañas dentro de cada artículo (Historia · Creencias · Textos · Ritos · Símbolos · Figuras · Cronología · Fuentes)
-- Ficha resumen lateral (infobox), tablas largas, cronologías visuales, galerías
-- Retratos, pinturas, grabados y documentos históricos junto a los pasajes que ilustran, con pie de imagen, autoría, procedencia y licencia. Las reproducciones de Wikimedia Commons se conservan en el repositorio. Vídeo solo de instituciones oficiales.
-- Cabecera YAML en cada artículo: estado (borrador/completo), palabras, fuentes
-- Validación incorporada. La compilación rechaza artículos completos con menos de 5.000 palabras de texto de cuerpo.
-- Búsqueda dentro del texto de toda la enciclopedia.
-- Reproductor de lectura en voz alta implementado. Incluye avance y retroceso por párrafos, lectura desde el párrafo seleccionado y ajustes de voz, velocidad, tono y volumen.
+**Estado parcial.** Una casilla vacía indica que queda todo o parte del trabajo previsto en esa línea.
+
+- [x] Índice en árbol con anidación ilimitada, acceso móvil e índice de secciones del artículo.
+- [ ] Pestañas para navegar entre grandes apartados dentro del artículo. El lector dispone de un índice de secciones con saltos a los encabezados.
+- [ ] Ficha resumen lateral dentro del artículo y galerías como componentes del lector. Ya se admiten tablas, cronologías visuales y figuras.
+- [x] Inserción de retratos, pinturas, grabados y documentos históricos junto al texto. Se documentan procedencia, autoría y licencia de las reproducciones, y el vídeo se reserva a fuentes institucionales.
+- [ ] Cabecera YAML editorial en todo el catálogo. Los artículos desarrollados usan estado, palabras y fuentes. Quedan fichas breves por incorporar a este formato.
+- [x] Validación en la compilación. Los artículos marcados como completos requieren un mínimo de 5.000 palabras de cuerpo.
+- [ ] Búsqueda en el texto completo de la enciclopedia. El filtro del índice busca por títulos.
+- [x] Lectura en voz alta, con selección de párrafo, avance y retroceso y ajustes de voz, velocidad, tono y volumen.
 
 ## Fase E01 · Temas generales
 
-Avance editorial: los dos primeros artículos se han ampliado. Los otros ocho tienen borrador y conservan la marca `estado: borrador` hasta su desarrollo y revisión.
+**Estado parcial.** 2 de 10 artículos completos. Los otros ocho siguen publicados como borradores.
 
-- Cómo leer el árbol (ampliado)
-- Tipos de religión (ampliado)
-- Qué es una religión: definiciones y debates
-- Los orígenes del pensamiento religioso en la prehistoria
-- Textos sagrados del mundo comparados
-- Simbología religiosa comparada
-- Calendarios y festividades del mundo
-- Mapa religioso actual: demografía y tendencias
-- Historia del estudio de las religiones
-- Glosario general
+- [x] [Cómo leer el árbol](es/temas/01-como-leer.md)
+- [x] [Tipos de religión](es/temas/02-tipos.md)
+- [ ] [Qué es una religión: definiciones y debates](es/temas/03-que-es-una-religion.md)
+- [ ] [Los orígenes del pensamiento religioso en la prehistoria](es/temas/04-origenes-pensamiento-religioso.md)
+- [ ] [Textos sagrados del mundo comparados](es/temas/05-textos-sagrados.md)
+- [ ] [Simbología religiosa comparada](es/temas/06-simbologia-religiosa.md)
+- [ ] [Calendarios y festividades del mundo](es/temas/07-calendarios-festividades.md)
+- [ ] [Mapa religioso actual: demografía y tendencias](es/temas/08-mapa-religioso-actual.md)
+- [ ] [Historia del estudio de las religiones](es/temas/09-historia-estudio-religiones.md)
+- [ ] [Glosario general](es/temas/10-glosario-general.md)
 
 ## Fase E02 · Cristianismo · Fundamentos
 
-Avance editorial. Diez de doce artículos están completos. El Antiguo y el Nuevo Testamento, Liturgia y año litúrgico, Mandamientos, sacramentos y moral y Simbología cristiana superan las 10.000 palabras de cuerpo. Las ampliaciones de Pedro y Pablo de Tarso se sitúan en Primeras comunidades. Su revisión de fondo figura en el registro de entregas.
+**Fase completada.** 12 de 12 artículos completos según los criterios de esta fase. Pedro y Pablo de Tarso se consultan en «Figuras de las primeras comunidades». Las próximas ampliaciones del artículo general se podrán programar como revisiones editoriales.
 
-- Cristianismo (artículo principal, por épocas)
-- La vida de Jesús de Nazaret
-- Pasión, muerte y resurrección
-- La Trinidad y los dogmas
+- [x] [Cristianismo](es/religiones/cristianismo.md)
+- [x] [La vida de Jesús de Nazaret](es/religiones/cristianismo/jesus/vida-de-jesus.md)
+- [x] [Pasión, muerte y resurrección](es/religiones/cristianismo/jesus/pasion-muerte-resurreccion.md)
+- [x] [La Trinidad y los dogmas](es/religiones/cristianismo/creencias/trinidad-y-dogmas.md)
 - [x] [La Biblia: Antiguo Testamento](es/religiones/cristianismo/biblia/antiguo-testamento.md)
 - [x] [La Biblia: Nuevo Testamento](es/religiones/cristianismo/biblia/nuevo-testamento.md)
-- Canon, apócrifos y traducciones de la Biblia
+- [x] [Canon, apócrifos y traducciones de la Biblia](es/religiones/cristianismo/biblia/canon-apocrifos-traducciones.md)
 - [x] [Mandamientos, sacramentos y moral](es/religiones/cristianismo/vida-cristiana/mandamientos-sacramentos-moral.md)
 - [x] [Liturgia y año litúrgico](es/religiones/cristianismo/vida-cristiana/liturgia-y-ano-liturgico.md)
 - [x] [Simbología cristiana](es/religiones/cristianismo/vida-cristiana/simbologia.md)
-- [Pedro](es/religiones/cristianismo/primeras-comunidades/figuras/pedro.md)
-- [Pablo de Tarso](es/religiones/cristianismo/primeras-comunidades/figuras/pablo-de-tarso.md)
+- [x] [Pedro](es/religiones/cristianismo/primeras-comunidades/figuras/pedro.md)
+- [x] [Pablo de Tarso](es/religiones/cristianismo/primeras-comunidades/figuras/pablo-de-tarso.md)
 
 ## Fase E03 · Cristianismo · Apóstoles y primeros siglos
 
@@ -258,6 +260,14 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 - [x] 13.5 · [Patriarcas de Moscú](es/religiones/cristianismo/maria-y-figuras-mayores/patriarcas-de-moscu.md)
 - [x] 13.6 · [Monacato oriental: el monte Athos](es/religiones/cristianismo/maria-y-figuras-mayores/monacato-oriental-el-monte-athos.md)
 - [x] 13.6 · [Iconos y arte bizantino](es/religiones/cristianismo/maria-y-figuras-mayores/iconos-y-arte-bizantino.md)
+
+### Criterios para las tradiciones cristianas (E14–E22)
+
+- Cada artículo se desarrolla en su propia entidad del catálogo, en `es/religiones/<id>.md`. El índice y el árbol abren esa entrada. El artículo general de Cristianismo puede enlazarla y su próxima revisión se planificará aparte.
+- Cada tradición tendrá entre **10.000 y 15.000 palabras de cuerpo**. El recuento sigue el criterio de la enciclopedia y excluye títulos, tablas, citas, pies de imagen y fuentes.
+- La entrada desarrolla orígenes, cronología, contexto, figuras, doctrinas, prácticas, organización, textos sagrados o normativos, símbolos y evolución. Explica sus diferencias con corrientes emparentadas y distingue las variantes internas cuando están documentadas.
+- Los manuscritos, documentos, fotografías, retratos y demás reproducciones se acreditan en contexto. Los mapas, esquemas y cronologías ayudan a explicar etapas y relaciones. Se indica qué puede documentarse y se distingue entre fuentes de la tradición, testimonios externos e interpretaciones posteriores.
+- Las subsecciones o categorías adicionales pertenecen a la entidad correspondiente y se crean cuando la amplitud del tema o la navegación lo requieren.
 
 ## Fase E14 · Cristianismo · tradiciones (1/9)
 
