@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1899
+palabras: 1934
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -66,6 +66,10 @@ fuentes:
   - "https://www.presidence.cd/actualite-detail/actualite/simon_kimbangu_kiangani_remercie_le_chef_de_letat_pour_avoir_decrete_la_date_du_6_avril_comme_journee_feriee_et_payee_en_rdc"
   - "https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB"
   - "https://sahistory.org.za/place/nhlangakazi-holy-mountain-shembe"
+  - "https://iglesianicristo.net/about-us/history/"
+  - "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/7/60218"
+  - "https://textos.pucp.edu.pe/pdf/3387.pdf"
+  - "https://repositorio.ulisboa.pt/bitstream/10451/29859/1/ulsd731032_td_Carmen_Gonzalez_Hacha.pdf"
 ---
 
 # Calendarios y festividades del mundo
@@ -232,6 +236,12 @@ El [[adventismo|adventismo del séptimo día]] guarda el sábado desde la puesta
 
 La reconstrucción de [[kitawala|Kitawala]] distingue la cronología de los expedientes de las prácticas de comunidades concretas. El [[kimbangu|kimbanguismo]] conmemora el comienzo de la misión el 6 de abril. En la [[shembe|Iglesia Nazaret Bautista]] se documentan la observancia del sábado y las peregrinaciones de Nhlangakazi. [47, 48, 49, 50, 51]
 
+## E18.5 · Iglesia ni Cristo, Israelitas del Nuevo Pacto Universal
+
+### Aniversario en Filipinas y observancia sabataria en Perú
+
+La fecha registral de 27 de julio de 1914 se conmemora en [[inc|Iglesia ni Cristo]]. Los [[israelitas|Israelitas del Nuevo Pacto Universal]] organizan la práctica semanal en torno al sábado y celebran festividades de referencia bíblica. [52, 53, 54, 55]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -297,3 +307,7 @@ La reconstrucción de [[kitawala|Kitawala]] distingue la cronología de los expe
 49. [Presidencia de la RDC, declaración del 6 de abril como jornada festiva en 2023](https://www.presidence.cd/actualite-detail/actualite/simon_kimbangu_kiangani_remercie_le_chef_de_letat_pour_avoir_decrete_la_date_du_6_avril_comme_journee_feriee_et_payee_en_rdc).
 50. [Joel Cabrita, Text and Authority in the South African Nazaretha Church (Cambridge University Press)](https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB).
 51. [South African History Online, Nhlangakazi, la montaña sagrada de Shembe](https://sahistory.org.za/place/nhlangakazi-holy-mountain-shembe).
+52. [Iglesia ni Cristo, historia institucional oficial](https://iglesianicristo.net/about-us/history/).
+53. [Presidencia de Filipinas, Proclamation No. 815, año del centenario de Iglesia ni Cristo](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/7/60218).
+54. [Juan M. Ossio, Los Israelitas del Nuevo Pacto Universal, Pontificia Universidad Católica del Perú](https://textos.pucp.edu.pe/pdf/3387.pdf).
+55. [Carmen González Hacha, El misterio de Dios en el Perú, tesis de la Universidade de Lisboa](https://repositorio.ulisboa.pt/bitstream/10451/29859/1/ulsd731032_td_Carmen_Gonzalez_Hacha.pdf).

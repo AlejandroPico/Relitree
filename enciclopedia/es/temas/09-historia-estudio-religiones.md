@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1988
+palabras: 2020
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -82,6 +82,8 @@ fuentes:
   - "https://doi.org/10.1080/17531055.2019.1708544"
   - "https://www.psupress.org/books/titles/978-0-271-07755-0.html"
   - "https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB"
+  - "https://www.jstor.org/stable/27865765"
+  - "https://repositorio.pucp.edu.pe/items/c9663542-3165-4768-ac71-5437815dd05e"
 ---
 
 # Historia del estudio de las religiones
@@ -252,6 +254,12 @@ Andrew Gordon Mustard estudió las decisiones de organización de los primeros a
 
 Nicole Eggers contrastó archivos coloniales y testimonios sobre [[kitawala|Kitawala]]. Aurélien Mokoko Gampiot estudió la comprensión africana de la Biblia en el [[kimbangu|kimbanguismo]]. Joel Cabrita analizó la historia de los textos y la autoridad de la [[shembe|Iglesia Nazaret Bautista]]. [57, 58, 59, 60]
 
+## E18.5 · Iglesia ni Cristo, Israelitas del Nuevo Pacto Universal
+
+### Difusión confesional y legitimación religiosa
+
+Robert Reed documentó la expansión filipina e internacional de [[inc|Iglesia ni Cristo]]. Juan M. Ossio estudió la trayectoria de Ataucusi y los medios de legitimación de los [[israelitas|Israelitas del Nuevo Pacto Universal]]. [61, 62]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -333,3 +341,5 @@ Nicole Eggers contrastó archivos coloniales y testimonios sobre [[kitawala|Kita
 58. [Nicole Eggers, Authority that is Customary. Kitawala, Customary Chiefs, and the Plurality of Power in Congolese History](https://doi.org/10.1080/17531055.2019.1708544).
 59. [Aurélien Mokoko Gampiot, Kimbanguism. An African Understanding of the Bible (Penn State University Press)](https://www.psupress.org/books/titles/978-0-271-07755-0.html).
 60. [Joel Cabrita, Text and Authority in the South African Nazaretha Church (Cambridge University Press)](https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB).
+61. [Robert R. Reed, The Iglesia ni Cristo, 1914–2000, historia de la organización en Bijdragen tot de Taal-, Land- en Volkenkunde](https://www.jstor.org/stable/27865765).
+62. [Juan M. Ossio, Los métodos de legitimación de un mesías, repositorio de la PUCP](https://repositorio.pucp.edu.pe/items/c9663542-3165-4768-ac71-5437815dd05e).

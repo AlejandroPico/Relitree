@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2023
+palabras: 2066
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -76,6 +76,10 @@ fuentes:
   - "https://doi.org/10.1080/00083968.2012.739415"
   - "https://www3.saflii.org/za/cases/ZACC/2021/17.html"
   - "https://scielo.org.za/scielo.php?pid=S1011-76012017000200007&script=sci_arttext"
+  - "https://psa.gov.ph/content/religious-affiliation-philippines-2020-census-population-and-housing"
+  - "https://sisbib.unmsm.edu.pe/BibVirtual/Publicaciones/antropologia/2002_N02/a02.htm"
+  - "https://revistas.usp.br/cadernosdecampo/es/article/download/142103/140860/296840"
+  - "https://dialnet.unirioja.es/descarga/articulo/10496369.pdf"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -252,6 +256,12 @@ La Asociación General adventista publica series de miembros registrados que cor
 
 La presencia histórica de [[kitawala|Kitawala]] se documenta en rutas de trabajo, lugares de relegación y zonas del este congoleño. [[kimbangu|Kimbanguismo]] permite relacionar Nkamba con congregaciones de la región kongo y la diáspora. [[shembe|Shembe]] reúne comunidades originadas en Natal que se organizaron en ramas. [53, 54, 55, 56, 57]
 
+## E18.5 · Iglesia ni Cristo, Israelitas del Nuevo Pacto Universal
+
+### Afiliación censal y presencia de un movimiento
+
+La autoridad estadística de Filipinas registró a 2.806.524 personas de la población de hogares afiliadas a [[inc|Iglesia ni Cristo]] en 2020. Para los [[israelitas|Israelitas del Nuevo Pacto Universal]], las fuentes de implantación describen lugares de Perú y de la frontera amazónica. [58, 59, 60, 61]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -327,3 +337,7 @@ La presencia histórica de [[kitawala|Kitawala]] se documenta en rutas de trabaj
 55. [Ramon Sarró y Anne Mélice, Kongo–Lisbonne, la relación entre centro y periferia](https://doi.org/10.1080/00083968.2012.739415).
 56. [Tribunal Constitucional de Sudáfrica, Shembe and Others v Shembe N.O. (2021)](https://www3.saflii.org/za/cases/ZACC/2021/17.html).
 57. [Estudio de las ramas y la disputa por el legado de Isaiah Shembe, Journal for the Study of Religion (2017)](https://scielo.org.za/scielo.php?pid=S1011-76012017000200007&script=sci_arttext).
+58. [Philippine Statistics Authority, afiliación religiosa en el censo de población y vivienda de 2020](https://psa.gov.ph/content/religious-affiliation-philippines-2020-census-population-and-housing).
+59. [Universidad Nacional Mayor de San Marcos, uso del suelo y bosque en Alto Monte de Israel, Loreto](https://sisbib.unmsm.edu.pe/BibVirtual/Publicaciones/antropologia/2002_N02/a02.htm).
+60. [Investigación sobre los israelitas en la Amazonía transfronteriza, Cadernos de Campo, Universidade de São Paulo](https://revistas.usp.br/cadernosdecampo/es/article/download/142103/140860/296840).
+61. [Novoa, Espacio y fe en la Amazonía peruana. Sociedades religiosas y modelos de organización espacial](https://dialnet.unirioja.es/descarga/articulo/10496369.pdf).

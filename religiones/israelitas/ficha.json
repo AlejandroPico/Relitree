@@ -5,14 +5,10 @@
   "fin": null,
   "tipo": "sin",
   "importancia": 1,
-  "padres": [
-    {
-      "id": "adventismo",
-      "relacion": "derivacion"
-    }
-  ],
+  "padres": [],
   "influencias": [
-    "inca"
+    "adventismo"
   ],
-  "icono": null
+  "icono": null,
+  "heredar_icono": false
 }

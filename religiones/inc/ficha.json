@@ -5,14 +5,10 @@
   "fin": null,
   "tipo": "mon",
   "importancia": 1,
-  "padres": [
-    {
-      "id": "adventismo",
-      "relacion": "derivacion"
-    }
+  "padres": [],
+  "influencias": [
+    "adventismo"
   ],
-  "influencias": [],
   "icono": null,
-  "fieles": 3000000,
-  "fieles_fuente": "Wikipedia, List of Christian denominations by number of members"
+  "heredar_icono": false
 }

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2238
+palabras: 2272
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -68,6 +68,10 @@ fuentes:
   - "https://www.psupress.org/books/titles/978-0-271-07755-0.html"
   - "https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB"
   - "https://assets.cambridge.org/97811070/54431/frontmatter/9781107054431_frontmatter.pdf"
+  - "https://iglesianicristo.net/beliefs/"
+  - "https://iglesianicristo.net/el-senor-jesucristo/"
+  - "https://textos.pucp.edu.pe/pdf/3387.pdf"
+  - "https://aeminpu.org.pe/fundador"
 ---
 
 # Textos sagrados del mundo comparados
@@ -248,6 +252,12 @@ En el [[adventismo|adventismo del séptimo día]], Daniel y Hebreos se ponen en 
 
 [[kitawala|Kitawala]] se desarrolló con lecturas bíblicas y predicación transmitidas por vías distintas. En el [[kimbangu|kimbanguismo]] los himnos recibidos como inspirados participan en la interpretación comunitaria. La [[shembe|Iglesia Nazaret Bautista]] produjo recopilaciones de relatos y enseñanzas cuya historia se puede seguir junto a la práctica oral. [46, 47, 48, 49, 50, 51]
 
+## E18.5 · Iglesia ni Cristo, Israelitas del Nuevo Pacto Universal
+
+### Restauración de la Iglesia y lectura del nuevo pacto
+
+[[inc|Iglesia ni Cristo]] organiza su doctrina de restauración a partir de su lectura bíblica. Los [[israelitas|Israelitas del Nuevo Pacto Universal]] interpretan la ley y el pacto en relación con la misión de Ezequiel Ataucusi. [52, 53, 54, 55]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -315,3 +325,7 @@ En el [[adventismo|adventismo del séptimo día]], Daniel y Hebreos se ponen en 
 49. [Aurélien Mokoko Gampiot, Kimbanguism. An African Understanding of the Bible (Penn State University Press)](https://www.psupress.org/books/titles/978-0-271-07755-0.html).
 50. [Joel Cabrita, Text and Authority in the South African Nazaretha Church (Cambridge University Press)](https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB).
 51. [Bibliografía de colecciones de historias orales y textos nazarenos, Joel Cabrita](https://assets.cambridge.org/97811070/54431/frontmatter/9781107054431_frontmatter.pdf).
+52. [Iglesia ni Cristo, exposición de las creencias de la confesión](https://iglesianicristo.net/beliefs/).
+53. [Iglesia ni Cristo, enseñanza institucional sobre el Señor Jesucristo](https://iglesianicristo.net/el-senor-jesucristo/).
+54. [Juan M. Ossio, Los Israelitas del Nuevo Pacto Universal, Pontificia Universidad Católica del Perú](https://textos.pucp.edu.pe/pdf/3387.pdf).
+55. [AEMINPU, biografía institucional de Ezequiel Ataucusi Gamonal](https://aeminpu.org.pe/fundador).

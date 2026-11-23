@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2034
+palabras: 2069
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -69,6 +69,8 @@ fuentes:
   - "https://africabib.org/rec.php?RID=192827197"
   - "https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB"
   - "https://www.timeslive.co.za/news/south-africa/2023-01-08-in-pictures-thousands-embark-on-shembe-holy-pilgrimage/"
+  - "https://www.jstor.org/stable/27865765"
+  - "https://publicaciones.banrepcultural.org/index.php/boletin_cultural/article/view/7529"
 ---
 
 # Simbología religiosa comparada
@@ -235,6 +237,12 @@ En la identidad visual de la Iglesia del Séptimo Día, perteneciente al [[adven
 
 La torre de las publicaciones de Watch Tower documenta el origen de una referencia que circuló en el ámbito de [[kitawala|Kitawala]]. Los espacios de [[kimbangu|Nkamba]] y la indumentaria de reuniones de la [[shembe|Iglesia de Shembe]] permiten comparar formas visuales de memoria y pertenencia. [49, 50, 51, 52, 53, 54]
 
+## E18.5 · Iglesia ni Cristo, Israelitas del Nuevo Pacto Universal
+
+### Casas de culto filipinas y tablas de la ley
+
+Las casas de culto de [[inc|Iglesia ni Cristo]] identifican públicamente a la institución. Las tablas de la ley documentadas en un templo de los [[israelitas|Israelitas del Nuevo Pacto Universal]] expresan su relación con los mandamientos. [55, 56]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -304,3 +312,5 @@ La torre de las publicaciones de Watch Tower documenta el origen de una referenc
 52. [The Beloved City. Commentary on a Kimbanguist Text](https://africabib.org/rec.php?RID=192827197).
 53. [Joel Cabrita, Text and Authority in the South African Nazaretha Church (Cambridge University Press)](https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB).
 54. [TimesLIVE, reportaje fotográfico de una peregrinación de Shembe, enero de 2023](https://www.timeslive.co.za/news/south-africa/2023-01-08-in-pictures-thousands-embark-on-shembe-holy-pilgrimage/).
+55. [Robert R. Reed, The Iglesia ni Cristo, 1914–2000, historia de la organización en Bijdragen tot de Taal-, Land- en Volkenkunde](https://www.jstor.org/stable/27865765).
+56. [Tras la tierra prometida en la Amazonia, Boletín Cultural y Bibliográfico del Banco de la República](https://publicaciones.banrepcultural.org/index.php/boletin_cultural/article/view/7529).
