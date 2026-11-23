@@ -14,12 +14,6 @@
   "influencias": [
     "anabaptismo"
   ],
-  "icono": {
-    "archivo": "icono.svg",
-    "fuente": "https://commons.wikimedia.org/wiki/File:Ichthys.svg",
-    "licencia": "Public domain",
-    "autor": "MesserWoland, Erin_Silversmith, AnonMoos"
-  },
-  "fieles": 100000000,
-  "fieles_fuente": "Wikipedia, List of Christian denominations by number of members"
+  "icono": null,
+  "heredar_icono": false
 }

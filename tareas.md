@@ -4,6 +4,9 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E18 · 18.2. [Iglesias bautistas](enciclopedia/es/religiones/bautistas.md), 10.065 palabras de cuerpo y 6 figuras. [Cuáqueros](enciclopedia/es/religiones/cuaqueros.md), 10.026 palabras de cuerpo y 6 figuras. Versión 1.7.59.
+  - Se actualizan los seis temas de E01. Se documentan la procedencia y el alcance de las cifras y del material visual.
+
 - [x] E18 · 18.1. [Puritanismo](enciclopedia/es/religiones/puritanismo.md), 10.017 palabras de cuerpo y 6 figuras. [Congregacionalismo](enciclopedia/es/religiones/congregacionalismo.md), 10.001 palabras de cuerpo y 6 figuras. Versión 1.7.58.
   - Se actualizan los seis temas comparativos de E01. Se fija el criterio de 10.000 palabras de cuerpo y seis figuras para las fichas principales desde E18.
 

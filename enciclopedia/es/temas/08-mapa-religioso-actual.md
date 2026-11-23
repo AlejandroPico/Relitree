@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1871
+palabras: 1916
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -64,6 +64,10 @@ fuentes:
   - "https://www.ucc.org/who-we-are/about/history/"
   - "https://urc.org.uk/wp-content/uploads/2022/01/assembly-record-1972.pdf"
   - "https://www.congregational.org.uk/church-membership/a-past-that-inspires"
+  - "https://baptistworld.org/membership-information/"
+  - "https://baptistworld.org/press-releases/bwa-welcomes-17-new-members/"
+  - "https://www.friendsunitedmeeting.org/where-we-work/africa"
+  - "https://fwcc.world/resources_cpt/map-finding-quakers-around-the-world/"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -222,6 +226,12 @@ La [[swedenborg|Nueva Iglesia]] desarrolló sociedades y convenciones en Europa 
 
 El [[puritanismo|puritanismo]] se estudia por redes inglesas y colonias atlánticas. Para el [[congregacionalismo|congregacionalismo]], las uniones y federaciones actuales tienen coberturas propias. Las cifras de una iglesia unida incluyen las distintas tradiciones que la constituyeron. [42, 43, 44, 45]
 
+## E18.2 · Iglesias bautistas y cuáqueros
+
+### Qué cuenta una alianza de iglesias
+
+Los datos de la Alianza Bautista Mundial corresponden a las organizaciones [[bautistas|bautistas]] afiliadas. En el mapa [[cuaqueros|cuáquero]], el comité mundial permite localizar reuniones anuales de diferentes corrientes, y las fuentes de África oriental documentan la importancia de sus iglesias en Kenia y en países vecinos. [46, 47, 48, 49]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -285,3 +295,7 @@ El [[puritanismo|puritanismo]] se estudia por redes inglesas y colonias atlánti
 43. [United Church of Christ, historia de sus tradiciones componentes](https://www.ucc.org/who-we-are/about/history/).
 44. [Actas de la constitución de la United Reformed Church, 1972](https://urc.org.uk/wp-content/uploads/2022/01/assembly-record-1972.pdf).
 45. [Congregational Federation, su trayectoria británica](https://www.congregational.org.uk/church-membership/a-past-that-inspires).
+46. [Baptist World Alliance, Membership Information](https://baptistworld.org/membership-information/).
+47. [Baptist World Alliance, comunicado del Consejo Global de julio de 2025](https://baptistworld.org/press-releases/bwa-welcomes-17-new-members/).
+48. [Friends United Meeting, historia de los Amigos en África oriental](https://www.friendsunitedmeeting.org/where-we-work/africa).
+49. [Friends World Committee for Consultation, mapa de reuniones](https://fwcc.world/resources_cpt/map-finding-quakers-around-the-world/).

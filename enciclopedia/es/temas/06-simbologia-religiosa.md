@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1895
+palabras: 1937
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -58,6 +58,9 @@ fuentes:
   - "https://academic.oup.com/princeton-scholarship-online/book/33823"
   - "https://commons.wikimedia.org/wiki/File:Savoy_Declaration_Title_Page.png"
   - "https://npgallery.nps.gov/AssetDetail/NRIS/66000777"
+  - "https://www.baptistworld.org/wp-content/uploads/dialogues/Final-Report-of-the-International-Dialogue-between-BWA-and-WMC.pdf"
+  - "https://afsc.org/news/whats-our-new-afsc-logo"
+  - "https://www.nobelprize.org/prizes/peace/1947/summary/"
 ---
 
 # Simbología religiosa comparada
@@ -206,6 +209,12 @@ Las organizaciones del [[nuevo-pensamiento|Nuevo Pensamiento]] emplean identidad
 
 Los retratos, los documentos de Nueva Inglaterra y la recreación de Westminster ilustran el [[puritanismo|puritanismo]] desde lugares y momentos concretos. En el [[congregacionalismo|congregacionalismo]], la sala de reunión y la portada de Savoy muestran formas de culto y acuerdo. En el árbol, ambas tradiciones se indican mediante la marca de la cronología. [41, 42, 43]
 
+## E18.2 · Iglesias bautistas y cuáqueros
+
+### Edificios bautistas y una estrella de socorro
+
+El bautisterio y el púlpito ayudan a leer el espacio de una [[bautistas|iglesia bautista]]. La estrella usada en el socorro [[cuaqueros|cuáquero]] tiene una trayectoria documentada en organismos concretos, como el American Friends Service Committee. Su uso histórico señala un trabajo de servicio. [44, 45, 46]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -264,3 +273,6 @@ Los retratos, los documentos de Nueva Inglaterra y la recreación de Westminster
 41. [David D. Hall, The Puritans: A Transatlantic History, Princeton University Press](https://academic.oup.com/princeton-scholarship-online/book/33823).
 42. [Declaración de Savoy de 1658, reproducción de su portada y procedencia](https://commons.wikimedia.org/wiki/File:Savoy_Declaration_Title_Page.png).
 43. [National Park Service, Old Ship Church](https://npgallery.nps.gov/AssetDetail/NRIS/66000777).
+44. [BWA y World Methodist Council, informe del diálogo internacional](https://www.baptistworld.org/wp-content/uploads/dialogues/Final-Report-of-the-International-Dialogue-between-BWA-and-WMC.pdf).
+45. [American Friends Service Committee, la estrella y su identidad visual](https://afsc.org/news/whats-our-new-afsc-logo).
+46. [Nobel Prize, Premio Nobel de la Paz de 1947](https://www.nobelprize.org/prizes/peace/1947/summary/).

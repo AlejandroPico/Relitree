@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.58**
+**Versión 1.7.59**
+
+[Entrega 18.2 de la fase E18](enciclopedia/PLAN.md#fase-e18--cristianismo--tradiciones-59). Iglesias bautistas y cuáqueros. Cada ficha incluye al menos 10.000 palabras de cuerpo y seis figuras acreditadas.
 
 [Entrega 18.1 de la fase E18](enciclopedia/PLAN.md#fase-e18--cristianismo--tradiciones-59). Puritanismo y congregacionalismo. Cada ficha incluye al menos 10.000 palabras de cuerpo y seis figuras acreditadas.
 

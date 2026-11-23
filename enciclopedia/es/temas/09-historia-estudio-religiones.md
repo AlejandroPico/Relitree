@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1851
+palabras: 1900
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -71,6 +71,10 @@ fuentes:
   - "https://academic.oup.com/edited-volume/33427/chapter-abstract/290340534"
   - "https://www.cambridge.org/core/journals/church-history/article/hidden-in-plain-sight-john-cottons-middle-way-and-the-making-of-the-cambridge-platform-of-church-discipline/82F219F5FD27A82C1728580D1A772FDE"
   - "https://congregationallibrary.org/nehh"
+  - "https://www.sos.ri.gov/divisions/civics-and-education/for-educators/themed-collections/rhode-island-charter"
+  - "https://www.nps.gov/rowi/learn/historyculture/johnclarke.htm"
+  - "https://qfp.quaker.org.uk/passage/24-29/"
+  - "https://riheritagehalloffame.com/mary-dyer/"
 ---
 
 # Historia del estudio de las religiones
@@ -223,6 +227,12 @@ Para el [[nuevo-pensamiento|Nuevo Pensamiento]] se distinguen los testimonios de
 
 Las peticiones y las normas de conformidad permiten reconstruir proyectos de reforma del [[puritanismo|puritanismo]]. En el [[congregacionalismo|congregacionalismo]], pactos, actas y registros civiles tienen funciones distintas y se contrastan por lugar y fecha. [46, 47, 48, 49]
 
+## E18.2 · Iglesias bautistas y cuáqueros
+
+### Conciencia, tolerancia y organización local
+
+La carta de Rhode Island permite estudiar el paso de la defensa [[bautistas|bautista]] de la conciencia a un marco jurídico colonial. La persecución de [[cuaqueros|los Amigos]] en Massachusetts y la declaración de paz dirigida a Carlos II ilustran respuestas a autoridades que concebían de modo diferente el orden religioso. [50, 51, 52, 53]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -293,3 +303,7 @@ Las peticiones y las normas de conformidad permiten reconstruir proyectos de ref
 47. [Peter Lake, la controversia de la Admonition y el calvinismo isabelino](https://academic.oup.com/edited-volume/33427/chapter-abstract/290340534).
 48. [Church History, John Cotton y la composición de la Plataforma de Cambridge](https://www.cambridge.org/core/journals/church-history/article/hidden-in-plain-sight-john-cottons-middle-way-and-the-making-of-the-cambridge-platform-of-church-discipline/82F219F5FD27A82C1728580D1A772FDE).
 49. [Congregational Library & Archives, New England’s Hidden Histories](https://congregationallibrary.org/nehh).
+50. [Rhode Island Department of State, carta real de 1663](https://www.sos.ri.gov/divisions/civics-and-education/for-educators/themed-collections/rhode-island-charter).
+51. [National Park Service, John Clarke](https://www.nps.gov/rowi/learn/historyculture/johnclarke.htm).
+52. [Quaker Faith and Practice, declaración a Carlos II](https://qfp.quaker.org.uk/passage/24-29/).
+53. [Rhode Island Heritage Hall of Fame, Mary Dyer](https://riheritagehalloffame.com/mary-dyer/).

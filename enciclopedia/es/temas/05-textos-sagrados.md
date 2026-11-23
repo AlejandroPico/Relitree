@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2079
+palabras: 2128
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -56,6 +56,9 @@ fuentes:
   - "https://www.cambridge.org/core/books/cambridge-companion-to-puritanism/1825294AB20130B33EE2506DC63186AC/listing"
   - "https://www.loc.gov/item/tmp96029039/"
   - "https://commons.wikimedia.org/wiki/File:Savoy_Declaration_Title_Page.png"
+  - "https://baptiststudiesonline.com/confessions-of-faith/"
+  - "https://www.saet.ac.uk/Christianity/QuakerTheology"
+  - "https://qfp.quaker.org.uk/"
 ---
 
 # Textos sagrados del mundo comparados
@@ -218,6 +221,12 @@ En el [[nuevo-pensamiento|Nuevo Pensamiento]] se distingue el uso de *Daily Word
 
 En el [[puritanismo|puritanismo]], la Biblia de Ginebra y los catecismos se usaron en contextos distintos de la lectura pública. En el [[congregacionalismo|congregacionalismo]], la Plataforma de Cambridge y la Declaración de Savoy describen doctrina y gobierno en iglesias diferentes. [37, 38, 39]
 
+## E18.2 · Iglesias bautistas y cuáqueros
+
+### Confesiones bautistas y textos de los Amigos
+
+Las [[bautistas|iglesias bautistas]] han adoptado confesiones distintas, como las de Londres, para explicar la relación entre Escritura, bautismo y pertenencia. En los [[cuaqueros|cuáqueros]], la Apología de Robert Barclay y los libros de fe y práctica permiten distinguir la defensa teológica temprana de las orientaciones de una reunión anual actual. [40, 41, 42]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -273,3 +282,6 @@ En el [[puritanismo|puritanismo]], la Biblia de Ginebra y los catecismos se usar
 37. [John Coffey y Paul C. H. Lim, eds., The Cambridge Companion to Puritanism](https://www.cambridge.org/core/books/cambridge-companion-to-puritanism/1825294AB20130B33EE2506DC63186AC/listing).
 38. [Cambridge Platform de 1648, edición histórica en Library of Congress](https://www.loc.gov/item/tmp96029039/).
 39. [Declaración de Savoy de 1658, reproducción de su portada y procedencia](https://commons.wikimedia.org/wiki/File:Savoy_Declaration_Title_Page.png).
+40. [Baptist Studies Online, Confessions of Faith](https://baptiststudiesonline.com/confessions-of-faith/).
+41. [St Andrews Encyclopaedia of Theology, Quaker Theology](https://www.saet.ac.uk/Christianity/QuakerTheology).
+42. [Quakers in Britain, Quaker Faith and Practice](https://qfp.quaker.org.uk/).

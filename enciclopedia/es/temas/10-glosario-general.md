@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2034
+palabras: 2074
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -63,6 +63,10 @@ fuentes:
   - "https://academic.oup.com/book/9061"
   - "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/key-dates1/1604-to-1689/"
   - "https://www.loc.gov/item/tmp96029039/"
+  - "https://baptiststudiesonline.com/confessions-of-faith/"
+  - "https://www.baptistworld.org/wp-content/uploads/dialogues/Final-Report-of-the-International-Dialogue-between-BWA-and-WMC.pdf"
+  - "https://qfp.quaker.org.uk/"
+  - "https://qfp.quaker.org.uk/passage/3-10/"
 ---
 
 # Glosario general
@@ -317,6 +321,12 @@ Libro copto de las horas de oración diaria. En la [[copta|Iglesia copta]] se di
 
 **Puritano.** Nombre histórico de corrientes que buscaron avanzar la reforma protestante inglesa. **Pacto de iglesia.** Compromiso constitutivo de una comunidad local en el [[congregacionalismo|congregacionalismo]]. **Conformidad.** Cumplimiento de las condiciones de culto y disciplina de la Iglesia establecida, discutidas en el [[puritanismo|puritanismo]]. [37, 38, 39]
 
+## E18.2 · Iglesias bautistas y cuáqueros
+
+### Bautismo de creyentes y sentido de la reunión
+
+En las iglesias [[bautistas|bautistas]], bautismo de creyentes indica que se requiere profesión personal de fe. En el ámbito [[cuaqueros|cuáquero]], el sentido de la reunión es la orientación común que se intenta discernir y recoger en minuta al tomar una decisión. [40, 41, 42, 43]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -379,3 +389,7 @@ Libro copto de las horas de oración diaria. En la [[copta|Iglesia copta]] se di
 37. [Patrick Collinson, The Elizabethan Puritan Movement, Oxford University Press](https://academic.oup.com/book/9061).
 38. [UK Parliament, cronología de los cambios religiosos de 1604 a 1689](https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/key-dates1/1604-to-1689/).
 39. [Cambridge Platform de 1648, edición histórica en Library of Congress](https://www.loc.gov/item/tmp96029039/).
+40. [Baptist Studies Online, Confessions of Faith](https://baptiststudiesonline.com/confessions-of-faith/).
+41. [BWA y World Methodist Council, informe del diálogo internacional](https://www.baptistworld.org/wp-content/uploads/dialogues/Final-Report-of-the-International-Dialogue-between-BWA-and-WMC.pdf).
+42. [Quakers in Britain, Quaker Faith and Practice](https://qfp.quaker.org.uk/).
+43. [Quaker Faith and Practice, consejos a quienes coordinan reuniones](https://qfp.quaker.org.uk/passage/3-10/).

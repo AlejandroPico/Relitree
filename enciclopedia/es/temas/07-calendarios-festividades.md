@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1751
+palabras: 1799
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -57,6 +57,8 @@ fuentes:
   - "https://www.mass.gov/info-details/massachusetts-historical-laws-and-legal-documents"
   - "https://www.loc.gov/item/tmp96029039/"
   - "https://congregationallibrary.org/researching-congregational-story"
+  - "https://www.baptistworld.org/wp-content/uploads/dialogues/Final-Report-of-the-International-Dialogue-between-BWA-and-WMC.pdf"
+  - "https://qfp.quaker.org.uk/"
 ---
 
 # Calendarios y festividades del mundo
@@ -205,6 +207,12 @@ En el [[nuevo-pensamiento|Nuevo Pensamiento]], *Daily Word* establece un ritmo d
 
 Las discusiones del [[puritanismo|puritanismo]] sobre el domingo y las fiestas dependieron de la jurisdicción. En iglesias del [[congregacionalismo|congregacionalismo]], el culto semanal, la comunión y las conmemoraciones tienen prácticas que se documentan por comunidad y período. [39, 40, 41, 42]
 
+## E18.2 · Iglesias bautistas y cuáqueros
+
+### Domingos, reuniones anuales y fechas de los Amigos
+
+Las [[bautistas|iglesias bautistas]] organizan su calendario de culto y Cena con frecuencias locales. En el ámbito [[cuaqueros|cuáquero]], el uso histórico de nombres numéricos para días y meses requiere distinguirlo de las convenciones civiles vigentes al fechar los documentos. Las reuniones anuales marcan también tiempos de gobierno y encuentro. [43, 44]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -261,3 +269,5 @@ Las discusiones del [[puritanismo|puritanismo]] sobre el domingo y las fiestas d
 40. [Commonwealth of Massachusetts, leyes y documentos históricos](https://www.mass.gov/info-details/massachusetts-historical-laws-and-legal-documents).
 41. [Cambridge Platform de 1648, edición histórica en Library of Congress](https://www.loc.gov/item/tmp96029039/).
 42. [Congregational Library & Archives, genealogías y fondos de iglesias](https://congregationallibrary.org/researching-congregational-story).
+43. [BWA y World Methodist Council, informe del diálogo internacional](https://www.baptistworld.org/wp-content/uploads/dialogues/Final-Report-of-the-International-Dialogue-between-BWA-and-WMC.pdf).
+44. [Quakers in Britain, Quaker Faith and Practice](https://qfp.quaker.org.uk/).
