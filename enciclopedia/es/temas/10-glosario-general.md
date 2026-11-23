@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2127
+palabras: 2169
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -70,6 +70,11 @@ fuentes:
   - "https://gc.adventist.org/beliefs/"
   - "https://www.jw.org/en/library/books/2025-Service-Year-Report-of-Jehovahs-Witnesses-Worldwide/2025-Grand-Totals/"
   - "https://www.jw.org/en/jehovahs-witnesses/faq/how-many-jw/"
+  - "https://popups.uliege.be/1370-2262/index.php?id=656&lang=en"
+  - "https://www.persee.fr/doc/rbph_0035-0818_2019_num_97_2_9284"
+  - "https://africabib.org/rec.php?RID=192827197"
+  - "https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB"
+  - "https://assets.cambridge.org/97811070/54431/frontmatter/9781107054431_frontmatter.pdf"
 ---
 
 # Glosario general
@@ -336,6 +341,12 @@ En las iglesias [[bautistas|bautistas]], bautismo de creyentes indica que se req
 
 En el [[adventismo|adventismo del séptimo día]], juicio investigador designa un juicio previo a la segunda venida, vinculado a la fase del ministerio celestial de Cristo que la confesión sitúa a partir de 1844. Entre los [[testigos|Testigos de Jehová]], publicador es quien participa en la predicación de acuerdo con los criterios de la congregación. [44, 45, 46]
 
+## E18.4 · Kitawala, Kimbanguismo, Iglesia Nazaret Bautista de Shembe
+
+### Relegación, Nueva Jerusalén y amaNazaretha
+
+Relegación designa una medida colonial de traslado y residencia impuesta que afectó a comunidades relacionadas con [[kitawala|Kitawala]] y el [[kimbangu|kimbanguismo]]. Nueva Jerusalén puede designar Nkamba en el vocabulario kimbanguista. AmaNazaretha es una denominación empleada para los fieles de la [[shembe|Iglesia Nazaret Bautista]]. [47, 48, 49, 50, 51]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -405,3 +416,8 @@ En el [[adventismo|adventismo del séptimo día]], juicio investigador designa u
 44. [Asociación General de los Adventistas del Séptimo Día, declaración de creencias fundamentales](https://gc.adventist.org/beliefs/).
 45. [Testigos de Jehová, totales mundiales del año de servicio de 2025](https://www.jw.org/en/library/books/2025-Service-Year-Report-of-Jehovahs-Witnesses-Worldwide/2025-Grand-Totals/).
 46. [Testigos de Jehová, definición y recuento de publicadores](https://www.jw.org/en/jehovahs-witnesses/faq/how-many-jw/).
+47. [Estudio sobre la administración colonial y la relegación en el Congo belga, Université de Liège](https://popups.uliege.be/1370-2262/index.php?id=656&lang=en).
+48. [Revue belge de Philologie et d’Histoire, represión y relegación en el Congo belga](https://www.persee.fr/doc/rbph_0035-0818_2019_num_97_2_9284).
+49. [The Beloved City. Commentary on a Kimbanguist Text](https://africabib.org/rec.php?RID=192827197).
+50. [Joel Cabrita, Text and Authority in the South African Nazaretha Church (Cambridge University Press)](https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB).
+51. [Bibliografía de colecciones de historias orales y textos nazarenos, Joel Cabrita](https://assets.cambridge.org/97811070/54431/frontmatter/9781107054431_frontmatter.pdf).

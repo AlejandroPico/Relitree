@@ -1,6 +1,6 @@
 {
   "name": "relitree",
-  "version": "1.7.60",
+  "version": "1.7.61",
   "scripts": {
     "datos": "cd backend && python -m relitree.construir",
     "start": "npm run datos && ng serve --open",

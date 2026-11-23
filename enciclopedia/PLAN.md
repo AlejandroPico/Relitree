@@ -340,7 +340,7 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 
 ## Fase E18 · Cristianismo · tradiciones (5/9)
 
-**Estado.** Publicadas las entregas 18.1-18.3 hasta la versión 1.7.60. Desde E18, las fichas principales se publican con al menos 10.000 palabras de cuerpo y seis recursos visuales.
+**Estado.** Publicadas las entregas 18.1–18.4. La última versión de E18 es 1.7.61. Desde E18, cada ficha principal incluye al menos 10.000 palabras de cuerpo y seis figuras.
 
 - [x] 18.1 · [Puritanismo](es/religiones/puritanismo.md). 10.017 palabras de cuerpo y 6 figuras.
 - [x] 18.1 · [Congregacionalismo](es/religiones/congregacionalismo.md). 10.001 palabras de cuerpo y 6 figuras.
@@ -348,7 +348,9 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 - [x] 18.2 · [Cuáqueros](es/religiones/cuaqueros.md). 10.026 palabras de cuerpo y 6 figuras.
 - [x] 18.3 · [Adventismo](es/religiones/adventismo.md). 10.046 palabras de cuerpo y 6 figuras.
 - [x] 18.3 · [Testigos de Jehová](es/religiones/testigos.md). 10.076 palabras de cuerpo y 6 figuras.
-- [ ] 18.4 · Kitawala (`kitawala`), kimbanguismo (`kimbangu`) e Iglesia Nazaret Bautista de Shembe (`shembe`).
+- [x] 18.4 · [Kitawala](es/religiones/kitawala.md). 10.033 palabras de cuerpo y 6 figuras.
+- [x] 18.4 · [Kimbanguismo](es/religiones/kimbangu.md). 10.027 palabras de cuerpo y 6 figuras.
+- [x] 18.4 · [Iglesia Nazaret Bautista de Shembe](es/religiones/shembe.md). 10.032 palabras de cuerpo y 6 figuras.
 - [ ] 18.5 · Iglesia ni Cristo (`inc`) e Israelitas del Nuevo Pacto Universal (`israelitas`).
 - [ ] 18.6 · Reino Celestial Taiping (`taiping`).
 

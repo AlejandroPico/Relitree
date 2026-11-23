@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1991
+palabras: 2034
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -63,6 +63,12 @@ fuentes:
   - "https://www.nobelprize.org/prizes/peace/1947/summary/"
   - "https://gc.adventist.org/brand-identity/"
   - "https://encyclopedia.ushmm.org/content/en/article/nazi-persecution-of-jehovahs-witnesses"
+  - "https://ora.ox.ac.uk/objects/uuid%3Aa54ec9cf-31da-4172-96c8-d167162f9c8f"
+  - "https://www.cambridge.org/core/elements/jehovahs-witnesses/605AED05C9FA13DC68BB74FE3D2C651D"
+  - "https://www.psupress.org/books/titles/978-0-271-07755-0.html"
+  - "https://africabib.org/rec.php?RID=192827197"
+  - "https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB"
+  - "https://www.timeslive.co.za/news/south-africa/2023-01-08-in-pictures-thousands-embark-on-shembe-holy-pilgrimage/"
 ---
 
 # Simbología religiosa comparada
@@ -223,6 +229,12 @@ El bautisterio y el púlpito ayudan a leer el espacio de una [[bautistas|iglesia
 
 En la identidad visual de la Iglesia del Séptimo Día, perteneciente al [[adventismo]], la Biblia abierta y la llama remiten a su interpretación del mensaje que debe difundirse. El triángulo púrpura empleado para identificar a numerosos [[testigos|Testigos de Jehová]] presos bajo el nazismo se conserva hoy en objetos y exposiciones que recuerdan la persecución. [47, 48]
 
+## E18.4 · Kitawala, Kimbanguismo, Iglesia Nazaret Bautista de Shembe
+
+### Imágenes de Watch Tower, Nkamba y la Iglesia Nazaret Bautista
+
+La torre de las publicaciones de Watch Tower documenta el origen de una referencia que circuló en el ámbito de [[kitawala|Kitawala]]. Los espacios de [[kimbangu|Nkamba]] y la indumentaria de reuniones de la [[shembe|Iglesia de Shembe]] permiten comparar formas visuales de memoria y pertenencia. [49, 50, 51, 52, 53, 54]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -286,3 +298,9 @@ En la identidad visual de la Iglesia del Séptimo Día, perteneciente al [[adven
 46. [Nobel Prize, Premio Nobel de la Paz de 1947](https://www.nobelprize.org/prizes/peace/1947/summary/).
 47. [Iglesia Adventista del Séptimo Día, documentación de identidad visual](https://gc.adventist.org/brand-identity/).
 48. [United States Holocaust Memorial Museum, persecución de los Testigos de Jehová bajo el nazismo](https://encyclopedia.ushmm.org/content/en/article/nazi-persecution-of-jehovahs-witnesses).
+49. [Sholto Cross, The Watch Tower Movement in South Central Africa, 1908–1945 (Universidad de Oxford)](https://ora.ox.ac.uk/objects/uuid%3Aa54ec9cf-31da-4172-96c8-d167162f9c8f).
+50. [Jolene Chu y Ollimatti Peltonen, Jehovah’s Witnesses (Cambridge University Press), autores vinculados a la confesión](https://www.cambridge.org/core/elements/jehovahs-witnesses/605AED05C9FA13DC68BB74FE3D2C651D).
+51. [Aurélien Mokoko Gampiot, Kimbanguism. An African Understanding of the Bible (Penn State University Press)](https://www.psupress.org/books/titles/978-0-271-07755-0.html).
+52. [The Beloved City. Commentary on a Kimbanguist Text](https://africabib.org/rec.php?RID=192827197).
+53. [Joel Cabrita, Text and Authority in the South African Nazaretha Church (Cambridge University Press)](https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB).
+54. [TimesLIVE, reportaje fotográfico de una peregrinación de Shembe, enero de 2023](https://www.timeslive.co.za/news/south-africa/2023-01-08-in-pictures-thousands-embark-on-shembe-holy-pilgrimage/).

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1855
+palabras: 1899
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -61,6 +61,11 @@ fuentes:
   - "https://qfp.quaker.org.uk/"
   - "https://gc.adventist.org/beliefs/"
   - "https://www.jw.org/es/testigos-de-jehov%C3%A1/preguntas-frecuentes/cena-del-se%C3%B1or/"
+  - "https://ohioopen.library.ohio.edu/oupress/25/"
+  - "https://www.cambridge.org/core/journals/africa/article/abs/mukombozi-and-the-monganga-the-violence-of-healing-in-the-1944-kitawalist-uprising/A2C36F658E7251BFC32BF4555EDDCE1C"
+  - "https://www.presidence.cd/actualite-detail/actualite/simon_kimbangu_kiangani_remercie_le_chef_de_letat_pour_avoir_decrete_la_date_du_6_avril_comme_journee_feriee_et_payee_en_rdc"
+  - "https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB"
+  - "https://sahistory.org.za/place/nhlangakazi-holy-mountain-shembe"
 ---
 
 # Calendarios y festividades del mundo
@@ -221,6 +226,12 @@ Las [[bautistas|iglesias bautistas]] organizan su calendario de culto y Cena con
 
 El [[adventismo|adventismo del séptimo día]] guarda el sábado desde la puesta de sol del viernes hasta la del sábado. Los [[testigos|Testigos de Jehová]] celebran anualmente la Conmemoración de la muerte de Cristo según su cómputo del 14 de nisán, después de la puesta de sol. La fecha civil de la Conmemoración se anuncia para cada año. [45, 46]
 
+## E18.4 · Kitawala, Kimbanguismo, Iglesia Nazaret Bautista de Shembe
+
+### Tiempo colonial, conmemoración kimbanguista y sábado de Shembe
+
+La reconstrucción de [[kitawala|Kitawala]] distingue la cronología de los expedientes de las prácticas de comunidades concretas. El [[kimbangu|kimbanguismo]] conmemora el comienzo de la misión el 6 de abril. En la [[shembe|Iglesia Nazaret Bautista]] se documentan la observancia del sábado y las peregrinaciones de Nhlangakazi. [47, 48, 49, 50, 51]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -281,3 +292,8 @@ El [[adventismo|adventismo del séptimo día]] guarda el sábado desde la puesta
 44. [Quakers in Britain, Quaker Faith and Practice](https://qfp.quaker.org.uk/).
 45. [Asociación General de los Adventistas del Séptimo Día, declaración de creencias fundamentales](https://gc.adventist.org/beliefs/).
 46. [Testigos de Jehová, sentido y práctica de la Cena del Señor](https://www.jw.org/es/testigos-de-jehov%C3%A1/preguntas-frecuentes/cena-del-se%C3%B1or/).
+47. [Nicole Eggers, Unruly Ideas. A History of Kitawala in Congo (Ohio University Press, 2023)](https://ohioopen.library.ohio.edu/oupress/25/).
+48. [Nicole Eggers, Mukombozi and the Monganga. The Violence of Healing in the 1944 Kitawalist Uprising (Africa, 2015)](https://www.cambridge.org/core/journals/africa/article/abs/mukombozi-and-the-monganga-the-violence-of-healing-in-the-1944-kitawalist-uprising/A2C36F658E7251BFC32BF4555EDDCE1C).
+49. [Presidencia de la RDC, declaración del 6 de abril como jornada festiva en 2023](https://www.presidence.cd/actualite-detail/actualite/simon_kimbangu_kiangani_remercie_le_chef_de_letat_pour_avoir_decrete_la_date_du_6_avril_comme_journee_feriee_et_payee_en_rdc).
+50. [Joel Cabrita, Text and Authority in the South African Nazaretha Church (Cambridge University Press)](https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB).
+51. [South African History Online, Nhlangakazi, la montaña sagrada de Shembe](https://sahistory.org.za/place/nhlangakazi-holy-mountain-shembe).

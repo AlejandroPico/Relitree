@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2193
+palabras: 2238
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -62,6 +62,12 @@ fuentes:
   - "https://gc.adventist.org/beliefs/"
   - "https://whiteestate.org/about/egwbio/"
   - "https://www.jw.org/en/library/books/Reasoning-From-the-Scriptures/New-World-Translation/"
+  - "https://ohioopen.library.ohio.edu/oupress/25/"
+  - "https://ora.ox.ac.uk/objects/uuid%3Aa54ec9cf-31da-4172-96c8-d167162f9c8f"
+  - "https://www.cdamm.org/articles/kimbanguism"
+  - "https://www.psupress.org/books/titles/978-0-271-07755-0.html"
+  - "https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB"
+  - "https://assets.cambridge.org/97811070/54431/frontmatter/9781107054431_frontmatter.pdf"
 ---
 
 # Textos sagrados del mundo comparados
@@ -236,6 +242,12 @@ Las [[bautistas|iglesias bautistas]] han adoptado confesiones distintas, como la
 
 En el [[adventismo|adventismo del séptimo día]], Daniel y Hebreos se ponen en relación al explicar el santuario celestial. La tradición reconoce en Ellen White el don de profecía y remite a la Biblia como criterio doctrinal. Los [[testigos|Testigos de Jehová]] publicaron por etapas la Traducción del Nuevo Mundo. La primera parte salió en inglés en 1950 y la edición completa en inglés apareció en 1961. [43, 44, 45]
 
+## E18.4 · Kitawala, Kimbanguismo, Iglesia Nazaret Bautista de Shembe
+
+### Biblia, relatos e himnos en tres tradiciones africanas
+
+[[kitawala|Kitawala]] se desarrolló con lecturas bíblicas y predicación transmitidas por vías distintas. En el [[kimbangu|kimbanguismo]] los himnos recibidos como inspirados participan en la interpretación comunitaria. La [[shembe|Iglesia Nazaret Bautista]] produjo recopilaciones de relatos y enseñanzas cuya historia se puede seguir junto a la práctica oral. [46, 47, 48, 49, 50, 51]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -297,3 +309,9 @@ En el [[adventismo|adventismo del séptimo día]], Daniel y Hebreos se ponen en 
 43. [Asociación General de los Adventistas del Séptimo Día, declaración de creencias fundamentales](https://gc.adventist.org/beliefs/).
 44. [Ellen G. White Estate, biografía de Ellen G. White](https://whiteestate.org/about/egwbio/).
 45. [Watchtower Online Library, explicación de la Traducción del Nuevo Mundo](https://www.jw.org/en/library/books/Reasoning-From-the-Scriptures/New-World-Translation/).
+46. [Nicole Eggers, Unruly Ideas. A History of Kitawala in Congo (Ohio University Press, 2023)](https://ohioopen.library.ohio.edu/oupress/25/).
+47. [Sholto Cross, The Watch Tower Movement in South Central Africa, 1908–1945 (Universidad de Oxford)](https://ora.ox.ac.uk/objects/uuid%3Aa54ec9cf-31da-4172-96c8-d167162f9c8f).
+48. [Aurélien Mokoko Gampiot, Kimbanguism, Critical Dictionary of Apocalyptic and Millenarian Movements](https://www.cdamm.org/articles/kimbanguism).
+49. [Aurélien Mokoko Gampiot, Kimbanguism. An African Understanding of the Bible (Penn State University Press)](https://www.psupress.org/books/titles/978-0-271-07755-0.html).
+50. [Joel Cabrita, Text and Authority in the South African Nazaretha Church (Cambridge University Press)](https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB).
+51. [Bibliografía de colecciones de historias orales y textos nazarenos, Joel Cabrita](https://assets.cambridge.org/97811070/54431/frontmatter/9781107054431_frontmatter.pdf).

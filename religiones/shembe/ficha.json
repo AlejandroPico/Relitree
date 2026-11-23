@@ -1,7 +1,7 @@
 {
   "id": "shembe",
   "region": "afr",
-  "inicio": 1910,
+  "inicio": 1911,
   "fin": null,
   "tipo": "sin",
   "importancia": 1,
@@ -14,5 +14,6 @@
   "influencias": [
     "zulu"
   ],
-  "icono": null
+  "icono": null,
+  "heredar_icono": false
 }

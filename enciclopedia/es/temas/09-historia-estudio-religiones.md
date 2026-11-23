@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1950
+palabras: 1988
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -78,6 +78,10 @@ fuentes:
   - "https://digitalcommons.andrews.edu/dissertations/102/"
   - "https://doi.org/10.1111/j.1467-9809.2010.01030.x"
   - "https://doi.org/10.1057/978-1-137-39605-1"
+  - "https://ohioopen.library.ohio.edu/oupress/25/"
+  - "https://doi.org/10.1080/17531055.2019.1708544"
+  - "https://www.psupress.org/books/titles/978-0-271-07755-0.html"
+  - "https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB"
 ---
 
 # Historia del estudio de las religiones
@@ -242,6 +246,12 @@ La carta de Rhode Island permite estudiar el paso de la defensa [[bautistas|baut
 
 Andrew Gordon Mustard estudió las decisiones de organización de los primeros adventistas del séptimo día y la labor de James White en relación con el [[adventismo]]. Zoe Knox examinó la historiografía de los [[testigos|Testigos de Jehová]] y los problemas de reconstruir su historia con fuentes institucionales, polémicas y de archivo. [54, 55, 56]
 
+## E18.4 · Kitawala, Kimbanguismo, Iglesia Nazaret Bautista de Shembe
+
+### Tres formas de reconstruir la autoridad religiosa
+
+Nicole Eggers contrastó archivos coloniales y testimonios sobre [[kitawala|Kitawala]]. Aurélien Mokoko Gampiot estudió la comprensión africana de la Biblia en el [[kimbangu|kimbanguismo]]. Joel Cabrita analizó la historia de los textos y la autoridad de la [[shembe|Iglesia Nazaret Bautista]]. [57, 58, 59, 60]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -319,3 +329,7 @@ Andrew Gordon Mustard estudió las decisiones de organización de los primeros a
 54. [Andrew Gordon Mustard, James White and the Development of Seventh-day Adventist Organization](https://digitalcommons.andrews.edu/dissertations/102/).
 55. [Zoe Knox, Writing Witness History (Journal of Religious History, 2011)](https://doi.org/10.1111/j.1467-9809.2010.01030.x).
 56. [Zoe Knox, Jehovah’s Witnesses and the Secular World (Palgrave Macmillan, 2018)](https://doi.org/10.1057/978-1-137-39605-1).
+57. [Nicole Eggers, Unruly Ideas. A History of Kitawala in Congo (Ohio University Press, 2023)](https://ohioopen.library.ohio.edu/oupress/25/).
+58. [Nicole Eggers, Authority that is Customary. Kitawala, Customary Chiefs, and the Plurality of Power in Congolese History](https://doi.org/10.1080/17531055.2019.1708544).
+59. [Aurélien Mokoko Gampiot, Kimbanguism. An African Understanding of the Bible (Penn State University Press)](https://www.psupress.org/books/titles/978-0-271-07755-0.html).
+60. [Joel Cabrita, Text and Authority in the South African Nazaretha Church (Cambridge University Press)](https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB).

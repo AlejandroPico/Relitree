@@ -5,12 +5,10 @@
   "fin": null,
   "tipo": "mon",
   "importancia": 1,
-  "padres": [
-    {
-      "id": "testigos",
-      "relacion": "derivacion"
-    }
+  "padres": [],
+  "influencias": [
+    "testigos"
   ],
-  "influencias": [],
-  "icono": null
+  "icono": null,
+  "heredar_icono": false
 }

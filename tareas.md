@@ -4,6 +4,9 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E18 · 18.4. [Kitawala](enciclopedia/es/religiones/kitawala.md), [Kimbanguismo](enciclopedia/es/religiones/kimbangu.md), [Iglesia Nazaret Bautista de Shembe](enciclopedia/es/religiones/shembe.md). Versión 1.7.61.
+  - Se actualizaron los seis temas comparativos de E01 y se verificaron las figuras, las referencias y el recuento de cuerpo.
+
 - [x] E18 · 18.3. [Adventismo](enciclopedia/es/religiones/adventismo.md), 10.046 palabras de cuerpo y 6 figuras. [Testigos de Jehová](enciclopedia/es/religiones/testigos.md), 10.076 palabras de cuerpo y 6 figuras. Versión 1.7.60.
   - Se actualizan los seis temas de E01. Se documentan la procedencia y el alcance de las cifras y del material visual.
   - Se retira el pez cristiano genérico que seguía apareciendo como icono específico de las iglesias bautistas.
