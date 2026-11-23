@@ -5,14 +5,12 @@
   "fin": null,
   "tipo": "mon",
   "importancia": 2,
-  "padres": [
-    {
-      "id": "adventismo",
-      "relacion": "derivacion"
-    }
+  "padres": [],
+  "influencias": [
+    "adventismo"
   ],
-  "influencias": [],
   "icono": null,
   "fieles": 9205326,
-  "fieles_fuente": "Informe anual de los Testigos de Jehová, 2025 (máximo de publicadores)"
+  "fieles_fuente": "Informe anual de los Testigos de Jehová, 2025 (máximo de publicadores)",
+  "heredar_icono": false
 }

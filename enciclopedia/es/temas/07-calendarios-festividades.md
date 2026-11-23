@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1799
+palabras: 1855
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -59,6 +59,8 @@ fuentes:
   - "https://congregationallibrary.org/researching-congregational-story"
   - "https://www.baptistworld.org/wp-content/uploads/dialogues/Final-Report-of-the-International-Dialogue-between-BWA-and-WMC.pdf"
   - "https://qfp.quaker.org.uk/"
+  - "https://gc.adventist.org/beliefs/"
+  - "https://www.jw.org/es/testigos-de-jehov%C3%A1/preguntas-frecuentes/cena-del-se%C3%B1or/"
 ---
 
 # Calendarios y festividades del mundo
@@ -213,6 +215,12 @@ Las discusiones del [[puritanismo|puritanismo]] sobre el domingo y las fiestas d
 
 Las [[bautistas|iglesias bautistas]] organizan su calendario de culto y Cena con frecuencias locales. En el ámbito [[cuaqueros|cuáquero]], el uso histórico de nombres numéricos para días y meses requiere distinguirlo de las convenciones civiles vigentes al fechar los documentos. Las reuniones anuales marcan también tiempos de gobierno y encuentro. [43, 44]
 
+## E18.3 · Adventismo y Testigos de Jehová
+
+### Sábado adventista y Conmemoración de los Testigos de Jehová
+
+El [[adventismo|adventismo del séptimo día]] guarda el sábado desde la puesta de sol del viernes hasta la del sábado. Los [[testigos|Testigos de Jehová]] celebran anualmente la Conmemoración de la muerte de Cristo según su cómputo del 14 de nisán, después de la puesta de sol. La fecha civil de la Conmemoración se anuncia para cada año. [45, 46]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -271,3 +279,5 @@ Las [[bautistas|iglesias bautistas]] organizan su calendario de culto y Cena con
 42. [Congregational Library & Archives, genealogías y fondos de iglesias](https://congregationallibrary.org/researching-congregational-story).
 43. [BWA y World Methodist Council, informe del diálogo internacional](https://www.baptistworld.org/wp-content/uploads/dialogues/Final-Report-of-the-International-Dialogue-between-BWA-and-WMC.pdf).
 44. [Quakers in Britain, Quaker Faith and Practice](https://qfp.quaker.org.uk/).
+45. [Asociación General de los Adventistas del Séptimo Día, declaración de creencias fundamentales](https://gc.adventist.org/beliefs/).
+46. [Testigos de Jehová, sentido y práctica de la Cena del Señor](https://www.jw.org/es/testigos-de-jehov%C3%A1/preguntas-frecuentes/cena-del-se%C3%B1or/).

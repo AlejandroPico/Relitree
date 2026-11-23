@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2128
+palabras: 2193
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -59,6 +59,9 @@ fuentes:
   - "https://baptiststudiesonline.com/confessions-of-faith/"
   - "https://www.saet.ac.uk/Christianity/QuakerTheology"
   - "https://qfp.quaker.org.uk/"
+  - "https://gc.adventist.org/beliefs/"
+  - "https://whiteestate.org/about/egwbio/"
+  - "https://www.jw.org/en/library/books/Reasoning-From-the-Scriptures/New-World-Translation/"
 ---
 
 # Textos sagrados del mundo comparados
@@ -227,6 +230,12 @@ En el [[puritanismo|puritanismo]], la Biblia de Ginebra y los catecismos se usar
 
 Las [[bautistas|iglesias bautistas]] han adoptado confesiones distintas, como las de Londres, para explicar la relación entre Escritura, bautismo y pertenencia. En los [[cuaqueros|cuáqueros]], la Apología de Robert Barclay y los libros de fe y práctica permiten distinguir la defensa teológica temprana de las orientaciones de una reunión anual actual. [40, 41, 42]
 
+## E18.3 · Adventismo y Testigos de Jehová
+
+### Biblia, profecía y traducción en dos tradiciones norteamericanas
+
+En el [[adventismo|adventismo del séptimo día]], Daniel y Hebreos se ponen en relación al explicar el santuario celestial. La tradición reconoce en Ellen White el don de profecía y remite a la Biblia como criterio doctrinal. Los [[testigos|Testigos de Jehová]] publicaron por etapas la Traducción del Nuevo Mundo. La primera parte salió en inglés en 1950 y la edición completa en inglés apareció en 1961. [43, 44, 45]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -285,3 +294,6 @@ Las [[bautistas|iglesias bautistas]] han adoptado confesiones distintas, como la
 40. [Baptist Studies Online, Confessions of Faith](https://baptiststudiesonline.com/confessions-of-faith/).
 41. [St Andrews Encyclopaedia of Theology, Quaker Theology](https://www.saet.ac.uk/Christianity/QuakerTheology).
 42. [Quakers in Britain, Quaker Faith and Practice](https://qfp.quaker.org.uk/).
+43. [Asociación General de los Adventistas del Séptimo Día, declaración de creencias fundamentales](https://gc.adventist.org/beliefs/).
+44. [Ellen G. White Estate, biografía de Ellen G. White](https://whiteestate.org/about/egwbio/).
+45. [Watchtower Online Library, explicación de la Traducción del Nuevo Mundo](https://www.jw.org/en/library/books/Reasoning-From-the-Scriptures/New-World-Translation/).

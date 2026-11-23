@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1900
+palabras: 1950
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -75,6 +75,9 @@ fuentes:
   - "https://www.nps.gov/rowi/learn/historyculture/johnclarke.htm"
   - "https://qfp.quaker.org.uk/passage/24-29/"
   - "https://riheritagehalloffame.com/mary-dyer/"
+  - "https://digitalcommons.andrews.edu/dissertations/102/"
+  - "https://doi.org/10.1111/j.1467-9809.2010.01030.x"
+  - "https://doi.org/10.1057/978-1-137-39605-1"
 ---
 
 # Historia del estudio de las religiones
@@ -233,6 +236,12 @@ Las peticiones y las normas de conformidad permiten reconstruir proyectos de ref
 
 La carta de Rhode Island permite estudiar el paso de la defensa [[bautistas|bautista]] de la conciencia a un marco jurídico colonial. La persecución de [[cuaqueros|los Amigos]] en Massachusetts y la declaración de paz dirigida a Carlos II ilustran respuestas a autoridades que concebían de modo diferente el orden religioso. [50, 51, 52, 53]
 
+## E18.3 · Adventismo y Testigos de Jehová
+
+### Predicación, archivos y libertad de conciencia
+
+Andrew Gordon Mustard estudió las decisiones de organización de los primeros adventistas del séptimo día y la labor de James White en relación con el [[adventismo]]. Zoe Knox examinó la historiografía de los [[testigos|Testigos de Jehová]] y los problemas de reconstruir su historia con fuentes institucionales, polémicas y de archivo. [54, 55, 56]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -307,3 +316,6 @@ La carta de Rhode Island permite estudiar el paso de la defensa [[bautistas|baut
 51. [National Park Service, John Clarke](https://www.nps.gov/rowi/learn/historyculture/johnclarke.htm).
 52. [Quaker Faith and Practice, declaración a Carlos II](https://qfp.quaker.org.uk/passage/24-29/).
 53. [Rhode Island Heritage Hall of Fame, Mary Dyer](https://riheritagehalloffame.com/mary-dyer/).
+54. [Andrew Gordon Mustard, James White and the Development of Seventh-day Adventist Organization](https://digitalcommons.andrews.edu/dissertations/102/).
+55. [Zoe Knox, Writing Witness History (Journal of Religious History, 2011)](https://doi.org/10.1111/j.1467-9809.2010.01030.x).
+56. [Zoe Knox, Jehovah’s Witnesses and the Secular World (Palgrave Macmillan, 2018)](https://doi.org/10.1057/978-1-137-39605-1).

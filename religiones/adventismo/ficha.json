@@ -5,14 +5,8 @@
   "fin": null,
   "tipo": "mon",
   "importancia": 2,
-  "padres": [
-    {
-      "id": "bautistas",
-      "relacion": "derivacion"
-    }
-  ],
+  "padres": [],
   "influencias": [],
   "icono": null,
-  "fieles": 23600000,
-  "fieles_fuente": "Wikipedia, List of Christian denominations by number of members"
+  "heredar_icono": false
 }

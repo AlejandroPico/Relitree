@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2074
+palabras: 2127
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -67,6 +67,9 @@ fuentes:
   - "https://www.baptistworld.org/wp-content/uploads/dialogues/Final-Report-of-the-International-Dialogue-between-BWA-and-WMC.pdf"
   - "https://qfp.quaker.org.uk/"
   - "https://qfp.quaker.org.uk/passage/3-10/"
+  - "https://gc.adventist.org/beliefs/"
+  - "https://www.jw.org/en/library/books/2025-Service-Year-Report-of-Jehovahs-Witnesses-Worldwide/2025-Grand-Totals/"
+  - "https://www.jw.org/en/jehovahs-witnesses/faq/how-many-jw/"
 ---
 
 # Glosario general
@@ -327,6 +330,12 @@ Libro copto de las horas de oración diaria. En la [[copta|Iglesia copta]] se di
 
 En las iglesias [[bautistas|bautistas]], bautismo de creyentes indica que se requiere profesión personal de fe. En el ámbito [[cuaqueros|cuáquero]], el sentido de la reunión es la orientación común que se intenta discernir y recoger en minuta al tomar una decisión. [40, 41, 42, 43]
 
+## E18.3 · Adventismo y Testigos de Jehová
+
+### Juicio investigador y publicador
+
+En el [[adventismo|adventismo del séptimo día]], juicio investigador designa un juicio previo a la segunda venida, vinculado a la fase del ministerio celestial de Cristo que la confesión sitúa a partir de 1844. Entre los [[testigos|Testigos de Jehová]], publicador es quien participa en la predicación de acuerdo con los criterios de la congregación. [44, 45, 46]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -393,3 +402,6 @@ En las iglesias [[bautistas|bautistas]], bautismo de creyentes indica que se req
 41. [BWA y World Methodist Council, informe del diálogo internacional](https://www.baptistworld.org/wp-content/uploads/dialogues/Final-Report-of-the-International-Dialogue-between-BWA-and-WMC.pdf).
 42. [Quakers in Britain, Quaker Faith and Practice](https://qfp.quaker.org.uk/).
 43. [Quaker Faith and Practice, consejos a quienes coordinan reuniones](https://qfp.quaker.org.uk/passage/3-10/).
+44. [Asociación General de los Adventistas del Séptimo Día, declaración de creencias fundamentales](https://gc.adventist.org/beliefs/).
+45. [Testigos de Jehová, totales mundiales del año de servicio de 2025](https://www.jw.org/en/library/books/2025-Service-Year-Report-of-Jehovahs-Witnesses-Worldwide/2025-Grand-Totals/).
+46. [Testigos de Jehová, definición y recuento de publicadores](https://www.jw.org/en/jehovahs-witnesses/faq/how-many-jw/).

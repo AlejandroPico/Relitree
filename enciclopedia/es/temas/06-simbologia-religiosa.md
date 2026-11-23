@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1937
+palabras: 1991
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -61,6 +61,8 @@ fuentes:
   - "https://www.baptistworld.org/wp-content/uploads/dialogues/Final-Report-of-the-International-Dialogue-between-BWA-and-WMC.pdf"
   - "https://afsc.org/news/whats-our-new-afsc-logo"
   - "https://www.nobelprize.org/prizes/peace/1947/summary/"
+  - "https://gc.adventist.org/brand-identity/"
+  - "https://encyclopedia.ushmm.org/content/en/article/nazi-persecution-of-jehovahs-witnesses"
 ---
 
 # Simbología religiosa comparada
@@ -215,6 +217,12 @@ Los retratos, los documentos de Nueva Inglaterra y la recreación de Westminster
 
 El bautisterio y el púlpito ayudan a leer el espacio de una [[bautistas|iglesia bautista]]. La estrella usada en el socorro [[cuaqueros|cuáquero]] tiene una trayectoria documentada en organismos concretos, como el American Friends Service Committee. Su uso histórico señala un trabajo de servicio. [44, 45, 46]
 
+## E18.3 · Adventismo y Testigos de Jehová
+
+### Un emblema adventista y una marca de persecución
+
+En la identidad visual de la Iglesia del Séptimo Día, perteneciente al [[adventismo]], la Biblia abierta y la llama remiten a su interpretación del mensaje que debe difundirse. El triángulo púrpura empleado para identificar a numerosos [[testigos|Testigos de Jehová]] presos bajo el nazismo se conserva hoy en objetos y exposiciones que recuerdan la persecución. [47, 48]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -276,3 +284,5 @@ El bautisterio y el púlpito ayudan a leer el espacio de una [[bautistas|iglesia
 44. [BWA y World Methodist Council, informe del diálogo internacional](https://www.baptistworld.org/wp-content/uploads/dialogues/Final-Report-of-the-International-Dialogue-between-BWA-and-WMC.pdf).
 45. [American Friends Service Committee, la estrella y su identidad visual](https://afsc.org/news/whats-our-new-afsc-logo).
 46. [Nobel Prize, Premio Nobel de la Paz de 1947](https://www.nobelprize.org/prizes/peace/1947/summary/).
+47. [Iglesia Adventista del Séptimo Día, documentación de identidad visual](https://gc.adventist.org/brand-identity/).
+48. [United States Holocaust Memorial Museum, persecución de los Testigos de Jehová bajo el nazismo](https://encyclopedia.ushmm.org/content/en/article/nazi-persecution-of-jehovahs-witnesses).

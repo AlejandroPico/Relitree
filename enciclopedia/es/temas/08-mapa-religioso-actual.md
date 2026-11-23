@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1916
+palabras: 1980
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -68,6 +68,9 @@ fuentes:
   - "https://baptistworld.org/press-releases/bwa-welcomes-17-new-members/"
   - "https://www.friendsunitedmeeting.org/where-we-work/africa"
   - "https://fwcc.world/resources_cpt/map-finding-quakers-around-the-world/"
+  - "https://documents.adventistarchives.org/Statistics/Other/GC2025_ASTReport.pdf"
+  - "https://www.jw.org/en/library/books/2025-Service-Year-Report-of-Jehovahs-Witnesses-Worldwide/2025-Grand-Totals/"
+  - "https://www.jw.org/en/jehovahs-witnesses/faq/how-many-jw/"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -232,6 +235,12 @@ El [[puritanismo|puritanismo]] se estudia por redes inglesas y colonias atlánti
 
 Los datos de la Alianza Bautista Mundial corresponden a las organizaciones [[bautistas|bautistas]] afiliadas. En el mapa [[cuaqueros|cuáquero]], el comité mundial permite localizar reuniones anuales de diferentes corrientes, y las fuentes de África oriental documentan la importancia de sus iglesias en Kenia y en países vecinos. [46, 47, 48, 49]
 
+## E18.3 · Adventismo y Testigos de Jehová
+
+### Miembros registrados y publicadores
+
+La Asociación General adventista publica series de miembros registrados que corresponden a la Iglesia del Séptimo Día, una rama del [[adventismo]]. Los [[testigos|Testigos de Jehová]] registraron un máximo de 9.205.326 publicadores durante el año de servicio de 2025, de septiembre de 2024 a agosto de 2025. El término publicador se aplica a participantes en la predicación, entre ellos algunos todavía no bautizados. [50, 51, 52]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -299,3 +308,6 @@ Los datos de la Alianza Bautista Mundial corresponden a las organizaciones [[bau
 47. [Baptist World Alliance, comunicado del Consejo Global de julio de 2025](https://baptistworld.org/press-releases/bwa-welcomes-17-new-members/).
 48. [Friends United Meeting, historia de los Amigos en África oriental](https://www.friendsunitedmeeting.org/where-we-work/africa).
 49. [Friends World Committee for Consultation, mapa de reuniones](https://fwcc.world/resources_cpt/map-finding-quakers-around-the-world/).
+50. [Office of Archives, Statistics, and Research, informe a la sesión de 2025 de la Asociación General](https://documents.adventistarchives.org/Statistics/Other/GC2025_ASTReport.pdf).
+51. [Testigos de Jehová, totales mundiales del año de servicio de 2025](https://www.jw.org/en/library/books/2025-Service-Year-Report-of-Jehovahs-Witnesses-Worldwide/2025-Grand-Totals/).
+52. [Testigos de Jehová, definición y recuento de publicadores](https://www.jw.org/en/jehovahs-witnesses/faq/how-many-jw/).

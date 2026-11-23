@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.59**
+**Versión 1.7.60**
+
+[Entrega 18.3 de la fase E18](enciclopedia/PLAN.md#fase-e18--cristianismo--tradiciones-59). Adventismo y Testigos de Jehová. Cada ficha incluye al menos 10.000 palabras de cuerpo y seis figuras acreditadas.
 
 [Entrega 18.2 de la fase E18](enciclopedia/PLAN.md#fase-e18--cristianismo--tradiciones-59). Iglesias bautistas y cuáqueros. Cada ficha incluye al menos 10.000 palabras de cuerpo y seis figuras acreditadas.
 
