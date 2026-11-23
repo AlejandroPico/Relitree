@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1547
+palabras: 1639
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -41,6 +41,13 @@ fuentes:
   - "https://www.cambridge.org/core/books/making-of-the-dominican-liturgy-and-its-chant/introduction/D580A65AC869EC361DC39495AB147506"
   - "https://chiesavaldese.org/i-culti-i-falo-e-le-iniziative-organizzate-nellambito-delle-celebrazioni-del-17-febbraio/"
   - "https://api.pageplace.de/preview/DT0400.9780801470998_A29967318/preview-9780801470998_A29967318.pdf"
+  - "https://academic.oup.com/reference/62416/reference-article/555921524"
+  - "https://moravianarchives.org/history/"
+  - "https://www.saet.ac.uk/Christianity/LutheranConfessionalism"
+  - "https://www.churchofengland.org/liturgy/book-of-common-prayer"
+  - "https://www.francke-halle.de/en/international/historical-networks"
+  - "https://mwc-cmm.org/wp-content/uploads/2024/11/gmh-europe_testing_faith_and_tradition.pdf"
+  - "https://hutterites.org/history/hutterite-history-overview/"
 ---
 
 # Calendarios y festividades del mundo
@@ -163,6 +170,16 @@ La Pascua organiza parte del calendario de la [[catolica|Iglesia católica]]. En
 
 Los [[valdenses|valdenses]] conmemoran el 17 de febrero los derechos civiles reconocidos en 1848. Para los [[lolardos|lolardos]] hay testimonios de oraciones, reuniones y discusión de prácticas, con información fragmentaria para reconstruir un calendario anual propio. [25, 26]
 
+## E17.1–17.4 · Reformas bohemias, luteranas, anglicanas y anabaptistas
+
+### Liturgia y memoria pública
+
+El recuerdo de Jan Hus el 6 de julio permite estudiar usos confesionales y públicos de la memoria [[husitas|husita]]. El amanecer de Pascua de Herrnhut se difundió entre los [[moravos|hermanos moravos]]. En el [[luteranismo|luteranismo]] y el [[anglicanismo|anglicanismo]] hay calendarios con tradiciones comunes y diferencias por territorio y libro de culto. [27, 28, 29, 30]
+
+### Reuniones y conmemoraciones locales
+
+Las reuniones del [[pietismo|pietismo]] podían acompañar el calendario de una parroquia. En el [[anabaptismo|anabaptismo]], los aniversarios históricos y las celebraciones litúrgicas tienen fechas y alcances propios. Las reuniones y ceremonias de los [[huteritas|huteritas]] se documentan con atención a su colonia y rama. [31, 32, 33]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -203,3 +220,10 @@ Los [[valdenses|valdenses]] conmemoran el 17 de febrero los derechos civiles rec
 24. [Cambridge, The Making of the Dominican Liturgy and Its Chant](https://www.cambridge.org/core/books/making-of-the-dominican-liturgy-and-its-chant/introduction/D580A65AC869EC361DC39495AB147506).
 25. [Chiesa Evangelica Valdese, celebraciones del 17 de febrero](https://chiesavaldese.org/i-culti-i-falo-e-le-iniziative-organizzate-nellambito-delle-celebrazioni-del-17-febbraio/).
 26. [J. Patrick Hornbeck II, What Is a Lollard?, edición académica](https://api.pageplace.de/preview/DT0400.9780801470998_A29967318/preview-9780801470998_A29967318.pdf).
+27. [Oxford Research Encyclopedia, el movimiento husita](https://academic.oup.com/reference/62416/reference-article/555921524).
+28. [Moravian Archives, historia de la Unidad](https://moravianarchives.org/history/).
+29. [St Andrews Encyclopaedia of Theology, Lutheran Confessionalism](https://www.saet.ac.uk/Christianity/LutheranConfessionalism).
+30. [Iglesia de Inglaterra, Book of Common Prayer](https://www.churchofengland.org/liturgy/book-of-common-prayer).
+31. [Fundaciones Francke, redes históricas](https://www.francke-halle.de/en/international/historical-networks).
+32. [Congreso Mundial Menonita, Testing Faith and Tradition](https://mwc-cmm.org/wp-content/uploads/2024/11/gmh-europe_testing_faith_and_tradition.pdf).
+33. [Hutterites.org, historia de las comunidades](https://hutterites.org/history/hutterite-history-overview/).

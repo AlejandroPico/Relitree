@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1661
+palabras: 1759
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -47,6 +47,13 @@ fuentes:
   - "https://www.op.org/overview-and-history/"
   - "https://assets.cambridge.org/97805214/57279/excerpt/9780521457279_excerpt.pdf"
   - "https://ora.ox.ac.uk/objects/uuid%3A1b2acc03-de79-42da-97ac-16b86f2ca1ab/files/m217cb6dcb5c6211dd30fd9d0e044f969"
+  - "https://www.ebu.de/fileadmin/media/unitaet/KO/Church_Order_2023_single_pages.pdf"
+  - "https://lutheranworld.org/member-churches"
+  - "https://www.anglicancommunion.org/media/254161/1-Anglican-Communion-extracts-document.pdf"
+  - "https://mhs.mb.ca/docs/transactions/3/hutterites.shtml"
+  - "https://www.oikoumene.org/member-churches/czechoslovak-hussite-church"
+  - "https://www.francke-halle.de/en/international/historical-networks"
+  - "https://mwc-cmm.org/wp-content/uploads/2024/11/gmh-europe_testing_faith_and_tradition.pdf"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -179,6 +186,16 @@ La [[catolica|Iglesia católica]] comprende Iglesias particulares latinas y orie
 
 El [[templarios|Temple]] tuvo casas europeas y centros en el Mediterráneo oriental. Las redes de [[lolardos|lolardos]] se investigan por testimonios de lectura, predicación y procesos en Inglaterra, en fechas y escalas regionales diferentes. [27, 28]
 
+## E17.1–17.4 · Reformas bohemias, luteranas, anglicanas y anabaptistas
+
+### Iglesias y poblaciones comparables
+
+Para los [[moravos|moravos]], la Unidad establece un orden provincial. La Federación Luterana Mundial informa de sus iglesias miembros, una categoría institucional dentro del [[luteranismo|luteranismo]]. En el [[anglicanismo|anglicanismo]], las provincias autónomas tienen formas propias de registro. Para los [[huteritas|huteritas]], un recuento de residentes en colonias puede tener una base distinta del de miembros bautizados. [29, 30, 31, 32]
+
+### Difusión y recepción histórica
+
+La cifra de la Iglesia husita checoslovaca, fundada en 1920, corresponde a una institución distinta del movimiento [[husitas|husita]] medieval. El [[pietismo|pietismo]] puede cartografiarse por sus redes de escuelas, correspondencia y misión. Para el [[anabaptismo|anabaptismo]], una genealogía de iglesias requiere distinguir fecha, región y filiación documentada. [33, 34, 35]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -225,3 +242,10 @@ El [[templarios|Temple]] tuvo casas europeas y centros en el Mediterráneo orien
 26. [Orden de Predicadores, familia dominicana](https://www.op.org/overview-and-history/).
 27. [Malcolm Barber, The New Knighthood, Cambridge University Press](https://assets.cambridge.org/97805214/57279/excerpt/9780521457279_excerpt.pdf).
 28. [Universidad de Oxford, reacciones al lolardismo entre 1400 y 1450](https://ora.ox.ac.uk/objects/uuid%3A1b2acc03-de79-42da-97ac-16b86f2ca1ab/files/m217cb6dcb5c6211dd30fd9d0e044f969).
+29. [Unitas Fratrum, Church Order de 2023](https://www.ebu.de/fileadmin/media/unitaet/KO/Church_Order_2023_single_pages.pdf).
+30. [Federación Luterana Mundial, iglesias miembros](https://lutheranworld.org/member-churches).
+31. [Comunión Anglicana, documentos de estructura y comunión](https://www.anglicancommunion.org/media/254161/1-Anglican-Communion-extracts-document.pdf).
+32. [Manitoba Historical Society, Hutterites in North America](https://mhs.mb.ca/docs/transactions/3/hutterites.shtml).
+33. [Consejo Mundial de Iglesias, Iglesia husita checoslovaca](https://www.oikoumene.org/member-churches/czechoslovak-hussite-church).
+34. [Fundaciones Francke, redes históricas](https://www.francke-halle.de/en/international/historical-networks).
+35. [Congreso Mundial Menonita, Testing Faith and Tradition](https://mwc-cmm.org/wp-content/uploads/2024/11/gmh-europe_testing_faith_and_tradition.pdf).

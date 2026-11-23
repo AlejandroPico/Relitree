@@ -12,5 +12,6 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": null,
+  "heredar_icono": false
 }

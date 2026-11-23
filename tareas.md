@@ -4,6 +4,14 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E17 · 17.1. [Husitas](enciclopedia/es/religiones/husitas.md), 6.335 palabras de cuerpo y 3 figuras. [Hermanos moravos](enciclopedia/es/religiones/moravos.md), 5.038 palabras de cuerpo y 3 figuras. Versión 1.7.56.
+- [x] E17 · 17.2. [Luteranismo](enciclopedia/es/religiones/luteranismo.md), 5.026 palabras de cuerpo y 3 figuras. [Pietismo](enciclopedia/es/religiones/pietismo.md), 5.016 palabras de cuerpo y 3 figuras. Versión 1.7.56.
+- [x] E17 · 17.3. [Anglicanismo](enciclopedia/es/religiones/anglicanismo.md), 5.022 palabras de cuerpo y 3 figuras. Versión 1.7.56.
+- [x] E17 · 17.4. [Anabaptismo](enciclopedia/es/religiones/anabaptismo.md), 5.037 palabras de cuerpo y 3 figuras. [Huteritas](enciclopedia/es/religiones/huteritas.md), 5.100 palabras de cuerpo y 3 figuras. Versión 1.7.56.
+  - Los seis temas E01 incorporan las siete fichas. Se documentan el cáliz husita, el Cordero moravo, el sello de Lutero y la rosa de la Comunión Anglicana.
+  - Pietismo, anabaptismo y huteritas usan la marca cronológica. Se desvincula la cifra de miembros de la Iglesia husita checoslovaca del nodo medieval.
+  - Pendientes 17.5, 17.6 y 17.7 y la ampliación editorial de las siete primeras fichas al objetivo de 10.000 palabras.
+
 - [x] E16 · 16.4. [Iglesia católica](enciclopedia/es/religiones/catolica.md), 5.122 palabras de cuerpo y 3 figuras. [Orden del Temple](enciclopedia/es/religiones/templarios.md), 5.131 palabras de cuerpo y 3 figuras. Versión 1.7.55.
 - [x] E16 · 16.5. [Valdenses](enciclopedia/es/religiones/valdenses.md), 5.138 palabras de cuerpo y 3 figuras. [Orden franciscana](enciclopedia/es/religiones/franciscanos.md), 5.216 palabras de cuerpo y 3 figuras. Versión 1.7.55.
 - [x] E16 · 16.6. [Orden dominicana](enciclopedia/es/religiones/dominicos.md), 5.088 palabras de cuerpo y 3 figuras. [Lolardos](enciclopedia/es/religiones/lolardos.md), 5.163 palabras de cuerpo y 3 figuras. Versión 1.7.55.

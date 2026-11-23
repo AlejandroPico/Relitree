@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1644
+palabras: 1746
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -49,6 +49,15 @@ fuentes:
   - "https://ofm.org/es/la-regla.html"
   - "https://exhibitions.lib.cam.ac.uk/dominicans/case/dominican-liturgy-mass/"
   - "https://api.pageplace.de/preview/DT0400.9780801470998_A29967318/preview-9780801470998_A29967318.pdf"
+  - "https://lawcat.berkeley.edu/record/95041?ln=en"
+  - "https://academic.oup.com/book/12131"
+  - "https://whc.unesco.org/en/list/1468"
+  - "https://wissenschaft.francke-halle.de/en/facilities/archive-library/history-of-the-archives"
+  - "https://bookofconcord.cph.org/"
+  - "https://researchbriefings.files.parliament.uk/documents/CBP-8886/CBP-8886.pdf"
+  - "https://www.goshen.edu/facilities/mennonite-historical-library/"
+  - "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315"
+  - "https://www.plough.com/books/peter-riedemanns-hutterite-confession-of-faith"
 ---
 
 # Historia del estudio de las religiones
@@ -175,6 +184,16 @@ Para la [[catolica|Iglesia católica]], los concilios, los libros de culto y las
 
 Comparar etapas de la regla ayuda a estudiar el crecimiento [[franciscanos|franciscano]]. Para los [[dominicos|dominicos]], los libros de estudio y de liturgia iluminan funciones distintas de los expedientes inquisitoriales. En la historia de los [[lolardos|lolardos]] se separan manuscritos, escritos doctrinales e interrogatorios. [25, 26, 27]
 
+## E17.1–17.4 · Reformas bohemias, luteranas, anglicanas y anabaptistas
+
+### Documentos, lugares y testimonios
+
+Para los [[husitas|husitas]], los procesos de Constanza y las negociaciones de Basilea responden a preguntas distintas. Los asentamientos de los [[moravos|moravos]] permiten comparar patrimonio y normas de convivencia. En el [[pietismo|pietismo]], las cartas de Halle muestran el trabajo que dio continuidad a escuelas y misiones. [28, 29, 30, 31]
+
+### Autores y autoridades
+
+El Libro de Concordia permite estudiar la formación del [[luteranismo|luteranismo]] confesional. En el [[anglicanismo|anglicanismo]], los libros de oración y las normas estatales y provinciales tienen alcances diferentes. Schleitheim y los martirologios responden a funciones distintas en el [[anabaptismo|anabaptismo]]. Para la historia de los [[huteritas|huteritas]] se pueden contrastar la confesión de Riedemann, sus crónicas y archivos de colonias. [32, 33, 34, 35, 36]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -223,3 +242,12 @@ Comparar etapas de la regla ayuda a estudiar el crecimiento [[franciscanos|franc
 25. [Orden de Hermanos Menores, la Regla](https://ofm.org/es/la-regla.html).
 26. [Universidad de Cambridge, libros dominicanos para la misa](https://exhibitions.lib.cam.ac.uk/dominicans/case/dominican-liturgy-mass/).
 27. [J. Patrick Hornbeck II, What Is a Lollard?, edición académica](https://api.pageplace.de/preview/DT0400.9780801470998_A29967318/preview-9780801470998_A29967318.pdf).
+28. [A Companion to the Council of Basel, catálogo de Berkeley](https://lawcat.berkeley.edu/record/95041?ln=en).
+29. [Thomas A. Fudge, proceso de Jan Hus, Oxford University Press](https://academic.oup.com/book/12131).
+30. [UNESCO, asentamientos de la Iglesia morava](https://whc.unesco.org/en/list/1468).
+31. [Fundaciones Francke, historia de sus archivos](https://wissenschaft.francke-halle.de/en/facilities/archive-library/history-of-the-archives).
+32. [Libro de Concordia, edición digital](https://bookofconcord.cph.org/).
+33. [Biblioteca de la Cámara de los Comunes, Iglesia y Estado en el Reino Unido](https://researchbriefings.files.parliament.uk/documents/CBP-8886/CBP-8886.pdf).
+34. [Goshen College, Mennonite Historical Library y su ejemplar del Martyrs Mirror](https://www.goshen.edu/facilities/mennonite-historical-library/).
+35. [German History in Documents and Images, Artículos de Schleitheim](https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315).
+36. [Peter Riedemann, Hutterite Confession of Faith](https://www.plough.com/books/peter-riedemanns-hutterite-confession-of-faith).

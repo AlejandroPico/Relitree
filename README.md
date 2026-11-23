@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.55**
+**Versión 1.7.56**
+
+Las [entregas 17.1–17.4](enciclopedia/PLAN.md#fase-e17--cristianismo--tradiciones-49) incorporan las fichas de husitas, hermanos moravos, luteranismo, pietismo, anglicanismo, anabaptismo y huteritas. Incluyen 21 figuras acreditadas y actualizan los seis temas comparativos de E01.
 
 Las [entregas 16.4–16.6](enciclopedia/PLAN.md#fase-e16--cristianismo--tradiciones-39) completan la publicación de las doce fichas de E16. La Iglesia católica, el Temple, los valdenses, los franciscanos, los dominicos y los lolardos incorporan 18 figuras acreditadas. El árbol incluye nuevas reproducciones del sello templario, el candelero valdense y el escudo de los Hermanos Menores.
 

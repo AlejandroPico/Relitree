@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1807
+palabras: 1917
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -48,6 +48,13 @@ fuentes:
   - "https://ofm.org/es/la-regla.html"
   - "https://www.op.org/our-story/"
   - "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/64826/dlavinsk_1.pdf?sequence=1"
+  - "https://academic.oup.com/reference/62416/reference-article/555921524"
+  - "https://moravianarchives.org/history/"
+  - "https://www.histtheol.unibe.ch/e40261/e319333/e1423820/HeydenundSallman_Quellenauslegen_2023_ger.pdf"
+  - "https://bookofconcord.cph.org/"
+  - "https://www.churchofengland.org/liturgy/book-of-common-prayer"
+  - "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315"
+  - "https://hutterites.org/history/community-of-goods/"
 ---
 
 # Glosario general
@@ -276,6 +283,16 @@ Libro copto de las horas de oración diaria. En la [[copta|Iglesia copta]] se di
 
 **Regla bulada.** Regla [[franciscanos|franciscana]] confirmada en 1223. **Orden de Predicadores.** Denominación de la orden [[dominicos|dominicana]]. **Biblia wyclifita.** Conjunto de versiones en inglés medio vinculadas al ambiente estudiado en la ficha de los [[lolardos|lolardos]]. [22, 23, 24]
 
+## E17.1–17.4 · Reformas bohemias, luteranas, anglicanas y anabaptistas
+
+### Utraquismo, Unidad y conventículo
+
+**Utraquismo.** Práctica de distribuir la comunión bajo ambas especies, distintiva de los [[husitas|husitas]] utraquistas. **Unidad de los Hermanos.** Nombre de la iglesia antigua que los [[moravos|moravos]] recuperan al renovar su tradición en Herrnhut. **Conventículo.** En el [[pietismo|pietismo]] y otras corrientes, reunión religiosa en grupo reducido, a menudo en casa, con una relación variable con el culto público. [25, 26, 27]
+
+### Concordia, ordinal y comunidad de bienes
+
+**Libro de Concordia.** Colección de escritos confesionales recibida por iglesias del [[luteranismo|luteranismo]]. **Ordinal.** Formulario con los ritos para ordenar ministros en el [[anglicanismo|anglicanismo]]. **Bautismo de creyentes.** Incorporación mediante bautismo tras profesar la fe, distintiva del [[anabaptismo|anabaptismo]]. **Comunidad de bienes.** Organización de recursos y trabajo compartidos que caracteriza a las colonias de los [[huteritas|huteritas]]. [28, 29, 30, 31]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -323,3 +340,10 @@ Libro copto de las horas de oración diaria. En la [[copta|Iglesia copta]] se di
 22. [Orden de Hermanos Menores, la Regla](https://ofm.org/es/la-regla.html).
 23. [Orden de Predicadores, historia oficial](https://www.op.org/our-story/).
 24. [Universidad de Michigan, After Wyclif, estudios de la Biblia y del inglés medieval](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/64826/dlavinsk_1.pdf?sequence=1).
+25. [Oxford Research Encyclopedia, el movimiento husita](https://academic.oup.com/reference/62416/reference-article/555921524).
+26. [Moravian Archives, historia de la Unidad](https://moravianarchives.org/history/).
+27. [Universidad de Berna, lectura de fuentes históricas sobre Spener](https://www.histtheol.unibe.ch/e40261/e319333/e1423820/HeydenundSallman_Quellenauslegen_2023_ger.pdf).
+28. [Libro de Concordia, edición digital](https://bookofconcord.cph.org/).
+29. [Iglesia de Inglaterra, Book of Common Prayer](https://www.churchofengland.org/liturgy/book-of-common-prayer).
+30. [German History in Documents and Images, Artículos de Schleitheim](https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315).
+31. [Hutterites.org, comunidad de bienes](https://hutterites.org/history/community-of-goods/).

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1674
+palabras: 1756
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -41,6 +41,13 @@ fuentes:
   - "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Order_of_Friars_Minor.svg"
   - "https://www.dominicanajournal.org/wp-content/files/old-journal-archive/vol14/no2/dominicanav14n2coatarmstheorderpreachers.pdf"
   - "https://searcharchives.bl.uk/catalog/040-002105766"
+  - "https://muzeum3000.nm.cz/national-museum-news/top-items-%E2%80%93-the-jena-codex"
+  - "https://www.moravians.net/en/about-us/34-moravian-moments/204-moravian-moment-85"
+  - "https://www.luther-gesellschaft.de/material/luther-rose.html"
+  - "https://www.anglicancommunion.org/media/267063/Compass-Points-October-2016.pdf"
+  - "https://commons.wikimedia.org/wiki/File:Pia_desideria_de_P._J._Spener.jpg"
+  - "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315"
+  - "https://hutterites.org/history/hutterite-history-overview/"
 ---
 
 # Simbología religiosa comparada
@@ -163,6 +170,16 @@ El emblema de las llaves cruzadas identifica el papado en la ficha de la [[catol
 
 Los brazos cruzados identifican un motivo [[franciscanos|franciscano]] y el escudo negro y blanco tiene variantes en la tradición [[dominicos|dominicana]]. Los manuscritos y retratos sirven para documentar la historia de los [[lolardos|lolardos]], cuyo nodo usa la marca del eje. [24, 25, 26]
 
+## E17.1–17.4 · Reformas bohemias, luteranas, anglicanas y anabaptistas
+
+### El cáliz, el Cordero y las rosas
+
+La comunión bajo ambas especies da contexto al cáliz [[husitas|husita]], reproducido en la ficha a partir de un estandarte conmemorativo. El sello de los [[moravos|moravos]] identifica al Cordero mediante un lema propio. La rosa del [[luteranismo|luteranismo]] procede del sello de Lutero y la del [[anglicanismo|anglicanismo]] identifica a la Comunión Anglicana. [27, 28, 29, 30]
+
+### Imágenes con procedencia local
+
+Las figuras de [[pietismo|pietismo]], [[anabaptismo|anabaptismo]] y [[huteritas|huteritas]] proceden de impresos, arte y lugares concretos. Sus nodos utilizan la marca cronológica porque falta un emblema común documentado para el conjunto de cada tradición. [31, 32, 33]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -204,3 +221,10 @@ Los brazos cruzados identifican un motivo [[franciscanos|franciscano]] y el escu
 24. [Wikimedia Commons, escudo de los Hermanos Menores](https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Order_of_Friars_Minor.svg).
 25. [Dominicana, Coat of Arms of the Order of Preachers](https://www.dominicanajournal.org/wp-content/files/old-journal-archive/vol14/no2/dominicanav14n2coatarmstheorderpreachers.pdf).
 26. [British Library, manuscrito Royal MS 1 C IX](https://searcharchives.bl.uk/catalog/040-002105766).
+27. [Museo Nacional checo, Códice de Jena](https://muzeum3000.nm.cz/national-museum-news/top-items-%E2%80%93-the-jena-codex).
+28. [Iglesia morava, el sello del Cordero](https://www.moravians.net/en/about-us/34-moravian-moments/204-moravian-moment-85).
+29. [Luther-Gesellschaft, carta sobre la rosa de Lutero](https://www.luther-gesellschaft.de/material/luther-rose.html).
+30. [Comunión Anglicana, explicación de la rosa de los vientos](https://www.anglicancommunion.org/media/267063/Compass-Points-October-2016.pdf).
+31. [Philipp Jakob Spener, Pia desideria, portada de la primera edición](https://commons.wikimedia.org/wiki/File:Pia_desideria_de_P._J._Spener.jpg).
+32. [German History in Documents and Images, Artículos de Schleitheim](https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315).
+33. [Hutterites.org, historia de las comunidades](https://hutterites.org/history/hutterite-history-overview/).

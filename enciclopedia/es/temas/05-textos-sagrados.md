@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1870
+palabras: 1967
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -41,6 +41,13 @@ fuentes:
   - "https://catalogue.bnf.fr/ark%3A/12148/cb357103725"
   - "https://ofm.org/es/la-regla.html"
   - "https://exhibitions.lib.cam.ac.uk/dominicans/case/dominican-liturgy-mass/"
+  - "https://api.pageplace.de/preview/DT0400.9781782041931_A43370325/preview-9781782041931_A43370325.pdf"
+  - "https://academic.oup.com/edited-volume/51640/chapter/422293164"
+  - "https://bookofconcord.cph.org/"
+  - "https://commons.wikimedia.org/wiki/File:Pia_desideria_de_P._J._Spener.jpg"
+  - "https://www.churchofengland.org/liturgy/book-of-common-prayer"
+  - "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315"
+  - "https://www.plough.com/books/peter-riedemanns-hutterite-confession-of-faith"
 ---
 
 # Textos sagrados del mundo comparados
@@ -177,6 +184,16 @@ La [[catolica|Iglesia católica]] distingue Escritura, tradición y magisterio e
 
 En la [[templarios|Orden del Temple]], la regla y sus ampliaciones documentan la disciplina. La [[franciscanos|familia franciscana]] conserva versiones de la regla y escritos del fundador. Los [[dominicos|dominicos]] produjeron libros que separan actos de la misa, oficio y cantos. [22, 23, 24]
 
+## E17.1–17.4 · Reformas bohemias, luteranas, anglicanas y anabaptistas
+
+### Reformas, traducciones y confesiones
+
+En Bohemia, los [[husitas|husitas]] articularon demandas de predicación y comunión en los Cuatro Artículos. Los [[moravos|hermanos moravos]] heredaron el trabajo de traducción de la Biblia de Kralice. En el [[luteranismo|luteranismo]], la Biblia vernácula y el Libro de Concordia tienen funciones diferentes. En ambientes de [[pietismo|pietismo]], *Pia desideria* propuso más lectura bíblica fuera del culto. [25, 26, 27, 28]
+
+### Formularios y textos de iglesias de creyentes
+
+En el [[anglicanismo|anglicanismo]], el Libro de Oración Común organiza servicios y lecturas. Entre los documentos del [[anabaptismo|anabaptismo]], Schleitheim expone las reglas de congregaciones de los Hermanos Suizos. Para los [[huteritas|huteritas]], la confesión de Riedemann explica la relación entre bautismo, comunidad y bienes compartidos. [29, 30, 31]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -217,3 +234,10 @@ En la [[templarios|Orden del Temple]], la regla y sus ampliaciones documentan la
 22. [Bibliothèque nationale de France, edición de la Regla del Temple de J. M. Upton-Ward](https://catalogue.bnf.fr/ark%3A/12148/cb357103725).
 23. [Orden de Hermanos Menores, la Regla](https://ofm.org/es/la-regla.html).
 24. [Universidad de Cambridge, libros dominicanos para la misa](https://exhibitions.lib.cam.ac.uk/dominicans/case/dominican-liturgy-mass/).
+25. [Boydell & Brewer, estudio sobre las reformas bohemias](https://api.pageplace.de/preview/DT0400.9781782041931_A43370325/preview-9781782041931_A43370325.pdf).
+26. [Oxford Handbook, antigua Unidad y reforma bohemia](https://academic.oup.com/edited-volume/51640/chapter/422293164).
+27. [Libro de Concordia, edición digital](https://bookofconcord.cph.org/).
+28. [Philipp Jakob Spener, Pia desideria, portada de la primera edición](https://commons.wikimedia.org/wiki/File:Pia_desideria_de_P._J._Spener.jpg).
+29. [Iglesia de Inglaterra, Book of Common Prayer](https://www.churchofengland.org/liturgy/book-of-common-prayer).
+30. [German History in Documents and Images, Artículos de Schleitheim](https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315).
+31. [Peter Riedemann, Hutterite Confession of Faith](https://www.plough.com/books/peter-riedemanns-hutterite-confession-of-faith).
