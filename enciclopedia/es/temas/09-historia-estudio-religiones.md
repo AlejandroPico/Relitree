@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1438
+palabras: 1553
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -36,6 +36,13 @@ fuentes:
   - "https://ora.ox.ac.uk/objects/uuid%3A5d9dd689-c5a9-4fac-9164-8db29d375eee/files/rhm50ts86x"
   - "https://www.dbmnt.uw.edu.pl/"
   - "https://doi.org/10.2307/j.ctv1q26pff.43"
+  - "https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/paulician-dualism-revisited/5E5A8DEDBC87597E92714D235D6FE6A3"
+  - "https://almuslih.org/wp-content/uploads/2024/11/Kaldellis-A-and-Siniossoglou-N-The-Cambridge-Intellectual-History-of-Byzantium.pdf"
+  - "https://doi.org/10.1016/S0304-4181%2801%2900008-2"
+  - "https://ccfr.bnf.fr/portailccfr/ark%3A/16871/004D07A12268"
+  - "https://gedsh.bethmardutho.org/Rabbula-Gospels"
+  - "https://e-journals.usj.edu.lb/poc/vol70/iss1/4/"
+  - "https://www.jstor.org/stable/jj.38238639"
 ---
 
 # Historia del estudio de las religiones
@@ -142,6 +149,16 @@ La moneda aksumita permite seguir la aparición de símbolos cristianos en la au
 
 Tomar la crónica de Beda como un relato situado permite estudiar el [[celta-crist|cristianismo insular]] sin atribuir a todas las regiones la decisión de Whitby. Los préstamos entre lenguas en las fuentes de la [[iglesia-oriente|Iglesia del Oriente]] obligan a examinar las palabras siríacas en su contexto histórico. Los títulos y oraciones del [[nubia-cristiana|cristianismo nubio]] se estudian junto al edificio, el soporte y la lengua en que se documentan. [11, 12, 13, 14]
 
+## E16.1–16.3 · Iglesias siríacas, disidencias medievales e iconoclasia
+
+### La posición de quien produjo el documento
+
+Las voces atribuibles a los [[paulicianos|paulicianos]] se conservan dentro de refutaciones. Para el [[bogomilismo|bogomilismo]] interesa distinguir la polémica de Cosmas y la narrativa dinástica de Ana Comnena. En el [[catarismo|catarismo]], la distinción entre instrucciones rituales, declaraciones judiciales y tratados ayuda a evitar que un solo género defina todas las comunidades. [15, 16, 17, 18]
+
+### Copiar, imprimir y reproducir
+
+El colofón de un evangelario permite datar el trabajo de copia que se describe en la ficha de la [[siriaca|Iglesia ortodoxa siríaca]]. Un misal romano del siglo XVI permite seguir decisiones editoriales de la [[maronita|Iglesia maronita]]. Para la [[iconoclasia|iconoclasia bizantina]], los fragmentos de Hieria transmitidos en las actas de Nicea II muestran cómo se conserva parte de una posición en el texto que la refuta. [19, 20, 21]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -177,3 +194,10 @@ Tomar la crónica de Beda como un relato situado permite estudiar el [[celta-cri
 12. [Sebastian Brock, estudio de la cristología y los términos siríacos](https://ora.ox.ac.uk/objects/uuid%3A5d9dd689-c5a9-4fac-9164-8db29d375eee/files/rhm50ts86x).
 13. [Database of Medieval Nubian Texts, Universidad de Varsovia](https://www.dbmnt.uw.edu.pl/).
 14. [Adam Łajtar, las inscripciones del centro de peregrinación de Banganarti](https://doi.org/10.2307/j.ctv1q26pff.43).
+15. [Carl Dixon, Paulician Dualism Revisited](https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/paulician-dualism-revisited/5E5A8DEDBC87597E92714D235D6FE6A3).
+16. [The Cambridge Intellectual History of Byzantium, debates sobre la herejía](https://almuslih.org/wp-content/uploads/2024/11/Kaldellis-A-and-Siniossoglou-N-The-Cambridge-Intellectual-History-of-Byzantium.pdf).
+17. [Mark Gregory Pegg, On Cathars, Albigenses, and good men of Languedoc](https://doi.org/10.1016/S0304-4181%2801%2900008-2).
+18. [Bibliothèque nationale de France, registro tolosano MS 609](https://ccfr.bnf.fr/portailccfr/ark%3A/16871/004D07A12268).
+19. [Gorgias Encyclopedic Dictionary of the Syriac Heritage, Evangelios de Rabbula](https://gedsh.bethmardutho.org/Rabbula-Gospels).
+20. [Pierre Jabbour, el primer misal maronita impreso en Roma](https://e-journals.usj.edu.lb/poc/vol70/iss1/4/).
+21. [Richard Price, The Acts of the Second Council of Nicaea (787)](https://www.jstor.org/stable/jj.38238639).

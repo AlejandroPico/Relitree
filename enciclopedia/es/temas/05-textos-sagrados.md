@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1654
+palabras: 1791
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -29,6 +29,12 @@ fuentes:
   - "https://academic.oup.com/book/595"
   - "https://digitalcollections.tcd.ie/concern/works/zw12z7304?locale=en"
   - "https://czasopisma.kul.pl/index.php/vp/article/view/18041"
+  - "https://gedsh.bethmardutho.org/Rabbula-Gospels"
+  - "https://www.stmaron.org/qurbono"
+  - "https://sourcebooks.fordham.edu/source/johndam-icons.asp"
+  - "https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/paulician-dualism-revisited/5E5A8DEDBC87597E92714D235D6FE6A3"
+  - "https://www.jstor.org/stable/jj.21995826"
+  - "https://ccfr.bnf.fr/portailccfr/ark%3A/16871/004D34010076"
 ---
 
 # Textos sagrados del mundo comparados
@@ -145,6 +151,16 @@ La [[etiope|Iglesia ortodoxa etíope Tewahedo]] conserva un repertorio bíblico 
 
 En [[rastafari|Rastafari]] las referencias bíblicas se reinterpretan en conversaciones y prácticas colectivas, con especial importancia de Sion y Babilonia. En el [[celta-crist|cristianismo insular]], los evangelios iluminados, como el Libro de Kells, reúnen escritura latina y un programa visual propio. El relato de san Menas en nubio antiguo conserva otro género de lectura sagrada del [[nubia-cristiana|cristianismo nubio]], el relato de milagro. [10, 11, 12]
 
+## E16.1–16.3 · Iglesias siríacas, disidencias medievales e iconoclasia
+
+### Del siríaco a la lectura comunitaria
+
+Los Evangelios de Rabbula, con colofón de 586, son un testimonio manuscrito del patrimonio siríaco que conserva la [[siriaca|Iglesia ortodoxa siríaca]]. En la [[maronita|Iglesia maronita]], el libro del *Qurbono* permite seguir el uso de lecturas y plegarias en traducción junto a la tradición del siríaco occidental. La [[iconoclasia|controversia bizantina]] llevó a releer pasajes sobre ídolos y figuras autorizadas, así como la relación entre la Escritura y la representación de la encarnación. [13, 14, 15]
+
+### Repertorios de la disidencia
+
+Las cartas de Pablo dejaron un rastro en los nombres que las fuentes atribuyen a los [[paulicianos|paulicianos]]. Los testimonios sobre el [[bogomilismo|bogomilismo]] destacan el padrenuestro y ofrecen un problema de transmisión en torno a la *Interrogatio Iohannis*. Para el [[catarismo|catarismo]] se conserva un testimonio directo de lectura y rito en el Nuevo Testamento occitano y el ritual que contiene el manuscrito P.A. 36 de Lyon. [16, 17, 18]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -173,3 +189,9 @@ En [[rastafari|Rastafari]] las referencias bíblicas se reinterpretan en convers
 10. [Ennis B. Edmonds, Rastafari: A Very Short Introduction](https://academic.oup.com/book/595).
 11. [Trinity College Dublin, Libro de Kells, MS 58](https://digitalcollections.tcd.ie/concern/works/zw12z7304?locale=en).
 12. [Vox Patrum, el milagro de Menas en nubio antiguo](https://czasopisma.kul.pl/index.php/vp/article/view/18041).
+13. [Gorgias Encyclopedic Dictionary of the Syriac Heritage, Evangelios de Rabbula](https://gedsh.bethmardutho.org/Rabbula-Gospels).
+14. [Eparquía de san Marón de Brooklyn, Qurbono](https://www.stmaron.org/qurbono).
+15. [Juan Damasceno, discursos sobre las imágenes, Fordham](https://sourcebooks.fordham.edu/source/johndam-icons.asp).
+16. [Carl Dixon, Paulician Dualism Revisited](https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/paulician-dualism-revisited/5E5A8DEDBC87597E92714D235D6FE6A3).
+17. [Hamilton, Hamilton y Stoyanov, Christian Dualist Heresies in the Byzantine World](https://www.jstor.org/stable/jj.21995826).
+18. [Bibliothèque nationale de France, Nuevo Testamento occitano y ritual de Lyon](https://ccfr.bnf.fr/portailccfr/ark%3A/16871/004D34010076).

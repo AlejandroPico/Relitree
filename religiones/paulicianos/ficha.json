@@ -11,8 +11,7 @@
       "relacion": "derivacion"
     }
   ],
-  "influencias": [
-    "maniqueismo"
-  ],
-  "icono": null
+  "influencias": [],
+  "icono": null,
+  "heredar_icono": false
 }

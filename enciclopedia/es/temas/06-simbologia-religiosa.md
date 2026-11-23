@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1475
+palabras: 1586
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -27,6 +27,14 @@ fuentes:
   - "https://heritageireland.ie/visit/places-to-visit/clonmacnoise-monastic-site/"
   - "https://www.mcgill.ca/religiousstudies/about/birks-building/jingiao-stele"
   - "https://dbmnt.uw.edu.pl/texts/1837/"
+  - "https://syriacpatriarchate.org/"
+  - "https://commons.wikimedia.org/wiki/File:Patriarchal_Emblem_of_Syriac_Orthodox_Church.svg"
+  - "https://storage.googleapis.com/msgsndr/4i0JNb0UR6ufHm8Td6cd/media/659cd443def5729e659b3923.pdf"
+  - "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Maronite_Patriarchate.svg"
+  - "https://www.metmuseum.org/ko/essays/icons-and-iconoclasm-in-byzantium"
+  - "https://bdh.bne.es/bnesearch/detalle/bdh0000022766"
+  - "https://www.unesco.org/en/memory-world/borils-synodicon"
+  - "https://academiedulanguedoc.fr/historique/la-croix-du-languedoc/"
 ---
 
 # Simbología religiosa comparada
@@ -129,6 +137,16 @@ El tabot, llevado a cubierto en Timkat, pertenece a la vida del altar de la [[et
 
 Las cruces monumentales del [[celta-crist|cristianismo insular]] se interpretan por el emplazamiento, la labra y las inscripciones de cada pieza. La cruz de la estela de Xi'an acompaña una historia de la [[iglesia-oriente|Iglesia del Oriente]] escrita en China. En el [[nubia-cristiana|cristianismo nubio]], el mural de Faras con Petros y san Pedro expresa protección sagrada y autoridad episcopal mediante imagen e inscripción. [10, 11, 12]
 
+## E16.1–16.3 · Iglesias siríacas, disidencias medievales e iconoclasia
+
+### Blasones institucionales, imágenes y recepción
+
+El blasón de la [[siriaca|Iglesia ortodoxa siríaca]] se reconoce en la cabecera de su patriarcado. El de la [[maronita|Iglesia maronita]] identifica a la sede patriarcal y tiene variantes en reproducciones y cabeceras. Ambos se acreditan como reproducciones vectoriales. Las cruces monumentales y los iconos de la [[iconoclasia|controversia bizantina]] se presentan según edificio, periodo y función. [13, 14, 15, 16, 17]
+
+### Atribuir un símbolo a un grupo medieval
+
+Las miniaturas de los [[paulicianos|paulicianos]] y los manuscritos sobre el [[bogomilismo|bogomilismo]] proceden en gran parte del mundo que los estudió o condenó. La cruz occitana se documenta en la heráldica tolosana y en la identidad regional, con una asociación posterior al [[catarismo|catarismo]]. Los cuatro nodos históricos de esta tanda recurren a la marca de la cronología. [18, 19, 20]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -156,3 +174,11 @@ Las cruces monumentales del [[celta-crist|cristianismo insular]] se interpretan 
 10. [Heritage Ireland, conjunto monástico de Clonmacnoise](https://heritageireland.ie/visit/places-to-visit/clonmacnoise-monastic-site/).
 11. [McGill University, estela de Jingjiao](https://www.mcgill.ca/religiousstudies/about/birks-building/jingiao-stele).
 12. [Database of Medieval Nubian Texts, inscripciones del mural de Petros y san Pedro](https://dbmnt.uw.edu.pl/texts/1837/).
+13. [Patriarcado ortodoxo siríaco de Antioquía](https://syriacpatriarchate.org/).
+14. [Wikimedia Commons, reproducción vectorial del emblema patriarcal ortodoxo siríaco](https://commons.wikimedia.org/wiki/File:Patriarchal_Emblem_of_Syriac_Orthodox_Church.svg).
+15. [Patriarcado maronita, documento con su escudo en la cabecera](https://storage.googleapis.com/msgsndr/4i0JNb0UR6ufHm8Td6cd/media/659cd443def5729e659b3923.pdf).
+16. [Wikimedia Commons, reproducción vectorial del escudo patriarcal maronita](https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Maronite_Patriarchate.svg).
+17. [Metropolitan Museum of Art, Icons and Iconoclasm in Byzantium](https://www.metmuseum.org/ko/essays/icons-and-iconoclasm-in-byzantium).
+18. [Biblioteca Nacional de España, Skylitzes Matritensis](https://bdh.bne.es/bnesearch/detalle/bdh0000022766).
+19. [UNESCO, Sinódico de Boril, Memoria del Mundo](https://www.unesco.org/en/memory-world/borils-synodicon).
+20. [Académie du Languedoc, historia de la cruz de Languedoc](https://academiedulanguedoc.fr/historique/la-croix-du-languedoc/).

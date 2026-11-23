@@ -11,8 +11,7 @@
       "relacion": "reforma"
     }
   ],
-  "influencias": [
-    "islam"
-  ],
-  "icono": null
+  "influencias": [],
+  "icono": null,
+  "heredar_icono": false
 }

@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.53**
+**Versión 1.7.54**
+
+Las [entregas 16.1–16.3](enciclopedia/PLAN.md#fase-e16--cristianismo--tradiciones-39) desarrollan seis fichas sobre las Iglesias siríaca y maronita, los paulicianos, el bogomilismo, el catarismo y la iconoclasia bizantina. Incluyen 18 figuras acreditadas y se enlazan desde los seis temas comparativos de E01. El árbol muestra reproducciones acreditadas de los blasones patriarcales siríaco y maronita.
 
 La [fase E15](enciclopedia/PLAN.md#fase-e15--cristianismo--tradiciones-29) queda completa con las entregas 15.4–15.6. Las seis nuevas fichas tratan de Tewahedo, Rastafari, los cristianos de Santo Tomás, el cristianismo celta, la Iglesia del Oriente y el cristianismo nubio. Reúnen 19 figuras documentales acreditadas y se enlazan desde el glosario y los cinco temas comparativos de E01.
 

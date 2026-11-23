@@ -7,10 +7,11 @@
   "importancia": 1,
   "padres": [
     {
-      "id": "paulicianos",
+      "id": "cristianismo",
       "relacion": "derivacion"
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": null,
+  "heredar_icono": false
 }

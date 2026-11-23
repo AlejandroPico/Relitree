@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1623
+palabras: 1731
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -36,6 +36,12 @@ fuentes:
   - "https://sourcebooks.web.fordham.edu/basis/bede-book3.asp"
   - "https://ora.ox.ac.uk/objects/uuid%3A5d9dd689-c5a9-4fac-9164-8db29d375eee/files/rhm50ts86x"
   - "https://africabib.org/rec.php?DB=i&RID=146928466"
+  - "https://folkways-media.si.edu/docs/folkways/artwork/UNES08039.pdf"
+  - "https://www.stmaron.org/qurbono"
+  - "https://www.jstor.org/stable/jj.38238639"
+  - "https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/paulician-dualism-revisited/5E5A8DEDBC87597E92714D235D6FE6A3"
+  - "https://www.unesco.org/en/memory-world/borils-synodicon"
+  - "https://www.rialto.unina.it/prosa_religiosa/cathrit/"
 ---
 
 # Glosario general
@@ -244,6 +250,16 @@ Libro copto de las horas de oración diaria. En la [[copta|Iglesia copta]] se di
 
 **Computus.** Procedimientos de cálculo de fechas litúrgicas. Las controversias del [[celta-crist|cristianismo insular]] sobre el día de Pascua muestran su importancia práctica. **Qnoma.** Término siríaco cuyo uso cristológico en la [[iglesia-oriente|Iglesia del Oriente]] se estudia en relación con naturaleza y subsistencia. **Baqt.** Nombre dado al arreglo medieval entre Egipto y Makuria, relevante para la historia del [[nubia-cristiana|cristianismo nubio]]. [10, 11, 12]
 
+## E16.1–16.3 · Iglesias siríacas, disidencias medievales e iconoclasia
+
+### Beth Gazo, Qurbono y prototipo
+
+**Beth Gazo.** Repertorio de cantos de la tradición siríaca occidental, incluido el uso de la [[siriaca|Iglesia ortodoxa siríaca]]. **Qurbono.** Nombre de la eucaristía y del libro de la ofrenda en el uso [[maronita|maronita]]. **Prototipo.** La persona representada por una imagen, en el argumento sobre el honor tratado en la [[iconoclasia|controversia bizantina]]. [13, 14, 15]
+
+### Dualismo, sinódico y consolamentum
+
+**Dualismo.** En el expediente sobre los [[paulicianos|paulicianos]], importa distinguir la oposición entre Dios y el diablo de la afirmación de dos dioses independientes. **Sinódico de Boril.** Texto eslavo de proclamaciones y condenas relacionado con la asamblea búlgara de 1211 y relevante para el [[bogomilismo|bogomilismo]]. **Consolamentum.** Bautismo espiritual con imposición de manos documentado en rituales vinculados al [[catarismo|catarismo]]. [16, 17, 18]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -279,3 +295,9 @@ Libro copto de las horas de oración diaria. En la [[copta|Iglesia copta]] se di
 10. [Beda, Historia eclesiástica, libro III](https://sourcebooks.web.fordham.edu/basis/bede-book3.asp).
 11. [Sebastian Brock, estudio de la cristología y los términos siríacos](https://ora.ox.ac.uk/objects/uuid%3A5d9dd689-c5a9-4fac-9164-8db29d375eee/files/rhm50ts86x).
 12. [Medieval Christian Nubia and the Islamic World: A Reconsideration of the Baqt Treaty](https://africabib.org/rec.php?DB=i&RID=146928466).
+13. [Smithsonian Folkways, grabación y notas sobre el canto litúrgico siríaco](https://folkways-media.si.edu/docs/folkways/artwork/UNES08039.pdf).
+14. [Eparquía de san Marón de Brooklyn, Qurbono](https://www.stmaron.org/qurbono).
+15. [Richard Price, The Acts of the Second Council of Nicaea (787)](https://www.jstor.org/stable/jj.38238639).
+16. [Carl Dixon, Paulician Dualism Revisited](https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/paulician-dualism-revisited/5E5A8DEDBC87597E92714D235D6FE6A3).
+17. [UNESCO, Sinódico de Boril, Memoria del Mundo](https://www.unesco.org/en/memory-world/borils-synodicon).
+18. [Rialto, edición del ritual occitano](https://www.rialto.unina.it/prosa_religiosa/cathrit/).

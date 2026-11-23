@@ -232,7 +232,7 @@
  "bogomilismo": {
   "nombre": "Bogomilismo",
   "alias": [],
-  "resumen": "Movimiento dualista búlgaro que rechazaba la jerarquía y el mundo material."
+  "resumen": "Disidencia cristiana documentada desde el siglo X en Bulgaria, con variantes descritas en fuentes bizantinas y balcánicas."
  },
  "bon": {
   "nombre": "Bon",
@@ -312,7 +312,7 @@
  "catarismo": {
   "nombre": "Catarismo",
   "alias": [],
-  "resumen": "Iglesia dualista del sur de Francia e Italia, destruida por la cruzada albigense y la Inquisición."
+  "resumen": "Disidencias cristianas documentadas en lugares como Languedoc y el norte de Italia. Su organización y sus vínculos son objeto de debate."
  },
  "catolica": {
   "nombre": "Iglesia católica",
@@ -1107,7 +1107,7 @@
  "paulicianos": {
   "nombre": "Paulicianos",
   "alias": [],
-  "resumen": "Secta dualista de Armenia y Anatolia, enemiga del culto a las imágenes."
+  "resumen": "Comunidades cristianas documentadas en Anatolia oriental y en los Balcanes. Se debate el alcance de su dualismo."
  },
  "pentecostalismo": {
   "nombre": "Pentecostalismo",
@@ -1697,7 +1697,7 @@
  "iconoclasia": {
   "nombre": "Iconoclasia bizantina",
   "alias": [],
-  "resumen": "Movimiento imperial que prohibió y destruyó las imágenes sagradas durante más de un siglo."
+  "resumen": "Controversia de los siglos VIII y IX sobre las imágenes sagradas, con dos etapas de política iconoclasta."
  },
  "cistercienses": {
   "nombre": "Orden cisterciense",

@@ -66,8 +66,8 @@ arrianismo|Arrianismo|eur|318|700|mon|2|cristianismo:cisma||Doctrina que subordi
 ortodoxa|Iglesia ortodoxa|eur|1054||mon|5|cristianismo:cisma||Comunión de iglesias de tradición bizantina, fiel a los siete primeros concilios y separada de Roma desde el cisma de 1054.
 viejos-creyentes|Viejos creyentes|eur|1666||mon|1|ortodoxa:cisma||Fieles rusos que rechazaron las reformas litúrgicas del patriarca Nikon.
 catolica|Iglesia católica|eur|1054||mon|5|cristianismo:cisma||Iglesia en comunión con el obispo de Roma; la mayor confesión cristiana, con veintiún concilios ecuménicos reconocidos.
-bogomilismo|Bogomilismo|eur|950|1450|dua|1|paulicianos||Movimiento dualista búlgaro que rechazaba la jerarquía y el mundo material.
-catarismo|Catarismo|eur|1143|1330|dua|2|bogomilismo||Iglesia dualista del sur de Francia e Italia, destruida por la cruzada albigense y la Inquisición.
+bogomilismo|Bogomilismo|eur|950|1450|dua|1|cristianismo||Disidencia cristiana documentada desde el siglo X en Bulgaria, con variantes descritas en fuentes bizantinas y balcánicas.
+catarismo|Catarismo|eur|1143|1330|dua|2|cristianismo||Disidencias cristianas documentadas en lugares como Languedoc y el norte de Italia. Su organización y sus vínculos son objeto de debate.
 valdenses|Valdenses|eur|1173||mon|1|catolica:reforma||Movimiento de pobreza evangélica iniciado por Pedro Valdo, más tarde unido a la Reforma.
 husitas|Husitas|eur|1415||mon|1|catolica:reforma||Reforma bohemia inspirada en Jan Hus, precursora del protestantismo.
 luteranismo|Luteranismo|eur|1517||mon|4|catolica:reforma||Primera gran iglesia de la Reforma: justificación por la fe y autoridad de la Escritura.
@@ -125,7 +125,7 @@ montanismo|Montanismo|opr|156|550|mon|1|cristianismo:cisma||Movimiento profétic
 hermetismo|Hermetismo|afr|100|500|eso|2|egipto|platonismo|Textos atribuidos a Hermes Trismegisto, mezcla de sabiduría egipcia y filosofía griega, base del esoterismo occidental.
 mandeismo|Mandeísmo|opr|100||dua|1|judaismo|gnosticismo|Religión gnóstica de Mesopotamia que venera a Juan el Bautista y practica bautismos repetidos en agua corriente.
 maniqueismo|Maniqueísmo|opr|240|1400|dua|3|gnosticismo|zoroastrismo,budismo|Religión universal del profeta Mani: lucha cósmica entre luz y tinieblas; llegó del Mediterráneo hasta China.
-paulicianos|Paulicianos|opr|650|900|dua|1|cristianismo|maniqueismo|Secta dualista de Armenia y Anatolia, enemiga del culto a las imágenes.
+paulicianos|Paulicianos|opr|650|900|dua|1|cristianismo||Comunidades cristianas documentadas en Anatolia oriental y en los Balcanes. Se debate el alcance de su dualismo.
 iglesia-oriente|Iglesia del Oriente|opr|431||mon|3|cristianismo:cisma||Cristianismo siríaco de Persia, mal llamado nestoriano, que misionó hasta la India y China.
 miafisismo|Iglesias ortodoxas orientales|opr|451||mon|3|cristianismo:cisma||Iglesias que rechazaron el concilio de Calcedonia: copta, siríaca, armenia y etíope.
 armenia|Iglesia apostólica armenia|opr|301||mon|2|cristianismo|miafisismo|Iglesia nacional de Armenia, primer reino que adoptó oficialmente el cristianismo.
@@ -352,7 +352,7 @@ pelagianismo|Pelagianismo|eur|410|530|mon|1|cristianismo:cisma||Doctrina que neg
 celta-crist|Cristianismo celta|eur|430|1100|mon|1|cristianismo||Cristianismo monástico de Irlanda y Britania, con usos propios y gran impulso misionero.
 benedictinos|Orden benedictina|eur|529||mon|2|monacato||Monjes que siguen la Regla de san Benito, «reza y trabaja», columna de la Europa medieval.
 nubia-cristiana|Cristianismo nubio|afr|543|1500|mon|1|copta||Reinos cristianos del Nilo medio —Nobatia, Makuria y Alodia— que resistieron un milenio.
-iconoclasia|Iconoclasia bizantina|eur|726|843|mon|1|cristianismo:reforma|islam|Movimiento imperial que prohibió y destruyó las imágenes sagradas durante más de un siglo.
+iconoclasia|Iconoclasia bizantina|eur|726|843|mon|1|cristianismo:reforma||Controversia de los siglos VIII y IX sobre las imágenes sagradas, con dos etapas de política iconoclasta.
 cistercienses|Orden cisterciense|eur|1098||mon|1|benedictinos:reforma||Reforma austera del monacato benedictino, impulsada por Bernardo de Claraval.
 templarios|Orden del Temple|eur|1119|1312|mon|1|catolica||Orden de monjes guerreros nacida en las cruzadas y disuelta tras un proceso por herejía.
 franciscanos|Orden franciscana|eur|1209||mon|2|catolica:reforma||Frailes mendicantes fundados por Francisco de Asís, entregados a la pobreza y la predicación.

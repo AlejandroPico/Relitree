@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1480
+palabras: 1587
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -33,6 +33,14 @@ fuentes:
   - "https://academic.oup.com/edited-volume/61663/chapter-abstract/553492790"
   - "https://www.iranicaonline.org/articles/christianity-iii/"
   - "https://ora.ox.ac.uk/objects/uuid%3A608f55d8-0658-413e-9c89-a176721df16e/files/rq811kk78c"
+  - "https://www.oikoumene.org/es/member-churches/syrian-orthodox-patriarchate-of-antioch-and-all-the-east"
+  - "https://myndighetensst.se/download/18.2f6fb2621900fdb71fe4efb/1718702518641/Syrisk%20ortodoxa%20kyrkan_digital%20version%20OK.pdf"
+  - "https://cnewa.org/eastern-christian-churches/the-catholic-eastern-churches/churches-with-no-orthodox-counterpart/the-maronite-catholic-church/"
+  - "https://www.popeinlebanon.com/en/news/Maronite-Patriarchal-See-of-Bkerke"
+  - "https://www.degruyterbrill.com/document/isbn/9789004517080/html"
+  - "https://www.cambridge.org/core/books/abs/byzantiums-balkan-frontier/bulgaria-and-beyond-the-northern-balkans-c900963/17DB7FF0A5F463DA8C9887239C520696"
+  - "https://www.routledge.com/The-Cathars-Dualist-Heretics-in-Languedoc-in-the-High-Middle-Ages/Barber/p/book/9781408252581"
+  - "https://history.princeton.edu/about/publications/byzantium-iconoclast-era-c-680-850-history"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -145,6 +153,16 @@ La [[etiope|Iglesia ortodoxa etíope Tewahedo]] tiene su núcleo en Etiopía y s
 
 Iona y Lindisfarne sirven para localizar redes del [[celta-crist|cristianismo insular]] y Faras, Dongola y Soba para localizar reinos y sedes del [[nubia-cristiana|cristianismo nubio]]. Corresponden a mapas históricos. Para la [[iglesia-oriente|Iglesia del Oriente]] conviene distinguir la extensión medieval por Asia y los territorios, parroquias y diásporas de sus Iglesias herederas. [11, 12, 13, 14]
 
+## E16.1–16.3 · Iglesias siríacas, disidencias medievales e iconoclasia
+
+### Sedes históricas y diócesis de la diáspora
+
+Para la [[siriaca|Iglesia ortodoxa siríaca]] conviene distinguir Antioquía como título de sede histórica, Damasco como sede actual y las diócesis de la diáspora. La [[maronita|Iglesia maronita]] tiene sede en Bkerke y eparquías en varios países. La distribución de las jurisdicciones y los datos sobre hogares o bautizados se documentan con fuentes de distinto alcance. [15, 16, 17, 18]
+
+### Una geografía de fuentes medievales
+
+Los [[paulicianos|paulicianos]] se documentan en Anatolia oriental y aparecen en testimonios balcánicos posteriores. El [[bogomilismo|bogomilismo]] cuenta con noticias en Bulgaria y Bizancio. El [[catarismo|catarismo]] tiene archivos de distinto tipo para Languedoc y el norte de Italia. La [[iconoclasia|iconoclasia bizantina]] se sitúa por concilios, edificios y decisiones imperiales, con recepciones diferentes fuera del Imperio. [19, 20, 21, 22]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -177,3 +195,11 @@ Iona y Lindisfarne sirven para localizar redes del [[celta-crist|cristianismo in
 12. [Oxford Research Encyclopedia, Medieval/Christian Nubia](https://academic.oup.com/edited-volume/61663/chapter-abstract/553492790).
 13. [Encyclopaedia Iranica, cristianismo en Asia central y Turquestán chino](https://www.iranicaonline.org/articles/christianity-iii/).
 14. [Journal of the Anthropological Society of Oxford, comunidades asirias y diáspora](https://ora.ox.ac.uk/objects/uuid%3A608f55d8-0658-413e-9c89-a176721df16e/files/rq811kk78c).
+15. [Consejo Mundial de Iglesias, Patriarcado Ortodoxo Sirio de Antioquía](https://www.oikoumene.org/es/member-churches/syrian-orthodox-patriarchate-of-antioch-and-all-the-east).
+16. [Autoridad sueca de comunidades religiosas, Iglesia ortodoxa siríaca y migraciones](https://myndighetensst.se/download/18.2f6fb2621900fdb71fe4efb/1718702518641/Syrisk%20ortodoxa%20kyrkan_digital%20version%20OK.pdf).
+17. [Catholic Near East Welfare Association, Iglesia católica maronita](https://cnewa.org/eastern-christian-churches/the-catholic-eastern-churches/churches-with-no-orthodox-counterpart/the-maronite-catholic-church/).
+18. [Santa Sede, sede patriarcal maronita de Bkerke](https://www.popeinlebanon.com/en/news/Maronite-Patriarchal-See-of-Bkerke).
+19. [Carl Dixon, The Paulicians. Heresy, Persecution and Warfare on the Byzantine Frontier](https://www.degruyterbrill.com/document/isbn/9789004517080/html).
+20. [Paul Stephenson, Bulgaria y los Balcanes septentrionales, c. 900–963](https://www.cambridge.org/core/books/abs/byzantiums-balkan-frontier/bulgaria-and-beyond-the-northern-balkans-c900963/17DB7FF0A5F463DA8C9887239C520696).
+21. [Malcolm Barber, The Cathars](https://www.routledge.com/The-Cathars-Dualist-Heretics-in-Languedoc-in-the-High-Middle-Ages/Barber/p/book/9781408252581).
+22. [Leslie Brubaker y John Haldon, Byzantium in the Iconoclast Era](https://history.princeton.edu/about/publications/byzantium-iconoclast-era-c-680-850-history).

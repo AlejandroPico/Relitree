@@ -7,15 +7,11 @@
   "importancia": 2,
   "padres": [
     {
-      "id": "bogomilismo",
+      "id": "cristianismo",
       "relacion": "derivacion"
     }
   ],
   "influencias": [],
-  "icono": {
-    "archivo": "icono.svg",
-    "fuente": "https://commons.wikimedia.org/wiki/File:Cathar_cross.svg",
-    "licencia": "CC BY-SA 2.5",
-    "autor": "Huhsunqu"
-  }
+  "icono": null,
+  "heredar_icono": false
 }

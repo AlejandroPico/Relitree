@@ -4,6 +4,12 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E16 · 16.1. [Iglesia ortodoxa siríaca](enciclopedia/es/religiones/siriaca.md), 5.288 palabras de cuerpo y 3 figuras. [Paulicianos](enciclopedia/es/religiones/paulicianos.md), 5.336 palabras de cuerpo y 3 figuras. Versión 1.7.54.
+- [x] E16 · 16.2. [Bogomilismo](enciclopedia/es/religiones/bogomilismo.md), 5.058 palabras de cuerpo y 3 figuras. [Catarismo](enciclopedia/es/religiones/catarismo.md), 5.071 palabras de cuerpo y 3 figuras. Versión 1.7.54.
+- [x] E16 · 16.3. [Iglesia maronita](enciclopedia/es/religiones/maronita.md), 5.137 palabras de cuerpo y 3 figuras. [Iconoclasia bizantina](enciclopedia/es/religiones/iconoclasia.md), 5.101 palabras de cuerpo y 3 figuras. Versión 1.7.54.
+  - Actualizados los seis temas E01. Para las disidencias medievales se documentan lugares, fuentes y prácticas puntuales. Faltan series comparables de población y calendarios completos.
+  - Revisados los seis nodos. Reproducciones acreditadas de los blasones patriarcales siríaco y maronita. La cruz occitana sale del nodo cátaro y se explica en la ficha. Los cuatro nodos históricos se identifican mediante la marca de cronología. Se retiraron las conexiones que daban por asentadas filiaciones debatidas. Las fichas recogen la documentación sobre contactos e influencias.
+
 - [x] E15 · 15.4. [Iglesia ortodoxa etíope Tewahedo](enciclopedia/es/religiones/etiope.md), 5.456 palabras de cuerpo y 4 imágenes. [Rastafari](enciclopedia/es/religiones/rastafari.md), 5.279 palabras de cuerpo y 3 imágenes. Versión 1.7.53.
 - [x] E15 · 15.5. [Cristianos de Santo Tomás](enciclopedia/es/religiones/cristianos-santo-tomas.md), 5.220 palabras de cuerpo y 3 imágenes. [Cristianismo celta](enciclopedia/es/religiones/celta-crist.md), 5.131 palabras de cuerpo y 3 imágenes. Versión 1.7.53.
 - [x] E15 · 15.6. [Iglesia del Oriente](enciclopedia/es/religiones/iglesia-oriente.md), 5.114 palabras de cuerpo y 3 imágenes. [Cristianismo nubio](enciclopedia/es/religiones/nubia-cristiana.md), 5.042 palabras de cuerpo y 3 imágenes. Versión 1.7.53.
@@ -203,6 +209,7 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 - E07 · Cruzadas y guerras santas. Fase completada con quince artículos.
 - E12 · Biografías de papas y santos. Fase completada con doce artículos.
 - E15 · Tradiciones cristianas (2/9). Publicadas las doce fichas. Queda por ampliar al objetivo de 10.000 palabras de cuerpo cada una de las seis entradas de 15.4–15.6.
+- E16 · Tradiciones cristianas (3/9). Publicadas 16.1–16.3. Pendientes 16.4–16.6 y la ampliación de las seis primeras fichas al objetivo de 10.000 palabras.
 - E13–E22 · Cristianismo (figuras y tradiciones)
 - E23–E26 · Judaísmo
 - E27–E33 · Islam

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1365
+palabras: 1458
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -29,6 +29,12 @@ fuentes:
   - "https://sourcebooks.web.fordham.edu/basis/bede-book3.asp"
   - "https://www.gorgiaspress.com/images/uploaded/Gorgias%20Open%20Repository/978-1-4632-0608-6_QAOK.pdf"
   - "https://www.dbmnt.uw.edu.pl/"
+  - "https://syriacorthodoxresources.org/Feast/fasts.html"
+  - "https://www.familyofsaintsharbel.org/uploads/1/2/4/2/124289884/ritbat_al_milad_2023.pdf"
+  - "https://www.iconmuseum.org/british-museum-icons/icon-with-the-triumph-of-orthodoxy/"
+  - "https://www.jstor.org/stable/jj.21995826"
+  - "https://czasopisma.uni.lodz.pl/sceranea/article/download/6640/6225/18037"
+  - "https://www.rialto.unina.it/prosa_religiosa/cathrit/"
 ---
 
 # Calendarios y festividades del mundo
@@ -131,6 +137,16 @@ En la [[etiope|tradición etíope Tewahedo]], Timkat incorpora vigilia, procesi�
 
 La reunión de Whitby ilustra una decisión concreta sobre el cómputo de la Pascua en el [[celta-crist|cristianismo insular]]. Los manuscritos de la [[iglesia-oriente|Iglesia del Oriente]] en Turfán dan acceso a partes del ciclo litúrgico siríaco oriental. Para el [[nubia-cristiana|cristianismo nubio]], inscripciones y plegarias permiten estudiar celebraciones puntuales. Un calendario anual completo requiere una serie de testimonios más amplia. [12, 13, 14]
 
+## E16.1–16.3 · Iglesias siríacas, disidencias medievales e iconoclasia
+
+### Fiestas, oficios y memorias
+
+La rogativa de Nínive figura entre los ayunos de la [[siriaca|Iglesia ortodoxa siríaca]]. La [[maronita|Iglesia maronita]] publica un orden de preparación de la Navidad con lecturas y salmos. La tradición bizantina conmemora el restablecimiento de las imágenes tras la [[iconoclasia|iconoclasia]] el primer domingo de Cuaresma. [15, 16, 17]
+
+### Prácticas y cronologías documentales
+
+Las refutaciones de [[paulicianos|paulicianos]] y del [[bogomilismo|bogomilismo]] dan noticias puntuales de plegarias, disciplina y ceremonias. En el [[catarismo|catarismo]], el ritual de Lyon permite estudiar el *consolamentum* con instrucciones conservadas. En los tres casos, la evidencia disponible permite describir prácticas concretas y deja lagunas para reconstruir un calendario anual. [18, 19, 20]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -159,3 +175,9 @@ La reunión de Whitby ilustra una decisión concreta sobre el cómputo de la Pas
 12. [Beda, Historia eclesiástica, libro III](https://sourcebooks.web.fordham.edu/basis/bede-book3.asp).
 13. [Gorgias Press, manuscritos siríacos de Turfán](https://www.gorgiaspress.com/images/uploaded/Gorgias%20Open%20Repository/978-1-4632-0608-6_QAOK.pdf).
 14. [Database of Medieval Nubian Texts, Universidad de Varsovia](https://www.dbmnt.uw.edu.pl/).
+15. [Syriac Orthodox Resources, ayunos de la Iglesia](https://syriacorthodoxresources.org/Feast/fasts.html).
+16. [Comisión litúrgica patriarcal, orden de preparación para Navidad](https://www.familyofsaintsharbel.org/uploads/1/2/4/2/124289884/ritbat_al_milad_2023.pdf).
+17. [Icon Museum, el icono del Triunfo de la Ortodoxia](https://www.iconmuseum.org/british-museum-icons/icon-with-the-triumph-of-orthodoxy/).
+18. [Janet y Bernard Hamilton y Yuri Stoyanov, Christian Dualist Heresies in the Byzantine World](https://www.jstor.org/stable/jj.21995826).
+19. [Studia Ceranea, anatemas del Sinódico y discurso de Cosmas](https://czasopisma.uni.lodz.pl/sceranea/article/download/6640/6225/18037).
+20. [Rialto, edición del ritual occitano](https://www.rialto.unina.it/prosa_religiosa/cathrit/).

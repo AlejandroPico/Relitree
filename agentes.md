@@ -98,7 +98,7 @@ El plan completo, con la lista de artículos de cada fase, está en `enciclopedi
 8. Las listas extensas (papas, califas, imanes, gurús, patriarcas, dalái lamas, tirthankaras…) son completas: cada miembro con su propio apartado; los principales, además, con artículo propio. Las figuras menores pueden agruparse en artículos colectivos de ≥ 5.000 palabras.
 9. Panteones: cada deidad con su apartado (iconografía, mitos, culto, símbolos, festividades, lugares). Hinduismo: **al menos 100 deidades**. Mismo criterio para los panteones egipcio, mesopotámico, griego, romano, nórdico, celta, mexica, maya, inca y yoruba.
 10. Índice lateral en árbol, con anidación ilimitada (religión → categorías → subcategorías → artículos). Dentro del artículo, el índice de secciones y subsecciones lleva a cada encabezado.
-11. Recursos visuales: imágenes de Wikimedia Commons descargadas al repositorio con autor y licencia; diagramas, cronologías, mapas y tablas propios. Vídeo solo de fuentes institucionales oficiales (museos, universidades, organismos públicos, las propias instituciones religiosas), nunca de canales particulares.
+11. Recursos visuales: imágenes de Wikimedia Commons descargadas al repositorio con autor y licencia; diagramas, cronologías, mapas y tablas propios. Vídeo solo de fuentes institucionales oficiales (museos, universidades, organismos públicos, las propias instituciones religiosas), nunca de canales particulares. En la revisión de cada tanda, contrastar los emblemas institucionales con su uso documentado y distinguirlos de los motivos históricos y las atribuciones modernas.
 
 **Rigor**
 12. Cada artículo termina con sus fuentes (bibliografía académica y obras de referencia). Fechas, cifras y citas se contrastan antes de dar el artículo por completo. Las citas de textos sagrados, en traducciones de dominio público o parafraseadas.
@@ -125,6 +125,8 @@ Antes de retomar una fase, consultar el reparto y las casillas de `enciclopedia/
 En la versión 1.7.51 está completa la fase E14, entregas 14.1–14.6. Sus doce entradas se abren desde sus entidades en el árbol. Los seis artículos de 14.4–14.6 tienen entre 5.000 y 5.500 palabras de cuerpo y dos esquemas cada uno. El objetivo de ampliación editorial sigue siendo 10.000 palabras por artículo. El glosario y los cinco temas comparativos de E01 recogen la fase. El índice de la Enciclopedia destaca en negrita los artículos con estado completo a partir de E14.
 
 En la versión 1.7.53 está completa la fase **E15**, con 12 fichas publicadas. Las entregas **15.4–15.6** reúnen 19 figuras acreditadas y 5.042–5.456 palabras de cuerpo por artículo. Queda abierta la ampliación de esas seis entradas al objetivo editorial de 10.000 palabras. Los seis temas de E01 recogen la entrega. La siguiente fase es E16, que comienza con la Iglesia ortodoxa siríaca.
+
+En la versión 1.7.54 se publicaron las primeras ediciones de **16.1–16.3 de E16**, con seis fichas, 18 figuras acreditadas y revisión de la iconografía de los seis nodos. El objetivo de ampliación sigue siendo 10.000 palabras por ficha. La siguiente entrega es **16.4**, con Iglesia católica y Orden del Temple.
 
 ## Mantenimiento acumulativo de E01
 

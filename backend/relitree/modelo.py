@@ -48,6 +48,7 @@ class Religion:
     fieles: int | None = None                               # estimación actual de fieles (mínimo del rango)
     fieles_max: int | None = None                           # máximo, cuando las fuentes dan un rango
     fieles_fuente: str | None = None
+    heredar_icono: bool = True
 
     @property
     def padre(self) -> str | None:
@@ -78,6 +79,7 @@ def cargar(directorio: Path = DIR_RELIGIONES) -> dict[str, Religion]:
             padres=ficha.get("padres", []), influencias=ficha.get("influencias", []),
             alias=t.get("alias", []), icono=ficha.get("icono"),
             fieles=ficha.get("fieles"), fieles_max=ficha.get("fieles_max"), fieles_fuente=ficha.get("fieles_fuente"),
+            heredar_icono=ficha.get("heredar_icono", True),
         )
     return religiones
 
@@ -116,7 +118,7 @@ def icono_de(r: Religion, religiones: dict[str, Religion]) -> tuple[str | None, 
     # un renacimiento moderno adopta el símbolo de la religión que revive
     if r.padres and r.padres[0].get("relacion") == "renacimiento" and (DIR_RELIGIONES / r.padre / "icono.svg").exists():
         return r.padre, False
-    if r.tipo in SIN_HERENCIA:
+    if not r.heredar_icono or r.tipo in SIN_HERENCIA:
         return None, False
     actual = religiones.get(r.padre) if r.padre else None
     while actual:

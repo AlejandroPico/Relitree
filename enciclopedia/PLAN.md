@@ -306,18 +306,20 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 
 ## Fase E16 · Cristianismo · tradiciones (3/9)
 
-- Iglesia ortodoxa siríaca (`siriaca`)
-- Paulicianos (`paulicianos`)
-- Bogomilismo (`bogomilismo`)
-- Catarismo (`catarismo`)
-- Iglesia maronita (`maronita`)
-- Iconoclasia bizantina (`iconoclasia`)
-- Iglesia católica (`catolica`)
-- Orden del Temple (`templarios`)
-- Valdenses (`valdenses`)
-- Orden franciscana (`franciscanos`)
-- Orden dominicana (`dominicos`)
-- Lolardos (`lolardos`)
+**Estado.** Primeras ediciones publicadas de 16.1–16.3 en la versión 1.7.54. Quedan 16.4–16.6 y la ampliación al objetivo editorial de 10.000 palabras de las seis fichas publicadas.
+
+- [x] 16.1 · [Iglesia ortodoxa siríaca](es/religiones/siriaca.md). 5.288 palabras de cuerpo y 3 figuras.
+- [x] 16.1 · [Paulicianos](es/religiones/paulicianos.md). 5.336 palabras de cuerpo y 3 figuras.
+- [x] 16.2 · [Bogomilismo](es/religiones/bogomilismo.md). 5.058 palabras de cuerpo y 3 figuras.
+- [x] 16.2 · [Catarismo](es/religiones/catarismo.md). 5.071 palabras de cuerpo y 3 figuras.
+- [x] 16.3 · [Iglesia maronita](es/religiones/maronita.md). 5.137 palabras de cuerpo y 3 figuras.
+- [x] 16.3 · [Iconoclasia bizantina](es/religiones/iconoclasia.md). 5.101 palabras de cuerpo y 3 figuras.
+- [ ] 16.4 · Iglesia católica (`catolica`)
+- [ ] 16.4 · Orden del Temple (`templarios`)
+- [ ] 16.5 · Valdenses (`valdenses`)
+- [ ] 16.5 · Orden franciscana (`franciscanos`)
+- [ ] 16.6 · Orden dominicana (`dominicos`)
+- [ ] 16.6 · Lolardos (`lolardos`)
 
 ## Fase E17 · Cristianismo · tradiciones (4/9)
 
