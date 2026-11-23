@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1756
+palabras: 1844
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -48,6 +48,13 @@ fuentes:
   - "https://commons.wikimedia.org/wiki/File:Pia_desideria_de_P._J._Spener.jpg"
   - "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315"
   - "https://hutterites.org/history/hutterite-history-overview/"
+  - "https://mwc-cmm.org/en/about-mwc/"
+  - "https://groups.etown.edu/amishstudies/social-organization/diversity/"
+  - "https://sah-archipedia.org/buildings/PA-02-MO40"
+  - "https://www.unity.org/en/article/historic-connection-prayer-and-unity"
+  - "https://csl.org/science-of-mind/"
+  - "https://www.scientology.org/faq/background-and-basic-principles/what-is-the-scientology-cross.html"
+  - "https://www.scientology.org/faq/background-and-basic-principles/what-does-the-scientology-symbol-represent.html"
 ---
 
 # Simbología religiosa comparada
@@ -180,6 +187,16 @@ La comunión bajo ambas especies da contexto al cáliz [[husitas|husita]], repro
 
 Las figuras de [[pietismo|pietismo]], [[anabaptismo|anabaptismo]] y [[huteritas|huteritas]] proceden de impresos, arte y lugares concretos. Sus nodos utilizan la marca cronológica porque falta un emblema común documentado para el conjunto de cada tradición. [31, 32, 33]
 
+## E17.5–17.7 · Menonitas, amish y movimientos religiosos modernos
+
+### Identidad local, emblema institucional y patrimonio
+
+Para los [[menonitas|menonitas]], los emblemas de conferencias y organismos de paz tienen titulares concretos. Una cubierta de carruaje [[amish|amish]] señala usos de algunas afiliaciones. La portada y la catedral de Bryn Athyn documentan dos etapas de la [[swedenborg|Nueva Iglesia]]. [34, 35, 36]
+
+### Símbolos de organizaciones concretas
+
+Las organizaciones del [[nuevo-pensamiento|Nuevo Pensamiento]] emplean identidades visuales distintas. La [[cienciologia|Iglesia de Cienciología]] explica la cruz de ocho puntas en relación con sus dinámicas y emplea además la S con dos triángulos. El árbol identifica estas tradiciones con su marca y la ficha documenta los usos de cada institución. [37, 38, 39, 40]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -228,3 +245,10 @@ Las figuras de [[pietismo|pietismo]], [[anabaptismo|anabaptismo]] y [[huteritas|
 31. [Philipp Jakob Spener, Pia desideria, portada de la primera edición](https://commons.wikimedia.org/wiki/File:Pia_desideria_de_P._J._Spener.jpg).
 32. [German History in Documents and Images, Artículos de Schleitheim](https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315).
 33. [Hutterites.org, historia de las comunidades](https://hutterites.org/history/hutterite-history-overview/).
+34. [Congreso Mundial Menonita, alcance, historia y organización](https://mwc-cmm.org/en/about-mwc/).
+35. [Young Center, afiliaciones y diversidad](https://groups.etown.edu/amishstudies/social-organization/diversity/).
+36. [Society of Architectural Historians, catedral de Bryn Athyn](https://sah-archipedia.org/buildings/PA-02-MO40).
+37. [Unity, historia de su servicio de oración](https://www.unity.org/en/article/historic-connection-prayer-and-unity).
+38. [Centers for Spiritual Living, filosofía de la Ciencia de la Mente](https://csl.org/science-of-mind/).
+39. [Iglesia de Cienciología, explicación de la cruz de ocho puntas](https://www.scientology.org/faq/background-and-basic-principles/what-is-the-scientology-cross.html).
+40. [Iglesia de Cienciología, explicación de la S y el doble triángulo](https://www.scientology.org/faq/background-and-basic-principles/what-does-the-scientology-symbol-represent.html).

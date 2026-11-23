@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1967
+palabras: 2041
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -48,6 +48,11 @@ fuentes:
   - "https://www.churchofengland.org/liturgy/book-of-common-prayer"
   - "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315"
   - "https://www.plough.com/books/peter-riedemanns-hutterite-confession-of-faith"
+  - "https://gameo.org/index.php?title=Dordrecht_Confession_of_Faith_%28Mennonite%2C_1632%29"
+  - "https://wwws.loc.gov/rr/program/journey/amish-transcript.html"
+  - "https://swedenborg.com/wp-content/uploads/2013/03/swedenborg_foundation_arcana_coelestia_01.pdf"
+  - "https://www.unity.org/en/article/daily-word-past-100-years"
+  - "https://academic.oup.com/book/6885"
 ---
 
 # Textos sagrados del mundo comparados
@@ -194,6 +199,16 @@ En Bohemia, los [[husitas|husitas]] articularon demandas de predicación y comun
 
 En el [[anglicanismo|anglicanismo]], el Libro de Oración Común organiza servicios y lecturas. Entre los documentos del [[anabaptismo|anabaptismo]], Schleitheim expone las reglas de congregaciones de los Hermanos Suizos. Para los [[huteritas|huteritas]], la confesión de Riedemann explica la relación entre bautismo, comunidad y bienes compartidos. [29, 30, 31]
 
+## E17.5–17.7 · Menonitas, amish y movimientos religiosos modernos
+
+### Confesiones, himnos y lectura de la Biblia
+
+Entre los [[menonitas|menonitas]], Dordrecht es una confesión histórica con recepción diversa. El *Ausbund* transmite cantos usados por comunidades [[amish|amish]]. La [[swedenborg|Nueva Iglesia]] estudia las correspondencias bíblicas desarrolladas en *Arcana Coelestia*. [32, 33, 34]
+
+### Lecciones devocionales y corpus de autor
+
+En el [[nuevo-pensamiento|Nuevo Pensamiento]] se distingue el uso de *Daily Word* en Unity de los libros de otras corrientes. En [[cienciologia|Cienciología]], los textos y conferencias de Hubbard se emplean en itinerarios de formación y auditación. Los documentos tienen autoridades y formas de acceso diferentes. [35, 36]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -241,3 +256,8 @@ En el [[anglicanismo|anglicanismo]], el Libro de Oración Común organiza servic
 29. [Iglesia de Inglaterra, Book of Common Prayer](https://www.churchofengland.org/liturgy/book-of-common-prayer).
 30. [German History in Documents and Images, Artículos de Schleitheim](https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315).
 31. [Peter Riedemann, Hutterite Confession of Faith](https://www.plough.com/books/peter-riedemanns-hutterite-confession-of-faith).
+32. [GAMEO, Confesión de Dordrecht de 1632 y su recepción](https://gameo.org/index.php?title=Dordrecht_Confession_of_Faith_%28Mennonite%2C_1632%29).
+33. [Library of Congress, los amish y el Ausbund en sus colecciones](https://wwws.loc.gov/rr/program/journey/amish-transcript.html).
+34. [Emanuel Swedenborg, edición inglesa de Arcana Coelestia, tomo I](https://swedenborg.com/wp-content/uploads/2013/03/swedenborg_foundation_arcana_coelestia_01.pdf).
+35. [Unity, cien años de Daily Word](https://www.unity.org/en/article/daily-word-past-100-years).
+36. [Donald A. Westbrook, Among the Scientologists. History, Theology, and Praxis](https://academic.oup.com/book/6885).

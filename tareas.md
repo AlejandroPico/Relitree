@@ -4,6 +4,14 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E17 · 17.5. [Menonitas](enciclopedia/es/religiones/menonitas.md), 5.050 palabras de cuerpo y 3 figuras. [Amish](enciclopedia/es/religiones/amish.md), 5.038 palabras de cuerpo y 3 figuras. Versión 1.7.57.
+- [x] E17 · 17.6. [Nueva Iglesia o swedenborgianismo](enciclopedia/es/religiones/swedenborg.md), 5.017 palabras de cuerpo y 3 figuras. [Nuevo Pensamiento](enciclopedia/es/religiones/nuevo-pensamiento.md), 5.012 palabras de cuerpo y 4 figuras. Versión 1.7.57.
+- [x] E17 · 17.7. [Cienciología](enciclopedia/es/religiones/cienciologia.md), 5.030 palabras de cuerpo y 3 figuras. Versión 1.7.57.
+  - E17 queda publicada con doce fichas. En 17.5–17.7 se añaden 16 figuras y se actualizan los seis temas de E01.
+  - Sin cifras de filiación comparables para los cinco nodos. La estimación de población amish incluye menores. El mapa del Congreso Mundial Menonita abarca varias tradiciones anabaptistas.
+  - Se documenta el uso de la marca cronológica, la influencia swedenborgiana en el Nuevo Pensamiento y el origen independiente de Cienciología.
+  - Pendiente la ampliación de E17 al objetivo de 10.000 palabras por ficha. La siguiente fase es E18.
+
 - [x] E17 · 17.1. [Husitas](enciclopedia/es/religiones/husitas.md), 6.335 palabras de cuerpo y 3 figuras. [Hermanos moravos](enciclopedia/es/religiones/moravos.md), 5.038 palabras de cuerpo y 3 figuras. Versión 1.7.56.
 - [x] E17 · 17.2. [Luteranismo](enciclopedia/es/religiones/luteranismo.md), 5.026 palabras de cuerpo y 3 figuras. [Pietismo](enciclopedia/es/religiones/pietismo.md), 5.016 palabras de cuerpo y 3 figuras. Versión 1.7.56.
 - [x] E17 · 17.3. [Anglicanismo](enciclopedia/es/religiones/anglicanismo.md), 5.022 palabras de cuerpo y 3 figuras. Versión 1.7.56.

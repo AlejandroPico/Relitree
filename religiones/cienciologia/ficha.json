@@ -5,12 +5,8 @@
   "fin": null,
   "tipo": "nmr",
   "importancia": 1,
-  "padres": [
-    {
-      "id": "nuevo-pensamiento",
-      "relacion": "derivacion"
-    }
-  ],
+  "padres": [],
   "influencias": [],
-  "icono": null
+  "icono": null,
+  "heredar_icono": false
 }

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1746
+palabras: 1819
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -58,6 +58,15 @@ fuentes:
   - "https://www.goshen.edu/facilities/mennonite-historical-library/"
   - "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315"
   - "https://www.plough.com/books/peter-riedemanns-hutterite-confession-of-faith"
+  - "https://gameo.org/index.php?title=Menno_Simons_%281496-1561%29"
+  - "https://gameo.org/index.php?title=Ammann%2C_Jakob_%2817th%2F18th_century%29"
+  - "https://www.unesco.org/en/memory-world/emanuel-swedenborg-collection?hub=1081"
+  - "https://swedenborg.org/explore/history/"
+  - "https://cswr.hds.harvard.edu/news/2026/08/03/new-thought"
+  - "https://www.nccih.nih.gov/health/espanol/consideraciones-en-un-enfoque-complementario-para-la-salud"
+  - "https://law.justia.com/cases/federal/district-courts/FSupp/333/357/1606969/"
+  - "https://www.supremecourt.uk/cases/uksc-2013-0030"
+  - "https://www.mpr.gob.es/mpr/subse/libertad-religiosa/Documents/Jurisprudencia/PersonalidadJuridica/SAN-4394-2007_111007_Scientology.pdf"
 ---
 
 # Historia del estudio de las religiones
@@ -194,6 +203,16 @@ Para los [[husitas|husitas]], los procesos de Constanza y las negociaciones de B
 
 El Libro de Concordia permite estudiar la formación del [[luteranismo|luteranismo]] confesional. En el [[anglicanismo|anglicanismo]], los libros de oración y las normas estatales y provinciales tienen alcances diferentes. Schleitheim y los martirologios responden a funciones distintas en el [[anabaptismo|anabaptismo]]. Para la historia de los [[huteritas|huteritas]] se pueden contrastar la confesión de Riedemann, sus crónicas y archivos de colonias. [32, 33, 34, 35, 36]
 
+## E17.5–17.7 · Menonitas, amish y movimientos religiosos modernos
+
+### Confesión, archivo y comunidad
+
+Los tratados de Menno permiten estudiar el arraigo [[menonitas|menonita]] en el norte europeo. Las cartas sobre Jakob Ammann ayudan a reconstruir la división [[amish|amish]]. En la [[swedenborg|Nueva Iglesia]] se pueden cotejar manuscritos, primeras ediciones y actas de congregaciones. [37, 38, 39, 40]
+
+### Testimonio, atribución y jurisdicción
+
+Para el [[nuevo-pensamiento|Nuevo Pensamiento]] se distinguen los testimonios de curación, su publicación y lo que exigiría una evaluación clínica. En [[cienciologia|Cienciología]], las resoluciones sobre registro, un lugar de culto y el electrómetro tienen objetos diferentes. [41, 42, 43, 44, 45]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -251,3 +270,12 @@ El Libro de Concordia permite estudiar la formación del [[luteranismo|luteranis
 34. [Goshen College, Mennonite Historical Library y su ejemplar del Martyrs Mirror](https://www.goshen.edu/facilities/mennonite-historical-library/).
 35. [German History in Documents and Images, Artículos de Schleitheim](https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315).
 36. [Peter Riedemann, Hutterite Confession of Faith](https://www.plough.com/books/peter-riedemanns-hutterite-confession-of-faith).
+37. [Global Anabaptist Mennonite Encyclopedia Online, Menno Simons](https://gameo.org/index.php?title=Menno_Simons_%281496-1561%29).
+38. [GAMEO, Jakob Ammann y la división](https://gameo.org/index.php?title=Ammann%2C_Jakob_%2817th%2F18th_century%29).
+39. [UNESCO, colección Emanuel Swedenborg en Memoria del Mundo](https://www.unesco.org/en/memory-world/emanuel-swedenborg-collection?hub=1081).
+40. [Swedenborgian Church of North America, historia del movimiento](https://swedenborg.org/explore/history/).
+41. [Center for the Study of World Religions, Harvard Divinity School, New Thought](https://cswr.hds.harvard.edu/news/2026/08/03/new-thought).
+42. [National Center for Complementary and Integrative Health, criterios de evidencia y atención complementaria](https://www.nccih.nih.gov/health/espanol/consideraciones-en-un-enfoque-complementario-para-la-salud).
+43. [Tribunal federal del Distrito de Columbia, United States v. Article or Device, 333 F. Supp. 357, 1971](https://law.justia.com/cases/federal/district-courts/FSupp/333/357/1606969/).
+44. [Tribunal Supremo del Reino Unido, R (Hodkin) v Registrar General, 2013](https://www.supremecourt.uk/cases/uksc-2013-0030).
+45. [Audiencia Nacional, sentencia de 11 de octubre de 2007, SAN 4394/2007](https://www.mpr.gob.es/mpr/subse/libertad-religiosa/Documents/Jurisprudencia/PersonalidadJuridica/SAN-4394-2007_111007_Scientology.pdf).

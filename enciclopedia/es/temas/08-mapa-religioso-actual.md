@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1759
+palabras: 1837
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -54,6 +54,12 @@ fuentes:
   - "https://www.oikoumene.org/member-churches/czechoslovak-hussite-church"
   - "https://www.francke-halle.de/en/international/historical-networks"
   - "https://mwc-cmm.org/wp-content/uploads/2024/11/gmh-europe_testing_faith_and_tradition.pdf"
+  - "https://mwc-cmm.org/wp-content/uploads/2025/07/2025-MWC-World-Map-Circle_A1-size-_no-bleed.pdf"
+  - "https://groups.etown.edu/amishstudies/amish-population-profile-2026/"
+  - "https://swedenborg.org/explore/history/"
+  - "https://www.unity.org/en/article/historic-connection-prayer-and-unity"
+  - "https://csl.org/science-of-mind/"
+  - "https://www.ons.gov.uk/census/census2021dictionary/variablesbytopic/ethnicgroupnationalidentitylanguageandreligionvariablescensus2021/religiondetailed"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -196,6 +202,16 @@ Para los [[moravos|moravos]], la Unidad establece un orden provincial. La Federa
 
 La cifra de la Iglesia husita checoslovaca, fundada en 1920, corresponde a una institución distinta del movimiento [[husitas|husita]] medieval. El [[pietismo|pietismo]] puede cartografiarse por sus redes de escuelas, correspondencia y misión. Para el [[anabaptismo|anabaptismo]], una genealogía de iglesias requiere distinguir fecha, región y filiación documentada. [33, 34, 35]
 
+## E17.5–17.7 · Menonitas, amish y movimientos religiosos modernos
+
+### Bautizados, residentes e iglesias afiliadas
+
+El mapa anabaptista del Congreso Mundial [[menonitas|Menonita]] de 2025 reúne iglesias distintas y cuenta bautizados. La estimación del Young Center para Norteamérica en 2026, de 421.200 personas [[amish|amish]], incluye a niños y adultos. Son bases diferentes. [36, 37]
+
+### Presencia geográfica e indicadores
+
+La [[swedenborg|Nueva Iglesia]] desarrolló sociedades y convenciones en Europa y Norteamérica. En el [[nuevo-pensamiento|Nuevo Pensamiento]], los directorios de Unity y Ciencia Religiosa tienen coberturas propias. Para [[cienciologia|Cienciología]], los censos de autoadscripción miden otra cosa que los registros de cursos o sedes. [38, 39, 40, 41]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -249,3 +265,9 @@ La cifra de la Iglesia husita checoslovaca, fundada en 1920, corresponde a una i
 33. [Consejo Mundial de Iglesias, Iglesia husita checoslovaca](https://www.oikoumene.org/member-churches/czechoslovak-hussite-church).
 34. [Fundaciones Francke, redes históricas](https://www.francke-halle.de/en/international/historical-networks).
 35. [Congreso Mundial Menonita, Testing Faith and Tradition](https://mwc-cmm.org/wp-content/uploads/2024/11/gmh-europe_testing_faith_and_tradition.pdf).
+36. [Congreso Mundial Menonita, mapa mundial anabaptista de 2025 y su cobertura](https://mwc-cmm.org/wp-content/uploads/2025/07/2025-MWC-World-Map-Circle_A1-size-_no-bleed.pdf).
+37. [Young Center, perfil de población amish de 2026](https://groups.etown.edu/amishstudies/amish-population-profile-2026/).
+38. [Swedenborgian Church of North America, historia del movimiento](https://swedenborg.org/explore/history/).
+39. [Unity, historia de su servicio de oración](https://www.unity.org/en/article/historic-connection-prayer-and-unity).
+40. [Centers for Spiritual Living, filosofía de la Ciencia de la Mente](https://csl.org/science-of-mind/).
+41. [Office for National Statistics, categorías detalladas de religión, censo de 2021](https://www.ons.gov.uk/census/census2021dictionary/variablesbytopic/ethnicgroupnationalidentitylanguageandreligionvariablescensus2021/religiondetailed).

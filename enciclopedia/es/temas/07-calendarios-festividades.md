@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1639
+palabras: 1716
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -48,6 +48,11 @@ fuentes:
   - "https://www.francke-halle.de/en/international/historical-networks"
   - "https://mwc-cmm.org/wp-content/uploads/2024/11/gmh-europe_testing_faith_and_tradition.pdf"
   - "https://hutterites.org/history/hutterite-history-overview/"
+  - "https://gameo.org/index.php?title=Dordrecht_Confession_of_Faith_%28Mennonite%2C_1632%29"
+  - "https://groups.etown.edu/amishstudies/religion/religious-rituals/"
+  - "https://swedenborg.com/wp-content/uploads/2024/02/True-Christianity-v1-Deluxe-1stPrinting_04-26-2006.pdf"
+  - "https://www.unity.org/en/article/daily-word-past-100-years"
+  - "https://www.scientology.org/faq/inside-a-church-of-scientology/scientology-religious-holidays.html"
 ---
 
 # Calendarios y festividades del mundo
@@ -180,6 +185,16 @@ El recuerdo de Jan Hus el 6 de julio permite estudiar usos confesionales y públ
 
 Las reuniones del [[pietismo|pietismo]] podían acompañar el calendario de una parroquia. En el [[anabaptismo|anabaptismo]], los aniversarios históricos y las celebraciones litúrgicas tienen fechas y alcances propios. Las reuniones y ceremonias de los [[huteritas|huteritas]] se documentan con atención a su colonia y rama. [31, 32, 33]
 
+## E17.5–17.7 · Menonitas, amish y movimientos religiosos modernos
+
+### Calendario, comunión y reuniones locales
+
+La Cena y el lavatorio de pies se documentan por iglesia en la familia [[menonitas|menonita]]. Entre los [[amish|amish]] su celebración y preparación corresponden a cada distrito. Determinadas comunidades [[swedenborg|swedenborgianas]] observan el Día de la Nueva Iglesia el 19 de junio. [34, 35, 36]
+
+### Ritmo editorial y efemérides
+
+En el [[nuevo-pensamiento|Nuevo Pensamiento]], *Daily Word* establece un ritmo de lectura de Unity. El aniversario del nacimiento de Hubbard y el de la publicación de *Dianetics* forman parte de las conmemoraciones que enumera la Iglesia de [[cienciologia|Cienciología]]. [37, 38]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -227,3 +242,8 @@ Las reuniones del [[pietismo|pietismo]] podían acompañar el calendario de una 
 31. [Fundaciones Francke, redes históricas](https://www.francke-halle.de/en/international/historical-networks).
 32. [Congreso Mundial Menonita, Testing Faith and Tradition](https://mwc-cmm.org/wp-content/uploads/2024/11/gmh-europe_testing_faith_and_tradition.pdf).
 33. [Hutterites.org, historia de las comunidades](https://hutterites.org/history/hutterite-history-overview/).
+34. [GAMEO, Confesión de Dordrecht de 1632 y su recepción](https://gameo.org/index.php?title=Dordrecht_Confession_of_Faith_%28Mennonite%2C_1632%29).
+35. [Young Center, bautismo, comunión y otros ritos](https://groups.etown.edu/amishstudies/religion/religious-rituals/).
+36. [Emanuel Swedenborg, True Christianity, edición anotada](https://swedenborg.com/wp-content/uploads/2024/02/True-Christianity-v1-Deluxe-1stPrinting_04-26-2006.pdf).
+37. [Unity, cien años de Daily Word](https://www.unity.org/en/article/daily-word-past-100-years).
+38. [Iglesia de Cienciología, explicación institucional de los días festivos](https://www.scientology.org/faq/inside-a-church-of-scientology/scientology-religious-holidays.html).

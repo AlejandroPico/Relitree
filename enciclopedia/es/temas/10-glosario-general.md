@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1917
+palabras: 1993
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -55,6 +55,11 @@ fuentes:
   - "https://www.churchofengland.org/liturgy/book-of-common-prayer"
   - "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315"
   - "https://hutterites.org/history/community-of-goods/"
+  - "https://gameo.org/index.php?title=Dordrecht_Confession_of_Faith_%28Mennonite%2C_1632%29"
+  - "https://groups.etown.edu/amishstudies/cultural-practices/regulations/"
+  - "https://swedenborg.com/wp-content/uploads/2013/03/swedenborg_foundation_arcana_coelestia_01.pdf"
+  - "https://cswr.hds.harvard.edu/news/2026/08/03/new-thought"
+  - "https://www.scientology.org/faq/scientology-and-dianetics-auditing/what-is-auditing.html"
 ---
 
 # Glosario general
@@ -293,6 +298,16 @@ Libro copto de las horas de oración diaria. En la [[copta|Iglesia copta]] se di
 
 **Libro de Concordia.** Colección de escritos confesionales recibida por iglesias del [[luteranismo|luteranismo]]. **Ordinal.** Formulario con los ritos para ordenar ministros en el [[anglicanismo|anglicanismo]]. **Bautismo de creyentes.** Incorporación mediante bautismo tras profesar la fe, distintiva del [[anabaptismo|anabaptismo]]. **Comunidad de bienes.** Organización de recursos y trabajo compartidos que caracteriza a las colonias de los [[huteritas|huteritas]]. [28, 29, 30, 31]
 
+## E17.5–17.7 · Menonitas, amish y movimientos religiosos modernos
+
+### Dordrecht, *Ordnung* y correspondencia
+
+**Confesión de Dordrecht.** Texto confesional de 1632 con recepción en varias iglesias [[menonitas|menonitas]]. **Ordnung.** Acuerdos y costumbres por los que se organiza un distrito [[amish|amish]]. **Correspondencia.** En [[swedenborg|Swedenborg]], relación entre realidades naturales y espirituales que interviene en la interpretación bíblica. [32, 33, 34]
+
+### Cura mental y auditación
+
+**Cura mental.** Denominación histórica de varias propuestas norteamericanas sobre la mente, la creencia y el bienestar relacionadas con el [[nuevo-pensamiento|Nuevo Pensamiento]]. **Auditación.** Práctica de asesoramiento espiritual guiado que la [[cienciologia|Cienciología]] organiza dentro de su propio itinerario. [35, 36]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -347,3 +362,8 @@ Libro copto de las horas de oración diaria. En la [[copta|Iglesia copta]] se di
 29. [Iglesia de Inglaterra, Book of Common Prayer](https://www.churchofengland.org/liturgy/book-of-common-prayer).
 30. [German History in Documents and Images, Artículos de Schleitheim](https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi%3Adocument-4315).
 31. [Hutterites.org, comunidad de bienes](https://hutterites.org/history/community-of-goods/).
+32. [GAMEO, Confesión de Dordrecht de 1632 y su recepción](https://gameo.org/index.php?title=Dordrecht_Confession_of_Faith_%28Mennonite%2C_1632%29).
+33. [Young Center, normas y prácticas de los grupos amish](https://groups.etown.edu/amishstudies/cultural-practices/regulations/).
+34. [Emanuel Swedenborg, edición inglesa de Arcana Coelestia, tomo I](https://swedenborg.com/wp-content/uploads/2013/03/swedenborg_foundation_arcana_coelestia_01.pdf).
+35. [Center for the Study of World Religions, Harvard Divinity School, New Thought](https://cswr.hds.harvard.edu/news/2026/08/03/new-thought).
+36. [Iglesia de Cienciología, explicación institucional de la auditación](https://www.scientology.org/faq/scientology-and-dianetics-auditing/what-is-auditing.html).

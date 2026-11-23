@@ -72,7 +72,7 @@
  "amish": {
   "nombre": "Amish",
   "alias": [],
-  "resumen": "Comunidades de vida sencilla y separada, surgidas en Suiza y Alsacia y hoy asentadas en Norteamérica."
+  "resumen": "Iglesias anabaptistas organizadas en distritos. Surgieron de la división de 1693 y se concentran en Norteamérica."
  },
  "anabaptismo": {
   "nombre": "Anabaptismo",
@@ -366,8 +366,8 @@
  },
  "cienciologia": {
   "nombre": "Cienciología",
-  "alias": [],
-  "resumen": "Movimiento de L. Ron Hubbard, desarrollado a partir de la dianética."
+  "alias": ["Scientology", "Iglesia de Scientology"],
+  "resumen": "Movimiento religioso de L. Ron Hubbard que se desarrolló a partir de la dianética."
  },
  "confucianismo": {
   "nombre": "Confucianismo",
@@ -892,7 +892,7 @@
  "menonitas": {
   "nombre": "Menonitas",
   "alias": [],
-  "resumen": "Anabaptistas pacifistas seguidores de Menno Simons."
+  "resumen": "Familia de iglesias anabaptistas de raíces suizas y neerlandesas, con tradiciones de bautismo de creyentes, paz y ayuda mutua."
  },
  "metodismo": {
   "nombre": "Metodismo",
@@ -1046,8 +1046,8 @@
  },
  "nuevo-pensamiento": {
   "nombre": "Nuevo Pensamiento",
-  "alias": [],
-  "resumen": "Corriente de sanación mental y pensamiento positivo."
+  "alias": ["New Thought"],
+  "resumen": "Corrientes norteamericanas de metafísica religiosa que dieron lugar a Unity, Ciencia Divina y Ciencia Religiosa."
  },
  "obeah": {
   "nombre": "Obeah",
@@ -1381,8 +1381,8 @@
  },
  "swedenborg": {
   "nombre": "Nueva Iglesia (swedenborgianismo)",
-  "alias": [],
-  "resumen": "Iglesia basada en las visiones del científico sueco Emanuel Swedenborg."
+  "alias": ["Nueva Jerusalén", "Iglesia de la Nueva Jerusalén"],
+  "resumen": "Iglesias formadas por lectores de Emanuel Swedenborg, con una interpretación bíblica basada en correspondencias."
  },
  "tai-phi": {
   "nombre": "Culto tai a los espíritus",

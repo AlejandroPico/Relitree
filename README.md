@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.56**
+**Versión 1.7.57**
+
+Las [entregas 17.5–17.7](enciclopedia/PLAN.md#fase-e17--cristianismo--tradiciones-49) completan la publicación de E17. Las fichas de menonitas, amish, Nueva Iglesia, Nuevo Pensamiento y Cienciología incluyen 16 figuras acreditadas. Se actualizan los seis temas comparativos de E01.
 
 Las [entregas 17.1–17.4](enciclopedia/PLAN.md#fase-e17--cristianismo--tradiciones-49) incorporan las fichas de husitas, hermanos moravos, luteranismo, pietismo, anglicanismo, anabaptismo y huteritas. Incluyen 21 figuras acreditadas y actualizan los seis temas comparativos de E01.
 

@@ -5,14 +5,11 @@
   "fin": null,
   "tipo": "nmr",
   "importancia": 1,
-  "padres": [
-    {
-      "id": "swedenborg",
-      "relacion": "derivacion"
-    }
-  ],
+  "padres": [],
   "influencias": [
+    "swedenborg",
     "espiritualismo"
   ],
-  "icono": null
+  "icono": null,
+  "heredar_icono": false
 }

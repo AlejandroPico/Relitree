@@ -126,7 +126,7 @@ En la versión 1.7.51 está completa la fase E14, entregas 14.1–14.6. Sus doce
 
 En la versión 1.7.53 está completa la fase **E15**, con 12 fichas publicadas. Las entregas **15.4–15.6** reúnen 19 figuras acreditadas y 5.042–5.456 palabras de cuerpo por artículo. Queda abierta la ampliación de esas seis entradas al objetivo editorial de 10.000 palabras. Los seis temas de E01 recogen la entrega. La siguiente fase es E16, que comienza con la Iglesia ortodoxa siríaca.
 
-En la versión 1.7.56 se publicaron las entregas **17.1–17.4**, con siete fichas y 21 figuras acreditadas. Los seis temas de E01 recogen la entrega. Continúa E17 con 17.5 (menonitas y amish). Queda abierta la ampliación de las siete fichas al objetivo editorial de 10.000 palabras.
+En la versión 1.7.57 se publicaron las entregas **17.5–17.7**, con las cinco fichas restantes de E17 y 16 figuras acreditadas. Los seis temas de E01 recogen la entrega. E17 queda publicada con doce fichas y mantiene el objetivo de ampliación a 10.000 palabras de cuerpo por artículo. La siguiente fase es **E18**, con puritanismo y congregacionalismo al comienzo del plan.
 
 ## Mantenimiento acumulativo de E01
 

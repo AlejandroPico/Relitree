@@ -323,7 +323,7 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 
 ## Fase E17 · Cristianismo · tradiciones (4/9)
 
-**Estado.** Publicadas las siete fichas de 17.1–17.4 en la versión 1.7.56. Quedan 17.5–17.7 y la ampliación editorial de las siete primeras fichas al objetivo de 10.000 palabras.
+**Estado.** Publicadas las doce fichas de E17. La versión 1.7.56 incorporó las entregas 17.1–17.4 y la 1.7.57 las entregas 17.5–17.7. Queda la ampliación al objetivo editorial de 10.000 palabras por ficha.
 
 - [x] 17.1 · [Husitas](es/religiones/husitas.md). 6.335 palabras de cuerpo y 3 figuras.
 - [x] 17.1 · [Hermanos moravos](es/religiones/moravos.md). 5.038 palabras de cuerpo y 3 figuras.
@@ -332,9 +332,11 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 - [x] 17.3 · [Anglicanismo](es/religiones/anglicanismo.md). 5.022 palabras de cuerpo y 3 figuras.
 - [x] 17.4 · [Anabaptismo](es/religiones/anabaptismo.md). 5.037 palabras de cuerpo y 3 figuras.
 - [x] 17.4 · [Huteritas](es/religiones/huteritas.md). 5.100 palabras de cuerpo y 3 figuras.
-- [ ] 17.5 · Menonitas (`menonitas`) y amish (`amish`).
-- [ ] 17.6 · Nueva Iglesia o swedenborgianismo (`swedenborg`) y Nuevo Pensamiento (`nuevo-pensamiento`).
-- [ ] 17.7 · Cienciología (`cienciologia`).
+- [x] 17.5 · [Menonitas](es/religiones/menonitas.md). 5.050 palabras de cuerpo y 3 figuras.
+- [x] 17.5 · [Amish](es/religiones/amish.md). 5.038 palabras de cuerpo y 3 figuras.
+- [x] 17.6 · [Nueva Iglesia o swedenborgianismo](es/religiones/swedenborg.md). 5.017 palabras de cuerpo y 3 figuras.
+- [x] 17.6 · [Nuevo Pensamiento](es/religiones/nuevo-pensamiento.md). 5.012 palabras de cuerpo y 4 figuras.
+- [x] 17.7 · [Cienciología](es/religiones/cienciologia.md). 5.030 palabras de cuerpo y 3 figuras.
 
 ## Fase E18 · Cristianismo · tradiciones (5/9)
 
