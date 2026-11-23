@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2209
+palabras: 2238
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -78,6 +78,9 @@ fuentes:
   - "https://iglesianicristo.net/beliefs/"
   - "https://textos.pucp.edu.pe/pdf/3387.pdf"
   - "https://aeminpu.org.pe/fundador"
+  - "https://wwnorton.co.uk/books/9780393315561-god-s-chinese-son"
+  - "https://academic.oup.com/edited-volume/62249/chapter-abstract/551419960"
+  - "https://hk.waranddefence.museum/en/web/mcd/cultural-relics-of-the-taiping-heavenly-kingdom.html"
 ---
 
 # Glosario general
@@ -356,6 +359,12 @@ Relegación designa una medida colonial de traslado y residencia impuesta que af
 
 Restauración designa en [[inc|Iglesia ni Cristo]] su doctrina de restablecimiento de la Iglesia de Cristo. Nuevo Pacto Universal designa en los [[israelitas|Israelitas del Nuevo Pacto Universal]] una interpretación de la ley y de la misión iniciada por Ataucusi en Perú. [52, 53, 54]
 
+## E18.6 · Reino Celestial Taiping
+
+### Taiping Tianguo y Tianjing
+
+Taiping Tianguo es el nombre chino del [[taiping|Reino Celestial de la Gran Paz]]. Tianjing, Capital Celestial, fue el nombre que el reino dio a Nankín tras tomarla en 1853. [55, 56, 57]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -433,3 +442,6 @@ Restauración designa en [[inc|Iglesia ni Cristo]] su doctrina de restablecimien
 52. [Iglesia ni Cristo, exposición de las creencias de la confesión](https://iglesianicristo.net/beliefs/).
 53. [Juan M. Ossio, Los Israelitas del Nuevo Pacto Universal, Pontificia Universidad Católica del Perú](https://textos.pucp.edu.pe/pdf/3387.pdf).
 54. [AEMINPU, biografía institucional de Ezequiel Ataucusi Gamonal](https://aeminpu.org.pe/fundador).
+55. [Jonathan D. Spence, God’s Chinese Son, W. W. Norton](https://wwnorton.co.uk/books/9780393315561-god-s-chinese-son).
+56. [«The Religious Program of the Heavenly Kingdom of Great Peace», Oxford University Press](https://academic.oup.com/edited-volume/62249/chapter-abstract/551419960).
+57. [Museo de la Guerra y la Defensa de Hong Kong, objetos del Reino Celestial Taiping](https://hk.waranddefence.museum/en/web/mcd/cultural-relics-of-the-taiping-heavenly-kingdom.html).

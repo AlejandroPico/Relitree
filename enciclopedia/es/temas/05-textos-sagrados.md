@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2272
+palabras: 2306
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -72,6 +72,9 @@ fuentes:
   - "https://iglesianicristo.net/el-senor-jesucristo/"
   - "https://textos.pucp.edu.pe/pdf/3387.pdf"
   - "https://aeminpu.org.pe/fundador"
+  - "https://www.si.edu/object/taiping-rebellion-history-and-documents-franz-michael-collaboration-zhongli-zhang-translations%3Asiris_sil_832012"
+  - "https://journals.sagepub.com/doi/10.1177/20516770221109851"
+  - "https://link.springer.com/book/10.1057/978-1-137-53728-7"
 ---
 
 # Textos sagrados del mundo comparados
@@ -258,6 +261,12 @@ En el [[adventismo|adventismo del séptimo día]], Daniel y Hebreos se ponen en 
 
 [[inc|Iglesia ni Cristo]] organiza su doctrina de restauración a partir de su lectura bíblica. Los [[israelitas|Israelitas del Nuevo Pacto Universal]] interpretan la ley y el pacto en relación con la misión de Ezequiel Ataucusi. [52, 53, 54, 55]
 
+## E18.6 · Reino Celestial Taiping
+
+### La Biblia en las imprentas del Reino Celestial
+
+El [[taiping|Reino Celestial Taiping]] reeditó traducciones protestantes de la Biblia en chino. Los impresos permiten distinguir las traducciones previas, las revisiones de los editores y las anotaciones que expresaban la interpretación de la corte. [56, 57, 58]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -329,3 +338,6 @@ En el [[adventismo|adventismo del séptimo día]], Daniel y Hebreos se ponen en 
 53. [Iglesia ni Cristo, enseñanza institucional sobre el Señor Jesucristo](https://iglesianicristo.net/el-senor-jesucristo/).
 54. [Juan M. Ossio, Los Israelitas del Nuevo Pacto Universal, Pontificia Universidad Católica del Perú](https://textos.pucp.edu.pe/pdf/3387.pdf).
 55. [AEMINPU, biografía institucional de Ezequiel Ataucusi Gamonal](https://aeminpu.org.pe/fundador).
+56. [Franz Michael y Chung-li Chang, The Taiping Rebellion: History and Documents, catálogo de la Smithsonian Institution](https://www.si.edu/object/taiping-rebellion-history-and-documents-franz-michael-collaboration-zhongli-zhang-translations%3Asiris_sil_832012).
+57. [«Taiping Ideology and the Rewriting of the Chinese Bible», Sage Journals](https://journals.sagepub.com/doi/10.1177/20516770221109851).
+58. [Carl S. Kilcourse, Taiping Theology, Palgrave Macmillan](https://link.springer.com/book/10.1057/978-1-137-53728-7).

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2066
+palabras: 2110
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -80,6 +80,9 @@ fuentes:
   - "https://sisbib.unmsm.edu.pe/BibVirtual/Publicaciones/antropologia/2002_N02/a02.htm"
   - "https://revistas.usp.br/cadernosdecampo/es/article/download/142103/140860/296840"
   - "https://dialnet.unirioja.es/descarga/articulo/10496369.pdf"
+  - "https://academic.oup.com/reference/62338/reference-article-abstract/554177750"
+  - "https://wwnorton.co.uk/books/9780393315561-god-s-chinese-son"
+  - "https://www.penguinrandomhouse.com/books/131825/autumn-in-the-heavenly-kingdom-by-stephen-r-platt/9780307957597/"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -262,6 +265,12 @@ La presencia histórica de [[kitawala|Kitawala]] se documenta en rutas de trabaj
 
 La autoridad estadística de Filipinas registró a 2.806.524 personas de la población de hogares afiliadas a [[inc|Iglesia ni Cristo]] en 2020. Para los [[israelitas|Israelitas del Nuevo Pacto Universal]], las fuentes de implantación describen lugares de Perú y de la frontera amazónica. [58, 59, 60, 61]
 
+## E18.6 · Reino Celestial Taiping
+
+### Guangxi y el Yangzi en el mapa histórico
+
+La organización de los Adoradores de Dios en Guangxi y la posterior capital en Tianjing sitúan al [[taiping|movimiento Taiping]] en varias regiones de la China del siglo XIX. La extensión del reino cambió durante la guerra y se representa con una fecha de referencia. [62, 63, 64]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -341,3 +350,6 @@ La autoridad estadística de Filipinas registró a 2.806.524 personas de la pobl
 59. [Universidad Nacional Mayor de San Marcos, uso del suelo y bosque en Alto Monte de Israel, Loreto](https://sisbib.unmsm.edu.pe/BibVirtual/Publicaciones/antropologia/2002_N02/a02.htm).
 60. [Investigación sobre los israelitas en la Amazonía transfronteriza, Cadernos de Campo, Universidade de São Paulo](https://revistas.usp.br/cadernosdecampo/es/article/download/142103/140860/296840).
 61. [Novoa, Espacio y fe en la Amazonía peruana. Sociedades religiosas y modelos de organización espacial](https://dialnet.unirioja.es/descarga/articulo/10496369.pdf).
+62. [Stephen R. Platt, «Taiping Civil War», Oxford Research Encyclopedia of Asian History](https://academic.oup.com/reference/62338/reference-article-abstract/554177750).
+63. [Jonathan D. Spence, God’s Chinese Son, W. W. Norton](https://wwnorton.co.uk/books/9780393315561-god-s-chinese-son).
+64. [Stephen R. Platt, Autumn in the Heavenly Kingdom, Knopf](https://www.penguinrandomhouse.com/books/131825/autumn-in-the-heavenly-kingdom-by-stephen-r-platt/9780307957597/).

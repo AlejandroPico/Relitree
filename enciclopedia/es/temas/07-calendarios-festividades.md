@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1934
+palabras: 1966
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -70,6 +70,9 @@ fuentes:
   - "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/7/60218"
   - "https://textos.pucp.edu.pe/pdf/3387.pdf"
   - "https://repositorio.ulisboa.pt/bitstream/10451/29859/1/ulsd731032_td_Carmen_Gonzalez_Hacha.pdf"
+  - "https://academic.oup.com/edited-volume/62249/chapter-abstract/551419960"
+  - "https://www.si.edu/object/taiping-rebellion-history-and-documents-franz-michael-collaboration-zhongli-zhang-translations%3Asiris_sil_832012"
+  - "https://journals.sagepub.com/doi/10.1177/23969393251343569"
 ---
 
 # Calendarios y festividades del mundo
@@ -242,6 +245,12 @@ La reconstrucción de [[kitawala|Kitawala]] distingue la cronología de los expe
 
 La fecha registral de 27 de julio de 1914 se conmemora en [[inc|Iglesia ni Cristo]]. Los [[israelitas|Israelitas del Nuevo Pacto Universal]] organizan la práctica semanal en torno al sábado y celebran festividades de referencia bíblica. [52, 53, 54, 55]
 
+## E18.6 · Reino Celestial Taiping
+
+### Observancia semanal y datación civil en Tianjing
+
+En el [[taiping|Reino Celestial Taiping]] el séptimo día tenía carácter sagrado y el gobierno aplicó una nueva ordenación del tiempo civil. Los documentos pueden combinar era política, fecha mensual y referencias semanales. [56, 57, 58]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -311,3 +320,6 @@ La fecha registral de 27 de julio de 1914 se conmemora en [[inc|Iglesia ni Crist
 53. [Presidencia de Filipinas, Proclamation No. 815, año del centenario de Iglesia ni Cristo](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/7/60218).
 54. [Juan M. Ossio, Los Israelitas del Nuevo Pacto Universal, Pontificia Universidad Católica del Perú](https://textos.pucp.edu.pe/pdf/3387.pdf).
 55. [Carmen González Hacha, El misterio de Dios en el Perú, tesis de la Universidade de Lisboa](https://repositorio.ulisboa.pt/bitstream/10451/29859/1/ulsd731032_td_Carmen_Gonzalez_Hacha.pdf).
+56. [«The Religious Program of the Heavenly Kingdom of Great Peace», Oxford University Press](https://academic.oup.com/edited-volume/62249/chapter-abstract/551419960).
+57. [Franz Michael y Chung-li Chang, The Taiping Rebellion: History and Documents, catálogo de la Smithsonian Institution](https://www.si.edu/object/taiping-rebellion-history-and-documents-franz-michael-collaboration-zhongli-zhang-translations%3Asiris_sil_832012).
+58. [«Questioning ‘Linear Christianity versus Cyclical China’», International Bulletin of Mission Research](https://journals.sagepub.com/doi/10.1177/23969393251343569).

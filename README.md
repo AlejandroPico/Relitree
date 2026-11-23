@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.62**
+**Versión 1.7.63**
+
+[Entrega 18.6 de la fase E18](enciclopedia/PLAN.md#fase-e18--cristianismo--tradiciones-59). Reino Celestial Taiping. Cada ficha incluye al menos 10.000 palabras de cuerpo y seis figuras acreditadas.
 
 [Entrega 18.5 de la fase E18](enciclopedia/PLAN.md#fase-e18--cristianismo--tradiciones-59). Iglesia ni Cristo, Israelitas del Nuevo Pacto Universal. Cada ficha incluye al menos 10.000 palabras de cuerpo y seis figuras acreditadas.
 

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2020
+palabras: 2065
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -84,6 +84,10 @@ fuentes:
   - "https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB"
   - "https://www.jstor.org/stable/27865765"
   - "https://repositorio.pucp.edu.pe/items/c9663542-3165-4768-ac71-5437815dd05e"
+  - "https://academic.oup.com/reference/62338/reference-article-abstract/554177750"
+  - "https://academic.oup.com/edited-volume/62249/chapter-abstract/551419960"
+  - "https://www.si.edu/object/taiping-rebellion-history-and-documents-franz-michael-collaboration-zhongli-zhang-translations%3Asiris_sil_832012"
+  - "https://academic.oup.com/stanford-scholarship-online/book/19256"
 ---
 
 # Historia del estudio de las religiones
@@ -260,6 +264,12 @@ Nicole Eggers contrastó archivos coloniales y testimonios sobre [[kitawala|Kita
 
 Robert Reed documentó la expansión filipina e internacional de [[inc|Iglesia ni Cristo]]. Juan M. Ossio estudió la trayectoria de Ataucusi y los medios de legitimación de los [[israelitas|Israelitas del Nuevo Pacto Universal]]. [61, 62]
 
+## E18.6 · Reino Celestial Taiping
+
+### Una revelación, un programa religioso y una guerra civil
+
+La historia del [[taiping|Reino Celestial Taiping]] se apoya en traducciones bíblicas, documentos de gobierno, testimonios de la guerra y estudios sobre la reconstrucción. Cada corpus ofrece una perspectiva sobre el paso de una comunidad religiosa a un Estado que disputó la soberanía a los Qing. [63, 64, 65, 66]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -343,3 +353,7 @@ Robert Reed documentó la expansión filipina e internacional de [[inc|Iglesia n
 60. [Joel Cabrita, Text and Authority in the South African Nazaretha Church (Cambridge University Press)](https://www.cambridge.org/core/books/text-and-authority-in-the-south-african-nazaretha-church/2DCD4FFC38352CA50A0EAC8A800387CB).
 61. [Robert R. Reed, The Iglesia ni Cristo, 1914–2000, historia de la organización en Bijdragen tot de Taal-, Land- en Volkenkunde](https://www.jstor.org/stable/27865765).
 62. [Juan M. Ossio, Los métodos de legitimación de un mesías, repositorio de la PUCP](https://repositorio.pucp.edu.pe/items/c9663542-3165-4768-ac71-5437815dd05e).
+63. [Stephen R. Platt, «Taiping Civil War», Oxford Research Encyclopedia of Asian History](https://academic.oup.com/reference/62338/reference-article-abstract/554177750).
+64. [«The Religious Program of the Heavenly Kingdom of Great Peace», Oxford University Press](https://academic.oup.com/edited-volume/62249/chapter-abstract/551419960).
+65. [Franz Michael y Chung-li Chang, The Taiping Rebellion: History and Documents, catálogo de la Smithsonian Institution](https://www.si.edu/object/taiping-rebellion-history-and-documents-franz-michael-collaboration-zhongli-zhang-translations%3Asiris_sil_832012).
+66. [Tobie Meyer-Fong, What Remains: Coming to Terms with Civil War in 19th Century China, Stanford University Press](https://academic.oup.com/stanford-scholarship-online/book/19256).

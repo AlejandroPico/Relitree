@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2069
+palabras: 2106
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -71,6 +71,8 @@ fuentes:
   - "https://www.timeslive.co.za/news/south-africa/2023-01-08-in-pictures-thousands-embark-on-shembe-holy-pilgrimage/"
   - "https://www.jstor.org/stable/27865765"
   - "https://publicaciones.banrepcultural.org/index.php/boletin_cultural/article/view/7529"
+  - "https://www.si.edu/object/taiping-rebellion-history-and-documents-franz-michael-collaboration-zhongli-zhang-translations%3Asiris_sil_832012"
+  - "https://hk.waranddefence.museum/en/web/mcd/cultural-relics-of-the-taiping-heavenly-kingdom.html"
 ---
 
 # Simbología religiosa comparada
@@ -243,6 +245,12 @@ La torre de las publicaciones de Watch Tower documenta el origen de una referenc
 
 Las casas de culto de [[inc|Iglesia ni Cristo]] identifican públicamente a la institución. Las tablas de la ley documentadas en un templo de los [[israelitas|Israelitas del Nuevo Pacto Universal]] expresan su relación con los mandamientos. [55, 56]
 
+## E18.6 · Reino Celestial Taiping
+
+### Monedas, sellos y autoridad celestial
+
+Monedas y sellos del [[taiping|Reino Celestial Taiping]] conservan títulos e inscripciones vinculadas a su soberanía. Su función como objetos de gobierno explica la diferencia entre un sello para autenticar actos y una representación moderna de un estandarte. [57, 58]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -314,3 +322,5 @@ Las casas de culto de [[inc|Iglesia ni Cristo]] identifican públicamente a la i
 54. [TimesLIVE, reportaje fotográfico de una peregrinación de Shembe, enero de 2023](https://www.timeslive.co.za/news/south-africa/2023-01-08-in-pictures-thousands-embark-on-shembe-holy-pilgrimage/).
 55. [Robert R. Reed, The Iglesia ni Cristo, 1914–2000, historia de la organización en Bijdragen tot de Taal-, Land- en Volkenkunde](https://www.jstor.org/stable/27865765).
 56. [Tras la tierra prometida en la Amazonia, Boletín Cultural y Bibliográfico del Banco de la República](https://publicaciones.banrepcultural.org/index.php/boletin_cultural/article/view/7529).
+57. [Franz Michael y Chung-li Chang, The Taiping Rebellion: History and Documents, catálogo de la Smithsonian Institution](https://www.si.edu/object/taiping-rebellion-history-and-documents-franz-michael-collaboration-zhongli-zhang-translations%3Asiris_sil_832012).
+58. [Museo de la Guerra y la Defensa de Hong Kong, objetos del Reino Celestial Taiping](https://hk.waranddefence.museum/en/web/mcd/cultural-relics-of-the-taiping-heavenly-kingdom.html).

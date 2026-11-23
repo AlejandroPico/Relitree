@@ -5,14 +5,11 @@
   "fin": 1864,
   "tipo": "sin",
   "importancia": 1,
-  "padres": [
-    {
-      "id": "bautistas",
-      "relacion": "derivacion"
-    }
-  ],
+  "padres": [],
   "influencias": [
-    "china-pop"
+    "china-pop",
+    "bautistas"
   ],
-  "icono": null
+  "icono": null,
+  "heredar_icono": false
 }

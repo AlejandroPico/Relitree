@@ -4,6 +4,9 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E18 · 18.6. [Reino Celestial Taiping](enciclopedia/es/religiones/taiping.md). Versión 1.7.63.
+  - Se actualizaron los seis temas comparativos de E01 y se verificaron las figuras, las referencias y el recuento de cuerpo.
+
 - [x] E18 · 18.5. [Iglesia ni Cristo](enciclopedia/es/religiones/inc.md), [Israelitas del Nuevo Pacto Universal](enciclopedia/es/religiones/israelitas.md). Versión 1.7.62.
   - Se actualizaron los seis temas comparativos de E01 y se verificaron las figuras, las referencias y el recuento de cuerpo.
 
