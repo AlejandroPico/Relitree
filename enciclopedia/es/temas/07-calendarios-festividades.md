@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1240
+palabras: 1365
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -21,6 +21,14 @@ fuentes:
   - "https://revistas.ucm.es/index.php/GERI/en/article/view/95761"
   - "https://academic.oup.com/edited-volume/60668"
   - "https://www.fourthcentury.com/wp-content/uploads/2024/12/Nicaea-from-the-Sources.pdf"
+  - "https://ich.unesco.org/en/RL/ethiopian-epiphany-01491"
+  - "https://ich.unesco.org/en/RL/commemoration-feast-of-the-finding-of-the-true-holy-cross-of-christ-00858"
+  - "https://www.jamaicaobserver.com/2021/04/21/emperor-haile-selassie-is-visit-55-years-ago/"
+  - "https://academic.oup.com/book/595/chapter-abstract/135315798"
+  - "https://www.vatican.va/roman_curia/congregations/orientchurch/eventi/rc_con_corient_doc_20031023_Visita_India_Veglio.html"
+  - "https://sourcebooks.web.fordham.edu/basis/bede-book3.asp"
+  - "https://www.gorgiaspress.com/images/uploaded/Gorgias%20Open%20Repository/978-1-4632-0608-6_QAOK.pdf"
+  - "https://www.dbmnt.uw.edu.pl/"
 ---
 
 # Calendarios y festividades del mundo
@@ -113,6 +121,16 @@ Los relatos del [[donatismo|martirio donatista]] permiten estudiar conmemoracion
 
 El concilio de Nicea se ocupó de la fecha de Pascua junto a la disputa sobre [[arrianismo|Arrio]]. Los documentos de ese acuerdo deben distinguirse de cualquier supuesto calendario propio de las comunidades homoianas posteriores. [6]
 
+## E15.4–15.6 · Cristianismos de África, Asia y las islas, y Rastafari
+
+### Celebraciones y decisiones de calendario
+
+En la [[etiope|tradición etíope Tewahedo]], Timkat incorpora vigilia, procesión y bendición del agua. Meskel conmemora el hallazgo de la Cruz. Para comunidades [[rastafari|rastafari]], el 21 de abril recuerda la visita de Selassie a Jamaica en 1966 y el 2 de noviembre remite a la coronación de 1930. Los [[cristianos-santo-tomas|cristianos de Santo Tomás]] conservan fiestas y repertorios de procedencia siríaca que se documentan por Iglesia, rito y localidad. [7, 8, 9, 10, 11]
+
+### Cómputos, oficios y testimonios fragmentarios
+
+La reunión de Whitby ilustra una decisión concreta sobre el cómputo de la Pascua en el [[celta-crist|cristianismo insular]]. Los manuscritos de la [[iglesia-oriente|Iglesia del Oriente]] en Turfán dan acceso a partes del ciclo litúrgico siríaco oriental. Para el [[nubia-cristiana|cristianismo nubio]], inscripciones y plegarias permiten estudiar celebraciones puntuales. Un calendario anual completo requiere una serie de testimonios más amplia. [12, 13, 14]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -133,3 +151,11 @@ El concilio de Nicea se ocupó de la fecha de Pascua junto a la disputa sobre [[
 4. [Qué documentan los cánones y las pasiones](https://revistas.ucm.es/index.php/GERI/en/article/view/95761).
 5. [Qué documentan los cánones y las pasiones](https://academic.oup.com/edited-volume/60668).
 6. [La Pascua y Nicea](https://www.fourthcentury.com/wp-content/uploads/2024/12/Nicaea-from-the-Sources.pdf).
+7. [UNESCO, la Epifanía etíope](https://ich.unesco.org/en/RL/ethiopian-epiphany-01491).
+8. [UNESCO, Meskel](https://ich.unesco.org/en/RL/commemoration-feast-of-the-finding-of-the-true-holy-cross-of-christ-00858).
+9. [Jamaica Observer, retrospectiva de la visita de Selassie en 1966](https://www.jamaicaobserver.com/2021/04/21/emperor-haile-selassie-is-visit-55-years-ago/).
+10. [Ennis B. Edmonds, principios y prácticas de Rastafari](https://academic.oup.com/book/595/chapter-abstract/135315798).
+11. [Santa Sede, visita a las Iglesias orientales de la India](https://www.vatican.va/roman_curia/congregations/orientchurch/eventi/rc_con_corient_doc_20031023_Visita_India_Veglio.html).
+12. [Beda, Historia eclesiástica, libro III](https://sourcebooks.web.fordham.edu/basis/bede-book3.asp).
+13. [Gorgias Press, manuscritos siríacos de Turfán](https://www.gorgiaspress.com/images/uploaded/Gorgias%20Open%20Repository/978-1-4632-0608-6_QAOK.pdf).
+14. [Database of Medieval Nubian Texts, Universidad de Varsovia](https://www.dbmnt.uw.edu.pl/).

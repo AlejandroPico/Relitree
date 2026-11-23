@@ -288,7 +288,7 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 
 ## Fase E15 · Cristianismo · tradiciones (2/9)
 
-**Estado.** 6 de 12 artículos completos. Las entregas 15.1–15.3 se incorporaron en la versión 1.7.52. Las seis entradas restantes corresponden a 15.4–15.6.
+**Estado.** Fase E15 completa, con 12 de 12 artículos. Las entregas 15.1–15.3 se incorporaron en la versión 1.7.52. Las primeras ediciones de 15.4–15.6 se incorporan en la versión 1.7.53 con 5.042–5.456 palabras de cuerpo por ficha. Para estas seis entradas queda abierta la ampliación al objetivo editorial de 10.000 palabras.
 
 - [x] 15.1 · [Donatismo](es/religiones/donatismo.md). 10.045 palabras de cuerpo, 3 imágenes.
 - [x] 15.1 · [Arrianismo](es/religiones/arrianismo.md). 10.043 palabras de cuerpo, 3 imágenes.
@@ -297,14 +297,12 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 - [x] 15.3 · [Iglesias ortodoxas orientales](es/religiones/miafisismo.md). 10.013 palabras de cuerpo, 4 imágenes.
 - [x] 15.3 · [Iglesia copta](es/religiones/copta.md). 10.060 palabras de cuerpo, 4 imágenes.
 
-### Resto de E15
-
-- Iglesia ortodoxa etíope Tewahedo (`etiope`)
-- Rastafari (`rastafari`)
-- Cristianos de Santo Tomás (`cristianos-santo-tomas`)
-- Cristianismo celta (`celta-crist`)
-- Iglesia del Oriente (`iglesia-oriente`)
-- Cristianismo nubio (`nubia-cristiana`)
+- [x] 15.4 · [Iglesia ortodoxa etíope Tewahedo](es/religiones/etiope.md). 5.456 palabras de cuerpo, 4 imágenes.
+- [x] 15.4 · [Rastafari](es/religiones/rastafari.md). 5.279 palabras de cuerpo, 3 imágenes.
+- [x] 15.5 · [Cristianos de Santo Tomás](es/religiones/cristianos-santo-tomas.md). 5.220 palabras de cuerpo, 3 imágenes.
+- [x] 15.5 · [Cristianismo celta](es/religiones/celta-crist.md). 5.131 palabras de cuerpo, 3 imágenes.
+- [x] 15.6 · [Iglesia del Oriente](es/religiones/iglesia-oriente.md). 5.114 palabras de cuerpo, 3 imágenes.
+- [x] 15.6 · [Cristianismo nubio](es/religiones/nubia-cristiana.md). 5.042 palabras de cuerpo, 3 imágenes.
 
 ## Fase E16 · Cristianismo · tradiciones (3/9)
 

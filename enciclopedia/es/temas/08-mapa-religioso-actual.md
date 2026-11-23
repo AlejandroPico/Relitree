@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1364
+palabras: 1480
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -25,6 +25,14 @@ fuentes:
   - "https://academic.oup.com/edited-volume/60668"
   - "https://www.oikoumene.org/church-families/orthodox-churches-oriental"
   - "https://www.pewresearch.org/religion/2011/02/16/how-many-christians-are-there-in-egypt/"
+  - "https://www.oikoumene.org/member-churches/ethiopian-orthodox-tewahedo-church"
+  - "https://libraries.sta.uwi.edu/uwipress/index.php/main/catalogueDetails/586"
+  - "https://www.oikoumene.org/member-churches/malankara-orthodox-syrian-church"
+  - "https://www.vatican.va/roman_curia/congregations/orientchurch/eventi/rc_con_corient_doc_20031023_Visita_India_Veglio.html"
+  - "https://www.english-heritage.org.uk/visit/places/lindisfarne-priory/History/"
+  - "https://academic.oup.com/edited-volume/61663/chapter-abstract/553492790"
+  - "https://www.iranicaonline.org/articles/christianity-iii/"
+  - "https://ora.ox.ac.uk/objects/uuid%3A608f55d8-0658-413e-9c89-a176721df16e/files/rq811kk78c"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -127,6 +135,16 @@ Los casos agrupados bajo [[arrianismo]] aparecen en redes del Imperio del siglo 
 
 El arraigo histórico de las [[miafisismo|Iglesias ortodoxas orientales]] y la localización de sus sedes no equivalen a un recuento de sus fieles. Los cálculos de población cristiana de Egipto tampoco se identifican automáticamente con los de la [[copta|Iglesia ortodoxa copta]]. Antes de comparar cifras hay que fijar año, lugar y definición. [5, 6]
 
+## E15.4–15.6 · Cristianismos de África, Asia y las islas, y Rastafari
+
+### Sedes, asentamientos y diásporas
+
+La [[etiope|Iglesia ortodoxa etíope Tewahedo]] tiene su núcleo en Etiopía y se documenta también fuera del país por sus comunidades y estructuras pastorales. Para [[rastafari|Rastafari]], Jamaica y el asentamiento de Shashamane ilustran trayectorias distintas de formación y retorno. Los [[cristianos-santo-tomas|cristianos de Santo Tomás]] se concentran históricamente en Kerala y se organizan en diferentes Iglesias. Por ello un dato local o diocesano necesita indicar a qué institución incluye. [7, 8, 9, 10]
+
+### Distribución histórica y comunidades actuales
+
+Iona y Lindisfarne sirven para localizar redes del [[celta-crist|cristianismo insular]] y Faras, Dongola y Soba para localizar reinos y sedes del [[nubia-cristiana|cristianismo nubio]]. Corresponden a mapas históricos. Para la [[iglesia-oriente|Iglesia del Oriente]] conviene distinguir la extensión medieval por Asia y los territorios, parroquias y diásporas de sus Iglesias herederas. [11, 12, 13, 14]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -151,3 +169,11 @@ El arraigo histórico de las [[miafisismo|Iglesias ortodoxas orientales]] y la l
 4. [Redes imperiales y reinos posromanos](https://academic.oup.com/edited-volume/60668).
 5. [Comuniones y estimaciones](https://www.oikoumene.org/church-families/orthodox-churches-oriental).
 6. [Comuniones y estimaciones](https://www.pewresearch.org/religion/2011/02/16/how-many-christians-are-there-in-egypt/).
+7. [Iglesia ortodoxa etíope Tewahedo, perfil institucional](https://www.oikoumene.org/member-churches/ethiopian-orthodox-tewahedo-church).
+8. [Giulia Bonacci, Exodus!: Heirs and Pioneers, Rastafari Return to Ethiopia](https://libraries.sta.uwi.edu/uwipress/index.php/main/catalogueDetails/586).
+9. [Consejo Mundial de Iglesias, Iglesia ortodoxa siríaca de Malankara](https://www.oikoumene.org/member-churches/malankara-orthodox-syrian-church).
+10. [Santa Sede, visita a las Iglesias orientales de la India](https://www.vatican.va/roman_curia/congregations/orientchurch/eventi/rc_con_corient_doc_20031023_Visita_India_Veglio.html).
+11. [English Heritage, historia de Lindisfarne](https://www.english-heritage.org.uk/visit/places/lindisfarne-priory/History/).
+12. [Oxford Research Encyclopedia, Medieval/Christian Nubia](https://academic.oup.com/edited-volume/61663/chapter-abstract/553492790).
+13. [Encyclopaedia Iranica, cristianismo en Asia central y Turquestán chino](https://www.iranicaonline.org/articles/christianity-iii/).
+14. [Journal of the Anthropological Society of Oxford, comunidades asirias y diáspora](https://ora.ox.ac.uk/objects/uuid%3A608f55d8-0658-413e-9c89-a176721df16e/files/rq811kk78c).

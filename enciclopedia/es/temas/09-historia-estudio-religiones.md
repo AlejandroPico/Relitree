@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1299
+palabras: 1438
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -29,6 +29,13 @@ fuentes:
   - "https://www.jstor.org/stable/jj.38238633"
   - "https://copticorthodox.church/wp-content/uploads/2024/09/2nd-Agreed-Statement-Recommendations-Switzerland-1990.pdf"
   - "https://egyptology.yale.edu/expeditions/current-expeditions/yale-monastic-archaeology-project-south-ymap-south/white-monastery"
+  - "https://smarthistory.org/aksumite-coins"
+  - "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers17-04/010056103.pdf"
+  - "https://www.cambridge.org/core/journals/early-medieval-england-and-its-n/article/king-alfred-and-india-an-anglosaxon-embassy-to-southern-india-in-the-ninth-century/DEDFE9DD4CCC0FE313DF25A40747E4A2"
+  - "https://sourcebooks.web.fordham.edu/basis/bede-book3.asp"
+  - "https://ora.ox.ac.uk/objects/uuid%3A5d9dd689-c5a9-4fac-9164-8db29d375eee/files/rhm50ts86x"
+  - "https://www.dbmnt.uw.edu.pl/"
+  - "https://doi.org/10.2307/j.ctv1q26pff.43"
 ---
 
 # Historia del estudio de las religiones
@@ -125,6 +132,16 @@ En el [[priscilianismo]], la comparación de cánones y autodefensas modifica la
 
 Las actas de Calcedonia y las declaraciones contemporáneas de las [[miafisismo|Iglesias ortodoxas orientales]] corresponden a foros y objetivos distintos. En el monacato de la tradición [[copta|copta]], el trabajo arqueológico vincula edificios y usos con la documentación de Shenute y su federación. [5, 6, 7]
 
+## E15.4–15.6 · Cristianismos de África, Asia y las islas, y Rastafari
+
+### Testimonios regios, testimonios orales y cartas de derechos
+
+La moneda aksumita permite seguir la aparición de símbolos cristianos en la autoridad que antecede a la [[etiope|Iglesia etíope]]. En [[rastafari|Rastafari]], los recuerdos de quienes se establecieron en Shashamane conectan decisiones personales con programas de retorno. Las placas de Kollam son una fuente medieval para los [[cristianos-santo-tomas|cristianos de Santo Tomás]], sustentada en derechos y patronazgo. Se pueden estudiar sus datos junto a la tradición apostólica, distinguiendo la fecha que acredita cada testimonio. [8, 9, 10]
+
+### Hay que localizar las categorías y los nombres de las fuentes
+
+Tomar la crónica de Beda como un relato situado permite estudiar el [[celta-crist|cristianismo insular]] sin atribuir a todas las regiones la decisión de Whitby. Los préstamos entre lenguas en las fuentes de la [[iglesia-oriente|Iglesia del Oriente]] obligan a examinar las palabras siríacas en su contexto histórico. Los títulos y oraciones del [[nubia-cristiana|cristianismo nubio]] se estudian junto al edificio, el soporte y la lengua en que se documentan. [11, 12, 13, 14]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -153,3 +170,10 @@ Las actas de Calcedonia y las declaraciones contemporáneas de las [[miafisismo|
 5. [Actas, diálogos y restos materiales](https://www.jstor.org/stable/jj.38238633).
 6. [Actas, diálogos y restos materiales](https://copticorthodox.church/wp-content/uploads/2024/09/2nd-Agreed-Statement-Recommendations-Switzerland-1990.pdf).
 7. [Actas, diálogos y restos materiales](https://egyptology.yale.edu/expeditions/current-expeditions/yale-monastic-archaeology-project-south-ymap-south/white-monastery).
+8. [Smarthistory, monedas aksumitas](https://smarthistory.org/aksumite-coins).
+9. [Giulia Bonacci, entrevista con Junior Dan y contexto de la concesión de Shashamane](https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers17-04/010056103.pdf).
+10. [Cambridge University Press, King Alfred and India, con discusión de las placas de Kollam](https://www.cambridge.org/core/journals/early-medieval-england-and-its-n/article/king-alfred-and-india-an-anglosaxon-embassy-to-southern-india-in-the-ninth-century/DEDFE9DD4CCC0FE313DF25A40747E4A2).
+11. [Beda, Historia eclesiástica, libro III](https://sourcebooks.web.fordham.edu/basis/bede-book3.asp).
+12. [Sebastian Brock, estudio de la cristología y los términos siríacos](https://ora.ox.ac.uk/objects/uuid%3A5d9dd689-c5a9-4fac-9164-8db29d375eee/files/rhm50ts86x).
+13. [Database of Medieval Nubian Texts, Universidad de Varsovia](https://www.dbmnt.uw.edu.pl/).
+14. [Adam Łajtar, las inscripciones del centro de peregrinación de Banganarti](https://doi.org/10.2307/j.ctv1q26pff.43).

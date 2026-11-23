@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1355
+palabras: 1475
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -21,6 +21,12 @@ fuentes:
   - "https://academic.oup.com/edited-volume/60668"
   - "https://whc.unesco.org/en/list/788"
   - "https://case.edu/news/media-relations/elizabeth-bolman"
+  - "https://ich.unesco.org/en/RL/ethiopian-epiphany-01491"
+  - "https://academic.oup.com/book/595"
+  - "https://thecmsindia.org/StaticFiles/docs/pdf/A-History-of-Christianity-in-India-The-Beginnings-to-AD-1707-Vol-1.pdf"
+  - "https://heritageireland.ie/visit/places-to-visit/clonmacnoise-monastic-site/"
+  - "https://www.mcgill.ca/religiousstudies/about/birks-building/jingiao-stele"
+  - "https://dbmnt.uw.edu.pl/texts/1837/"
 ---
 
 # Simbología religiosa comparada
@@ -113,6 +119,16 @@ En la cúpula del baptisterio vinculado al [[arrianismo|cristianismo homoiano de
 
 Los jachkares armenios y las pinturas del Monasterio Rojo de la tradición [[copta|copta]] son expresiones localizadas de dos tradiciones de las [[miafisismo|Iglesias ortodoxas orientales]]. La procedencia y el soporte orientan la comparación de los motivos. [5, 6]
 
+## E15.4–15.6 · Cristianismos de África, Asia y las islas, y Rastafari
+
+### Objetos de culto, cruces y emblemas
+
+El tabot, llevado a cubierto en Timkat, pertenece a la vida del altar de la [[etiope|Iglesia ortodoxa etíope]]. En [[rastafari|Rastafari]] el león y los colores de Etiopía se inscriben en lecturas de la realeza, Sion y la pertenencia africana. Las cruces con caracteres pahlaví conservadas por los [[cristianos-santo-tomas|cristianos de Santo Tomás]] son evidencia material de intercambios con el ámbito persa. [7, 8, 9]
+
+### Monumentos e imágenes de protección
+
+Las cruces monumentales del [[celta-crist|cristianismo insular]] se interpretan por el emplazamiento, la labra y las inscripciones de cada pieza. La cruz de la estela de Xi'an acompaña una historia de la [[iglesia-oriente|Iglesia del Oriente]] escrita en China. En el [[nubia-cristiana|cristianismo nubio]], el mural de Faras con Petros y san Pedro expresa protección sagrada y autoridad episcopal mediante imagen e inscripción. [10, 11, 12]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -134,3 +150,9 @@ Los jachkares armenios y las pinturas del Monasterio Rojo de la tradición [[cop
 4. [El bautismo en el mosaico de Rávena](https://whc.unesco.org/en/list/788).
 5. [Patrimonios ortodoxos orientales](https://ich.unesco.org/en/lists?RL=00434).
 6. [Patrimonios ortodoxos orientales](https://case.edu/news/media-relations/elizabeth-bolman).
+7. [UNESCO, la Epifanía etíope](https://ich.unesco.org/en/RL/ethiopian-epiphany-01491).
+8. [Ennis B. Edmonds, Rastafari: A Very Short Introduction](https://academic.oup.com/book/595).
+9. [Stephen Neill, A History of Christianity in India](https://thecmsindia.org/StaticFiles/docs/pdf/A-History-of-Christianity-in-India-The-Beginnings-to-AD-1707-Vol-1.pdf).
+10. [Heritage Ireland, conjunto monástico de Clonmacnoise](https://heritageireland.ie/visit/places-to-visit/clonmacnoise-monastic-site/).
+11. [McGill University, estela de Jingjiao](https://www.mcgill.ca/religiousstudies/about/birks-building/jingiao-stele).
+12. [Database of Medieval Nubian Texts, inscripciones del mural de Petros y san Pedro](https://dbmnt.uw.edu.pl/texts/1837/).

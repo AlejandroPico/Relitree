@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.52**
+**Versión 1.7.53**
+
+La [fase E15](enciclopedia/PLAN.md#fase-e15--cristianismo--tradiciones-29) queda completa con las entregas 15.4–15.6. Las seis nuevas fichas tratan de Tewahedo, Rastafari, los cristianos de Santo Tomás, el cristianismo celta, la Iglesia del Oriente y el cristianismo nubio. Reúnen 19 figuras documentales acreditadas y se enlazan desde el glosario y los cinco temas comparativos de E01.
 
 La [fase E15](enciclopedia/PLAN.md#fase-e15--cristianismo--tradiciones-29) incorpora las entregas 15.1–15.3. Donatismo, Arrianismo, Priscilianismo, Pelagianismo, Iglesias ortodoxas orientales e Iglesia copta superan las 10.000 palabras de cuerpo por ficha. Los artículos reúnen 21 imágenes acreditadas y se enlazan desde el glosario y los cinco temas comparativos de E01.
 

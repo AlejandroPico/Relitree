@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1512
+palabras: 1623
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -30,6 +30,12 @@ fuentes:
   - "https://academic.oup.com/edited-volume/60668"
   - "https://www.oikoumene.org/church-families/orthodox-churches-oriental"
   - "https://copticchurch.net/liturgy"
+  - "https://ich.unesco.org/en/RL/ethiopian-epiphany-01491"
+  - "https://academic.oup.com/book/595/chapter-abstract/135315798"
+  - "https://www.vatican.va/roman_curia/congregations/orientchurch/eventi/rc_con_corient_doc_20031023_Visita_India_Veglio.html"
+  - "https://sourcebooks.web.fordham.edu/basis/bede-book3.asp"
+  - "https://ora.ox.ac.uk/objects/uuid%3A5d9dd689-c5a9-4fac-9164-8db29d375eee/files/rhm50ts86x"
+  - "https://africabib.org/rec.php?DB=i&RID=146928466"
 ---
 
 # Glosario general
@@ -228,6 +234,16 @@ Término relacionado con la fórmula de una naturaleza encarnada del Verbo de Di
 
 Libro copto de las horas de oración diaria. En la [[copta|Iglesia copta]] se distingue de los libros que ordenan la celebración eucarística. [6]
 
+## E15.4–15.6 · Cristianismos de África, Asia y las islas, y Rastafari
+
+### Tabot, livity y Qurbana
+
+**Tabot.** Tabla consagrada vinculada al altar de la [[etiope|Iglesia ortodoxa etíope]] que se traslada a cubierto en procesiones como la de Timkat. **Livity.** Forma de vivir en [[rastafari|Rastafari]], con implicaciones comunitarias, corporales y espirituales. **Qurbana.** Nombre de la celebración eucarística entre los [[cristianos-santo-tomas|cristianos de Santo Tomás]], con formas correspondientes a sus diferentes tradiciones litúrgicas. [7, 8, 9]
+
+### Computus, qnoma y Baqt
+
+**Computus.** Procedimientos de cálculo de fechas litúrgicas. Las controversias del [[celta-crist|cristianismo insular]] sobre el día de Pascua muestran su importancia práctica. **Qnoma.** Término siríaco cuyo uso cristológico en la [[iglesia-oriente|Iglesia del Oriente]] se estudia en relación con naturaleza y subsistencia. **Baqt.** Nombre dado al arreglo medieval entre Egipto y Makuria, relevante para la historia del [[nubia-cristiana|cristianismo nubio]]. [10, 11, 12]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -257,3 +273,9 @@ Libro copto de las horas de oración diaria. En la [[copta|Iglesia copta]] se di
 4. [Gracia precedente](https://academic.oup.com/edited-volume/60668).
 5. [Miafisismo](https://www.oikoumene.org/church-families/orthodox-churches-oriental).
 6. [Agpeya](https://copticchurch.net/liturgy).
+7. [UNESCO, la Epifanía etíope](https://ich.unesco.org/en/RL/ethiopian-epiphany-01491).
+8. [Ennis B. Edmonds, principios y prácticas de Rastafari](https://academic.oup.com/book/595/chapter-abstract/135315798).
+9. [Santa Sede, visita a las Iglesias orientales de la India](https://www.vatican.va/roman_curia/congregations/orientchurch/eventi/rc_con_corient_doc_20031023_Visita_India_Veglio.html).
+10. [Beda, Historia eclesiástica, libro III](https://sourcebooks.web.fordham.edu/basis/bede-book3.asp).
+11. [Sebastian Brock, estudio de la cristología y los términos siríacos](https://ora.ox.ac.uk/objects/uuid%3A5d9dd689-c5a9-4fac-9164-8db29d375eee/files/rhm50ts86x).
+12. [Medieval Christian Nubia and the Islamic World: A Reconsideration of the Baqt Treaty](https://africabib.org/rec.php?DB=i&RID=146928466).

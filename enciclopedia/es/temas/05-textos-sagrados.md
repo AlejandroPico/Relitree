@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1503
+palabras: 1654
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -23,6 +23,12 @@ fuentes:
   - "https://academic.oup.com/book/49930"
   - "https://www.oikoumene.org/church-families/orthodox-churches-oriental"
   - "https://ccdl.libraries.claremont.edu/digital/collection/cce"
+  - "https://doi.org/10.1177/2051677016651486"
+  - "https://scripture.dbs.org/books/Malayalam-1905-Luke/"
+  - "https://www.gorgiaspress.com/images/uploaded/Gorgias%20Open%20Repository/978-1-4632-0608-6_QAOK.pdf"
+  - "https://academic.oup.com/book/595"
+  - "https://digitalcollections.tcd.ie/concern/works/zw12z7304?locale=en"
+  - "https://czasopisma.kul.pl/index.php/vp/article/view/18041"
 ---
 
 # Textos sagrados del mundo comparados
@@ -129,6 +135,16 @@ Los tratados asociados a [[priscilianismo|Prisciliano]] discuten el discernimien
 
 Las [[miafisismo|Iglesias ortodoxas orientales]] conservan repertorios en lenguas distintas. En Egipto, la tradición [[copta|copta]] preserva manuscritos en variedades como el sahídico y el bohaírico, con historias diferentes de transmisión y uso litúrgico. [5, 6]
 
+## E15.4–15.6 · Cristianismos de África, Asia y las islas, y Rastafari
+
+### Canon, traducción y usos de un manuscrito
+
+La [[etiope|Iglesia ortodoxa etíope Tewahedo]] conserva un repertorio bíblico en ge'ez que incluye obras como Henoc y Jubileos. La cuenta tradicional de 81 libros depende de cómo se agrupan los textos y de las listas transmitidas. Entre los [[cristianos-santo-tomas|cristianos de Santo Tomás]], el siríaco de los libros de culto y la traducción al malayalam permitieron formas distintas de lectura. La [[iglesia-oriente|Iglesia del Oriente]] ofrece un punto de comparación para la Peshitta y para los fragmentos litúrgicos de Turfán, donde se puede reconocer la selección de lecturas y oraciones en copias concretas. [7, 8, 9]
+
+### Lectura oral, códices iluminados y vidas de santos
+
+En [[rastafari|Rastafari]] las referencias bíblicas se reinterpretan en conversaciones y prácticas colectivas, con especial importancia de Sion y Babilonia. En el [[celta-crist|cristianismo insular]], los evangelios iluminados, como el Libro de Kells, reúnen escritura latina y un programa visual propio. El relato de san Menas en nubio antiguo conserva otro género de lectura sagrada del [[nubia-cristiana|cristianismo nubio]], el relato de milagro. [10, 11, 12]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -151,3 +167,9 @@ Las [[miafisismo|Iglesias ortodoxas orientales]] conservan repertorios en lengua
 4. [Tratados y comentarios](https://academic.oup.com/book/49930).
 5. [Lenguas bíblicas y litúrgicas](https://www.oikoumene.org/church-families/orthodox-churches-oriental).
 6. [Lenguas bíblicas y litúrgicas](https://ccdl.libraries.claremont.edu/digital/collection/cce).
+7. [Bruk Ayele Asale, el canon de la Iglesia etíope](https://doi.org/10.1177/2051677016651486).
+8. [Digital Bible Society, traducción de Benjamin Bailey e imprenta de Kottayam](https://scripture.dbs.org/books/Malayalam-1905-Luke/).
+9. [Gorgias Press, manuscritos siríacos de Turfán](https://www.gorgiaspress.com/images/uploaded/Gorgias%20Open%20Repository/978-1-4632-0608-6_QAOK.pdf).
+10. [Ennis B. Edmonds, Rastafari: A Very Short Introduction](https://academic.oup.com/book/595).
+11. [Trinity College Dublin, Libro de Kells, MS 58](https://digitalcollections.tcd.ie/concern/works/zw12z7304?locale=en).
+12. [Vox Patrum, el milagro de Menas en nubio antiguo](https://czasopisma.kul.pl/index.php/vp/article/view/18041).
