@@ -126,7 +126,7 @@ En la versión 1.7.51 está completa la fase E14, entregas 14.1–14.6. Sus doce
 
 En la versión 1.7.53 está completa la fase **E15**, con 12 fichas publicadas. Las entregas **15.4–15.6** reúnen 19 figuras acreditadas y 5.042–5.456 palabras de cuerpo por artículo. Queda abierta la ampliación de esas seis entradas al objetivo editorial de 10.000 palabras. Los seis temas de E01 recogen la entrega. La siguiente fase es E16, que comienza con la Iglesia ortodoxa siríaca.
 
-En la versión 1.7.54 se publicaron las primeras ediciones de **16.1–16.3 de E16**, con seis fichas, 18 figuras acreditadas y revisión de la iconografía de los seis nodos. El objetivo de ampliación sigue siendo 10.000 palabras por ficha. La siguiente entrega es **16.4**, con Iglesia católica y Orden del Temple.
+En la versión 1.7.55 se publicaron las entregas **16.4–16.6**, con las seis fichas restantes de E16 y 18 figuras acreditadas. Los seis temas de E01 recogen la entrega. Las doce fichas de E16 están publicadas y el objetivo de ampliación editorial sigue siendo 10.000 palabras por ficha. La siguiente fase es **E17**, con los husitas y los hermanos moravos al inicio del plan.
 
 ## Mantenimiento acumulativo de E01
 

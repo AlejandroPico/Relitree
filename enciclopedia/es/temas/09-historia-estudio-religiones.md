@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1553
+palabras: 1644
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -43,6 +43,12 @@ fuentes:
   - "https://gedsh.bethmardutho.org/Rabbula-Gospels"
   - "https://e-journals.usj.edu.lb/poc/vol70/iss1/4/"
   - "https://www.jstor.org/stable/jj.38238639"
+  - "https://www.vatican.va/content/dam/wss/archive/hist_councils/ii_vatican_council/index_sp.htm"
+  - "https://www.sciencedirect.com/science/article/pii/S0304418104000090"
+  - "https://chiesavaldese.org/documenti/fonti-dottrinali-ordinamento/"
+  - "https://ofm.org/es/la-regla.html"
+  - "https://exhibitions.lib.cam.ac.uk/dominicans/case/dominican-liturgy-mass/"
+  - "https://api.pageplace.de/preview/DT0400.9780801470998_A29967318/preview-9780801470998_A29967318.pdf"
 ---
 
 # Historia del estudio de las religiones
@@ -159,6 +165,16 @@ Las voces atribuibles a los [[paulicianos|paulicianos]] se conservan dentro de r
 
 El colofón de un evangelario permite datar el trabajo de copia que se describe en la ficha de la [[siriaca|Iglesia ortodoxa siríaca]]. Un misal romano del siglo XVI permite seguir decisiones editoriales de la [[maronita|Iglesia maronita]]. Para la [[iconoclasia|iconoclasia bizantina]], los fragmentos de Hieria transmitidos en las actas de Nicea II muestran cómo se conserva parte de una posición en el texto que la refuta. [19, 20, 21]
 
+## E16.4–16.6 · Iglesia católica, órdenes y disidencias medievales
+
+### Instituciones, documentos y escalas
+
+Para la [[catolica|Iglesia católica]], los concilios, los libros de culto y las fotografías de asambleas documentan aspectos distintos. El pergamino de Chinon en el expediente [[templarios|templario]] concierne a dirigentes concretos. En la historia [[valdenses|valdense]], las condenas medievales y las confesiones de época moderna se leen como archivos de procedencia distinta. [22, 23, 24]
+
+### Reglas, libros y procesos
+
+Comparar etapas de la regla ayuda a estudiar el crecimiento [[franciscanos|franciscano]]. Para los [[dominicos|dominicos]], los libros de estudio y de liturgia iluminan funciones distintas de los expedientes inquisitoriales. En la historia de los [[lolardos|lolardos]] se separan manuscritos, escritos doctrinales e interrogatorios. [25, 26, 27]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -201,3 +217,9 @@ El colofón de un evangelario permite datar el trabajo de copia que se describe 
 19. [Gorgias Encyclopedic Dictionary of the Syriac Heritage, Evangelios de Rabbula](https://gedsh.bethmardutho.org/Rabbula-Gospels).
 20. [Pierre Jabbour, el primer misal maronita impreso en Roma](https://e-journals.usj.edu.lb/poc/vol70/iss1/4/).
 21. [Richard Price, The Acts of the Second Council of Nicaea (787)](https://www.jstor.org/stable/jj.38238639).
+22. [Vaticano II, documentos conciliares](https://www.vatican.va/content/dam/wss/archive/hist_councils/ii_vatican_council/index_sp.htm).
+23. [Barbara Frale, el pergamino de Chinon](https://www.sciencedirect.com/science/article/pii/S0304418104000090).
+24. [Chiesa Evangelica Valdese, fuentes doctrinales](https://chiesavaldese.org/documenti/fonti-dottrinali-ordinamento/).
+25. [Orden de Hermanos Menores, la Regla](https://ofm.org/es/la-regla.html).
+26. [Universidad de Cambridge, libros dominicanos para la misa](https://exhibitions.lib.cam.ac.uk/dominicans/case/dominican-liturgy-mass/).
+27. [J. Patrick Hornbeck II, What Is a Lollard?, edición académica](https://api.pageplace.de/preview/DT0400.9780801470998_A29967318/preview-9780801470998_A29967318.pdf).

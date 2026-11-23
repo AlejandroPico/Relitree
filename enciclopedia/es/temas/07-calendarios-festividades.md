@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1458
+palabras: 1547
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -35,6 +35,12 @@ fuentes:
   - "https://www.jstor.org/stable/jj.21995826"
   - "https://czasopisma.uni.lodz.pl/sceranea/article/download/6640/6225/18037"
   - "https://www.rialto.unina.it/prosa_religiosa/cathrit/"
+  - "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_sp.html"
+  - "https://catalogue.bnf.fr/ark%3A/12148/cb357103725"
+  - "https://ofm.org/es/centenario-franciscano.html"
+  - "https://www.cambridge.org/core/books/making-of-the-dominican-liturgy-and-its-chant/introduction/D580A65AC869EC361DC39495AB147506"
+  - "https://chiesavaldese.org/i-culti-i-falo-e-le-iniziative-organizzate-nellambito-delle-celebrazioni-del-17-febbraio/"
+  - "https://api.pageplace.de/preview/DT0400.9780801470998_A29967318/preview-9780801470998_A29967318.pdf"
 ---
 
 # Calendarios y festividades del mundo
@@ -147,6 +153,16 @@ La rogativa de Nínive figura entre los ayunos de la [[siriaca|Iglesia ortodoxa 
 
 Las refutaciones de [[paulicianos|paulicianos]] y del [[bogomilismo|bogomilismo]] dan noticias puntuales de plegarias, disciplina y ceremonias. En el [[catarismo|catarismo]], el ritual de Lyon permite estudiar el *consolamentum* con instrucciones conservadas. En los tres casos, la evidencia disponible permite describir prácticas concretas y deja lagunas para reconstruir un calendario anual. [18, 19, 20]
 
+## E16.4–16.6 · Iglesia católica, órdenes y disidencias medievales
+
+### El calendario cristiano y las conmemoraciones de órdenes
+
+La Pascua organiza parte del calendario de la [[catolica|Iglesia católica]]. En el [[templarios|Temple]] se documentan reglas de oración y la relación con la liturgia latina. El calendario [[franciscanos|franciscano]] incluye la fiesta de san Francisco y el Tránsito, y la memoria de [[dominicos|santo Domingo]] se expresa mediante usos de la orden y de la liturgia católica. [21, 22, 23, 24]
+
+### Emancipación, lectura y culto
+
+Los [[valdenses|valdenses]] conmemoran el 17 de febrero los derechos civiles reconocidos en 1848. Para los [[lolardos|lolardos]] hay testimonios de oraciones, reuniones y discusión de prácticas, con información fragmentaria para reconstruir un calendario anual propio. [25, 26]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -181,3 +197,9 @@ Las refutaciones de [[paulicianos|paulicianos]] y del [[bogomilismo|bogomilismo]
 18. [Janet y Bernard Hamilton y Yuri Stoyanov, Christian Dualist Heresies in the Byzantine World](https://www.jstor.org/stable/jj.21995826).
 19. [Studia Ceranea, anatemas del Sinódico y discurso de Cosmas](https://czasopisma.uni.lodz.pl/sceranea/article/download/6640/6225/18037).
 20. [Rialto, edición del ritual occitano](https://www.rialto.unina.it/prosa_religiosa/cathrit/).
+21. [Vaticano II, Sacrosanctum Concilium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_sp.html).
+22. [Bibliothèque nationale de France, edición de la Regla del Temple de J. M. Upton-Ward](https://catalogue.bnf.fr/ark%3A/12148/cb357103725).
+23. [Orden de Hermanos Menores, Centenario Franciscano](https://ofm.org/es/centenario-franciscano.html).
+24. [Cambridge, The Making of the Dominican Liturgy and Its Chant](https://www.cambridge.org/core/books/making-of-the-dominican-liturgy-and-its-chant/introduction/D580A65AC869EC361DC39495AB147506).
+25. [Chiesa Evangelica Valdese, celebraciones del 17 de febrero](https://chiesavaldese.org/i-culti-i-falo-e-le-iniziative-organizzate-nellambito-delle-celebrazioni-del-17-febbraio/).
+26. [J. Patrick Hornbeck II, What Is a Lollard?, edición académica](https://api.pageplace.de/preview/DT0400.9780801470998_A29967318/preview-9780801470998_A29967318.pdf).

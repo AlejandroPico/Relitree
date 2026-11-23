@@ -4,6 +4,12 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E16 · 16.4. [Iglesia católica](enciclopedia/es/religiones/catolica.md), 5.122 palabras de cuerpo y 3 figuras. [Orden del Temple](enciclopedia/es/religiones/templarios.md), 5.131 palabras de cuerpo y 3 figuras. Versión 1.7.55.
+- [x] E16 · 16.5. [Valdenses](enciclopedia/es/religiones/valdenses.md), 5.138 palabras de cuerpo y 3 figuras. [Orden franciscana](enciclopedia/es/religiones/franciscanos.md), 5.216 palabras de cuerpo y 3 figuras. Versión 1.7.55.
+- [x] E16 · 16.6. [Orden dominicana](enciclopedia/es/religiones/dominicos.md), 5.088 palabras de cuerpo y 3 figuras. [Lolardos](enciclopedia/es/religiones/lolardos.md), 5.163 palabras de cuerpo y 3 figuras. Versión 1.7.55.
+  - Actualizados los seis temas de E01. Para el Temple y los lolardos se indican los límites de las fuentes de población y calendario.
+  - Verificados seis nodos. Nuevas reproducciones del sello templario, el candelero valdense y el escudo de los Hermanos Menores. Verificados el emblema papal y el escudo dominicano. Para los lolardos se usa la marca cronológica.
+
 - [x] E16 · 16.1. [Iglesia ortodoxa siríaca](enciclopedia/es/religiones/siriaca.md), 5.288 palabras de cuerpo y 3 figuras. [Paulicianos](enciclopedia/es/religiones/paulicianos.md), 5.336 palabras de cuerpo y 3 figuras. Versión 1.7.54.
 - [x] E16 · 16.2. [Bogomilismo](enciclopedia/es/religiones/bogomilismo.md), 5.058 palabras de cuerpo y 3 figuras. [Catarismo](enciclopedia/es/religiones/catarismo.md), 5.071 palabras de cuerpo y 3 figuras. Versión 1.7.54.
 - [x] E16 · 16.3. [Iglesia maronita](enciclopedia/es/religiones/maronita.md), 5.137 palabras de cuerpo y 3 figuras. [Iconoclasia bizantina](enciclopedia/es/religiones/iconoclasia.md), 5.101 palabras de cuerpo y 3 figuras. Versión 1.7.54.
@@ -209,7 +215,7 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 - E07 · Cruzadas y guerras santas. Fase completada con quince artículos.
 - E12 · Biografías de papas y santos. Fase completada con doce artículos.
 - E15 · Tradiciones cristianas (2/9). Publicadas las doce fichas. Queda por ampliar al objetivo de 10.000 palabras de cuerpo cada una de las seis entradas de 15.4–15.6.
-- E16 · Tradiciones cristianas (3/9). Publicadas 16.1–16.3. Pendientes 16.4–16.6 y la ampliación de las seis primeras fichas al objetivo de 10.000 palabras.
+- E16 · Tradiciones cristianas (3/9). Publicadas las doce fichas. Queda abierta la ampliación de las primeras ediciones al objetivo de 10.000 palabras por ficha.
 - E13–E22 · Cristianismo (figuras y tradiciones)
 - E23–E26 · Judaísmo
 - E27–E33 · Islam

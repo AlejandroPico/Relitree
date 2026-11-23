@@ -306,7 +306,7 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 
 ## Fase E16 · Cristianismo · tradiciones (3/9)
 
-**Estado.** Primeras ediciones publicadas de 16.1–16.3 en la versión 1.7.54. Quedan 16.4–16.6 y la ampliación al objetivo editorial de 10.000 palabras de las seis fichas publicadas.
+**Estado.** Las doce fichas de E16 están publicadas. Las entregas 16.1–16.3 se incorporaron en la versión 1.7.54 y las entregas 16.4–16.6 en la 1.7.55. Queda abierta la ampliación de las doce fichas al objetivo editorial de 10.000 palabras.
 
 - [x] 16.1 · [Iglesia ortodoxa siríaca](es/religiones/siriaca.md). 5.288 palabras de cuerpo y 3 figuras.
 - [x] 16.1 · [Paulicianos](es/religiones/paulicianos.md). 5.336 palabras de cuerpo y 3 figuras.
@@ -314,12 +314,12 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 - [x] 16.2 · [Catarismo](es/religiones/catarismo.md). 5.071 palabras de cuerpo y 3 figuras.
 - [x] 16.3 · [Iglesia maronita](es/religiones/maronita.md). 5.137 palabras de cuerpo y 3 figuras.
 - [x] 16.3 · [Iconoclasia bizantina](es/religiones/iconoclasia.md). 5.101 palabras de cuerpo y 3 figuras.
-- [ ] 16.4 · Iglesia católica (`catolica`)
-- [ ] 16.4 · Orden del Temple (`templarios`)
-- [ ] 16.5 · Valdenses (`valdenses`)
-- [ ] 16.5 · Orden franciscana (`franciscanos`)
-- [ ] 16.6 · Orden dominicana (`dominicos`)
-- [ ] 16.6 · Lolardos (`lolardos`)
+- [x] 16.4 · [Iglesia católica](es/religiones/catolica.md). 5.122 palabras de cuerpo y 3 figuras.
+- [x] 16.4 · [Orden del Temple](es/religiones/templarios.md). 5.131 palabras de cuerpo y 3 figuras.
+- [x] 16.5 · [Valdenses](es/religiones/valdenses.md). 5.138 palabras de cuerpo y 3 figuras.
+- [x] 16.5 · [Orden franciscana](es/religiones/franciscanos.md). 5.216 palabras de cuerpo y 3 figuras.
+- [x] 16.6 · [Orden dominicana](es/religiones/dominicos.md). 5.088 palabras de cuerpo y 3 figuras.
+- [x] 16.6 · [Lolardos](es/religiones/lolardos.md). 5.163 palabras de cuerpo y 3 figuras.
 
 ## Fase E17 · Cristianismo · tradiciones (4/9)
 

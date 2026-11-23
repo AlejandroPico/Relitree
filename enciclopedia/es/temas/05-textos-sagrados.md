@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1791
+palabras: 1870
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -35,6 +35,12 @@ fuentes:
   - "https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/paulician-dualism-revisited/5E5A8DEDBC87597E92714D235D6FE6A3"
   - "https://www.jstor.org/stable/jj.21995826"
   - "https://ccfr.bnf.fr/portailccfr/ark%3A/16871/004D34010076"
+  - "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sp.html"
+  - "https://museeprotestant.org/notice/olivetan-1506-1538/"
+  - "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/64826/dlavinsk_1.pdf?sequence=1"
+  - "https://catalogue.bnf.fr/ark%3A/12148/cb357103725"
+  - "https://ofm.org/es/la-regla.html"
+  - "https://exhibitions.lib.cam.ac.uk/dominicans/case/dominican-liturgy-mass/"
 ---
 
 # Textos sagrados del mundo comparados
@@ -161,6 +167,16 @@ Los Evangelios de Rabbula, con colofón de 586, son un testimonio manuscrito del
 
 Las cartas de Pablo dejaron un rastro en los nombres que las fuentes atribuyen a los [[paulicianos|paulicianos]]. Los testimonios sobre el [[bogomilismo|bogomilismo]] destacan el padrenuestro y ofrecen un problema de transmisión en torno a la *Interrogatio Iohannis*. Para el [[catarismo|catarismo]] se conserva un testimonio directo de lectura y rito en el Nuevo Testamento occitano y el ritual que contiene el manuscrito P.A. 36 de Lyon. [16, 17, 18]
 
+## E16.4–16.6 · Iglesia católica, órdenes y disidencias medievales
+
+### Escritura, traducciones y lectura laica
+
+La [[catolica|Iglesia católica]] distingue Escritura, tradición y magisterio en *Dei Verbum*. Los [[valdenses|valdenses]] contribuyeron a la publicación de la Biblia de Olivétan. En los [[lolardos|ambientes vinculados a Wyclif]], los manuscritos en inglés medio permiten estudiar traducciones y lectores de adscripciones distintas. [19, 20, 21]
+
+### Reglas y libros de culto
+
+En la [[templarios|Orden del Temple]], la regla y sus ampliaciones documentan la disciplina. La [[franciscanos|familia franciscana]] conserva versiones de la regla y escritos del fundador. Los [[dominicos|dominicos]] produjeron libros que separan actos de la misa, oficio y cantos. [22, 23, 24]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -195,3 +211,9 @@ Las cartas de Pablo dejaron un rastro en los nombres que las fuentes atribuyen a
 16. [Carl Dixon, Paulician Dualism Revisited](https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/paulician-dualism-revisited/5E5A8DEDBC87597E92714D235D6FE6A3).
 17. [Hamilton, Hamilton y Stoyanov, Christian Dualist Heresies in the Byzantine World](https://www.jstor.org/stable/jj.21995826).
 18. [Bibliothèque nationale de France, Nuevo Testamento occitano y ritual de Lyon](https://ccfr.bnf.fr/portailccfr/ark%3A/16871/004D34010076).
+19. [Vaticano II, Dei Verbum](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sp.html).
+20. [Musée protestant, Olivétan y su traducción](https://museeprotestant.org/notice/olivetan-1506-1538/).
+21. [Universidad de Michigan, After Wyclif, estudios de la Biblia y del inglés medieval](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/64826/dlavinsk_1.pdf?sequence=1).
+22. [Bibliothèque nationale de France, edición de la Regla del Temple de J. M. Upton-Ward](https://catalogue.bnf.fr/ark%3A/12148/cb357103725).
+23. [Orden de Hermanos Menores, la Regla](https://ofm.org/es/la-regla.html).
+24. [Universidad de Cambridge, libros dominicanos para la misa](https://exhibitions.lib.cam.ac.uk/dominicans/case/dominican-liturgy-mass/).

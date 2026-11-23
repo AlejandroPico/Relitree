@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1587
+palabras: 1661
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -41,6 +41,12 @@ fuentes:
   - "https://www.cambridge.org/core/books/abs/byzantiums-balkan-frontier/bulgaria-and-beyond-the-northern-balkans-c900963/17DB7FF0A5F463DA8C9887239C520696"
   - "https://www.routledge.com/The-Cathars-Dualist-Heretics-in-Languedoc-in-the-High-Middle-Ages/Barber/p/book/9781408252581"
   - "https://history.princeton.edu/about/publications/byzantium-iconoclast-era-c-680-850-history"
+  - "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_sp.html"
+  - "https://iglesia-valdense.org/quienes-somos-2-2/historia/"
+  - "https://ofm.org/en/the-franciscan-family.html"
+  - "https://www.op.org/overview-and-history/"
+  - "https://assets.cambridge.org/97805214/57279/excerpt/9780521457279_excerpt.pdf"
+  - "https://ora.ox.ac.uk/objects/uuid%3A1b2acc03-de79-42da-97ac-16b86f2ca1ab/files/m217cb6dcb5c6211dd30fd9d0e044f969"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -163,6 +169,16 @@ Para la [[siriaca|Iglesia ortodoxa siríaca]] conviene distinguir Antioquía com
 
 Los [[paulicianos|paulicianos]] se documentan en Anatolia oriental y aparecen en testimonios balcánicos posteriores. El [[bogomilismo|bogomilismo]] cuenta con noticias en Bulgaria y Bizancio. El [[catarismo|catarismo]] tiene archivos de distinto tipo para Languedoc y el norte de Italia. La [[iconoclasia|iconoclasia bizantina]] se sitúa por concilios, edificios y decisiones imperiales, con recepciones diferentes fuera del Imperio. [19, 20, 21, 22]
 
+## E16.4–16.6 · Iglesia católica, órdenes y disidencias medievales
+
+### Iglesias, órdenes y sedes
+
+La [[catolica|Iglesia católica]] comprende Iglesias particulares latinas y orientales. Las comunidades [[valdenses|valdenses]] del Piamonte y el Río de la Plata tienen estructuras propias. Para la presencia [[franciscanos|franciscana]] y [[dominicos|dominicana]] se indican rama y tipo de comunidad al interpretar un directorio de lugares. [23, 24, 25, 26]
+
+### Geografía histórica
+
+El [[templarios|Temple]] tuvo casas europeas y centros en el Mediterráneo oriental. Las redes de [[lolardos|lolardos]] se investigan por testimonios de lectura, predicación y procesos en Inglaterra, en fechas y escalas regionales diferentes. [27, 28]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -203,3 +219,9 @@ Los [[paulicianos|paulicianos]] se documentan en Anatolia oriental y aparecen en
 20. [Paul Stephenson, Bulgaria y los Balcanes septentrionales, c. 900–963](https://www.cambridge.org/core/books/abs/byzantiums-balkan-frontier/bulgaria-and-beyond-the-northern-balkans-c900963/17DB7FF0A5F463DA8C9887239C520696).
 21. [Malcolm Barber, The Cathars](https://www.routledge.com/The-Cathars-Dualist-Heretics-in-Languedoc-in-the-High-Middle-Ages/Barber/p/book/9781408252581).
 22. [Leslie Brubaker y John Haldon, Byzantium in the Iconoclast Era](https://history.princeton.edu/about/publications/byzantium-iconoclast-era-c-680-850-history).
+23. [Vaticano II, Orientalium ecclesiarum](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_sp.html).
+24. [Iglesia Evangélica Valdense del Río de la Plata, historia](https://iglesia-valdense.org/quienes-somos-2-2/historia/).
+25. [Orden de Hermanos Menores, familia franciscana](https://ofm.org/en/the-franciscan-family.html).
+26. [Orden de Predicadores, familia dominicana](https://www.op.org/overview-and-history/).
+27. [Malcolm Barber, The New Knighthood, Cambridge University Press](https://assets.cambridge.org/97805214/57279/excerpt/9780521457279_excerpt.pdf).
+28. [Universidad de Oxford, reacciones al lolardismo entre 1400 y 1450](https://ora.ox.ac.uk/objects/uuid%3A1b2acc03-de79-42da-97ac-16b86f2ca1ab/files/m217cb6dcb5c6211dd30fd9d0e044f969).

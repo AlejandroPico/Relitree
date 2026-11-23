@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1586
+palabras: 1674
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -35,6 +35,12 @@ fuentes:
   - "https://bdh.bne.es/bnesearch/detalle/bdh0000022766"
   - "https://www.unesco.org/en/memory-world/borils-synodicon"
   - "https://academiedulanguedoc.fr/historique/la-croix-du-languedoc/"
+  - "https://www.vaticanstate.va/es/estado-y-gobierno/notas-generales/bandera.html"
+  - "https://commons.wikimedia.org/wiki/File:Seal_of_Templars.jpg"
+  - "https://www.firenzevaldese.chiesavaldese.org/simboli.htm"
+  - "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Order_of_Friars_Minor.svg"
+  - "https://www.dominicanajournal.org/wp-content/files/old-journal-archive/vol14/no2/dominicanav14n2coatarmstheorderpreachers.pdf"
+  - "https://searcharchives.bl.uk/catalog/040-002105766"
 ---
 
 # Simbología religiosa comparada
@@ -147,6 +153,16 @@ El blasón de la [[siriaca|Iglesia ortodoxa siríaca]] se reconoce en la cabecer
 
 Las miniaturas de los [[paulicianos|paulicianos]] y los manuscritos sobre el [[bogomilismo|bogomilismo]] proceden en gran parte del mundo que los estudió o condenó. La cruz occitana se documenta en la heráldica tolosana y en la identidad regional, con una asociación posterior al [[catarismo|catarismo]]. Los cuatro nodos históricos de esta tanda recurren a la marca de la cronología. [18, 19, 20]
 
+## E16.4–16.6 · Iglesia católica, órdenes y disidencias medievales
+
+### Autoridad y uso documentado
+
+El emblema de las llaves cruzadas identifica el papado en la ficha de la [[catolica|Iglesia católica]]. Para el [[templarios|Temple]] se muestra una reproducción del sello medieval con los dos jinetes. En el caso [[valdenses|valdense]], el candelero y el lema de Juan 1,5 se documentan en el uso eclesiástico moderno. [21, 22, 23]
+
+### Escudos de orden y fuentes históricas
+
+Los brazos cruzados identifican un motivo [[franciscanos|franciscano]] y el escudo negro y blanco tiene variantes en la tradición [[dominicos|dominicana]]. Los manuscritos y retratos sirven para documentar la historia de los [[lolardos|lolardos]], cuyo nodo usa la marca del eje. [24, 25, 26]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -182,3 +198,9 @@ Las miniaturas de los [[paulicianos|paulicianos]] y los manuscritos sobre el [[b
 18. [Biblioteca Nacional de España, Skylitzes Matritensis](https://bdh.bne.es/bnesearch/detalle/bdh0000022766).
 19. [UNESCO, Sinódico de Boril, Memoria del Mundo](https://www.unesco.org/en/memory-world/borils-synodicon).
 20. [Académie du Languedoc, historia de la cruz de Languedoc](https://academiedulanguedoc.fr/historique/la-croix-du-languedoc/).
+21. [Estado de la Ciudad del Vaticano, bandera y símbolos de las llaves](https://www.vaticanstate.va/es/estado-y-gobierno/notas-generales/bandera.html).
+22. [Wikimedia Commons, reproducción del sello publicada en 1894](https://commons.wikimedia.org/wiki/File:Seal_of_Templars.jpg).
+23. [Chiesa Valdese di Firenze, explicación del símbolo del candelero](https://www.firenzevaldese.chiesavaldese.org/simboli.htm).
+24. [Wikimedia Commons, escudo de los Hermanos Menores](https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Order_of_Friars_Minor.svg).
+25. [Dominicana, Coat of Arms of the Order of Preachers](https://www.dominicanajournal.org/wp-content/files/old-journal-archive/vol14/no2/dominicanav14n2coatarmstheorderpreachers.pdf).
+26. [British Library, manuscrito Royal MS 1 C IX](https://searcharchives.bl.uk/catalog/040-002105766).

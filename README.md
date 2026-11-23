@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.54**
+**Versión 1.7.55**
+
+Las [entregas 16.4–16.6](enciclopedia/PLAN.md#fase-e16--cristianismo--tradiciones-39) completan la publicación de las doce fichas de E16. La Iglesia católica, el Temple, los valdenses, los franciscanos, los dominicos y los lolardos incorporan 18 figuras acreditadas. El árbol incluye nuevas reproducciones del sello templario, el candelero valdense y el escudo de los Hermanos Menores.
 
 Las [entregas 16.1–16.3](enciclopedia/PLAN.md#fase-e16--cristianismo--tradiciones-39) desarrollan seis fichas sobre las Iglesias siríaca y maronita, los paulicianos, el bogomilismo, el catarismo y la iconoclasia bizantina. Incluyen 18 figuras acreditadas y se enlazan desde los seis temas comparativos de E01. El árbol muestra reproducciones acreditadas de los blasones patriarcales siríaco y maronita.
 

@@ -1,5 +1,8 @@
 {
  "archivos": {
+  "franciscanos": ["Coat of Arms of the Order of Friars Minor.svg", "Franciscan Order - Heraldry.svg"],
+  "templarios": ["Seal of Templars.svg"],
+  "dominicos": ["Shield of Dominican Order (simple).svg"],
   "cristianismo": [
    "Christian cross.svg",
    "Latin cross.svg"

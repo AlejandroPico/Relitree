@@ -12,5 +12,10 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Waldenser-Wappen.png",
+    "licencia": "Dominio público",
+    "autor": "Autor desconocido. Reproducción adaptada a SVG"
+  }
 }

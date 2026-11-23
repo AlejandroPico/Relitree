@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1731
+palabras: 1807
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -42,6 +42,12 @@ fuentes:
   - "https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/paulician-dualism-revisited/5E5A8DEDBC87597E92714D235D6FE6A3"
   - "https://www.unesco.org/en/memory-world/borils-synodicon"
   - "https://www.rialto.unina.it/prosa_religiosa/cathrit/"
+  - "https://www.vatican.va/archive/cod-iuris-canonici/cic_index_sp.html"
+  - "https://tu-dresden.de/gsw/fovog/textedaten/templerlexikon/s"
+  - "https://assets.cambridge.org/97805215/50291/excerpt/9780521550291_excerpt.pdf"
+  - "https://ofm.org/es/la-regla.html"
+  - "https://www.op.org/our-story/"
+  - "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/64826/dlavinsk_1.pdf?sequence=1"
 ---
 
 # Glosario general
@@ -260,6 +266,16 @@ Libro copto de las horas de oración diaria. En la [[copta|Iglesia copta]] se di
 
 **Dualismo.** En el expediente sobre los [[paulicianos|paulicianos]], importa distinguir la oposición entre Dios y el diablo de la afirmación de dos dioses independientes. **Sinódico de Boril.** Texto eslavo de proclamaciones y condenas relacionado con la asamblea búlgara de 1211 y relevante para el [[bogomilismo|bogomilismo]]. **Consolamentum.** Bautismo espiritual con imposición de manos documentado en rituales vinculados al [[catarismo|catarismo]]. [16, 17, 18]
 
+## E16.4–16.6 · Iglesia católica, órdenes y disidencias medievales
+
+### Iglesia particular, encomienda y barba
+
+**Iglesia particular.** En el uso [[catolica|católico]], una diócesis o circunscripción equiparada donde se organiza la vida eclesial. **Encomienda.** Unidad territorial y de gobierno de una orden como el [[templarios|Temple]]. **Barba.** Título de tratamiento asociado a predicadores itinerantes [[valdenses|valdenses]], especialmente en el contexto alpino. [19, 20, 21]
+
+### Regla bulada, Orden de Predicadores y Biblia wyclifita
+
+**Regla bulada.** Regla [[franciscanos|franciscana]] confirmada en 1223. **Orden de Predicadores.** Denominación de la orden [[dominicos|dominicana]]. **Biblia wyclifita.** Conjunto de versiones en inglés medio vinculadas al ambiente estudiado en la ficha de los [[lolardos|lolardos]]. [22, 23, 24]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -301,3 +317,9 @@ Libro copto de las horas de oración diaria. En la [[copta|Iglesia copta]] se di
 16. [Carl Dixon, Paulician Dualism Revisited](https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/paulician-dualism-revisited/5E5A8DEDBC87597E92714D235D6FE6A3).
 17. [UNESCO, Sinódico de Boril, Memoria del Mundo](https://www.unesco.org/en/memory-world/borils-synodicon).
 18. [Rialto, edición del ritual occitano](https://www.rialto.unina.it/prosa_religiosa/cathrit/).
+19. [Santa Sede, Código de Derecho Canónico](https://www.vatican.va/archive/cod-iuris-canonici/cic_index_sp.html).
+20. [FOVOG–TU Dresden, diccionario de la Orden del Temple](https://tu-dresden.de/gsw/fovog/textedaten/templerlexikon/s).
+21. [Cambridge University Press, Waldensian Dissent](https://assets.cambridge.org/97805215/50291/excerpt/9780521550291_excerpt.pdf).
+22. [Orden de Hermanos Menores, la Regla](https://ofm.org/es/la-regla.html).
+23. [Orden de Predicadores, historia oficial](https://www.op.org/our-story/).
+24. [Universidad de Michigan, After Wyclif, estudios de la Biblia y del inglés medieval](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/64826/dlavinsk_1.pdf?sequence=1).
