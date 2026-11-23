@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1844
+palabras: 1895
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -55,6 +55,9 @@ fuentes:
   - "https://csl.org/science-of-mind/"
   - "https://www.scientology.org/faq/background-and-basic-principles/what-is-the-scientology-cross.html"
   - "https://www.scientology.org/faq/background-and-basic-principles/what-does-the-scientology-symbol-represent.html"
+  - "https://academic.oup.com/princeton-scholarship-online/book/33823"
+  - "https://commons.wikimedia.org/wiki/File:Savoy_Declaration_Title_Page.png"
+  - "https://npgallery.nps.gov/AssetDetail/NRIS/66000777"
 ---
 
 # Simbología religiosa comparada
@@ -197,6 +200,12 @@ Para los [[menonitas|menonitas]], los emblemas de conferencias y organismos de p
 
 Las organizaciones del [[nuevo-pensamiento|Nuevo Pensamiento]] emplean identidades visuales distintas. La [[cienciologia|Iglesia de Cienciología]] explica la cruz de ocho puntas en relación con sus dinámicas y emplea además la S con dos triángulos. El árbol identifica estas tradiciones con su marca y la ficha documenta los usos de cada institución. [37, 38, 39, 40]
 
+## E18.1 · Puritanismo y congregacionalismo
+
+### Tradiciones de reforma y lugares documentados
+
+Los retratos, los documentos de Nueva Inglaterra y la recreación de Westminster ilustran el [[puritanismo|puritanismo]] desde lugares y momentos concretos. En el [[congregacionalismo|congregacionalismo]], la sala de reunión y la portada de Savoy muestran formas de culto y acuerdo. En el árbol, ambas tradiciones se indican mediante la marca de la cronología. [41, 42, 43]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -252,3 +261,6 @@ Las organizaciones del [[nuevo-pensamiento|Nuevo Pensamiento]] emplean identidad
 38. [Centers for Spiritual Living, filosofía de la Ciencia de la Mente](https://csl.org/science-of-mind/).
 39. [Iglesia de Cienciología, explicación de la cruz de ocho puntas](https://www.scientology.org/faq/background-and-basic-principles/what-is-the-scientology-cross.html).
 40. [Iglesia de Cienciología, explicación de la S y el doble triángulo](https://www.scientology.org/faq/background-and-basic-principles/what-does-the-scientology-symbol-represent.html).
+41. [David D. Hall, The Puritans: A Transatlantic History, Princeton University Press](https://academic.oup.com/princeton-scholarship-online/book/33823).
+42. [Declaración de Savoy de 1658, reproducción de su portada y procedencia](https://commons.wikimedia.org/wiki/File:Savoy_Declaration_Title_Page.png).
+43. [National Park Service, Old Ship Church](https://npgallery.nps.gov/AssetDetail/NRIS/66000777).

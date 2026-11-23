@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1837
+palabras: 1871
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -60,6 +60,10 @@ fuentes:
   - "https://www.unity.org/en/article/historic-connection-prayer-and-unity"
   - "https://csl.org/science-of-mind/"
   - "https://www.ons.gov.uk/census/census2021dictionary/variablesbytopic/ethnicgroupnationalidentitylanguageandreligionvariablescensus2021/religiondetailed"
+  - "https://academic.oup.com/princeton-scholarship-online/book/33823"
+  - "https://www.ucc.org/who-we-are/about/history/"
+  - "https://urc.org.uk/wp-content/uploads/2022/01/assembly-record-1972.pdf"
+  - "https://www.congregational.org.uk/church-membership/a-past-that-inspires"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -212,6 +216,12 @@ El mapa anabaptista del Congreso Mundial [[menonitas|Menonita]] de 2025 reúne i
 
 La [[swedenborg|Nueva Iglesia]] desarrolló sociedades y convenciones en Europa y Norteamérica. En el [[nuevo-pensamiento|Nuevo Pensamiento]], los directorios de Unity y Ciencia Religiosa tienen coberturas propias. Para [[cienciologia|Cienciología]], los censos de autoadscripción miden otra cosa que los registros de cursos o sedes. [38, 39, 40, 41]
 
+## E18.1 · Puritanismo y congregacionalismo
+
+### Movimientos históricos y cuerpos sucesores
+
+El [[puritanismo|puritanismo]] se estudia por redes inglesas y colonias atlánticas. Para el [[congregacionalismo|congregacionalismo]], las uniones y federaciones actuales tienen coberturas propias. Las cifras de una iglesia unida incluyen las distintas tradiciones que la constituyeron. [42, 43, 44, 45]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -271,3 +281,7 @@ La [[swedenborg|Nueva Iglesia]] desarrolló sociedades y convenciones en Europa 
 39. [Unity, historia de su servicio de oración](https://www.unity.org/en/article/historic-connection-prayer-and-unity).
 40. [Centers for Spiritual Living, filosofía de la Ciencia de la Mente](https://csl.org/science-of-mind/).
 41. [Office for National Statistics, categorías detalladas de religión, censo de 2021](https://www.ons.gov.uk/census/census2021dictionary/variablesbytopic/ethnicgroupnationalidentitylanguageandreligionvariablescensus2021/religiondetailed).
+42. [David D. Hall, The Puritans: A Transatlantic History, Princeton University Press](https://academic.oup.com/princeton-scholarship-online/book/33823).
+43. [United Church of Christ, historia de sus tradiciones componentes](https://www.ucc.org/who-we-are/about/history/).
+44. [Actas de la constitución de la United Reformed Church, 1972](https://urc.org.uk/wp-content/uploads/2022/01/assembly-record-1972.pdf).
+45. [Congregational Federation, su trayectoria británica](https://www.congregational.org.uk/church-membership/a-past-that-inspires).

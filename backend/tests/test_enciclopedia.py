@@ -3,7 +3,7 @@ import sqlite3
 
 import pytest
 
-from relitree.construir import ESQUEMA, a_html, insertar_articulo, palabras_de_cuerpo
+from relitree.construir import ESQUEMA, a_html, insertar_articulo, metadatos_articulo, palabras_de_cuerpo
 
 
 def test_indices_y_citas_enlazadas():
@@ -94,3 +94,18 @@ En la ciudad de *Cártago* se escribe & se publica.
             'estado': 'borrador', 'fase': None, 'palabras': 10,
             'fuentes': ['https://example.org/texto'], 'ficha': {'Sede': 'Cartago'},
         }
+
+
+def test_ficha_principal_e18_requiere_extension_y_figuras_distintas(tmp_path):
+    ficha = tmp_path / "religiones" / "tradicion.md"
+    cabecera = "estado: completo\nfase: E18\npalabras: 10000\n"
+    breve = "detalle " * 5000
+    amplio = "detalle " * 10000
+    fotos = "\n\n".join(f"![Ilustración](foto{i}.jpg)" for i in range(6))
+    with pytest.raises(ValueError, match="Mínimo: 10000"):
+        metadatos_articulo(cabecera, breve, ficha)
+    with pytest.raises(ValueError, match="6 imágenes"):
+        metadatos_articulo(cabecera, amplio + "\n\n" + fotos.replace("foto5", "foto0"), ficha)
+    articulo = amplio + "\n\n" + fotos + "\n\n## Fuentes\n\n1. Una referencia."
+    assert json.loads(metadatos_articulo(cabecera, articulo, ficha))["palabras"] == 10000
+    assert json.loads(metadatos_articulo(cabecera, breve, ficha.parent / "tradicion" / "tema.md"))["palabras"] == 5000

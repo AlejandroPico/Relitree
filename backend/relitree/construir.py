@@ -174,7 +174,7 @@ class TextoBuscable(HTMLParser):
         self.partes.clear()
 
 
-def metadatos_articulo(cabecera: str, texto: str, ruta: Path) -> str:
+def metadatos_articulo(cabecera: str, texto: str, ruta: Path, html: str = "") -> str:
     def campo(nombre):
         valor = re.search(rf"^{nombre}:[ \t]*(.*)$", cabecera, re.M)
         return valor[1].strip() if valor else ""
@@ -183,15 +183,30 @@ def metadatos_articulo(cabecera: str, texto: str, ruta: Path) -> str:
     palabras = palabras_de_cuerpo(texto)
     if estado not in {"completo", "borrador"}:
         raise ValueError(f"{ruta}: estado editorial no válido: {estado}.")
-    if estado == "completo" and palabras < 5000:
-        raise ValueError(f"{ruta}: {palabras} palabras de cuerpo. Mínimo: 5000.")
+    fase = campo("fase")
+    numero_fase = re.fullmatch(r"E(\d+)", fase)
+    ficha_extensa = ruta.parent.name == "religiones" and numero_fase and int(numero_fase[1]) >= 18
+    if estado == "completo":
+        minimo = 10000 if ficha_extensa else 5000
+        if palabras < minimo:
+            raise ValueError(f"{ruta}: {palabras} palabras de cuerpo. Mínimo: {minimo}.")
+        if ficha_extensa:
+            cuerpo_html = TITULO_FUENTES.split(texto, maxsplit=1)[0]
+            if cuerpo_html != texto:
+                cuerpo_html = a_html(cuerpo_html, {})
+            else:
+                cuerpo_html = html or a_html(texto, {})
+            imagenes = set(re.findall(r'<img\b[^>]*\bsrc=["\\\']([^"\\\']+)["\\\']', cuerpo_html, re.I))
+            figuras_svg = set(re.findall(r'(?is)<svg\b[^>]*>.*?</svg>', cuerpo_html))
+            if len(imagenes) + len(figuras_svg) < 6:
+                raise ValueError(f"{ruta}: se requieren al menos 6 imágenes o figuras distintas.")
     bloque_fuentes = re.search(r'^fuentes:[ \t]*\n((?:[ \t]+-[ \t]+[^\n]+\n)*)', cabecera, re.M)
     fuentes = re.findall(r'^[ \t]+-[ \t]+(.+)$', bloque_fuentes[1], re.M) if bloque_fuentes else []
     ficha = json.loads(campo("ficha_resumen") or "{}")
     if not isinstance(ficha, dict) or any(not k.strip() or not isinstance(v, str) or not v.strip() for k, v in ficha.items()):
         raise ValueError(f"{ruta}: ficha_resumen debe contener pares de etiqueta y texto.")
     return json.dumps({
-        "estado": estado, "fase": campo("fase") or None, "palabras": palabras,
+        "estado": estado, "fase": fase or None, "palabras": palabras,
         "fuentes": [f.strip().strip("\"'") for f in fuentes], "ficha": ficha,
     }, ensure_ascii=False)
 
@@ -203,7 +218,7 @@ def insertar_articulo(bd, idioma, md, id_articulo, grupo, padre, nombres, reserv
     if orden is None:
         orden = orden_de(cabecera)
     html = None if destino else a_html(texto, nombres)
-    editorial = None if destino else metadatos_articulo(cabecera, texto, md)
+    editorial = None if destino else metadatos_articulo(cabecera, texto, md, html)
     bd.execute("INSERT INTO articulos VALUES (?,?,?,?,?,?,?,?,?,?)", (
         idioma, id_articulo, grupo, padre, titulo, normalizar(titulo),
         html, orden, destino[1] if destino else None, editorial,

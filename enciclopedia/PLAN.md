@@ -340,18 +340,15 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 
 ## Fase E18 · Cristianismo · tradiciones (5/9)
 
-- Puritanismo (`puritanismo`)
-- Congregacionalismo (`congregacionalismo`)
-- Iglesias bautistas (`bautistas`)
-- Adventismo (`adventismo`)
-- Testigos de Jehová (`testigos`)
-- Kitawala (`kitawala`)
-- Iglesia ni Cristo (`inc`)
-- Israelitas del Nuevo Pacto Universal (`israelitas`)
-- Reino Celestial Taiping (`taiping`)
-- Iglesia Nazaret Bautista (Shembe) (`shembe`)
-- Kimbanguismo (`kimbangu`)
-- Cuáqueros (`cuaqueros`)
+**Estado.** Publicada la entrega 18.1 en la versión 1.7.58. Desde E18, las fichas principales se publican con al menos 10.000 palabras de cuerpo y seis recursos visuales.
+
+- [x] 18.1 · [Puritanismo](es/religiones/puritanismo.md). 10.017 palabras de cuerpo y 6 figuras.
+- [x] 18.1 · [Congregacionalismo](es/religiones/congregacionalismo.md). 10.001 palabras de cuerpo y 6 figuras.
+- [ ] 18.2 · Iglesias bautistas (`bautistas`) y cuáqueros (`cuaqueros`).
+- [ ] 18.3 · Adventismo (`adventismo`) y Testigos de Jehová (`testigos`).
+- [ ] 18.4 · Kitawala (`kitawala`), kimbanguismo (`kimbangu`) e Iglesia Nazaret Bautista de Shembe (`shembe`).
+- [ ] 18.5 · Iglesia ni Cristo (`inc`) e Israelitas del Nuevo Pacto Universal (`israelitas`).
+- [ ] 18.6 · Reino Celestial Taiping (`taiping`).
 
 ## Fase E19 · Cristianismo · tradiciones (6/9)
 

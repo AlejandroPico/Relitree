@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1819
+palabras: 1851
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -67,6 +67,10 @@ fuentes:
   - "https://law.justia.com/cases/federal/district-courts/FSupp/333/357/1606969/"
   - "https://www.supremecourt.uk/cases/uksc-2013-0030"
   - "https://www.mpr.gob.es/mpr/subse/libertad-religiosa/Documents/Jurisprudencia/PersonalidadJuridica/SAN-4394-2007_111007_Scientology.pdf"
+  - "https://academic.oup.com/book/9061"
+  - "https://academic.oup.com/edited-volume/33427/chapter-abstract/290340534"
+  - "https://www.cambridge.org/core/journals/church-history/article/hidden-in-plain-sight-john-cottons-middle-way-and-the-making-of-the-cambridge-platform-of-church-discipline/82F219F5FD27A82C1728580D1A772FDE"
+  - "https://congregationallibrary.org/nehh"
 ---
 
 # Historia del estudio de las religiones
@@ -213,6 +217,12 @@ Los tratados de Menno permiten estudiar el arraigo [[menonitas|menonita]] en el 
 
 Para el [[nuevo-pensamiento|Nuevo Pensamiento]] se distinguen los testimonios de curación, su publicación y lo que exigiría una evaluación clínica. En [[cienciologia|Cienciología]], las resoluciones sobre registro, un lugar de culto y el electrómetro tienen objetos diferentes. [41, 42, 43, 44, 45]
 
+## E18.1 · Puritanismo y congregacionalismo
+
+### Parlamento, parroquia y archivos congregacionales
+
+Las peticiones y las normas de conformidad permiten reconstruir proyectos de reforma del [[puritanismo|puritanismo]]. En el [[congregacionalismo|congregacionalismo]], pactos, actas y registros civiles tienen funciones distintas y se contrastan por lugar y fecha. [46, 47, 48, 49]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -279,3 +289,7 @@ Para el [[nuevo-pensamiento|Nuevo Pensamiento]] se distinguen los testimonios de
 43. [Tribunal federal del Distrito de Columbia, United States v. Article or Device, 333 F. Supp. 357, 1971](https://law.justia.com/cases/federal/district-courts/FSupp/333/357/1606969/).
 44. [Tribunal Supremo del Reino Unido, R (Hodkin) v Registrar General, 2013](https://www.supremecourt.uk/cases/uksc-2013-0030).
 45. [Audiencia Nacional, sentencia de 11 de octubre de 2007, SAN 4394/2007](https://www.mpr.gob.es/mpr/subse/libertad-religiosa/Documents/Jurisprudencia/PersonalidadJuridica/SAN-4394-2007_111007_Scientology.pdf).
+46. [Patrick Collinson, The Elizabethan Puritan Movement, Oxford University Press](https://academic.oup.com/book/9061).
+47. [Peter Lake, la controversia de la Admonition y el calvinismo isabelino](https://academic.oup.com/edited-volume/33427/chapter-abstract/290340534).
+48. [Church History, John Cotton y la composición de la Plataforma de Cambridge](https://www.cambridge.org/core/journals/church-history/article/hidden-in-plain-sight-john-cottons-middle-way-and-the-making-of-the-cambridge-platform-of-church-discipline/82F219F5FD27A82C1728580D1A772FDE).
+49. [Congregational Library & Archives, New England’s Hidden Histories](https://congregationallibrary.org/nehh).

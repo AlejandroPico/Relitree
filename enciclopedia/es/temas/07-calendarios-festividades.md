@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1716
+palabras: 1751
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -53,6 +53,10 @@ fuentes:
   - "https://swedenborg.com/wp-content/uploads/2024/02/True-Christianity-v1-Deluxe-1stPrinting_04-26-2006.pdf"
   - "https://www.unity.org/en/article/daily-word-past-100-years"
   - "https://www.scientology.org/faq/inside-a-church-of-scientology/scientology-religious-holidays.html"
+  - "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/key-dates1/1604-to-1689/"
+  - "https://www.mass.gov/info-details/massachusetts-historical-laws-and-legal-documents"
+  - "https://www.loc.gov/item/tmp96029039/"
+  - "https://congregationallibrary.org/researching-congregational-story"
 ---
 
 # Calendarios y festividades del mundo
@@ -195,6 +199,12 @@ La Cena y el lavatorio de pies se documentan por iglesia en la familia [[menonit
 
 En el [[nuevo-pensamiento|Nuevo Pensamiento]], *Daily Word* establece un ritmo de lectura de Unity. El aniversario del nacimiento de Hubbard y el de la publicación de *Dianetics* forman parte de las conmemoraciones que enumera la Iglesia de [[cienciologia|Cienciología]]. [37, 38]
 
+## E18.1 · Puritanismo y congregacionalismo
+
+### El domingo, las fiestas y el culto local
+
+Las discusiones del [[puritanismo|puritanismo]] sobre el domingo y las fiestas dependieron de la jurisdicción. En iglesias del [[congregacionalismo|congregacionalismo]], el culto semanal, la comunión y las conmemoraciones tienen prácticas que se documentan por comunidad y período. [39, 40, 41, 42]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -247,3 +257,7 @@ En el [[nuevo-pensamiento|Nuevo Pensamiento]], *Daily Word* establece un ritmo d
 36. [Emanuel Swedenborg, True Christianity, edición anotada](https://swedenborg.com/wp-content/uploads/2024/02/True-Christianity-v1-Deluxe-1stPrinting_04-26-2006.pdf).
 37. [Unity, cien años de Daily Word](https://www.unity.org/en/article/daily-word-past-100-years).
 38. [Iglesia de Cienciología, explicación institucional de los días festivos](https://www.scientology.org/faq/inside-a-church-of-scientology/scientology-religious-holidays.html).
+39. [UK Parliament, cronología de los cambios religiosos de 1604 a 1689](https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/key-dates1/1604-to-1689/).
+40. [Commonwealth of Massachusetts, leyes y documentos históricos](https://www.mass.gov/info-details/massachusetts-historical-laws-and-legal-documents).
+41. [Cambridge Platform de 1648, edición histórica en Library of Congress](https://www.loc.gov/item/tmp96029039/).
+42. [Congregational Library & Archives, genealogías y fondos de iglesias](https://congregationallibrary.org/researching-congregational-story).

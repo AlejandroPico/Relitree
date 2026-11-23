@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1993
+palabras: 2034
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -60,6 +60,9 @@ fuentes:
   - "https://swedenborg.com/wp-content/uploads/2013/03/swedenborg_foundation_arcana_coelestia_01.pdf"
   - "https://cswr.hds.harvard.edu/news/2026/08/03/new-thought"
   - "https://www.scientology.org/faq/scientology-and-dianetics-auditing/what-is-auditing.html"
+  - "https://academic.oup.com/book/9061"
+  - "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/key-dates1/1604-to-1689/"
+  - "https://www.loc.gov/item/tmp96029039/"
 ---
 
 # Glosario general
@@ -308,6 +311,12 @@ Libro copto de las horas de oración diaria. En la [[copta|Iglesia copta]] se di
 
 **Cura mental.** Denominación histórica de varias propuestas norteamericanas sobre la mente, la creencia y el bienestar relacionadas con el [[nuevo-pensamiento|Nuevo Pensamiento]]. **Auditación.** Práctica de asesoramiento espiritual guiado que la [[cienciologia|Cienciología]] organiza dentro de su propio itinerario. [35, 36]
 
+## E18.1 · Puritanismo y congregacionalismo
+
+### Puritano, pacto y autonomía local
+
+**Puritano.** Nombre histórico de corrientes que buscaron avanzar la reforma protestante inglesa. **Pacto de iglesia.** Compromiso constitutivo de una comunidad local en el [[congregacionalismo|congregacionalismo]]. **Conformidad.** Cumplimiento de las condiciones de culto y disciplina de la Iglesia establecida, discutidas en el [[puritanismo|puritanismo]]. [37, 38, 39]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -367,3 +376,6 @@ Libro copto de las horas de oración diaria. En la [[copta|Iglesia copta]] se di
 34. [Emanuel Swedenborg, edición inglesa de Arcana Coelestia, tomo I](https://swedenborg.com/wp-content/uploads/2013/03/swedenborg_foundation_arcana_coelestia_01.pdf).
 35. [Center for the Study of World Religions, Harvard Divinity School, New Thought](https://cswr.hds.harvard.edu/news/2026/08/03/new-thought).
 36. [Iglesia de Cienciología, explicación institucional de la auditación](https://www.scientology.org/faq/scientology-and-dianetics-auditing/what-is-auditing.html).
+37. [Patrick Collinson, The Elizabethan Puritan Movement, Oxford University Press](https://academic.oup.com/book/9061).
+38. [UK Parliament, cronología de los cambios religiosos de 1604 a 1689](https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/religion/key-dates1/1604-to-1689/).
+39. [Cambridge Platform de 1648, edición histórica en Library of Congress](https://www.loc.gov/item/tmp96029039/).

@@ -84,7 +84,7 @@ Nombre, alias y resumen NO van en la ficha: van en `i18n/es/religiones.json`.
 El plan completo, con la lista de artículos de cada fase, está en `enciclopedia/PLAN.md` (fases E00–E77).
 
 **Extensión**
-1. Todo artículo tiene **como mínimo 5.000 palabras**. Sin excepciones: ni resúmenes ni versiones abreviadas. Los artículos principales de las grandes religiones superan con mucho ese mínimo.
+1. Desde E18, cada ficha principal que se desarrolla para una tradición del árbol tiene **al menos 10.000 palabras de cuerpo**. Los estudios internos de una tradición, situados en los desplegables de su ficha, tienen un mínimo de 5.000. El plan conserva el estado de las entregas anteriores y sus ampliaciones pendientes.
 2. Cuando sobre una tradición se sabe poco (culturas arqueológicas, religiones extinguidas mal documentadas, movimientos breves), la extensión se alcanza con contenido real: contexto histórico y geográfico, registro arqueológico, fuentes antiguas y su fiabilidad, interpretaciones académicas y sus debates, comparación con tradiciones vecinas, legado y recepción. **Nunca se inventa**: lo hipotético se señala como hipótesis.
 
 **Enfoque**
@@ -98,11 +98,11 @@ El plan completo, con la lista de artículos de cada fase, está en `enciclopedi
 8. Las listas extensas (papas, califas, imanes, gurús, patriarcas, dalái lamas, tirthankaras…) son completas: cada miembro con su propio apartado; los principales, además, con artículo propio. Las figuras menores pueden agruparse en artículos colectivos de ≥ 5.000 palabras.
 9. Panteones: cada deidad con su apartado (iconografía, mitos, culto, símbolos, festividades, lugares). Hinduismo: **al menos 100 deidades**. Mismo criterio para los panteones egipcio, mesopotámico, griego, romano, nórdico, celta, mexica, maya, inca y yoruba.
 10. Índice lateral en árbol, con anidación ilimitada (religión → categorías → subcategorías → artículos). Dentro del artículo, el índice de secciones y subsecciones lleva a cada encabezado.
-11. Recursos visuales: imágenes de Wikimedia Commons descargadas al repositorio con autor y licencia; diagramas, cronologías, mapas y tablas propios. Vídeo solo de fuentes institucionales oficiales (museos, universidades, organismos públicos, las propias instituciones religiosas), nunca de canales particulares. En la revisión de cada tanda, contrastar los emblemas institucionales con su uso documentado y distinguirlos de los motivos históricos y las atribuciones modernas.
+11. Recursos visuales: cada ficha principal desarrollada desde E18 incluye **al menos seis imágenes o figuras distintas** relacionadas con el contenido. Dar prioridad a documentos, retratos, fotografías y lugares de archivo, con autor y licencia de Wikimedia Commons. Los diagramas, las cronologías, los mapas y las tablas pueden ser de elaboración propia. Vídeo solo de fuentes institucionales oficiales (museos, universidades, organismos públicos, las propias instituciones religiosas), nunca de canales particulares. En la revisión de cada tanda, contrastar los emblemas institucionales con su uso documentado y distinguirlos de los motivos históricos y las atribuciones modernas.
 
 **Rigor**
 12. Cada artículo termina con sus fuentes (bibliografía académica y obras de referencia). Fechas, cifras y citas se contrastan antes de dar el artículo por completo. Las citas de textos sagrados, en traducciones de dominio público o parafraseadas.
-13. Cabecera YAML en cada artículo que se desarrolle: `estado` (borrador | completo), `fase`, `palabras`, `fuentes`. La compilación rechaza un artículo `completo` si su cuerpo tiene menos de 5.000 palabras. El recuento excluye títulos, citas numéricas, bibliografía, bloques citados, tablas y pies de figura. El lector conserva los metadatos de forma interna. Las fichas breves antiguas sin cabecera se registran como borradores e incorporan la cabecera al ampliarse. Los borradores nunca se contabilizan como artículos terminados. Abren con un aviso visible «Bloque en desarrollo» que indica su episodio y qué falta. Cuando un artículo completo remite parte de la materia a otro episodio, puede advertirlo al principio.
+13. Cabecera YAML en cada artículo que se desarrolle: `estado` (borrador | completo), `fase`, `palabras`, `fuentes`. La compilación comprueba que las fichas principales con estado `completo` desde E18 alcancen 10.000 palabras de cuerpo y seis recursos visuales. Mantiene el mínimo de 5.000 palabras para los estudios internos. El recuento excluye títulos, citas numéricas, bibliografía, bloques citados, tablas y pies de figura. El lector conserva los metadatos de forma interna. Las fichas breves antiguas sin cabecera se registran como borradores e incorporan la cabecera al ampliarse. Los borradores nunca se contabilizan como artículos terminados. Abren con un aviso visible «Bloque en desarrollo» que indica su episodio y qué falta. Cuando un artículo completo remite parte de la materia a otro episodio, puede advertirlo al principio.
 
 Una ficha resumen se define en la cabecera con `ficha_resumen: {"Etiqueta": "Valor"}`. Usar un mapa en una línea, con claves y valores de texto entre comillas dobles. El lector coloca la ficha al comienzo del artículo. Para agrupar figuras relacionadas se pueden envolver varios elementos `<figure>` en `<div class="galeria-articulo" role="group" aria-label="…">`. Conservar el texto alternativo, pie y crédito de cada pieza.
 
@@ -116,7 +116,7 @@ En `cristianismo/concilios/`, encabezar cada artículo con el año o intervalo a
 
 ## Desarrollo de las tradiciones de E14–E22
 
-Cada tradición se desarrolla en `enciclopedia/es/religiones/<id>.md` y se abre desde su propia entidad del árbol. Los estudios adicionales y sus índices se sitúan en la carpeta de esa entidad. Desarrollar cada entrada con un objetivo de 10.000 a 15.000 palabras de cuerpo, con cronología, contexto, enseñanzas, ritos, organización, textos, símbolos, variantes y comparaciones documentadas. Se pueden distribuir las secciones en subcategorías cuando la navegación lo justifique. Aplicar el mantenimiento de E01 en cada entrega.
+Cada tradición se desarrolla en `enciclopedia/es/religiones/<id>.md` y se abre desde su propia entidad del árbol. Los estudios adicionales y sus índices se sitúan en la carpeta de esa entidad. Desarrollar cada ficha principal desde E18 con al menos 10.000 palabras de cuerpo y seis imágenes o figuras distintas. Incluir cronología, contexto, enseñanzas, ritos, organización, textos, símbolos, variantes y comparaciones documentadas. Se pueden distribuir las secciones en subcategorías cuando la navegación lo justifique. Aplicar el mantenimiento de E01 en cada entrega.
 
 Antes de retomar una fase, consultar el reparto y las casillas de `enciclopedia/PLAN.md` y comprobar la versión y las últimas entregas en `tareas.md`. Si una tanda queda interrumpida, retomar la primera entrega pendiente con sus archivos y fuentes de trabajo. Actualizar el registro al publicar.
 
@@ -126,7 +126,7 @@ En la versión 1.7.51 está completa la fase E14, entregas 14.1–14.6. Sus doce
 
 En la versión 1.7.53 está completa la fase **E15**, con 12 fichas publicadas. Las entregas **15.4–15.6** reúnen 19 figuras acreditadas y 5.042–5.456 palabras de cuerpo por artículo. Queda abierta la ampliación de esas seis entradas al objetivo editorial de 10.000 palabras. Los seis temas de E01 recogen la entrega. La siguiente fase es E16, que comienza con la Iglesia ortodoxa siríaca.
 
-En la versión 1.7.57 se publicaron las entregas **17.5–17.7**, con las cinco fichas restantes de E17 y 16 figuras acreditadas. Los seis temas de E01 recogen la entrega. E17 queda publicada con doce fichas y mantiene el objetivo de ampliación a 10.000 palabras de cuerpo por artículo. La siguiente fase es **E18**, con puritanismo y congregacionalismo al comienzo del plan.
+En la versión 1.7.58 se publicó la entrega **18.1**. Las fichas tienen al menos 10.000 palabras de cuerpo y seis figuras por artículo. Los seis temas de E01 recogen la entrega. La siguiente tanda de E18 es **18.2, Iglesias bautistas y cuáqueros**.
 
 ## Mantenimiento acumulativo de E01
 

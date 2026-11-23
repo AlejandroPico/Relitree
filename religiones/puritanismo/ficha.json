@@ -14,5 +14,6 @@
   "influencias": [
     "reformada"
   ],
-  "icono": null
+  "icono": null,
+  "heredar_icono": false
 }

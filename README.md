@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.57**
+**Versión 1.7.58**
+
+[Entrega 18.1 de la fase E18](enciclopedia/PLAN.md#fase-e18--cristianismo--tradiciones-59). Puritanismo y congregacionalismo. Cada ficha incluye al menos 10.000 palabras de cuerpo y seis figuras acreditadas.
 
 Las [entregas 17.5–17.7](enciclopedia/PLAN.md#fase-e17--cristianismo--tradiciones-49) completan la publicación de E17. Las fichas de menonitas, amish, Nueva Iglesia, Nuevo Pensamiento y Cienciología incluyen 16 figuras acreditadas. Se actualizan los seis temas comparativos de E01.
 

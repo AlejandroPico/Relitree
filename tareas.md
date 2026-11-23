@@ -4,6 +4,9 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E18 · 18.1. [Puritanismo](enciclopedia/es/religiones/puritanismo.md), 10.017 palabras de cuerpo y 6 figuras. [Congregacionalismo](enciclopedia/es/religiones/congregacionalismo.md), 10.001 palabras de cuerpo y 6 figuras. Versión 1.7.58.
+  - Se actualizan los seis temas comparativos de E01. Se fija el criterio de 10.000 palabras de cuerpo y seis figuras para las fichas principales desde E18.
+
 - [x] E17 · 17.5. [Menonitas](enciclopedia/es/religiones/menonitas.md), 5.050 palabras de cuerpo y 3 figuras. [Amish](enciclopedia/es/religiones/amish.md), 5.038 palabras de cuerpo y 3 figuras. Versión 1.7.57.
 - [x] E17 · 17.6. [Nueva Iglesia o swedenborgianismo](enciclopedia/es/religiones/swedenborg.md), 5.017 palabras de cuerpo y 3 figuras. [Nuevo Pensamiento](enciclopedia/es/religiones/nuevo-pensamiento.md), 5.012 palabras de cuerpo y 4 figuras. Versión 1.7.57.
 - [x] E17 · 17.7. [Cienciología](enciclopedia/es/religiones/cienciologia.md), 5.030 palabras de cuerpo y 3 figuras. Versión 1.7.57.

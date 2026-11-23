@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2041
+palabras: 2079
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -53,6 +53,9 @@ fuentes:
   - "https://swedenborg.com/wp-content/uploads/2013/03/swedenborg_foundation_arcana_coelestia_01.pdf"
   - "https://www.unity.org/en/article/daily-word-past-100-years"
   - "https://academic.oup.com/book/6885"
+  - "https://www.cambridge.org/core/books/cambridge-companion-to-puritanism/1825294AB20130B33EE2506DC63186AC/listing"
+  - "https://www.loc.gov/item/tmp96029039/"
+  - "https://commons.wikimedia.org/wiki/File:Savoy_Declaration_Title_Page.png"
 ---
 
 # Textos sagrados del mundo comparados
@@ -209,6 +212,12 @@ Entre los [[menonitas|menonitas]], Dordrecht es una confesión histórica con re
 
 En el [[nuevo-pensamiento|Nuevo Pensamiento]] se distingue el uso de *Daily Word* en Unity de los libros de otras corrientes. En [[cienciologia|Cienciología]], los textos y conferencias de Hubbard se emplean en itinerarios de formación y auditación. Los documentos tienen autoridades y formas de acceso diferentes. [35, 36]
 
+## E18.1 · Puritanismo y congregacionalismo
+
+### Biblia en la parroquia y acuerdos de las iglesias
+
+En el [[puritanismo|puritanismo]], la Biblia de Ginebra y los catecismos se usaron en contextos distintos de la lectura pública. En el [[congregacionalismo|congregacionalismo]], la Plataforma de Cambridge y la Declaración de Savoy describen doctrina y gobierno en iglesias diferentes. [37, 38, 39]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -261,3 +270,6 @@ En el [[nuevo-pensamiento|Nuevo Pensamiento]] se distingue el uso de *Daily Word
 34. [Emanuel Swedenborg, edición inglesa de Arcana Coelestia, tomo I](https://swedenborg.com/wp-content/uploads/2013/03/swedenborg_foundation_arcana_coelestia_01.pdf).
 35. [Unity, cien años de Daily Word](https://www.unity.org/en/article/daily-word-past-100-years).
 36. [Donald A. Westbrook, Among the Scientologists. History, Theology, and Praxis](https://academic.oup.com/book/6885).
+37. [John Coffey y Paul C. H. Lim, eds., The Cambridge Companion to Puritanism](https://www.cambridge.org/core/books/cambridge-companion-to-puritanism/1825294AB20130B33EE2506DC63186AC/listing).
+38. [Cambridge Platform de 1648, edición histórica en Library of Congress](https://www.loc.gov/item/tmp96029039/).
+39. [Declaración de Savoy de 1658, reproducción de su portada y procedencia](https://commons.wikimedia.org/wiki/File:Savoy_Declaration_Title_Page.png).
