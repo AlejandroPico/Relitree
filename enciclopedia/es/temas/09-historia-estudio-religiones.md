@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2503
+palabras: 2535
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -127,6 +127,10 @@ fuentes:
   - "https://archives.ifphc.org/pdf/PentecostalEvangel/1920-1929/1922/1922_07_22.pdf"
   - "https://www.cambridge.org/core/journals/africa/article/an-introduction-to-the-letters-of-isaiah-moteka-the-correspondence-of-a-twentiethcentury-south-african-zionist-minister/AFF6C6E5C1942A06E37C1B00BD573637"
   - "https://ir.unisa.ac.za/bitstream/handle/10500/18867/dissertation_wouters_jmf.pdf?sequence=1"
+  - "https://sc.jalisco.gob.mx/sites/sc.jalisco.gob.mx/files/07losotros-h.pdf"
+  - "https://www.sciencedirect.com/science/article/pii/S0048721X85700140"
+  - "https://libguides.regent.edu/djbennett"
+  - "https://guides.library.duq.edu/CCR"
 ---
 
 # Historia del estudio de las religiones
@@ -375,6 +379,12 @@ Las actas y los diarios ayudan a reconstruir los circuitos del [[metodismo|Metod
 
 El [[pentecostalismo|Pentecostalismo]] se reconstruye con prensa, actas y testimonios de focos como Azusa, Mukti y Valparaíso. En las [[zion-cc|Iglesias sionistas africanas]], las cartas de Isaiah Moteka y las genealogías de ministros documentan contactos entre iglesias y a ambos lados del Atlántico. [101, 102, 103, 104, 105]
 
+## E20.4 · La Luz del Mundo, Movimiento carismático
+
+### Etnografía de Guadalajara y archivos de la renovación
+
+La investigación de Patricia Fortuny aporta historia y observación del culto de [[luz-mundo|La Luz del Mundo]]. El archivo de Bennett y la colección de Duquesne permiten seguir itinerarios diferentes del [[carismatico|Movimiento carismático]]. [106, 107, 108, 109]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -501,3 +511,7 @@ El [[pentecostalismo|Pentecostalismo]] se reconstruye con prensa, actas y testim
 103. [Willis C. Hoover, The Pentecostal Revival in Chile, The Pentecostal Evangel, 1922](https://archives.ifphc.org/pdf/PentecostalEvangel/1920-1929/1922/1922_07_22.pdf).
 104. [Cambridge, correspondencia del ministro sionista Isaiah Moteka](https://www.cambridge.org/core/journals/africa/article/an-introduction-to-the-letters-of-isaiah-moteka-the-correspondence-of-a-twentiethcentury-south-african-zionist-minister/AFF6C6E5C1942A06E37C1B00BD573637).
 105. [University of South Africa, Jean M. F. Wouters, genealogías eclesiales sionistas](https://ir.unisa.ac.za/bitstream/handle/10500/18867/dissertation_wouters_jmf.pdf?sequence=1).
+106. [Patricia Fortuny Loret de Mola, Los otros hermanos, Secretaría de Cultura de Jalisco](https://sc.jalisco.gob.mx/sites/sc.jalisco.gob.mx/files/07losotros-h.pdf).
+107. [Patricia Fortuny Loret de Mola, Origins, Development and Perspectives of La Luz del Mundo Church](https://www.sciencedirect.com/science/article/pii/S0048721X85700140).
+108. [Regent University Library, archivo y descripción de los papeles de Dennis J. Bennett](https://libguides.regent.edu/djbennett).
+109. [Duquesne University Library, guía de la Catholic Charismatic Renewal](https://guides.library.duq.edu/CCR).

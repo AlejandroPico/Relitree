@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2660
+palabras: 2701
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -115,6 +115,9 @@ fuentes:
   - "https://ag.org/Beliefs/Statement-of-Fundamental-Truths"
   - "https://ir.unisa.ac.za/bitstream/handle/10500/19534/Anderson__A__0869816934__Section2.pdf?isAllowed=y&sequence=2"
   - "https://history.stanford.edu/publications/peoples-zion-south-africa-united-states-and-transatlantic-faith-healing-movement"
+  - "https://lldm.org/la-luz-del-mundo-centenario-de-la-restauracion-de-la-iglesia-de-jesucristo/"
+  - "https://www.saet.ac.uk/Christianity/CharismaticGifts"
+  - "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html"
 ---
 
 # Glosario general
@@ -465,6 +468,12 @@ En el [[metodismo|Metodismo]], un circuito reúne lugares atendidos por una orga
 
 En el [[pentecostalismo|Pentecostalismo]], glosolalia designa el hablar en lenguas y se distingue según su uso. El nombre de las [[zion-cc|Iglesias sionistas africanas]] remite a Sion como referencia bíblica y a una historia eclesial del África austral. [89, 90, 91]
 
+## E20.4 · La Luz del Mundo, Movimiento carismático
+
+### Restauración, Santa Cena y carisma
+
+En [[luz-mundo|La Luz del Mundo]], restauración designa el restablecimiento de la Iglesia apostólica que la comunidad asocia al llamamiento de 1926. En el [[carismatico|Movimiento carismático]], carisma designa un don que se interpreta a la luz de su aportación a la comunidad. [92, 93, 94]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -579,3 +588,6 @@ En el [[pentecostalismo|Pentecostalismo]], glosolalia designa el hablar en lengu
 89. [Assemblies of God de Estados Unidos, Statement of Fundamental Truths](https://ag.org/Beliefs/Statement-of-Fundamental-Truths).
 90. [Allan Anderson, genealogías sionistas y pentecostales, UNISA](https://ir.unisa.ac.za/bitstream/handle/10500/19534/Anderson__A__0869816934__Section2.pdf?isAllowed=y&sequence=2).
 91. [Joel Cabrita, The People's Zion, Harvard University Press](https://history.stanford.edu/publications/peoples-zion-south-africa-united-states-and-transatlantic-faith-healing-movement).
+92. [La Luz del Mundo, Centenario de la restauración de la Iglesia de Jesucristo](https://lldm.org/la-luz-del-mundo-centenario-de-la-restauracion-de-la-iglesia-de-jesucristo/).
+93. [St Andrews Encyclopaedia of Theology, Charismatic Gifts](https://www.saet.ac.uk/Christianity/CharismaticGifts).
+94. [Concilio Vaticano II, Lumen gentium, n.º 12](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html).

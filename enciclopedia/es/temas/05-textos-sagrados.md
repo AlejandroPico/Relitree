@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2771
+palabras: 2814
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -115,6 +115,10 @@ fuentes:
   - "https://ag.org/Beliefs/Statement-of-Fundamental-Truths"
   - "https://scriptura.journals.ac.za/pub/article/view/1768"
   - "https://doi.org/10.25159/2412-4265/17465"
+  - "https://lldm.org/somos/principios-religiosos/"
+  - "https://lldm.org/la-luz-del-mundo-centenario-de-la-restauracion-de-la-iglesia-de-jesucristo/"
+  - "https://www.saet.ac.uk/Christianity/CharismaticGifts"
+  - "https://www.christianunity.va/content/dam/unitacristiani/Information%20Service/IS%20130-121/Information%20Service%20129.pdf"
 ---
 
 # Textos sagrados del mundo comparados
@@ -373,6 +377,12 @@ El [[metodismo|Metodismo]] emplea la Biblia en predicación y canto. En el [[san
 
 El [[pentecostalismo|Pentecostalismo]] interpreta Hechos y 1 Corintios para explicar el bautismo en el Espíritu y los dones. Las [[zion-cc|Iglesias sionistas africanas]] emplean imágenes bíblicas de Sion, el agua y la sanación en prácticas y organizaciones distintas. [95, 96, 97, 98]
 
+## E20.4 · La Luz del Mundo, Movimiento carismático
+
+### Restauración apostólica y dones del Espíritu
+
+En [[luz-mundo|La Luz del Mundo]], la Biblia fundamenta la enseñanza de la restauración y el bautismo en el nombre de Jesús. El [[carismatico|Movimiento carismático]] lee Hechos y las cartas de Pablo para explicar la experiencia del Espíritu y el ejercicio de los dones. [99, 100, 101, 102]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -487,3 +497,7 @@ El [[pentecostalismo|Pentecostalismo]] interpreta Hechos y 1 Corintios para expl
 96. [Assemblies of God de Estados Unidos, Statement of Fundamental Truths](https://ag.org/Beliefs/Statement-of-Fundamental-Truths).
 97. [Scriptura, African Zionism and its contribution to African Christianity in South Africa](https://scriptura.journals.ac.za/pub/article/view/1768).
 98. [Mookgo S. Kgatle, Pentecostal Experiences in the Ministry of Ignatius (Engenas) Lekganyane](https://doi.org/10.25159/2412-4265/17465).
+99. [La Luz del Mundo, Principios religiosos](https://lldm.org/somos/principios-religiosos/).
+100. [La Luz del Mundo, Centenario de la restauración de la Iglesia de Jesucristo](https://lldm.org/la-luz-del-mundo-centenario-de-la-restauracion-de-la-iglesia-de-jesucristo/).
+101. [St Andrews Encyclopaedia of Theology, Charismatic Gifts](https://www.saet.ac.uk/Christianity/CharismaticGifts).
+102. [Dicasterio para la Promoción de la Unidad de los Cristianos, On Becoming a Christian, informe de la quinta fase](https://www.christianunity.va/content/dam/unitacristiani/Information%20Service/IS%20130-121/Information%20Service%20129.pdf).

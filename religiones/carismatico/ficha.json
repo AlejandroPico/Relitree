@@ -7,13 +7,21 @@
   "importancia": 2,
   "padres": [
     {
-      "id": "pentecostalismo",
+      "id": "cristianismo",
       "relacion": "derivacion"
     }
   ],
   "influencias": [
+    "pentecostalismo",
     "catolica",
     "anglicanismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Manos alzadas en un acto de alabanza, dibujo editorial",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://commons.wikimedia.org/wiki/File:208_raised_hands.jpg"
+  }
 }

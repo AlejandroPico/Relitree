@@ -1127,7 +1127,22 @@ def _():
     caminos = P("M26 83C35 74 48 75 51 65C53 58 48 53 48 44M64 83C63 74 54 73 51 65")
     return colina + caminos
 
+@motivo("templo_perfil_provincia", "Perfil escalonado del templo de Hermosa Provincia, dibujo editorial")
+def _():
+    templo = P("M15 79H85M20 79V66L32 61V52L42 48V40L49 34L58 40V48L68 52V61L80 66V79M30 69H70M42 59H58M50 69V78")
+    destello = P("M50 15V28M43 21H57")
+    return templo + destello
+
+
+@motivo("manos_alabanza", "Manos alzadas en un acto de alabanza, dibujo editorial")
+def _():
+    manos = P("M17 76L19 59L14 47Q12 43 16 42L24 48L27 33Q28 29 31 31L33 48L37 37Q40 35 42 38L41 56Q38 64 35 75M83 76L81 59L86 47Q88 43 84 42L76 48L73 33Q72 29 69 31L67 48L63 37Q60 35 58 38L59 56Q62 64 65 75")
+    luz = P("M50 15V27M41 19L44 27M59 19L56 27")
+    return manos + luz
+
 ASIGNACION = {
+    'luz-mundo': 'templo_perfil_provincia',
+    'carismatico': 'manos_alabanza',
     'pentecostalismo': 'lenguas_pentecostes',
     'zion-cc': 'colina_caminos_sion',
     'metodismo': 'circuito_metodista',

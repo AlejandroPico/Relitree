@@ -4,6 +4,10 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E20 · 20.4. [La Luz del Mundo](enciclopedia/es/religiones/luz-mundo.md). 10.034 palabras de cuerpo y 10 figuras. Versión 1.7.75.
+- [x] E20 · 20.4. [Movimiento carismático](enciclopedia/es/religiones/carismatico.md). 10.005 palabras de cuerpo y 10 figuras. Versión 1.7.75.
+  - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.
+
 - [x] E20 · 20.3. [Pentecostalismo](enciclopedia/es/religiones/pentecostalismo.md). 10.022 palabras de cuerpo y 10 figuras. Versión 1.7.74.
 - [x] E20 · 20.3. [Iglesias sionistas africanas](enciclopedia/es/religiones/zion-cc.md). 10.007 palabras de cuerpo y 10 figuras. Versión 1.7.74.
   - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.

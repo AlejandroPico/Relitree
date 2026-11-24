@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2400
+palabras: 2444
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -107,6 +107,10 @@ fuentes:
   - "https://etheses.bham.ac.uk/id/eprint/6344/1/Usher15PhD.pdf"
   - "https://sahistory.org.za/article/zion-christian-church-zcc"
   - "https://onlinelibrary.wiley.com/doi/abs/10.1002/jtr.1936"
+  - "https://sc.jalisco.gob.mx/sites/sc.jalisco.gob.mx/files/07losotros-h.pdf"
+  - "https://lldm.org/bienvenida-a-la-santa-convocacion-agosto-2025/"
+  - "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2017/06/03/170603g.html"
+  - "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2019/06/04/190604c.html"
 ---
 
 # Calendarios y festividades del mundo
@@ -351,6 +355,12 @@ La memoria de Aldersgate preserva un episodio fechado del [[metodismo|Metodismo]
 
 Las convenciones de Sunderland emplearon Pentecostés como referencia anual del [[pentecostalismo|Pentecostalismo]] británico. La Pascua en Moria destaca en el calendario de las iglesias de los Lekganyane, estudiadas en [[zion-cc|Iglesias sionistas africanas]]. [90, 91, 92]
 
+## E20.4 · La Luz del Mundo, Movimiento carismático
+
+### Santa Convocación y Pentecostés
+
+[[luz-mundo|La Luz del Mundo]] reúne a sus fieles en torno al 14 de agosto para la Santa Cena de Guadalajara. La vigilia romana de 2017 y el comienzo de CHARIS en 2019 toman como fecha Pentecostés dentro de la rama católica del [[carismatico|Movimiento carismático]]. [93, 94, 95, 96]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -457,3 +467,7 @@ Las convenciones de Sunderland emplearon Pentecostés como referencia anual del 
 90. [Universidad de Birmingham, estudio de la red pentecostal británica y Cecil Henry Polhill](https://etheses.bham.ac.uk/id/eprint/6344/1/Usher15PhD.pdf).
 91. [South African History Online, Zion Christian Church](https://sahistory.org.za/article/zion-christian-church-zcc).
 92. [International Journal of Tourism Research, economía regional de la peregrinación de Moria](https://onlinelibrary.wiley.com/doi/abs/10.1002/jtr.1936).
+93. [Patricia Fortuny Loret de Mola, Los otros hermanos, Secretaría de Cultura de Jalisco](https://sc.jalisco.gob.mx/sites/sc.jalisco.gob.mx/files/07losotros-h.pdf).
+94. [La Luz del Mundo, programa de la Santa Convocación de agosto de 2025](https://lldm.org/bienvenida-a-la-santa-convocacion-agosto-2025/).
+95. [Santa Sede, vigilia ecuménica de Pentecostés y cincuentenario de 2017](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2017/06/03/170603g.html).
+96. [Santa Sede, constitución de CHARIS, 2019](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2019/06/04/190604c.html).

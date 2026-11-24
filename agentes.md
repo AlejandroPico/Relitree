@@ -126,7 +126,7 @@ En la versión 1.7.51 está completa la fase E14, entregas 14.1–14.6. Sus doce
 
 En la versión 1.7.53 está completa la fase **E15**, con 12 fichas publicadas. Las entregas **15.4–15.6** reúnen 19 figuras acreditadas y 5.042–5.456 palabras de cuerpo por artículo. Queda abierta la ampliación de esas seis entradas al objetivo editorial de 10.000 palabras. Los seis temas de E01 recogen la entrega. La siguiente fase es E16, que comienza con la Iglesia ortodoxa siríaca.
 
-En la versión 1.7.74 se publicó la entrega **20.3** de E20. La siguiente entrega es **20.4, La Luz del Mundo y Movimiento carismático**.
+En la versión 1.7.75 se publicó la entrega **20.4** de E20. La siguiente entrega es **20.5, Iglesia Universal del Reino de Dios y Ejército de Salvación**.
 
 ## Mantenimiento acumulativo de E01
 

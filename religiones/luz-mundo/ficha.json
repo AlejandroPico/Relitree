@@ -8,12 +8,16 @@
   "padres": [
     {
       "id": "pentecostalismo",
-      "relacion": "cisma"
+      "relacion": "derivacion"
     }
   ],
   "influencias": [],
-  "icono": null,
-  "fieles": 1000000,
-  "fieles_max": 5000000,
-  "fieles_fuente": "Wikipedia, List of Christian denominations by number of members"
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Perfil escalonado del templo de Hermosa Provincia, dibujo editorial",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://arquine.com/la-arquitectura-de-la-luz-del-mundo/"
+  }
 }

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2558
+palabras: 2592
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -122,6 +122,8 @@ fuentes:
   - "https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/"
   - "https://www.statssa.gov.za/census/census_2001/metadata/Persons.pdf"
   - "https://www.statssa.gov.za/publications/SAStatistics/SAStatistics2012.pdf"
+  - "https://cuentame.inegi.gob.mx/guia/descubre/religiones_en_mexico/docs/guia-las_religiones_en_mexico-descubre.pdf"
+  - "https://www.pewresearch.org/religion/2014/11/13/chapter-4-pentecostalism/"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -376,6 +378,12 @@ El [[metodismo|Metodismo]] y el [[santidad|Movimiento de santidad]] se solapan e
 
 El [[pentecostalismo|Pentecostalismo]] cuenta con una estimación mundial del CSGC para 2010. Las [[zion-cc|Iglesias sionistas africanas]] reúnen trayectorias transfronterizas. Las cifras sudafricanas de la ZCC y St Engenas corresponden a respuestas del censo de 2001. [101, 102, 103]
 
+## E20.4 · La Luz del Mundo, Movimiento carismático
+
+### Afiliación mexicana e identificación carismática
+
+El censo mexicano de 2020 mide la afiliación declarada a [[luz-mundo|La Luz del Mundo]]. Los estudios sobre el [[carismatico|Movimiento carismático]] pueden emplear una definición transversal que reúne experiencias y redes dentro de iglesias distintas. [101, 104, 105]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -497,3 +505,5 @@ El [[pentecostalismo|Pentecostalismo]] cuenta con una estimación mundial del CS
 101. [Pew Research Center, Christian Movements and Denominations, estimación para 2010](https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/).
 102. [Statistics South Africa, metadatos de clasificación religiosa del censo de 2001](https://www.statssa.gov.za/census/census_2001/metadata/Persons.pdf).
 103. [Statistics South Africa, tabla de afiliación del censo de 2001 en SA Statistics 2012](https://www.statssa.gov.za/publications/SAStatistics/SAStatistics2012.pdf).
+104. [INEGI, Las religiones en México, guía de consulta del Censo 2020](https://cuentame.inegi.gob.mx/guia/descubre/religiones_en_mexico/docs/guia-las_religiones_en_mexico-descubre.pdf).
+105. [Pew Research Center, pentecostalismo y renovación en América Latina](https://www.pewresearch.org/religion/2014/11/13/chapter-4-pentecostalism/).
