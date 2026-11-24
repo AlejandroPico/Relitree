@@ -357,15 +357,15 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 
 ## Fase E19 · Cristianismo · tradiciones (6/9)
 
-**Estado.** Publicadas las entregas 19.1–19.3. Última versión: 1.7.66. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
+**Estado.** Publicadas las entregas 19.1–19.4. Última versión: 1.7.67. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
 - [x] 19.1 · [Shakers](es/religiones/shakers.md). 10.019 palabras de cuerpo y 11 figuras.
 - [x] 19.2 · [Espiritualismo](es/religiones/espiritualismo.md). 10.034 palabras de cuerpo y 10 figuras.
 - [x] 19.2 · [Espiritismo](es/religiones/espiritismo.md). 10.022 palabras de cuerpo y 10 figuras.
 - [x] 19.3 · [Teosofía](es/religiones/teosofia.md). 10.031 palabras de cuerpo y 10 figuras.
 - [x] 19.3 · [Antroposofía](es/religiones/antroposofia.md). 10.023 palabras de cuerpo y 10 figuras.
-- [ ] 19.4 · Actividad «Yo Soy» (`yo-soy`)
-- [ ] 19.4 · Nueva Era (`new-age`)
+- [x] 19.4 · [Actividad «Yo Soy»](es/religiones/yo-soy.md). 10.004 palabras de cuerpo y 10 figuras.
+- [x] 19.4 · [Nueva Era](es/religiones/new-age.md). 10.021 palabras de cuerpo y 11 figuras.
 - [ ] 19.5 · Movimiento raeliano (`raelismo`)
 - [ ] 19.6 · Neochamanismo (`neochamanismo`)
 - [ ] 19.7 · Deísmo (`deismo`)

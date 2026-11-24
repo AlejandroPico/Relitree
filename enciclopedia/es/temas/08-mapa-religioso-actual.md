@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2242
+palabras: 2282
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -95,6 +95,10 @@ fuentes:
   - "https://theosophy-india.org/history/"
   - "https://www.anthroposophy.org/about"
   - "https://goetheanum.ch/en/sections"
+  - "https://www.saintgermainfoundation.org/our-activities"
+  - "https://www.saintgermainfoundation.org/"
+  - "https://www.pewresearch.org/short-reads/2018/10/01/new-age-beliefs-common-among-both-religious-and-nonreligious-americans/"
+  - "https://www.pewresearch.org/religion/2018/05/29/attitudes-toward-spirituality-and-religion/"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -301,6 +305,12 @@ Lily Dale y las iglesias afiliadas a la NSAC muestran formas de implantación de
 
 Adyar, en Chennai, es sede histórica de una de las sociedades de la [[teosofia|Teosofía]]. El Goetheanum de Dornach es sede de la Sociedad de la [[antroposofia|Antroposofía]] y alberga varias secciones. Los respectivos directorios sitúan grupos y centros, con una medida distinta de cualquier recuento de miembros. [73, 74, 75, 76]
 
+## E19.4 · Actividad «Yo Soy», Nueva Era
+
+### Sedes y medidas de creencia
+
+Las fuentes de la [[yo-soy|Actividad «Yo Soy»]] sitúan centros y actos sin ofrecer aquí un recuento comparable de adeptos. La encuesta estadounidense de 2018 mide adhesión a creencias asociadas a la [[new-age|Nueva Era]], con un alcance distinto de la afiliación. [77, 78, 79, 80]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -395,3 +405,7 @@ Adyar, en Chennai, es sede histórica de una de las sociedades de la [[teosofia|
 74. [Sociedad Teos?fica, secci?n de la India, historia institucional](https://theosophy-india.org/history/).
 75. [Anthroposophical Society in America, organizaci?n y grupos regionales](https://www.anthroposophy.org/about).
 76. [Goetheanum, secciones especializadas](https://goetheanum.ch/en/sections).
+77. [Saint Germain Foundation, actividades y lugares](https://www.saintgermainfoundation.org/our-activities).
+78. [Saint Germain Foundation, informaci?n institucional](https://www.saintgermainfoundation.org/).
+79. [Pew Research Center, creencias denominadas New Age en Estados Unidos (2018)](https://www.pewresearch.org/short-reads/2018/10/01/new-age-beliefs-common-among-both-religious-and-nonreligious-americans/).
+80. [Pew Research Center, encuesta sobre espiritualidad y religi?n en Europa occidental](https://www.pewresearch.org/religion/2018/05/29/attitudes-toward-spirituality-and-religion/).

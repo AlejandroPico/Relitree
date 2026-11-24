@@ -5,15 +5,18 @@
   "fin": null,
   "tipo": "nmr",
   "importancia": 2,
-  "padres": [
-    {
-      "id": "teosofia",
-      "relacion": "derivacion"
-    }
-  ],
+  "padres": [],
   "influencias": [
+    "teosofia",
     "nuevo-pensamiento",
     "advaita"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Ondas del motivo astrológico de Acuario, referencia editorial a la edad de Acuario",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://agris.fao.org/search/en/providers/122535/records/65ddee8f63b8185d9ca5cd0a"
+  }
 }

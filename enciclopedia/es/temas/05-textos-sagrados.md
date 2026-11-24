@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2435
+palabras: 2482
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -87,6 +87,11 @@ fuentes:
   - "https://searcharchives.bl.uk/catalog/036-002018004"
   - "https://rsarchive.org/Books/GA004/index.html"
   - "https://rsarchive.org/Books/"
+  - "https://www.siskiyous.edu/library/shasta/documents/AB_Ch17.pdf"
+  - "https://www.saintgermainfoundation.com/system/files/2024-01/sgs1002-00.pdf"
+  - "https://www.jstor.org/stable/jj.18255037"
+  - "https://www.routledge.com/Children-of-the-New-Age-A-History-of-Spiritual-Practices-1st-Edition/Sutcliffe/p/book/9780415242998"
+  - "https://ead-pdfs.library.yale.edu/4482.pdf"
 ---
 
 # Textos sagrados del mundo comparados
@@ -297,6 +302,12 @@ En el [[espiritualismo]] anglófono, las declaraciones de principios se atribuye
 
 En la [[teosofia|Teosofía]] moderna, los libros publicados por Blavatsky y las cartas atribuidas a los mahatmas tienen historias de autoría y edición distintas. En la [[antroposofia|Antroposofía]] se distingue la obra impresa de Steiner de sus ciclos de conferencias, que se consultan en el catálogo de la edición completa. [66, 67, 68, 69, 70]
 
+## E19.4 · Actividad «Yo Soy», Nueva Era
+
+### Una serie editorial y un campo de lecturas
+
+La serie de Saint Germain conserva ediciones tempranas y materiales de instrucción de la [[yo-soy|Actividad «Yo Soy»]]. La [[new-age|Nueva Era]] se estudia con repertorios de libros, archivos y ediciones de procedencias distintas. Los papeles de Jane Roberts permiten distinguir registro y publicación en un caso de canalización. [71, 72, 73, 74, 75]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -383,3 +394,8 @@ En la [[teosofia|Teosofía]] moderna, los libros publicados por Blavatsky y las 
 68. [British Library, Mahatma Papers, Add MS 45284-45286](https://searcharchives.bl.uk/catalog/036-002018004).
 69. [Rudolf Steiner, La filosof?a de la libertad, GA 4, Rudolf Steiner Archive](https://rsarchive.org/Books/GA004/index.html).
 70. [Rudolf Steiner Archive, cat?logo de libros de Steiner](https://rsarchive.org/Books/).
+71. [College of the Siskiyous, bibliograf?a espiritual sobre el monte Shasta](https://www.siskiyous.edu/library/shasta/documents/AB_Ch17.pdf).
+72. [Godfre Ray King, The Magic Presence, edici?n de Saint Germain Press](https://www.saintgermainfoundation.com/system/files/2024-01/sgs1002-00.pdf).
+73. [Wouter J. Hanegraaff, New Age Religion and Western Culture, JSTOR](https://www.jstor.org/stable/jj.18255037).
+74. [Steven J. Sutcliffe, Children of the New Age, Routledge](https://www.routledge.com/Children-of-the-New-Age-A-History-of-Spiritual-Practices-1st-Edition/Sutcliffe/p/book/9780415242998).
+75. [Yale University Library, inventario de los papeles de Jane Roberts](https://ead-pdfs.library.yale.edu/4482.pdf).

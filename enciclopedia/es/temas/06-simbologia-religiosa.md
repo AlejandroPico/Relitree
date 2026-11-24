@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2218
+palabras: 2253
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -83,6 +83,10 @@ fuentes:
   - "https://www.theosophical.org/files/resources/leaflets/emblem/TSEmblem.pdf"
   - "https://goetheanum.ch/es/sociedad/historia"
   - "https://www.anthroposophie.ch/en/anthroposophy/topics/articles/goetheanum/architecture-of-the-first-and-second-goetheanum.html"
+  - "https://mavcor.yale.edu/conversations/object-narratives/chart-magic-presence"
+  - "https://www.saintgermainfoundation.org/the-violet-consuming-flame"
+  - "https://www.jstor.org/stable/jj.18255037"
+  - "https://agris.fao.org/search/en/providers/122535/records/65ddee8f63b8185d9ca5cd0a"
 ---
 
 # Simbología religiosa comparada
@@ -279,6 +283,12 @@ El girasol se documenta en el [[espiritualismo]] organizado de Estados Unidos. L
 
 El sello propio de la [[teosofia|Teosofía]] combina varios motivos anteriores y les atribuye un significado de conjunto. El icono de la [[antroposofia|Antroposofía]] en Relitree adapta la silueta del segundo Goetheanum de Dornach como referencia arquitectónica. [66, 67, 68]
 
+## E19.4 · Actividad «Yo Soy», Nueva Era
+
+### Llama violeta y ondas de Acuario
+
+La llama violeta es un motivo devocional documentado en la [[yo-soy|Actividad «Yo Soy»]]. Las ondas de Acuario identifican editorialmente la ficha de [[new-age|Nueva Era]], en referencia al lenguaje astrológico utilizado en varias de sus publicaciones. [69, 70, 71, 72]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -362,3 +372,7 @@ El sello propio de la [[teosofia|Teosofía]] combina varios motivos anteriores y
 66. [Sociedad Teos?fica en Am?rica, explicaci?n del emblema](https://www.theosophical.org/files/resources/leaflets/emblem/TSEmblem.pdf).
 67. [Goetheanum, historia de la Sociedad Antropos?fica](https://goetheanum.ch/es/sociedad/historia).
 68. [Anthroposophie Schweiz, arquitectura del primer y segundo Goetheanum](https://www.anthroposophie.ch/en/anthroposophy/topics/articles/goetheanum/architecture-of-the-first-and-second-goetheanum.html).
+69. [Erika Doss, ?The Chart of the Magic Presence?, Yale MAVCOR](https://mavcor.yale.edu/conversations/object-narratives/chart-magic-presence).
+70. [Saint Germain Foundation, �The Violet Consuming Flame�](https://www.saintgermainfoundation.org/the-violet-consuming-flame).
+71. [Wouter J. Hanegraaff, New Age Religion and Western Culture, JSTOR](https://www.jstor.org/stable/jj.18255037).
+72. [Marilyn Ferguson, The Aquarian Conspiracy, ficha del cat?logo AGRIS](https://agris.fao.org/search/en/providers/122535/records/65ddee8f63b8185d9ca5cd0a).

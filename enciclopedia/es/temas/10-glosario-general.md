@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2360
+palabras: 2400
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -92,6 +92,10 @@ fuentes:
   - "https://pure.uva.nl/ws/files/54260569/Theosophy_Western_Esotericism_and_the_Orient_in_the_First_Theosophical_Society.pdf"
   - "https://rsarchive.org/Books/"
   - "https://rsarchive.org/Lectures/GA277a/English/SOL2024/19140120e01.html"
+  - "https://www.saintgermainfoundation.org/our-activities"
+  - "https://www.saintgermainfoundation.com/system/files/2024-09/sg1004_Vol-04-Instruction.pdf"
+  - "https://www.jstor.org/stable/jj.18255037"
+  - "https://ead-pdfs.library.yale.edu/4482.pdf"
 ---
 
 # Glosario general
@@ -394,6 +398,12 @@ Mediumnidad designa la función que se atribuye a un intermediario en el [[espir
 
 [[teosofia|Teosofía]] moderna designa aquí el movimiento vinculado a la Sociedad fundada en Nueva York en 1875. Ciencia espiritual nombra el programa de conocimiento defendido por Steiner en la [[antroposofia|Antroposofía]], donde euritmia se aplica a un arte del movimiento relacionado con habla y música. [65, 66, 67, 68]
 
+## E19.4 · Actividad «Yo Soy», Nueva Era
+
+### Decreto, maestro ascendido y canalización
+
+En la [[yo-soy|Actividad «Yo Soy»]], decreto designa una práctica vocal de invocación y maestro ascendido identifica una figura de su doctrina. En algunos circuitos de la [[new-age|Nueva Era]], canalización se aplica a enseñanzas atribuidas a una entidad o fuente espiritual. [69, 70, 71, 72]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -485,3 +495,7 @@ Mediumnidad designa la función que se atribuye a un intermediario en el [[espir
 66. [Wouter J. Hanegraaff, ?Theosophy, Western Esotericism, and the Orient in the First Theosophical Society?](https://pure.uva.nl/ws/files/54260569/Theosophy_Western_Esotericism_and_the_Orient_in_the_First_Theosophical_Society.pdf).
 67. [Rudolf Steiner Archive, cat?logo de libros de Steiner](https://rsarchive.org/Books/).
 68. [Rudolf Steiner Archive, notas sobre el desarrollo de la euritmia, GA 277a](https://rsarchive.org/Lectures/GA277a/English/SOL2024/19140120e01.html).
+69. [Saint Germain Foundation, actividades y lugares](https://www.saintgermainfoundation.org/our-activities).
+70. [Saint Germain Press, Ascended Master Instruction](https://www.saintgermainfoundation.com/system/files/2024-09/sg1004_Vol-04-Instruction.pdf).
+71. [Wouter J. Hanegraaff, New Age Religion and Western Culture, JSTOR](https://www.jstor.org/stable/jj.18255037).
+72. [Yale University Library, inventario de los papeles de Jane Roberts](https://ead-pdfs.library.yale.edu/4482.pdf).

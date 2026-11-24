@@ -4,6 +4,10 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E19 · 19.4. [Actividad «Yo Soy»](enciclopedia/es/religiones/yo-soy.md). 10.004 palabras de cuerpo y 10 figuras. Versión 1.7.67.
+- [x] E19 · 19.4. [Nueva Era](enciclopedia/es/religiones/new-age.md). 10.021 palabras de cuerpo y 11 figuras. Versión 1.7.67.
+  - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.
+
 - [x] E19 · 19.3. [Teosofía](enciclopedia/es/religiones/teosofia.md). 10.031 palabras de cuerpo y 10 figuras. Versión 1.7.66.
 - [x] E19 · 19.3. [Antroposofía](enciclopedia/es/religiones/antroposofia.md). 10.023 palabras de cuerpo y 10 figuras. Versión 1.7.66.
   - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.

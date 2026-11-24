@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2086
+palabras: 2127
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -83,6 +83,10 @@ fuentes:
   - "https://www12.senado.leg.br/noticias/materias/2022/05/31/lei-institui-18-de-abril-como-dia-nacional-do-espiritismo"
   - "https://www.theosophy.world/encyclopedia/white-lotus-day"
   - "https://rsarchive.org/COTS/index.php"
+  - "https://www.saintgermainfoundation.org/our-activities"
+  - "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S174392131101266X"
+  - "https://www.washingtonpost.com/archive/lifestyle/1987/08/17/o-hum-all-ye-faithful-harmonic-convergence-ushers-in-a-new-age/a2bf1095-6436-4e2e-abd8-ca37655662dc/"
+  - "https://www.cbsnews.com/amp/news/almanac-the-harmonic-convergence/"
 ---
 
 # Calendarios y festividades del mundo
@@ -279,6 +283,12 @@ La memoria de Hydesville en el [[espiritualismo]] remite al 31 de marzo de 1848.
 
 El Día del Loto Blanco recuerda en la [[teosofia|Teosofía]] el fallecimiento de Blavatsky, el 8 de mayo de 1891. El Calendario del alma de la [[antroposofia|Antroposofía]] asocia 52 versos con las semanas del año y con una práctica de lectura periódica. [67, 68]
 
+## E19.4 · Actividad «Yo Soy», Nueva Era
+
+### Encuentros en Shasta y la Convergencia Armónica
+
+La [[yo-soy|Actividad «Yo Soy»]] anuncia actos estivales en Mount Shasta City. La Convergencia Armónica de agosto de 1987 fue una convocatoria histórica asociada a corrientes de la [[new-age|Nueva Era]], que se distingue de las fechas propuestas para una edad de Acuario. [69, 70, 71, 72]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -361,3 +371,7 @@ El Día del Loto Blanco recuerda en la [[teosofia|Teosofía]] el fallecimiento d
 66. [Senado Federal de Brasil, noticia sobre el D�a Nacional del Espiritismo](https://www12.senado.leg.br/noticias/materias/2022/05/31/lei-institui-18-de-abril-como-dia-nacional-do-espiritismo).
 67. [Theosophy World, White Lotus Day](https://www.theosophy.world/encyclopedia/white-lotus-day).
 68. [Rudolf Steiner Archive, Calendario del alma](https://rsarchive.org/COTS/index.php).
+69. [Saint Germain Foundation, actividades y lugares](https://www.saintgermainfoundation.org/our-activities).
+70. [John W. Hoopes, ?A Critical History of 2012 Mythology?, Cambridge University Press](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S174392131101266X).
+71. [The Washington Post, informaci?n contempor?nea sobre la Convergencia Arm?nica (agosto de 1987)](https://www.washingtonpost.com/archive/lifestyle/1987/08/17/o-hum-all-ye-faithful-harmonic-convergence-ushers-in-a-new-age/a2bf1095-6436-4e2e-abd8-ca37655662dc/).
+72. [CBS News, archivo de la Convergencia Arm?nica](https://www.cbsnews.com/amp/news/almanac-the-harmonic-convergence/).

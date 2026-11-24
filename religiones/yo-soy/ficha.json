@@ -15,8 +15,9 @@
   "icono": {
     "archivo": "icono.svg",
     "fuente": "propio",
-    "motivo": "llama sagrada",
+    "motivo": "Llama violeta de la Actividad Yo Soy, adaptación de un motivo devocional documentado",
     "licencia": "Dibujo original de Relitree",
-    "autor": "Relitree"
+    "autor": "Relitree",
+    "motivo_fuente": "https://www.saintgermainfoundation.org/the-violet-consuming-flame"
   }
 }

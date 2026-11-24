@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2198
+palabras: 2233
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -100,6 +100,11 @@ fuentes:
   - "https://academic.oup.com/book/39711/chapter-abstract/339733258"
   - "https://www.degruyterbrill.com/document/isbn/9789004270152/html"
   - "https://ecommons.cornell.edu/entities/publication/c6bd2396-fee7-4bbc-9dae-a631078fac29"
+  - "https://www.law.cornell.edu/supremecourt/text/322/78"
+  - "https://www.law.cornell.edu/supremecourt/text/329/187"
+  - "https://www.routledge.com/Children-of-the-New-Age-A-History-of-Spiritual-Practices-1st-Edition/Sutcliffe/p/book/9780415242998"
+  - "https://press.uchicago.edu/ucp/books/book/chicago/E/bo5298906.html"
+  - "https://www.jstor.org/stable/j.ctv287sdns"
 ---
 
 # Historia del estudio de las religiones
@@ -300,6 +305,12 @@ Los archivos de la Society for Psychical Research documentan conflictos de inter
 
 La [[teosofia|Teosofía]] en India se estudia a través de sus lecturas y de relaciones institucionales como la mantenida con el Arya Samaj. Los trabajos de Staudenmaier documentan relaciones entre la [[antroposofia|Antroposofía]], las ideas de raza y distintos actores del periodo fascista en Alemania e Italia. [74, 75, 76, 77, 78]
 
+## E19.4 · Actividad «Yo Soy», Nueva Era
+
+### Documentos judiciales y observación de redes
+
+Los dos fallos Ballard esclarecen cuestiones jurídicas diferentes en el estudio de la [[yo-soy|Actividad «Yo Soy»]]. La historia de las prácticas de la [[new-age|Nueva Era]] se puede reconstruir mediante centros, programas y circuitos de publicación. [79, 80, 81, 82, 83]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -399,3 +410,8 @@ La [[teosofia|Teosofía]] en India se estudia a través de sus lecturas y de rel
 76. [Julian Strube, «The Marriage between the Theosophical Society and the Arya Samaj»](https://academic.oup.com/book/39711/chapter-abstract/339733258).
 77. [Peter Staudenmaier, Between Occultism and Nazism, De Gruyter Brill](https://www.degruyterbrill.com/document/isbn/9789004270152/html).
 78. [Peter Staudenmaier, tesis doctoral sobre Antroposof?a, raza y naci?n, Cornell University](https://ecommons.cornell.edu/entities/publication/c6bd2396-fee7-4bbc-9dae-a631078fac29).
+79. [United States v. Ballard, 322 U.S. 78 (1944), Cornell Legal Information Institute](https://www.law.cornell.edu/supremecourt/text/322/78).
+80. [Ballard v. United States, 329 U.S. 187 (1946), Cornell Legal Information Institute](https://www.law.cornell.edu/supremecourt/text/329/187).
+81. [Steven J. Sutcliffe, Children of the New Age, Routledge](https://www.routledge.com/Children-of-the-New-Age-A-History-of-Spiritual-Practices-1st-Edition/Sutcliffe/p/book/9780415242998).
+82. [Jeffrey J. Kripal, Esalen: America and the Religion of No Religion, University of Chicago Press](https://press.uchicago.edu/ucp/books/book/chicago/E/bo5298906.html).
+83. [Ruth Prince y David Riches, The New Age in Glastonbury, JSTOR](https://www.jstor.org/stable/j.ctv287sdns).

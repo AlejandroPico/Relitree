@@ -1036,7 +1036,22 @@ def _():
     ventanas = P("M20 64L33 61L41 53L53 49L60 44L76 48L84 56M37 76L40 58M58 76L60 49M73 76L73 54", 'stroke-width="3.7"')
     return perfil + ventanas
 
+@motivo("llama_violeta_yo_soy", "Llama violeta de la Actividad Yo Soy, adaptación de un motivo devocional documentado")
+def _():
+    llama = P("M48 9C55 26 71 28 77 46C84 63 75 84 55 88C32 92 18 77 21 60C24 45 33 38 36 28C38 39 43 44 48 46C57 32 50 20 48 9Z", 'fill="#74469b" stroke="#563078"')
+    nucleo = P("M49 52C55 62 64 67 60 76C57 84 45 85 40 78C37 71 43 64 49 52Z", 'fill="#eee3f6" stroke="none"')
+    return llama + nucleo
+
+
+@motivo("acuario_nueva_era", "Ondas del motivo astrológico de Acuario, referencia editorial a la edad de Acuario")
+def _():
+    ondas = P("M12 52L26 41L40 52L54 41L68 52L82 41L90 47M12 71L26 60L40 71L54 60L68 71L82 60L90 66", 'stroke-width="6"')
+    estrella = P("M63 14Q65 25 76 27Q65 29 63 40Q61 29 50 27Q61 25 63 14Z", 'fill="#1d1d1f" stroke="none"')
+    return ondas + estrella
+
 ASIGNACION = {
+    'yo-soy': 'llama_violeta_yo_soy',
+    'new-age': 'acuario_nueva_era',
     'antroposofia': 'goetheanum',
     'shakers': 'arbol_shaker',
     # Prehistoria
@@ -1084,7 +1099,7 @@ ASIGNACION = {
     "danza-espiritus": "aguila_estrellas", "handsome-lake": "casa_larga", "hopewell": "mano_mica", "misisipi": "mano_ojo",
     "inuit": "inuksuk", "paleoesquimal": "arpon", "midewiwin": "cauri", "navajo": "cuatro_montanas", "pueblo": "zia",
     "pueblo-anc": "espiral_petroglifo", "peyote": "ave_agua", "shaker-india": "campana", "smohalla": "tambor",
-    "tenskwatawa": "llama", "espiritualismo": "girasol", "yo-soy": "llama", "neochamanismo": "pluma_tambor",
+    "tenskwatawa": "llama", "espiritualismo": "girasol", "neochamanismo": "pluma_tambor",
     # Mesoamérica y Caribe
     "arcaico-mes": "mazorca", "mexica": "ollin", "zapoteca": "greca", "mixteca": "disco_solar", "olmeca": "cabeza_colosal",
     "teotihuacan": "tlaloc", "tolteca": "atlante", "totonaca": "voladores", "wixarika": "ojo_de_dios",
