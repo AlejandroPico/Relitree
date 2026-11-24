@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2814
+palabras: 2856
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -119,6 +119,9 @@ fuentes:
   - "https://lldm.org/la-luz-del-mundo-centenario-de-la-restauracion-de-la-iglesia-de-jesucristo/"
   - "https://www.saet.ac.uk/Christianity/CharismaticGifts"
   - "https://www.christianunity.va/content/dam/unitacristiani/Information%20Service/IS%20130-121/Information%20Service%20129.pdf"
+  - "https://www.universal.org/a-universal/home-a-universal/"
+  - "https://www.universal.org/noticias/post/santa-ceia-da-entrega/"
+  - "https://www.salvationarmy.org/sites/default/files/2025-06/Handbook%2Bof%2BDoctrine.pdf"
 ---
 
 # Textos sagrados del mundo comparados
@@ -383,6 +386,12 @@ El [[pentecostalismo|Pentecostalismo]] interpreta Hechos y 1 Corintios para expl
 
 En [[luz-mundo|La Luz del Mundo]], la Biblia fundamenta la enseñanza de la restauración y el bautismo en el nombre de Jesús. El [[carismatico|Movimiento carismático]] lee Hechos y las cartas de Pablo para explicar la experiencia del Espíritu y el ejercicio de los dones. [99, 100, 101, 102]
 
+## E20.5 · Iglesia Universal del Reino de Dios, Ejército de Salvación
+
+### Biblia, altar y doctrina salvacionista
+
+La [[iurd|Iglesia Universal del Reino de Dios]] emplea la Escritura como referencia doctrinal y recurre a narraciones del templo y el altar en sus campañas. El [[ejercito-salvacion|Ejército de Salvación]] explica la autoridad bíblica en el primero de sus once artículos de fe. [103, 104, 105]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -501,3 +510,6 @@ En [[luz-mundo|La Luz del Mundo]], la Biblia fundamenta la enseñanza de la rest
 100. [La Luz del Mundo, Centenario de la restauración de la Iglesia de Jesucristo](https://lldm.org/la-luz-del-mundo-centenario-de-la-restauracion-de-la-iglesia-de-jesucristo/).
 101. [St Andrews Encyclopaedia of Theology, Charismatic Gifts](https://www.saet.ac.uk/Christianity/CharismaticGifts).
 102. [Dicasterio para la Promoción de la Unidad de los Cristianos, On Becoming a Christian, informe de la quinta fase](https://www.christianunity.va/content/dam/unitacristiani/Information%20Service/IS%20130-121/Information%20Service%20129.pdf).
+103. [Igreja Universal, principios y enseñanzas](https://www.universal.org/a-universal/home-a-universal/).
+104. [Igreja Universal, programa de la Santa Cena y la Fogueira Santa](https://www.universal.org/noticias/post/santa-ceia-da-entrega/).
+105. [Salvation Army International Headquarters, Handbook of Doctrine](https://www.salvationarmy.org/sites/default/files/2025-06/Handbook%2Bof%2BDoctrine.pdf).

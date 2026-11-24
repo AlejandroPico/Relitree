@@ -12,7 +12,12 @@
     }
   ],
   "influencias": [],
-  "icono": null,
-  "fieles": 9900000,
-  "fieles_fuente": "Wikipedia, List of Christian denominations by number of members"
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Fachada rectangular del Templo de Salomón de Brás, dibujo editorial",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://www.universal.org/noticias/post/9-anos-do-templo-de-salomao/"
+  }
 }

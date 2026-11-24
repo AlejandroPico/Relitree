@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2592
+palabras: 2628
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -124,6 +124,9 @@ fuentes:
   - "https://www.statssa.gov.za/publications/SAStatistics/SAStatistics2012.pdf"
   - "https://cuentame.inegi.gob.mx/guia/descubre/religiones_en_mexico/docs/guia-las_religiones_en_mexico-descubre.pdf"
   - "https://www.pewresearch.org/religion/2014/11/13/chapter-4-pentecostalism/"
+  - "https://periodicos.fgv.br/ric/article/download/88023/83133"
+  - "https://www.salvationarmy.org/sites/default/files/2025-12/Annual_Report-2025.pdf"
+  - "https://www.salvationarmy.org/global-presence"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -384,6 +387,12 @@ El [[pentecostalismo|Pentecostalismo]] cuenta con una estimación mundial del CS
 
 El censo mexicano de 2020 mide la afiliación declarada a [[luz-mundo|La Luz del Mundo]]. Los estudios sobre el [[carismatico|Movimiento carismático]] pueden emplear una definición transversal que reúne experiencias y redes dentro de iglesias distintas. [101, 104, 105]
 
+## E20.5 · Iglesia Universal del Reino de Dios, Ejército de Salvación
+
+### Censo brasileño, soldados y adherentes
+
+Los datos de afiliación brasileña de la [[iurd|Iglesia Universal del Reino de Dios]] se leen con la fecha del censo. Las estadísticas del [[ejercito-salvacion|Ejército de Salvación]] distinguen soldados, adherentes y otros datos de presencia y actividad. [71, 106, 107, 108]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -507,3 +516,6 @@ El censo mexicano de 2020 mide la afiliación declarada a [[luz-mundo|La Luz del
 103. [Statistics South Africa, tabla de afiliación del censo de 2001 en SA Statistics 2012](https://www.statssa.gov.za/publications/SAStatistics/SAStatistics2012.pdf).
 104. [INEGI, Las religiones en México, guía de consulta del Censo 2020](https://cuentame.inegi.gob.mx/guia/descubre/religiones_en_mexico/docs/guia-las_religiones_en_mexico-descubre.pdf).
 105. [Pew Research Center, pentecostalismo y renovación en América Latina](https://www.pewresearch.org/religion/2014/11/13/chapter-4-pentecostalism/).
+106. [Fundação Getulio Vargas, nacionalismo religioso, tabla de afiliaciones brasileñas](https://periodicos.fgv.br/ric/article/download/88023/83133).
+107. [Salvation Army International Headquarters, datos mundiales publicados en el informe de 2025](https://www.salvationarmy.org/sites/default/files/2025-12/Annual_Report-2025.pdf).
+108. [Salvation Army International Headquarters, presencia mundial](https://www.salvationarmy.org/global-presence).

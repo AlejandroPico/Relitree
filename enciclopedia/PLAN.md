@@ -374,7 +374,7 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 
 ## Fase E20 · Cristianismo · tradiciones (7/9)
 
-**Estado.** Publicadas las entregas 20.1–20.4. Última versión: 1.7.75. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
+**Estado.** Publicadas las entregas 20.1–20.5. Última versión: 1.7.76. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
 - [x] 20.1 · [Evangelicalismo](es/religiones/evangelicalismo.md). 10.034 palabras de cuerpo y 10 figuras.
 - [x] 20.1 · [Fundamentalismo cristiano](es/religiones/fundamentalismo.md). 10.018 palabras de cuerpo y 10 figuras.
@@ -384,8 +384,8 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 - [x] 20.3 · [Iglesias sionistas africanas](es/religiones/zion-cc.md). 10.007 palabras de cuerpo y 10 figuras.
 - [x] 20.4 · [La Luz del Mundo](es/religiones/luz-mundo.md). 10.034 palabras de cuerpo y 10 figuras.
 - [x] 20.4 · [Movimiento carismático](es/religiones/carismatico.md). 10.005 palabras de cuerpo y 10 figuras.
-- [ ] 20.5 · Iglesia Universal del Reino de Dios (`iurd`)
-- [ ] 20.5 · Ejército de Salvación (`ejercito-salvacion`)
+- [x] 20.5 · [Iglesia Universal del Reino de Dios](es/religiones/iurd.md). 10.078 palabras de cuerpo y 10 figuras.
+- [x] 20.5 · [Ejército de Salvación](es/religiones/ejercito-salvacion.md). 10.053 palabras de cuerpo y 10 figuras.
 - [ ] 20.6 · Iglesia harrista (`harrismo`)
 - [ ] 20.6 · Hermanos de Plymouth (`hermanos-plymouth`)
 

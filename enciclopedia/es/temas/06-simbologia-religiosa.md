@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2573
+palabras: 2615
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -107,6 +107,8 @@ fuentes:
   - "https://sahistory.org.za/dated-event/joseph-lekganyane-zcc-dove-dies"
   - "https://arquine.com/la-arquitectura-de-la-luz-del-mundo/"
   - "https://www.saet.ac.uk/Christianity/CharismaticGifts"
+  - "https://www.universal.org/noticias/post/9-anos-do-templo-de-salomao/"
+  - "https://www.salvationarmy.org.uk/sites/default/files/resources/2020-02/Signs%20And%20Symbols%20Cards%20A4.pdf"
 ---
 
 # Simbología religiosa comparada
@@ -357,6 +359,12 @@ El [[pentecostalismo|Pentecostalismo]] se identifica en el árbol mediante un di
 
 Relitree identifica [[luz-mundo|La Luz del Mundo]] con la silueta del recinto de Hermosa Provincia y al [[carismatico|Movimiento carismático]] con manos alzadas en oración. Los dos dibujos editoriales se apoyan en referentes documentados. [91, 92]
 
+## E20.5 · Iglesia Universal del Reino de Dios, Ejército de Salvación
+
+### Templo de Brás, bandera y corneta
+
+El Templo de Salomón de Brás da el motivo gráfico a la [[iurd|Iglesia Universal del Reino de Dios]]. En el [[ejercito-salvacion|Ejército de Salvación]], la bandera y el escudo tienen significados documentados. La ficha utiliza una corneta como motivo editorial de sus bandas. [93, 94]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -464,3 +472,5 @@ Relitree identifica [[luz-mundo|La Luz del Mundo]] con la silueta del recinto de
 90. [South African History Online, Joseph Lekganyane y la rama de St Engenas](https://sahistory.org.za/dated-event/joseph-lekganyane-zcc-dove-dies).
 91. [Arquine, La arquitectura de La Luz del Mundo](https://arquine.com/la-arquitectura-de-la-luz-del-mundo/).
 92. [St Andrews Encyclopaedia of Theology, Charismatic Gifts](https://www.saet.ac.uk/Christianity/CharismaticGifts).
+93. [Igreja Universal, aniversario del Templo de Salomón](https://www.universal.org/noticias/post/9-anos-do-templo-de-salomao/).
+94. [Salvation Army International Heritage Centre, símbolos del Ejército de Salvación](https://www.salvationarmy.org.uk/sites/default/files/resources/2020-02/Signs%20And%20Symbols%20Cards%20A4.pdf).

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2444
+palabras: 2481
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -111,6 +111,8 @@ fuentes:
   - "https://lldm.org/bienvenida-a-la-santa-convocacion-agosto-2025/"
   - "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2017/06/03/170603g.html"
   - "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2019/06/04/190604c.html"
+  - "https://www.universal.org/noticias/post/santa-ceia-da-entrega/"
+  - "https://www.salvationarmyusa.org/about-us/the-red-kettle/"
 ---
 
 # Calendarios y festividades del mundo
@@ -361,6 +363,12 @@ Las convenciones de Sunderland emplearon Pentecostés como referencia anual del 
 
 [[luz-mundo|La Luz del Mundo]] reúne a sus fieles en torno al 14 de agosto para la Santa Cena de Guadalajara. La vigilia romana de 2017 y el comienzo de CHARIS en 2019 toman como fecha Pentecostés dentro de la rama católica del [[carismatico|Movimiento carismático]]. [93, 94, 95, 96]
 
+## E20.5 · Iglesia Universal del Reino de Dios, Ejército de Salvación
+
+### Campañas de oración y colectas de Navidad
+
+Las convocatorias de Santa Cena y Fogueira Santa de la [[iurd|Iglesia Universal del Reino de Dios]] publican fechas para campañas concretas. En el [[ejercito-salvacion|Ejército de Salvación]], la olla roja surgió en San Francisco como colecta de Navidad. [97, 98]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -471,3 +479,5 @@ Las convenciones de Sunderland emplearon Pentecostés como referencia anual del 
 94. [La Luz del Mundo, programa de la Santa Convocación de agosto de 2025](https://lldm.org/bienvenida-a-la-santa-convocacion-agosto-2025/).
 95. [Santa Sede, vigilia ecuménica de Pentecostés y cincuentenario de 2017](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2017/06/03/170603g.html).
 96. [Santa Sede, constitución de CHARIS, 2019](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2019/06/04/190604c.html).
+97. [Igreja Universal, programa de la Santa Cena y la Fogueira Santa](https://www.universal.org/noticias/post/santa-ceia-da-entrega/).
+98. [Salvation Army USA, origen y trayectoria de Red Kettle](https://www.salvationarmyusa.org/about-us/the-red-kettle/).

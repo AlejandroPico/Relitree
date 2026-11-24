@@ -11,8 +11,15 @@
       "relacion": "derivacion"
     }
   ],
-  "influencias": [],
-  "icono": null,
-  "fieles": 1800000,
-  "fieles_fuente": "Wikipedia, List of Christian denominations by number of members"
+  "influencias": [
+    "santidad"
+  ],
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Corneta de las bandas del Ejército de Salvación, dibujo editorial",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://commons.wikimedia.org/wiki/File:Salvation_Army_Brass_Band_in_Bullring_122_C.jpg"
+  }
 }

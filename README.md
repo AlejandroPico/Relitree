@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.75**
+**Versión 1.7.76**
+
+[Entrega 20.5 de la fase E20](enciclopedia/PLAN.md#fase-e20--cristianismo--tradiciones-79). Iglesia Universal del Reino de Dios, Ejército de Salvación. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
 [Entrega 20.4 de la fase E20](enciclopedia/PLAN.md#fase-e20--cristianismo--tradiciones-79). La Luz del Mundo, Movimiento carismático. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 

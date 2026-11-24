@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2535
+palabras: 2577
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -131,6 +131,10 @@ fuentes:
   - "https://www.sciencedirect.com/science/article/pii/S0048721X85700140"
   - "https://libguides.regent.edu/djbennett"
   - "https://guides.library.duq.edu/CCR"
+  - "https://revistas.usp.br/eav/pt_BR/article/view/10029"
+  - "https://revistas.usp.br/gis/pt_BR/article/view/182838"
+  - "https://www.salvationarmy.org.uk/about-us/international-heritage-centre/international-heritage-centre-blog/booth-family-papers"
+  - "https://www.gutenberg.org/ebooks/475"
 ---
 
 # Historia del estudio de las religiones
@@ -385,6 +389,12 @@ El [[pentecostalismo|Pentecostalismo]] se reconstruye con prensa, actas y testim
 
 La investigación de Patricia Fortuny aporta historia y observación del culto de [[luz-mundo|La Luz del Mundo]]. El archivo de Bennett y la colección de Duquesne permiten seguir itinerarios diferentes del [[carismatico|Movimiento carismático]]. [106, 107, 108, 109]
 
+## E20.5 · Iglesia Universal del Reino de Dios, Ejército de Salvación
+
+### Redes mediáticas y archivos de misión
+
+Oro y Ciochetti permiten seguir, respectivamente, la expansión transnacional y la presencia mediática de la [[iurd|Iglesia Universal del Reino de Dios]]. Para el [[ejercito-salvacion|Ejército de Salvación]], el archivo de los Booth y el programa social de 1890 ofrecen fuentes de distinto género. [110, 111, 112, 113]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -515,3 +525,7 @@ La investigación de Patricia Fortuny aporta historia y observación del culto d
 107. [Patricia Fortuny Loret de Mola, Origins, Development and Perspectives of La Luz del Mundo Church](https://www.sciencedirect.com/science/article/pii/S0048721X85700140).
 108. [Regent University Library, archivo y descripción de los papeles de Dennis J. Bennett](https://libguides.regent.edu/djbennett).
 109. [Duquesne University Library, guía de la Catholic Charismatic Renewal](https://guides.library.duq.edu/CCR).
+110. [Ari Pedro Oro, A presença religiosa brasileira no exterior, Universidade de São Paulo](https://revistas.usp.br/eav/pt_BR/article/view/10029).
+111. [Vitor Miranda Ciochetti, A Igreja Universal e suas mídias, Universidade de São Paulo](https://revistas.usp.br/gis/pt_BR/article/view/182838).
+112. [Salvation Army International Heritage Centre, Booth family papers](https://www.salvationarmy.org.uk/about-us/international-heritage-centre/international-heritage-centre-blog/booth-family-papers).
+113. [William Booth, In Darkest England, and the Way Out, 1890, Project Gutenberg](https://www.gutenberg.org/ebooks/475).

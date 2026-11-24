@@ -1140,7 +1140,22 @@ def _():
     luz = P("M50 15V27M41 19L44 27M59 19L56 27")
     return manos + luz
 
+@motivo("fachada_templo_bras", "Fachada rectangular del Templo de Salomón de Brás, dibujo editorial")
+def _():
+    templo = P("M12 79H88M18 73V31H82V73M16 31V24H84V31M27 69V38M37 69V38M63 69V38M73 69V38M46 73V51H54V73")
+    escalones = P("M15 74H85M20 67H80M25 59H42M58 59H75")
+    return templo + escalones
+
+
+@motivo("corneta_salvacionista", "Corneta de las bandas del Ejército de Salvación, dibujo editorial")
+def _():
+    corneta = P("M17 61H47C61 61 72 53 83 42V73C72 64 61 60 51 60M17 56V66M25 57V61M34 60V47H49C58 47 58 59 49 59M34 67V72H48C59 72 63 65 63 60")
+    notas = P("M65 34V20L73 23M59 34Q62 30 65 34Q63 38 59 34ZM83 29V17L90 19M78 29Q80 25 83 29Q80 33 78 29Z")
+    return corneta + notas
+
 ASIGNACION = {
+    'iurd': 'fachada_templo_bras',
+    'ejercito-salvacion': 'corneta_salvacionista',
     'luz-mundo': 'templo_perfil_provincia',
     'carismatico': 'manos_alabanza',
     'pentecostalismo': 'lenguas_pentecostes',

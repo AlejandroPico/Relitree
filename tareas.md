@@ -4,6 +4,10 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E20 · 20.5. [Iglesia Universal del Reino de Dios](enciclopedia/es/religiones/iurd.md). 10.078 palabras de cuerpo y 10 figuras. Versión 1.7.76.
+- [x] E20 · 20.5. [Ejército de Salvación](enciclopedia/es/religiones/ejercito-salvacion.md). 10.053 palabras de cuerpo y 10 figuras. Versión 1.7.76.
+  - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.
+
 - [x] E20 · 20.4. [La Luz del Mundo](enciclopedia/es/religiones/luz-mundo.md). 10.034 palabras de cuerpo y 10 figuras. Versión 1.7.75.
 - [x] E20 · 20.4. [Movimiento carismático](enciclopedia/es/religiones/carismatico.md). 10.005 palabras de cuerpo y 10 figuras. Versión 1.7.75.
   - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.

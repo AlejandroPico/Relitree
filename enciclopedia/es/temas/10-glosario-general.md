@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2701
+palabras: 2733
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -118,6 +118,9 @@ fuentes:
   - "https://lldm.org/la-luz-del-mundo-centenario-de-la-restauracion-de-la-iglesia-de-jesucristo/"
   - "https://www.saet.ac.uk/Christianity/CharismaticGifts"
   - "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html"
+  - "https://www.universal.org/noticias/post/santa-ceia-da-entrega/"
+  - "https://www.salvationarmy.org/sites/default/files/2025-06/Handbook%2Bof%2BDoctrine.pdf"
+  - "https://www.salvationarmy.org/sites/default/files/2025-09/Called%2Bto%2Bbe%2Ba%2BSoldier.pdf"
 ---
 
 # Glosario general
@@ -474,6 +477,12 @@ En el [[pentecostalismo|Pentecostalismo]], glosolalia designa el hablar en lengu
 
 En [[luz-mundo|La Luz del Mundo]], restauración designa el restablecimiento de la Iglesia apostólica que la comunidad asocia al llamamiento de 1926. En el [[carismatico|Movimiento carismático]], carisma designa un don que se interpreta a la luz de su aportación a la comunidad. [92, 93, 94]
 
+## E20.5 · Iglesia Universal del Reino de Dios, Ejército de Salvación
+
+### Fogueira Santa, cuerpo y soldado
+
+Fogueira Santa denomina campañas de la [[iurd|Iglesia Universal del Reino de Dios]]. En el [[ejercito-salvacion|Ejército de Salvación]], cuerpo es una congregación local y soldado es quien asume el compromiso formal de pertenencia. [95, 96, 97]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -591,3 +600,6 @@ En [[luz-mundo|La Luz del Mundo]], restauración designa el restablecimiento de 
 92. [La Luz del Mundo, Centenario de la restauración de la Iglesia de Jesucristo](https://lldm.org/la-luz-del-mundo-centenario-de-la-restauracion-de-la-iglesia-de-jesucristo/).
 93. [St Andrews Encyclopaedia of Theology, Charismatic Gifts](https://www.saet.ac.uk/Christianity/CharismaticGifts).
 94. [Concilio Vaticano II, Lumen gentium, n.º 12](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html).
+95. [Igreja Universal, programa de la Santa Cena y la Fogueira Santa](https://www.universal.org/noticias/post/santa-ceia-da-entrega/).
+96. [Salvation Army International Headquarters, Handbook of Doctrine](https://www.salvationarmy.org/sites/default/files/2025-06/Handbook%2Bof%2BDoctrine.pdf).
+97. [Salvation Army, Called to Be a Soldier](https://www.salvationarmy.org/sites/default/files/2025-09/Called%2Bto%2Bbe%2Ba%2BSoldier.pdf).
