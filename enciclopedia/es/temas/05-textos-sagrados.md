@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2387
+palabras: 2435
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -82,6 +82,11 @@ fuentes:
   - "https://snu.org.uk/about-us/about-spiritualism/the-seven-principles/"
   - "https://catalogue.bnf.fr/ark%3A/12148/cb30010955b"
   - "https://catalogue.bnf.fr/rechercher.do?index=TOUS3&numNotice=11888475&typeNotice=p"
+  - "https://archive.org/details/isisunveiledmast01blav"
+  - "https://www.theosophy.org/Blavatsky/Secret%20Doctrine/SD-I/SDVolume_I.htm"
+  - "https://searcharchives.bl.uk/catalog/036-002018004"
+  - "https://rsarchive.org/Books/GA004/index.html"
+  - "https://rsarchive.org/Books/"
 ---
 
 # Textos sagrados del mundo comparados
@@ -286,6 +291,12 @@ Los [[shakers]] interpretaron la Biblia a la luz de la revelación continuada. S
 
 En el [[espiritualismo]] anglófono, las declaraciones de principios se atribuyen a sus iglesias y uniones concretas. El [[espiritismo]] kardecista se consulta a partir de un corpus que comenzó con El libro de los espíritus en 1857 y se amplió con nuevas obras y ediciones. [62, 63, 64, 65]
 
+## E19.3 · Teosofía, Antroposofía
+
+### Bibliotecas de Teosofía y Antroposofía
+
+En la [[teosofia|Teosofía]] moderna, los libros publicados por Blavatsky y las cartas atribuidas a los mahatmas tienen historias de autoría y edición distintas. En la [[antroposofia|Antroposofía]] se distingue la obra impresa de Steiner de sus ciclos de conferencias, que se consultan en el catálogo de la edición completa. [66, 67, 68, 69, 70]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -367,3 +378,8 @@ En el [[espiritualismo]] anglófono, las declaraciones de principios se atribuye
 63. [Spiritualists' National Union, The Seven Principles](https://snu.org.uk/about-us/about-spiritualism/the-seven-principles/).
 64. [Biblioth?que nationale de France, Le Livre des esprits, registro bibliogr?fico](https://catalogue.bnf.fr/ark%3A/12148/cb30010955b).
 65. [Biblioth?que nationale de France, t?tulos asociados a Allan Kardec](https://catalogue.bnf.fr/rechercher.do?index=TOUS3&numNotice=11888475&typeNotice=p).
+66. [Helena P. Blavatsky, Isis unveiled, edici?n hist?rica digitalizada](https://archive.org/details/isisunveiledmast01blav).
+67. [Helena P. Blavatsky, The Secret Doctrine, texto en Theosophy Library Online](https://www.theosophy.org/Blavatsky/Secret%20Doctrine/SD-I/SDVolume_I.htm).
+68. [British Library, Mahatma Papers, Add MS 45284-45286](https://searcharchives.bl.uk/catalog/036-002018004).
+69. [Rudolf Steiner, La filosof?a de la libertad, GA 4, Rudolf Steiner Archive](https://rsarchive.org/Books/GA004/index.html).
+70. [Rudolf Steiner Archive, cat?logo de libros de Steiner](https://rsarchive.org/Books/).

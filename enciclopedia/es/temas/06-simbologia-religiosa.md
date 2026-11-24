@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2183
+palabras: 2218
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -80,6 +80,9 @@ fuentes:
   - "https://nsac.org/hydesville-park-history/"
   - "https://cei-spiritistcouncil.com/wp-content/uploads/2020/07/2-The-Spirits-Book.pdf"
   - "https://commons.wikimedia.org/wiki/File:LLDE_cep_vigne.jpg"
+  - "https://www.theosophical.org/files/resources/leaflets/emblem/TSEmblem.pdf"
+  - "https://goetheanum.ch/es/sociedad/historia"
+  - "https://www.anthroposophie.ch/en/anthroposophy/topics/articles/goetheanum/architecture-of-the-first-and-second-goetheanum.html"
 ---
 
 # Simbología religiosa comparada
@@ -270,6 +273,12 @@ El árbol de 1854 de Hannah Cohoon procede de la Era de las Manifestaciones de l
 
 El girasol se documenta en el [[espiritualismo]] organizado de Estados Unidos. La vid que representa al [[espiritismo]] en Relitree procede del motivo ilustrado y explicado en el prolegómeno de El libro de los espíritus. [62, 63, 64, 65]
 
+## E19.3 · Teosofía, Antroposofía
+
+### El sello de Adyar y el Goetheanum
+
+El sello propio de la [[teosofia|Teosofía]] combina varios motivos anteriores y les atribuye un significado de conjunto. El icono de la [[antroposofia|Antroposofía]] en Relitree adapta la silueta del segundo Goetheanum de Dornach como referencia arquitectónica. [66, 67, 68]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -350,3 +359,6 @@ El girasol se documenta en el [[espiritualismo]] organizado de Estados Unidos. L
 63. [National Spiritualist Association of Churches, historia del lugar de Hydesville](https://nsac.org/hydesville-park-history/).
 64. [Allan Kardec, The Spirits' Book, edici?n del Consejo Esp?rita Internacional](https://cei-spiritistcouncil.com/wp-content/uploads/2020/07/2-The-Spirits-Book.pdf).
 65. [Procedencia visual de Sarmiento de vid con hojas y racimo](https://commons.wikimedia.org/wiki/File:LLDE_cep_vigne.jpg).
+66. [Sociedad Teos?fica en Am?rica, explicaci?n del emblema](https://www.theosophical.org/files/resources/leaflets/emblem/TSEmblem.pdf).
+67. [Goetheanum, historia de la Sociedad Antropos?fica](https://goetheanum.ch/es/sociedad/historia).
+68. [Anthroposophie Schweiz, arquitectura del primer y segundo Goetheanum](https://www.anthroposophie.ch/en/anthroposophy/topics/articles/goetheanum/architecture-of-the-first-and-second-goetheanum.html).

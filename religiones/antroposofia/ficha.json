@@ -12,5 +12,12 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Silueta del segundo Goetheanum de Dornach, adaptación de su perfil arquitectónico",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://www.anthroposophie.ch/en/anthroposophy/topics/articles/goetheanum/architecture-of-the-first-and-second-goetheanum.html"
+  }
 }

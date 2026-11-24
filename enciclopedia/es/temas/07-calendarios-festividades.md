@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2045
+palabras: 2086
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -81,6 +81,8 @@ fuentes:
   - "https://nsac.org/hydesville-park-history/"
   - "https://www2.camara.leg.br/legin/fed/lei/2022/lei-14354-30-maio-2022-792739-publicacaooriginal-165401-pl.html"
   - "https://www12.senado.leg.br/noticias/materias/2022/05/31/lei-institui-18-de-abril-como-dia-nacional-do-espiritismo"
+  - "https://www.theosophy.world/encyclopedia/white-lotus-day"
+  - "https://rsarchive.org/COTS/index.php"
 ---
 
 # Calendarios y festividades del mundo
@@ -271,6 +273,12 @@ Entre los [[shakers]], la reunión dominical se distingue de los encuentros espe
 
 La memoria de Hydesville en el [[espiritualismo]] remite al 31 de marzo de 1848. En el [[espiritismo]] brasileño, el 18 de abril es una conmemoración reconocida por la ley federal 14.354 de 2022 y vinculada a la publicación de Kardec. [63, 64, 65, 66]
 
+## E19.3 · Teosofía, Antroposofía
+
+### Loto Blanco y verso semanal
+
+El Día del Loto Blanco recuerda en la [[teosofia|Teosofía]] el fallecimiento de Blavatsky, el 8 de mayo de 1891. El Calendario del alma de la [[antroposofia|Antroposofía]] asocia 52 versos con las semanas del año y con una práctica de lectura periódica. [67, 68]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -351,3 +359,5 @@ La memoria de Hydesville en el [[espiritualismo]] remite al 31 de marzo de 1848.
 64. [National Spiritualist Association of Churches, historia del lugar de Hydesville](https://nsac.org/hydesville-park-history/).
 65. [C�mara dos Deputados de Brasil, Ley 14.354 de 30 de mayo de 2022](https://www2.camara.leg.br/legin/fed/lei/2022/lei-14354-30-maio-2022-792739-publicacaooriginal-165401-pl.html).
 66. [Senado Federal de Brasil, noticia sobre el D�a Nacional del Espiritismo](https://www12.senado.leg.br/noticias/materias/2022/05/31/lei-institui-18-de-abril-como-dia-nacional-do-espiritismo).
+67. [Theosophy World, White Lotus Day](https://www.theosophy.world/encyclopedia/white-lotus-day).
+68. [Rudolf Steiner Archive, Calendario del alma](https://rsarchive.org/COTS/index.php).

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2153
+palabras: 2198
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -95,6 +95,11 @@ fuentes:
   - "https://www.spr.ac.uk/about/our-history"
   - "https://web.projetokardec.ufjf.br/"
   - "https://www.persee.fr/doc/assr_0335-5985_1992_num_80_1_1564_t1_0239_0000_2"
+  - "https://pure.uva.nl/ws/files/54260569/Theosophy_Western_Esotericism_and_the_Orient_in_the_First_Theosophical_Society.pdf"
+  - "https://academic.oup.com/jaar/article/89/4/1180/6500917"
+  - "https://academic.oup.com/book/39711/chapter-abstract/339733258"
+  - "https://www.degruyterbrill.com/document/isbn/9789004270152/html"
+  - "https://ecommons.cornell.edu/entities/publication/c6bd2396-fee7-4bbc-9dae-a631078fac29"
 ---
 
 # Historia del estudio de las religiones
@@ -289,6 +294,12 @@ Stephen J. Stein reconstruye la evolución de los [[shakers]] desde sus redes de
 
 Los archivos de la Society for Psychical Research documentan conflictos de interpretación en el [[espiritualismo]]. Aubrée y Laplantine y el archivo universitario de Juiz de Fora ofrecen vías para estudiar la circulación de escritos y prácticas del [[espiritismo]] entre Francia y Brasil. [70, 71, 72, 73]
 
+## E19.3 · Teosofía, Antroposofía
+
+### Colaboración colonial y trayectorias políticas
+
+La [[teosofia|Teosofía]] en India se estudia a través de sus lecturas y de relaciones institucionales como la mantenida con el Arya Samaj. Los trabajos de Staudenmaier documentan relaciones entre la [[antroposofia|Antroposofía]], las ideas de raza y distintos actores del periodo fascista en Alemania e Italia. [74, 75, 76, 77, 78]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -383,3 +394,8 @@ Los archivos de la Society for Psychical Research documentan conflictos de inter
 71. [Society for Psychical Research, historia institucional](https://www.spr.ac.uk/about/our-history).
 72. [Universidade Federal de Juiz de Fora, Projeto Allan Kardec, archivo de documentos](https://web.projetokardec.ufjf.br/).
 73. [Rese?a de Marion Aubr?e y Fran?ois Laplantine, La Table, le Livre et les Esprits, Archives de sciences sociales des religions](https://www.persee.fr/doc/assr_0335-5985_1992_num_80_1_1564_t1_0239_0000_2).
+74. [Wouter J. Hanegraaff, ?Theosophy, Western Esotericism, and the Orient in the First Theosophical Society?](https://pure.uva.nl/ws/files/54260569/Theosophy_Western_Esotericism_and_the_Orient_in_the_First_Theosophical_Society.pdf).
+75. [Julian Strube, ?Theosophy, Race, and the Study of Esotericism?, Journal of the American Academy of Religion](https://academic.oup.com/jaar/article/89/4/1180/6500917).
+76. [Julian Strube, «The Marriage between the Theosophical Society and the Arya Samaj»](https://academic.oup.com/book/39711/chapter-abstract/339733258).
+77. [Peter Staudenmaier, Between Occultism and Nazism, De Gruyter Brill](https://www.degruyterbrill.com/document/isbn/9789004270152/html).
+78. [Peter Staudenmaier, tesis doctoral sobre Antroposof?a, raza y naci?n, Cornell University](https://ecommons.cornell.edu/entities/publication/c6bd2396-fee7-4bbc-9dae-a631078fac29).

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2196
+palabras: 2242
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -91,6 +91,10 @@ fuentes:
   - "https://www.smithsonianmag.com/travel/the-tiny-new-york-town-where-mediums-give-voice-to-the-dead-180987270/"
   - "https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/3f1708b5d315aca50d5a7d8764469c45.pdf"
   - "https://periodicos.pucminas.br/horizonte/article/view/36770"
+  - "https://www.ts-adyar.org/international-rules"
+  - "https://theosophy-india.org/history/"
+  - "https://www.anthroposophy.org/about"
+  - "https://goetheanum.ch/en/sections"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -291,6 +295,12 @@ Sabbathday Lake, Maine, conserva una comunidad [[shakers|shaker]] activa. Tras e
 
 Lily Dale y las iglesias afiliadas a la NSAC muestran formas de implantación del [[espiritualismo]] estadounidense. En el censo brasileño de 2022, resultados de muestra publicados en 2025, el 1,8 % de la población de 10 años o más se declaró del [[espiritismo|grupo espírita]]. [69, 70, 71, 72]
 
+## E19.3 · Teosofía, Antroposofía
+
+### Sedes y redes internacionales
+
+Adyar, en Chennai, es sede histórica de una de las sociedades de la [[teosofia|Teosofía]]. El Goetheanum de Dornach es sede de la Sociedad de la [[antroposofia|Antroposofía]] y alberga varias secciones. Los respectivos directorios sitúan grupos y centros, con una medida distinta de cualquier recuento de miembros. [73, 74, 75, 76]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -381,3 +391,7 @@ Lily Dale y las iglesias afiliadas a la NSAC muestran formas de implantación de
 70. [Smithsonian Magazine, reportaje sobre Lily Dale](https://www.smithsonianmag.com/travel/the-tiny-new-york-town-where-mediums-give-voice-to-the-dead-180987270/).
 71. [IBGE, Censo Demogr?fico 2022, resultados preliminares de la muestra sobre religi?n](https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/3f1708b5d315aca50d5a7d8764469c45.pdf).
 72. [?As estat?sticas do espiritismo no censo brasileiro?, Horizonte, PUC Minas](https://periodicos.pucminas.br/horizonte/article/view/36770).
+73. [Sociedad Teos?fica de Adyar, reglamento internacional](https://www.ts-adyar.org/international-rules).
+74. [Sociedad Teos?fica, secci?n de la India, historia institucional](https://theosophy-india.org/history/).
+75. [Anthroposophical Society in America, organizaci?n y grupos regionales](https://www.anthroposophy.org/about).
+76. [Goetheanum, secciones especializadas](https://goetheanum.ch/en/sections).

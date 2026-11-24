@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2317
+palabras: 2360
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -88,6 +88,10 @@ fuentes:
   - "https://libguides.cam.ac.uk/manuscripts/spr"
   - "https://cei-spiritistcouncil.com/wp-content/uploads/2020/07/2-The-Spirits-Book.pdf"
   - "https://www.scielo.br/j/ra/a/7S5KvbXsKGRnK3cFMbMSzXS/"
+  - "https://ts-adyar.org/early-history"
+  - "https://pure.uva.nl/ws/files/54260569/Theosophy_Western_Esotericism_and_the_Orient_in_the_First_Theosophical_Society.pdf"
+  - "https://rsarchive.org/Books/"
+  - "https://rsarchive.org/Lectures/GA277a/English/SOL2024/19140120e01.html"
 ---
 
 # Glosario general
@@ -384,6 +388,12 @@ La familia [[shakers|shaker]] era una unidad residencial y religiosa formada por
 
 Mediumnidad designa la función que se atribuye a un intermediario en el [[espiritualismo]] y otras corrientes. Psicografía es una modalidad de producción escrita que ocupa un lugar destacado en el [[espiritismo]] brasileño de Chico Xavier. [61, 62, 63, 64]
 
+## E19.3 · Teosofía, Antroposofía
+
+### Teosofía moderna, ciencia espiritual y euritmia
+
+[[teosofia|Teosofía]] moderna designa aquí el movimiento vinculado a la Sociedad fundada en Nueva York en 1875. Ciencia espiritual nombra el programa de conocimiento defendido por Steiner en la [[antroposofia|Antroposofía]], donde euritmia se aplica a un arte del movimiento relacionado con habla y música. [65, 66, 67, 68]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -471,3 +481,7 @@ Mediumnidad designa la función que se atribuye a un intermediario en el [[espir
 62. [University of Cambridge Library, archivo de la Society for Psychical Research](https://libguides.cam.ac.uk/manuscripts/spr).
 63. [Allan Kardec, The Spirits' Book, edici?n del Consejo Esp?rita Internacional](https://cei-spiritistcouncil.com/wp-content/uploads/2020/07/2-The-Spirits-Book.pdf).
 64. [Bernardo Lewgoy, ?Chico Xavier e a cultura brasileira?, Revista de Antropologia](https://www.scielo.br/j/ra/a/7S5KvbXsKGRnK3cFMbMSzXS/).
+65. [Sociedad Teos?fica de Adyar, historia temprana](https://ts-adyar.org/early-history).
+66. [Wouter J. Hanegraaff, ?Theosophy, Western Esotericism, and the Orient in the First Theosophical Society?](https://pure.uva.nl/ws/files/54260569/Theosophy_Western_Esotericism_and_the_Orient_in_the_First_Theosophical_Society.pdf).
+67. [Rudolf Steiner Archive, cat?logo de libros de Steiner](https://rsarchive.org/Books/).
+68. [Rudolf Steiner Archive, notas sobre el desarrollo de la euritmia, GA 277a](https://rsarchive.org/Lectures/GA277a/English/SOL2024/19140120e01.html).

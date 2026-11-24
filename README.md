@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.65**
+**Versión 1.7.66**
+
+[Entrega 19.3 de la fase E19](enciclopedia/PLAN.md#fase-e19--cristianismo--tradiciones-69). Teosofía, Antroposofía. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
 [Entrega 19.2 de la fase E19](enciclopedia/PLAN.md#fase-e19--cristianismo--tradiciones-69). Espiritualismo, Espiritismo. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 

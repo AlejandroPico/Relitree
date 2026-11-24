@@ -1030,7 +1030,14 @@ def _():
     ramas = P("M50 87V36M50 65Q39 52 28 47M50 65Q61 52 72 47M50 51Q43 39 37 35M50 51Q57 39 63 35M37 87H63")
     return copa + ramas
 
+@motivo("goetheanum", "Silueta del segundo Goetheanum de Dornach, adaptación de su perfil arquitectónico")
+def _():
+    perfil = P("M9 76L12 59L22 54L27 43L38 38L47 26Q51 20 60 23L73 29L78 40L87 46L92 75Z")
+    ventanas = P("M20 64L33 61L41 53L53 49L60 44L76 48L84 56M37 76L40 58M58 76L60 49M73 76L73 54", 'stroke-width="3.7"')
+    return perfil + ventanas
+
 ASIGNACION = {
+    'antroposofia': 'goetheanum',
     'shakers': 'arbol_shaker',
     # Prehistoria
     "origen": "ocre", "afr-msa": "ocre", "levante-paleo": "sepultura", "eur-paleo": "mano", "sea-paleo": "mano",
