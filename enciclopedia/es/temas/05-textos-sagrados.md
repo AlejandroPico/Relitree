@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2634
+palabras: 2665
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -102,6 +102,9 @@ fuentes:
   - "https://wellcomecollection.org/works/zg6fks8m"
   - "https://archives-parlementaires.persee.fr/prt/ac04b560-29b8-4ac7-857c-1d255b96b4f8"
   - "https://www.persee.fr/doc/arcpa_0000-0000_1972_num_90_1_26351_t1_0132_0000_4"
+  - "https://plato.stanford.edu/entries/comte/"
+  - "https://www.stephenhicks.org/wp-content/uploads/2024/05/ComteAuguste-Catechism-of-Positive-Religion-I-V.pdf"
+  - "https://heritage.humanists.uk/richard-congreve/"
 ---
 
 # Textos sagrados del mundo comparados
@@ -336,6 +339,12 @@ En el [[neochamanismo|Neochamanismo]], The Way of the Shaman (1980) funciona com
 
 El [[deismo|Deísmo]] histórico dejó tratados, diálogos y réplicas. En Tindal, la autoridad religiosa de los deberes comunes se discute mediante un argumento acerca de la naturaleza y del Evangelio. En el [[ser-supremo|Culto del Ser Supremo]], el informe y el decreto del 18 de floréal documentan la argumentación de un promotor y una decisión de la Convención con alcances distintos. [83, 84, 85]
 
+## E19.8 · Religión de la Humanidad
+
+### El catecismo de la Humanidad
+
+En la [[positivismo|Religión de la Humanidad]], el Catecismo positivista de 1852 dispone la enseñanza en trece conversaciones. Su traducción inglesa por Richard Congreve permite seguir cambios de vocabulario y de público. [86, 87, 88]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -437,3 +446,6 @@ El [[deismo|Deísmo]] histórico dejó tratados, diálogos y réplicas. En Tinda
 83. [Matthew Tindal, Christianity as Old as the Creation, Wellcome Collection](https://wellcomecollection.org/works/zg6fks8m).
 84. [Convención Nacional, decreto del 18 de floréal del año II](https://archives-parlementaires.persee.fr/prt/ac04b560-29b8-4ac7-857c-1d255b96b4f8).
 85. [Maximilien Robespierre, informe del 18 de floréal, Archives parlementaires](https://www.persee.fr/doc/arcpa_0000-0000_1972_num_90_1_26351_t1_0132_0000_4).
+86. [Michel Bourdeau, Auguste Comte, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/comte/).
+87. [Auguste Comte, Catechism of Positive Religion, traducción de Richard Congreve](https://www.stephenhicks.org/wp-content/uploads/2024/05/ComteAuguste-Catechism-of-Positive-Religion-I-V.pdf).
+88. [Humanist Heritage, Richard Congreve (1818–1899)](https://heritage.humanists.uk/richard-congreve/).

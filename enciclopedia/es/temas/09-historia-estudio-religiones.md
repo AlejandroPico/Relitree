@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2358
+palabras: 2397
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -113,6 +113,9 @@ fuentes:
   - "https://pure.royalholloway.ac.uk/files/4140107/Champion_DEISM"
   - "https://www.huntington.org/collections/lib-440624"
   - "https://books.google.com/books/about/Festivals_and_the_French_Revolution.html?id=iq6yuKS6EWEC"
+  - "https://plato.stanford.edu/entries/comte/"
+  - "https://periodicos.ufpel.edu.br/index.php/HistRev/article/download/11453/7238/"
+  - "https://dialnet.unirioja.es/descarga/articulo/10187195.pdf"
 ---
 
 # Historia del estudio de las religiones
@@ -337,6 +340,12 @@ Ronald Hutton examinó la formación histórica de la categoría chamanismo. Gal
 
 Las réplicas de Leland permiten seguir la clasificación polémica de los autores del [[deismo|Deísmo]], contrastable con la historiografía de Champion. Ozouf sitúa el [[ser-supremo|Culto del Ser Supremo]] en la cultura festiva revolucionaria y permite examinar el espacio, el orden de la marcha y la cronología de la celebración. [89, 90, 91]
 
+## E19.8 · Religión de la Humanidad
+
+### El culto positivista estudiado mediante libros y folletos
+
+La síntesis de Bourdeau sitúa la [[positivismo|Religión de la Humanidad]] dentro de la trayectoria de Comte. Pezat estudia publicaciones de la Iglesia brasileña y permite examinar qué cambios se producen al seguir las actividades de un grupo regional concreto. [92, 93, 94]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -449,3 +458,6 @@ Las réplicas de Leland permiten seguir la clasificación polémica de los autor
 89. [Justin Champion, Deism, The Columbia History of Western Philosophy](https://pure.royalholloway.ac.uk/files/4140107/Champion_DEISM).
 90. [John Leland, A View of the Principal Deistical Writers, ejemplar de 1754, The Huntington](https://www.huntington.org/collections/lib-440624).
 91. [Mona Ozouf, Festivals and the French Revolution, referencia bibliográfica](https://books.google.com/books/about/Festivals_and_the_French_Revolution.html?id=iq6yuKS6EWEC).
+92. [Michel Bourdeau, Auguste Comte, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/comte/).
+93. [Paulo Ricardo Pezat, publicaciones de la Iglesia Positivista del Brasil, História em Revista](https://periodicos.ufpel.edu.br/index.php/HistRev/article/download/11453/7238/).
+94. [Paulo Ricardo Pezat, A capela positivista de Porto Alegre](https://dialnet.unirioja.es/descarga/articulo/10187195.pdf).

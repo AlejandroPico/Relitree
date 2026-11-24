@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.70**
+**Versión 1.7.71**
+
+[Entrega 19.8 de la fase E19](enciclopedia/PLAN.md#fase-e19--cristianismo--tradiciones-69). Religión de la Humanidad. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
 [Entrega 19.7 de la fase E19](enciclopedia/PLAN.md#fase-e19--cristianismo--tradiciones-69). Deísmo, Culto del Ser Supremo. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 

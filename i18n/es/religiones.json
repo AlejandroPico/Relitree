@@ -2077,7 +2077,7 @@
  "deismo": {
   "nombre": "Deísmo",
   "alias": [],
-  "resumen": "Religión racional de la Ilustración: un Dios creador que no interviene ni se revela."
+  "resumen": "Familia de posiciones filosóficas que atribuyen el orden del mundo a una divinidad y someten a examen racional las pretensiones de revelación. Sus formulaciones modernas tuvieron especial desarrollo en la Europa ilustrada y en ámbitos atlánticos."
  },
  "martinismo": {
   "nombre": "Martinismo",
@@ -2087,12 +2087,12 @@
  "ser-supremo": {
   "nombre": "Culto del Ser Supremo",
   "alias": [],
-  "resumen": "Religión cívica instaurada por Robespierre durante la Revolución francesa."
+  "resumen": "Culto cívico instituido por la Convención Nacional francesa en 1794. Proclamaba la existencia del Ser Supremo y la inmortalidad del alma, y tuvo su principal expresión en la fiesta del 20 de prairial del año II."
  },
  "positivismo": {
   "nombre": "Religión de la Humanidad",
   "alias": [],
-  "resumen": "Religión laica ideada por Auguste Comte, con templos todavía abiertos en Brasil."
+  "resumen": "Religión instituida por Auguste Comte que venera a la Humanidad como comunidad histórica. Desarrolló oración, sacramentos sociales y un calendario conmemorativo, con grupos y capillas en Francia, Gran Bretaña y Brasil."
  },
  "yo-soy": {
   "nombre": "Actividad «Yo Soy»",
@@ -2117,7 +2117,7 @@
  "neochamanismo": {
   "nombre": "Neochamanismo",
   "alias": [],
-  "resumen": "Adaptación occidental de técnicas chamánicas de trance y sanación."
+  "resumen": "Conjunto de prácticas modernas que reinterpretan el chamanismo en talleres, redes espirituales y movimientos neopaganos. Incluye el chamanismo esencial difundido por Michael Harner y corrientes de procedencia diversa."
  },
  "celta-reconstr": {
   "nombre": "Reconstruccionismo celta",

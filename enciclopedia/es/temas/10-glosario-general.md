@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2518
+palabras: 2558
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -104,6 +104,8 @@ fuentes:
   - "https://www.shamanism.org/shop-online/book-way-of-the-shaman/"
   - "https://plato.stanford.edu/entries/natural-theology/"
   - "https://archives-parlementaires.persee.fr/prt/ac04b560-29b8-4ac7-857c-1d255b96b4f8"
+  - "https://plato.stanford.edu/entries/comte/"
+  - "https://www.stephenhicks.org/wp-content/uploads/2024/05/ComteAuguste-Catechism-of-Positive-Religion-I-V.pdf"
 ---
 
 # Glosario general
@@ -430,6 +432,12 @@ El [[neochamanismo|Neochamanismo]] agrupa prácticas modernas de orígenes diver
 
 En la historia del [[deismo|Deísmo]], la religión natural identifica creencias o deberes que se consideran accesibles mediante el juicio y la experiencia. Un culto cívico puede disponer de ceremonias y días establecidos por una autoridad pública, como sucedió en el [[ser-supremo|Culto del Ser Supremo]] de 1794. [79, 80]
 
+## E19.8 · Religión de la Humanidad
+
+### Gran Ser y supervivencia subjetiva
+
+El Gran Ser de la [[positivismo|Religión de la Humanidad]] es la humanidad considerada según la continuidad de las generaciones y sus contribuciones. La supervivencia subjetiva designa la persistencia de los muertos en el recuerdo y la actividad de quienes viven. [81, 82]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -533,3 +541,5 @@ En la historia del [[deismo|Deísmo]], la religión natural identifica creencias
 78. [Michael Harner, The Way of the Shaman, ficha editorial en la Foundation for Shamanic Studies](https://www.shamanism.org/shop-online/book-way-of-the-shaman/).
 79. [Natural Theology and Natural Religion, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/natural-theology/).
 80. [Convención Nacional, decreto del 18 de floréal del año II](https://archives-parlementaires.persee.fr/prt/ac04b560-29b8-4ac7-857c-1d255b96b4f8).
+81. [Michel Bourdeau, Auguste Comte, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/comte/).
+82. [Auguste Comte, Catechism of Positive Religion, traducción de Richard Congreve](https://www.stephenhicks.org/wp-content/uploads/2024/05/ComteAuguste-Catechism-of-Positive-Religion-I-V.pdf).

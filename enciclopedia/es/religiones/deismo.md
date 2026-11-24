@@ -95,7 +95,7 @@ El debate inglés se desplegó a lo largo de unos problemas reconocibles. Los au
 
 <figure class="figura-contexto">
   <img src="datos/medios/e19-deismo-toland.jpg" alt="Retrato de John Toland" width="668" height="1150" loading="lazy" decoding="async">
-  <figcaption>John Toland trasladó la discusión de la revelación al problema de qué se puede entender y juzgar racionalmente. Autoría: J. D. Philippin, born Sysang (1729 - 1791). <a href="https://commons.wikimedia.org/wiki/File:John%20Toland.jpg">Ficha en Wikimedia Commons</a>. <a href="https://creativecommons.org/publicdomain/mark/1.0/">Dominio público, según la ficha de procedencia</a>. Tamaño o formato adaptado. [32]</figcaption>
+  <figcaption>John Toland trasladó la discusión de la revelación al problema de qué se puede entender y juzgar racionalmente. Autoría: Johanna Dorothea Philippin, nacida Sysang. <a href="https://commons.wikimedia.org/wiki/File:John%20Toland.jpg">Ficha en Wikimedia Commons</a>. <a href="https://creativecommons.org/publicdomain/mark/1.0/">Dominio público, según la ficha de procedencia</a>. Tamaño o formato adaptado. [32]</figcaption>
 </figure>
 
 *Christianity Not Mysterious*, impreso en 1696, situó el sentido de la palabra *misterio* en el centro del debate. Toland distinguió la comprensión de una proposición del conocimiento de las causas de un hecho. La experiencia cotidiana muestra cosas cuya explicación completa se ignora. Alguien puede admitir el hecho, saber qué está afirmando y reconocer que todavía no entiende su causa. Allí donde tampoco se entiende el significado de lo enunciado, el asentimiento que se reclama plantea otro problema. Toland aplicó esa exigencia de inteligibilidad al cristianismo del que hablaba el título de su libro. [2, 4]
@@ -120,7 +120,7 @@ Sus escritos también ilustran los riesgos de separar una frase del género pol�
 
 <figure>
   <img src="datos/medios/e19-deismo-tindal.jpg" alt="Página impresa de una obra de controversia sobre Matthew Tindal" width="806" height="324" loading="lazy" decoding="async">
-  <figcaption>Una pieza de la controversia en torno a Matthew Tindal. Su ficha bibliográfica permite situar el impreso dentro de la recepción de su obra. Autoría: Member of the same college. <a href="https://commons.wikimedia.org/wiki/File:The%20religious,%20rational,%20and%20moral%20conduct%20of%20Matthew%20Tindal,%20L%20Fleuron%20T100270-2.png">Ficha en Wikimedia Commons</a>. <a href="https://creativecommons.org/publicdomain/mark/1.0/">Dominio público, según la ficha de procedencia</a>. Tamaño o formato adaptado. [33]</figcaption>
+  <figcaption>Una pieza de la controversia en torno a Matthew Tindal. Su ficha bibliográfica permite situar el impreso dentro de la recepción de su obra. Autoría: Un miembro del mismo colegio, según la atribución de portada. <a href="https://commons.wikimedia.org/wiki/File:The%20religious,%20rational,%20and%20moral%20conduct%20of%20Matthew%20Tindal,%20L%20Fleuron%20T100270-2.png">Ficha en Wikimedia Commons</a>. <a href="https://creativecommons.org/publicdomain/mark/1.0/">Dominio público, según la ficha de procedencia</a>. Tamaño o formato adaptado. [33]</figcaption>
 </figure>
 
 *Christianity as Old as the Creation*, publicado en 1730, sostuvo que las obligaciones básicas de la religión se podían conocer por la naturaleza. Su subtítulo presentaba el Evangelio como una nueva publicación de esa religión. Si Dios había hecho racionales a los seres humanos y les pedía la observancia de principios morales, el acceso al deber debía existir con independencia de la fecha y el lugar de nacimiento. No podía depender exclusivamente de recibir una misión, una versión de las Escrituras o un conjunto de instrucciones preservadas por una autoridad particular. [2, 5]
@@ -146,7 +146,7 @@ Las ideas de Locke se volvieron un recurso para lectores con fines diversos. Ace
 
 <figure>
   <img src="datos/medios/e19-deismo-voltaire.jpg" alt="Portada de la edición de 1764 del Dictionnaire philosophique portatif" width="654" height="1150" loading="lazy" decoding="async">
-  <figcaption>Portada de una edición del Dictionnaire philosophique portatif conservada en la Biblioteca Nacional de Francia. Autoría: Voltaire. <a href="https://commons.wikimedia.org/wiki/File:Voltaire,%20Dictionnaire%20philosophique%20portatif,%201764,%20title%20page%20(Biblioth%C3%A8que%20nationale%20de%20France%20copy).JPEG">Ficha en Wikimedia Commons</a>. <a href="https://creativecommons.org/publicdomain/mark/1.0/">Dominio público, según la ficha de procedencia</a>. Tamaño o formato adaptado. [35]</figcaption>
+  <figcaption>Portada de una edición del Dictionnaire philosophique portatif conservada en la Biblioteca Nacional de Francia. Autoría: Voltaire (autor del texto). <a href="https://commons.wikimedia.org/wiki/File:Voltaire,%20Dictionnaire%20philosophique%20portatif,%201764,%20title%20page%20(Biblioth%C3%A8que%20nationale%20de%20France%20copy).JPEG">Ficha en Wikimedia Commons</a>. <a href="https://creativecommons.org/publicdomain/mark/1.0/">Dominio público, según la ficha de procedencia</a>. Tamaño o formato adaptado. [35]</figcaption>
 </figure>
 
 En la Francia del siglo XVIII, las ideas inglesas entraron en una discusión donde la censura, la Iglesia católica y el poder de la monarquía tenían configuraciones propias. Voltaire recurrió a ejemplos procedentes de Inglaterra y a formas breves de escritura que podían circular separadas de los sistemas filosóficos extensos. La discusión sobre qué podía conocer la razón se combinó con críticas de la intolerancia, del uso judicial de la confesión y de la seguridad con que ciertas instituciones afirmaban representar una verdad universal. La polémica francesa modificó los usos de los argumentos recibidos. [1, 2, 10, 11]
@@ -414,7 +414,7 @@ En conjunto, los escritos aquí estudiados permiten recorrer tres problemas rela
 25. [Maximilien Robespierre, informe del 18 de floréal, Archives parlementaires](https://www.persee.fr/doc/arcpa_0000-0000_1972_num_90_1_26351_t1_0132_0000_4).
 26. [Auguste Comte, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/comte/).
 27. [Stanford Encyclopedia of Philosophy, Lord Shaftesbury](https://plato.stanford.edu/archives/sum2018/entries/shaftesbury/).
-28. [Jonathan I. Israel, Enlightenment and Modernity: Shaftesbury and Bolingbroke](https://www.cambridge.org/core/books/abs/enlightenment-and-modernity/appendix-shaftesbury-and-bolingbroke/6604224338C1AD0CCC1A23E4F0035905).
+28. [Wayne Hudson, Enlightenment and Modernity: Shaftesbury and Bolingbroke](https://www.cambridge.org/core/books/abs/enlightenment-and-modernity/appendix-shaftesbury-and-bolingbroke/6604224338C1AD0CCC1A23E4F0035905).
 29. [Deutsche Biographie, Hermann Samuel Reimarus](https://www.deutsche-biographie.de/118599259.html?language=de).
 30. [Bibliotheca Augustana, edición de los fragmentos de Hermann Samuel Reimarus](https://www.tha.de/~harsch/germanica/Chronologie/18Jh/Reimarus/rei_fr00.html).
 31. [Procedencia visual de Miniatura de Edward Herbert de Cherbury](https://commons.wikimedia.org/wiki/File:Edward%20Herbert%201st%20Baron%20Herbert%20of%20Cherbury%20by%20Isaac%20Oliver.jpg).

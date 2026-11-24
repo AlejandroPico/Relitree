@@ -5,12 +5,14 @@
   "fin": null,
   "tipo": "fil",
   "importancia": 1,
-  "padres": [
-    {
-      "id": "deismo",
-      "relacion": "derivacion"
-    }
-  ],
+  "padres": [],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Figura materna y criatura de la personificación positivista de la Humanidad en la capilla parisina",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://augustecomte.org/wp-content/uploads/2019/09/bulletin2016.pdf"
+  }
 }

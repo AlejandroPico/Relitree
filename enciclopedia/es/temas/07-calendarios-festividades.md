@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2268
+palabras: 2309
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -96,6 +96,9 @@ fuentes:
   - "https://pure.royalholloway.ac.uk/files/4140107/Champion_DEISM"
   - "https://www.persee.fr/doc/arcpa_0000-0000_1972_num_90_1_26352_t1_0141_0000_11"
   - "https://parismuseescollections.paris.fr/es/node/129565"
+  - "https://plato.stanford.edu/entries/comte/"
+  - "https://www.cambridge.org/core/books/abs/anthem-companion-to-auguste-comte/calendrier-positiviste-ou-tableau-concret-de-la-preparation-humaine-and-culte-abstrait-de-lhumanite-ou-celebration-systematique-de-la-sociabilite-finale/A7AB29502608C806DB1A05B0907A3AB7"
+  - "https://www.socpos.org/?p=339"
 ---
 
 # Calendarios y festividades del mundo
@@ -316,6 +319,12 @@ Las convocatorias del [[neochamanismo|Neochamanismo]] dependen de cada grupo. La
 
 El [[ser-supremo|Culto del Ser Supremo]] celebró su fiesta principal el 20 de prairial del año II, 8 de junio de 1794, con un itinerario en París y realizaciones locales como Lyon. El [[deismo|Deísmo]] de los siglos XVII y XVIII se transmitió por redes y obras con fechas rastreables y careció de un calendario de fiestas compartido por sus autores. [79, 80, 81]
 
+## E19.8 · Religión de la Humanidad
+
+### Trece meses de conmemoraciones positivistas
+
+El calendario de la [[positivismo|Religión de la Humanidad]] organiza trece meses de veintiocho días y añade una conmemoración de los muertos. Contempla un día complementario en los bisiestos. Los nombres de sus meses representan contribuciones o periodos históricos elegidos por Comte. [82, 83, 84]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -411,3 +420,6 @@ El [[ser-supremo|Culto del Ser Supremo]] celebró su fiesta principal el 20 de p
 79. [Justin Champion, Deism, The Columbia History of Western Philosophy](https://pure.royalholloway.ac.uk/files/4140107/Champion_DEISM).
 80. [Jacques-Louis David, proyecto de fiesta presentado a la Convención](https://www.persee.fr/doc/arcpa_0000-0000_1972_num_90_1_26352_t1_0141_0000_11).
 81. [Musée Carnavalet, Fête de l’Etre suprême à Lyon](https://parismuseescollections.paris.fr/es/node/129565).
+82. [Michel Bourdeau, Auguste Comte, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/comte/).
+83. [The Anthem Companion to Auguste Comte, Calendrier positiviste y Culte abstrait de l’Humanité](https://www.cambridge.org/core/books/abs/anthem-companion-to-auguste-comte/calendrier-positiviste-ou-tableau-concret-de-la-preparation-humaine-and-culte-abstrait-de-lhumanite-ou-celebration-systematique-de-la-sociabilite-finale/A7AB29502608C806DB1A05B0907A3AB7).
+84. [Positivist Society, The Positivist Calendar](https://www.socpos.org/?p=339).

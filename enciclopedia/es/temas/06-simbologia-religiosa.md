@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2379
+palabras: 2429
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -95,6 +95,9 @@ fuentes:
   - "https://www.earlymoderntexts.com/assets/pdfs/paley1802_1.pdf"
   - "https://www.persee.fr/doc/arcpa_0000-0000_1972_num_90_1_26352_t1_0141_0000_11"
   - "https://www.loc.gov/item/90712049/"
+  - "https://www.stephenhicks.org/wp-content/uploads/2024/05/ComteAuguste-Catechism-of-Positive-Religion-I-V.pdf"
+  - "https://www.canal-u.tv/chaines/culturegnum/avec-auguste-comte-a-la-chapelle-de-l-humanite"
+  - "https://templodahumanidade.org.br/a-religiao-da-humanidade/a-igreja-positivista-do-brasil/"
 ---
 
 # Simbología religiosa comparada
@@ -315,6 +318,12 @@ La percusión ocupa un lugar destacado en los talleres de chamanismo esencial de
 
 El reloj del [[deismo|Deísmo]] remite a la analogía del diseño popularizada por Paley en la teología natural. La montaña y el árbol del [[ser-supremo|Culto del Ser Supremo]] se basan en la instalación de la fiesta parisina de 1794. Ambos iconos son dibujos editoriales con referentes identificados. [78, 79, 80]
 
+## E19.8 · Religión de la Humanidad
+
+### La Humanidad personificada en una capilla
+
+El programa visual de la rue Payenne en París permite situar el uso de una figura femenina en la [[positivismo|Religión de la Humanidad]]. Su lectura se relaciona con la memoria de Clotilde de Vaux, la representación del Gran Ser y la procedencia de la capilla vinculada a los positivistas brasileños. [81, 82, 83]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -410,3 +419,6 @@ El reloj del [[deismo|Deísmo]] remite a la analogía del diseño popularizada p
 78. [William Paley, Natural Theology, primera parte en Early Modern Texts](https://www.earlymoderntexts.com/assets/pdfs/paley1802_1.pdf).
 79. [Jacques-Louis David, proyecto de fiesta presentado a la Convención](https://www.persee.fr/doc/arcpa_0000-0000_1972_num_90_1_26352_t1_0141_0000_11).
 80. [Library of Congress, Vue de la montagne elevée au champ de la reunion](https://www.loc.gov/item/90712049/).
+81. [Auguste Comte, Catechism of Positive Religion, traducción de Richard Congreve](https://www.stephenhicks.org/wp-content/uploads/2024/05/ComteAuguste-Catechism-of-Positive-Religion-I-V.pdf).
+82. [David Labreure, Avec Auguste Comte, à la chapelle de l’Humanité, Canal-U](https://www.canal-u.tv/chaines/culturegnum/avec-auguste-comte-a-la-chapelle-de-l-humanite).
+83. [Templo da Humanidade, historia de la Igreja Positivista do Brasil](https://templodahumanidade.org.br/a-religiao-da-humanidade/a-igreja-positivista-do-brasil/).

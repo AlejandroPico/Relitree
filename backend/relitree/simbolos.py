@@ -1074,7 +1074,18 @@ def _():
 
 
 
+@motivo("gran_ser_materno", "Figura materna y criatura de la personificación positivista de la Humanidad en la capilla parisina")
+def _():
+    nicho = P("M18 82V41C18 21 32 12 50 12S82 21 82 41V82")
+    cabezas = '<circle cx="44" cy="31" r="7"/><circle cx="61" cy="46" r="5"/>'
+    figuras = P("M48 40C35 40 31 53 32 63L26 80H66L58 68M36 54C45 60 53 62 60 58L67 54M59 51L66 56L62 65L52 68")
+    return nicho + cabezas + figuras
+
+
+
+
 ASIGNACION = {
+    'positivismo': 'gran_ser_materno',
     'deismo': 'reloj',
     'ser-supremo': 'montana_prairial',
     'neochamanismo': 'tambor_con_pulsos',

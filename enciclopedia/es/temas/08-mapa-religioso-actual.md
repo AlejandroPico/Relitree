@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2402
+palabras: 2451
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -109,6 +109,10 @@ fuentes:
   - "https://www.loc.gov/exhibits/religion/rel02.html"
   - "https://parismuseescollections.paris.fr/es/node/351526"
   - "https://parismuseescollections.paris.fr/es/node/129565"
+  - "https://www.canal-u.tv/chaines/culturegnum/avec-auguste-comte-a-la-chapelle-de-l-humanite"
+  - "https://heritage.humanists.uk/church-of-humanity/"
+  - "https://atom-museurepublica.museus.gov.br/downloads/movimento-positivista.pdf"
+  - "https://dialnet.unirioja.es/descarga/articulo/10187195.pdf"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -339,6 +343,12 @@ Investigaciones sobre el [[neochamanismo|Neochamanismo]] describen circuitos de 
 
 Los textos del [[deismo|Deísmo]] circularon por Inglaterra, Europa continental y ámbitos atlánticos. Para el [[ser-supremo|Culto del Ser Supremo]] las fuentes permiten localizar celebraciones históricas, incluidas París y Lyon. Las adscripciones personales y los recuentos de asistentes requieren documentación propia. [87, 88, 89, 90]
 
+## E19.8 · Religión de la Humanidad
+
+### Lugares documentados del culto positivista
+
+La [[positivismo|Religión de la Humanidad]] tuvo lugares de reunión documentados en París y Londres, y templos en ciudades brasileñas como Río de Janeiro y Porto Alegre. Las fechas de las fundaciones y el registro de los edificios identifican implantaciones históricas, con alcance distinto del de un censo de afiliación. [91, 92, 93, 94]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -447,3 +457,7 @@ Los textos del [[deismo|Deísmo]] circularon por Inglaterra, Europa continental 
 88. [Library of Congress, Religion in Eighteenth-Century America](https://www.loc.gov/exhibits/religion/rel02.html).
 89. [Musée Carnavalet, recorrido y plano del cortejo, documento publicado en 1896](https://parismuseescollections.paris.fr/es/node/351526).
 90. [Musée Carnavalet, Fête de l’Etre suprême à Lyon](https://parismuseescollections.paris.fr/es/node/129565).
+91. [David Labreure, Avec Auguste Comte, à la chapelle de l’Humanité, Canal-U](https://www.canal-u.tv/chaines/culturegnum/avec-auguste-comte-a-la-chapelle-de-l-humanite).
+92. [Humanist Heritage, Church of Humanity](https://heritage.humanists.uk/church-of-humanity/).
+93. [Museu da República, fondo histórico Movimento Positivista](https://atom-museurepublica.museus.gov.br/downloads/movimento-positivista.pdf).
+94. [Paulo Ricardo Pezat, A capela positivista de Porto Alegre](https://dialnet.unirioja.es/descarga/articulo/10187195.pdf).

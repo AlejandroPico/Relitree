@@ -4,6 +4,9 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E19 · 19.8. [Religión de la Humanidad](enciclopedia/es/religiones/positivismo.md). 10.125 palabras de cuerpo y 11 figuras. Versión 1.7.71.
+  - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.
+
 - [x] E19 · 19.7. [Deísmo](enciclopedia/es/religiones/deismo.md). 10.064 palabras de cuerpo y 10 figuras. Versión 1.7.70.
 - [x] E19 · 19.7. [Culto del Ser Supremo](enciclopedia/es/religiones/ser-supremo.md). 10.046 palabras de cuerpo y 11 figuras. Versión 1.7.70.
   - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.
