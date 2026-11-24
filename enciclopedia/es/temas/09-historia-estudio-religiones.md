@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2577
+palabras: 2617
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -135,6 +135,11 @@ fuentes:
   - "https://revistas.usp.br/gis/pt_BR/article/view/182838"
   - "https://www.salvationarmy.org.uk/about-us/international-heritage-centre/international-heritage-centre-blog/booth-family-papers"
   - "https://www.gutenberg.org/ebooks/475"
+  - "https://dacb.org/stories/liberia/legacy-harris/"
+  - "https://revues.acaref.net/wp-content/uploads/sites/3/2025/01/12-NDOUFOU-Yapi-Thierry.pdf"
+  - "https://uncpress.org/9780807898055/the-religious-revolution-in-the-ivory-coast/"
+  - "https://www.library.manchester.ac.uk/rylands/special-collections/subject-areas/christian-brethren-collections/"
+  - "https://www.brethrenarchive.org/archive/early-years/bethesda/"
 ---
 
 # Historia del estudio de las religiones
@@ -395,6 +400,12 @@ La investigación de Patricia Fortuny aporta historia y observación del culto d
 
 Oro y Ciochetti permiten seguir, respectivamente, la expansión transnacional y la presencia mediática de la [[iurd|Iglesia Universal del Reino de Dios]]. Para el [[ejercito-salvacion|Ejército de Salvación]], el archivo de los Booth y el programa social de 1890 ofrecen fuentes de distinto género. [110, 111, 112, 113]
 
+## E20.6 · Iglesia harrista, Hermanos de Plymouth
+
+### Archivos misioneros, correspondencia y estudios de campo
+
+La [[harrismo|Iglesia harrista]] se estudia con fuentes de la marcha de Harris, relatos de sucesión y estudios de campo. Para los [[hermanos-plymouth|Hermanos de Plymouth]], el fondo de Manchester y las cartas de Bethesda permiten seguir la vida de sus redes. [114, 115, 116, 117, 118]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -529,3 +540,8 @@ Oro y Ciochetti permiten seguir, respectivamente, la expansión transnacional y 
 111. [Vitor Miranda Ciochetti, A Igreja Universal e suas mídias, Universidade de São Paulo](https://revistas.usp.br/gis/pt_BR/article/view/182838).
 112. [Salvation Army International Heritage Centre, Booth family papers](https://www.salvationarmy.org.uk/about-us/international-heritage-centre/international-heritage-centre-blog/booth-family-papers).
 113. [William Booth, In Darkest England, and the Way Out, 1890, Project Gutenberg](https://www.gutenberg.org/ebooks/475).
+114. [David A. Shank, estudio sobre el ministerio y legado de William Wadé Harris](https://dacb.org/stories/liberia/legacy-harris/).
+115. [Thierry Yapi Ndoufou, John Ahui y la organización del harrismo](https://revues.acaref.net/wp-content/uploads/sites/3/2025/01/12-NDOUFOU-Yapi-Thierry.pdf).
+116. [Sheila S. Walker, The Religious Revolution in the Ivory Coast, University of North Carolina Press](https://uncpress.org/9780807898055/the-religious-revolution-in-the-ivory-coast/).
+117. [Universidad de Manchester, Christian Brethren Collections](https://www.library.manchester.ac.uk/rylands/special-collections/subject-areas/christian-brethren-collections/).
+118. [Brethren Archive, documentos sobre la separación de Bethesda](https://www.brethrenarchive.org/archive/early-years/bethesda/).

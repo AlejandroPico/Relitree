@@ -1153,7 +1153,23 @@ def _():
     notas = P("M65 34V20L73 23M59 34Q62 30 65 34Q63 38 59 34ZM83 29V17L90 19M78 29Q80 25 83 29Q80 33 78 29Z")
     return corneta + notas
 
+@motivo("baston_cruz_bautismo", "Bastón con cruz y recipiente bautismal de la tradición de William Wadé Harris")
+def _():
+    baston = P("M38 17V77M24 31H52M32 17H44M32 77H44M34 33V61")
+    vasija = P("M42 67Q64 60 87 67Q84 82 74 84H55Q45 80 42 67ZM42 67Q64 74 87 67M53 85H78")
+    return baston + vasija
+
+
+@motivo("mesa_partimiento", "Mesa con pan y copa en la tradición de los Hermanos de Plymouth")
+def _():
+    mesa = P("M16 60H84V66H16ZM23 66V82M77 66V82M29 66V76M71 66V76")
+    copa = P("M60 26H76V35Q75 44 68 46Q61 44 60 35ZM68 46V54M62 55H74")
+    pan = P("M25 54Q25 44 42 44Q52 45 54 54ZM34 47L38 50M42 46L46 50")
+    return mesa + copa + pan
+
 ASIGNACION = {
+    'harrismo': 'baston_cruz_bautismo',
+    'hermanos-plymouth': 'mesa_partimiento',
     'iurd': 'fachada_templo_bras',
     'ejercito-salvacion': 'corneta_salvacionista',
     'luz-mundo': 'templo_perfil_provincia',

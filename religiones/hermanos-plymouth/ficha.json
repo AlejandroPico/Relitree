@@ -7,10 +7,19 @@
   "importancia": 1,
   "padres": [
     {
-      "id": "anglicanismo",
-      "relacion": "cisma"
+      "id": "cristianismo",
+      "relacion": "derivacion"
     }
   ],
-  "influencias": [],
-  "icono": null
+  "influencias": [
+    "anglicanismo"
+  ],
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Mesa con pan y copa en la tradición de los Hermanos de Plymouth",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://prendespando22.org/quienes-somos/historia/"
+  }
 }

@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.76**
+**Versión 1.7.77**
+
+[Entrega 20.6 de la fase E20](enciclopedia/PLAN.md#fase-e20--cristianismo--tradiciones-79). Iglesia harrista, Hermanos de Plymouth. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
 [Entrega 20.5 de la fase E20](enciclopedia/PLAN.md#fase-e20--cristianismo--tradiciones-79). Iglesia Universal del Reino de Dios, Ejército de Salvación. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 

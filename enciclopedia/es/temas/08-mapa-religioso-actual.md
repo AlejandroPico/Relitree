@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2628
+palabras: 2663
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -127,6 +127,10 @@ fuentes:
   - "https://periodicos.fgv.br/ric/article/download/88023/83133"
   - "https://www.salvationarmy.org/sites/default/files/2025-12/Annual_Report-2025.pdf"
   - "https://www.salvationarmy.org/global-presence"
+  - "https://www.oikoumene.org/member-churches/church-of-christ-harris-mission-harrist-church"
+  - "https://www.library.manchester.ac.uk/rylands/special-collections/subject-areas/christian-brethren-collections/"
+  - "https://www.observatorioreligion.es/upload/61/02/Pdf_interactivo_Cataluna.pdf"
+  - "https://asambleasdehermanos.org.ar/adh26/identidad-historica/"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -393,6 +397,12 @@ El censo mexicano de 2020 mide la afiliación declarada a [[luz-mundo|La Luz del
 
 Los datos de afiliación brasileña de la [[iurd|Iglesia Universal del Reino de Dios]] se leen con la fecha del censo. Las estadísticas del [[ejercito-salvacion|Ejército de Salvación]] distinguen soldados, adherentes y otros datos de presencia y actividad. [71, 106, 107, 108]
 
+## E20.6 · Iglesia harrista, Hermanos de Plymouth
+
+### El litoral marfileño y las redes de asambleas
+
+La [[harrismo|Iglesia harrista]] se organiza desde Costa de Marfil y tiene presencia en otros países. Los [[hermanos-plymouth|Hermanos de Plymouth]] abarcan asambleas y organizaciones con formas de registro distintas que deben identificarse por lugar y rama. [109, 110, 111, 112]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -519,3 +529,7 @@ Los datos de afiliación brasileña de la [[iurd|Iglesia Universal del Reino de 
 106. [Fundação Getulio Vargas, nacionalismo religioso, tabla de afiliaciones brasileñas](https://periodicos.fgv.br/ric/article/download/88023/83133).
 107. [Salvation Army International Headquarters, datos mundiales publicados en el informe de 2025](https://www.salvationarmy.org/sites/default/files/2025-12/Annual_Report-2025.pdf).
 108. [Salvation Army International Headquarters, presencia mundial](https://www.salvationarmy.org/global-presence).
+109. [Consejo Mundial de Iglesias, Église du Christ – Mission Harris](https://www.oikoumene.org/member-churches/church-of-christ-harris-mission-harrist-church).
+110. [Universidad de Manchester, Christian Brethren Collections](https://www.library.manchester.ac.uk/rylands/special-collections/subject-areas/christian-brethren-collections/).
+111. [Observatorio del Pluralismo Religioso en España, estudio sobre Cataluña](https://www.observatorioreligion.es/upload/61/02/Pdf_interactivo_Cataluna.pdf).
+112. [Asambleas de Hermanos en Argentina, historia institucional](https://asambleasdehermanos.org.ar/adh26/identidad-historica/).

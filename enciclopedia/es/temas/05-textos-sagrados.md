@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2856
+palabras: 2890
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -122,6 +122,10 @@ fuentes:
   - "https://www.universal.org/a-universal/home-a-universal/"
   - "https://www.universal.org/noticias/post/santa-ceia-da-entrega/"
   - "https://www.salvationarmy.org/sites/default/files/2025-06/Handbook%2Bof%2BDoctrine.pdf"
+  - "https://www.oikoumene.org/member-churches/church-of-christ-harris-mission-harrist-church"
+  - "https://www.religion.info/pdf/2013_10_Dea.pdf"
+  - "https://luna.dbs.org/bibles/ENGDBY/html_chapterized/about.html"
+  - "https://www.bibledarby.com/anciennes-editions"
 ---
 
 # Textos sagrados del mundo comparados
@@ -392,6 +396,12 @@ En [[luz-mundo|La Luz del Mundo]], la Biblia fundamenta la enseñanza de la rest
 
 La [[iurd|Iglesia Universal del Reino de Dios]] emplea la Escritura como referencia doctrinal y recurre a narraciones del templo y el altar en sus campañas. El [[ejercito-salvacion|Ejército de Salvación]] explica la autoridad bíblica en el primero de sus once artículos de fe. [103, 104, 105]
 
+## E20.6 · Iglesia harrista, Hermanos de Plymouth
+
+### Biblia, catecismo y traducciones
+
+La [[harrismo|Iglesia harrista]] reconoce la Biblia como autoridad doctrinal y difundió un catecismo desde 1956. Entre los [[hermanos-plymouth|Hermanos de Plymouth]], John Nelson Darby y sus colaboradores prepararon traducciones bíblicas que circularon en varios idiomas. [106, 107, 108, 109]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -513,3 +523,7 @@ La [[iurd|Iglesia Universal del Reino de Dios]] emplea la Escritura como referen
 103. [Igreja Universal, principios y enseñanzas](https://www.universal.org/a-universal/home-a-universal/).
 104. [Igreja Universal, programa de la Santa Cena y la Fogueira Santa](https://www.universal.org/noticias/post/santa-ceia-da-entrega/).
 105. [Salvation Army International Headquarters, Handbook of Doctrine](https://www.salvationarmy.org/sites/default/files/2025-06/Handbook%2Bof%2BDoctrine.pdf).
+106. [Consejo Mundial de Iglesias, Église du Christ – Mission Harris](https://www.oikoumene.org/member-churches/church-of-christ-harris-mission-harrist-church).
+107. [Lékpéa Alexis Déa, Le christianisme occidental à l’épreuve des messianismes indigènes en Côte d’Ivoire coloniale](https://www.religion.info/pdf/2013_10_Dea.pdf).
+108. [Digital Bible Society, historia de la traducción inglesa de Darby](https://luna.dbs.org/bibles/ENGDBY/html_chapterized/about.html).
+109. [Bible Darby, ediciones históricas de la traducción francesa](https://www.bibledarby.com/anciennes-editions).

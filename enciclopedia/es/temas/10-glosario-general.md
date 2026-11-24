@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2733
+palabras: 2776
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -121,6 +121,10 @@ fuentes:
   - "https://www.universal.org/noticias/post/santa-ceia-da-entrega/"
   - "https://www.salvationarmy.org/sites/default/files/2025-06/Handbook%2Bof%2BDoctrine.pdf"
   - "https://www.salvationarmy.org/sites/default/files/2025-09/Called%2Bto%2Bbe%2Ba%2BSoldier.pdf"
+  - "https://www.oikoumene.org/member-churches/church-of-christ-harris-mission-harrist-church"
+  - "https://www.brethrenarchive.org/media/367341/dscdspch7weremchuk-darby.pdf"
+  - "https://prendespando22.org/quienes-somos/historia/"
+  - "https://www.cambridge.org/core/journals/church-history/article/abs/toward-a-historical-interpretation-of-the-origins-of-fundamentalism/0C1339B81F10B72F5DEC2AEC0A04189C"
 ---
 
 # Glosario general
@@ -483,6 +487,12 @@ En [[luz-mundo|La Luz del Mundo]], restauración designa el restablecimiento de 
 
 Fogueira Santa denomina campañas de la [[iurd|Iglesia Universal del Reino de Dios]]. En el [[ejercito-salvacion|Ejército de Salvación]], cuerpo es una congregación local y soldado es quien asume el compromiso formal de pertenencia. [95, 96, 97]
 
+## E20.6 · Iglesia harrista, Hermanos de Plymouth
+
+### Apóstol, partimiento del pan y dispensación
+
+En la [[harrismo|Iglesia harrista]], el colegio de apóstoles se ocupa de asuntos materiales y administrativos. En los [[hermanos-plymouth|Hermanos de Plymouth]], el partimiento del pan es una forma de llamar a la Cena. Dispensación identifica una etapa en determinadas lecturas de la historia bíblica. [98, 99, 100, 101]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -603,3 +613,7 @@ Fogueira Santa denomina campañas de la [[iurd|Iglesia Universal del Reino de Di
 95. [Igreja Universal, programa de la Santa Cena y la Fogueira Santa](https://www.universal.org/noticias/post/santa-ceia-da-entrega/).
 96. [Salvation Army International Headquarters, Handbook of Doctrine](https://www.salvationarmy.org/sites/default/files/2025-06/Handbook%2Bof%2BDoctrine.pdf).
 97. [Salvation Army, Called to Be a Soldier](https://www.salvationarmy.org/sites/default/files/2025-09/Called%2Bto%2Bbe%2Ba%2BSoldier.pdf).
+98. [Consejo Mundial de Iglesias, Église du Christ – Mission Harris](https://www.oikoumene.org/member-churches/church-of-christ-harris-mission-harrist-church).
+99. [Brethren Archive, estudios sobre John Nelson Darby y el dispensacionalismo](https://www.brethrenarchive.org/media/367341/dscdspch7weremchuk-darby.pdf).
+100. [Iglesia Evangélica de Hermanos de Gijón, historia de las Asambleas de Hermanos](https://prendespando22.org/quienes-somos/historia/).
+101. [Ernest R. Sandeen, Toward a Historical Interpretation of the Origins of Fundamentalism](https://www.cambridge.org/core/journals/church-history/article/abs/toward-a-historical-interpretation-of-the-origins-of-fundamentalism/0C1339B81F10B72F5DEC2AEC0A04189C).

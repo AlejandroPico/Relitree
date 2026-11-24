@@ -7,12 +7,21 @@
   "importancia": 1,
   "padres": [
     {
-      "id": "metodismo",
+      "id": "cristianismo",
       "relacion": "derivacion"
     }
   ],
   "influencias": [
+    "metodismo",
+    "anglicanismo",
     "afr-oeste"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Bastón con cruz y recipiente bautismal de la tradición de William Wadé Harris",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://dacb.org/stories/liberia/harris4-william/"
+  }
 }

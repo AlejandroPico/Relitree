@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2615
+palabras: 2648
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -109,6 +109,9 @@ fuentes:
   - "https://www.saet.ac.uk/Christianity/CharismaticGifts"
   - "https://www.universal.org/noticias/post/9-anos-do-templo-de-salomao/"
   - "https://www.salvationarmy.org.uk/sites/default/files/resources/2020-02/Signs%20And%20Symbols%20Cards%20A4.pdf"
+  - "https://dacb.org/stories/liberia/harris4-william/"
+  - "https://revues.acaref.net/wp-content/uploads/sites/3/2025/01/12-NDOUFOU-Yapi-Thierry.pdf"
+  - "https://prendespando22.org/quienes-somos/historia/"
 ---
 
 # Simbología religiosa comparada
@@ -365,6 +368,12 @@ Relitree identifica [[luz-mundo|La Luz del Mundo]] con la silueta del recinto de
 
 El Templo de Salomón de Brás da el motivo gráfico a la [[iurd|Iglesia Universal del Reino de Dios]]. En el [[ejercito-salvacion|Ejército de Salvación]], la bandera y el escudo tienen significados documentados. La ficha utiliza una corneta como motivo editorial de sus bandas. [93, 94]
 
+## E20.6 · Iglesia harrista, Hermanos de Plymouth
+
+### Bastón del profeta y mesa de comunión
+
+La [[harrismo|Iglesia harrista]] conserva la memoria del bastón con cruz y del recipiente bautismal de Harris. El motivo editorial de los [[hermanos-plymouth|Hermanos de Plymouth]] representa la mesa utilizada en el partimiento del pan. [95, 96, 97]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -474,3 +483,6 @@ El Templo de Salomón de Brás da el motivo gráfico a la [[iurd|Iglesia Univers
 92. [St Andrews Encyclopaedia of Theology, Charismatic Gifts](https://www.saet.ac.uk/Christianity/CharismaticGifts).
 93. [Igreja Universal, aniversario del Templo de Salomón](https://www.universal.org/noticias/post/9-anos-do-templo-de-salomao/).
 94. [Salvation Army International Heritage Centre, símbolos del Ejército de Salvación](https://www.salvationarmy.org.uk/sites/default/files/resources/2020-02/Signs%20And%20Symbols%20Cards%20A4.pdf).
+95. [David A. Shank, William Wadé Harris, Dictionary of African Christian Biography](https://dacb.org/stories/liberia/harris4-william/).
+96. [Thierry Yapi Ndoufou, John Ahui y la organización del harrismo](https://revues.acaref.net/wp-content/uploads/sites/3/2025/01/12-NDOUFOU-Yapi-Thierry.pdf).
+97. [Iglesia Evangélica de Hermanos de Gijón, historia de las Asambleas de Hermanos](https://prendespando22.org/quienes-somos/historia/).

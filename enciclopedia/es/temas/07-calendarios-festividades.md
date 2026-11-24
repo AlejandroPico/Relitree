@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2481
+palabras: 2512
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -113,6 +113,10 @@ fuentes:
   - "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2019/06/04/190604c.html"
   - "https://www.universal.org/noticias/post/santa-ceia-da-entrega/"
   - "https://www.salvationarmyusa.org/about-us/the-red-kettle/"
+  - "https://www.oikoumene.org/member-churches/church-of-christ-harris-mission-harrist-church"
+  - "https://www.aip.ci/electionpresidentielle2025/article.php?id=395737"
+  - "https://prendespando22.org/quienes-somos/historia/"
+  - "https://www.plymouthbrethrenchristianchurch.org/way-of-life/our-beliefs/"
 ---
 
 # Calendarios y festividades del mundo
@@ -369,6 +373,12 @@ Las convenciones de Sunderland emplearon Pentecostés como referencia anual del 
 
 Las convocatorias de Santa Cena y Fogueira Santa de la [[iurd|Iglesia Universal del Reino de Dios]] publican fechas para campañas concretas. En el [[ejercito-salvacion|Ejército de Salvación]], la olla roja surgió en San Francisco como colecta de Navidad. [97, 98]
 
+## E20.6 · Iglesia harrista, Hermanos de Plymouth
+
+### Semana del Medio Ambiente y partimiento semanal
+
+En julio la [[harrismo|Iglesia harrista]] celebra la Semana Espiritual del Medio Ambiente, vinculada al relato del diluvio. Muchas asambleas de los [[hermanos-plymouth|Hermanos de Plymouth]] celebran el partimiento del pan los domingos. [99, 100, 101, 102]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -481,3 +491,7 @@ Las convocatorias de Santa Cena y Fogueira Santa de la [[iurd|Iglesia Universal 
 96. [Santa Sede, constitución de CHARIS, 2019](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2019/06/04/190604c.html).
 97. [Igreja Universal, programa de la Santa Cena y la Fogueira Santa](https://www.universal.org/noticias/post/santa-ceia-da-entrega/).
 98. [Salvation Army USA, origen y trayectoria de Red Kettle](https://www.salvationarmyusa.org/about-us/the-red-kettle/).
+99. [Consejo Mundial de Iglesias, Église du Christ – Mission Harris](https://www.oikoumene.org/member-churches/church-of-christ-harris-mission-harrist-church).
+100. [Agence Ivoirienne de Presse, Semana Espiritual Harrista del Medio Ambiente en 2026](https://www.aip.ci/electionpresidentielle2025/article.php?id=395737).
+101. [Iglesia Evangélica de Hermanos de Gijón, historia de las Asambleas de Hermanos](https://prendespando22.org/quienes-somos/historia/).
+102. [Plymouth Brethren Christian Church, vida religiosa y Santa Cena](https://www.plymouthbrethrenchristianchurch.org/way-of-life/our-beliefs/).
