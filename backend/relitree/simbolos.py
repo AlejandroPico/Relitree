@@ -1065,7 +1065,18 @@ def _():
 
 
 
+@motivo("montana_prairial", "Montaña y árbol de la libertad de la fiesta parisina del 20 de prairial")
+def _():
+    monte = P("M12 83L31 61L42 63L52 49L63 65L72 64L88 83H12Z")
+    arbol = P("M52 49V29M52 37L43 31M52 36L61 29M44 32C35 30 40 21 46 22C44 12 59 11 60 21C70 21 68 32 61 32")
+    return monte + arbol
+
+
+
+
 ASIGNACION = {
+    'deismo': 'reloj',
+    'ser-supremo': 'montana_prairial',
     'neochamanismo': 'tambor_con_pulsos',
     'raelismo': 'espiral_raeliana',
     'yo-soy': 'llama_violeta_yo_soy',
@@ -1087,7 +1098,7 @@ ASIGNACION = {
     "cibeles": "corona_mural", "hanif": "cubo", "samaritanismo": "monte", "yazidismo": "pavo_real", "yarsanismo": "tambur",
     "sabeos-harran": "creciente_estandarte",
     # Europa
-    "pie": "rueda_solar", "baltica": "auseklis", "deismo": "reloj", "ser-supremo": "ojo_triangulo", "dionisismo": "tirso",
+    "pie": "rueda_solar", "baltica": "auseklis", "dionisismo": "tirso",
     "eleusis": "espiga", "epicureismo": "atomos", "estoicismo": "columnas", "platonismo": "solidos", "neoplatonismo": "emanacion",
     "etrusca": "lituus", "finesa": "hacha", "griega": "templo_griego", "micenica": "puerta_leones", "haskala": "libro_luz",
     "ibera": "exvoto", "martinismo": "hexagrama_circulo", "mitraismo": "gorro_estrellas", "sami": "tambor_sami",

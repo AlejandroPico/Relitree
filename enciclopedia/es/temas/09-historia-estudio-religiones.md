@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2310
+palabras: 2358
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -110,6 +110,9 @@ fuentes:
   - "https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036"
   - "https://ci.nii.ac.jp/ncid/BA49771836"
   - "https://www.bloomsbury.com/us/shamans-9781847250278/"
+  - "https://pure.royalholloway.ac.uk/files/4140107/Champion_DEISM"
+  - "https://www.huntington.org/collections/lib-440624"
+  - "https://books.google.com/books/about/Festivals_and_the_French_Revolution.html?id=iq6yuKS6EWEC"
 ---
 
 # Historia del estudio de las religiones
@@ -328,6 +331,12 @@ Susan J. Palmer estudió la organización y las prácticas del [[raelismo|Movimi
 
 Ronald Hutton examinó la formación histórica de la categoría chamanismo. Galina Lindquist y Robert Wallis documentaron formas de práctica del [[neochamanismo|Neochamanismo]] en ámbitos contemporáneos, con atención a los contextos de transmisión y a monumentos prehistóricos. [86, 87, 88]
 
+## E19.7 · Deísmo, Culto del Ser Supremo
+
+### De la polémica impresa a la historia de las fiestas
+
+Las réplicas de Leland permiten seguir la clasificación polémica de los autores del [[deismo|Deísmo]], contrastable con la historiografía de Champion. Ozouf sitúa el [[ser-supremo|Culto del Ser Supremo]] en la cultura festiva revolucionaria y permite examinar el espacio, el orden de la marcha y la cronología de la celebración. [89, 90, 91]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -437,3 +446,6 @@ Ronald Hutton examinó la formación histórica de la categoría chamanismo. Gal
 86. [Robert J. Wallis, Shamans/Neo-Shamans. Routledge](https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036).
 87. [Galina Lindquist, Shamanic Performances on the Urban Scene: Neo-Shamanism in Contemporary Sweden, registro de la obra](https://ci.nii.ac.jp/ncid/BA49771836).
 88. [Ronald Hutton, Shamans: Siberian Spirituality and the Western Imagination, Bloomsbury](https://www.bloomsbury.com/us/shamans-9781847250278/).
+89. [Justin Champion, Deism, The Columbia History of Western Philosophy](https://pure.royalholloway.ac.uk/files/4140107/Champion_DEISM).
+90. [John Leland, A View of the Principal Deistical Writers, ejemplar de 1754, The Huntington](https://www.huntington.org/collections/lib-440624).
+91. [Mona Ozouf, Festivals and the French Revolution, referencia bibliográfica](https://books.google.com/books/about/Festivals_and_the_French_Revolution.html?id=iq6yuKS6EWEC).

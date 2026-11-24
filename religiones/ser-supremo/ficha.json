@@ -5,18 +5,16 @@
   "fin": 1794,
   "tipo": "fil",
   "importancia": 1,
-  "padres": [
-    {
-      "id": "deismo",
-      "relacion": "derivacion"
-    }
+  "padres": [],
+  "influencias": [
+    "deismo"
   ],
-  "influencias": [],
   "icono": {
     "archivo": "icono.svg",
     "fuente": "propio",
-    "motivo": "ojo radiante en el triángulo",
+    "motivo": "Montaña y árbol de la libertad de la fiesta parisina del 20 de prairial",
     "licencia": "Dibujo original de Relitree",
-    "autor": "Relitree"
+    "autor": "Relitree",
+    "motivo_fuente": "https://www.loc.gov/item/90712049/"
   }
 }

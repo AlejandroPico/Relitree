@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2363
+palabras: 2402
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -105,6 +105,10 @@ fuentes:
   - "https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036"
   - "https://ci.nii.ac.jp/ncid/BA49771836"
   - "https://www.shamanism.dk/about-scss"
+  - "https://pure.royalholloway.ac.uk/files/4140107/Champion_DEISM"
+  - "https://www.loc.gov/exhibits/religion/rel02.html"
+  - "https://parismuseescollections.paris.fr/es/node/351526"
+  - "https://parismuseescollections.paris.fr/es/node/129565"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -329,6 +333,12 @@ Los estudios sobre el [[raelismo|Movimiento raeliano]] reconstruyen la actividad
 
 Investigaciones sobre el [[neochamanismo|Neochamanismo]] describen circuitos de talleres en Estados Unidos, Suecia y Gran Bretaña. El mapa registra actividad documentada en lugares y periodos determinados sin convertir participaciones en un recuento unitario de fieles. [84, 85, 86]
 
+## E19.7 · Deísmo, Culto del Ser Supremo
+
+### Circulación impresa y celebración localizada
+
+Los textos del [[deismo|Deísmo]] circularon por Inglaterra, Europa continental y ámbitos atlánticos. Para el [[ser-supremo|Culto del Ser Supremo]] las fuentes permiten localizar celebraciones históricas, incluidas París y Lyon. Las adscripciones personales y los recuentos de asistentes requieren documentación propia. [87, 88, 89, 90]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -433,3 +443,7 @@ Investigaciones sobre el [[neochamanismo|Neochamanismo]] describen circuitos de 
 84. [Robert J. Wallis, Shamans/Neo-Shamans. Routledge](https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036).
 85. [Galina Lindquist, Shamanic Performances on the Urban Scene: Neo-Shamanism in Contemporary Sweden, registro de la obra](https://ci.nii.ac.jp/ncid/BA49771836).
 86. [Scandinavian Center for Shamanic Studies, historia institucional](https://www.shamanism.dk/about-scss).
+87. [Justin Champion, Deism, The Columbia History of Western Philosophy](https://pure.royalholloway.ac.uk/files/4140107/Champion_DEISM).
+88. [Library of Congress, Religion in Eighteenth-Century America](https://www.loc.gov/exhibits/religion/rel02.html).
+89. [Musée Carnavalet, recorrido y plano del cortejo, documento publicado en 1896](https://parismuseescollections.paris.fr/es/node/351526).
+90. [Musée Carnavalet, Fête de l’Etre suprême à Lyon](https://parismuseescollections.paris.fr/es/node/129565).

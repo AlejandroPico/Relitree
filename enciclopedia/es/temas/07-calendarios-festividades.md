@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2209
+palabras: 2268
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -93,6 +93,9 @@ fuentes:
   - "https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036"
   - "https://archaeologydataservice.ac.uk/library/browse/details.xhtml?recordId=3100394&recordType=Journal"
   - "https://www.english-heritage.org.uk/visit/places/stonehenge/things-to-do/solstice/Summer-Solstice-2026/"
+  - "https://pure.royalholloway.ac.uk/files/4140107/Champion_DEISM"
+  - "https://www.persee.fr/doc/arcpa_0000-0000_1972_num_90_1_26352_t1_0141_0000_11"
+  - "https://parismuseescollections.paris.fr/es/node/129565"
 ---
 
 # Calendarios y festividades del mundo
@@ -307,6 +310,12 @@ El [[raelismo|Movimiento raeliano]] autoriza la transmisión del plan celular el
 
 Las convocatorias del [[neochamanismo|Neochamanismo]] dependen de cada grupo. Las celebraciones contemporáneas en Stonehenge permiten estudiar fechas y condiciones de acceso en un lugar concreto, junto a prácticas neopaganas de distintos grupos. [76, 77, 78]
 
+## E19.7 · Deísmo, Culto del Ser Supremo
+
+### El 20 de prairial del año II
+
+El [[ser-supremo|Culto del Ser Supremo]] celebró su fiesta principal el 20 de prairial del año II, 8 de junio de 1794, con un itinerario en París y realizaciones locales como Lyon. El [[deismo|Deísmo]] de los siglos XVII y XVIII se transmitió por redes y obras con fechas rastreables y careció de un calendario de fiestas compartido por sus autores. [79, 80, 81]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -399,3 +408,6 @@ Las convocatorias del [[neochamanismo|Neochamanismo]] dependen de cada grupo. La
 76. [Robert J. Wallis, Shamans/Neo-Shamans. Routledge](https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036).
 77. [Jenny Blain y Robert J. Wallis, Sacred sites, contested rites/rights, Archaeology Data Service](https://archaeologydataservice.ac.uk/library/browse/details.xhtml?recordId=3100394&recordType=Journal).
 78. [English Heritage, información de acceso para el solsticio de verano en Stonehenge, 2026](https://www.english-heritage.org.uk/visit/places/stonehenge/things-to-do/solstice/Summer-Solstice-2026/).
+79. [Justin Champion, Deism, The Columbia History of Western Philosophy](https://pure.royalholloway.ac.uk/files/4140107/Champion_DEISM).
+80. [Jacques-Louis David, proyecto de fiesta presentado a la Convención](https://www.persee.fr/doc/arcpa_0000-0000_1972_num_90_1_26352_t1_0141_0000_11).
+81. [Musée Carnavalet, Fête de l’Etre suprême à Lyon](https://parismuseescollections.paris.fr/es/node/129565).

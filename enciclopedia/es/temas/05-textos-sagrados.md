@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2575
+palabras: 2634
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -99,6 +99,9 @@ fuentes:
   - "https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036"
   - "https://www.shamanism.org/core-shamanism/"
   - "https://www.shamanism.org/shop-online/book-way-of-the-shaman/"
+  - "https://wellcomecollection.org/works/zg6fks8m"
+  - "https://archives-parlementaires.persee.fr/prt/ac04b560-29b8-4ac7-857c-1d255b96b4f8"
+  - "https://www.persee.fr/doc/arcpa_0000-0000_1972_num_90_1_26351_t1_0132_0000_4"
 ---
 
 # Textos sagrados del mundo comparados
@@ -327,6 +330,12 @@ En el [[raelismo|Movimiento raeliano]], las obras francesas publicadas desde 197
 
 En el [[neochamanismo|Neochamanismo]], The Way of the Shaman (1980) funciona como manual de una corriente, el chamanismo esencial de Michael Harner. Su relación con materiales etnográficos y prácticas orales se estudia con fuentes separadas. Otras redes contemporáneas tienen maestros, lecturas y archivos propios. [80, 81, 82]
 
+## E19.7 · Deísmo, Culto del Ser Supremo
+
+### Tratados de religión natural y documentos de un culto civil
+
+El [[deismo|Deísmo]] histórico dejó tratados, diálogos y réplicas. En Tindal, la autoridad religiosa de los deberes comunes se discute mediante un argumento acerca de la naturaleza y del Evangelio. En el [[ser-supremo|Culto del Ser Supremo]], el informe y el decreto del 18 de floréal documentan la argumentación de un promotor y una decisión de la Convención con alcances distintos. [83, 84, 85]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -425,3 +434,6 @@ En el [[neochamanismo|Neochamanismo]], The Way of the Shaman (1980) funciona com
 80. [Robert J. Wallis, Shamans/Neo-Shamans. Routledge](https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036).
 81. [Foundation for Shamanic Studies, descripción de Core Shamanism](https://www.shamanism.org/core-shamanism/).
 82. [Michael Harner, The Way of the Shaman, ficha editorial en la Foundation for Shamanic Studies](https://www.shamanism.org/shop-online/book-way-of-the-shaman/).
+83. [Matthew Tindal, Christianity as Old as the Creation, Wellcome Collection](https://wellcomecollection.org/works/zg6fks8m).
+84. [Convención Nacional, decreto del 18 de floréal del año II](https://archives-parlementaires.persee.fr/prt/ac04b560-29b8-4ac7-857c-1d255b96b4f8).
+85. [Maximilien Robespierre, informe del 18 de floréal, Archives parlementaires](https://www.persee.fr/doc/arcpa_0000-0000_1972_num_90_1_26351_t1_0132_0000_4).

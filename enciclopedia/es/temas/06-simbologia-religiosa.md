@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2333
+palabras: 2379
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -92,6 +92,9 @@ fuentes:
   - "https://www.shamanism.org/core-shamanism/"
   - "https://www.bloomsbury.com/us/shamans-9781847250278/"
   - "https://reference-global.com/book/9789176350249?tab=tableOfContents"
+  - "https://www.earlymoderntexts.com/assets/pdfs/paley1802_1.pdf"
+  - "https://www.persee.fr/doc/arcpa_0000-0000_1972_num_90_1_26352_t1_0141_0000_11"
+  - "https://www.loc.gov/item/90712049/"
 ---
 
 # Simbología religiosa comparada
@@ -306,6 +309,12 @@ El [[raelismo|Movimiento raeliano]] usó un hexagrama con una esvástica central
 
 La percusión ocupa un lugar destacado en los talleres de chamanismo esencial del [[neochamanismo|Neochamanismo]]. Los tambores rituales janti, mansi o de Tuva requieren atribución a tradiciones y piezas concretas. El icono editorial representa un tambor de marco con marcas de sonido. [75, 76, 77]
 
+## E19.7 · Deísmo, Culto del Ser Supremo
+
+### Reloj y montaña ceremonial
+
+El reloj del [[deismo|Deísmo]] remite a la analogía del diseño popularizada por Paley en la teología natural. La montaña y el árbol del [[ser-supremo|Culto del Ser Supremo]] se basan en la instalación de la fiesta parisina de 1794. Ambos iconos son dibujos editoriales con referentes identificados. [78, 79, 80]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -398,3 +407,6 @@ La percusión ocupa un lugar destacado en los talleres de chamanismo esencial de
 75. [Foundation for Shamanic Studies, descripción de Core Shamanism](https://www.shamanism.org/core-shamanism/).
 76. [Ronald Hutton, Shamans: Siberian Spirituality and the Western Imagination, Bloomsbury](https://www.bloomsbury.com/us/shamans-9781847250278/).
 77. [Peter Jackson (ed.), Horizons of Shamanism, Stockholm University Press](https://reference-global.com/book/9789176350249?tab=tableOfContents).
+78. [William Paley, Natural Theology, primera parte en Early Modern Texts](https://www.earlymoderntexts.com/assets/pdfs/paley1802_1.pdf).
+79. [Jacques-Louis David, proyecto de fiesta presentado a la Convención](https://www.persee.fr/doc/arcpa_0000-0000_1972_num_90_1_26352_t1_0141_0000_11).
+80. [Library of Congress, Vue de la montagne elevée au champ de la reunion](https://www.loc.gov/item/90712049/).

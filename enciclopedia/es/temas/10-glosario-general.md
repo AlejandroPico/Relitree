@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2472
+palabras: 2518
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -102,6 +102,8 @@ fuentes:
   - "https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036"
   - "https://www.shamanism.org/core-shamanism/"
   - "https://www.shamanism.org/shop-online/book-way-of-the-shaman/"
+  - "https://plato.stanford.edu/entries/natural-theology/"
+  - "https://archives-parlementaires.persee.fr/prt/ac04b560-29b8-4ac7-857c-1d255b96b4f8"
 ---
 
 # Glosario general
@@ -422,6 +424,12 @@ Elohim es una forma hebrea de uso bíblico. En el [[raelismo|Movimiento raeliano
 
 El [[neochamanismo|Neochamanismo]] agrupa prácticas modernas de orígenes diversos. El chamanismo esencial, en inglés core shamanism, es el método de Michael Harner que selecciona y enseña ciertos procedimientos que su escuela considera interculturales. [76, 77, 78]
 
+## E19.7 · Deísmo, Culto del Ser Supremo
+
+### Religión natural y culto cívico
+
+En la historia del [[deismo|Deísmo]], la religión natural identifica creencias o deberes que se consideran accesibles mediante el juicio y la experiencia. Un culto cívico puede disponer de ceremonias y días establecidos por una autoridad pública, como sucedió en el [[ser-supremo|Culto del Ser Supremo]] de 1794. [79, 80]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -523,3 +531,5 @@ El [[neochamanismo|Neochamanismo]] agrupa prácticas modernas de orígenes diver
 76. [Robert J. Wallis, Shamans/Neo-Shamans. Routledge](https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036).
 77. [Foundation for Shamanic Studies, descripción de Core Shamanism](https://www.shamanism.org/core-shamanism/).
 78. [Michael Harner, The Way of the Shaman, ficha editorial en la Foundation for Shamanic Studies](https://www.shamanism.org/shop-online/book-way-of-the-shaman/).
+79. [Natural Theology and Natural Religion, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/natural-theology/).
+80. [Convención Nacional, decreto del 18 de floréal del año II](https://archives-parlementaires.persee.fr/prt/ac04b560-29b8-4ac7-857c-1d255b96b4f8).

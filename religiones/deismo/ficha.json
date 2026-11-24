@@ -5,18 +5,16 @@
   "fin": 1850,
   "tipo": "fil",
   "importancia": 2,
-  "padres": [
-    {
-      "id": "anglicanismo",
-      "relacion": "derivacion"
-    }
+  "padres": [],
+  "influencias": [
+    "anglicanismo"
   ],
-  "influencias": [],
   "icono": {
     "archivo": "icono.svg",
     "fuente": "propio",
     "motivo": "Dios relojero de la razón ilustrada",
     "licencia": "Dibujo original de Relitree",
-    "autor": "Relitree"
+    "autor": "Relitree",
+    "motivo_fuente": "https://www.earlymoderntexts.com/assets/pdfs/paley1802_1.pdf"
   }
 }
