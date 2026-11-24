@@ -17,10 +17,9 @@
   "icono": {
     "archivo": "icono.svg",
     "fuente": "propio",
-    "motivo": "cepa con racimo, emblema del espiritismo",
+    "motivo": "Vid con racimo del prolegómeno de El libro de los espíritus",
     "licencia": "Dibujo original de Relitree",
-    "autor": "Relitree"
-  },
-  "fieles": 15000000,
-  "fieles_fuente": "Wikipedia, List of religious populations"
+    "autor": "Relitree",
+    "motivo_fuente": "https://commons.wikimedia.org/wiki/File:LLDE_cep_vigne.jpg"
+  }
 }

@@ -5,13 +5,9 @@
   "fin": null,
   "tipo": "nmr",
   "importancia": 2,
-  "padres": [
-    {
-      "id": "cuaqueros",
-      "relacion": "derivacion"
-    }
-  ],
+  "padres": [],
   "influencias": [
+    "cuaqueros",
     "swedenborg"
   ],
   "icono": {

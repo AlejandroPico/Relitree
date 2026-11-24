@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2149
+palabras: 2183
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -76,6 +76,10 @@ fuentes:
   - "https://hancockshakervillage.org/home/history/"
   - "https://folkartmuseum.org/exhibitions/anything-but-simple-gift-drawings-and-the-shaker-aesthetic/"
   - "https://www.nbmaa.org/shaker-gift-drawings-full"
+  - "https://nsac.org/religion-principles-and-objects/"
+  - "https://nsac.org/hydesville-park-history/"
+  - "https://cei-spiritistcouncil.com/wp-content/uploads/2020/07/2-The-Spirits-Book.pdf"
+  - "https://commons.wikimedia.org/wiki/File:LLDE_cep_vigne.jpg"
 ---
 
 # Simbología religiosa comparada
@@ -260,6 +264,12 @@ Monedas y sellos del [[taiping|Reino Celestial Taiping]] conservan títulos e in
 
 El árbol de 1854 de Hannah Cohoon procede de la Era de las Manifestaciones de los [[shakers]]. El icono propio de Relitree adapta su motivo vegetal en silueta. La ficha principal conserva la reproducción de la obra con su autoría, fecha y procedencia. [59, 60, 61]
 
+## E19.2 · Espiritualismo, Espiritismo
+
+### Girasol y vid con racimo
+
+El girasol se documenta en el [[espiritualismo]] organizado de Estados Unidos. La vid que representa al [[espiritismo]] en Relitree procede del motivo ilustrado y explicado en el prolegómeno de El libro de los espíritus. [62, 63, 64, 65]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -336,3 +346,7 @@ El árbol de 1854 de Hannah Cohoon procede de la Era de las Manifestaciones de l
 59. [Hancock Shaker Village, Shaker History](https://hancockshakervillage.org/home/history/).
 60. [American Folk Art Museum, Anything but Simple: Gift Drawings and the Shaker Aesthetic](https://folkartmuseum.org/exhibitions/anything-but-simple-gift-drawings-and-the-shaker-aesthetic/).
 61. [New Britain Museum of American Art, Anything but Simple: Shaker Gift Drawings and the Women Who Made Them](https://www.nbmaa.org/shaker-gift-drawings-full).
+62. [National Spiritualist Association of Churches, principios y fines confesionales](https://nsac.org/religion-principles-and-objects/).
+63. [National Spiritualist Association of Churches, historia del lugar de Hydesville](https://nsac.org/hydesville-park-history/).
+64. [Allan Kardec, The Spirits' Book, edici?n del Consejo Esp?rita Internacional](https://cei-spiritistcouncil.com/wp-content/uploads/2020/07/2-The-Spirits-Book.pdf).
+65. [Procedencia visual de Sarmiento de vid con hojas y racimo](https://commons.wikimedia.org/wiki/File:LLDE_cep_vigne.jpg).

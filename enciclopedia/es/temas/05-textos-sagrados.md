@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2343
+palabras: 2387
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -78,6 +78,10 @@ fuentes:
   - "https://yalebooks.yale.edu/book/9780300059335/the-shaker-experience-in-america/"
   - "https://dl.tufts.edu/concern/pdfs/0c483w757"
   - "https://nysl.nysed.gov/msscfa/sc20330"
+  - "https://nsac.org/religion-principles-and-objects/"
+  - "https://snu.org.uk/about-us/about-spiritualism/the-seven-principles/"
+  - "https://catalogue.bnf.fr/ark%3A/12148/cb30010955b"
+  - "https://catalogue.bnf.fr/rechercher.do?index=TOUS3&numNotice=11888475&typeNotice=p"
 ---
 
 # Textos sagrados del mundo comparados
@@ -276,6 +280,12 @@ El [[taiping|Reino Celestial Taiping]] reeditó traducciones protestantes de la 
 
 Los [[shakers]] interpretaron la Biblia a la luz de la revelación continuada. Sus testimonios de los comienzos, el Compendio de 1859 y los cuadernos de cantos ofrecen tipos distintos de evidencia sobre la autoridad de los escritos. [59, 60, 61]
 
+## E19.2 · Espiritualismo, Espiritismo
+
+### Declaraciones de iglesias y codificación kardecista
+
+En el [[espiritualismo]] anglófono, las declaraciones de principios se atribuyen a sus iglesias y uniones concretas. El [[espiritismo]] kardecista se consulta a partir de un corpus que comenzó con El libro de los espíritus en 1857 y se amplió con nuevas obras y ediciones. [62, 63, 64, 65]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -353,3 +363,7 @@ Los [[shakers]] interpretaron la Biblia a la luz de la revelación continuada. S
 59. [Stephen J. Stein, The Shaker Experience in America, Yale University Press](https://yalebooks.yale.edu/book/9780300059335/the-shaker-experience-in-america/).
 60. [Frederick W. Evans, Shakers: Compendium, 1859, Tufts Digital Library](https://dl.tufts.edu/concern/pdfs/0c483w757).
 61. [New York State Library, cat�logo de la colecci�n shaker](https://nysl.nysed.gov/msscfa/sc20330).
+62. [National Spiritualist Association of Churches, principios y fines confesionales](https://nsac.org/religion-principles-and-objects/).
+63. [Spiritualists' National Union, The Seven Principles](https://snu.org.uk/about-us/about-spiritualism/the-seven-principles/).
+64. [Biblioth?que nationale de France, Le Livre des esprits, registro bibliogr?fico](https://catalogue.bnf.fr/ark%3A/12148/cb30010955b).
+65. [Biblioth?que nationale de France, t?tulos asociados a Allan Kardec](https://catalogue.bnf.fr/rechercher.do?index=TOUS3&numNotice=11888475&typeNotice=p).

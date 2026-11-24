@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2004
+palabras: 2045
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -77,6 +77,10 @@ fuentes:
   - "https://nysl.nysed.gov/msscfa/sc20330"
   - "https://www.shakers.org/about-us/the-shakers/"
   - "https://www.shakers.org/"
+  - "https://www.smithsonianmag.com/history/the-fox-sisters-and-the-rap-on-spiritualism-99663697/"
+  - "https://nsac.org/hydesville-park-history/"
+  - "https://www2.camara.leg.br/legin/fed/lei/2022/lei-14354-30-maio-2022-792739-publicacaooriginal-165401-pl.html"
+  - "https://www12.senado.leg.br/noticias/materias/2022/05/31/lei-institui-18-de-abril-como-dia-nacional-do-espiritismo"
 ---
 
 # Calendarios y festividades del mundo
@@ -261,6 +265,12 @@ En el [[taiping|Reino Celestial Taiping]] el séptimo día tenía carácter sagr
 
 Entre los [[shakers]], la reunión dominical se distingue de los encuentros especiales al aire libre que algunas comunidades documentaron en el periodo de las manifestaciones. Los horarios de visita corresponden al pueblo y fecha indicados en cada fuente. [59, 60, 61, 62]
 
+## E19.2 · Espiritualismo, Espiritismo
+
+### Hydesville y el Día Nacional del Espiritismo de Brasil
+
+La memoria de Hydesville en el [[espiritualismo]] remite al 31 de marzo de 1848. En el [[espiritismo]] brasileño, el 18 de abril es una conmemoración reconocida por la ley federal 14.354 de 2022 y vinculada a la publicación de Kardec. [63, 64, 65, 66]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -337,3 +347,7 @@ Entre los [[shakers]], la reunión dominical se distingue de los encuentros espe
 60. [New York State Library, cat�logo de la colecci�n shaker](https://nysl.nysed.gov/msscfa/sc20330).
 61. [Sabbathday Lake Shaker Village, The Shakers](https://www.shakers.org/about-us/the-shakers/).
 62. [Sabbathday Lake Shaker Village, visita a la comunidad](https://www.shakers.org/).
+63. [Smithsonian Magazine, ?The Fox Sisters and the Rap on Spiritualism?](https://www.smithsonianmag.com/history/the-fox-sisters-and-the-rap-on-spiritualism-99663697/).
+64. [National Spiritualist Association of Churches, historia del lugar de Hydesville](https://nsac.org/hydesville-park-history/).
+65. [C�mara dos Deputados de Brasil, Ley 14.354 de 30 de mayo de 2022](https://www2.camara.leg.br/legin/fed/lei/2022/lei-14354-30-maio-2022-792739-publicacaooriginal-165401-pl.html).
+66. [Senado Federal de Brasil, noticia sobre el D�a Nacional del Espiritismo](https://www12.senado.leg.br/noticias/materias/2022/05/31/lei-institui-18-de-abril-como-dia-nacional-do-espiritismo).

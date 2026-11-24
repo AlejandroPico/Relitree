@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2152
+palabras: 2196
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -87,6 +87,10 @@ fuentes:
   - "https://www.nps.gov/subjects/travelshaker/index.htm"
   - "https://www.mainepublic.org/history/2026-11-03/one-of-three-remaining-shakers-has-died"
   - "https://apnews.com/article/a2244e1780a23e7c889e611a7b59bfb9"
+  - "https://nsac.org/religion-principles-and-objects/"
+  - "https://www.smithsonianmag.com/travel/the-tiny-new-york-town-where-mediums-give-voice-to-the-dead-180987270/"
+  - "https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/3f1708b5d315aca50d5a7d8764469c45.pdf"
+  - "https://periodicos.pucminas.br/horizonte/article/view/36770"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -281,6 +285,12 @@ La organización de los Adoradores de Dios en Guangxi y la posterior capital en 
 
 Sabbathday Lake, Maine, conserva una comunidad [[shakers|shaker]] activa. Tras el fallecimiento de Sister June Carpenter, Maine Public y Associated Press informaron en noviembre de 2026 de dos miembros. Es un recuento de la comunidad, con alcance distinto del mapa de pueblos históricos. [65, 66, 67, 68]
 
+## E19.2 · Espiritualismo, Espiritismo
+
+### Sedes espiritualistas y declaración censal espírita
+
+Lily Dale y las iglesias afiliadas a la NSAC muestran formas de implantación del [[espiritualismo]] estadounidense. En el censo brasileño de 2022, resultados de muestra publicados en 2025, el 1,8 % de la población de 10 años o más se declaró del [[espiritismo|grupo espírita]]. [69, 70, 71, 72]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -367,3 +377,7 @@ Sabbathday Lake, Maine, conserva una comunidad [[shakers|shaker]] activa. Tras e
 66. [National Park Service, Travel the Shaker Historic Trail](https://www.nps.gov/subjects/travelshaker/index.htm).
 67. [Maine Public, fallecimiento de Sister June Carpenter y estado de la comunidad, noviembre de 2026](https://www.mainepublic.org/history/2026-11-03/one-of-three-remaining-shakers-has-died).
 68. [Associated Press, fallecimiento de Sister June Carpenter, noviembre de 2026](https://apnews.com/article/a2244e1780a23e7c889e611a7b59bfb9).
+69. [National Spiritualist Association of Churches, principios y fines confesionales](https://nsac.org/religion-principles-and-objects/).
+70. [Smithsonian Magazine, reportaje sobre Lily Dale](https://www.smithsonianmag.com/travel/the-tiny-new-york-town-where-mediums-give-voice-to-the-dead-180987270/).
+71. [IBGE, Censo Demogr?fico 2022, resultados preliminares de la muestra sobre religi?n](https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/3f1708b5d315aca50d5a7d8764469c45.pdf).
+72. [?As estat?sticas do espiritismo no censo brasileiro?, Horizonte, PUC Minas](https://periodicos.pucminas.br/horizonte/article/view/36770).

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2111
+palabras: 2153
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -91,6 +91,10 @@ fuentes:
   - "https://yalebooks.yale.edu/book/9780300059335/the-shaker-experience-in-america/"
   - "https://nysl.nysed.gov/msscfa/sc20330"
   - "https://www.ubcpress.ca/gifts-of-power"
+  - "https://libguides.cam.ac.uk/manuscripts/spr"
+  - "https://www.spr.ac.uk/about/our-history"
+  - "https://web.projetokardec.ufjf.br/"
+  - "https://www.persee.fr/doc/assr_0335-5985_1992_num_80_1_1564_t1_0239_0000_2"
 ---
 
 # Historia del estudio de las religiones
@@ -279,6 +283,12 @@ La historia del [[taiping|Reino Celestial Taiping]] se apoya en traducciones bí
 
 Stephen J. Stein reconstruye la evolución de los [[shakers]] desde sus redes de fundación y sus pueblos. La edición de Humez de los escritos de Rebecca Cox Jackson ofrece acceso a la trayectoria de una predicadora negra y anciana shaker que organizó una familia en Filadelfia. [67, 68, 69]
 
+## E19.2 · Espiritualismo, Espiritismo
+
+### Actas de sesión y circulación de libros entre Francia y Brasil
+
+Los archivos de la Society for Psychical Research documentan conflictos de interpretación en el [[espiritualismo]]. Aubrée y Laplantine y el archivo universitario de Juiz de Fora ofrecen vías para estudiar la circulación de escritos y prácticas del [[espiritismo]] entre Francia y Brasil. [70, 71, 72, 73]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -369,3 +379,7 @@ Stephen J. Stein reconstruye la evolución de los [[shakers]] desde sus redes de
 67. [Stephen J. Stein, The Shaker Experience in America, Yale University Press](https://yalebooks.yale.edu/book/9780300059335/the-shaker-experience-in-america/).
 68. [New York State Library, cat�logo de la colecci�n shaker](https://nysl.nysed.gov/msscfa/sc20330).
 69. [Jean McMahon Humez, ed., Gifts of Power: The Writings of Rebecca Jackson](https://www.ubcpress.ca/gifts-of-power).
+70. [University of Cambridge Library, archivo de la Society for Psychical Research](https://libguides.cam.ac.uk/manuscripts/spr).
+71. [Society for Psychical Research, historia institucional](https://www.spr.ac.uk/about/our-history).
+72. [Universidade Federal de Juiz de Fora, Projeto Allan Kardec, archivo de documentos](https://web.projetokardec.ufjf.br/).
+73. [Rese?a de Marion Aubr?e y Fran?ois Laplantine, La Table, le Livre et les Esprits, Archives de sciences sociales des religions](https://www.persee.fr/doc/assr_0335-5985_1992_num_80_1_1564_t1_0239_0000_2).

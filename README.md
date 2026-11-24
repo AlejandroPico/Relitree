@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.64**
+**Versión 1.7.65**
+
+[Entrega 19.2 de la fase E19](enciclopedia/PLAN.md#fase-e19--cristianismo--tradiciones-69). Espiritualismo, Espiritismo. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
 [Entrega 19.1 de la fase E19](enciclopedia/PLAN.md#fase-e19--cristianismo--tradiciones-69). Shakers. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 

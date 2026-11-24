@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2282
+palabras: 2317
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -84,6 +84,10 @@ fuentes:
   - "https://dl.tufts.edu/concern/pdfs/0c483w757"
   - "https://nysl.nysed.gov/msscfa/sc20330"
   - "https://folkartmuseum.org/exhibitions/anything-but-simple-gift-drawings-and-the-shaker-aesthetic/"
+  - "https://nsac.org/religion-principles-and-objects/"
+  - "https://libguides.cam.ac.uk/manuscripts/spr"
+  - "https://cei-spiritistcouncil.com/wp-content/uploads/2020/07/2-The-Spirits-Book.pdf"
+  - "https://www.scielo.br/j/ra/a/7S5KvbXsKGRnK3cFMbMSzXS/"
 ---
 
 # Glosario general
@@ -374,6 +378,12 @@ Taiping Tianguo es el nombre chino del [[taiping|Reino Celestial de la Gran Paz]
 
 La familia [[shakers|shaker]] era una unidad residencial y religiosa formada por creyentes, con funciones y grados de compromiso. En la Era de las Manifestaciones, un dibujo de don daba forma visible a un mensaje que su autora o autor atribuía a la inspiración espiritual. [58, 59, 60]
 
+## E19.2 · Espiritualismo, Espiritismo
+
+### Mediumnidad, psicografía y adscripción
+
+Mediumnidad designa la función que se atribuye a un intermediario en el [[espiritualismo]] y otras corrientes. Psicografía es una modalidad de producción escrita que ocupa un lugar destacado en el [[espiritismo]] brasileño de Chico Xavier. [61, 62, 63, 64]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -457,3 +467,7 @@ La familia [[shakers|shaker]] era una unidad residencial y religiosa formada por
 58. [Frederick W. Evans, Shakers: Compendium, 1859, Tufts Digital Library](https://dl.tufts.edu/concern/pdfs/0c483w757).
 59. [New York State Library, cat�logo de la colecci�n shaker](https://nysl.nysed.gov/msscfa/sc20330).
 60. [American Folk Art Museum, Anything but Simple: Gift Drawings and the Shaker Aesthetic](https://folkartmuseum.org/exhibitions/anything-but-simple-gift-drawings-and-the-shaker-aesthetic/).
+61. [National Spiritualist Association of Churches, principios y fines confesionales](https://nsac.org/religion-principles-and-objects/).
+62. [University of Cambridge Library, archivo de la Society for Psychical Research](https://libguides.cam.ac.uk/manuscripts/spr).
+63. [Allan Kardec, The Spirits' Book, edici?n del Consejo Esp?rita Internacional](https://cei-spiritistcouncil.com/wp-content/uploads/2020/07/2-The-Spirits-Book.pdf).
+64. [Bernardo Lewgoy, ?Chico Xavier e a cultura brasileira?, Revista de Antropologia](https://www.scielo.br/j/ra/a/7S5KvbXsKGRnK3cFMbMSzXS/).

@@ -4,6 +4,10 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E19 · 19.2. [Espiritualismo](enciclopedia/es/religiones/espiritualismo.md). 10.034 palabras de cuerpo y 10 figuras. Versión 1.7.65.
+- [x] E19 · 19.2. [Espiritismo](enciclopedia/es/religiones/espiritismo.md). 10.022 palabras de cuerpo y 10 figuras. Versión 1.7.65.
+  - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.
+
 - [x] E19 · 19.1. [Shakers](enciclopedia/es/religiones/shakers.md). 10.019 palabras de cuerpo y 11 figuras. Versión 1.7.64.
   - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.
   - Auditoría inicial de 516 nodos: 313 símbolos propios, 161 heredados (44 cristianos), 38 genéricos y 4 compartidos. Se implantó el árbol shaker de Cohoon y el nuevo formato de figuras. Queda pendiente continuar la revisión de símbolos del resto del árbol.
