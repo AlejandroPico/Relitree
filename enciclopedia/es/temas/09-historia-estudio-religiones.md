@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2462
+palabras: 2503
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -122,6 +122,11 @@ fuentes:
   - "https://www.methodist.org.uk/about/history/"
   - "https://indwes.whdl.org/en/browse/resources/7816"
   - "https://nazarene.org/historical-statement/"
+  - "https://archives.ifphc.org/index.cfm?fuseaction=publicationsGuide.apostolicfaithazusa"
+  - "https://academic.oup.com/book/3917/chapter-abstract/145483468"
+  - "https://archives.ifphc.org/pdf/PentecostalEvangel/1920-1929/1922/1922_07_22.pdf"
+  - "https://www.cambridge.org/core/journals/africa/article/an-introduction-to-the-letters-of-isaiah-moteka-the-correspondence-of-a-twentiethcentury-south-african-zionist-minister/AFF6C6E5C1942A06E37C1B00BD573637"
+  - "https://ir.unisa.ac.za/bitstream/handle/10500/18867/dissertation_wouters_jmf.pdf?sequence=1"
 ---
 
 # Historia del estudio de las religiones
@@ -364,6 +369,12 @@ Bebbington estudió rasgos del [[evangelicalismo|Evangelicalismo]] británico y 
 
 Las actas y los diarios ayudan a reconstruir los circuitos del [[metodismo|Metodismo]]. Las publicaciones y las actas de unión del [[santidad|Movimiento de santidad]] documentan cómo una red de reuniones se convirtió en iglesias con distintos gobiernos. [98, 99, 100]
 
+## E20.3 · Pentecostalismo, Iglesias sionistas africanas
+
+### Avivamientos, cartas y redes transnacionales
+
+El [[pentecostalismo|Pentecostalismo]] se reconstruye con prensa, actas y testimonios de focos como Azusa, Mukti y Valparaíso. En las [[zion-cc|Iglesias sionistas africanas]], las cartas de Isaiah Moteka y las genealogías de ministros documentan contactos entre iglesias y a ambos lados del Atlántico. [101, 102, 103, 104, 105]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -485,3 +496,8 @@ Las actas y los diarios ayudan a reconstruir los circuitos del [[metodismo|Metod
 98. [The Methodist Church, History and Heritage](https://www.methodist.org.uk/about/history/).
 99. [Phoebe Palmer, The Way of Holiness, Wesleyan Holiness Digital Library](https://indwes.whdl.org/en/browse/resources/7816).
 100. [Church of the Nazarene, reseña histórica institucional](https://nazarene.org/historical-statement/).
+101. [Flower Pentecostal Heritage Center, The Apostolic Faith de Los Ángeles](https://archives.ifphc.org/index.cfm?fuseaction=publicationsGuide.apostolicfaithazusa).
+102. [Oxford University Press, And Ever the Twain Shall Meet, redes de santidad y avivamiento de Mukti](https://academic.oup.com/book/3917/chapter-abstract/145483468).
+103. [Willis C. Hoover, The Pentecostal Revival in Chile, The Pentecostal Evangel, 1922](https://archives.ifphc.org/pdf/PentecostalEvangel/1920-1929/1922/1922_07_22.pdf).
+104. [Cambridge, correspondencia del ministro sionista Isaiah Moteka](https://www.cambridge.org/core/journals/africa/article/an-introduction-to-the-letters-of-isaiah-moteka-the-correspondence-of-a-twentiethcentury-south-african-zionist-minister/AFF6C6E5C1942A06E37C1B00BD573637).
+105. [University of South Africa, Jean M. F. Wouters, genealogías eclesiales sionistas](https://ir.unisa.ac.za/bitstream/handle/10500/18867/dissertation_wouters_jmf.pdf?sequence=1).

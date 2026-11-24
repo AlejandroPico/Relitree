@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2735
+palabras: 2771
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -111,6 +111,10 @@ fuentes:
   - "https://www.gcah.org/history/timelines/"
   - "https://indwes.whdl.org/en/browse/resources/7816"
   - "https://wesley.nnu.edu/john-wesley/a-plain-account-of-christian-perfection/"
+  - "https://academic.oup.com/book/44883/chapter-abstract/384622289"
+  - "https://ag.org/Beliefs/Statement-of-Fundamental-Truths"
+  - "https://scriptura.journals.ac.za/pub/article/view/1768"
+  - "https://doi.org/10.25159/2412-4265/17465"
 ---
 
 # Textos sagrados del mundo comparados
@@ -363,6 +367,12 @@ En el [[evangelicalismo|Evangelicalismo]], la lectura y la predicación bíblica
 
 El [[metodismo|Metodismo]] emplea la Biblia en predicación y canto. En el [[santidad|Movimiento de santidad]], los textos de Wesley y de Phoebe Palmer permiten seguir usos particulares de ese repertorio bíblico en la enseñanza de la santificación. [92, 93, 94]
 
+## E20.3 · Pentecostalismo, Iglesias sionistas africanas
+
+### Hechos, Sion y la lectura comunitaria
+
+El [[pentecostalismo|Pentecostalismo]] interpreta Hechos y 1 Corintios para explicar el bautismo en el Espíritu y los dones. Las [[zion-cc|Iglesias sionistas africanas]] emplean imágenes bíblicas de Sion, el agua y la sanación en prácticas y organizaciones distintas. [95, 96, 97, 98]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -473,3 +483,7 @@ El [[metodismo|Metodismo]] emplea la Biblia en predicación y canto. En el [[san
 92. [General Commission on Archives and History, cronologías metodistas](https://www.gcah.org/history/timelines/).
 93. [Phoebe Palmer, The Way of Holiness, Wesleyan Holiness Digital Library](https://indwes.whdl.org/en/browse/resources/7816).
 94. [John Wesley, A Plain Account of Christian Perfection, Wesley Center](https://wesley.nnu.edu/john-wesley/a-plain-account-of-christian-perfection/).
+95. [David W. Kling, The Roots of Pentecostalism, Oxford University Press](https://academic.oup.com/book/44883/chapter-abstract/384622289).
+96. [Assemblies of God de Estados Unidos, Statement of Fundamental Truths](https://ag.org/Beliefs/Statement-of-Fundamental-Truths).
+97. [Scriptura, African Zionism and its contribution to African Christianity in South Africa](https://scriptura.journals.ac.za/pub/article/view/1768).
+98. [Mookgo S. Kgatle, Pentecostal Experiences in the Ministry of Ignatius (Engenas) Lekganyane](https://doi.org/10.25159/2412-4265/17465).

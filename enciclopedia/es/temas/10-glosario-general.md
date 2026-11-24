@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2624
+palabras: 2660
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -112,6 +112,9 @@ fuentes:
   - "https://www.methodist.org.uk/about/history/"
   - "https://apnazarene.org/resources/manual/resources/2017-Manual.pdf"
   - "https://wesley.nnu.edu/john-wesley/a-plain-account-of-christian-perfection/"
+  - "https://ag.org/Beliefs/Statement-of-Fundamental-Truths"
+  - "https://ir.unisa.ac.za/bitstream/handle/10500/19534/Anderson__A__0869816934__Section2.pdf?isAllowed=y&sequence=2"
+  - "https://history.stanford.edu/publications/peoples-zion-south-africa-united-states-and-transatlantic-faith-healing-movement"
 ---
 
 # Glosario general
@@ -456,6 +459,12 @@ El Gran Ser de la [[positivismo|Religión de la Humanidad]] es la humanidad cons
 
 En el [[metodismo|Metodismo]], un circuito reúne lugares atendidos por una organización de predicación. En el [[santidad|Movimiento de santidad]], entera santificación designa una formulación acerca de la obra de la gracia en la vida cristiana. [86, 87, 88]
 
+## E20.3 · Pentecostalismo, Iglesias sionistas africanas
+
+### Glosolalia, bautismo en el Espíritu y sionismo cristiano africano
+
+En el [[pentecostalismo|Pentecostalismo]], glosolalia designa el hablar en lenguas y se distingue según su uso. El nombre de las [[zion-cc|Iglesias sionistas africanas]] remite a Sion como referencia bíblica y a una historia eclesial del África austral. [89, 90, 91]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -567,3 +576,6 @@ En el [[metodismo|Metodismo]], un circuito reúne lugares atendidos por una orga
 86. [The Methodist Church, History and Heritage](https://www.methodist.org.uk/about/history/).
 87. [Church of the Nazarene, Manual, declaración histórica](https://apnazarene.org/resources/manual/resources/2017-Manual.pdf).
 88. [John Wesley, A Plain Account of Christian Perfection, Wesley Center](https://wesley.nnu.edu/john-wesley/a-plain-account-of-christian-perfection/).
+89. [Assemblies of God de Estados Unidos, Statement of Fundamental Truths](https://ag.org/Beliefs/Statement-of-Fundamental-Truths).
+90. [Allan Anderson, genealogías sionistas y pentecostales, UNISA](https://ir.unisa.ac.za/bitstream/handle/10500/19534/Anderson__A__0869816934__Section2.pdf?isAllowed=y&sequence=2).
+91. [Joel Cabrita, The People's Zion, Harvard University Press](https://history.stanford.edu/publications/peoples-zion-south-africa-united-states-and-transatlantic-faith-healing-movement).

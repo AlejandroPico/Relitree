@@ -4,6 +4,10 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E20 · 20.3. [Pentecostalismo](enciclopedia/es/religiones/pentecostalismo.md). 10.022 palabras de cuerpo y 10 figuras. Versión 1.7.74.
+- [x] E20 · 20.3. [Iglesias sionistas africanas](enciclopedia/es/religiones/zion-cc.md). 10.007 palabras de cuerpo y 10 figuras. Versión 1.7.74.
+  - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.
+
 - [x] E20 · 20.2. [Metodismo](enciclopedia/es/religiones/metodismo.md). 10.032 palabras de cuerpo y 10 figuras. Versión 1.7.73.
 - [x] E20 · 20.2. [Movimiento de santidad](enciclopedia/es/religiones/santidad.md). 10.017 palabras de cuerpo y 10 figuras. Versión 1.7.73.
   - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.

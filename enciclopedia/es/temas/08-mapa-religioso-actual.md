@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2524
+palabras: 2558
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -119,6 +119,9 @@ fuentes:
   - "https://worldmethodistcouncil.org/statistical-information/"
   - "https://nazarene.org/historical-statement/"
   - "https://kehc.org/home/history_eng/"
+  - "https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/"
+  - "https://www.statssa.gov.za/census/census_2001/metadata/Persons.pdf"
+  - "https://www.statssa.gov.za/publications/SAStatistics/SAStatistics2012.pdf"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -367,6 +370,12 @@ Para el [[evangelicalismo|Evangelicalismo]], las clasificaciones de Pew en Estad
 
 El [[metodismo|Metodismo]] y el [[santidad|Movimiento de santidad]] se solapan en parte de los repertorios estadísticos. La afiliación a una denominación, la asistencia a sus congregaciones y la participación en una red histórica requieren denominadores explícitos. [98, 99, 100]
 
+## E20.3 · Pentecostalismo, Iglesias sionistas africanas
+
+### Estimación mundial y respuestas de afiliación en Sudáfrica
+
+El [[pentecostalismo|Pentecostalismo]] cuenta con una estimación mundial del CSGC para 2010. Las [[zion-cc|Iglesias sionistas africanas]] reúnen trayectorias transfronterizas. Las cifras sudafricanas de la ZCC y St Engenas corresponden a respuestas del censo de 2001. [101, 102, 103]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -485,3 +494,6 @@ El [[metodismo|Metodismo]] y el [[santidad|Movimiento de santidad]] se solapan e
 98. [World Methodist Council, información estadística y alcance](https://worldmethodistcouncil.org/statistical-information/).
 99. [Church of the Nazarene, reseña histórica institucional](https://nazarene.org/historical-statement/).
 100. [Korea Evangelical Holiness Church, memoria histórica](https://kehc.org/home/history_eng/).
+101. [Pew Research Center, Christian Movements and Denominations, estimación para 2010](https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/).
+102. [Statistics South Africa, metadatos de clasificación religiosa del censo de 2001](https://www.statssa.gov.za/census/census_2001/metadata/Persons.pdf).
+103. [Statistics South Africa, tabla de afiliación del censo de 2001 en SA Statistics 2012](https://www.statssa.gov.za/publications/SAStatistics/SAStatistics2012.pdf).

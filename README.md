@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.73**
+**Versión 1.7.74**
+
+[Entrega 20.3 de la fase E20](enciclopedia/PLAN.md#fase-e20--cristianismo--tradiciones-79). Pentecostalismo, Iglesias sionistas africanas. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
 [Entrega 20.2 de la fase E20](enciclopedia/PLAN.md#fase-e20--cristianismo--tradiciones-79). Metodismo, Movimiento de santidad. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 

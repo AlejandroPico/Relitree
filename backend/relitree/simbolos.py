@@ -1113,7 +1113,23 @@ def _():
     ofrenda = P("M39 44Q40 34 50 28Q60 34 61 44M50 24V17M31 30L26 26M69 30L74 26")
     return altar + ofrenda
 
+@motivo("lenguas_pentecostes", "Lenguas de fuego de Hechos 2, dibujo editorial")
+def _():
+    centro = P("M49 18C55 32 64 38 64 50C64 62 56 67 49 67C39 67 34 60 35 51C35 45 38 41 41 36C41 43 45 47 47 46C52 39 51 28 49 18Z")
+    izquierda = P("M25 39C27 50 32 52 32 61C32 69 26 73 20 71C14 69 12 64 15 57C16 54 18 52 19 49C20 54 22 55 23 54C25 50 25 45 25 39Z")
+    derecha = P("M77 37C78 48 86 52 86 61C86 69 80 73 74 71C68 69 67 63 69 58C70 54 72 52 73 47C74 52 76 55 77 54C79 50 77 43 77 37Z")
+    return centro + izquierda + derecha
+
+
+@motivo("colina_caminos_sion", "Colina de Sion y dos caminos de peregrinación, dibujo editorial")
+def _():
+    colina = P("M12 60Q23 58 32 44Q38 33 49 33Q57 33 63 41L71 51Q78 59 88 60")
+    caminos = P("M26 83C35 74 48 75 51 65C53 58 48 53 48 44M64 83C63 74 54 73 51 65")
+    return colina + caminos
+
 ASIGNACION = {
+    'pentecostalismo': 'lenguas_pentecostes',
+    'zion-cc': 'colina_caminos_sion',
     'metodismo': 'circuito_metodista',
     'santidad': 'altar_santidad',
     'evangelicalismo': 'libro_voz_avivamiento',

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2369
+palabras: 2400
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -104,6 +104,9 @@ fuentes:
   - "https://www.methodist.org.uk/about/history/"
   - "https://discipline.wesleyan.org//wiki/National_Holiness_Association"
   - "https://www.umc.org/en/content/ocean-groves-great-auditorium"
+  - "https://etheses.bham.ac.uk/id/eprint/6344/1/Usher15PhD.pdf"
+  - "https://sahistory.org.za/article/zion-christian-church-zcc"
+  - "https://onlinelibrary.wiley.com/doi/abs/10.1002/jtr.1936"
 ---
 
 # Calendarios y festividades del mundo
@@ -342,6 +345,12 @@ Lausana de 1974 y los encuentros bíblicos estadounidenses son hitos fechados de
 
 La memoria de Aldersgate preserva un episodio fechado del [[metodismo|Metodismo]]. Los campamentos del [[santidad|Movimiento de santidad]] siguieron calendarios de convocatoria que se pueden cotejar por lugar y año. [87, 88, 89]
 
+## E20.3 · Pentecostalismo, Iglesias sionistas africanas
+
+### Pentecostés, convenciones y Pascua en Moria
+
+Las convenciones de Sunderland emplearon Pentecostés como referencia anual del [[pentecostalismo|Pentecostalismo]] británico. La Pascua en Moria destaca en el calendario de las iglesias de los Lekganyane, estudiadas en [[zion-cc|Iglesias sionistas africanas]]. [90, 91, 92]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -445,3 +454,6 @@ La memoria de Aldersgate preserva un episodio fechado del [[metodismo|Metodismo]
 87. [The Methodist Church, History and Heritage](https://www.methodist.org.uk/about/history/).
 88. [The Wesleyan Church, National Holiness Association](https://discipline.wesleyan.org//wiki/National_Holiness_Association).
 89. [United Methodist Church, Ocean Grove’s Great Auditorium](https://www.umc.org/en/content/ocean-groves-great-auditorium).
+90. [Universidad de Birmingham, estudio de la red pentecostal británica y Cecil Henry Polhill](https://etheses.bham.ac.uk/id/eprint/6344/1/Usher15PhD.pdf).
+91. [South African History Online, Zion Christian Church](https://sahistory.org.za/article/zion-christian-church-zcc).
+92. [International Journal of Tourism Research, economía regional de la peregrinación de Moria](https://onlinelibrary.wiley.com/doi/abs/10.1002/jtr.1936).

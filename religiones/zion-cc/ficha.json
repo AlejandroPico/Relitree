@@ -1,20 +1,25 @@
 {
   "id": "zion-cc",
   "region": "afr",
-  "inicio": 1910,
+  "inicio": 1904,
   "fin": null,
   "tipo": "mon",
   "importancia": 2,
   "padres": [
     {
-      "id": "pentecostalismo",
+      "id": "cristianismo",
       "relacion": "derivacion"
     }
   ],
   "influencias": [
-    "bantu"
+    "pentecostalismo"
   ],
-  "icono": null,
-  "fieles": 15000000,
-  "fieles_fuente": "Wikipedia, List of Christian denominations by number of members (Zion Christian Church)"
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Colina de Sion y dos caminos de peregrinación, dibujo editorial",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jtr.1936"
+  }
 }

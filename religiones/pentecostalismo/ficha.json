@@ -12,7 +12,14 @@
     }
   ],
   "influencias": [],
-  "icono": null,
-  "fieles": 280000000,
-  "fieles_fuente": "Wikipedia, List of Christian denominations by number of members"
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Lenguas de fuego de Hechos 2, dibujo editorial",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://academic.oup.com/book/44883/chapter-abstract/384622289"
+  },
+  "fieles": 279000000,
+  "fieles_fuente": "CSGC y Pew Research Center, estimación mundial para 2010 de cristianos pentecostales. https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/"
 }

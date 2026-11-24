@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2497
+palabras: 2541
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -102,6 +102,9 @@ fuentes:
   - "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp63772"
   - "https://www.methodist.org.uk/about/history/"
   - "https://indwes.whdl.org/en/browse/resources/7816"
+  - "https://academic.oup.com/book/44883/chapter-abstract/384622289"
+  - "https://journals.ufs.ac.za/index.php/at/article/download/6033/4346/14614"
+  - "https://sahistory.org.za/dated-event/joseph-lekganyane-zcc-dove-dies"
 ---
 
 # Simbología religiosa comparada
@@ -340,6 +343,12 @@ Los nodos de [[evangelicalismo|Evangelicalismo]] y [[fundamentalismo|Fundamental
 
 El icono de [[metodismo|Metodismo]] representa capillas enlazadas por un circuito. El de [[santidad|Movimiento de santidad]] remite a la imagen del altar que empleó Palmer. Ambos motivos tienen una función editorial en el árbol. [86, 87]
 
+## E20.3 · Pentecostalismo, Iglesias sionistas africanas
+
+### Lenguas de fuego, colina y caminos
+
+El [[pentecostalismo|Pentecostalismo]] se identifica en el árbol mediante un dibujo de las lenguas de fuego de Hechos. Las [[zion-cc|Iglesias sionistas africanas]] se representan con una colina y caminos. Las insignias de estrella y paloma pertenecen respectivamente a ramas concretas de la Zion Christian Church. [88, 89, 90]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -442,3 +451,6 @@ El icono de [[metodismo|Metodismo]] representa capillas enlazadas por un circuit
 85. [Universidad de Pensilvania, ediciones digitalizadas de The Fundamentals](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp63772).
 86. [The Methodist Church, History and Heritage](https://www.methodist.org.uk/about/history/).
 87. [Phoebe Palmer, The Way of Holiness, Wesleyan Holiness Digital Library](https://indwes.whdl.org/en/browse/resources/7816).
+88. [David W. Kling, The Roots of Pentecostalism, Oxford University Press](https://academic.oup.com/book/44883/chapter-abstract/384622289).
+89. [Acta Theologica, Holiness and Taboo in the Zion Christian Church](https://journals.ufs.ac.za/index.php/at/article/download/6033/4346/14614).
+90. [South African History Online, Joseph Lekganyane y la rama de St Engenas](https://sahistory.org.za/dated-event/joseph-lekganyane-zcc-dove-dies).
