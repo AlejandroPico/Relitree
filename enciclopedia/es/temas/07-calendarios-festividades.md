@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2127
+palabras: 2178
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -87,6 +87,9 @@ fuentes:
   - "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S174392131101266X"
   - "https://www.washingtonpost.com/archive/lifestyle/1987/08/17/o-hum-all-ye-faithful-harmonic-convergence-ushers-in-a-new-age/a2bf1095-6436-4e2e-abd8-ca37655662dc/"
   - "https://www.cbsnews.com/amp/news/almanac-the-harmonic-convergence/"
+  - "https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/"
+  - "https://raelcanada.org/raelian-celebrations-ceremonies/"
+  - "https://visit.archives.gov/whats-on/explore-exhibits/atomic-bombing-hiroshima-and-nagasaki"
 ---
 
 # Calendarios y festividades del mundo
@@ -289,6 +292,12 @@ El Día del Loto Blanco recuerda en la [[teosofia|Teosofía]] el fallecimiento d
 
 La [[yo-soy|Actividad «Yo Soy»]] anuncia actos estivales en Mount Shasta City. La Convergencia Armónica de agosto de 1987 fue una convocatoria histórica asociada a corrientes de la [[new-age|Nueva Era]], que se distingue de las fechas propuestas para una edad de Acuario. [69, 70, 71, 72]
 
+## E19.5 · Movimiento raeliano
+
+### Cuatro fechas raelianas
+
+El [[raelismo|Movimiento raeliano]] autoriza la transmisión del plan celular el primer domingo de abril y el 6 de agosto, el 7 de octubre y el 13 de diciembre. Las fechas vinculan un rito de entrada a la memoria del movimiento y, el 6 de agosto, al aniversario del bombardeo de Hiroshima. [73, 74, 75]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -375,3 +384,6 @@ La [[yo-soy|Actividad «Yo Soy»]] anuncia actos estivales en Mount Shasta City.
 70. [John W. Hoopes, ?A Critical History of 2012 Mythology?, Cambridge University Press](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S174392131101266X).
 71. [The Washington Post, informaci?n contempor?nea sobre la Convergencia Arm?nica (agosto de 1987)](https://www.washingtonpost.com/archive/lifestyle/1987/08/17/o-hum-all-ye-faithful-harmonic-convergence-ushers-in-a-new-age/a2bf1095-6436-4e2e-abd8-ca37655662dc/).
 72. [CBS News, archivo de la Convergencia Arm?nica](https://www.cbsnews.com/amp/news/almanac-the-harmonic-convergence/).
+73. [Anna Kira Hippert, ficha sobre el movimiento, Religion Media Centre](https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/).
+74. [Movimiento Raeliano Canadiense, Celebraciones y ceremonias](https://raelcanada.org/raelian-celebrations-ceremonies/).
+75. [National Archives Museum, documentos sobre Hiroshima y Nagasaki](https://visit.archives.gov/whats-on/explore-exhibits/atomic-bombing-hiroshima-and-nagasaki).

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2233
+palabras: 2275
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -105,6 +105,8 @@ fuentes:
   - "https://www.routledge.com/Children-of-the-New-Age-A-History-of-Spiritual-Practices-1st-Edition/Sutcliffe/p/book/9780415242998"
   - "https://press.uchicago.edu/ucp/books/book/chicago/E/bo5298906.html"
   - "https://www.jstor.org/stable/j.ctv287sdns"
+  - "https://www.rutgersuniversitypress.org/templeton-press/aliens-adored/9780813534763"
+  - "https://online.ucpress.edu/nr/article-abstract/14/2/14/70430/Extraterrestrial-Exegesis-The-Raelian-Movement-as"
 ---
 
 # Historia del estudio de las religiones
@@ -311,6 +313,12 @@ La [[teosofia|Teosofía]] en India se estudia a través de sus lecturas y de rel
 
 Los dos fallos Ballard esclarecen cuestiones jurídicas diferentes en el estudio de la [[yo-soy|Actividad «Yo Soy»]]. La historia de las prácticas de la [[new-age|Nueva Era]] se puede reconstruir mediante centros, programas y circuitos de publicación. [79, 80, 81, 82, 83]
 
+## E19.5 · Movimiento raeliano
+
+### Etnografía y exégesis en el estudio del raelismo
+
+Susan J. Palmer estudió la organización y las prácticas del [[raelismo|Movimiento raeliano]] mediante observación e investigación histórica. Eugene V. Gallagher examinó la función de las lecturas bíblicas. Ambos enfoques permiten seguir la aplicación ritual de ideas transmitidas en los libros de Raël. [84, 85]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -415,3 +423,5 @@ Los dos fallos Ballard esclarecen cuestiones jurídicas diferentes en el estudio
 81. [Steven J. Sutcliffe, Children of the New Age, Routledge](https://www.routledge.com/Children-of-the-New-Age-A-History-of-Spiritual-Practices-1st-Edition/Sutcliffe/p/book/9780415242998).
 82. [Jeffrey J. Kripal, Esalen: America and the Religion of No Religion, University of Chicago Press](https://press.uchicago.edu/ucp/books/book/chicago/E/bo5298906.html).
 83. [Ruth Prince y David Riches, The New Age in Glastonbury, JSTOR](https://www.jstor.org/stable/j.ctv287sdns).
+84. [Susan J. Palmer, Aliens Adored. Raël’s UFO Religion, Rutgers University Press](https://www.rutgersuniversitypress.org/templeton-press/aliens-adored/9780813534763).
+85. [Eugene V. Gallagher, Extraterrestrial Exegesis, Nova Religio](https://online.ucpress.edu/nr/article-abstract/14/2/14/70430/Extraterrestrial-Exegesis-The-Raelian-Movement-as).

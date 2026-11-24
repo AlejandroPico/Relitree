@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2253
+palabras: 2292
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -87,6 +87,8 @@ fuentes:
   - "https://www.saintgermainfoundation.org/the-violet-consuming-flame"
   - "https://www.jstor.org/stable/jj.18255037"
   - "https://agris.fao.org/search/en/providers/122535/records/65ddee8f63b8185d9ca5cd0a"
+  - "https://www.cdamm.org/articles/international-raelian-movement"
+  - "https://encyclopedia.ushmm.org/content/en/article/history-of-the-swastika"
 ---
 
 # Simbología religiosa comparada
@@ -289,6 +291,12 @@ El sello propio de la [[teosofia|Teosofía]] combina varios motivos anteriores y
 
 La llama violeta es un motivo devocional documentado en la [[yo-soy|Actividad «Yo Soy»]]. Las ondas de Acuario identifican editorialmente la ficha de [[new-age|Nueva Era]], en referencia al lenguaje astrológico utilizado en varias de sus publicaciones. [69, 70, 71, 72]
 
+## E19.5 · Movimiento raeliano
+
+### El hexagrama raeliano y la variante de 1992
+
+El [[raelismo|Movimiento raeliano]] usó un hexagrama con una esvástica central y difundió desde 1992 una variante con una espiral galáctica. La esvástica tiene usos religiosos anteriores a la apropiación nazi. El árbol utiliza una adaptación editorial de la espiral. [73, 74]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -376,3 +384,5 @@ La llama violeta es un motivo devocional documentado en la [[yo-soy|Actividad «
 70. [Saint Germain Foundation, �The Violet Consuming Flame�](https://www.saintgermainfoundation.org/the-violet-consuming-flame).
 71. [Wouter J. Hanegraaff, New Age Religion and Western Culture, JSTOR](https://www.jstor.org/stable/jj.18255037).
 72. [Marilyn Ferguson, The Aquarian Conspiracy, ficha del cat?logo AGRIS](https://agris.fao.org/search/en/providers/122535/records/65ddee8f63b8185d9ca5cd0a).
+73. [Robert P. Flaherty, International Raëlian Movement, Centre for the Critical Study of Apocalyptic and Millenarian Movements](https://www.cdamm.org/articles/international-raelian-movement).
+74. [United States Holocaust Memorial Museum, historia de la esvástica](https://encyclopedia.ushmm.org/content/en/article/history-of-the-swastika).

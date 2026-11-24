@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2482
+palabras: 2532
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -92,6 +92,10 @@ fuentes:
   - "https://www.jstor.org/stable/jj.18255037"
   - "https://www.routledge.com/Children-of-the-New-Age-A-History-of-Spiritual-Practices-1st-Edition/Sutcliffe/p/book/9780415242998"
   - "https://ead-pdfs.library.yale.edu/4482.pdf"
+  - "https://www.cdamm.org/articles/international-raelian-movement"
+  - "https://www.rael.org/wp-content/uploads/2019/07/ID_en.pdf"
+  - "https://www.rael.org/wp-content/uploads/2022/02/Intelligent_Design2_FRENCH.pdf"
+  - "https://online.ucpress.edu/nr/article-abstract/14/2/14/70430/Extraterrestrial-Exegesis-The-Raelian-Movement-as"
 ---
 
 # Textos sagrados del mundo comparados
@@ -308,6 +312,12 @@ En la [[teosofia|Teosofía]] moderna, los libros publicados por Blavatsky y las 
 
 La serie de Saint Germain conserva ediciones tempranas y materiales de instrucción de la [[yo-soy|Actividad «Yo Soy»]]. La [[new-age|Nueva Era]] se estudia con repertorios de libros, archivos y ediciones de procedencias distintas. Los papeles de Jane Roberts permiten distinguir registro y publicación en un caso de canalización. [71, 72, 73, 74, 75]
 
+## E19.5 · Movimiento raeliano
+
+### De los primeros libros franceses a la recopilación de Raël
+
+En el [[raelismo|Movimiento raeliano]], las obras francesas publicadas desde 1974 establecieron el relato de los encuentros y la lectura de pasajes bíblicos. La recopilación inglesa de 2005 incorporó traducciones de materiales de distintas ediciones. Sus fechas ayudan a distinguir la primera formulación de la forma bajo la que circula actualmente. [76, 77, 78, 79]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -399,3 +409,7 @@ La serie de Saint Germain conserva ediciones tempranas y materiales de instrucci
 73. [Wouter J. Hanegraaff, New Age Religion and Western Culture, JSTOR](https://www.jstor.org/stable/jj.18255037).
 74. [Steven J. Sutcliffe, Children of the New Age, Routledge](https://www.routledge.com/Children-of-the-New-Age-A-History-of-Spiritual-Practices-1st-Edition/Sutcliffe/p/book/9780415242998).
 75. [Yale University Library, inventario de los papeles de Jane Roberts](https://ead-pdfs.library.yale.edu/4482.pdf).
+76. [Robert P. Flaherty, International Raëlian Movement, Centre for the Critical Study of Apocalyptic and Millenarian Movements](https://www.cdamm.org/articles/international-raelian-movement).
+77. [Raël, Intelligent Design. Message from the Designers, edición del movimiento en inglés](https://www.rael.org/wp-content/uploads/2019/07/ID_en.pdf).
+78. [Raël, Le Livre qui dit la Vérité y otros escritos, recopilación francesa del movimiento](https://www.rael.org/wp-content/uploads/2022/02/Intelligent_Design2_FRENCH.pdf).
+79. [Eugene V. Gallagher, Extraterrestrial Exegesis, Nova Religio](https://online.ucpress.edu/nr/article-abstract/14/2/14/70430/Extraterrestrial-Exegesis-The-Raelian-Movement-as).

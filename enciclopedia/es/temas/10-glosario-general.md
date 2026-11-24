@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2400
+palabras: 2440
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -96,6 +96,9 @@ fuentes:
   - "https://www.saintgermainfoundation.com/system/files/2024-09/sg1004_Vol-04-Instruction.pdf"
   - "https://www.jstor.org/stable/jj.18255037"
   - "https://ead-pdfs.library.yale.edu/4482.pdf"
+  - "https://www.cdamm.org/articles/international-raelian-movement"
+  - "https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/"
+  - "https://www.jewishencyclopedia.com/articles/5704-elohim"
 ---
 
 # Glosario general
@@ -404,6 +407,12 @@ Mediumnidad designa la función que se atribuye a un intermediario en el [[espir
 
 En la [[yo-soy|Actividad «Yo Soy»]], decreto designa una práctica vocal de invocación y maestro ascendido identifica una figura de su doctrina. En algunos circuitos de la [[new-age|Nueva Era]], canalización se aplica a enseñanzas atribuidas a una entidad o fuente espiritual. [69, 70, 71, 72]
 
+## E19.5 · Movimiento raeliano
+
+### Elohim y transmisión del plan celular
+
+Elohim es una forma hebrea de uso bíblico. En el [[raelismo|Movimiento raeliano]] designa a los seres extraterrestres que la doctrina presenta como creadores. La transmisión del plan celular designa el rito por el que una persona se incorpora al movimiento. [73, 74, 75]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -499,3 +508,6 @@ En la [[yo-soy|Actividad «Yo Soy»]], decreto designa una práctica vocal de in
 70. [Saint Germain Press, Ascended Master Instruction](https://www.saintgermainfoundation.com/system/files/2024-09/sg1004_Vol-04-Instruction.pdf).
 71. [Wouter J. Hanegraaff, New Age Religion and Western Culture, JSTOR](https://www.jstor.org/stable/jj.18255037).
 72. [Yale University Library, inventario de los papeles de Jane Roberts](https://ead-pdfs.library.yale.edu/4482.pdf).
+73. [Robert P. Flaherty, International Raëlian Movement, Centre for the Critical Study of Apocalyptic and Millenarian Movements](https://www.cdamm.org/articles/international-raelian-movement).
+74. [Anna Kira Hippert, ficha sobre el movimiento, Religion Media Centre](https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/).
+75. [Jewish Encyclopedia, God: Names of God](https://www.jewishencyclopedia.com/articles/5704-elohim).

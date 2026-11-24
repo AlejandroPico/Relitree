@@ -5,12 +5,17 @@
   "fin": null,
   "tipo": "nmr",
   "importancia": 1,
-  "padres": [
-    {
-      "id": "new-age",
-      "relacion": "derivacion"
-    }
+  "padres": [],
+  "influencias": [
+    "new-age",
+    "cristianismo"
   ],
-  "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Espiral galáctica inspirada en el centro de la variante raeliana introducida en 1992",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://www.cdamm.org/articles/international-raelian-movement"
+  }
 }

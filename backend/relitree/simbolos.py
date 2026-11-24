@@ -1049,7 +1049,15 @@ def _():
     estrella = P("M63 14Q65 25 76 27Q65 29 63 40Q61 29 50 27Q61 25 63 14Z", 'fill="#1d1d1f" stroke="none"')
     return ondas + estrella
 
+@motivo("espiral_raeliana", "Espiral galáctica inspirada en el centro de la variante raeliana introducida en 1992")
+def _():
+    brazos = "".join(f'<g transform="rotate({angulo} 50 50)">' + P("M48 45C48 32 40 18 27 18") + "</g>" for angulo in range(0, 360, 60))
+    return brazos + '<circle cx="50" cy="50" r="4" />'
+
+
+
 ASIGNACION = {
+    'raelismo': 'espiral_raeliana',
     'yo-soy': 'llama_violeta_yo_soy',
     'new-age': 'acuario_nueva_era',
     'antroposofia': 'goetheanum',

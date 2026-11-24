@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2282
+palabras: 2329
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -99,6 +99,9 @@ fuentes:
   - "https://www.saintgermainfoundation.org/"
   - "https://www.pewresearch.org/short-reads/2018/10/01/new-age-beliefs-common-among-both-religious-and-nonreligious-americans/"
   - "https://www.pewresearch.org/religion/2018/05/29/attitudes-toward-spirituality-and-religion/"
+  - "https://www.cdamm.org/articles/international-raelian-movement"
+  - "https://www.rutgersuniversitypress.org/templeton-press/aliens-adored/9780813534763"
+  - "https://www.cambridge.org/core/books/abs/cambridge-companion-to-new-religious-movements/international-raelian-movement/949FCBF325CE621796EF1B19756571A6"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -311,6 +314,12 @@ Adyar, en Chennai, es sede histórica de una de las sociedades de la [[teosofia|
 
 Las fuentes de la [[yo-soy|Actividad «Yo Soy»]] sitúan centros y actos sin ofrecer aquí un recuento comparable de adeptos. La encuesta estadounidense de 2018 mide adhesión a creencias asociadas a la [[new-age|Nueva Era]], con un alcance distinto de la afiliación. [77, 78, 79, 80]
 
+## E19.5 · Movimiento raeliano
+
+### Raelianos en el circuito francófono y en Asia oriental
+
+Los estudios sobre el [[raelismo|Movimiento raeliano]] reconstruyen la actividad en Francia y Quebec y el papel de los grupos en Japón y Corea del Sur. Las cifras mundiales proceden de declaraciones de adhesión de fecha y cobertura diferentes. No se usan como datos censales en el árbol. [81, 82, 83]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -409,3 +418,6 @@ Las fuentes de la [[yo-soy|Actividad «Yo Soy»]] sitúan centros y actos sin of
 78. [Saint Germain Foundation, informaci?n institucional](https://www.saintgermainfoundation.org/).
 79. [Pew Research Center, creencias denominadas New Age en Estados Unidos (2018)](https://www.pewresearch.org/short-reads/2018/10/01/new-age-beliefs-common-among-both-religious-and-nonreligious-americans/).
 80. [Pew Research Center, encuesta sobre espiritualidad y religi?n en Europa occidental](https://www.pewresearch.org/religion/2018/05/29/attitudes-toward-spirituality-and-religion/).
+81. [Robert P. Flaherty, International Raëlian Movement, Centre for the Critical Study of Apocalyptic and Millenarian Movements](https://www.cdamm.org/articles/international-raelian-movement).
+82. [Susan J. Palmer, Aliens Adored. Raël’s UFO Religion, Rutgers University Press](https://www.rutgersuniversitypress.org/templeton-press/aliens-adored/9780813534763).
+83. [Susan J. Palmer y Bryan Sentes, The International Raëlian Movement, Cambridge University Press](https://www.cambridge.org/core/books/abs/cambridge-companion-to-new-religious-movements/international-raelian-movement/949FCBF325CE621796EF1B19756571A6).

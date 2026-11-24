@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.67**
+**Versión 1.7.68**
+
+[Entrega 19.5 de la fase E19](enciclopedia/PLAN.md#fase-e19--cristianismo--tradiciones-69). Movimiento raeliano. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
 [Entrega 19.4 de la fase E19](enciclopedia/PLAN.md#fase-e19--cristianismo--tradiciones-69). Actividad «Yo Soy», Nueva Era. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
