@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2110
+palabras: 2152
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -83,6 +83,10 @@ fuentes:
   - "https://academic.oup.com/reference/62338/reference-article-abstract/554177750"
   - "https://wwnorton.co.uk/books/9780393315561-god-s-chinese-son"
   - "https://www.penguinrandomhouse.com/books/131825/autumn-in-the-heavenly-kingdom-by-stephen-r-platt/9780307957597/"
+  - "https://www.nps.gov/places/sabbathday-lake-shaker-community.htm"
+  - "https://www.nps.gov/subjects/travelshaker/index.htm"
+  - "https://www.mainepublic.org/history/2026-11-03/one-of-three-remaining-shakers-has-died"
+  - "https://apnews.com/article/a2244e1780a23e7c889e611a7b59bfb9"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -271,6 +275,12 @@ La autoridad estadística de Filipinas registró a 2.806.524 personas de la pobl
 
 La organización de los Adoradores de Dios en Guangxi y la posterior capital en Tianjing sitúan al [[taiping|movimiento Taiping]] en varias regiones de la China del siglo XIX. La extensión del reino cambió durante la guerra y se representa con una fecha de referencia. [62, 63, 64]
 
+## E19.1 · Shakers
+
+### Sabbathday Lake y los pueblos históricos
+
+Sabbathday Lake, Maine, conserva una comunidad [[shakers|shaker]] activa. Tras el fallecimiento de Sister June Carpenter, Maine Public y Associated Press informaron en noviembre de 2026 de dos miembros. Es un recuento de la comunidad, con alcance distinto del mapa de pueblos históricos. [65, 66, 67, 68]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -353,3 +363,7 @@ La organización de los Adoradores de Dios en Guangxi y la posterior capital en 
 62. [Stephen R. Platt, «Taiping Civil War», Oxford Research Encyclopedia of Asian History](https://academic.oup.com/reference/62338/reference-article-abstract/554177750).
 63. [Jonathan D. Spence, God’s Chinese Son, W. W. Norton](https://wwnorton.co.uk/books/9780393315561-god-s-chinese-son).
 64. [Stephen R. Platt, Autumn in the Heavenly Kingdom, Knopf](https://www.penguinrandomhouse.com/books/131825/autumn-in-the-heavenly-kingdom-by-stephen-r-platt/9780307957597/).
+65. [National Park Service, Sabbathday Lake Shaker Community](https://www.nps.gov/places/sabbathday-lake-shaker-community.htm).
+66. [National Park Service, Travel the Shaker Historic Trail](https://www.nps.gov/subjects/travelshaker/index.htm).
+67. [Maine Public, fallecimiento de Sister June Carpenter y estado de la comunidad, noviembre de 2026](https://www.mainepublic.org/history/2026-11-03/one-of-three-remaining-shakers-has-died).
+68. [Associated Press, fallecimiento de Sister June Carpenter, noviembre de 2026](https://apnews.com/article/a2244e1780a23e7c889e611a7b59bfb9).

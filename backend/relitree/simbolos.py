@@ -1024,7 +1024,14 @@ def _():
 
 
 # ---- Asignación tradición → motivo -----------------------------------------------------
+@motivo("arbol_shaker", "Árbol de la Vida de Hannah Cohoon (Hancock Shaker Village, 1854), adaptación")
+def _():
+    copa = P("M17 55C14 48 18 41 25 38C21 32 27 25 34 25C35 18 43 14 50 18C57 14 65 18 66 25C73 25 79 32 75 38C82 41 86 48 83 55C88 63 81 69 72 68C68 74 57 71 50 65C43 71 32 74 28 68C19 69 12 63 17 55Z")
+    ramas = P("M50 87V36M50 65Q39 52 28 47M50 65Q61 52 72 47M50 51Q43 39 37 35M50 51Q57 39 63 35M37 87H63")
+    return copa + ramas
+
 ASIGNACION = {
+    'shakers': 'arbol_shaker',
     # Prehistoria
     "origen": "ocre", "afr-msa": "ocre", "levante-paleo": "sepultura", "eur-paleo": "mano", "sea-paleo": "mano",
     "asn-paleo": "venus", "aso-paleo": "cuentas", "sasia-pre": "ciervo", "natuf": "pilar_t", "anat-neo": "bucraneo",

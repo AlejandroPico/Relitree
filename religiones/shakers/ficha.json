@@ -12,5 +12,14 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Árbol de la Vida de Hannah Cohoon (Hancock Shaker Village, 1854), adaptación",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://commons.wikimedia.org/wiki/File:Tree_of_Life_-_Shaker_-_painted_by_Hannah_Cohoon.JPG"
+  },
+  "fieles": 2,
+  "fieles_fuente": "Maine Public y Associated Press, noviembre de 2026: dos miembros en Sabbathday Lake."
 }

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2065
+palabras: 2111
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -88,6 +88,9 @@ fuentes:
   - "https://academic.oup.com/edited-volume/62249/chapter-abstract/551419960"
   - "https://www.si.edu/object/taiping-rebellion-history-and-documents-franz-michael-collaboration-zhongli-zhang-translations%3Asiris_sil_832012"
   - "https://academic.oup.com/stanford-scholarship-online/book/19256"
+  - "https://yalebooks.yale.edu/book/9780300059335/the-shaker-experience-in-america/"
+  - "https://nysl.nysed.gov/msscfa/sc20330"
+  - "https://www.ubcpress.ca/gifts-of-power"
 ---
 
 # Historia del estudio de las religiones
@@ -270,6 +273,12 @@ Robert Reed documentó la expansión filipina e internacional de [[inc|Iglesia n
 
 La historia del [[taiping|Reino Celestial Taiping]] se apoya en traducciones bíblicas, documentos de gobierno, testimonios de la guerra y estudios sobre la reconstrucción. Cada corpus ofrece una perspectiva sobre el paso de una comunidad religiosa a un Estado que disputó la soberanía a los Qing. [63, 64, 65, 66]
 
+## E19.1 · Shakers
+
+### Archivos de familia, testimonios y cultura material
+
+Stephen J. Stein reconstruye la evolución de los [[shakers]] desde sus redes de fundación y sus pueblos. La edición de Humez de los escritos de Rebecca Cox Jackson ofrece acceso a la trayectoria de una predicadora negra y anciana shaker que organizó una familia en Filadelfia. [67, 68, 69]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -357,3 +366,6 @@ La historia del [[taiping|Reino Celestial Taiping]] se apoya en traducciones bí
 64. [«The Religious Program of the Heavenly Kingdom of Great Peace», Oxford University Press](https://academic.oup.com/edited-volume/62249/chapter-abstract/551419960).
 65. [Franz Michael y Chung-li Chang, The Taiping Rebellion: History and Documents, catálogo de la Smithsonian Institution](https://www.si.edu/object/taiping-rebellion-history-and-documents-franz-michael-collaboration-zhongli-zhang-translations%3Asiris_sil_832012).
 66. [Tobie Meyer-Fong, What Remains: Coming to Terms with Civil War in 19th Century China, Stanford University Press](https://academic.oup.com/stanford-scholarship-online/book/19256).
+67. [Stephen J. Stein, The Shaker Experience in America, Yale University Press](https://yalebooks.yale.edu/book/9780300059335/the-shaker-experience-in-america/).
+68. [New York State Library, cat�logo de la colecci�n shaker](https://nysl.nysed.gov/msscfa/sc20330).
+69. [Jean McMahon Humez, ed., Gifts of Power: The Writings of Rebecca Jackson](https://www.ubcpress.ca/gifts-of-power).

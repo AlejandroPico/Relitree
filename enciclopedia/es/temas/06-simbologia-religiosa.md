@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2106
+palabras: 2149
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -73,6 +73,9 @@ fuentes:
   - "https://publicaciones.banrepcultural.org/index.php/boletin_cultural/article/view/7529"
   - "https://www.si.edu/object/taiping-rebellion-history-and-documents-franz-michael-collaboration-zhongli-zhang-translations%3Asiris_sil_832012"
   - "https://hk.waranddefence.museum/en/web/mcd/cultural-relics-of-the-taiping-heavenly-kingdom.html"
+  - "https://hancockshakervillage.org/home/history/"
+  - "https://folkartmuseum.org/exhibitions/anything-but-simple-gift-drawings-and-the-shaker-aesthetic/"
+  - "https://www.nbmaa.org/shaker-gift-drawings-full"
 ---
 
 # Simbología religiosa comparada
@@ -251,6 +254,12 @@ Las casas de culto de [[inc|Iglesia ni Cristo]] identifican públicamente a la i
 
 Monedas y sellos del [[taiping|Reino Celestial Taiping]] conservan títulos e inscripciones vinculadas a su soberanía. Su función como objetos de gobierno explica la diferencia entre un sello para autenticar actos y una representación moderna de un estandarte. [57, 58]
 
+## E19.1 · Shakers
+
+### El Árbol de la Vida y los dibujos de dones
+
+El árbol de 1854 de Hannah Cohoon procede de la Era de las Manifestaciones de los [[shakers]]. El icono propio de Relitree adapta su motivo vegetal en silueta. La ficha principal conserva la reproducción de la obra con su autoría, fecha y procedencia. [59, 60, 61]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -324,3 +333,6 @@ Monedas y sellos del [[taiping|Reino Celestial Taiping]] conservan títulos e in
 56. [Tras la tierra prometida en la Amazonia, Boletín Cultural y Bibliográfico del Banco de la República](https://publicaciones.banrepcultural.org/index.php/boletin_cultural/article/view/7529).
 57. [Franz Michael y Chung-li Chang, The Taiping Rebellion: History and Documents, catálogo de la Smithsonian Institution](https://www.si.edu/object/taiping-rebellion-history-and-documents-franz-michael-collaboration-zhongli-zhang-translations%3Asiris_sil_832012).
 58. [Museo de la Guerra y la Defensa de Hong Kong, objetos del Reino Celestial Taiping](https://hk.waranddefence.museum/en/web/mcd/cultural-relics-of-the-taiping-heavenly-kingdom.html).
+59. [Hancock Shaker Village, Shaker History](https://hancockshakervillage.org/home/history/).
+60. [American Folk Art Museum, Anything but Simple: Gift Drawings and the Shaker Aesthetic](https://folkartmuseum.org/exhibitions/anything-but-simple-gift-drawings-and-the-shaker-aesthetic/).
+61. [New Britain Museum of American Art, Anything but Simple: Shaker Gift Drawings and the Women Who Made Them](https://www.nbmaa.org/shaker-gift-drawings-full).

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 1966
+palabras: 2004
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -73,6 +73,10 @@ fuentes:
   - "https://academic.oup.com/edited-volume/62249/chapter-abstract/551419960"
   - "https://www.si.edu/object/taiping-rebellion-history-and-documents-franz-michael-collaboration-zhongli-zhang-translations%3Asiris_sil_832012"
   - "https://journals.sagepub.com/doi/10.1177/23969393251343569"
+  - "https://yalebooks.yale.edu/book/9780300059335/the-shaker-experience-in-america/"
+  - "https://nysl.nysed.gov/msscfa/sc20330"
+  - "https://www.shakers.org/about-us/the-shakers/"
+  - "https://www.shakers.org/"
 ---
 
 # Calendarios y festividades del mundo
@@ -251,6 +255,12 @@ La fecha registral de 27 de julio de 1914 se conmemora en [[inc|Iglesia ni Crist
 
 En el [[taiping|Reino Celestial Taiping]] el séptimo día tenía carácter sagrado y el gobierno aplicó una nueva ordenación del tiempo civil. Los documentos pueden combinar era política, fecha mensual y referencias semanales. [56, 57, 58]
 
+## E19.1 · Shakers
+
+### Reunión dominical y tiempos de manifestación
+
+Entre los [[shakers]], la reunión dominical se distingue de los encuentros especiales al aire libre que algunas comunidades documentaron en el periodo de las manifestaciones. Los horarios de visita corresponden al pueblo y fecha indicados en cada fuente. [59, 60, 61, 62]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -323,3 +333,7 @@ En el [[taiping|Reino Celestial Taiping]] el séptimo día tenía carácter sagr
 56. [«The Religious Program of the Heavenly Kingdom of Great Peace», Oxford University Press](https://academic.oup.com/edited-volume/62249/chapter-abstract/551419960).
 57. [Franz Michael y Chung-li Chang, The Taiping Rebellion: History and Documents, catálogo de la Smithsonian Institution](https://www.si.edu/object/taiping-rebellion-history-and-documents-franz-michael-collaboration-zhongli-zhang-translations%3Asiris_sil_832012).
 58. [«Questioning ‘Linear Christianity versus Cyclical China’», International Bulletin of Mission Research](https://journals.sagepub.com/doi/10.1177/23969393251343569).
+59. [Stephen J. Stein, The Shaker Experience in America, Yale University Press](https://yalebooks.yale.edu/book/9780300059335/the-shaker-experience-in-america/).
+60. [New York State Library, cat�logo de la colecci�n shaker](https://nysl.nysed.gov/msscfa/sc20330).
+61. [Sabbathday Lake Shaker Village, The Shakers](https://www.shakers.org/about-us/the-shakers/).
+62. [Sabbathday Lake Shaker Village, visita a la comunidad](https://www.shakers.org/).

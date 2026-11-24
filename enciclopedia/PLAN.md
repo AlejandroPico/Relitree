@@ -357,18 +357,20 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 
 ## Fase E19 · Cristianismo · tradiciones (6/9)
 
-- Shakers (`shakers`)
-- Espiritualismo (`espiritualismo`)
-- Espiritismo (`espiritismo`)
-- Teosofía (`teosofia`)
-- Antroposofía (`antroposofia`)
-- Actividad «Yo Soy» (`yo-soy`)
-- Nueva Era (`new-age`)
-- Movimiento raeliano (`raelismo`)
-- Neochamanismo (`neochamanismo`)
-- Deísmo (`deismo`)
-- Culto del Ser Supremo (`ser-supremo`)
-- Religión de la Humanidad (`positivismo`)
+**Estado.** Publicadas las entregas 19.1–19.1. Última versión: 1.7.64. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
+
+- [x] 19.1 · [Shakers](es/religiones/shakers.md). 10.019 palabras de cuerpo y 11 figuras.
+- [ ] 19.2 · Espiritualismo (`espiritualismo`)
+- [ ] 19.2 · Espiritismo (`espiritismo`)
+- [ ] 19.3 · Teosofía (`teosofia`)
+- [ ] 19.3 · Antroposofía (`antroposofia`)
+- [ ] 19.4 · Actividad «Yo Soy» (`yo-soy`)
+- [ ] 19.4 · Nueva Era (`new-age`)
+- [ ] 19.5 · Movimiento raeliano (`raelismo`)
+- [ ] 19.6 · Neochamanismo (`neochamanismo`)
+- [ ] 19.7 · Deísmo (`deismo`)
+- [ ] 19.7 · Culto del Ser Supremo (`ser-supremo`)
+- [ ] 19.8 · Religión de la Humanidad (`positivismo`)
 
 ## Fase E20 · Cristianismo · tradiciones (7/9)
 

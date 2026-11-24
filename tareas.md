@@ -4,6 +4,10 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E19 · 19.1. [Shakers](enciclopedia/es/religiones/shakers.md). 10.019 palabras de cuerpo y 11 figuras. Versión 1.7.64.
+  - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.
+  - Auditoría inicial de 516 nodos: 313 símbolos propios, 161 heredados (44 cristianos), 38 genéricos y 4 compartidos. Se implantó el árbol shaker de Cohoon y el nuevo formato de figuras. Queda pendiente continuar la revisión de símbolos del resto del árbol.
+
 - [x] E18 · 18.6. [Reino Celestial Taiping](enciclopedia/es/religiones/taiping.md). Versión 1.7.63.
   - Se actualizaron los seis temas comparativos de E01 y se verificaron las figuras, las referencias y el recuento de cuerpo.
 

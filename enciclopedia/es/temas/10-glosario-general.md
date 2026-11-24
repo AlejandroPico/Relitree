@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2238
+palabras: 2282
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -81,6 +81,9 @@ fuentes:
   - "https://wwnorton.co.uk/books/9780393315561-god-s-chinese-son"
   - "https://academic.oup.com/edited-volume/62249/chapter-abstract/551419960"
   - "https://hk.waranddefence.museum/en/web/mcd/cultural-relics-of-the-taiping-heavenly-kingdom.html"
+  - "https://dl.tufts.edu/concern/pdfs/0c483w757"
+  - "https://nysl.nysed.gov/msscfa/sc20330"
+  - "https://folkartmuseum.org/exhibitions/anything-but-simple-gift-drawings-and-the-shaker-aesthetic/"
 ---
 
 # Glosario general
@@ -365,6 +368,12 @@ Restauración designa en [[inc|Iglesia ni Cristo]] su doctrina de restablecimien
 
 Taiping Tianguo es el nombre chino del [[taiping|Reino Celestial de la Gran Paz]]. Tianjing, Capital Celestial, fue el nombre que el reino dio a Nankín tras tomarla en 1853. [55, 56, 57]
 
+## E19.1 · Shakers
+
+### Familia shaker y dibujo de don
+
+La familia [[shakers|shaker]] era una unidad residencial y religiosa formada por creyentes, con funciones y grados de compromiso. En la Era de las Manifestaciones, un dibujo de don daba forma visible a un mensaje que su autora o autor atribuía a la inspiración espiritual. [58, 59, 60]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -445,3 +454,6 @@ Taiping Tianguo es el nombre chino del [[taiping|Reino Celestial de la Gran Paz]
 55. [Jonathan D. Spence, God’s Chinese Son, W. W. Norton](https://wwnorton.co.uk/books/9780393315561-god-s-chinese-son).
 56. [«The Religious Program of the Heavenly Kingdom of Great Peace», Oxford University Press](https://academic.oup.com/edited-volume/62249/chapter-abstract/551419960).
 57. [Museo de la Guerra y la Defensa de Hong Kong, objetos del Reino Celestial Taiping](https://hk.waranddefence.museum/en/web/mcd/cultural-relics-of-the-taiping-heavenly-kingdom.html).
+58. [Frederick W. Evans, Shakers: Compendium, 1859, Tufts Digital Library](https://dl.tufts.edu/concern/pdfs/0c483w757).
+59. [New York State Library, cat�logo de la colecci�n shaker](https://nysl.nysed.gov/msscfa/sc20330).
+60. [American Folk Art Museum, Anything but Simple: Gift Drawings and the Shaker Aesthetic](https://folkartmuseum.org/exhibitions/anything-but-simple-gift-drawings-and-the-shaker-aesthetic/).

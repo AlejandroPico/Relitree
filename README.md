@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.63**
+**Versión 1.7.64**
+
+[Entrega 19.1 de la fase E19](enciclopedia/PLAN.md#fase-e19--cristianismo--tradiciones-69). Shakers. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
 [Entrega 18.6 de la fase E18](enciclopedia/PLAN.md#fase-e18--cristianismo--tradiciones-59). Reino Celestial Taiping. Cada ficha incluye al menos 10.000 palabras de cuerpo y seis figuras acreditadas.
 

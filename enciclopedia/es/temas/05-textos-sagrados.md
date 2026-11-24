@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2306
+palabras: 2343
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -75,6 +75,9 @@ fuentes:
   - "https://www.si.edu/object/taiping-rebellion-history-and-documents-franz-michael-collaboration-zhongli-zhang-translations%3Asiris_sil_832012"
   - "https://journals.sagepub.com/doi/10.1177/20516770221109851"
   - "https://link.springer.com/book/10.1057/978-1-137-53728-7"
+  - "https://yalebooks.yale.edu/book/9780300059335/the-shaker-experience-in-america/"
+  - "https://dl.tufts.edu/concern/pdfs/0c483w757"
+  - "https://nysl.nysed.gov/msscfa/sc20330"
 ---
 
 # Textos sagrados del mundo comparados
@@ -267,6 +270,12 @@ En el [[adventismo|adventismo del séptimo día]], Daniel y Hebreos se ponen en 
 
 El [[taiping|Reino Celestial Taiping]] reeditó traducciones protestantes de la Biblia en chino. Los impresos permiten distinguir las traducciones previas, las revisiones de los editores y las anotaciones que expresaban la interpretación de la corte. [56, 57, 58]
 
+## E19.1 · Shakers
+
+### La Biblia y los testimonios de la segunda aparición
+
+Los [[shakers]] interpretaron la Biblia a la luz de la revelación continuada. Sus testimonios de los comienzos, el Compendio de 1859 y los cuadernos de cantos ofrecen tipos distintos de evidencia sobre la autoridad de los escritos. [59, 60, 61]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -341,3 +350,6 @@ El [[taiping|Reino Celestial Taiping]] reeditó traducciones protestantes de la 
 56. [Franz Michael y Chung-li Chang, The Taiping Rebellion: History and Documents, catálogo de la Smithsonian Institution](https://www.si.edu/object/taiping-rebellion-history-and-documents-franz-michael-collaboration-zhongli-zhang-translations%3Asiris_sil_832012).
 57. [«Taiping Ideology and the Rewriting of the Chinese Bible», Sage Journals](https://journals.sagepub.com/doi/10.1177/20516770221109851).
 58. [Carl S. Kilcourse, Taiping Theology, Palgrave Macmillan](https://link.springer.com/book/10.1057/978-1-137-53728-7).
+59. [Stephen J. Stein, The Shaker Experience in America, Yale University Press](https://yalebooks.yale.edu/book/9780300059335/the-shaker-experience-in-america/).
+60. [Frederick W. Evans, Shakers: Compendium, 1859, Tufts Digital Library](https://dl.tufts.edu/concern/pdfs/0c483w757).
+61. [New York State Library, cat�logo de la colecci�n shaker](https://nysl.nysed.gov/msscfa/sc20330).

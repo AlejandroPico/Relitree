@@ -198,8 +198,9 @@ def metadatos_articulo(cabecera: str, texto: str, ruta: Path, html: str = "") ->
                 cuerpo_html = html or a_html(texto, {})
             imagenes = set(re.findall(r'<img\b[^>]*\bsrc=["\\\']([^"\\\']+)["\\\']', cuerpo_html, re.I))
             figuras_svg = set(re.findall(r'(?is)<svg\b[^>]*>.*?</svg>', cuerpo_html))
-            if len(imagenes) + len(figuras_svg) < 6:
-                raise ValueError(f"{ruta}: se requieren al menos 6 imágenes o figuras distintas.")
+            minimo_figuras = 10 if int(numero_fase[1]) >= 19 else 6
+            if len(imagenes) + len(figuras_svg) < minimo_figuras:
+                raise ValueError(f"{ruta}: se requieren al menos {minimo_figuras} imágenes o figuras distintas.")
     bloque_fuentes = re.search(r'^fuentes:[ \t]*\n((?:[ \t]+-[ \t]+[^\n]+\n)*)', cabecera, re.M)
     fuentes = re.findall(r'^[ \t]+-[ \t]+(.+)$', bloque_fuentes[1], re.M) if bloque_fuentes else []
     ficha = json.loads(campo("ficha_resumen") or "{}")
