@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2292
+palabras: 2333
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -89,6 +89,9 @@ fuentes:
   - "https://agris.fao.org/search/en/providers/122535/records/65ddee8f63b8185d9ca5cd0a"
   - "https://www.cdamm.org/articles/international-raelian-movement"
   - "https://encyclopedia.ushmm.org/content/en/article/history-of-the-swastika"
+  - "https://www.shamanism.org/core-shamanism/"
+  - "https://www.bloomsbury.com/us/shamans-9781847250278/"
+  - "https://reference-global.com/book/9789176350249?tab=tableOfContents"
 ---
 
 # Simbología religiosa comparada
@@ -297,6 +300,12 @@ La llama violeta es un motivo devocional documentado en la [[yo-soy|Actividad «
 
 El [[raelismo|Movimiento raeliano]] usó un hexagrama con una esvástica central y difundió desde 1992 una variante con una espiral galáctica. La esvástica tiene usos religiosos anteriores a la apropiación nazi. El árbol utiliza una adaptación editorial de la espiral. [73, 74]
 
+## E19.6 · Neochamanismo
+
+### Tambores de taller y tambores de procedencia indígena
+
+La percusión ocupa un lugar destacado en los talleres de chamanismo esencial del [[neochamanismo|Neochamanismo]]. Los tambores rituales janti, mansi o de Tuva requieren atribución a tradiciones y piezas concretas. El icono editorial representa un tambor de marco con marcas de sonido. [75, 76, 77]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -386,3 +395,6 @@ El [[raelismo|Movimiento raeliano]] usó un hexagrama con una esvástica central
 72. [Marilyn Ferguson, The Aquarian Conspiracy, ficha del cat?logo AGRIS](https://agris.fao.org/search/en/providers/122535/records/65ddee8f63b8185d9ca5cd0a).
 73. [Robert P. Flaherty, International Raëlian Movement, Centre for the Critical Study of Apocalyptic and Millenarian Movements](https://www.cdamm.org/articles/international-raelian-movement).
 74. [United States Holocaust Memorial Museum, historia de la esvástica](https://encyclopedia.ushmm.org/content/en/article/history-of-the-swastika).
+75. [Foundation for Shamanic Studies, descripción de Core Shamanism](https://www.shamanism.org/core-shamanism/).
+76. [Ronald Hutton, Shamans: Siberian Spirituality and the Western Imagination, Bloomsbury](https://www.bloomsbury.com/us/shamans-9781847250278/).
+77. [Peter Jackson (ed.), Horizons of Shamanism, Stockholm University Press](https://reference-global.com/book/9789176350249?tab=tableOfContents).

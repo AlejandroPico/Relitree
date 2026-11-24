@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2178
+palabras: 2209
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -90,6 +90,9 @@ fuentes:
   - "https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/"
   - "https://raelcanada.org/raelian-celebrations-ceremonies/"
   - "https://visit.archives.gov/whats-on/explore-exhibits/atomic-bombing-hiroshima-and-nagasaki"
+  - "https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036"
+  - "https://archaeologydataservice.ac.uk/library/browse/details.xhtml?recordId=3100394&recordType=Journal"
+  - "https://www.english-heritage.org.uk/visit/places/stonehenge/things-to-do/solstice/Summer-Solstice-2026/"
 ---
 
 # Calendarios y festividades del mundo
@@ -298,6 +301,12 @@ La [[yo-soy|Actividad «Yo Soy»]] anuncia actos estivales en Mount Shasta City.
 
 El [[raelismo|Movimiento raeliano]] autoriza la transmisión del plan celular el primer domingo de abril y el 6 de agosto, el 7 de octubre y el 13 de diciembre. Las fechas vinculan un rito de entrada a la memoria del movimiento y, el 6 de agosto, al aniversario del bombardeo de Hiroshima. [73, 74, 75]
 
+## E19.6 · Neochamanismo
+
+### Círculos de práctica, solsticios y calendarios locales
+
+Las convocatorias del [[neochamanismo|Neochamanismo]] dependen de cada grupo. Las celebraciones contemporáneas en Stonehenge permiten estudiar fechas y condiciones de acceso en un lugar concreto, junto a prácticas neopaganas de distintos grupos. [76, 77, 78]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -387,3 +396,6 @@ El [[raelismo|Movimiento raeliano]] autoriza la transmisión del plan celular el
 73. [Anna Kira Hippert, ficha sobre el movimiento, Religion Media Centre](https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/).
 74. [Movimiento Raeliano Canadiense, Celebraciones y ceremonias](https://raelcanada.org/raelian-celebrations-ceremonies/).
 75. [National Archives Museum, documentos sobre Hiroshima y Nagasaki](https://visit.archives.gov/whats-on/explore-exhibits/atomic-bombing-hiroshima-and-nagasaki).
+76. [Robert J. Wallis, Shamans/Neo-Shamans. Routledge](https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036).
+77. [Jenny Blain y Robert J. Wallis, Sacred sites, contested rites/rights, Archaeology Data Service](https://archaeologydataservice.ac.uk/library/browse/details.xhtml?recordId=3100394&recordType=Journal).
+78. [English Heritage, información de acceso para el solsticio de verano en Stonehenge, 2026](https://www.english-heritage.org.uk/visit/places/stonehenge/things-to-do/solstice/Summer-Solstice-2026/).

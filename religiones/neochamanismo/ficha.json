@@ -5,21 +5,18 @@
   "fin": null,
   "tipo": "neo",
   "importancia": 1,
-  "padres": [
-    {
-      "id": "new-age",
-      "relacion": "derivacion"
-    }
-  ],
+  "padres": [],
   "influencias": [
+    "new-age",
     "amazonia",
     "siberia"
   ],
   "icono": {
     "archivo": "icono.svg",
     "fuente": "propio",
-    "motivo": "tambor y pluma del chamanismo moderno",
+    "motivo": "Tambor de marco con marcas de percusión, motivo editorial de los talleres de viaje chamánico",
     "licencia": "Dibujo original de Relitree",
-    "autor": "Relitree"
+    "autor": "Relitree",
+    "motivo_fuente": "https://www.shamanism.org/core-shamanism/"
   }
 }

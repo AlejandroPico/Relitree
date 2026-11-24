@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2275
+palabras: 2310
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -107,6 +107,9 @@ fuentes:
   - "https://www.jstor.org/stable/j.ctv287sdns"
   - "https://www.rutgersuniversitypress.org/templeton-press/aliens-adored/9780813534763"
   - "https://online.ucpress.edu/nr/article-abstract/14/2/14/70430/Extraterrestrial-Exegesis-The-Raelian-Movement-as"
+  - "https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036"
+  - "https://ci.nii.ac.jp/ncid/BA49771836"
+  - "https://www.bloomsbury.com/us/shamans-9781847250278/"
 ---
 
 # Historia del estudio de las religiones
@@ -319,6 +322,12 @@ Los dos fallos Ballard esclarecen cuestiones jurídicas diferentes en el estudio
 
 Susan J. Palmer estudió la organización y las prácticas del [[raelismo|Movimiento raeliano]] mediante observación e investigación histórica. Eugene V. Gallagher examinó la función de las lecturas bíblicas. Ambos enfoques permiten seguir la aplicación ritual de ideas transmitidas en los libros de Raël. [84, 85]
 
+## E19.6 · Neochamanismo
+
+### Del estudio de Siberia a la etnografía de grupos contemporáneos
+
+Ronald Hutton examinó la formación histórica de la categoría chamanismo. Galina Lindquist y Robert Wallis documentaron formas de práctica del [[neochamanismo|Neochamanismo]] en ámbitos contemporáneos, con atención a los contextos de transmisión y a monumentos prehistóricos. [86, 87, 88]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -425,3 +434,6 @@ Susan J. Palmer estudió la organización y las prácticas del [[raelismo|Movimi
 83. [Ruth Prince y David Riches, The New Age in Glastonbury, JSTOR](https://www.jstor.org/stable/j.ctv287sdns).
 84. [Susan J. Palmer, Aliens Adored. Raël’s UFO Religion, Rutgers University Press](https://www.rutgersuniversitypress.org/templeton-press/aliens-adored/9780813534763).
 85. [Eugene V. Gallagher, Extraterrestrial Exegesis, Nova Religio](https://online.ucpress.edu/nr/article-abstract/14/2/14/70430/Extraterrestrial-Exegesis-The-Raelian-Movement-as).
+86. [Robert J. Wallis, Shamans/Neo-Shamans. Routledge](https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036).
+87. [Galina Lindquist, Shamanic Performances on the Urban Scene: Neo-Shamanism in Contemporary Sweden, registro de la obra](https://ci.nii.ac.jp/ncid/BA49771836).
+88. [Ronald Hutton, Shamans: Siberian Spirituality and the Western Imagination, Bloomsbury](https://www.bloomsbury.com/us/shamans-9781847250278/).

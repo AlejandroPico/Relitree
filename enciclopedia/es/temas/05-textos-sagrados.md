@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2532
+palabras: 2575
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -96,6 +96,9 @@ fuentes:
   - "https://www.rael.org/wp-content/uploads/2019/07/ID_en.pdf"
   - "https://www.rael.org/wp-content/uploads/2022/02/Intelligent_Design2_FRENCH.pdf"
   - "https://online.ucpress.edu/nr/article-abstract/14/2/14/70430/Extraterrestrial-Exegesis-The-Raelian-Movement-as"
+  - "https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036"
+  - "https://www.shamanism.org/core-shamanism/"
+  - "https://www.shamanism.org/shop-online/book-way-of-the-shaman/"
 ---
 
 # Textos sagrados del mundo comparados
@@ -318,6 +321,12 @@ La serie de Saint Germain conserva ediciones tempranas y materiales de instrucci
 
 En el [[raelismo|Movimiento raeliano]], las obras francesas publicadas desde 1974 establecieron el relato de los encuentros y la lectura de pasajes bíblicos. La recopilación inglesa de 2005 incorporó traducciones de materiales de distintas ediciones. Sus fechas ayudan a distinguir la primera formulación de la forma bajo la que circula actualmente. [76, 77, 78, 79]
 
+## E19.6 · Neochamanismo
+
+### Cuadernos, manuales y transmisión oral
+
+En el [[neochamanismo|Neochamanismo]], The Way of the Shaman (1980) funciona como manual de una corriente, el chamanismo esencial de Michael Harner. Su relación con materiales etnográficos y prácticas orales se estudia con fuentes separadas. Otras redes contemporáneas tienen maestros, lecturas y archivos propios. [80, 81, 82]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -413,3 +422,6 @@ En el [[raelismo|Movimiento raeliano]], las obras francesas publicadas desde 197
 77. [Raël, Intelligent Design. Message from the Designers, edición del movimiento en inglés](https://www.rael.org/wp-content/uploads/2019/07/ID_en.pdf).
 78. [Raël, Le Livre qui dit la Vérité y otros escritos, recopilación francesa del movimiento](https://www.rael.org/wp-content/uploads/2022/02/Intelligent_Design2_FRENCH.pdf).
 79. [Eugene V. Gallagher, Extraterrestrial Exegesis, Nova Religio](https://online.ucpress.edu/nr/article-abstract/14/2/14/70430/Extraterrestrial-Exegesis-The-Raelian-Movement-as).
+80. [Robert J. Wallis, Shamans/Neo-Shamans. Routledge](https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036).
+81. [Foundation for Shamanic Studies, descripción de Core Shamanism](https://www.shamanism.org/core-shamanism/).
+82. [Michael Harner, The Way of the Shaman, ficha editorial en la Foundation for Shamanic Studies](https://www.shamanism.org/shop-online/book-way-of-the-shaman/).

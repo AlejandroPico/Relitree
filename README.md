@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.68**
+**Versión 1.7.69**
+
+[Entrega 19.6 de la fase E19](enciclopedia/PLAN.md#fase-e19--cristianismo--tradiciones-69). Neochamanismo. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
 [Entrega 19.5 de la fase E19](enciclopedia/PLAN.md#fase-e19--cristianismo--tradiciones-69). Movimiento raeliano. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 

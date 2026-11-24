@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2329
+palabras: 2363
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -102,6 +102,9 @@ fuentes:
   - "https://www.cdamm.org/articles/international-raelian-movement"
   - "https://www.rutgersuniversitypress.org/templeton-press/aliens-adored/9780813534763"
   - "https://www.cambridge.org/core/books/abs/cambridge-companion-to-new-religious-movements/international-raelian-movement/949FCBF325CE621796EF1B19756571A6"
+  - "https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036"
+  - "https://ci.nii.ac.jp/ncid/BA49771836"
+  - "https://www.shamanism.dk/about-scss"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -320,6 +323,12 @@ Las fuentes de la [[yo-soy|Actividad «Yo Soy»]] sitúan centros y actos sin of
 
 Los estudios sobre el [[raelismo|Movimiento raeliano]] reconstruyen la actividad en Francia y Quebec y el papel de los grupos en Japón y Corea del Sur. Las cifras mundiales proceden de declaraciones de adhesión de fecha y cobertura diferentes. No se usan como datos censales en el árbol. [81, 82, 83]
 
+## E19.6 · Neochamanismo
+
+### Redes de práctica en Norteamérica y Europa
+
+Investigaciones sobre el [[neochamanismo|Neochamanismo]] describen circuitos de talleres en Estados Unidos, Suecia y Gran Bretaña. El mapa registra actividad documentada en lugares y periodos determinados sin convertir participaciones en un recuento unitario de fieles. [84, 85, 86]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -421,3 +430,6 @@ Los estudios sobre el [[raelismo|Movimiento raeliano]] reconstruyen la actividad
 81. [Robert P. Flaherty, International Raëlian Movement, Centre for the Critical Study of Apocalyptic and Millenarian Movements](https://www.cdamm.org/articles/international-raelian-movement).
 82. [Susan J. Palmer, Aliens Adored. Raël’s UFO Religion, Rutgers University Press](https://www.rutgersuniversitypress.org/templeton-press/aliens-adored/9780813534763).
 83. [Susan J. Palmer y Bryan Sentes, The International Raëlian Movement, Cambridge University Press](https://www.cambridge.org/core/books/abs/cambridge-companion-to-new-religious-movements/international-raelian-movement/949FCBF325CE621796EF1B19756571A6).
+84. [Robert J. Wallis, Shamans/Neo-Shamans. Routledge](https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036).
+85. [Galina Lindquist, Shamanic Performances on the Urban Scene: Neo-Shamanism in Contemporary Sweden, registro de la obra](https://ci.nii.ac.jp/ncid/BA49771836).
+86. [Scandinavian Center for Shamanic Studies, historia institucional](https://www.shamanism.dk/about-scss).

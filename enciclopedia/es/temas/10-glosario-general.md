@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2440
+palabras: 2472
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -99,6 +99,9 @@ fuentes:
   - "https://www.cdamm.org/articles/international-raelian-movement"
   - "https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/"
   - "https://www.jewishencyclopedia.com/articles/5704-elohim"
+  - "https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036"
+  - "https://www.shamanism.org/core-shamanism/"
+  - "https://www.shamanism.org/shop-online/book-way-of-the-shaman/"
 ---
 
 # Glosario general
@@ -413,6 +416,12 @@ En la [[yo-soy|Actividad «Yo Soy»]], decreto designa una práctica vocal de in
 
 Elohim es una forma hebrea de uso bíblico. En el [[raelismo|Movimiento raeliano]] designa a los seres extraterrestres que la doctrina presenta como creadores. La transmisión del plan celular designa el rito por el que una persona se incorpora al movimiento. [73, 74, 75]
 
+## E19.6 · Neochamanismo
+
+### Neochamanismo y chamanismo esencial
+
+El [[neochamanismo|Neochamanismo]] agrupa prácticas modernas de orígenes diversos. El chamanismo esencial, en inglés core shamanism, es el método de Michael Harner que selecciona y enseña ciertos procedimientos que su escuela considera interculturales. [76, 77, 78]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -511,3 +520,6 @@ Elohim es una forma hebrea de uso bíblico. En el [[raelismo|Movimiento raeliano
 73. [Robert P. Flaherty, International Raëlian Movement, Centre for the Critical Study of Apocalyptic and Millenarian Movements](https://www.cdamm.org/articles/international-raelian-movement).
 74. [Anna Kira Hippert, ficha sobre el movimiento, Religion Media Centre](https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/).
 75. [Jewish Encyclopedia, God: Names of God](https://www.jewishencyclopedia.com/articles/5704-elohim).
+76. [Robert J. Wallis, Shamans/Neo-Shamans. Routledge](https://www.routledge.com/ShamansNeo-Shamans-Ecstasies-Alternative-Archaeologies-and-Contempor/Wallis/p/book/9780415302036).
+77. [Foundation for Shamanic Studies, descripción de Core Shamanism](https://www.shamanism.org/core-shamanism/).
+78. [Michael Harner, The Way of the Shaman, ficha editorial en la Foundation for Shamanic Studies](https://www.shamanism.org/shop-online/book-way-of-the-shaman/).

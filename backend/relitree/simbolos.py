@@ -1056,7 +1056,17 @@ def _():
 
 
 
+@motivo("tambor_con_pulsos", "Tambor de marco con marcas de percusión, motivo editorial de los talleres de viaje chamánico")
+def _():
+    marco = '<circle cx="46" cy="54" r="27"/><circle cx="46" cy="54" r="20" stroke-width="2.5"/>'
+    pulsos = P("M61 19Q68 15 72 23M73 14Q84 15 85 26M83 9Q95 13 95 25", 'stroke-width="4"')
+    mazo = P("M79 49L61 70M77 47Q81 42 86 46Q90 50 86 54L82 57Z")
+    return marco + pulsos + mazo
+
+
+
 ASIGNACION = {
+    'neochamanismo': 'tambor_con_pulsos',
     'raelismo': 'espiral_raeliana',
     'yo-soy': 'llama_violeta_yo_soy',
     'new-age': 'acuario_nueva_era',
