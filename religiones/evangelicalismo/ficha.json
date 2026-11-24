@@ -5,15 +5,19 @@
   "fin": null,
   "tipo": "mon",
   "importancia": 4,
-  "padres": [
-    {
-      "id": "anglicanismo",
-      "relacion": "derivacion"
-    }
-  ],
+  "padres": [],
   "influencias": [
+    "anglicanismo",
     "pietismo",
-    "puritanismo"
+    "puritanismo",
+    "moravos"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Libro abierto y ondas de la predicación de los avivamientos, dibujo editorial",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://www.cambridge.org/core/journals/church-history/article/abs/great-awakening-as-artifact-george-whitefield-and-the-construction-of-intercolonial-revival-17391745/2DBC970424AEEDF0C72DCD5A27B3208B"
+  }
 }

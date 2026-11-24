@@ -12,5 +12,12 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Cuadernos de The Fundamentals en referencia a la serie de 1910–1915",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://commons.wikimedia.org/wiki/File:The_Fundamentals_v1_(title_page).jpg"
+  }
 }

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2558
+palabras: 2590
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -106,6 +106,9 @@ fuentes:
   - "https://archives-parlementaires.persee.fr/prt/ac04b560-29b8-4ac7-857c-1d255b96b4f8"
   - "https://plato.stanford.edu/entries/comte/"
   - "https://www.stephenhicks.org/wp-content/uploads/2024/05/ComteAuguste-Catechism-of-Positive-Religion-I-V.pdf"
+  - "https://academic.oup.com/reference/62420/reference-article-abstract/571528233"
+  - "https://ferede.es/quienes-somos/presentacion-historia/"
+  - "https://academic.oup.com/book/38935/chapter-abstract/338118852"
 ---
 
 # Glosario general
@@ -438,6 +441,12 @@ En la historia del [[deismo|Deísmo]], la religión natural identifica creencias
 
 El Gran Ser de la [[positivismo|Religión de la Humanidad]] es la humanidad considerada según la continuidad de las generaciones y sus contribuciones. La supervivencia subjetiva designa la persistencia de los muertos en el recuerdo y la actividad de quienes viven. [81, 82]
 
+## E20.1 · Evangelicalismo, Fundamentalismo cristiano
+
+### Evangélico y fundamentalista
+
+[[evangelicalismo|Evangélico]] puede designar una corriente histórica protestante o emplearse en castellano para una afiliación protestante amplia. [[fundamentalismo|Fundamentalista]] adquirió sentido histórico específico en las controversias del protestantismo estadounidense a comienzos del siglo XX. [83, 84, 85]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -543,3 +552,6 @@ El Gran Ser de la [[positivismo|Religión de la Humanidad]] es la humanidad cons
 80. [Convención Nacional, decreto del 18 de floréal del año II](https://archives-parlementaires.persee.fr/prt/ac04b560-29b8-4ac7-857c-1d255b96b4f8).
 81. [Michel Bourdeau, Auguste Comte, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/comte/).
 82. [Auguste Comte, Catechism of Positive Religion, traducción de Richard Congreve](https://www.stephenhicks.org/wp-content/uploads/2024/05/ComteAuguste-Catechism-of-Positive-Religion-I-V.pdf).
+83. [Oxford Research Encyclopedia of Religion, Evangelicalism](https://academic.oup.com/reference/62420/reference-article-abstract/571528233).
+84. [Federación de Entidades Religiosas Evangélicas de España, historia institucional](https://ferede.es/quienes-somos/presentacion-historia/).
+85. [George M. Marsden, Fundamentalism and the Cultural Crisis, 1919–1920](https://academic.oup.com/book/38935/chapter-abstract/338118852).

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2451
+palabras: 2489
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -113,6 +113,9 @@ fuentes:
   - "https://heritage.humanists.uk/church-of-humanity/"
   - "https://atom-museurepublica.museus.gov.br/downloads/movimento-positivista.pdf"
   - "https://dialnet.unirioja.es/descarga/articulo/10187195.pdf"
+  - "https://www.pewresearch.org/religious-landscape-study/2014/11/13/religion-in-latin-america/"
+  - "https://www.pewresearch.org/religion/2025/02/26/appendix-b-classification-of-protestant-denominations/"
+  - "https://academic.oup.com/book/38935"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -349,6 +352,12 @@ Los textos del [[deismo|Deísmo]] circularon por Inglaterra, Europa continental 
 
 La [[positivismo|Religión de la Humanidad]] tuvo lugares de reunión documentados en París y Londres, y templos en ciudades brasileñas como Río de Janeiro y Porto Alegre. Las fechas de las fundaciones y el registro de los edificios identifican implantaciones históricas, con alcance distinto del de un censo de afiliación. [91, 92, 93, 94]
 
+## E20.1 · Evangelicalismo, Fundamentalismo cristiano
+
+### Afiliación, autodescripción e implantación
+
+Para el [[evangelicalismo|Evangelicalismo]], las clasificaciones de Pew en Estados Unidos y América Latina tienen definiciones y ámbitos propios. En el [[fundamentalismo|Fundamentalismo cristiano]], la presencia histórica se puede rastrear mediante conferencias, seminarios y publicaciones ligadas a fechas y lugares. [95, 96, 97]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -461,3 +470,6 @@ La [[positivismo|Religión de la Humanidad]] tuvo lugares de reunión documentad
 92. [Humanist Heritage, Church of Humanity](https://heritage.humanists.uk/church-of-humanity/).
 93. [Museu da República, fondo histórico Movimento Positivista](https://atom-museurepublica.museus.gov.br/downloads/movimento-positivista.pdf).
 94. [Paulo Ricardo Pezat, A capela positivista de Porto Alegre](https://dialnet.unirioja.es/descarga/articulo/10187195.pdf).
+95. [Pew Research Center, Religion in Latin America, encuesta de 2014](https://www.pewresearch.org/religious-landscape-study/2014/11/13/religion-in-latin-america/).
+96. [Pew Research Center, clasificación de denominaciones protestantes en Estados Unidos](https://www.pewresearch.org/religion/2025/02/26/appendix-b-classification-of-protestant-denominations/).
+97. [George M. Marsden, Fundamentalism and American Culture](https://academic.oup.com/book/38935).

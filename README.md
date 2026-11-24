@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.71**
+**Versión 1.7.72**
+
+[Entrega 20.1 de la fase E20](enciclopedia/PLAN.md#fase-e20--cristianismo--tradiciones-79). Evangelicalismo, Fundamentalismo cristiano. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
 [Entrega 19.8 de la fase E19](enciclopedia/PLAN.md#fase-e19--cristianismo--tradiciones-69). Religión de la Humanidad. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 

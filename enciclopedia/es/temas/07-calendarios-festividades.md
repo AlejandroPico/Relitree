@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2309
+palabras: 2341
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -99,6 +99,8 @@ fuentes:
   - "https://plato.stanford.edu/entries/comte/"
   - "https://www.cambridge.org/core/books/abs/anthem-companion-to-auguste-comte/calendrier-positiviste-ou-tableau-concret-de-la-preparation-humaine-and-culte-abstrait-de-lhumanite-ou-celebration-systematique-de-la-sociabilite-finale/A7AB29502608C806DB1A05B0907A3AB7"
   - "https://www.socpos.org/?p=339"
+  - "https://lausanne.org/content/lausanne-1974-documents"
+  - "https://academic.oup.com/book/38935"
 ---
 
 # Calendarios y festividades del mundo
@@ -325,6 +327,12 @@ El [[ser-supremo|Culto del Ser Supremo]] celebró su fiesta principal el 20 de p
 
 El calendario de la [[positivismo|Religión de la Humanidad]] organiza trece meses de veintiocho días y añade una conmemoración de los muertos. Contempla un día complementario en los bisiestos. Los nombres de sus meses representan contribuciones o periodos históricos elegidos por Comte. [82, 83, 84]
 
+## E20.1 · Evangelicalismo, Fundamentalismo cristiano
+
+### Convocatorias, conferencias y calendarios confesionales
+
+Lausana de 1974 y los encuentros bíblicos estadounidenses son hitos fechados de redes del [[evangelicalismo|Evangelicalismo]] y del [[fundamentalismo|Fundamentalismo cristiano]]. Sus fechas permiten seguir convocatorias históricas. Las observancias ordinarias dependen de cada iglesia. [85, 86]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -423,3 +431,5 @@ El calendario de la [[positivismo|Religión de la Humanidad]] organiza trece mes
 82. [Michel Bourdeau, Auguste Comte, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/comte/).
 83. [The Anthem Companion to Auguste Comte, Calendrier positiviste y Culte abstrait de l’Humanité](https://www.cambridge.org/core/books/abs/anthem-companion-to-auguste-comte/calendrier-positiviste-ou-tableau-concret-de-la-preparation-humaine-and-culte-abstrait-de-lhumanite-ou-celebration-systematique-de-la-sociabilite-finale/A7AB29502608C806DB1A05B0907A3AB7).
 84. [Positivist Society, The Positivist Calendar](https://www.socpos.org/?p=339).
+85. [Lausanne Movement, actas y documentos de 1974](https://lausanne.org/content/lausanne-1974-documents).
+86. [George M. Marsden, Fundamentalism and American Culture](https://academic.oup.com/book/38935).

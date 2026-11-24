@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2429
+palabras: 2464
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -98,6 +98,8 @@ fuentes:
   - "https://www.stephenhicks.org/wp-content/uploads/2024/05/ComteAuguste-Catechism-of-Positive-Religion-I-V.pdf"
   - "https://www.canal-u.tv/chaines/culturegnum/avec-auguste-comte-a-la-chapelle-de-l-humanite"
   - "https://templodahumanidade.org.br/a-religiao-da-humanidade/a-igreja-positivista-do-brasil/"
+  - "https://www.cambridge.org/core/journals/church-history/article/abs/great-awakening-as-artifact-george-whitefield-and-the-construction-of-intercolonial-revival-17391745/2DBC970424AEEDF0C72DCD5A27B3208B"
+  - "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp63772"
 ---
 
 # Simbología religiosa comparada
@@ -324,6 +326,12 @@ El reloj del [[deismo|Deísmo]] remite a la analogía del diseño popularizada p
 
 El programa visual de la rue Payenne en París permite situar el uso de una figura femenina en la [[positivismo|Religión de la Humanidad]]. Su lectura se relaciona con la memoria de Clotilde de Vaux, la representación del Gran Ser y la procedencia de la capilla vinculada a los positivistas brasileños. [81, 82, 83]
 
+## E20.1 · Evangelicalismo, Fundamentalismo cristiano
+
+### Libro de predicación y cuadernos doctrinales
+
+Los nodos de [[evangelicalismo|Evangelicalismo]] y [[fundamentalismo|Fundamentalismo cristiano]] incorporan motivos editoriales. El primero alude al libro y a la predicación y el segundo a los cuadernos de The Fundamentals, cuya portada conserva un referente de época. [84, 85]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -422,3 +430,5 @@ El programa visual de la rue Payenne en París permite situar el uso de una figu
 81. [Auguste Comte, Catechism of Positive Religion, traducción de Richard Congreve](https://www.stephenhicks.org/wp-content/uploads/2024/05/ComteAuguste-Catechism-of-Positive-Religion-I-V.pdf).
 82. [David Labreure, Avec Auguste Comte, à la chapelle de l’Humanité, Canal-U](https://www.canal-u.tv/chaines/culturegnum/avec-auguste-comte-a-la-chapelle-de-l-humanite).
 83. [Templo da Humanidade, historia de la Igreja Positivista do Brasil](https://templodahumanidade.org.br/a-religiao-da-humanidade/a-igreja-positivista-do-brasil/).
+84. [Frank Lambert, The Great Awakening as Artifact](https://www.cambridge.org/core/journals/church-history/article/abs/great-awakening-as-artifact-george-whitefield-and-the-construction-of-intercolonial-revival-17391745/2DBC970424AEEDF0C72DCD5A27B3208B).
+85. [Universidad de Pensilvania, ediciones digitalizadas de The Fundamentals](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp63772).

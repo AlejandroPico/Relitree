@@ -1084,7 +1084,25 @@ def _():
 
 
 
+@motivo("libro_voz_avivamiento", "Libro abierto y ondas de la predicación de los avivamientos, dibujo editorial")
+def _():
+    libro = P("M50 79C38 69 27 68 15 70V43C28 40 41 44 50 52C59 44 72 40 85 43V70C73 68 62 69 50 79ZM50 52V79")
+    voz = P("M43 35Q50 30 57 35M35 27Q50 15 65 27M28 19Q50 3 72 19")
+    return libro + voz
+
+
+@motivo("cuadernos_fundamentals", "Cuadernos de The Fundamentals en referencia a la serie de 1910–1915")
+def _():
+    fondo = P("M25 23H70V18H78V76H73M30 76V83H78")
+    tapa = P("M20 21H68V77H20ZM30 32H58M30 40H58M30 50H53M30 62H47")
+    return fondo + tapa
+
+
+
+
 ASIGNACION = {
+    'evangelicalismo': 'libro_voz_avivamiento',
+    'fundamentalismo': 'cuadernos_fundamentals',
     'positivismo': 'gran_ser_materno',
     'deismo': 'reloj',
     'ser-supremo': 'montana_prairial',

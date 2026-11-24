@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2665
+palabras: 2699
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -105,6 +105,9 @@ fuentes:
   - "https://plato.stanford.edu/entries/comte/"
   - "https://www.stephenhicks.org/wp-content/uploads/2024/05/ComteAuguste-Catechism-of-Positive-Religion-I-V.pdf"
   - "https://heritage.humanists.uk/richard-congreve/"
+  - "https://www.perlego.com/book/1614135/evangelicalism-in-modern-britain-a-history-from-the-1730s-to-the-1980s-pdf"
+  - "https://academic.oup.com/book/38935/chapter-abstract/338118661"
+  - "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp63772"
 ---
 
 # Textos sagrados del mundo comparados
@@ -345,6 +348,12 @@ El [[deismo|Deísmo]] histórico dejó tratados, diálogos y réplicas. En Tinda
 
 En la [[positivismo|Religión de la Humanidad]], el Catecismo positivista de 1852 dispone la enseñanza en trece conversaciones. Su traducción inglesa por Richard Congreve permite seguir cambios de vocabulario y de público. [86, 87, 88]
 
+## E20.1 · Evangelicalismo, Fundamentalismo cristiano
+
+### Biblia, lectura y controversia doctrinal
+
+En el [[evangelicalismo|Evangelicalismo]], la lectura y la predicación bíblicas forman parte de redes de conversión y misión. Los cuadernos The Fundamentals del [[fundamentalismo|Fundamentalismo cristiano]] documentan un debate posterior sobre inspiración, interpretación y autoridad eclesiástica. [89, 90, 91]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -449,3 +458,6 @@ En la [[positivismo|Religión de la Humanidad]], el Catecismo positivista de 185
 86. [Michel Bourdeau, Auguste Comte, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/comte/).
 87. [Auguste Comte, Catechism of Positive Religion, traducción de Richard Congreve](https://www.stephenhicks.org/wp-content/uploads/2024/05/ComteAuguste-Catechism-of-Positive-Religion-I-V.pdf).
 88. [Humanist Heritage, Richard Congreve (1818–1899)](https://heritage.humanists.uk/richard-congreve/).
+89. [David W. Bebbington, Evangelicalism in Modern Britain, estudio histórico](https://www.perlego.com/book/1614135/evangelicalism-in-modern-britain-a-history-from-the-1730s-to-the-1980s-pdf).
+90. [George M. Marsden, The Fundamentals](https://academic.oup.com/book/38935/chapter-abstract/338118661).
+91. [Universidad de Pensilvania, ediciones digitalizadas de The Fundamentals](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp63772).

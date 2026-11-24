@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2397
+palabras: 2426
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -116,6 +116,9 @@ fuentes:
   - "https://plato.stanford.edu/entries/comte/"
   - "https://periodicos.ufpel.edu.br/index.php/HistRev/article/download/11453/7238/"
   - "https://dialnet.unirioja.es/descarga/articulo/10187195.pdf"
+  - "https://www.perlego.com/book/1614135/evangelicalism-in-modern-britain-a-history-from-the-1730s-to-the-1980s-pdf"
+  - "https://www.cambridge.org/core/journals/church-history/article/abs/great-awakening-as-artifact-george-whitefield-and-the-construction-of-intercolonial-revival-17391745/2DBC970424AEEDF0C72DCD5A27B3208B"
+  - "https://academic.oup.com/book/38935"
 ---
 
 # Historia del estudio de las religiones
@@ -346,6 +349,12 @@ Las réplicas de Leland permiten seguir la clasificación polémica de los autor
 
 La síntesis de Bourdeau sitúa la [[positivismo|Religión de la Humanidad]] dentro de la trayectoria de Comte. Pezat estudia publicaciones de la Iglesia brasileña y permite examinar qué cambios se producen al seguir las actividades de un grupo regional concreto. [92, 93, 94]
 
+## E20.1 · Evangelicalismo, Fundamentalismo cristiano
+
+### De los avivamientos a la controversia institucional
+
+Bebbington estudió rasgos del [[evangelicalismo|Evangelicalismo]] británico y Lambert la circulación de noticias del Gran Despertar. Marsden sitúa el [[fundamentalismo|Fundamentalismo cristiano]] dentro de las controversias protestantes estadounidenses de su tiempo. [95, 96, 97]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -461,3 +470,6 @@ La síntesis de Bourdeau sitúa la [[positivismo|Religión de la Humanidad]] den
 92. [Michel Bourdeau, Auguste Comte, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/comte/).
 93. [Paulo Ricardo Pezat, publicaciones de la Iglesia Positivista del Brasil, História em Revista](https://periodicos.ufpel.edu.br/index.php/HistRev/article/download/11453/7238/).
 94. [Paulo Ricardo Pezat, A capela positivista de Porto Alegre](https://dialnet.unirioja.es/descarga/articulo/10187195.pdf).
+95. [David W. Bebbington, Evangelicalism in Modern Britain, estudio histórico](https://www.perlego.com/book/1614135/evangelicalism-in-modern-britain-a-history-from-the-1730s-to-the-1980s-pdf).
+96. [Frank Lambert, The Great Awakening as Artifact](https://www.cambridge.org/core/journals/church-history/article/abs/great-awakening-as-artifact-george-whitefield-and-the-construction-of-intercolonial-revival-17391745/2DBC970424AEEDF0C72DCD5A27B3208B).
+97. [George M. Marsden, Fundamentalism and American Culture](https://academic.oup.com/book/38935).
