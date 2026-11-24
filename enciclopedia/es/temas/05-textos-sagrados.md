@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2699
+palabras: 2735
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -108,6 +108,9 @@ fuentes:
   - "https://www.perlego.com/book/1614135/evangelicalism-in-modern-britain-a-history-from-the-1730s-to-the-1980s-pdf"
   - "https://academic.oup.com/book/38935/chapter-abstract/338118661"
   - "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp63772"
+  - "https://www.gcah.org/history/timelines/"
+  - "https://indwes.whdl.org/en/browse/resources/7816"
+  - "https://wesley.nnu.edu/john-wesley/a-plain-account-of-christian-perfection/"
 ---
 
 # Textos sagrados del mundo comparados
@@ -354,6 +357,12 @@ En la [[positivismo|Religión de la Humanidad]], el Catecismo positivista de 185
 
 En el [[evangelicalismo|Evangelicalismo]], la lectura y la predicación bíblicas forman parte de redes de conversión y misión. Los cuadernos The Fundamentals del [[fundamentalismo|Fundamentalismo cristiano]] documentan un debate posterior sobre inspiración, interpretación y autoridad eclesiástica. [89, 90, 91]
 
+## E20.2 · Metodismo, Movimiento de santidad
+
+### Lectura, himnos y enseñanza sobre la santificación
+
+El [[metodismo|Metodismo]] emplea la Biblia en predicación y canto. En el [[santidad|Movimiento de santidad]], los textos de Wesley y de Phoebe Palmer permiten seguir usos particulares de ese repertorio bíblico en la enseñanza de la santificación. [92, 93, 94]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -461,3 +470,6 @@ En el [[evangelicalismo|Evangelicalismo]], la lectura y la predicación bíblica
 89. [David W. Bebbington, Evangelicalism in Modern Britain, estudio histórico](https://www.perlego.com/book/1614135/evangelicalism-in-modern-britain-a-history-from-the-1730s-to-the-1980s-pdf).
 90. [George M. Marsden, The Fundamentals](https://academic.oup.com/book/38935/chapter-abstract/338118661).
 91. [Universidad de Pensilvania, ediciones digitalizadas de The Fundamentals](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp63772).
+92. [General Commission on Archives and History, cronologías metodistas](https://www.gcah.org/history/timelines/).
+93. [Phoebe Palmer, The Way of Holiness, Wesleyan Holiness Digital Library](https://indwes.whdl.org/en/browse/resources/7816).
+94. [John Wesley, A Plain Account of Christian Perfection, Wesley Center](https://wesley.nnu.edu/john-wesley/a-plain-account-of-christian-perfection/).

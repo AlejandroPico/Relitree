@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2426
+palabras: 2462
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -119,6 +119,9 @@ fuentes:
   - "https://www.perlego.com/book/1614135/evangelicalism-in-modern-britain-a-history-from-the-1730s-to-the-1980s-pdf"
   - "https://www.cambridge.org/core/journals/church-history/article/abs/great-awakening-as-artifact-george-whitefield-and-the-construction-of-intercolonial-revival-17391745/2DBC970424AEEDF0C72DCD5A27B3208B"
   - "https://academic.oup.com/book/38935"
+  - "https://www.methodist.org.uk/about/history/"
+  - "https://indwes.whdl.org/en/browse/resources/7816"
+  - "https://nazarene.org/historical-statement/"
 ---
 
 # Historia del estudio de las religiones
@@ -355,6 +358,12 @@ La síntesis de Bourdeau sitúa la [[positivismo|Religión de la Humanidad]] den
 
 Bebbington estudió rasgos del [[evangelicalismo|Evangelicalismo]] británico y Lambert la circulación de noticias del Gran Despertar. Marsden sitúa el [[fundamentalismo|Fundamentalismo cristiano]] dentro de las controversias protestantes estadounidenses de su tiempo. [95, 96, 97]
 
+## E20.2 · Metodismo, Movimiento de santidad
+
+### Circuitos, publicaciones y archivos de iglesia
+
+Las actas y los diarios ayudan a reconstruir los circuitos del [[metodismo|Metodismo]]. Las publicaciones y las actas de unión del [[santidad|Movimiento de santidad]] documentan cómo una red de reuniones se convirtió en iglesias con distintos gobiernos. [98, 99, 100]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -473,3 +482,6 @@ Bebbington estudió rasgos del [[evangelicalismo|Evangelicalismo]] británico y 
 95. [David W. Bebbington, Evangelicalism in Modern Britain, estudio histórico](https://www.perlego.com/book/1614135/evangelicalism-in-modern-britain-a-history-from-the-1730s-to-the-1980s-pdf).
 96. [Frank Lambert, The Great Awakening as Artifact](https://www.cambridge.org/core/journals/church-history/article/abs/great-awakening-as-artifact-george-whitefield-and-the-construction-of-intercolonial-revival-17391745/2DBC970424AEEDF0C72DCD5A27B3208B).
 97. [George M. Marsden, Fundamentalism and American Culture](https://academic.oup.com/book/38935).
+98. [The Methodist Church, History and Heritage](https://www.methodist.org.uk/about/history/).
+99. [Phoebe Palmer, The Way of Holiness, Wesleyan Holiness Digital Library](https://indwes.whdl.org/en/browse/resources/7816).
+100. [Church of the Nazarene, reseña histórica institucional](https://nazarene.org/historical-statement/).

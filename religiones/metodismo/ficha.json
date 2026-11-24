@@ -12,7 +12,12 @@
     }
   ],
   "influencias": [],
-  "icono": null,
-  "fieles": 46000000,
-  "fieles_fuente": "Wikipedia, List of Christian denominations by number of members (con el movimiento de santidad)"
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Tres capillas enlazadas por un circuito de predicación, dibujo editorial",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://www.methodistheritage.org.uk/methodist-history/history-of-methodism/"
+  }
 }

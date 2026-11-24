@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2341
+palabras: 2369
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -101,6 +101,9 @@ fuentes:
   - "https://www.socpos.org/?p=339"
   - "https://lausanne.org/content/lausanne-1974-documents"
   - "https://academic.oup.com/book/38935"
+  - "https://www.methodist.org.uk/about/history/"
+  - "https://discipline.wesleyan.org//wiki/National_Holiness_Association"
+  - "https://www.umc.org/en/content/ocean-groves-great-auditorium"
 ---
 
 # Calendarios y festividades del mundo
@@ -333,6 +336,12 @@ El calendario de la [[positivismo|Religión de la Humanidad]] organiza trece mes
 
 Lausana de 1974 y los encuentros bíblicos estadounidenses son hitos fechados de redes del [[evangelicalismo|Evangelicalismo]] y del [[fundamentalismo|Fundamentalismo cristiano]]. Sus fechas permiten seguir convocatorias históricas. Las observancias ordinarias dependen de cada iglesia. [85, 86]
 
+## E20.2 · Metodismo, Movimiento de santidad
+
+### Aldersgate y reuniones de santidad
+
+La memoria de Aldersgate preserva un episodio fechado del [[metodismo|Metodismo]]. Los campamentos del [[santidad|Movimiento de santidad]] siguieron calendarios de convocatoria que se pueden cotejar por lugar y año. [87, 88, 89]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -433,3 +442,6 @@ Lausana de 1974 y los encuentros bíblicos estadounidenses son hitos fechados de
 84. [Positivist Society, The Positivist Calendar](https://www.socpos.org/?p=339).
 85. [Lausanne Movement, actas y documentos de 1974](https://lausanne.org/content/lausanne-1974-documents).
 86. [George M. Marsden, Fundamentalism and American Culture](https://academic.oup.com/book/38935).
+87. [The Methodist Church, History and Heritage](https://www.methodist.org.uk/about/history/).
+88. [The Wesleyan Church, National Holiness Association](https://discipline.wesleyan.org//wiki/National_Holiness_Association).
+89. [United Methodist Church, Ocean Grove’s Great Auditorium](https://www.umc.org/en/content/ocean-groves-great-auditorium).

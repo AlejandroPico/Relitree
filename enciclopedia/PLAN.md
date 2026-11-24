@@ -374,12 +374,12 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 
 ## Fase E20 · Cristianismo · tradiciones (7/9)
 
-**Estado.** Publicada la entrega 20.1. Última versión: 1.7.72. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
+**Estado.** Publicadas las entregas 20.1–20.2. Última versión: 1.7.73. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
 - [x] 20.1 · [Evangelicalismo](es/religiones/evangelicalismo.md). 10.034 palabras de cuerpo y 10 figuras.
 - [x] 20.1 · [Fundamentalismo cristiano](es/religiones/fundamentalismo.md). 10.018 palabras de cuerpo y 10 figuras.
-- [ ] 20.2 · Metodismo (`metodismo`)
-- [ ] 20.2 · Movimiento de santidad (`santidad`)
+- [x] 20.2 · [Metodismo](es/religiones/metodismo.md). 10.032 palabras de cuerpo y 10 figuras.
+- [x] 20.2 · [Movimiento de santidad](es/religiones/santidad.md). 10.017 palabras de cuerpo y 10 figuras.
 - [ ] 20.3 · Pentecostalismo (`pentecostalismo`)
 - [ ] 20.3 · Iglesias sionistas africanas (`zion-cc`)
 - La Luz del Mundo (`luz-mundo`)

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2590
+palabras: 2624
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -109,6 +109,9 @@ fuentes:
   - "https://academic.oup.com/reference/62420/reference-article-abstract/571528233"
   - "https://ferede.es/quienes-somos/presentacion-historia/"
   - "https://academic.oup.com/book/38935/chapter-abstract/338118852"
+  - "https://www.methodist.org.uk/about/history/"
+  - "https://apnazarene.org/resources/manual/resources/2017-Manual.pdf"
+  - "https://wesley.nnu.edu/john-wesley/a-plain-account-of-christian-perfection/"
 ---
 
 # Glosario general
@@ -447,6 +450,12 @@ El Gran Ser de la [[positivismo|Religión de la Humanidad]] es la humanidad cons
 
 [[evangelicalismo|Evangélico]] puede designar una corriente histórica protestante o emplearse en castellano para una afiliación protestante amplia. [[fundamentalismo|Fundamentalista]] adquirió sentido histórico específico en las controversias del protestantismo estadounidense a comienzos del siglo XX. [83, 84, 85]
 
+## E20.2 · Metodismo, Movimiento de santidad
+
+### Conexión, circuito y entera santificación
+
+En el [[metodismo|Metodismo]], un circuito reúne lugares atendidos por una organización de predicación. En el [[santidad|Movimiento de santidad]], entera santificación designa una formulación acerca de la obra de la gracia en la vida cristiana. [86, 87, 88]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -555,3 +564,6 @@ El Gran Ser de la [[positivismo|Religión de la Humanidad]] es la humanidad cons
 83. [Oxford Research Encyclopedia of Religion, Evangelicalism](https://academic.oup.com/reference/62420/reference-article-abstract/571528233).
 84. [Federación de Entidades Religiosas Evangélicas de España, historia institucional](https://ferede.es/quienes-somos/presentacion-historia/).
 85. [George M. Marsden, Fundamentalism and the Cultural Crisis, 1919–1920](https://academic.oup.com/book/38935/chapter-abstract/338118852).
+86. [The Methodist Church, History and Heritage](https://www.methodist.org.uk/about/history/).
+87. [Church of the Nazarene, Manual, declaración histórica](https://apnazarene.org/resources/manual/resources/2017-Manual.pdf).
+88. [John Wesley, A Plain Account of Christian Perfection, Wesley Center](https://wesley.nnu.edu/john-wesley/a-plain-account-of-christian-perfection/).

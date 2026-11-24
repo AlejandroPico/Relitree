@@ -1100,7 +1100,22 @@ def _():
 
 
 
+@motivo("circuito_metodista", "Tres capillas enlazadas por un circuito de predicación, dibujo editorial")
+def _():
+    capillas = P("M14 41L25 31L36 41V53H14ZM20 53V45H29V53M64 42L75 32L86 42V54H64ZM70 54V46H79V54M39 62L50 52L61 62V74H39ZM45 74V66H54V74")
+    circuito = P("M34 29Q50 17 67 29M84 58Q78 75 63 78M37 78Q21 75 16 58")
+    return capillas + circuito
+
+
+@motivo("altar_santidad", "Altar de la consagración en los escritos de Phoebe Palmer, dibujo editorial")
+def _():
+    altar = P("M23 56H77V64H23ZM30 64V80M70 64V80M28 80H72M36 56V47H64V56")
+    ofrenda = P("M39 44Q40 34 50 28Q60 34 61 44M50 24V17M31 30L26 26M69 30L74 26")
+    return altar + ofrenda
+
 ASIGNACION = {
+    'metodismo': 'circuito_metodista',
+    'santidad': 'altar_santidad',
     'evangelicalismo': 'libro_voz_avivamiento',
     'fundamentalismo': 'cuadernos_fundamentals',
     'positivismo': 'gran_ser_materno',
