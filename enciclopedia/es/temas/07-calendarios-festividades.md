@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2699
+palabras: 2775
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -130,6 +130,11 @@ fuentes:
   - "https://en.unitarius.org/beliefs-values/"
   - "https://www.unitarian.org.uk/your-special-event/celebrations/"
   - "https://worshipweb.uua.org/worshipweb/c/11/i/5d1e1769-12c7-413b-b171-c8aea6db94bc/story-norbert-capeks-flower-ceremony"
+  - "https://humanists.international/what-is-humanism/world-humanist-day/"
+  - "https://humanlight.org/"
+  - "https://academic.oup.com/edited-volume/28021/chapter-abstract/211830983"
+  - "https://www.umc.org/en/content/articles-of-religion"
+  - "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-16-the-means-of-grace/"
 ---
 
 # Calendarios y festividades del mundo
@@ -414,6 +419,16 @@ En la [[unificacion|Iglesia de la Unificación]] se recuerda el matrimonio de lo
 
 La Iglesia Unitaria Húngara celebra la comunión en Navidad, Pascua, Pentecostés y la acción de gracias otoñal. También conmemora la libertad religiosa el 13 de enero. En el [[unitarismo]] de herencia pluralista, la ceremonia de las flores desarrollada en Praga en 1923 se celebra en la fecha que decide cada congregación. [113, 114, 115]
 
+## E21.4 · Humanismo secular, Arminianismo
+
+### Día Mundial del Humanismo y HumanLight
+
+El Día Mundial del Humanismo se celebra el 21 de junio en organizaciones del [[humanismo|humanismo secular]]. HumanLight es una celebración secular que sus organizadores sitúan el 23 de diciembre. El programa depende del grupo y del año. [116, 117]
+
+### Calendario cristiano y medios de gracia
+
+El [[arminianismo]] se incorporó a iglesias con calendarios cristianos propios. Wesley trató la oración, la lectura de la Escritura y la Cena como medios de gracia. La práctica de cada comunidad se documenta mediante su liturgia y su calendario. [118, 119, 120]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -543,3 +558,8 @@ La Iglesia Unitaria Húngara celebra la comunión en Navidad, Pascua, Pentecost�
 113. [Iglesia Unitaria Húngara, creencias, culto, celebraciones y ritos](https://en.unitarius.org/beliefs-values/).
 114. [The Unitarians, celebraciones y ritos de paso en Gran Bretaña](https://www.unitarian.org.uk/your-special-event/celebrations/).
 115. [UUA WorshipWeb, Norbert Čapek y la ceremonia de las flores](https://worshipweb.uua.org/worshipweb/c/11/i/5d1e1769-12c7-413b-b171-c8aea6db94bc/story-norbert-capeks-flower-ceremony).
+116. [Humanists International, Día Mundial del Humanismo](https://humanists.international/what-is-humanism/world-humanist-day/).
+117. [HumanLight, presentación y fecha de la celebración](https://humanlight.org/).
+118. [Arminian, Remonstrant, and Early Methodist Theologies, Oxford Academic](https://academic.oup.com/edited-volume/28021/chapter-abstract/211830983).
+119. [Iglesia Metodista Unida, artículos de religión de la Iglesia metodista](https://www.umc.org/en/content/articles-of-religion).
+120. [John Wesley, sermón The Means of Grace, Wesley Center Online](https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-16-the-means-of-grace/).

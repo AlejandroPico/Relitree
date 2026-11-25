@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 3092
+palabras: 3174
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -141,6 +141,15 @@ fuentes:
   - "https://research.gold.ac.uk/31248/1/Racovian_Catechism_paper_x_History_ds%20edits%20AH%20DL%20WITHOUT%20FIGURES.pdf"
   - "https://hollisarchives.lib.harvard.edu/catalog/div00480_div00480c00028"
   - "https://en.unitarius.org/unitarian-catechism/"
+  - "https://americanhumanist.org/humanism/humanist-manifesto-i/"
+  - "https://americanhumanist.org/humanism/humanist-manifesto-ii/"
+  - "https://americanhumanist.org/humanism/humanist-manifesto-iii/"
+  - "https://humanists.international/policy/amsterdam-declaration-1952/"
+  - "https://humanists.international/policy/amsterdam-declaration-2002/"
+  - "https://humanists.international/policy/declaration-of-modern-humanism/"
+  - "https://wesley.nnu.edu/arminianism/the-works-of-james-arminius/volume-1/arminius-theological-sentiments/"
+  - "https://arminiusinstituut.remonstranten.nl/wp-content/uploads/sites/32/2017/08/Remonstrantie-Orginal-Act-English.pdf"
+  - "https://www.rca.org/about/theology/creeds-and-confessions/canons-of-dort/"
 ---
 
 # Textos sagrados del mundo comparados
@@ -439,6 +448,16 @@ La [[unificacion|Iglesia de la Unificación]] lee el Génesis y el Nuevo Testame
 
 En el [[unitarismo]], el Catecismo Racoviano explica las creencias de los Hermanos Polacos. El sermón de Channing de 1819 argumenta a favor de una interpretación unitaria de la Biblia. El catecismo actual de la Iglesia Unitaria Húngara tiene su propio uso en la enseñanza y el culto. [122, 123, 124]
 
+## E21.4 · Humanismo secular, Arminianismo
+
+### Los manifiestos y las declaraciones humanistas
+
+El [[humanismo|humanismo secular]] formula principios en manifiestos y declaraciones revisables. Los textos de 1933, 1973 y 2003 pertenecen a la historia estadounidense. Las declaraciones de Ámsterdam de 1952, 2002 y 2022 se elaboraron en el ámbito del humanismo internacional. [125, 126, 127, 128, 129, 130]
+
+### Biblia, Remonstrancia y Cánones de Dordrecht
+
+En el [[arminianismo]], la Biblia es el texto de referencia interpretado en la Declaración de Arminio y en la Remonstrancia de 1610. La petición presenta cinco artículos doctrinales. Los Cánones de Dordrecht exponen el juicio de la asamblea reformada que examinó la controversia. [131, 132, 133]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -579,3 +598,12 @@ En el [[unitarismo]], el Catecismo Racoviano explica las creencias de los Herman
 122. [Ariel Hessayon y Diego Lucci, The Supposed Burning of the Racovian Catechism, repositorio de Goldsmiths](https://research.gold.ac.uk/31248/1/Racovian_Catechism_paper_x_History_ds%20edits%20AH%20DL%20WITHOUT%20FIGURES.pdf).
 123. [Harvard Divinity School Library, manuscrito Unitarian Christianity de William Ellery Channing (1819)](https://hollisarchives.lib.harvard.edu/catalog/div00480_div00480c00028).
 124. [Iglesia Unitaria Húngara, edición del catecismo unitario](https://en.unitarius.org/unitarian-catechism/).
+125. [American Humanist Association, Manifiesto humanista de 1933](https://americanhumanist.org/humanism/humanist-manifesto-i/).
+126. [American Humanist Association, Manifiesto humanista II (1973)](https://americanhumanist.org/humanism/humanist-manifesto-ii/).
+127. [American Humanist Association, Humanism and Its Aspirations (2003)](https://americanhumanist.org/humanism/humanist-manifesto-iii/).
+128. [Humanists International, Declaración de Ámsterdam de 1952](https://humanists.international/policy/amsterdam-declaration-1952/).
+129. [Humanists International, Declaración de Ámsterdam de 2002](https://humanists.international/policy/amsterdam-declaration-2002/).
+130. [Humanists International, Declaración del Humanismo Moderno de 2022](https://humanists.international/policy/declaration-of-modern-humanism/).
+131. [Jacobo Arminio, Declaración de pareceres de 1608, edición inglesa de Wesley Center Online](https://wesley.nnu.edu/arminianism/the-works-of-james-arminius/volume-1/arminius-theological-sentiments/).
+132. [Instituto Arminio de la Hermandad Remonstrante, traducción inglesa del acta original de la Remonstrancia](https://arminiusinstituut.remonstranten.nl/wp-content/uploads/sites/32/2017/08/Remonstrantie-Orginal-Act-English.pdf).
+133. [Reformed Church in America, texto de los Cánones de Dordrecht](https://www.rca.org/about/theology/creeds-and-confessions/canons-of-dort/).

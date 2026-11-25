@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2869
+palabras: 2948
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -146,6 +146,13 @@ fuentes:
   - "https://secure.uua.org/certification-report/2026/"
   - "https://en.unitarius.org/organization-structure/"
   - "https://ispmn.gov.ro/storage/app/media/ISPMN_WP-74%2003-02.pdf"
+  - "https://www.pewresearch.org/religion/2025/06/09/religiously-unaffiliated-population-change/"
+  - "https://www.nrscotland.gov.uk/publications/vital-events-reference-tables-2024/"
+  - "https://humanists.international/about/our-members/list/"
+  - "https://www.remonstranten.nl/engels/"
+  - "https://academic.oup.com/edited-volume/28021/chapter-abstract/211830983"
+  - "https://www.ivpress.net/arminian-theology-ebook"
+  - "https://evangelicalarminians.org/statement-of-faith/"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -440,6 +447,16 @@ La [[unificacion|Iglesia de la Unificación]] se fundó en Corea y desarrolló c
 
 El censo rumano de 2021 permite estudiar la implantación territorial del [[unitarismo]], especialmente en Transilvania. La Iglesia Unitaria Húngara ofrece un recuento de su propia membresía y la UUA contabiliza las congregaciones y comunidades a las que presta servicio. Los tres documentos miden realidades diferentes. [124, 125, 126, 127]
 
+## E21.4 · Humanismo secular, Arminianismo
+
+### Afiliación, organizaciones y ceremonias
+
+El movimiento del [[humanismo|humanismo secular]] se puede seguir por directorios y programas. En Escocia se registraron 8.142 bodas humanistas en 2024. Los estudios de población sin afiliación religiosa miden una categoría más amplia y emplean sus propios criterios. [128, 129, 130]
+
+### Hermandad neerlandesa y afinidad arminiana
+
+La Hermandad Remonstrante tiene continuidad institucional en los Países Bajos. El [[arminianismo]] también designa posiciones teológicas presentes en tradiciones con historias y afiliaciones propias. Los directorios de iglesias y los documentos de doctrina permiten reconocer aspectos distintos de esta difusión. [131, 132, 133, 134]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -585,3 +602,10 @@ El censo rumano de 2021 permite estudiar la implantación territorial del [[unit
 125. [Unitarian Universalist Association, informe de certificación de congregaciones de 2026](https://secure.uua.org/certification-report/2026/).
 126. [Iglesia Unitaria Húngara, organización, territorio y membresía declarada](https://en.unitarius.org/organization-structure/).
 127. [Instituto para el Estudio de los Problemas de las Minorías Nacionales de Rumanía, análisis territorial de la religión en el censo de 2021](https://ispmn.gov.ro/storage/app/media/ISPMN_WP-74%2003-02.pdf).
+128. [Pew Research Center, cambios en la población sin afiliación religiosa de 2010 a 2020](https://www.pewresearch.org/religion/2025/06/09/religiously-unaffiliated-population-change/).
+129. [National Records of Scotland, estadísticas de acontecimientos vitales de 2024](https://www.nrscotland.gov.uk/publications/vital-events-reference-tables-2024/).
+130. [Humanists International, directorio de miembros y asociados](https://humanists.international/about/our-members/list/).
+131. [Hermandad Remonstrante, presentación institucional en inglés](https://www.remonstranten.nl/engels/).
+132. [Arminian, Remonstrant, and Early Methodist Theologies, Oxford Academic](https://academic.oup.com/edited-volume/28021/chapter-abstract/211830983).
+133. [Roger E. Olson, Arminian Theology: Myths and Realities, InterVarsity Press](https://www.ivpress.net/arminian-theology-ebook).
+134. [Society of Evangelical Arminians, declaración de fe](https://evangelicalarminians.org/statement-of-faith/).

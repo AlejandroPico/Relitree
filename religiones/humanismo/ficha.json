@@ -12,5 +12,12 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Figura con los brazos alzados, inspirada en el motivo humanista Happy Human",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://heritage.humanists.uk/object/the-happy-human/"
+  }
 }

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2950
+palabras: 3037
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -142,6 +142,14 @@ fuentes:
   - "https://plato.stanford.edu/entries/trinity/unitarianism.html"
   - "https://guides.library.harvard.edu/c.php?g=253864&p=10485840"
   - "https://uudux.org/wp-content/uploads/2024/09/Article-II-Purposes-and-Covenant_Final-as-of-GA-2024.pdf"
+  - "https://secularhumanism.org/a-secular-humanist-declaration/"
+  - "https://humanists.international/policy/declaration-of-modern-humanism/"
+  - "https://www.pewresearch.org/religion/2025/06/09/religiously-unaffiliated-population-change/"
+  - "https://plato.stanford.edu/entries/atheism-agnosticism/"
+  - "https://wesley.nnu.edu/arminianism/the-works-of-james-arminius/volume-1/arminius-theological-sentiments/"
+  - "https://arminiusinstituut.remonstranten.nl/wp-content/uploads/sites/32/2017/08/Remonstrantie-Orginal-Act-English.pdf"
+  - "https://academic.oup.com/edited-volume/28021/chapter-abstract/211830983"
+  - "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-85-on-working-out-our-own-salvation/"
 ---
 
 # Glosario general
@@ -532,6 +540,16 @@ En la [[unificacion|Iglesia de la Unificación]], Bendición designa un rito mat
 
 El [[unitarismo]] cristiano afirma la unidad de Dios y discute la doctrina trinitaria. El universalismo histórico afirma la salvación universal. Unitarismo universalista designa la tradición asociativa nacida de la unión de dos organizaciones estadounidenses en 1961 y desarrollada después en múltiples comunidades. [115, 116, 117, 118]
 
+## E21.4 · Humanismo secular, Arminianismo
+
+### Humanismo secular, ateísmo y no afiliación
+
+El [[humanismo|humanismo secular]] propone orientar la vida por la investigación y la deliberación ética. Ateísmo y agnosticismo expresan posiciones sobre la existencia de dioses o sobre el conocimiento posible al respecto. La no afiliación reúne respuestas sobre pertenencia religiosa según una fuente determinada. [119, 120, 121, 122]
+
+### Remonstrancia, gracia y perseverancia
+
+En el [[arminianismo]], Remonstrancia designa la petición neerlandesa de 1610. La gracia precede y sostiene la respuesta del creyente. Perseverancia alude a la continuidad en la fe. El quinto artículo dejó abierta para estudio ulterior la posibilidad de que un creyente se apartara definitivamente. [123, 124, 125, 126]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -673,3 +691,11 @@ El [[unitarismo]] cristiano afirma la unidad de Dios y discute la doctrina trini
 116. [Dale Tuggy, unitarismo y controversias sobre la Trinidad, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/trinity/unitarianism.html).
 117. [Harvard Divinity School Library, documentación de la unión unitaria y universalista en 1961](https://guides.library.harvard.edu/c.php?g=253864&p=10485840).
 118. [Unitarian Universalist Association, artículo II aprobado en la Asamblea General de 2024](https://uudux.org/wp-content/uploads/2024/09/Article-II-Purposes-and-Covenant_Final-as-of-GA-2024.pdf).
+119. [Council for Secular Humanism, Declaración humanista secular de 1980](https://secularhumanism.org/a-secular-humanist-declaration/).
+120. [Humanists International, Declaración del Humanismo Moderno de 2022](https://humanists.international/policy/declaration-of-modern-humanism/).
+121. [Pew Research Center, cambios en la población sin afiliación religiosa de 2010 a 2020](https://www.pewresearch.org/religion/2025/06/09/religiously-unaffiliated-population-change/).
+122. [Stanford Encyclopedia of Philosophy, ateísmo y agnosticismo](https://plato.stanford.edu/entries/atheism-agnosticism/).
+123. [Jacobo Arminio, Declaración de pareceres de 1608, edición inglesa de Wesley Center Online](https://wesley.nnu.edu/arminianism/the-works-of-james-arminius/volume-1/arminius-theological-sentiments/).
+124. [Instituto Arminio de la Hermandad Remonstrante, traducción inglesa del acta original de la Remonstrancia](https://arminiusinstituut.remonstranten.nl/wp-content/uploads/sites/32/2017/08/Remonstrantie-Orginal-Act-English.pdf).
+125. [Arminian, Remonstrant, and Early Methodist Theologies, Oxford Academic](https://academic.oup.com/edited-volume/28021/chapter-abstract/211830983).
+126. [John Wesley, sermón On Working Out Our Own Salvation, Wesley Center Online](https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-85-on-working-out-our-own-salvation/).

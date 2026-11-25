@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2812
+palabras: 2885
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -159,6 +159,16 @@ fuentes:
   - "https://research.gold.ac.uk/31248/1/Racovian_Catechism_paper_x_History_ds%20edits%20AH%20DL%20WITHOUT%20FIGURES.pdf"
   - "https://guides.library.harvard.edu/c.php?g=253864&p=10485840"
   - "https://library.hds.harvard.edu/collections/unitarian-universalist/organizations/archival-records-of-national-organization"
+  - "https://heritage.humanists.uk/the-union-of-ethical-societies/"
+  - "https://americanhumanist.org/humanism/humanist-manifesto-i/"
+  - "https://www.pewresearch.org/religion/2025/06/09/religiously-unaffiliated-population-change/"
+  - "https://heritage.humanists.uk/humanist-ceremonies/"
+  - "https://heritage.humanists.uk/the-ethical-movement/"
+  - "https://wesley.nnu.edu/arminianism/the-works-of-james-arminius/volume-1/arminius-theological-sentiments/"
+  - "https://arminiusinstituut.remonstranten.nl/wp-content/uploads/sites/32/2017/08/Remonstrantie-Orginal-Act-English.pdf"
+  - "https://www.rca.org/about/theology/creeds-and-confessions/canons-of-dort/"
+  - "https://www.degruyterbrill.com/serial/vurasod-b/html"
+  - "https://books.google.com/books/about/The_Arminian_Confession_of_1621.html?id=I3LZAAAAMAAJ"
 ---
 
 # Historia del estudio de las religiones
@@ -447,6 +457,16 @@ Eileen Barker siguió a personas que se acercaron a la [[unificacion|Iglesia de 
 
 El texto de Torda, las ediciones del Catecismo Racoviano y los fondos de la Harvard Divinity School Library ofrecen vías distintas para estudiar el [[unitarismo]]. La conservación de impresos y traducciones permite seguir doctrinas entre países. Las actas y los expedientes permiten estudiar cuándo y cómo se organizaron iglesias y asociaciones. [134, 135, 136, 137]
 
+## E21.4 · Humanismo secular, Arminianismo
+
+### Manifiestos, archivos de asociaciones y encuestas
+
+Los manifiestos del [[humanismo|humanismo secular]] documentan intervenciones colectivas. Los archivos de sociedades éticas o de celebrantes registran prácticas comunitarias. Las encuestas permiten estudiar identidades cuando la pregunta identifica expresamente su alcance. [138, 139, 140, 141, 142]
+
+### Petición, confesión y actas sinodales
+
+La Declaración de Arminio, la Remonstrancia de 1610, las actas sinodales y la confesión de 1621 ayudan a reconstruir el [[arminianismo]] desde etapas y géneros distintos. Las ediciones críticas permiten distinguir el proceso de la asamblea, la decisión doctrinal y su recepción. [143, 144, 145, 146, 147]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -605,3 +625,13 @@ El texto de Torda, las ediciones del Catecismo Racoviano y los fondos de la Harv
 135. [Ariel Hessayon y Diego Lucci, The Supposed Burning of the Racovian Catechism, repositorio de Goldsmiths](https://research.gold.ac.uk/31248/1/Racovian_Catechism_paper_x_History_ds%20edits%20AH%20DL%20WITHOUT%20FIGURES.pdf).
 136. [Harvard Divinity School Library, documentación de la unión unitaria y universalista en 1961](https://guides.library.harvard.edu/c.php?g=253864&p=10485840).
 137. [Harvard Divinity School Library, archivos de las organizaciones nacionales unitarias y universalistas](https://library.hds.harvard.edu/collections/unitarian-universalist/organizations/archival-records-of-national-organization).
+138. [Humanist Heritage, historia de la Union of Ethical Societies](https://heritage.humanists.uk/the-union-of-ethical-societies/).
+139. [American Humanist Association, Manifiesto humanista de 1933](https://americanhumanist.org/humanism/humanist-manifesto-i/).
+140. [Pew Research Center, cambios en la población sin afiliación religiosa de 2010 a 2020](https://www.pewresearch.org/religion/2025/06/09/religiously-unaffiliated-population-change/).
+141. [Humanist Heritage, historia británica de las ceremonias humanistas](https://heritage.humanists.uk/humanist-ceremonies/).
+142. [Humanist Heritage, sociedades y movimiento de cultura ética](https://heritage.humanists.uk/the-ethical-movement/).
+143. [Jacobo Arminio, Declaración de pareceres de 1608, edición inglesa de Wesley Center Online](https://wesley.nnu.edu/arminianism/the-works-of-james-arminius/volume-1/arminius-theological-sentiments/).
+144. [Instituto Arminio de la Hermandad Remonstrante, traducción inglesa del acta original de la Remonstrancia](https://arminiusinstituut.remonstranten.nl/wp-content/uploads/sites/32/2017/08/Remonstrantie-Orginal-Act-English.pdf).
+145. [Reformed Church in America, texto de los Cánones de Dordrecht](https://www.rca.org/about/theology/creeds-and-confessions/canons-of-dort/).
+146. [Acta et Documenta Synodi Nationalis Dordrechtanae (1618–1619), edición crítica](https://www.degruyterbrill.com/serial/vurasod-b/html).
+147. [Simon Episcopius y los remonstrantes, edición moderna de la confesión de 1621](https://books.google.com/books/about/The_Arminian_Confession_of_1621.html?id=I3LZAAAAMAAJ).

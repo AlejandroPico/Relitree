@@ -1186,7 +1186,21 @@ def _():
     anillos = P("M51 63a12 12 0 1 0-11 12h3M49 59a12 12 0 1 1 11 16 12 12 0 0 1-11-12M18 82h64")
     return arco + anillos
 
+@motivo("figura_brazos_humanismo", "Figura con los brazos alzados, inspirada en el motivo humanista Happy Human")
+def _():
+    cabeza = P("M42 29a8 8 0 1 0 16 0a8 8 0 1 0-16 0")
+    figura = P("M24 35Q33 50 50 51Q66 50 76 35M50 51V67M50 67L36 84M50 67L64 84")
+    return cabeza + figura
+
+@motivo("hoja_cinco_articulos", "Hoja con cinco trazos y pluma inspiradas en la Remonstrancia de 1610")
+def _():
+    hoja = P("M19 19H50L61 30V82H19ZM50 19V30H61M28 34H46M28 43H45M28 52H43M28 61H40M28 70H37")
+    pluma = P("M48 73L77 36M54 64Q52 45 84 28Q86 56 54 64M62 55L71 54")
+    return hoja + pluma
+
 ASIGNACION = {
+    'humanismo': 'figura_brazos_humanismo',
+    'arminianismo': 'hoja_cinco_articulos',
     'unificacion': 'anillos_bendicion_unificacion',
     'restauracionismo': 'copa_pan_stone_campbell',
     'aladura': 'oracion_arrodillada_aladura',

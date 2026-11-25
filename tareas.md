@@ -4,6 +4,10 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E21 · 21.4. [Humanismo secular](enciclopedia/es/religiones/humanismo.md). 10.053 palabras de cuerpo y 13 figuras. Versión 1.7.81.
+- [x] E21 · 21.4. [Arminianismo](enciclopedia/es/religiones/arminianismo.md). 10.039 palabras de cuerpo y 13 figuras. Versión 1.7.81.
+  - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.
+
 - [x] E21 · 21.3. [Iglesia de la Unificación](enciclopedia/es/religiones/unificacion.md). 10.108 palabras de cuerpo y 12 figuras. Versión 1.7.80.
 - [x] E21 · 21.3. [Unitarismo](enciclopedia/es/religiones/unitarismo.md). 10.015 palabras de cuerpo y 13 figuras. Versión 1.7.80.
   - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.

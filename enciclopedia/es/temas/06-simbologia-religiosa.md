@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2831
+palabras: 2910
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -124,6 +124,11 @@ fuentes:
   - "https://hollisarchives.lib.harvard.edu/catalog/div16114"
   - "https://uuschenectady.org/about-us-2/our-partner-church-in-marosvasarhely-transylvania/transylvanian-unitarians-in-marosvasarhely/"
   - "https://commons.wikimedia.org/wiki/File:Flaming_Chalice.svg"
+  - "https://humanists.international/what-is-humanism/history-of-humanists-international/"
+  - "https://heritage.humanists.uk/object/the-happy-human/"
+  - "https://arminiusinstituut.remonstranten.nl/wp-content/uploads/sites/32/2017/08/Remonstrantie-Orginal-Act-English.pdf"
+  - "https://www.degruyterbrill.com/serial/vurasod-b/html"
+  - "https://play.google.com/store/books/details/Adolphus_Venator_Kopije_van_de_Remonstratie_by_Ado?id=3W9JAAAAcAAJ"
 ---
 
 # Simbología religiosa comparada
@@ -408,6 +413,16 @@ La Bendición matrimonial de la [[unificacion|Iglesia de la Unificación]] expre
 
 El cáliz encendido se difundió desde un diseño de Hans Deutsch para la ayuda a refugiados en 1941. También se usa un cáliz físico en el culto de comunidades del [[unitarismo]]. La paloma y la serpiente del blasón de la Iglesia Unitaria Húngara remiten a un motivo evangélico propio de esa iglesia. [106, 107, 108, 109]
 
+## E21.4 · Humanismo secular, Arminianismo
+
+### El Happy Human
+
+Denis Barrington diseñó el Happy Human para un concurso de la British Humanist Association en 1965. La figura se difundió en el [[humanismo|humanismo secular]] internacional. El dibujo de Relitree alude al motivo mediante una figura con los brazos alzados. [110, 111]
+
+### Una hoja con los cinco artículos
+
+El símbolo del [[arminianismo]] en Relitree es un dibujo de una hoja con cinco trazos y una pluma, inspirado en la petición remonstrante de 1610. Los grabados de la polémica documentan la controversia y las posiciones de quienes los produjeron. [112, 113, 114]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -532,3 +547,8 @@ El cáliz encendido se difundió desde un diseño de Hans Deutsch para la ayuda 
 107. [Harvard Divinity School Library, fondos administrativos del Unitarian Universalist Service Committee](https://hollisarchives.lib.harvard.edu/catalog/div16114).
 108. [Unitarian Universalist Society of Schenectady, descripción del blasón unitario transilvano](https://uuschenectady.org/about-us-2/our-partner-church-in-marosvasarhely-transylvania/transylvanian-unitarians-in-marosvasarhely/).
 109. [Wikimedia Commons, cáliz encendido del Departamento de Asuntos de los Veteranos de Estados Unidos](https://commons.wikimedia.org/wiki/File:Flaming_Chalice.svg).
+110. [Humanists International, historia de la unión humanista internacional](https://humanists.international/what-is-humanism/history-of-humanists-international/).
+111. [Humanist Heritage, Denis Barrington y el origen del Happy Human](https://heritage.humanists.uk/object/the-happy-human/).
+112. [Instituto Arminio de la Hermandad Remonstrante, traducción inglesa del acta original de la Remonstrancia](https://arminiusinstituut.remonstranten.nl/wp-content/uploads/sites/32/2017/08/Remonstrantie-Orginal-Act-English.pdf).
+113. [Acta et Documenta Synodi Nationalis Dordrechtanae (1618–1619), edición crítica](https://www.degruyterbrill.com/serial/vurasod-b/html).
+114. [Adolphus Venator, Kopije van de Remonstratie, catálogo del impreso histórico](https://play.google.com/store/books/details/Adolphus_Venator_Kopije_van_de_Remonstratie_by_Ado?id=3W9JAAAAcAAJ).
