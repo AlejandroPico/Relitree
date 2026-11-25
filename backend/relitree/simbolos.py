@@ -1198,7 +1198,22 @@ def _():
     pluma = P("M48 73L77 36M54 64Q52 45 84 28Q86 56 54 64M62 55L71 54")
     return hoja + pluma
 
+@motivo("trompeta_moroni", "Trompeta alusiva a las estatuas del ángel Moroni instaladas en muchos templos de la iglesia mayoritaria")
+def _():
+    trompeta = P("M17 44H28V56H17ZM28 47H53Q65 46 81 34V66Q65 54 53 53H28ZM38 55V67Q38 73 44 73H53Q59 73 59 67V55")
+    sonido = P("M87 44L92 41M87 55L92 58")
+    return trompeta + sonido
+
+@motivo("libros_pastor_ciencia_cristiana", "Dos libros abiertos alusivos a la Biblia y Ciencia y salud, que juntos constituyen el Pastor")
+def _():
+    libros = P("M8 43Q18 36 28 45Q38 36 48 43V68Q38 62 28 70Q18 62 8 68ZM28 45V70M52 43Q62 36 72 45Q82 36 92 43V68Q82 62 72 70Q62 62 52 68ZM72 45V70")
+    luz = P("M50 24V34M39 27L43 34M61 27L57 34")
+    return libros + luz
+
+
 ASIGNACION = {
+    'mormonismo': 'trompeta_moroni',
+    'ciencia-cristiana': 'libros_pastor_ciencia_cristiana',
     'humanismo': 'figura_brazos_humanismo',
     'arminianismo': 'hoja_cinco_articulos',
     'unificacion': 'anillos_bendicion_unificacion',

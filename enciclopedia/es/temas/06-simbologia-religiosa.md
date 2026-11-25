@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2910
+palabras: 2995
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -129,6 +129,9 @@ fuentes:
   - "https://arminiusinstituut.remonstranten.nl/wp-content/uploads/sites/32/2017/08/Remonstrantie-Orginal-Act-English.pdf"
   - "https://www.degruyterbrill.com/serial/vurasod-b/html"
   - "https://play.google.com/store/books/details/Adolphus_Venator_Kopije_van_de_Remonstratie_by_Ado?id=3W9JAAAAcAAJ"
+  - "https://churchhistorylibrary.churchofjesuschrist.org/blog/ask-us-top-five-reference-questions-about-the-angel-moroni-statue?lang=eng"
+  - "https://www.christianscience.com/what-we-believe/the-bible-and-science-and-health"
+  - "https://www.marybakereddylibrary.org/research/history-of-the-cross-and-crown-emblem/"
 ---
 
 # Simbología religiosa comparada
@@ -423,6 +426,16 @@ Denis Barrington diseñó el Happy Human para un concurso de la British Humanist
 
 El símbolo del [[arminianismo]] en Relitree es un dibujo de una hoja con cinco trazos y una pluma, inspirado en la petición remonstrante de 1610. Los grabados de la polémica documentan la controversia y las posiciones de quienes los produjeron. [112, 113, 114]
 
+## E21.5 · Mormonismo, Ciencia Cristiana
+
+### Moroni y su trompeta
+
+La trompeta del atlas remite a las estatuas de Moroni en muchos templos de la rama mayoritaria del [[mormonismo|movimiento de los Santos de los Últimos Días]]. La tradición se difundió desde Salt Lake City y la presencia de la estatua varía entre templos. [115]
+
+### Cruz, corona y dos libros
+
+La cruz con corona tiene una historia propia en la [[ciencia-cristiana|Ciencia Cristiana]]. La Iglesia Madre registró su versión en 1915. Los dos libros abiertos del atlas aluden a la Biblia y a Ciencia y salud, que constituyen el Pastor de la tradición. [116, 117]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -552,3 +565,6 @@ El símbolo del [[arminianismo]] en Relitree es un dibujo de una hoja con cinco 
 112. [Instituto Arminio de la Hermandad Remonstrante, traducción inglesa del acta original de la Remonstrancia](https://arminiusinstituut.remonstranten.nl/wp-content/uploads/sites/32/2017/08/Remonstrantie-Orginal-Act-English.pdf).
 113. [Acta et Documenta Synodi Nationalis Dordrechtanae (1618–1619), edición crítica](https://www.degruyterbrill.com/serial/vurasod-b/html).
 114. [Adolphus Venator, Kopije van de Remonstratie, catálogo del impreso histórico](https://play.google.com/store/books/details/Adolphus_Venator_Kopije_van_de_Remonstratie_by_Ado?id=3W9JAAAAcAAJ).
+115. [Church History Library. Preguntas sobre las estatuas del ángel Moroni](https://churchhistorylibrary.churchofjesuschrist.org/blog/ask-us-top-five-reference-questions-about-the-angel-moroni-statue?lang=eng).
+116. [La Iglesia Madre. La Biblia y Ciencia y salud](https://www.christianscience.com/what-we-believe/the-bible-and-science-and-health).
+117. [The Mary Baker Eddy Library. Historia del emblema de la cruz y la corona](https://www.marybakereddylibrary.org/research/history-of-the-cross-and-crown-emblem/).

@@ -75,7 +75,7 @@ Nombre, alias y resumen NO van en la ficha: van en `i18n/es/religiones.json`.
 2. Dibujo propio (`simbolos.py`): motivo característico de la cultura (pilar en T de Göbekli Tepe, kanaga dogón, tambor de Dong Son…). `ficha.icono.fuente = "propio"` y `motivo` describe lo dibujado. Para añadir uno: definir el motivo con `@motivo`, asignarlo en `ASIGNACION` y ejecutar `python -m relitree.simbolos <id>` (`--forzar` para redibujar los propios).
 3. Renacimiento moderno: adopta el símbolo de la religión que revive.
 4. Rama sin emblema propio: muestra el símbolo de su tronco (`modelo.FAMILIAS_ICONO`) **atenuado y más pequeño**, para que se vea que no es la matriz. No heredan neopaganismos, filosofías, esoterismo ni nuevos movimientos.
-5. Si nada de lo anterior, el glifo de su tipo. Nunca se usan logotipos registrados de organizaciones (Cienciología, Falun Gong, Unificación…).
+5. Si nada de lo anterior, el glifo de su tipo. El símbolo oficial de Cienciología es una excepción aprobada para identificar su ficha, con procedencia y condición de marca documentadas. Para los demás logotipos registrados se mantiene el criterio general.
 
 **Alta de tradiciones:** añadir líneas a `backend/semilla/religiones.txt` y ejecutar `python -m relitree.sembrar` (solo crea las que no existen), o crear a mano la carpeta, la entrada de i18n y el artículo.
 
@@ -126,7 +126,7 @@ En la versión 1.7.51 está completa la fase E14, entregas 14.1–14.6. Sus doce
 
 En la versión 1.7.53 está completa la fase **E15**, con 12 fichas publicadas. Las entregas **15.4–15.6** reúnen 19 figuras acreditadas y 5.042–5.456 palabras de cuerpo por artículo. Queda abierta la ampliación de esas seis entradas al objetivo editorial de 10.000 palabras. Los seis temas de E01 recogen la entrega. La siguiente fase es E16, que comienza con la Iglesia ortodoxa siríaca.
 
-En la versión 1.7.81 se publicó la entrega **21.4** de E21. La siguiente entrega es **21.5, Mormonismo y Ciencia Cristiana**.
+En la versión 1.7.82 se publicó la entrega **21.5** de E21. La siguiente entrega es **21.6, Compañía de Jesús y Jansenismo**.
 
 ## Mantenimiento acumulativo de E01
 
@@ -154,7 +154,7 @@ Actualizar «Qué es una religión» y «Los orígenes del pensamiento religioso
 ## Criterios editoriales (obligatorios)
 
 - **Contenido propio.** Selección, fechas, relaciones y textos se redactan a partir de fuentes académicas y enciclopédicas contrastadas (Wikipedia, Britannica, bibliografía especializada). No se transcriben ni calcan infografías, mapas o textos de terceros.
-- **Iconos:** solo símbolos de dominio público o licencia libre (Wikimedia Commons), con la licencia anotada en la ficha; nunca logotipos registrados de organizaciones. Si no hay símbolo libre, se usa el glifo del tipo.
+- **Iconos:** solo símbolos de dominio público o licencia libre (Wikimedia Commons), con la licencia anotada en la ficha; los logotipos registrados quedan fuera del criterio general, salvo la excepción documentada para Cienciología. Si no hay símbolo libre, se usa el glifo del tipo.
 - Las fechas antiguas son aproximadas; en prehistoria se representan evidencias arqueológicas, no doctrinas.
 - Una rama es una decisión editorial: cuando el origen es discutido, se elige el consenso mayoritario y se explica en el artículo.
 - Tono neutral y respetuoso con todas las tradiciones, contando tanto sus luces como sus sombras, con hechos.

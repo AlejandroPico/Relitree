@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2775
+palabras: 2859
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -135,6 +135,12 @@ fuentes:
   - "https://academic.oup.com/edited-volume/28021/chapter-abstract/211830983"
   - "https://www.umc.org/en/content/articles-of-religion"
   - "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-16-the-means-of-grace/"
+  - "https://www.nps.gov/articles/000/mormon-pioneer-trail-timeline.htm"
+  - "https://www.nps.gov/mopi/learn/historyculture/the-1847-trek.htm"
+  - "https://www.churchofjesuschrist.org/feature/general-conference?lang=eng"
+  - "https://www.christianscience.com/es/publicaciones-y-actividades/servicios-religiosos"
+  - "https://www.marybakereddylibrary.org/research/what-is-the-background-of-the-bible-lesson-subjects-2/"
+  - "https://www.christianscience.com/the-mother-church-in-boston/the-mother-church-services/online-thanksgiving-service"
 ---
 
 # Calendarios y festividades del mundo
@@ -429,6 +435,16 @@ El Día Mundial del Humanismo se celebra el 21 de junio en organizaciones del [[
 
 El [[arminianismo]] se incorporó a iglesias con calendarios cristianos propios. Wesley trató la oración, la lectura de la Escritura y la Cena como medios de gracia. La práctica de cada comunidad se documenta mediante su liturgia y su calendario. [118, 119, 120]
 
+## E21.5 · Mormonismo, Ciencia Cristiana
+
+### Conferencias generales y Pioneer Day
+
+En la iglesia mayoritaria del [[mormonismo|movimiento de los Santos de los Últimos Días]], abril y octubre son los meses habituales de conferencia general. En Utah, el 24 de julio recuerda la llegada de la primera expedición al valle del Gran Lago Salado en 1847 y tiene carácter de festividad estatal. [121, 122, 123]
+
+### Lecciones semanales y Acción de Gracias
+
+La [[ciencia-cristiana|Ciencia Cristiana]] emplea un ciclo de veintiséis temas para las lecciones de los domingos. En Boston, la Iglesia Madre celebra también un servicio de Acción de Gracias con ocasión de la festividad estadounidense. [124, 125, 126]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -563,3 +579,9 @@ El [[arminianismo]] se incorporó a iglesias con calendarios cristianos propios.
 118. [Arminian, Remonstrant, and Early Methodist Theologies, Oxford Academic](https://academic.oup.com/edited-volume/28021/chapter-abstract/211830983).
 119. [Iglesia Metodista Unida, artículos de religión de la Iglesia metodista](https://www.umc.org/en/content/articles-of-religion).
 120. [John Wesley, sermón The Means of Grace, Wesley Center Online](https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-16-the-means-of-grace/).
+121. [National Park Service. Mormon Pioneer Trail Timeline](https://www.nps.gov/articles/000/mormon-pioneer-trail-timeline.htm).
+122. [National Park Service. La expedición de 1847](https://www.nps.gov/mopi/learn/historyculture/the-1847-trek.htm).
+123. [La Iglesia de Jesucristo de los Santos de los Últimos Días. Conferencia general de 2026](https://www.churchofjesuschrist.org/feature/general-conference?lang=eng).
+124. [La Iglesia Madre. Servicios religiosos de los domingos y miércoles](https://www.christianscience.com/es/publicaciones-y-actividades/servicios-religiosos).
+125. [The Mary Baker Eddy Library. Los temas de las lecciones bíblicas](https://www.marybakereddylibrary.org/research/what-is-the-background-of-the-bible-lesson-subjects-2/).
+126. [La Iglesia Madre. Servicio de Acción de Gracias](https://www.christianscience.com/the-mother-church-in-boston/the-mother-church-services/online-thanksgiving-service).

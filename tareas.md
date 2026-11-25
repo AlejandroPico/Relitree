@@ -4,6 +4,11 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E21 · 21.5. [Mormonismo](enciclopedia/es/religiones/mormonismo.md). 10.077 palabras de cuerpo y 11 figuras. Versión 1.7.82.
+- [x] E21 · 21.5. [Ciencia Cristiana](enciclopedia/es/religiones/ciencia-cristiana.md). 10.061 palabras de cuerpo y 12 figuras. Versión 1.7.82.
+  - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.
+  - Incorporado el símbolo oficial de Cienciología con su atribución y la procedencia del SVG.
+
 - [x] E21 · 21.4. [Humanismo secular](enciclopedia/es/religiones/humanismo.md). 10.053 palabras de cuerpo y 13 figuras. Versión 1.7.81.
 - [x] E21 · 21.4. [Arminianismo](enciclopedia/es/religiones/arminianismo.md). 10.039 palabras de cuerpo y 13 figuras. Versión 1.7.81.
   - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2885
+palabras: 2962
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -169,6 +169,13 @@ fuentes:
   - "https://www.rca.org/about/theology/creeds-and-confessions/canons-of-dort/"
   - "https://www.degruyterbrill.com/serial/vurasod-b/html"
   - "https://books.google.com/books/about/The_Arminian_Confession_of_1621.html?id=I3LZAAAAMAAJ"
+  - "https://www.josephsmithpapers.org/site/histories"
+  - "https://www.nps.gov/articles/000/mormon-pioneer-trail-timeline.htm"
+  - "https://cofchrist.org/history/"
+  - "https://www.marybakereddylibrary.org/research/what-are-considered-the-major-editions-of-science-and-health/"
+  - "https://www.ucpress.edu/book/9780520304055/the-emergence-of-christian-science-in-american-religious-life"
+  - "https://mbepapers.org/"
+  - "https://www.marybakereddylibrary.org/wp-content/uploads/2019/08/LSC004_GeorgineMilmineCollection.pdf"
 ---
 
 # Historia del estudio de las religiones
@@ -467,6 +474,16 @@ Los manifiestos del [[humanismo|humanismo secular]] documentan intervenciones co
 
 La Declaración de Arminio, la Remonstrancia de 1610, las actas sinodales y la confesión de 1621 ayudan a reconstruir el [[arminianismo]] desde etapas y géneros distintos. Las ediciones críticas permiten distinguir el proceso de la asamblea, la decisión doctrinal y su recepción. [143, 144, 145, 146, 147]
 
+## E21.5 · Mormonismo, Ciencia Cristiana
+
+### La restauración en cartas y actas
+
+The Joseph Smith Papers permite seguir cómo el [[mormonismo|movimiento de los Santos de los Últimos Días]] puso por escrito relatos de vocación, revelaciones y formas de autoridad. La cronología de la migración del National Park Service y la historia de la Comunidad de Cristo amplían la comparación. [148, 149, 150]
+
+### Archivos de Mary Baker Eddy
+
+Para estudiar la [[ciencia-cristiana|Ciencia Cristiana]] se pueden cruzar la correspondencia de Mary Baker Eddy, ediciones históricas de Ciencia y salud, la serie de McClure’s y estudios de historia religiosa estadounidense. [151, 152, 153, 154]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -635,3 +652,10 @@ La Declaración de Arminio, la Remonstrancia de 1610, las actas sinodales y la c
 145. [Reformed Church in America, texto de los Cánones de Dordrecht](https://www.rca.org/about/theology/creeds-and-confessions/canons-of-dort/).
 146. [Acta et Documenta Synodi Nationalis Dordrechtanae (1618–1619), edición crítica](https://www.degruyterbrill.com/serial/vurasod-b/html).
 147. [Simon Episcopius y los remonstrantes, edición moderna de la confesión de 1621](https://books.google.com/books/about/The_Arminian_Confession_of_1621.html?id=I3LZAAAAMAAJ).
+148. [The Joseph Smith Papers. Histories](https://www.josephsmithpapers.org/site/histories).
+149. [National Park Service. Mormon Pioneer Trail Timeline](https://www.nps.gov/articles/000/mormon-pioneer-trail-timeline.htm).
+150. [Comunidad de Cristo. History](https://cofchrist.org/history/).
+151. [The Mary Baker Eddy Library. Principales ediciones de Ciencia y salud](https://www.marybakereddylibrary.org/research/what-are-considered-the-major-editions-of-science-and-health/).
+152. [Stephen Gottschalk. The Emergence of Christian Science in American Religious Life, University of California Press](https://www.ucpress.edu/book/9780520304055/the-emergence-of-christian-science-in-american-religious-life).
+153. [The Mary Baker Eddy Papers. Correspondencia y documentos](https://mbepapers.org/).
+154. [The Mary Baker Eddy Library. Fondo Georgine Milmine](https://www.marybakereddylibrary.org/wp-content/uploads/2019/08/LSC004_GeorgineMilmineCollection.pdf).

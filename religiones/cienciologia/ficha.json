@@ -7,6 +7,13 @@
   "importancia": 1,
   "padres": [],
   "influencias": [],
-  "icono": null,
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Scientology_Logo.svg",
+    "autor": "Iglesia de Cienciología",
+    "motivo": "Símbolo oficial de Cienciología. Una S enlaza los triángulos ARC y KRC",
+    "licencia": "Dominio público por su composición, según Wikimedia Commons. Símbolo registrado como marca, mostrado con finalidad enciclopédica.",
+    "motivo_fuente": "https://www.rtc.org/es/trademarks/"
+  },
   "heredar_icono": false
 }

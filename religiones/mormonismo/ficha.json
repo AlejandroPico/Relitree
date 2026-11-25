@@ -14,7 +14,14 @@
   "influencias": [
     "masoneria"
   ],
-  "icono": null,
-  "fieles": 17000000,
-  "fieles_fuente": "Wikipedia, List of Christian denominations by number of members"
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Trompeta alusiva a las estatuas del ángel Moroni instaladas en muchos templos de la iglesia mayoritaria",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://churchhistorylibrary.churchofjesuschrist.org/blog/ask-us-top-five-reference-questions-about-the-angel-moroni-statue?lang=eng"
+  },
+  "fieles": 17887212,
+  "fieles_fuente": "Informe estadístico mundial de 2025 de La Iglesia de Jesucristo de los Santos de los Últimos Días. La cifra corresponde a esa iglesia. https://newsroom.churchofjesuschrist.org/article/2025-statistical-report"
 }

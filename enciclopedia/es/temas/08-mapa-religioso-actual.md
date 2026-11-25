@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2948
+palabras: 3038
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -153,6 +153,12 @@ fuentes:
   - "https://academic.oup.com/edited-volume/28021/chapter-abstract/211830983"
   - "https://www.ivpress.net/arminian-theology-ebook"
   - "https://evangelicalarminians.org/statement-of-faith/"
+  - "https://cofchrist.org/history/"
+  - "https://newsroom.churchofjesuschrist.org/article/2025-statistical-report"
+  - "https://www.pewresearch.org/religion/2026/09/22/tradition-and-change-among-latter-day-saints-in-the-us/"
+  - "https://www.christianscience.com/what-we-believe/church"
+  - "https://www2.census.gov/library/publications/1910/demographics/religious-bodies-1906/1906-religious-bodies-part-2.pdf"
+  - "https://www.christianscience.com/the-mother-church-in-boston/the-mother-church-reading-room"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -457,6 +463,16 @@ El movimiento del [[humanismo|humanismo secular]] se puede seguir por directorio
 
 La Hermandad Remonstrante tiene continuidad institucional en los Países Bajos. El [[arminianismo]] también designa posiciones teológicas presentes en tradiciones con historias y afiliaciones propias. Los directorios de iglesias y los documentos de doctrina permiten reconocer aspectos distintos de esta difusión. [131, 132, 133, 134]
 
+## E21.5 · Mormonismo, Ciencia Cristiana
+
+### Registro e identificación religiosa
+
+En el [[mormonismo|movimiento de los Santos de los Últimos Días]], el informe de la iglesia de Salt Lake City registra 17.887.212 miembros a finales de 2025. La Comunidad de Cristo tiene su sede en Independence, Misuri, y lleva sus propios registros. Las encuestas de Pew miden identificación entre adultos estadounidenses con otra metodología. [135, 136, 137]
+
+### Boston y la red de filiales
+
+La [[ciencia-cristiana|Ciencia Cristiana]] tiene su centro institucional en Boston. Congregaciones y salas de lectura permiten cartografiar su presencia en otros lugares. Los directorios actuales y los censos históricos miden fenómenos de fechas y escalas diferentes. [138, 139, 140]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -609,3 +625,9 @@ La Hermandad Remonstrante tiene continuidad institucional en los Países Bajos. 
 132. [Arminian, Remonstrant, and Early Methodist Theologies, Oxford Academic](https://academic.oup.com/edited-volume/28021/chapter-abstract/211830983).
 133. [Roger E. Olson, Arminian Theology: Myths and Realities, InterVarsity Press](https://www.ivpress.net/arminian-theology-ebook).
 134. [Society of Evangelical Arminians, declaración de fe](https://evangelicalarminians.org/statement-of-faith/).
+135. [Comunidad de Cristo. History](https://cofchrist.org/history/).
+136. [La Iglesia de Jesucristo de los Santos de los Últimos Días. Informe estadístico de 2025](https://newsroom.churchofjesuschrist.org/article/2025-statistical-report).
+137. [Pew Research Center. Tradition and Change Among Latter-day Saints in the U.S.](https://www.pewresearch.org/religion/2026/09/22/tradition-and-change-among-latter-day-saints-in-the-us/).
+138. [La Iglesia Madre. Church](https://www.christianscience.com/what-we-believe/church).
+139. [U.S. Census Bureau. Religious Bodies, 1906, parte II](https://www2.census.gov/library/publications/1910/demographics/religious-bodies-1906/1906-religious-bodies-part-2.pdf).
+140. [La Iglesia Madre. Sala de lectura de Boston](https://www.christianscience.com/the-mother-church-in-boston/the-mother-church-reading-room).

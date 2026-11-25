@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.81**
+**Versión 1.7.82**
+
+[Entrega 21.5 de la fase E21](enciclopedia/PLAN.md#fase-e21--cristianismo--tradiciones-89). Mormonismo, Ciencia Cristiana. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
 [Entrega 21.4 de la fase E21](enciclopedia/PLAN.md#fase-e21--cristianismo--tradiciones-89). Humanismo secular, Arminianismo. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 

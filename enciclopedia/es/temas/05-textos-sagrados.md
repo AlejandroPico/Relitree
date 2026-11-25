@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 3174
+palabras: 3258
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -150,6 +150,11 @@ fuentes:
   - "https://wesley.nnu.edu/arminianism/the-works-of-james-arminius/volume-1/arminius-theological-sentiments/"
   - "https://arminiusinstituut.remonstranten.nl/wp-content/uploads/sites/32/2017/08/Remonstrantie-Orginal-Act-English.pdf"
   - "https://www.rca.org/about/theology/creeds-and-confessions/canons-of-dort/"
+  - "https://www.churchofjesuschrist.org/study/manual/the-pearl-of-great-price-teacher-manual/the-articles-of-faith?id=html&lang=eng"
+  - "https://cofchrist.org/doctrine-and-covenants/"
+  - "https://www.churchofjesuschrist.org/study/scriptures?lang=spa"
+  - "https://www.christianscience.com/what-we-believe/the-bible-and-science-and-health"
+  - "https://biblelesson.christianscience.com/about/related-information/order-of-services"
 ---
 
 # Textos sagrados del mundo comparados
@@ -458,6 +463,16 @@ El [[humanismo|humanismo secular]] formula principios en manifiestos y declaraci
 
 En el [[arminianismo]], la Biblia es el texto de referencia interpretado en la Declaración de Arminio y en la Remonstrancia de 1610. La petición presenta cinco artículos doctrinales. Los Cánones de Dordrecht exponen el juicio de la asamblea reformada que examinó la controversia. [131, 132, 133]
 
+## E21.5 · Mormonismo, Ciencia Cristiana
+
+### El canon de los Santos de los Últimos Días
+
+En el [[mormonismo|movimiento de los Santos de los Últimos Días]], la iglesia de Salt Lake City reúne la Biblia, el Libro de Mormón, Doctrina y Convenios y la Perla de Gran Precio. La Comunidad de Cristo publica un Doctrina y Convenios con su propia historia de secciones. [134, 135, 136]
+
+### Un Pastor formado por dos textos
+
+La [[ciencia-cristiana|Ciencia Cristiana]] llama Pastor al conjunto formado por la Biblia y Ciencia y salud con clave de las Escrituras, de Mary Baker Eddy. En la lección dominical dos lectores alternan las selecciones de los dos libros. [137, 138]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -607,3 +622,8 @@ En el [[arminianismo]], la Biblia es el texto de referencia interpretado en la D
 131. [Jacobo Arminio, Declaración de pareceres de 1608, edición inglesa de Wesley Center Online](https://wesley.nnu.edu/arminianism/the-works-of-james-arminius/volume-1/arminius-theological-sentiments/).
 132. [Instituto Arminio de la Hermandad Remonstrante, traducción inglesa del acta original de la Remonstrancia](https://arminiusinstituut.remonstranten.nl/wp-content/uploads/sites/32/2017/08/Remonstrantie-Orginal-Act-English.pdf).
 133. [Reformed Church in America, texto de los Cánones de Dordrecht](https://www.rca.org/about/theology/creeds-and-confessions/canons-of-dort/).
+134. [La Iglesia de Jesucristo de los Santos de los Últimos Días. The Articles of Faith](https://www.churchofjesuschrist.org/study/manual/the-pearl-of-great-price-teacher-manual/the-articles-of-faith?id=html&lang=eng).
+135. [Comunidad de Cristo. Doctrine and Covenants](https://cofchrist.org/doctrine-and-covenants/).
+136. [La Iglesia de Jesucristo de los Santos de los Últimos Días. Biblioteca de las Escrituras](https://www.churchofjesuschrist.org/study/scriptures?lang=spa).
+137. [La Iglesia Madre. La Biblia y Ciencia y salud](https://www.christianscience.com/what-we-believe/the-bible-and-science-and-health).
+138. [La Iglesia Madre. Orden de los servicios](https://biblelesson.christianscience.com/about/related-information/order-of-services).

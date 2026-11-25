@@ -14,7 +14,12 @@
   "influencias": [
     "nuevo-pensamiento"
   ],
-  "icono": null,
-  "fieles": 100000,
-  "fieles_fuente": "Wikipedia, List of Christian denominations by number of members"
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Dos libros abiertos alusivos a la Biblia y Ciencia y salud, que juntos constituyen el Pastor",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://www.christianscience.com/what-we-believe/the-bible-and-science-and-health"
+  }
 }

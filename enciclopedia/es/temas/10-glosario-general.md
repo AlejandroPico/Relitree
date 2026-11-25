@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 3037
+palabras: 3115
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -150,6 +150,10 @@ fuentes:
   - "https://arminiusinstituut.remonstranten.nl/wp-content/uploads/sites/32/2017/08/Remonstrantie-Orginal-Act-English.pdf"
   - "https://academic.oup.com/edited-volume/28021/chapter-abstract/211830983"
   - "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-85-on-working-out-our-own-salvation/"
+  - "https://www.churchofjesuschrist.org/study/manual/general-handbook?lang=eng"
+  - "https://www.churchofjesuschrist.org/study/manual/general-handbook/28?lang=eng"
+  - "https://www.christianscience.com/what-we-believe/the-bible-and-science-and-health"
+  - "https://biblelesson.christianscience.com/about/related-information/order-of-services"
 ---
 
 # Glosario general
@@ -550,6 +554,16 @@ El [[humanismo|humanismo secular]] propone orientar la vida por la investigació
 
 En el [[arminianismo]], Remonstrancia designa la petición neerlandesa de 1610. La gracia precede y sostiene la respuesta del creyente. Perseverancia alude a la continuidad en la fe. El quinto artículo dejó abierta para estudio ulterior la posibilidad de que un creyente se apartara definitivamente. [123, 124, 125, 126]
 
+## E21.5 · Mormonismo, Ciencia Cristiana
+
+### Ordenanza vicaria
+
+En la rama mayoritaria del [[mormonismo|movimiento de los Santos de los Últimos Días]], acto de templo realizado por una persona viva en representación de otra fallecida. En la comprensión religiosa de la iglesia, el fallecido conserva la capacidad de aceptar o rechazar la ordenanza. [127, 128]
+
+### Pastor de la Ciencia Cristiana
+
+Nombre dado al conjunto de la Biblia y Ciencia y salud con clave de las Escrituras en la [[ciencia-cristiana|Ciencia Cristiana]]. Los lectores elegidos por cada congregación ponen ambos libros en diálogo durante el servicio. [129, 130]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -699,3 +713,7 @@ En el [[arminianismo]], Remonstrancia designa la petición neerlandesa de 1610. 
 124. [Instituto Arminio de la Hermandad Remonstrante, traducción inglesa del acta original de la Remonstrancia](https://arminiusinstituut.remonstranten.nl/wp-content/uploads/sites/32/2017/08/Remonstrantie-Orginal-Act-English.pdf).
 125. [Arminian, Remonstrant, and Early Methodist Theologies, Oxford Academic](https://academic.oup.com/edited-volume/28021/chapter-abstract/211830983).
 126. [John Wesley, sermón On Working Out Our Own Salvation, Wesley Center Online](https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-85-on-working-out-our-own-salvation/).
+127. [La Iglesia de Jesucristo de los Santos de los Últimos Días. General Handbook](https://www.churchofjesuschrist.org/study/manual/general-handbook?lang=eng).
+128. [La Iglesia de Jesucristo de los Santos de los Últimos Días. Temple Ordinances for the Deceased](https://www.churchofjesuschrist.org/study/manual/general-handbook/28?lang=eng).
+129. [La Iglesia Madre. La Biblia y Ciencia y salud](https://www.christianscience.com/what-we-believe/the-bible-and-science-and-health).
+130. [La Iglesia Madre. Orden de los servicios](https://biblelesson.christianscience.com/about/related-information/order-of-services).
