@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2713
+palabras: 2812
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -150,6 +150,15 @@ fuentes:
   - "https://digitalcommons.acu.edu/scr/"
   - "https://digitalcommons.acu.edu/acu_library_books/29/"
   - "https://discipleshistory.org/wiki/sarah-lue-bostick/"
+  - "https://history.familyfed.org/chronology"
+  - "https://library.aiu.ac.ke/bib/31077"
+  - "https://law.justia.com/cases/district-of-columbia/court-of-appeals/2022/20-cv-715.html"
+  - "https://www.courts.go.jp/assets/hanrei/hanrei-pdf-96677.pdf"
+  - "https://apjjf.org/2024/10/mclaughlin"
+  - "https://www.harvardsquarelibrary.org/congregational-polity/the-diet-of-torda/"
+  - "https://research.gold.ac.uk/31248/1/Racovian_Catechism_paper_x_History_ds%20edits%20AH%20DL%20WITHOUT%20FIGURES.pdf"
+  - "https://guides.library.harvard.edu/c.php?g=253864&p=10485840"
+  - "https://library.hds.harvard.edu/collections/unitarian-universalist/organizations/archival-records-of-national-organization"
 ---
 
 # Historia del estudio de las religiones
@@ -428,6 +437,16 @@ Para estudiar las [[aladura|iglesias aladura]], se ponen en relación la investi
 
 Scotland’s People clasifica los registros del [[presbiterianismo|presbiterianismo]] por el órgano que los produjo. Los archivos Stone-Campbell permiten documentar el [[restauracionismo|Movimiento de Restauración]] con actas, publicaciones y correspondencia. Los estudios de Edward J. Robinson sobre Texas y el archivo de Sarah Lue Bostick aportan perspectivas sobre las congregaciones afroamericanas. [124, 125, 126, 127, 128]
 
+## E21.3 · Iglesia de la Unificación, Unitarismo
+
+### Trabajo de campo y expedientes judiciales
+
+Eileen Barker siguió a personas que se acercaron a la [[unificacion|Iglesia de la Unificación]] para estudiar su afiliación y permanencia. Una cronología interna reconstruye la memoria del movimiento. Los expedientes sobre gobierno corporativo en Estados Unidos y sobre la disolución de la entidad japonesa examinan problemas jurídicos delimitados. [129, 130, 131, 132, 133]
+
+### Edictos, impresos y archivos del unitarismo
+
+El texto de Torda, las ediciones del Catecismo Racoviano y los fondos de la Harvard Divinity School Library ofrecen vías distintas para estudiar el [[unitarismo]]. La conservación de impresos y traducciones permite seguir doctrinas entre países. Las actas y los expedientes permiten estudiar cuándo y cómo se organizaron iglesias y asociaciones. [134, 135, 136, 137]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -577,3 +596,12 @@ Scotland’s People clasifica los registros del [[presbiterianismo|presbiteriani
 126. [Abilene Christian University, colecciones de historia Stone-Campbell](https://digitalcommons.acu.edu/scr/).
 127. [Edward J. Robinson, historia de congregaciones afroamericanas de las Iglesias de Cristo en Texas](https://digitalcommons.acu.edu/acu_library_books/29/).
 128. [Disciples Historical Society, Sarah Lue Bostick](https://discipleshistory.org/wiki/sarah-lue-bostick/).
+129. [SunHak Institute of History USA, cronología institucional](https://history.familyfed.org/chronology).
+130. [Eileen Barker, The Making of a Moonie: Choice or Brainwashing? (Blackwell, 1984), catálogo de la obra](https://library.aiu.ac.ke/bib/31077).
+131. [Tribunal de Apelación del Distrito de Columbia, Moon et al. v. Family Federation (2022)](https://law.justia.com/cases/district-of-columbia/court-of-appeals/2022/20-cv-715.html).
+132. [Tribunal Supremo de Japón, decisión de la Tercera Sala, asunto n.º 407 (22 de junio de 2026)](https://www.courts.go.jp/assets/hanrei/hanrei-pdf-96677.pdf).
+133. [Levi McLaughlin, respuestas mediáticas y jurídicas tras el asesinato de Abe Shinzō, The Asia-Pacific Journal: Japan Focus](https://apjjf.org/2024/10/mclaughlin).
+134. [Harvard Square Library, traducción del Edicto de Torda](https://www.harvardsquarelibrary.org/congregational-polity/the-diet-of-torda/).
+135. [Ariel Hessayon y Diego Lucci, The Supposed Burning of the Racovian Catechism, repositorio de Goldsmiths](https://research.gold.ac.uk/31248/1/Racovian_Catechism_paper_x_History_ds%20edits%20AH%20DL%20WITHOUT%20FIGURES.pdf).
+136. [Harvard Divinity School Library, documentación de la unión unitaria y universalista en 1961](https://guides.library.harvard.edu/c.php?g=253864&p=10485840).
+137. [Harvard Divinity School Library, archivos de las organizaciones nacionales unitarias y universalistas](https://library.hds.harvard.edu/collections/unitarian-universalist/organizations/archival-records-of-national-organization).

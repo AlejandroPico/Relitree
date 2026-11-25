@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2771
+palabras: 2869
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -139,6 +139,13 @@ fuentes:
   - "https://www.scotlandscensus.gov.uk/2022-reports/scotland-s-census-2022-ethnic-group-national-identity-language-and-religion/"
   - "https://pcusa.org/sites/default/files/2025-05/2024_IV-B1_Comparative_Summaries_Statistics.pdf"
   - "https://usreligioncensus.org/sites/default/files/2023-10/2020_US_Religion_Census.pdf"
+  - "https://www.cambridge.org/core/elements/abs/unification-church-movement/54D08FFC4B547E2BD3D931CEC0B0BB8B"
+  - "https://history.familyfed.org/chronology"
+  - "https://www.courts.go.jp/assets/hanrei/hanrei-pdf-96677.pdf"
+  - "https://www.recensamantromania.ro/rezultate-rpl-2021/rezultate-definitive/"
+  - "https://secure.uua.org/certification-report/2026/"
+  - "https://en.unitarius.org/organization-structure/"
+  - "https://ispmn.gov.ro/storage/app/media/ISPMN_WP-74%2003-02.pdf"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -423,6 +430,16 @@ La ficha de las [[aladura|iglesias aladura]] diferencia instituciones del suroes
 
 El censo de Escocia de 2022 mide la identidad religiosa declarada, mientras las estadísticas de la PC(USA) recogen datos de su denominación. Son ámbitos diferentes del [[presbiterianismo|presbiterianismo]]. Para el [[restauracionismo|Movimiento de Restauración]], el U.S. Religion Census de 2020 registra en Estados Unidos 398.072 adherentes vinculados a 3.135 congregaciones de los Discípulos de Cristo y enumera por separado otras ramas. [118, 119, 120]
 
+## E21.3 · Iglesia de la Unificación, Unitarismo
+
+### Las afiliaciones unificacionistas
+
+La [[unificacion|Iglesia de la Unificación]] se fundó en Corea y desarrolló comunidades en Japón, Estados Unidos y otros países. Las cifras de asistentes a una Bendición, las listas de miembros locales y los registros de organizaciones sucesoras utilizan unidades diferentes. La decisión de disolución de 2026 se refiere a la corporación religiosa japonesa. [121, 122, 123]
+
+### Identidad censal y redes unitarias
+
+El censo rumano de 2021 permite estudiar la implantación territorial del [[unitarismo]], especialmente en Transilvania. La Iglesia Unitaria Húngara ofrece un recuento de su propia membresía y la UUA contabiliza las congregaciones y comunidades a las que presta servicio. Los tres documentos miden realidades diferentes. [124, 125, 126, 127]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -561,3 +578,10 @@ El censo de Escocia de 2022 mide la identidad religiosa declarada, mientras las 
 118. [National Records of Scotland, resultados del censo de 2022 sobre identidad y religión](https://www.scotlandscensus.gov.uk/2022-reports/scotland-s-census-2022-ethnic-group-national-identity-language-and-religion/).
 119. [Presbyterian Church (U.S.A.), series comparativas de estadísticas de 2024](https://pcusa.org/sites/default/files/2025-05/2024_IV-B1_Comparative_Summaries_Statistics.pdf).
 120. [Association of Statisticians of American Religious Bodies, U.S. Religion Census 2020](https://usreligioncensus.org/sites/default/files/2023-10/2020_US_Religion_Census.pdf).
+121. [Michael L. Mickler, The Unification Church Movement, Cambridge University Press (2022)](https://www.cambridge.org/core/elements/abs/unification-church-movement/54D08FFC4B547E2BD3D931CEC0B0BB8B).
+122. [SunHak Institute of History USA, cronología institucional](https://history.familyfed.org/chronology).
+123. [Tribunal Supremo de Japón, decisión de la Tercera Sala, asunto n.º 407 (22 de junio de 2026)](https://www.courts.go.jp/assets/hanrei/hanrei-pdf-96677.pdf).
+124. [Instituto Nacional de Estadística de Rumanía, censo de 2021, resultados definitivos por religión](https://www.recensamantromania.ro/rezultate-rpl-2021/rezultate-definitive/).
+125. [Unitarian Universalist Association, informe de certificación de congregaciones de 2026](https://secure.uua.org/certification-report/2026/).
+126. [Iglesia Unitaria Húngara, organización, territorio y membresía declarada](https://en.unitarius.org/organization-structure/).
+127. [Instituto para el Estudio de los Problemas de las Minorías Nacionales de Rumanía, análisis territorial de la religión en el censo de 2021](https://ispmn.gov.ro/storage/app/media/ISPMN_WP-74%2003-02.pdf).

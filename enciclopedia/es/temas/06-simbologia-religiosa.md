@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2727
+palabras: 2831
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -117,6 +117,13 @@ fuentes:
   - "https://presbyterianireland.org/resources/press-and-media/burning-bush"
   - "https://disciples.org/our-identity/the-chalice/"
   - "https://commons.wikimedia.org/wiki/File:Old%20communion%20set%20P6200131.jpg"
+  - "https://www.cambridge.org/core/elements/abs/unification-church-movement/54D08FFC4B547E2BD3D931CEC0B0BB8B"
+  - "https://www.tparents.org/Library/Unification/Books/TraditionsBook-200623.pdf"
+  - "https://bfm.familyfed.org/level-2-preparing-for-marriage/matching-process"
+  - "https://www.unitarian.org.uk/the-flaming-chalice/"
+  - "https://hollisarchives.lib.harvard.edu/catalog/div16114"
+  - "https://uuschenectady.org/about-us-2/our-partner-church-in-marosvasarhely-transylvania/transylvanian-unitarians-in-marosvasarhely/"
+  - "https://commons.wikimedia.org/wiki/File:Flaming_Chalice.svg"
 ---
 
 # Simbología religiosa comparada
@@ -391,6 +398,16 @@ La túnica blanca tiene usos y explicaciones bíblicas documentadas en la Iglesi
 
 La zarza ardiente del Éxodo aparece en la tradición del [[presbiterianismo|presbiterianismo]] escocés e irlandés. La copa y el pan documentan la práctica de la Cena en el [[restauracionismo|Movimiento de Restauración]]. El cáliz con el aspa de san Andrés pertenece a la Iglesia Cristiana (Discípulos de Cristo). [100, 101, 102]
 
+## E21.3 · Iglesia de la Unificación, Unitarismo
+
+### Los anillos de la Bendición
+
+La Bendición matrimonial de la [[unificacion|Iglesia de la Unificación]] expresa la incorporación de la pareja a la historia religiosa de la restauración. Los anillos bajo un arco son el dibujo que usa Relitree para evocar el rito. Los emblemas de la organización se reconocen por los documentos de cada institución y época. [103, 104, 105]
+
+### El cáliz encendido y el blasón transilvano
+
+El cáliz encendido se difundió desde un diseño de Hans Deutsch para la ayuda a refugiados en 1941. También se usa un cáliz físico en el culto de comunidades del [[unitarismo]]. La paloma y la serpiente del blasón de la Iglesia Unitaria Húngara remiten a un motivo evangélico propio de esa iglesia. [106, 107, 108, 109]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -508,3 +525,10 @@ La zarza ardiente del Éxodo aparece en la tradición del [[presbiterianismo|pre
 100. [Presbyterian Church in Ireland, la zarza ardiente en la tradición presbiteriana](https://presbyterianireland.org/resources/press-and-media/burning-bush).
 101. [Christian Church (Disciples of Christ), explicación institucional del cáliz](https://disciples.org/our-identity/the-chalice/).
 102. [Procedencia visual de Copa y otras piezas de un antiguo juego de comunión conservado en Bethany](https://commons.wikimedia.org/wiki/File:Old%20communion%20set%20P6200131.jpg).
+103. [Michael L. Mickler, The Unification Church Movement, Cambridge University Press (2022)](https://www.cambridge.org/core/elements/abs/unification-church-movement/54D08FFC4B547E2BD3D931CEC0B0BB8B).
+104. [Yun-A Johnson, The Traditions Book, guía institucional para familias bendecidas (2020)](https://www.tparents.org/Library/Unification/Books/TraditionsBook-200623.pdf).
+105. [Blessing & Family Ministry de la Federación de Familias de EE. UU., preparación y emparejamiento](https://bfm.familyfed.org/level-2-preparing-for-marriage/matching-process).
+106. [The Unitarians, historia del cáliz encendido de Hans Deutsch](https://www.unitarian.org.uk/the-flaming-chalice/).
+107. [Harvard Divinity School Library, fondos administrativos del Unitarian Universalist Service Committee](https://hollisarchives.lib.harvard.edu/catalog/div16114).
+108. [Unitarian Universalist Society of Schenectady, descripción del blasón unitario transilvano](https://uuschenectady.org/about-us-2/our-partner-church-in-marosvasarhely-transylvania/transylvanian-unitarians-in-marosvasarhely/).
+109. [Wikimedia Commons, cáliz encendido del Departamento de Asuntos de los Veteranos de Estados Unidos](https://commons.wikimedia.org/wiki/File:Flaming_Chalice.svg).

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2863
+palabras: 2950
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -134,6 +134,14 @@ fuentes:
   - "https://pcusa.org/resource/book-order-spanish"
   - "https://www.cambridge.org/core/books/abs/cambridge-companion-to-american-protestantism/stonecampbell-movement/1F4959CCE0BD59A2F2A00E4B2D22D2C6"
   - "https://www.oikoumene.org/church-families/disciples-of-christ/churches-of-christ"
+  - "https://assets.cambridge.org/97810092/41458/excerpt/9781009241458_excerpt.pdf"
+  - "https://www.ffwpu.org.uk/about-us"
+  - "https://www.tparents.org/Library/Unification/Books/dp96/dp96-0-2.htm"
+  - "https://bfm.familyfed.org/level-2-preparing-for-marriage/matching-process"
+  - "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/christianity-unitarianism-and-universalism"
+  - "https://plato.stanford.edu/entries/trinity/unitarianism.html"
+  - "https://guides.library.harvard.edu/c.php?g=253864&p=10485840"
+  - "https://uudux.org/wp-content/uploads/2024/09/Article-II-Purposes-and-Covenant_Final-as-of-GA-2024.pdf"
 ---
 
 # Glosario general
@@ -514,6 +522,16 @@ Aladura se refiere en yoruba a quien ora y da nombre a las [[aladura|iglesias al
 
 Presbiterio designa, en el [[presbiterianismo|presbiterianismo]], un órgano de gobierno que reúne a ministros y ancianos de distintas congregaciones. La sesión gobierna una congregación. En el [[restauracionismo|Movimiento de Restauración]], restauración alude al proyecto de modelar la Iglesia a partir del Nuevo Testamento. El nombre Stone-Campbell acota una familia histórica concreta. [107, 108, 109, 110]
 
+## E21.3 · Iglesia de la Unificación, Unitarismo
+
+### Bendición, Padres Verdaderos y restauración
+
+En la [[unificacion|Iglesia de la Unificación]], Bendición designa un rito matrimonial y familiar relacionado con el linaje religioso. Padres Verdaderos es el título que la Federación de Familias aplica a Moon y Han. Restauración es la recuperación del propósito divino según la doctrina del Principio. [111, 112, 113, 114]
+
+### Unitarismo y universalismo
+
+El [[unitarismo]] cristiano afirma la unidad de Dios y discute la doctrina trinitaria. El universalismo histórico afirma la salvación universal. Unitarismo universalista designa la tradición asociativa nacida de la unión de dos organizaciones estadounidenses en 1961 y desarrollada después en múltiples comunidades. [115, 116, 117, 118]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -647,3 +665,11 @@ Presbiterio designa, en el [[presbiterianismo|presbiterianismo]], un órgano de 
 108. [Presbyterian Church (U.S.A.), Libro de Orden en español, edición 2025–2027](https://pcusa.org/resource/book-order-spanish).
 109. [Cambridge Companion to American Protestantism, el Movimiento Stone-Campbell](https://www.cambridge.org/core/books/abs/cambridge-companion-to-american-protestantism/stonecampbell-movement/1F4959CCE0BD59A2F2A00E4B2D22D2C6).
 110. [Consejo Mundial de Iglesias, familia de los Discípulos de Cristo e Iglesias de Cristo](https://www.oikoumene.org/church-families/disciples-of-christ/churches-of-christ).
+111. [Michael L. Mickler, introducción a The Unification Church Movement, Cambridge University Press](https://assets.cambridge.org/97810092/41458/excerpt/9781009241458_excerpt.pdf).
+112. [Federación de Familias del Reino Unido, presentación, fundadores y escrituras](https://www.ffwpu.org.uk/about-us).
+113. [Exposition of the Divine Principle, edición inglesa de 1996, índice analítico y capítulos](https://www.tparents.org/Library/Unification/Books/dp96/dp96-0-2.htm).
+114. [Blessing & Family Ministry de la Federación de Familias de EE. UU., preparación y emparejamiento](https://bfm.familyfed.org/level-2-preparing-for-marriage/matching-process).
+115. [Encyclopedia of Religion, Unitarianism and Universalism](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/christianity-unitarianism-and-universalism).
+116. [Dale Tuggy, unitarismo y controversias sobre la Trinidad, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/trinity/unitarianism.html).
+117. [Harvard Divinity School Library, documentación de la unión unitaria y universalista en 1961](https://guides.library.harvard.edu/c.php?g=253864&p=10485840).
+118. [Unitarian Universalist Association, artículo II aprobado en la Asamblea General de 2024](https://uudux.org/wp-content/uploads/2024/09/Article-II-Purposes-and-Covenant_Final-as-of-GA-2024.pdf).

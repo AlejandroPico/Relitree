@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2602
+palabras: 2699
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -124,6 +124,12 @@ fuentes:
   - "https://www.scotlandspeople.gov.uk/help-and-support/guides/church-court-records"
   - "https://christianhistoryinstitute.org/magazine/article/how-to-speak-stone-campbell"
   - "https://disciples.org/resources/lectionary/what-is-the-lectionary/"
+  - "https://history.familyfed.org/chronology"
+  - "https://www.tparents.org/Library/Unification/Books/TraditionsBook-200623.pdf"
+  - "https://history.familyfed.org/january-1"
+  - "https://en.unitarius.org/beliefs-values/"
+  - "https://www.unitarian.org.uk/your-special-event/celebrations/"
+  - "https://worshipweb.uua.org/worshipweb/c/11/i/5d1e1769-12c7-413b-b171-c8aea6db94bc/story-norbert-capeks-flower-ceremony"
 ---
 
 # Calendarios y festividades del mundo
@@ -398,6 +404,16 @@ La Iglesia del Señor celebra Tabiẹorar el 22 de agosto e Imeko acoge una pere
 
 Las reuniones dominicales y las ocasiones de comunión estructuraron el año parroquial del [[presbiterianismo|presbiterianismo]]. La Cena semanal tuvo un lugar central en el [[restauracionismo|Movimiento de Restauración]]. Algunas congregaciones de los Discípulos siguen el Leccionario Común Revisado en un ciclo de tres años. [106, 107, 108, 109]
 
+## E21.3 · Iglesia de la Unificación, Unitarismo
+
+### Matrimonio, memoria y fechas sagradas
+
+En la [[unificacion|Iglesia de la Unificación]] se recuerda el matrimonio de los Padres Verdaderos de 1960 y la celebración del Día de la Fundación en 2013. La conversión de las fechas rituales anunciadas en calendarios internos a fechas civiles requiere identificar el año y la organización. [110, 111, 112]
+
+### Calendarios unitarios y ceremonia de las flores
+
+La Iglesia Unitaria Húngara celebra la comunión en Navidad, Pascua, Pentecostés y la acción de gracias otoñal. También conmemora la libertad religiosa el 13 de enero. En el [[unitarismo]] de herencia pluralista, la ceremonia de las flores desarrollada en Praga en 1923 se celebra en la fecha que decide cada congregación. [113, 114, 115]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -521,3 +537,9 @@ Las reuniones dominicales y las ocasiones de comunión estructuraron el año par
 107. [Scotland’s People, guía de tribunales y asambleas de la Iglesia](https://www.scotlandspeople.gov.uk/help-and-support/guides/church-court-records).
 108. [Christian History Institute, vocabulario y prácticas del Movimiento Stone-Campbell](https://christianhistoryinstitute.org/magazine/article/how-to-speak-stone-campbell).
 109. [Christian Church (Disciples of Christ), uso del leccionario común revisado](https://disciples.org/resources/lectionary/what-is-the-lectionary/).
+110. [SunHak Institute of History USA, cronología institucional](https://history.familyfed.org/chronology).
+111. [Yun-A Johnson, The Traditions Book, guía institucional para familias bendecidas (2020)](https://www.tparents.org/Library/Unification/Books/TraditionsBook-200623.pdf).
+112. [SunHak Institute of History USA, fechas conmemorativas y celebraciones de enero](https://history.familyfed.org/january-1).
+113. [Iglesia Unitaria Húngara, creencias, culto, celebraciones y ritos](https://en.unitarius.org/beliefs-values/).
+114. [The Unitarians, celebraciones y ritos de paso en Gran Bretaña](https://www.unitarian.org.uk/your-special-event/celebrations/).
+115. [UUA WorshipWeb, Norbert Čapek y la ceremonia de las flores](https://worshipweb.uua.org/worshipweb/c/11/i/5d1e1769-12c7-413b-b171-c8aea6db94bc/story-norbert-capeks-flower-ceremony).

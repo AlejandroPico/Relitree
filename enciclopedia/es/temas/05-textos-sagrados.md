@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2993
+palabras: 3092
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -134,6 +134,13 @@ fuentes:
   - "https://pcusa.org/about-pcusa/agencies-entities/life-witness/ministry-areas/constitutional-interpretation/constitution"
   - "https://discipleshistory.org/wiki/campbell-alexander-1788-1866/"
   - "https://digitalcommons.discipleshistory.org/files/Thomas%20Campbell%20Declaration%20and%20Address%20of%20the%20Christian%20Associa.pdf"
+  - "https://www.ffwpu.org.uk/about-us"
+  - "https://journals.uts.edu/volume-ii-1998/17-a-study-of-the-formation-and-history-of-the-unification-principle"
+  - "https://www.tparents.org/Library/Unification/Books/dp96/dp96-0-2.htm"
+  - "https://history.familyfed.org/pdf/csg2014"
+  - "https://research.gold.ac.uk/31248/1/Racovian_Catechism_paper_x_History_ds%20edits%20AH%20DL%20WITHOUT%20FIGURES.pdf"
+  - "https://hollisarchives.lib.harvard.edu/catalog/div00480_div00480c00028"
+  - "https://en.unitarius.org/unitarian-catechism/"
 ---
 
 # Textos sagrados del mundo comparados
@@ -422,6 +429,16 @@ En las [[aladura|iglesias aladura]], la Biblia se lee en un entorno de traducci�
 
 En el [[presbiterianismo|presbiterianismo]], la Biblia ocupa el lugar principal y diversas iglesias reciben los estándares de Westminster como texto confesional. El [[restauracionismo|Movimiento de Restauración]] hizo del Nuevo Testamento una referencia para el culto y la organización. La Declaration and Address de 1809 es una propuesta de reforma, y The Living Oracles es una edición de una traducción bíblica. [114, 115, 116, 117]
 
+## E21.3 · Iglesia de la Unificación, Unitarismo
+
+### El Principio Divino y la interpretación de la Biblia
+
+La [[unificacion|Iglesia de la Unificación]] lee el Génesis y el Nuevo Testamento mediante el Principio Divino. El manuscrito de 1952, las exposiciones coreanas de 1957 y 1966 y la edición inglesa de 1996 representan fases distintas de transmisión. La Federación de Familias también recibe compilaciones posteriores de enseñanzas de Moon y Han. [118, 119, 120, 121]
+
+### Catecismos y sermones unitarios
+
+En el [[unitarismo]], el Catecismo Racoviano explica las creencias de los Hermanos Polacos. El sermón de Channing de 1819 argumenta a favor de una interpretación unitaria de la Biblia. El catecismo actual de la Iglesia Unitaria Húngara tiene su propio uso en la enseñanza y el culto. [122, 123, 124]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -555,3 +572,10 @@ En el [[presbiterianismo|presbiterianismo]], la Biblia ocupa el lugar principal 
 115. [Presbyterian Church (U.S.A.), Constitución, documentos doctrinales y de gobierno](https://pcusa.org/about-pcusa/agencies-entities/life-witness/ministry-areas/constitutional-interpretation/constitution).
 116. [Disciples Historical Society, Alexander Campbell](https://discipleshistory.org/wiki/campbell-alexander-1788-1866/).
 117. [Thomas Campbell, Declaration and Address of the Christian Association of Washington, edición de archivo](https://digitalcommons.discipleshistory.org/files/Thomas%20Campbell%20Declaration%20and%20Address%20of%20the%20Christian%20Associa.pdf).
+118. [Federación de Familias del Reino Unido, presentación, fundadores y escrituras](https://www.ffwpu.org.uk/about-us).
+119. [Jin Choon Kim, historia de la formación del Principio, Journal of Unification Studies (1998)](https://journals.uts.edu/volume-ii-1998/17-a-study-of-the-formation-and-history-of-the-unification-principle).
+120. [Exposition of the Divine Principle, edición inglesa de 1996, índice analítico y capítulos](https://www.tparents.org/Library/Unification/Books/dp96/dp96-0-2.htm).
+121. [SunHak Institute of History USA, Cheon Seong Gyeong, edición de 2014](https://history.familyfed.org/pdf/csg2014).
+122. [Ariel Hessayon y Diego Lucci, The Supposed Burning of the Racovian Catechism, repositorio de Goldsmiths](https://research.gold.ac.uk/31248/1/Racovian_Catechism_paper_x_History_ds%20edits%20AH%20DL%20WITHOUT%20FIGURES.pdf).
+123. [Harvard Divinity School Library, manuscrito Unitarian Christianity de William Ellery Channing (1819)](https://hollisarchives.lib.harvard.edu/catalog/div00480_div00480c00028).
+124. [Iglesia Unitaria Húngara, edición del catecismo unitario](https://en.unitarius.org/unitarian-catechism/).

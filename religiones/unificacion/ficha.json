@@ -14,5 +14,12 @@
   "influencias": [
     "muismo"
   ],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Dos anillos enlazados bajo un arco, inspirados en la Bendición matrimonial",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://commons.wikimedia.org/wiki/File:TPblessing_ceremony.jpg"
+  }
 }

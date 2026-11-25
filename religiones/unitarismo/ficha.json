@@ -15,7 +15,9 @@
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Flaming_Chalice.svg",
-    "licencia": "Public domain",
-    "autor": "United States Department of Veterans Affairs"
+    "licencia": "Dominio público",
+    "autor": "United States Department of Veterans Affairs",
+    "motivo": "Cáliz encendido de la tradición unitaria y unitaria universalista",
+    "motivo_fuente": "https://www.unitarian.org.uk/the-flaming-chalice/"
   }
 }

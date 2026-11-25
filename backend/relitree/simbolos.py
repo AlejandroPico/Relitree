@@ -1180,7 +1180,14 @@ def _():
     return copa + pan
 
 
+@motivo("anillos_bendicion_unificacion", "Dos anillos enlazados bajo un arco, inspirados en la Bendición matrimonial")
+def _():
+    arco = P("M19 55V44a31 31 0 0 1 62 0v11M26 45a24 24 0 0 1 48 0")
+    anillos = P("M51 63a12 12 0 1 0-11 12h3M49 59a12 12 0 1 1 11 16 12 12 0 0 1-11-12M18 82h64")
+    return arco + anillos
+
 ASIGNACION = {
+    'unificacion': 'anillos_bendicion_unificacion',
     'restauracionismo': 'copa_pan_stone_campbell',
     'aladura': 'oracion_arrodillada_aladura',
     'harrismo': 'baston_cruz_bautismo',
