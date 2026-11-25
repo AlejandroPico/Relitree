@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2859
+palabras: 2924
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -141,6 +141,11 @@ fuentes:
   - "https://www.christianscience.com/es/publicaciones-y-actividades/servicios-religiosos"
   - "https://www.marybakereddylibrary.org/research/what-is-the-background-of-the-bible-lesson-subjects-2/"
   - "https://www.christianscience.com/the-mother-church-in-boston/the-mother-church-services/online-thanksgiving-service"
+  - "https://www.jesuits.global/es/2025/07/30/fiesta-de-san-ignacio-de-loyola/"
+  - "https://www.jesuits.global/2022/12/03/3-december-praying-with-st-francis-xavier/"
+  - "https://plato.stanford.edu/entries/arnauld/index.html"
+  - "https://www.cuapress.org/9780813238364/jansenism/"
+  - "https://www.newadvent.org/cathen/08285a.htm"
 ---
 
 # Calendarios y festividades del mundo
@@ -445,6 +450,16 @@ En la iglesia mayoritaria del [[mormonismo|movimiento de los Santos de los Últi
 
 La [[ciencia-cristiana|Ciencia Cristiana]] emplea un ciclo de veintiséis temas para las lecciones de los domingos. En Boston, la Iglesia Madre celebra también un servicio de Acción de Gracias con ocasión de la festividad estadounidense. [124, 125, 126]
 
+## E21.6 · Compañía de Jesús, Jansenismo
+
+### Ignacio de Loyola y Francisco Javier
+
+La [[jesuitas|Compañía de Jesús]] participa en el calendario litúrgico católico. Recuerda en particular a Ignacio de Loyola el 31 de julio y a Francisco Javier el 3 de diciembre. [127, 128]
+
+### Cuaresma, comunión y preparación
+
+Las controversias del [[jansenismo|jansenismo]] sobre penitencia y comunión afectaron a formas de participación en el calendario católico. Las disputas concernían a la preparación para comulgar y al papel del confesor dentro de la vida sacramental compartida. [129, 130, 131]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -585,3 +600,8 @@ La [[ciencia-cristiana|Ciencia Cristiana]] emplea un ciclo de veintiséis temas 
 124. [La Iglesia Madre. Servicios religiosos de los domingos y miércoles](https://www.christianscience.com/es/publicaciones-y-actividades/servicios-religiosos).
 125. [The Mary Baker Eddy Library. Los temas de las lecciones bíblicas](https://www.marybakereddylibrary.org/research/what-is-the-background-of-the-bible-lesson-subjects-2/).
 126. [La Iglesia Madre. Servicio de Acción de Gracias](https://www.christianscience.com/the-mother-church-in-boston/the-mother-church-services/online-thanksgiving-service).
+127. [Compañía de Jesús. Fiesta de san Ignacio de Loyola](https://www.jesuits.global/es/2025/07/30/fiesta-de-san-ignacio-de-loyola/).
+128. [Compañía de Jesús. Celebración del 3 de diciembre, Francisco Javier](https://www.jesuits.global/2022/12/03/3-december-praying-with-st-francis-xavier/).
+129. [Stanford Encyclopedia of Philosophy. Antoine Arnauld](https://plato.stanford.edu/entries/arnauld/index.html).
+130. [Shaun Blanchard y Richard T. Yoder, eds. Jansenism: An International Anthology](https://www.cuapress.org/9780813238364/jansenism/).
+131. [Catholic Encyclopedia. Jansenius and Jansenism](https://www.newadvent.org/cathen/08285a.htm).

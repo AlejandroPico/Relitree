@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 3038
+palabras: 3108
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -159,6 +159,12 @@ fuentes:
   - "https://www.christianscience.com/what-we-believe/church"
   - "https://www2.census.gov/library/publications/1910/demographics/religious-bodies-1906/1906-religious-bodies-part-2.pdf"
   - "https://www.christianscience.com/the-mother-church-in-boston/the-mother-church-reading-room"
+  - "https://www.cambridge.org/core/books/abs/cambridge-encyclopedia-of-the-jesuits/constitutions/1F34497B9616E394FB2E733637E0668B"
+  - "https://www.jesuits.global/es/2026/10/02/congregacion-general-36-diez-anos-despues/"
+  - "https://www.jesuits.global/ministries/education/"
+  - "https://port-royal-des-champs.fr/lhistoire/de-la-destruction-a-la-memoire/"
+  - "https://oudkatholiek.nl/achtergrond/geschiedenis-2/kerkgeschiedenis/"
+  - "https://llo.uvt.nl/dossieritem/oud-katholieke-kerk/oud-katholieke-kerk"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -473,6 +479,16 @@ En el [[mormonismo|movimiento de los Santos de los Últimos Días]], el informe 
 
 La [[ciencia-cristiana|Ciencia Cristiana]] tiene su centro institucional en Boston. Congregaciones y salas de lectura permiten cartografiar su presencia en otros lugares. Los directorios actuales y los censos históricos miden fenómenos de fechas y escalas diferentes. [138, 139, 140]
 
+## E21.6 · Compañía de Jesús, Jansenismo
+
+### Provincias y redes educativas
+
+El mapa de la [[jesuitas|Compañía de Jesús]] comprende provincias, comunidades y centros vinculados a redes internacionales. Un centro educativo puede tener un vínculo jesuita de misión o gobierno y contar con personal y alumnado de trayectorias diversas. [141, 142, 143]
+
+### Port-Royal y Utrecht
+
+La memoria del [[jansenismo|jansenismo]] conserva lugares de referencia como Port-Royal-des-Champs. La continuidad episcopal documentada en Utrecht desde el siglo XVIII pertenece a la historia propia de la Iglesia veterocatólica de los Países Bajos. [144, 145, 146]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -631,3 +647,9 @@ La [[ciencia-cristiana|Ciencia Cristiana]] tiene su centro institucional en Bost
 138. [La Iglesia Madre. Church](https://www.christianscience.com/what-we-believe/church).
 139. [U.S. Census Bureau. Religious Bodies, 1906, parte II](https://www2.census.gov/library/publications/1910/demographics/religious-bodies-1906/1906-religious-bodies-part-2.pdf).
 140. [La Iglesia Madre. Sala de lectura de Boston](https://www.christianscience.com/the-mother-church-in-boston/the-mother-church-reading-room).
+141. [The Cambridge Encyclopedia of the Jesuits. Constitutions](https://www.cambridge.org/core/books/abs/cambridge-encyclopedia-of-the-jesuits/constitutions/1F34497B9616E394FB2E733637E0668B).
+142. [Compañía de Jesús. Congregación General 36, diez años después](https://www.jesuits.global/es/2026/10/02/congregacion-general-36-diez-anos-despues/).
+143. [Compañía de Jesús. Educación](https://www.jesuits.global/ministries/education/).
+144. [Musée national de Port-Royal des Champs. De la destruction à la mémoire](https://port-royal-des-champs.fr/lhistoire/de-la-destruction-a-la-memoire/).
+145. [Iglesia Veterocatólica de los Países Bajos. Historia eclesiástica](https://oudkatholiek.nl/achtergrond/geschiedenis-2/kerkgeschiedenis/).
+146. [Tilburg University, Lucepedia. Iglesia veterocatólica neerlandesa](https://llo.uvt.nl/dossieritem/oud-katholieke-kerk/oud-katholieke-kerk).

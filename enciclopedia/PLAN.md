@@ -391,7 +391,7 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 
 ## Fase E21 · Cristianismo · tradiciones (8/9)
 
-**Estado.** Publicadas las entregas 21.1–21.5. Última versión: 1.7.82. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
+**Estado.** Fase completa. Publicadas las entregas 21.1–21.6. Última versión: 1.7.83. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
 - [x] 21.1 · [Iglesias aladura](es/religiones/aladura.md). 10.040 palabras de cuerpo y 13 figuras.
 - [x] 21.1 · [Iglesias reformadas (calvinismo)](es/religiones/reformada.md). 10.017 palabras de cuerpo y 12 figuras.
@@ -403,8 +403,8 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 - [x] 21.4 · [Arminianismo](es/religiones/arminianismo.md). 10.039 palabras de cuerpo y 13 figuras.
 - [x] 21.5 · [Mormonismo](es/religiones/mormonismo.md). 10.077 palabras de cuerpo y 11 figuras.
 - [x] 21.5 · [Ciencia Cristiana](es/religiones/ciencia-cristiana.md). 10.061 palabras de cuerpo y 12 figuras.
-- [ ] 21.6 · Compañía de Jesús (`jesuitas`)
-- [ ] 21.6 · Jansenismo (`jansenismo`)
+- [x] 21.6 · [Compañía de Jesús](es/religiones/jesuitas.md). 10.116 palabras de cuerpo y 12 figuras.
+- [x] 21.6 · [Jansenismo](es/religiones/jansenismo.md). 10.107 palabras de cuerpo y 12 figuras.
 
 ## Fase E22 · Cristianismo · tradiciones (9/9)
 

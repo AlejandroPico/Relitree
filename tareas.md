@@ -4,6 +4,11 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E21 · 21.6. [Compañía de Jesús](enciclopedia/es/religiones/jesuitas.md). 10.116 palabras de cuerpo y 12 figuras. Versión 1.7.83.
+- [x] E21 · 21.6. [Jansenismo](enciclopedia/es/religiones/jansenismo.md). 10.107 palabras de cuerpo y 12 figuras. Versión 1.7.83.
+  - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.
+  - Revisado el historial de Cienciología. Se añade a Thelema como influencia documentada y se explica el alcance discutido del vínculo con Crowley. La derivación histórica retirada en la 17.7 sigue sustituida por la explicación del origen en la dianética.
+
 - [x] E21 · 21.5. [Mormonismo](enciclopedia/es/religiones/mormonismo.md). 10.077 palabras de cuerpo y 11 figuras. Versión 1.7.82.
 - [x] E21 · 21.5. [Ciencia Cristiana](enciclopedia/es/religiones/ciencia-cristiana.md). 10.061 palabras de cuerpo y 12 figuras. Versión 1.7.82.
   - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.

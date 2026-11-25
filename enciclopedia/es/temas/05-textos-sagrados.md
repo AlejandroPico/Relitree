@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 3258
+palabras: 3325
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -155,6 +155,11 @@ fuentes:
   - "https://www.churchofjesuschrist.org/study/scriptures?lang=spa"
   - "https://www.christianscience.com/what-we-believe/the-bible-and-science-and-health"
   - "https://biblelesson.christianscience.com/about/related-information/order-of-services"
+  - "https://www.jesuits.global/spirituality/spiritual-exercices/"
+  - "https://www.cambridge.org/core/books/abs/cambridge-encyclopedia-of-the-jesuits/constitutions/1F34497B9616E394FB2E733637E0668B"
+  - "https://port-royal-des-champs.fr/lhistoire/port-royal-des-champs-et-le-jansenisme/"
+  - "https://www.bibliasacra.nl/edition/1667.NTpart.fre.GMi.a/"
+  - "https://catalogue.bnf.fr/ark:/12148/cb361184536"
 ---
 
 # Textos sagrados del mundo comparados
@@ -473,6 +478,16 @@ En el [[mormonismo|movimiento de los Santos de los Últimos Días]], la iglesia 
 
 La [[ciencia-cristiana|Ciencia Cristiana]] llama Pastor al conjunto formado por la Biblia y Ciencia y salud con clave de las Escrituras, de Mary Baker Eddy. En la lección dominical dos lectores alternan las selecciones de los dos libros. [137, 138]
 
+## E21.6 · Compañía de Jesús, Jansenismo
+
+### Los Ejercicios y la lectura del Evangelio
+
+Los Ejercicios espirituales de la [[jesuitas|Compañía de Jesús]] ordenan una experiencia guiada de oración y elección. En varias meditaciones se contempla una escena evangélica y se conversa después con quien acompaña el retiro. [139, 140]
+
+### El trabajo bíblico de Port-Royal
+
+El entorno del [[jansenismo|jansenismo de Port-Royal]] preparó la traducción francesa del Nuevo Testamento de Mons, publicada en 1667. La Biblia de Lemaistre de Sacy circuló en otras ediciones y entre públicos con intereses diversos. [141, 142, 143]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -627,3 +642,8 @@ La [[ciencia-cristiana|Ciencia Cristiana]] llama Pastor al conjunto formado por 
 136. [La Iglesia de Jesucristo de los Santos de los Últimos Días. Biblioteca de las Escrituras](https://www.churchofjesuschrist.org/study/scriptures?lang=spa).
 137. [La Iglesia Madre. La Biblia y Ciencia y salud](https://www.christianscience.com/what-we-believe/the-bible-and-science-and-health).
 138. [La Iglesia Madre. Orden de los servicios](https://biblelesson.christianscience.com/about/related-information/order-of-services).
+139. [Compañía de Jesús. Los Ejercicios espirituales](https://www.jesuits.global/spirituality/spiritual-exercices/).
+140. [The Cambridge Encyclopedia of the Jesuits. Constitutions](https://www.cambridge.org/core/books/abs/cambridge-encyclopedia-of-the-jesuits/constitutions/1F34497B9616E394FB2E733637E0668B).
+141. [Musée national de Port-Royal des Champs. Port-Royal des Champs y el jansenismo](https://port-royal-des-champs.fr/lhistoire/port-royal-des-champs-et-le-jansenisme/).
+142. [Biblia Sacra. Descripción bibliográfica del Nuevo Testamento de Mons de 1667](https://www.bibliasacra.nl/edition/1667.NTpart.fre.GMi.a/).
+143. [Bibliothèque nationale de France. Biblia traducida por Lemaistre de Sacy](https://catalogue.bnf.fr/ark:/12148/cb361184536).

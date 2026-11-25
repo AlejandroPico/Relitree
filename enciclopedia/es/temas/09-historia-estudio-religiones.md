@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2962
+palabras: 3025
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -176,6 +176,11 @@ fuentes:
   - "https://www.ucpress.edu/book/9780520304055/the-emergence-of-christian-science-in-american-religious-life"
   - "https://mbepapers.org/"
   - "https://www.marybakereddylibrary.org/wp-content/uploads/2019/08/LSC004_GeorgineMilmineCollection.pdf"
+  - "https://guides.library.georgetown.edu/c.php?g=1052022&p=8007924"
+  - "https://arsi.jesuits.global/en/archival-holdings/"
+  - "https://libraries.catholic.edu/special-collections/rare-books/jansenism.html"
+  - "https://port-royal.univ-rouen.fr/le-jansenisme-fantome-ou-realite/"
+  - "https://www.cuapress.org/9780813238364/jansenism/"
 ---
 
 # Historia del estudio de las religiones
@@ -484,6 +489,16 @@ The Joseph Smith Papers permite seguir cómo el [[mormonismo|movimiento de los S
 
 Para estudiar la [[ciencia-cristiana|Ciencia Cristiana]] se pueden cruzar la correspondencia de Mary Baker Eddy, ediciones históricas de Ciencia y salud, la serie de McClure’s y estudios de historia religiosa estadounidense. [151, 152, 153, 154]
 
+## E21.6 · Compañía de Jesús, Jansenismo
+
+### Archivos romanos, vínculos locales
+
+El archivo romano de la [[jesuitas|Compañía de Jesús]] permite localizar catálogos, correspondencia y fondos de provincias. Archivos locales como los de Georgetown conservan documentación sobre la esclavitud y sus consecuencias para familias concretas. [155, 156]
+
+### Un nombre polémico y varias escalas
+
+Para estudiar el [[jansenismo|jansenismo]] conviene cotejar el Augustinus, las condenas, la correspondencia y la documentación política. El significado de la etiqueta depende de quién la utilizó y en qué conflicto. [157, 158, 159]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -659,3 +674,8 @@ Para estudiar la [[ciencia-cristiana|Ciencia Cristiana]] se pueden cruzar la cor
 152. [Stephen Gottschalk. The Emergence of Christian Science in American Religious Life, University of California Press](https://www.ucpress.edu/book/9780520304055/the-emergence-of-christian-science-in-american-religious-life).
 153. [The Mary Baker Eddy Papers. Correspondencia y documentos](https://mbepapers.org/).
 154. [The Mary Baker Eddy Library. Fondo Georgine Milmine](https://www.marybakereddylibrary.org/wp-content/uploads/2019/08/LSC004_GeorgineMilmineCollection.pdf).
+155. [Georgetown University Library. Maryland Province Archives y la esclavitud](https://guides.library.georgetown.edu/c.php?g=1052022&p=8007924).
+156. [Archivum Romanum Societatis Iesu. Fondos archivísticos](https://arsi.jesuits.global/en/archival-holdings/).
+157. [Catholic University of America Libraries. Jansenismo y sus fuentes impresas](https://libraries.catholic.edu/special-collections/rare-books/jansenism.html).
+158. [Université de Rouen Normandie. Le jansénisme, « Phantôme » ou réalité ?](https://port-royal.univ-rouen.fr/le-jansenisme-fantome-ou-realite/).
+159. [Shaun Blanchard y Richard T. Yoder, eds. Jansenism: An International Anthology](https://www.cuapress.org/9780813238364/jansenism/).

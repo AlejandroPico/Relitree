@@ -6,7 +6,9 @@
   "tipo": "nmr",
   "importancia": 1,
   "padres": [],
-  "influencias": [],
+  "influencias": [
+    "thelema"
+  ],
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Scientology_Logo.svg",

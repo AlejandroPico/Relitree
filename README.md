@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.82**
+**Versión 1.7.83**
+
+[Entrega 21.6 de la fase E21](enciclopedia/PLAN.md#fase-e21--cristianismo--tradiciones-89). Compañía de Jesús, Jansenismo. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
 [Entrega 21.5 de la fase E21](enciclopedia/PLAN.md#fase-e21--cristianismo--tradiciones-89). Mormonismo, Ciencia Cristiana. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 

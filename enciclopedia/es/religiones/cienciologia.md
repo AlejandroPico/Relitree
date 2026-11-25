@@ -1,7 +1,7 @@
 ---
 estado: completo
 fase: E17
-palabras: 5030
+palabras: 5115
 ficha_resumen: {"Origen": "Dianética en 1950 y primeras iglesias en 1953–1954 en Estados Unidos.", "Fundador": "L. Ron Hubbard.", "Prácticas": "Auditación, cursos y ceremonias propias de la Iglesia.", "Fuentes": "Publicaciones institucionales, investigación histórica y resoluciones judiciales por jurisdicción."}
 fuentes:
   - "https://academic.oup.com/book/2335/chapter-abstract/142487236"
@@ -31,6 +31,9 @@ fuentes:
   - "https://commons.wikimedia.org/wiki/File:L._Ron_Hubbard_conducting_Dianetics_seminar_in_Los_Angeles_in_1950.jpg"
   - "https://commons.wikimedia.org/wiki/File:Scientology_-_The_E-Meter.jpg"
   - "https://commons.wikimedia.org/wiki/File:Church-of-Scientology-Big_Blue-Los-Angeles.jpg"
+  - "https://doi.org/10.1525/nr.2012.15.3.91"
+  - "https://doi.org/10.1163/15685276-12341406"
+  - "https://uodiyala.edu.iq/uploads/PDF%20ELIBRARY%20UODIYALA/EL45/Dictionary%20of%20Gnosis%20%26%20Western%20Esotericism.pdf"
 ---
 
 # Cienciología
@@ -226,7 +229,9 @@ Los materiales institucionales explican qué objetivos declara la Cienciología,
 
 ### El mapa y el lugar de la comparación
 
-En su formación se pueden estudiar paralelos históricos con propuestas anteriores de reforma personal, vocabularios psicológicos y otras corrientes de religión estadounidense. La cronología debe tener en cuenta las obras de Hubbard, su público, los grupos de dianética y las primeras iglesias. La afirmación de que una institución se separó de otra requiere documentación de vínculos y de una decisión de separación. La explicación comparativa del árbol se apoya aquí en los antecedentes rastreables dentro de su propia historia. Las semejanzas con el Nuevo Pensamiento quedan explicadas en el texto, donde cabe precisar qué comparten y qué caminos siguieron al organizar prácticas, autoridades y centros. [1, 2, 4, 5, 11]
+En su formación se pueden estudiar paralelos históricos con propuestas anteriores de reforma personal, vocabularios psicológicos y otras corrientes de religión estadounidense. La cronología debe tener en cuenta las obras de Hubbard, su público, los grupos de dianética y las primeras iglesias. La afirmación de que una institución se separó de otra requiere documentación de vínculos y de una decisión de separación. Las semejanzas con el Nuevo Pensamiento quedan explicadas en el texto, donde cabe precisar qué comparten y qué caminos siguieron al organizar prácticas, autoridades y centros. [1, 2, 4, 5, 11]
+
+En 1946, Hubbard colaboró durante un periodo breve con Jack Parsons, vinculado a la logia californiana de la Ordo Templi Orientis y a [[thelema|Thelema]], la corriente asociada a Aleister Crowley. Henrik Bogdan documenta aquel contacto. Hugh B. Urban propone reconocer ideas de Crowley entre las diversas influencias de la primera Cienciología. La entrada correspondiente del Dictionary of Gnosis and Western Esotericism concede escaso peso a una transmisión doctrinal específica, pese al contacto documentado. El atlas dibuja una relación de influencia para recoger esa conexión estudiada. El origen inmediato de la organización de Hubbard se sigue en la dianética y sus primeras asociaciones. [28-30]
 
 Las conmemoraciones institucionales incluyen el cumpleaños de Hubbard, el 13 de marzo, y el aniversario de la publicación de *Dianetics*, el 9 de mayo. Esas fechas identifican prácticas que la Iglesia enumera en su propio calendario de celebraciones. [22]
 
@@ -243,6 +248,7 @@ Las conmemoraciones institucionales incluyen el cumpleaños de Hubbard, el 13 de
 | 1993 | Reconocimiento de la exención fiscal a entidades en Estados Unidos. |
 | 2007 | Sentencias sobre registro en España y sobre la entidad de Moscú. |
 | 2013 | Decisión *Hodkin* en el Reino Unido y resoluciones de casación en Francia. |
+
 
 ## Fuentes
 
@@ -273,3 +279,6 @@ Las conmemoraciones institucionales incluyen el cumpleaños de Hubbard, el 13 de
 25. [Procedencia visual: L. Ron Hubbard dirige un seminario de dianética en Los Ángeles en 1950](https://commons.wikimedia.org/wiki/File:L._Ron_Hubbard_conducting_Dianetics_seminar_in_Los_Angeles_in_1950.jpg).
 26. [Procedencia visual: Electrómetro Mark VI empleado en la auditación cienciológica](https://commons.wikimedia.org/wiki/File:Scientology_-_The_E-Meter.jpg).
 27. [Procedencia visual: Vista nocturna del edificio Big Blue en Los Ángeles](https://commons.wikimedia.org/wiki/File:Church-of-Scientology-Big_Blue-Los-Angeles.jpg).
+28. [Hugh B. Urban. The Occult Roots of Scientology?, Nova Religio](https://doi.org/10.1525/nr.2012.15.3.91).
+29. [Henrik Bogdan. The Babalon Working 1946, Numen](https://doi.org/10.1163/15685276-12341406).
+30. [Dictionary of Gnosis and Western Esotericism. Entrada Scientology](https://uodiyala.edu.iq/uploads/PDF%20ELIBRARY%20UODIYALA/EL45/Dictionary%20of%20Gnosis%20%26%20Western%20Esotericism.pdf).

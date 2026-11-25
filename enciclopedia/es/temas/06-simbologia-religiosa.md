@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2995
+palabras: 3061
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -132,6 +132,11 @@ fuentes:
   - "https://churchhistorylibrary.churchofjesuschrist.org/blog/ask-us-top-five-reference-questions-about-the-angel-moroni-statue?lang=eng"
   - "https://www.christianscience.com/what-we-believe/the-bible-and-science-and-health"
   - "https://www.marybakereddylibrary.org/research/history-of-the-cross-and-crown-emblem/"
+  - "https://www.jesuits.global/about-us/our-history/"
+  - "https://www.cambridge.org/core/books/cambridge-encyclopedia-of-the-jesuits/B772B3EF6D740572E3BAD764BFF35DFA"
+  - "https://doi.org/10.1163/9789004498228_002"
+  - "https://www.rijksmuseum.nl/en/collection/object/H-Augustinus-met-brandend-hart--6e3d2b4985732f642fb257a670af3b15"
+  - "https://www.cuapress.org/9780813238364/jansenism/"
 ---
 
 # Simbología religiosa comparada
@@ -436,6 +441,16 @@ La trompeta del atlas remite a las estatuas de Moroni en muchos templos de la ra
 
 La cruz con corona tiene una historia propia en la [[ciencia-cristiana|Ciencia Cristiana]]. La Iglesia Madre registró su versión en 1915. Los dos libros abiertos del atlas aluden a la Biblia y a Ciencia y salud, que constituyen el Pastor de la tradición. [116, 117]
 
+## E21.6 · Compañía de Jesús, Jansenismo
+
+### IHS en la tradición jesuita
+
+La [[jesuitas|Compañía de Jesús]] adoptó el monograma del nombre de Jesús, de uso cristiano anterior, y lo difundió en portadas, iglesias y documentos. En distintas composiciones lo acompañan rayos, una cruz y clavos. [118, 119, 120]
+
+### El corazón en llamas del Augustinus
+
+El icono del atlas para el [[jansenismo|jansenismo]] combina un libro con el corazón en llamas que lleva Agustín en el frontispicio lovaniense de 1640. Es una alusión documental a la obra de Jansenius. [121, 122]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -568,3 +583,8 @@ La cruz con corona tiene una historia propia en la [[ciencia-cristiana|Ciencia C
 115. [Church History Library. Preguntas sobre las estatuas del ángel Moroni](https://churchhistorylibrary.churchofjesuschrist.org/blog/ask-us-top-five-reference-questions-about-the-angel-moroni-statue?lang=eng).
 116. [La Iglesia Madre. La Biblia y Ciencia y salud](https://www.christianscience.com/what-we-believe/the-bible-and-science-and-health).
 117. [The Mary Baker Eddy Library. Historia del emblema de la cruz y la corona](https://www.marybakereddylibrary.org/research/history-of-the-cross-and-crown-emblem/).
+118. [Compañía de Jesús. Nuestra historia](https://www.jesuits.global/about-us/our-history/).
+119. [Thomas Worcester, ed. The Cambridge Encyclopedia of the Jesuits](https://www.cambridge.org/core/books/cambridge-encyclopedia-of-the-jesuits/B772B3EF6D740572E3BAD764BFF35DFA).
+120. [Brill. Jesuit Art](https://doi.org/10.1163/9789004498228_002).
+121. [Rijksmuseum. Frontispicio del Augustinus de 1640](https://www.rijksmuseum.nl/en/collection/object/H-Augustinus-met-brandend-hart--6e3d2b4985732f642fb257a670af3b15).
+122. [Shaun Blanchard y Richard T. Yoder, eds. Jansenism: An International Anthology](https://www.cuapress.org/9780813238364/jansenism/).

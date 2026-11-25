@@ -1211,7 +1211,16 @@ def _():
     return libros + luz
 
 
+@motivo("corazon_libro_augustinus", "Libro y corazón en llamas inspirados en el frontispicio lovaniense del Augustinus de 1640")
+def _():
+    libro = P("M12 56Q31 49 50 63Q69 49 88 56V78Q70 72 50 84Q30 72 12 78ZM50 63V84")
+    corazon = P("M50 57Q26 43 35 32Q42 25 50 34Q58 25 65 32Q74 43 50 57Z")
+    llama = P("M45 29Q41 21 49 13Q50 19 54 21Q57 16 57 13Q65 22 57 30")
+    return libro + corazon + llama
+
+
 ASIGNACION = {
+    'jansenismo': 'corazon_libro_augustinus',
     'mormonismo': 'trompeta_moroni',
     'ciencia-cristiana': 'libros_pastor_ciencia_cristiana',
     'humanismo': 'figura_brazos_humanismo',

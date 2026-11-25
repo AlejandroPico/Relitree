@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 3115
+palabras: 3172
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -154,6 +154,11 @@ fuentes:
   - "https://www.churchofjesuschrist.org/study/manual/general-handbook/28?lang=eng"
   - "https://www.christianscience.com/what-we-believe/the-bible-and-science-and-health"
   - "https://biblelesson.christianscience.com/about/related-information/order-of-services"
+  - "https://www.jesuits.global/spirituality/spiritual-exercices/"
+  - "https://www.cambridge.org/core/books/abs/cambridge-encyclopedia-of-the-jesuits/constitutions/1F34497B9616E394FB2E733637E0668B"
+  - "https://plato.stanford.edu/entries/arnauld/index.html"
+  - "https://academic.oup.com/book/12871/chapter-abstract/163190592"
+  - "https://www.newadvent.org/cathen/08285a.htm"
 ---
 
 # Glosario general
@@ -564,6 +569,16 @@ En la rama mayoritaria del [[mormonismo|movimiento de los Santos de los Últimos
 
 Nombre dado al conjunto de la Biblia y Ciencia y salud con clave de las Escrituras en la [[ciencia-cristiana|Ciencia Cristiana]]. Los lectores elegidos por cada congregación ponen ambos libros en diálogo durante el servicio. [129, 130]
 
+## E21.6 · Compañía de Jesús, Jansenismo
+
+### Discernimiento ignaciano
+
+Examen de los movimientos interiores y de las circunstancias de una decisión. Los Ejercicios de la [[jesuitas|Compañía de Jesús]] incluyen reglas y prácticas de oración para orientar ese proceso. [131, 132]
+
+### Cuestión de derecho y cuestión de hecho
+
+En el conflicto del [[jansenismo|jansenismo]], distinción entre condenar una proposición en un sentido determinado y afirmar que el Augustinus de Jansenius contenía esa doctrina en el sentido condenado. [133, 134, 135]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -717,3 +732,8 @@ Nombre dado al conjunto de la Biblia y Ciencia y salud con clave de las Escritur
 128. [La Iglesia de Jesucristo de los Santos de los Últimos Días. Temple Ordinances for the Deceased](https://www.churchofjesuschrist.org/study/manual/general-handbook/28?lang=eng).
 129. [La Iglesia Madre. La Biblia y Ciencia y salud](https://www.christianscience.com/what-we-believe/the-bible-and-science-and-health).
 130. [La Iglesia Madre. Orden de los servicios](https://biblelesson.christianscience.com/about/related-information/order-of-services).
+131. [Compañía de Jesús. Los Ejercicios espirituales](https://www.jesuits.global/spirituality/spiritual-exercices/).
+132. [The Cambridge Encyclopedia of the Jesuits. Constitutions](https://www.cambridge.org/core/books/abs/cambridge-encyclopedia-of-the-jesuits/constitutions/1F34497B9616E394FB2E733637E0668B).
+133. [Stanford Encyclopedia of Philosophy. Antoine Arnauld](https://plato.stanford.edu/entries/arnauld/index.html).
+134. [Oxford University Press. The Jansenist Quarrel](https://academic.oup.com/book/12871/chapter-abstract/163190592).
+135. [Catholic Encyclopedia. Jansenius and Jansenism](https://www.newadvent.org/cathen/08285a.htm).

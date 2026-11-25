@@ -12,5 +12,12 @@
     }
   ],
   "influencias": [],
-  "icono": null
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Libro y corazón en llamas inspirados en el frontispicio lovaniense del Augustinus de 1640",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://www.rijksmuseum.nl/en/collection/object/H-Augustinus-met-brandend-hart--6e3d2b4985732f642fb257a670af3b15"
+  }
 }
