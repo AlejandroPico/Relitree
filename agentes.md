@@ -173,6 +173,10 @@ Actualizar «Qué es una religión» y «Los orígenes del pensamiento religioso
 - La enciclopedia usa todo el ancho de pantalla y tiene botón de lectura en voz alta.
 - Al cerrar cada fase: dar los comandos PowerShell de git y los de ejecución local; mantener `tareas.md` al día quitando lo terminado.
 
+## Continuidad del árbol y de la enciclopedia
+
+Cada publicación compara las entidades, las relaciones con su tipo y nivel de filiación, y los artículos con el inventario anterior. Para una retirada, reclasificación o traslado justificado, añade al array de `enciclopedia/revisiones-inventario.json` el commit anterior en `base`, la `clave` mostrada por la comprobación, el `motivo` y la `fuente`. Conserva el contexto documental en la ficha correspondiente. Consulta la [auditoría histórica](enciclopedia/auditoria-inventario.md) y el registro de la entrega.
+
 ## Versionado de entregas
 
 - En cada entrega publicada, incrementa la versión de Relitree y sincroniza `package.json`, la versión raíz de `package-lock.json` y `README.md`. La ficha «Acerca de» lee la versión de los metadatos generados a partir de `package.json`.

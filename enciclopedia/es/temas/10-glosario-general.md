@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 3172
+palabras: 3204
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -159,6 +159,8 @@ fuentes:
   - "https://plato.stanford.edu/entries/arnauld/index.html"
   - "https://academic.oup.com/book/12871/chapter-abstract/163190592"
   - "https://www.newadvent.org/cathen/08285a.htm"
+  - "https://www.jstor.org/stable/j.ctt7rx0v"
+  - "https://academic.oup.com/book/6885/chapter-abstract/151101978"
 ---
 
 # Glosario general
@@ -579,6 +581,12 @@ Examen de los movimientos interiores y de las circunstancias de una decisión. L
 
 En el conflicto del [[jansenismo|jansenismo]], distinción entre condenar una proposición en un sentido determinado y afirmar que el Augustinus de Jansenius contenía esa doctrina en el sentido condenado. [133, 134, 135]
 
+## Antecedentes de la Cienciología
+
+### Dianética
+
+Sistema de ideas y prácticas de L. Ron Hubbard difundido a partir de 1950. La ficha de [[dianetica|Dianética]] identifica su vocabulario y los grupos iniciales. De ese proyecto se desarrolló la [[cienciologia|Cienciología]]. [136, 137]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -737,3 +745,5 @@ En el conflicto del [[jansenismo|jansenismo]], distinción entre condenar una pr
 133. [Stanford Encyclopedia of Philosophy. Antoine Arnauld](https://plato.stanford.edu/entries/arnauld/index.html).
 134. [Oxford University Press. The Jansenist Quarrel](https://academic.oup.com/book/12871/chapter-abstract/163190592).
 135. [Catholic Encyclopedia. Jansenius and Jansenism](https://www.newadvent.org/cathen/08285a.htm).
+136. [Hugh B. Urban. The Church of Scientology: A History of a New Religion, University of California Press](https://www.jstor.org/stable/j.ctt7rx0v).
+137. [Donald A. Westbrook. Before the Religion: Episodes from the Advent of Dianetics and Scientology, Oxford University Press](https://academic.oup.com/book/6885/chapter-abstract/151101978).

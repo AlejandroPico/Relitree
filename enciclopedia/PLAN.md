@@ -336,7 +336,8 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 - [x] 17.5 · [Amish](es/religiones/amish.md). 5.038 palabras de cuerpo y 3 figuras.
 - [x] 17.6 · [Nueva Iglesia o swedenborgianismo](es/religiones/swedenborg.md). 5.017 palabras de cuerpo y 3 figuras.
 - [x] 17.6 · [Nuevo Pensamiento](es/religiones/nuevo-pensamiento.md). 5.012 palabras de cuerpo y 4 figuras.
-- [x] 17.7 · [Cienciología](es/religiones/cienciologia.md). 5.030 palabras de cuerpo y 3 figuras.
+- [x] 17.7 · [Cienciología](es/religiones/cienciologia.md). 5.145 palabras de cuerpo y 3 figuras.
+- [ ] Anexo de 17.7. [Dianética](es/religiones/dianetica.md). Ficha documental publicada con 795 palabras de cuerpo. Pendiente de ampliación editorial.
 
 ## Fase E18 · Cristianismo · tradiciones (5/9)
 

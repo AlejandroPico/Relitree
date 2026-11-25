@@ -1,7 +1,7 @@
 ---
 estado: completo
 fase: E17
-palabras: 5115
+palabras: 5145
 ficha_resumen: {"Origen": "Dianética en 1950 y primeras iglesias en 1953–1954 en Estados Unidos.", "Fundador": "L. Ron Hubbard.", "Prácticas": "Auditación, cursos y ceremonias propias de la Iglesia.", "Fuentes": "Publicaciones institucionales, investigación histórica y resoluciones judiciales por jurisdicción."}
 fuentes:
   - "https://academic.oup.com/book/2335/chapter-abstract/142487236"
@@ -38,11 +38,13 @@ fuentes:
 
 # Cienciología
 
-La Cienciología es un movimiento religioso de origen estadounidense fundado a partir de la obra de L. Ron Hubbard. Surgió entre el éxito de *Dianetics* en 1950 y la constitución de iglesias en los años siguientes. Desarrolló una doctrina sobre la persona como ser espiritual, prácticas llamadas auditación y formación, y una organización que distribuye sus niveles entre instituciones de alcance distinto. Para estudiarla conviene poner en relación sus textos, la experiencia de miembros y antiguos miembros, los expedientes de las autoridades y los estudios que explican las circunstancias en que se produjeron. [1, 2, 3]
+La Cienciología es un movimiento religioso de origen estadounidense fundado a partir de la obra de L. Ron Hubbard. Se desarrolló a partir de la [[dianetica|dianética]], difundida en 1950 mediante el libro *Dianetics* y los primeros grupos. Las iglesias se constituyeron en los años siguientes. Desarrolló una doctrina sobre la persona como ser espiritual, prácticas llamadas auditación y formación, y una organización que distribuye sus niveles entre instituciones de alcance distinto. Para estudiarla conviene poner en relación sus textos, la experiencia de miembros y antiguos miembros, los expedientes de las autoridades y los estudios que explican las circunstancias en que se produjeron. [1, 2, 3]
 
 El árbol sitúa la formación eclesial en 1954, por la incorporación de la Iglesia de Cienciología de California. Hubo escritos, cursos y entidades anteriores y documentación de incorporaciones en Nueva Jersey a finales de 1953. La cronología permite identificar de qué aspecto de la fundación se habla cada vez. Algunas historias de los nuevos movimientos religiosos comparan la Cienciología con el [[nuevo-pensamiento|Nuevo Pensamiento]] por su vocabulario sobre el efecto de la mente y la transformación personal. El parentesco temático y el entorno cultural compartido se entienden por esos estudios. La nueva organización no se constituyó como una rama de Unity, Ciencia Divina u otra iglesia de aquel movimiento. [1, 2, 3, 4]
 
 ## El paso de la dianética a la organización religiosa
+
+La ficha de [[dianetica|Dianética]] reúne sus publicaciones, métodos y asociaciones iniciales. En el árbol figura como el antecedente directo de Cienciología. [1-6]
 
 ### Un autor y un público de posguerra
 
@@ -231,7 +233,7 @@ Los materiales institucionales explican qué objetivos declara la Cienciología,
 
 En su formación se pueden estudiar paralelos históricos con propuestas anteriores de reforma personal, vocabularios psicológicos y otras corrientes de religión estadounidense. La cronología debe tener en cuenta las obras de Hubbard, su público, los grupos de dianética y las primeras iglesias. La afirmación de que una institución se separó de otra requiere documentación de vínculos y de una decisión de separación. Las semejanzas con el Nuevo Pensamiento quedan explicadas en el texto, donde cabe precisar qué comparten y qué caminos siguieron al organizar prácticas, autoridades y centros. [1, 2, 4, 5, 11]
 
-En 1946, Hubbard colaboró durante un periodo breve con Jack Parsons, vinculado a la logia californiana de la Ordo Templi Orientis y a [[thelema|Thelema]], la corriente asociada a Aleister Crowley. Henrik Bogdan documenta aquel contacto. Hugh B. Urban propone reconocer ideas de Crowley entre las diversas influencias de la primera Cienciología. La entrada correspondiente del Dictionary of Gnosis and Western Esotericism concede escaso peso a una transmisión doctrinal específica, pese al contacto documentado. El atlas dibuja una relación de influencia para recoger esa conexión estudiada. El origen inmediato de la organización de Hubbard se sigue en la dianética y sus primeras asociaciones. [28-30]
+En 1946, Hubbard colaboró durante un periodo breve con Jack Parsons, vinculado a la logia californiana de la Ordo Templi Orientis y a [[thelema|Thelema]], la corriente asociada a Aleister Crowley. Henrik Bogdan documenta aquel contacto. Hugh B. Urban propone reconocer ideas de Crowley entre las diversas influencias de la primera Cienciología. La entrada correspondiente del Dictionary of Gnosis and Western Esotericism concede escaso peso a una transmisión doctrinal específica, pese al contacto documentado. El atlas dibuja una relación de influencia para recoger esa conexión estudiada. El origen inmediato de la organización de Hubbard se sigue en la [[dianetica|dianética]] y sus primeras asociaciones. [28-30]
 
 Las conmemoraciones institucionales incluyen el cumpleaños de Hubbard, el 13 de marzo, y el aniversario de la publicación de *Dianetics*, el 9 de mayo. Esas fechas identifican prácticas que la Iglesia enumera en su propio calendario de celebraciones. [22]
 

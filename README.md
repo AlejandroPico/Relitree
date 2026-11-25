@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.83**
+**Versión 1.7.84**
+
+Añade Dianética al árbol y a la enciclopedia, y comprueba la continuidad del inventario antes de publicar.
 
 [Entrega 21.6 de la fase E21](enciclopedia/PLAN.md#fase-e21--cristianismo--tradiciones-89). Compañía de Jesús, Jansenismo. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 

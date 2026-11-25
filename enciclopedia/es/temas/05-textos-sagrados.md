@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 3325
+palabras: 3368
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -160,6 +160,8 @@ fuentes:
   - "https://port-royal-des-champs.fr/lhistoire/port-royal-des-champs-et-le-jansenisme/"
   - "https://www.bibliasacra.nl/edition/1667.NTpart.fre.GMi.a/"
   - "https://catalogue.bnf.fr/ark:/12148/cb361184536"
+  - "https://academic.oup.com/book/6885/chapter-abstract/151101978"
+  - "https://doi.org/10.1177/2158244018807572"
 ---
 
 # Textos sagrados del mundo comparados
@@ -488,6 +490,12 @@ Los Ejercicios espirituales de la [[jesuitas|Compañía de Jesús]] ordenan una 
 
 El entorno del [[jansenismo|jansenismo de Port-Royal]] preparó la traducción francesa del Nuevo Testamento de Mons, publicada en 1667. La Biblia de Lemaistre de Sacy circuló en otras ediciones y entre públicos con intereses diversos. [141, 142, 143]
 
+## Antecedentes de la Cienciología
+
+### Dianetics y la transición a la Cienciología
+
+La [[dianetica|Dianética]] se difundió en 1950 mediante un libro y textos en la prensa de ciencia ficción. Sus primeras publicaciones se presentaron como una explicación de la mente y una propuesta de práctica. Después, parte de su terminología se integró en la [[cienciologia|Cienciología]]. [144, 145]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -647,3 +655,5 @@ El entorno del [[jansenismo|jansenismo de Port-Royal]] preparó la traducción f
 141. [Musée national de Port-Royal des Champs. Port-Royal des Champs y el jansenismo](https://port-royal-des-champs.fr/lhistoire/port-royal-des-champs-et-le-jansenisme/).
 142. [Biblia Sacra. Descripción bibliográfica del Nuevo Testamento de Mons de 1667](https://www.bibliasacra.nl/edition/1667.NTpart.fre.GMi.a/).
 143. [Bibliothèque nationale de France. Biblia traducida por Lemaistre de Sacy](https://catalogue.bnf.fr/ark:/12148/cb361184536).
+144. [Donald A. Westbrook. Before the Religion: Episodes from the Advent of Dianetics and Scientology, Oxford University Press](https://academic.oup.com/book/6885/chapter-abstract/151101978).
+145. [Christopher Benjamin Menadue. Dianetics and Scientology in Science Fiction Magazines, SAGE Open](https://doi.org/10.1177/2158244018807572).

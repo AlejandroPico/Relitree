@@ -4,6 +4,9 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] Relitree 1.7.84. [Dianética](enciclopedia/es/religiones/dianetica.md) tiene ficha documental propia y figura como antecedente directo de Cienciología. Se revisaron los seis temas de E01 y se añadieron referencias en Textos, Historiografía y Glosario.
+  - [Auditoría del inventario](enciclopedia/auditoria-inventario.md). Se añade al despliegue la comprobación de bajas y reclasificaciones frente a la revisión anterior.
+
 - [x] E21 · 21.6. [Compañía de Jesús](enciclopedia/es/religiones/jesuitas.md). 10.116 palabras de cuerpo y 12 figuras. Versión 1.7.83.
 - [x] E21 · 21.6. [Jansenismo](enciclopedia/es/religiones/jansenismo.md). 10.107 palabras de cuerpo y 12 figuras. Versión 1.7.83.
   - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.

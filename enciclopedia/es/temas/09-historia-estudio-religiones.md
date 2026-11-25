@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 3025
+palabras: 3063
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -181,6 +181,9 @@ fuentes:
   - "https://libraries.catholic.edu/special-collections/rare-books/jansenism.html"
   - "https://port-royal.univ-rouen.fr/le-jansenisme-fantome-ou-realite/"
   - "https://www.cuapress.org/9780813238364/jansenism/"
+  - "https://academic.oup.com/book/6885/chapter-abstract/151101978"
+  - "https://skent.ualberta.ca/wp-content/uploads/2020/07/Creation-of-Religious-Scientology-1999.pdf"
+  - "https://digital.library.ucla.edu/catalog/ark:/21198/zz0002pcjq"
 ---
 
 # Historia del estudio de las religiones
@@ -499,6 +502,12 @@ El archivo romano de la [[jesuitas|Compañía de Jesús]] permite localizar cat�
 
 Para estudiar el [[jansenismo|jansenismo]] conviene cotejar el Augustinus, las condenas, la correspondencia y la documentación política. El significado de la etiqueta depende de quién la utilizó y en qué conflicto. [157, 158, 159]
 
+## Antecedentes de la Cienciología
+
+### Dianética antes de las primeras iglesias
+
+El seminario de [[dianetica|dianética]] fotografiado en Los Ángeles en 1950 documenta una actividad pública anterior a las primeras iglesias de [[cienciologia|Cienciología]]. La prensa, la historia de las asociaciones y los registros de incorporación permiten distinguir las dos etapas. [160, 161, 162]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -679,3 +688,6 @@ Para estudiar el [[jansenismo|jansenismo]] conviene cotejar el Augustinus, las c
 157. [Catholic University of America Libraries. Jansenismo y sus fuentes impresas](https://libraries.catholic.edu/special-collections/rare-books/jansenism.html).
 158. [Université de Rouen Normandie. Le jansénisme, « Phantôme » ou réalité ?](https://port-royal.univ-rouen.fr/le-jansenisme-fantome-ou-realite/).
 159. [Shaun Blanchard y Richard T. Yoder, eds. Jansenism: An International Anthology](https://www.cuapress.org/9780813238364/jansenism/).
+160. [Donald A. Westbrook. Before the Religion: Episodes from the Advent of Dianetics and Scientology, Oxford University Press](https://academic.oup.com/book/6885/chapter-abstract/151101978).
+161. [Stephen A. Kent. The Creation of ‘Religious’ Scientology, Religious Studies and Theology](https://skent.ualberta.ca/wp-content/uploads/2020/07/Creation-of-Religious-Scientology-1999.pdf).
+162. [UCLA Library Special Collections. Seminario de dianética en Los Ángeles, 1950](https://digital.library.ucla.edu/catalog/ark:/21198/zz0002pcjq).

@@ -5,7 +5,12 @@
   "fin": null,
   "tipo": "nmr",
   "importancia": 1,
-  "padres": [],
+  "padres": [
+    {
+      "id": "dianetica",
+      "relacion": "derivacion"
+    }
+  ],
   "influencias": [
     "thelema"
   ],

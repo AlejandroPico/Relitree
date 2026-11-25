@@ -19,6 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
+        with:
+          fetch-depth: 2
       - uses: actions/setup-python@v6
         with:
           python-version: '3.13'
@@ -28,6 +30,19 @@ jobs:
         with:
           node-version: '24'
           cache: npm
+      - name: Continuidad del árbol y de la enciclopedia
+        env:
+          BASE_PUBLICACION: ${{ github.event.before }}
+        run: |
+          base="$BASE_PUBLICACION"
+          if [[ -z "$base" || "$base" =~ ^0+$ ]]; then
+            base="$(git rev-parse HEAD^)"
+          fi
+          if ! git cat-file -e "$base^{commit}" 2>/dev/null; then
+            git fetch --no-tags --depth=1 origin "$base"
+          fi
+          cd backend
+          python -m relitree.integridad "$base"
       - name: Dependencias de Python
         run: pip install -r backend/requirements.txt
       - name: Dependencias de Node

@@ -1,0 +1,18 @@
+{
+  "id": "dianetica",
+  "region": "nam",
+  "inicio": 1950,
+  "fin": null,
+  "tipo": "fil",
+  "importancia": 1,
+  "padres": [],
+  "influencias": [],
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Libro de 1950 con una D, alusivo a la publicación que difundió la dianética",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://academic.oup.com/book/6885/chapter-abstract/151101978"
+  }
+}

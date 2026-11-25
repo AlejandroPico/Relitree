@@ -1219,7 +1219,14 @@ def _():
     return libro + corazon + llama
 
 
+@motivo("libro_dianetics", "Libro de 1950 con una D, alusivo a la publicación que difundió la dianética")
+def _():
+    libro = P("M22 20H79V77H30Q22 77 22 85V20ZM22 85Q22 92 30 92H79M34 20V77")
+    letra = P("M47 36H54Q68 36 68 48Q68 60 54 60H47Z")
+    return libro + letra
+
 ASIGNACION = {
+    'dianetica': 'libro_dianetics',
     'jansenismo': 'corazon_libro_augustinus',
     'mormonismo': 'trompeta_moroni',
     'ciencia-cristiana': 'libros_pastor_ciencia_cristiana',
