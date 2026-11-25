@@ -391,18 +391,20 @@ Estado editorial. Completos 12 de 12 artículos en las entregas 11.0–11.6. La 
 
 ## Fase E21 · Cristianismo · tradiciones (8/9)
 
-- Iglesias aladura (`aladura`)
-- Iglesias reformadas (calvinismo) (`reformada`)
-- Presbiterianismo (`presbiterianismo`)
-- Movimiento de Restauración (`restauracionismo`)
-- Iglesia de la Unificación (`unificacion`)
-- Unitarismo (`unitarismo`)
-- Humanismo secular (`humanismo`)
-- Arminianismo (`arminianismo`)
-- Mormonismo (`mormonismo`)
-- Ciencia Cristiana (`ciencia-cristiana`)
-- Compañía de Jesús (`jesuitas`)
-- Jansenismo (`jansenismo`)
+**Estado.** Publicada la entrega 21.1. Última versión: 1.7.78. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
+
+- [x] 21.1 · [Iglesias aladura](es/religiones/aladura.md). 10.040 palabras de cuerpo y 13 figuras.
+- [x] 21.1 · [Iglesias reformadas (calvinismo)](es/religiones/reformada.md). 10.017 palabras de cuerpo y 12 figuras.
+- [ ] 21.2 · Presbiterianismo (`presbiterianismo`)
+- [ ] 21.2 · Movimiento de Restauración (`restauracionismo`)
+- [ ] 21.3 · Iglesia de la Unificación (`unificacion`)
+- [ ] 21.3 · Unitarismo (`unitarismo`)
+- [ ] 21.4 · Humanismo secular (`humanismo`)
+- [ ] 21.4 · Arminianismo (`arminianismo`)
+- [ ] 21.5 · Mormonismo (`mormonismo`)
+- [ ] 21.5 · Ciencia Cristiana (`ciencia-cristiana`)
+- [ ] 21.6 · Compañía de Jesús (`jesuitas`)
+- [ ] 21.6 · Jansenismo (`jansenismo`)
 
 ## Fase E22 · Cristianismo · tradiciones (9/9)
 

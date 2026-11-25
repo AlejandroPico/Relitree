@@ -1167,7 +1167,14 @@ def _():
     pan = P("M25 54Q25 44 42 44Q52 45 54 54ZM34 47L38 50M42 46L46 50")
     return mesa + copa + pan
 
+@motivo("oracion_arrodillada_aladura", "Figura arrodillada en oración, práctica compartida por las iglesias aladura")
+def _():
+    orante = P("M50 26a7 7 0 1 0 14 0a7 7 0 1 0-14 0M52 36Q43 38 43 50L36 62Q31 69 40 74H62Q71 74 73 81H39Q30 81 26 74M52 43L60 53L73 42M53 52L59 60L77 43M72 37L77 34M75 46L81 42")
+    suelo = P("M20 85H84")
+    return orante + suelo
+
 ASIGNACION = {
+    'aladura': 'oracion_arrodillada_aladura',
     'harrismo': 'baston_cruz_bautismo',
     'hermanos-plymouth': 'mesa_partimiento',
     'iurd': 'fachada_templo_bras',

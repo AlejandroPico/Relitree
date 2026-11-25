@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2617
+palabras: 2665
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -140,6 +140,11 @@ fuentes:
   - "https://uncpress.org/9780807898055/the-religious-revolution-in-the-ivory-coast/"
   - "https://www.library.manchester.ac.uk/rylands/special-collections/subject-areas/christian-brethren-collections/"
   - "https://www.brethrenarchive.org/archive/early-years/bethesda/"
+  - "https://www.si.edu/object/aladura-religious-movement-among-yoruba-j-d-y-peel%3Asiris_sil_2212"
+  - "https://api-ir.unilag.edu.ng/server/api/core/bitstreams/0ccd27e0-f24f-40a7-9bab-70f9dc40bd04/content"
+  - "https://www.research.ed.ac.uk/en/publications/a-home-away-from-home-the-proliferation-of-celestial-church-of-ch/"
+  - "https://academic.oup.com/edited-volume/37088/chapter/323186686"
+  - "https://academic.oup.com/book/27805/chapter-abstract/198069883"
 ---
 
 # Historia del estudio de las religiones
@@ -406,6 +411,12 @@ Oro y Ciochetti permiten seguir, respectivamente, la expansión transnacional y 
 
 La [[harrismo|Iglesia harrista]] se estudia con fuentes de la marcha de Harris, relatos de sucesión y estudios de campo. Para los [[hermanos-plymouth|Hermanos de Plymouth]], el fondo de Manchester y las cartas de Bethesda permiten seguir la vida de sus redes. [114, 115, 116, 117, 118]
 
+## E21.1 · Iglesias aladura, Iglesias reformadas (calvinismo)
+
+### Biografía, archivo y estudios de comunidades
+
+Para estudiar las [[aladura|iglesias aladura]], se ponen en relación la investigación de J. D. Y. Peel, las biografías de sus protagonistas y los estudios de O. A. Adeboye y Afe Adogame. Para las [[reformada|iglesias reformadas]], la bibliografía histórica compara ciudades europeas y la recepción internacional de sus acuerdos. [119, 120, 121, 122, 123]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -545,3 +556,8 @@ La [[harrismo|Iglesia harrista]] se estudia con fuentes de la marcha de Harris, 
 116. [Sheila S. Walker, The Religious Revolution in the Ivory Coast, University of North Carolina Press](https://uncpress.org/9780807898055/the-religious-revolution-in-the-ivory-coast/).
 117. [Universidad de Manchester, Christian Brethren Collections](https://www.library.manchester.ac.uk/rylands/special-collections/subject-areas/christian-brethren-collections/).
 118. [Brethren Archive, documentos sobre la separación de Bethesda](https://www.brethrenarchive.org/archive/early-years/bethesda/).
+119. [J. D. Y. Peel, Aladura: A Religious Movement Among the Yoruba, 1968, catálogo del Smithsonian](https://www.si.edu/object/aladura-religious-movement-among-yoruba-j-d-y-peel%3Asiris_sil_2212).
+120. [Olufunke Adeboye, estudio sobre el espacio religioso, Journal of Religion in Africa, 2012](https://api-ir.unilag.edu.ng/server/api/core/bitstreams/0ccd27e0-f24f-40a7-9bab-70f9dc40bd04/content).
+121. [Afe Adogame, A Home Away from Home, Universidad de Edimburgo](https://www.research.ed.ac.uk/en/publications/a-home-away-from-home-the-proliferation-of-celestial-church-of-ch/).
+122. [Oxford Handbook of the Protestant Reformations, las reformas protestantes y católicas en Europa](https://academic.oup.com/edited-volume/37088/chapter/323186686).
+123. [Oxford University Press, Calvinism on the Frontier y la circulación internacional de la Reforma](https://academic.oup.com/book/27805/chapter-abstract/198069883).

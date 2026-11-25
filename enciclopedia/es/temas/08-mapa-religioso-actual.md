@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2663
+palabras: 2708
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -131,6 +131,11 @@ fuentes:
   - "https://www.library.manchester.ac.uk/rylands/special-collections/subject-areas/christian-brethren-collections/"
   - "https://www.observatorioreligion.es/upload/61/02/Pdf_interactivo_Cataluna.pdf"
   - "https://asambleasdehermanos.org.ar/adh26/identidad-historica/"
+  - "https://oikoumene.org/member-churches/the-church-of-the-lord-prayer-fellowship-worldwide"
+  - "https://celestialchurch.com/cause/imeko-building-fund/"
+  - "https://www.research.ed.ac.uk/en/publications/a-home-away-from-home-the-proliferation-of-celestial-church-of-ch/"
+  - "https://wcrc.eu/about/"
+  - "https://oikoumene.org/organization/world-communion-of-reformed-churches"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -403,6 +408,12 @@ Los datos de afiliación brasileña de la [[iurd|Iglesia Universal del Reino de 
 
 La [[harrismo|Iglesia harrista]] se organiza desde Costa de Marfil y tiene presencia en otros países. Los [[hermanos-plymouth|Hermanos de Plymouth]] abarcan asambleas y organizaciones con formas de registro distintas que deben identificarse por lugar y rama. [109, 110, 111, 112]
 
+## E21.1 · Iglesias aladura, Iglesias reformadas (calvinismo)
+
+### Redes aladura y comunión reformada
+
+La ficha de las [[aladura|iglesias aladura]] diferencia instituciones del suroeste nigeriano, Benín y la diáspora. Las cifras publicadas por la Comunión Mundial de [[reformada|Iglesias Reformadas]] describen el alcance de su red de miembros, con un ámbito distinto al de una estimación de toda la tradición. [113, 114, 115, 116, 117]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -533,3 +544,8 @@ La [[harrismo|Iglesia harrista]] se organiza desde Costa de Marfil y tiene prese
 110. [Universidad de Manchester, Christian Brethren Collections](https://www.library.manchester.ac.uk/rylands/special-collections/subject-areas/christian-brethren-collections/).
 111. [Observatorio del Pluralismo Religioso en España, estudio sobre Cataluña](https://www.observatorioreligion.es/upload/61/02/Pdf_interactivo_Cataluna.pdf).
 112. [Asambleas de Hermanos en Argentina, historia institucional](https://asambleasdehermanos.org.ar/adh26/identidad-historica/).
+113. [Consejo Mundial de Iglesias, The Church of the Lord (Prayer Fellowship) Worldwide](https://oikoumene.org/member-churches/the-church-of-the-lord-prayer-fellowship-worldwide).
+114. [Celestial Church of Christ, Imeko y la peregrinación navideña](https://celestialchurch.com/cause/imeko-building-fund/).
+115. [Afe Adogame, A Home Away from Home, Universidad de Edimburgo](https://www.research.ed.ac.uk/en/publications/a-home-away-from-home-the-proliferation-of-celestial-church-of-ch/).
+116. [Comunión Mundial de Iglesias Reformadas, presentación de su red](https://wcrc.eu/about/).
+117. [Consejo Mundial de Iglesias, Comunión Mundial de Iglesias Reformadas y sus miembros](https://oikoumene.org/organization/world-communion-of-reformed-churches).

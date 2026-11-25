@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2890
+palabras: 2935
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -126,6 +126,10 @@ fuentes:
   - "https://www.religion.info/pdf/2013_10_Dea.pdf"
   - "https://luna.dbs.org/bibles/ENGDBY/html_chapterized/about.html"
   - "https://www.bibledarby.com/anciennes-editions"
+  - "https://celestialchurch.com/document/lecture-on-the-tenets-of-celestial-church-of-christ/"
+  - "https://dacb.org/stories/nigeria/crowther3-samuel/"
+  - "https://www.crcna.org/welcome/beliefs/confessions/heidelberg-catechism"
+  - "https://www.crcna.org/welcome/beliefs/confessions/belgic-confession?language=en&vm=r"
 ---
 
 # Textos sagrados del mundo comparados
@@ -402,6 +406,12 @@ La [[iurd|Iglesia Universal del Reino de Dios]] emplea la Escritura como referen
 
 La [[harrismo|Iglesia harrista]] reconoce la Biblia como autoridad doctrinal y difundió un catecismo desde 1956. Entre los [[hermanos-plymouth|Hermanos de Plymouth]], John Nelson Darby y sus colaboradores prepararon traducciones bíblicas que circularon en varios idiomas. [106, 107, 108, 109]
 
+## E21.1 · Iglesias aladura, Iglesias reformadas (calvinismo)
+
+### Biblia en yoruba y documentos confesionales de la Reforma
+
+En las [[aladura|iglesias aladura]], la Biblia se lee en un entorno de traducción y transmisión oral en varias lenguas. En las [[reformada|iglesias reformadas]], la Biblia es la referencia doctrinal. Catecismos como el de Heidelberg y confesiones como la belga expresan su recepción en iglesias determinadas. [110, 111, 112, 113]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -527,3 +537,7 @@ La [[harrismo|Iglesia harrista]] reconoce la Biblia como autoridad doctrinal y d
 107. [Lékpéa Alexis Déa, Le christianisme occidental à l’épreuve des messianismes indigènes en Côte d’Ivoire coloniale](https://www.religion.info/pdf/2013_10_Dea.pdf).
 108. [Digital Bible Society, historia de la traducción inglesa de Darby](https://luna.dbs.org/bibles/ENGDBY/html_chapterized/about.html).
 109. [Bible Darby, ediciones históricas de la traducción francesa](https://www.bibledarby.com/anciennes-editions).
+110. [Celestial Church of Christ, explicación de sus prácticas y fiestas](https://celestialchurch.com/document/lecture-on-the-tenets-of-celestial-church-of-christ/).
+111. [Dictionary of African Christian Biography, Samuel Ajayi Crowther](https://dacb.org/stories/nigeria/crowther3-samuel/).
+112. [Christian Reformed Church, Catecismo de Heidelberg](https://www.crcna.org/welcome/beliefs/confessions/heidelberg-catechism).
+113. [Christian Reformed Church, Confesión belga](https://www.crcna.org/welcome/beliefs/confessions/belgic-confession?language=en&vm=r).

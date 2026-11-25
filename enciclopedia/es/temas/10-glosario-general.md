@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2776
+palabras: 2814
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -125,6 +125,11 @@ fuentes:
   - "https://www.brethrenarchive.org/media/367341/dscdspch7weremchuk-darby.pdf"
   - "https://prendespando22.org/quienes-somos/historia/"
   - "https://www.cambridge.org/core/journals/church-history/article/abs/toward-a-historical-interpretation-of-the-origins-of-fundamentalism/0C1339B81F10B72F5DEC2AEC0A04189C"
+  - "https://www.si.edu/object/aladura-religious-movement-among-yoruba-j-d-y-peel%3Asiris_sil_2212"
+  - "https://api-ir.unilag.edu.ng/server/api/core/bitstreams/0ccd27e0-f24f-40a7-9bab-70f9dc40bd04/content"
+  - "https://hls-dhs-dss.ch/de/articles/011430/2006-10-16/"
+  - "https://museeprotestant.org/en/notice/jean-calvin-1509-1564/?parc=56919"
+  - "https://www.crcna.org/welcome/beliefs/confessions/belgic-confession?language=en&vm=r"
 ---
 
 # Glosario general
@@ -493,6 +498,12 @@ Fogueira Santa denomina campañas de la [[iurd|Iglesia Universal del Reino de Di
 
 En la [[harrismo|Iglesia harrista]], el colegio de apóstoles se ocupa de asuntos materiales y administrativos. En los [[hermanos-plymouth|Hermanos de Plymouth]], el partimiento del pan es una forma de llamar a la Cena. Dispensación identifica una etapa en determinadas lecturas de la historia bíblica. [98, 99, 100, 101]
 
+## E21.1 · Iglesias aladura, Iglesias reformadas (calvinismo)
+
+### Aladura, confesión reformada y consistorio
+
+Aladura se refiere en yoruba a quien ora y da nombre a las [[aladura|iglesias aladura]]. En las [[reformada|iglesias reformadas]], una confesión formula enseñanzas comunes. Consistorio designa en el ejemplo ginebrino el órgano de disciplina con pastores y ancianos. [102, 103, 104, 105, 106]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -617,3 +628,8 @@ En la [[harrismo|Iglesia harrista]], el colegio de apóstoles se ocupa de asunto
 99. [Brethren Archive, estudios sobre John Nelson Darby y el dispensacionalismo](https://www.brethrenarchive.org/media/367341/dscdspch7weremchuk-darby.pdf).
 100. [Iglesia Evangélica de Hermanos de Gijón, historia de las Asambleas de Hermanos](https://prendespando22.org/quienes-somos/historia/).
 101. [Ernest R. Sandeen, Toward a Historical Interpretation of the Origins of Fundamentalism](https://www.cambridge.org/core/journals/church-history/article/abs/toward-a-historical-interpretation-of-the-origins-of-fundamentalism/0C1339B81F10B72F5DEC2AEC0A04189C).
+102. [J. D. Y. Peel, Aladura: A Religious Movement Among the Yoruba, 1968, catálogo del Smithsonian](https://www.si.edu/object/aladura-religious-movement-among-yoruba-j-d-y-peel%3Asiris_sil_2212).
+103. [Olufunke Adeboye, estudio sobre el espacio religioso, Journal of Religion in Africa, 2012](https://api-ir.unilag.edu.ng/server/api/core/bitstreams/0ccd27e0-f24f-40a7-9bab-70f9dc40bd04/content).
+104. [Diccionario histórico de Suiza, iglesias evangélicas reformadas](https://hls-dhs-dss.ch/de/articles/011430/2006-10-16/).
+105. [Musée protestant, biografía de Juan Calvino](https://museeprotestant.org/en/notice/jean-calvin-1509-1564/?parc=56919).
+106. [Christian Reformed Church, Confesión belga](https://www.crcna.org/welcome/beliefs/confessions/belgic-confession?language=en&vm=r).

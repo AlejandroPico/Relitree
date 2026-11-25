@@ -1,7 +1,7 @@
 {
   "id": "reformada",
   "region": "eur",
-  "inicio": 1536,
+  "inicio": 1523,
   "fin": null,
   "tipo": "mon",
   "importancia": 4,
@@ -15,10 +15,9 @@
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Huguenot_cross.svg",
+    "autor": "Syryatsu",
     "licencia": "CC BY-SA 4.0",
-    "autor": "Wikimedia Commons"
-  },
-  "fieles": 70000000,
-  "fieles_max": 80000000,
-  "fieles_fuente": "Wikipedia, List of Christian denominations by number of members"
+    "motivo": "Cruz hugonote de la tradición reformada francesa",
+    "motivo_fuente": "https://museeprotestant.org/en/notice/the-huguenot-cross/?parc=63959"
+  }
 }

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2512
+palabras: 2560
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -117,6 +117,9 @@ fuentes:
   - "https://www.aip.ci/electionpresidentielle2025/article.php?id=395737"
   - "https://prendespando22.org/quienes-somos/historia/"
   - "https://www.plymouthbrethrenchristianchurch.org/way-of-life/our-beliefs/"
+  - "https://oikoumene.org/member-churches/the-church-of-the-lord-prayer-fellowship-worldwide"
+  - "https://celestialchurch.com/cause/imeko-building-fund/"
+  - "https://www.crcna.org/welcome/beliefs/confessions/heidelberg-catechism"
 ---
 
 # Calendarios y festividades del mundo
@@ -379,6 +382,12 @@ Las convocatorias de Santa Cena y Fogueira Santa de la [[iurd|Iglesia Universal 
 
 En julio la [[harrismo|Iglesia harrista]] celebra la Semana Espiritual del Medio Ambiente, vinculada al relato del diluvio. Muchas asambleas de los [[hermanos-plymouth|Hermanos de Plymouth]] celebran el partimiento del pan los domingos. [99, 100, 101, 102]
 
+## E21.1 · Iglesias aladura, Iglesias reformadas (calvinismo)
+
+### Tabiẹorar, Navidad en Imeko y catequesis dominical
+
+La Iglesia del Señor celebra Tabiẹorar el 22 de agosto e Imeko acoge una peregrinación navideña de la Iglesia Celestial, dos prácticas de las [[aladura|iglesias aladura]]. El Catecismo de Heidelberg divide las preguntas en domingos, una estructura destinada a la enseñanza de las [[reformada|iglesias reformadas]] que lo reciben. [103, 104, 105]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -495,3 +504,6 @@ En julio la [[harrismo|Iglesia harrista]] celebra la Semana Espiritual del Medio
 100. [Agence Ivoirienne de Presse, Semana Espiritual Harrista del Medio Ambiente en 2026](https://www.aip.ci/electionpresidentielle2025/article.php?id=395737).
 101. [Iglesia Evangélica de Hermanos de Gijón, historia de las Asambleas de Hermanos](https://prendespando22.org/quienes-somos/historia/).
 102. [Plymouth Brethren Christian Church, vida religiosa y Santa Cena](https://www.plymouthbrethrenchristianchurch.org/way-of-life/our-beliefs/).
+103. [Consejo Mundial de Iglesias, The Church of the Lord (Prayer Fellowship) Worldwide](https://oikoumene.org/member-churches/the-church-of-the-lord-prayer-fellowship-worldwide).
+104. [Celestial Church of Christ, Imeko y la peregrinación navideña](https://celestialchurch.com/cause/imeko-building-fund/).
+105. [Christian Reformed Church, Catecismo de Heidelberg](https://www.crcna.org/welcome/beliefs/confessions/heidelberg-catechism).

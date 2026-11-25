@@ -1,6 +1,8 @@
 # Relitree
 
-**Versión 1.7.77**
+**Versión 1.7.78**
+
+[Entrega 21.1 de la fase E21](enciclopedia/PLAN.md#fase-e21--cristianismo--tradiciones-89). Iglesias aladura, Iglesias reformadas (calvinismo). Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 
 [Entrega 20.6 de la fase E20](enciclopedia/PLAN.md#fase-e20--cristianismo--tradiciones-79). Iglesia harrista, Hermanos de Plymouth. Cada ficha incluye al menos 10.000 palabras de cuerpo y diez figuras acreditadas.
 

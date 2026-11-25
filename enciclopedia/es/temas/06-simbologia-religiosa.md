@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2648
+palabras: 2681
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -112,6 +112,8 @@ fuentes:
   - "https://dacb.org/stories/liberia/harris4-william/"
   - "https://revues.acaref.net/wp-content/uploads/sites/3/2025/01/12-NDOUFOU-Yapi-Thierry.pdf"
   - "https://prendespando22.org/quienes-somos/historia/"
+  - "https://celestialchurch.com/document/lecture-on-the-tenets-of-celestial-church-of-christ/"
+  - "https://museeprotestant.org/en/notice/the-huguenot-cross/?parc=63959"
 ---
 
 # Simbología religiosa comparada
@@ -374,6 +376,12 @@ El Templo de Salomón de Brás da el motivo gráfico a la [[iurd|Iglesia Univers
 
 La [[harrismo|Iglesia harrista]] conserva la memoria del bastón con cruz y del recipiente bautismal de Harris. El motivo editorial de los [[hermanos-plymouth|Hermanos de Plymouth]] representa la mesa utilizada en el partimiento del pan. [95, 96, 97]
 
+## E21.1 · Iglesias aladura, Iglesias reformadas (calvinismo)
+
+### Túnica de oración y cruz hugonote
+
+La túnica blanca tiene usos y explicaciones bíblicas documentadas en la Iglesia Celestial de Cristo, tratada en [[aladura|Iglesias aladura]]. La cruz hugonote tiene una historia propia en las [[reformada|iglesias reformadas]] de lengua francesa. [98, 99]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -486,3 +494,5 @@ La [[harrismo|Iglesia harrista]] conserva la memoria del bastón con cruz y del 
 95. [David A. Shank, William Wadé Harris, Dictionary of African Christian Biography](https://dacb.org/stories/liberia/harris4-william/).
 96. [Thierry Yapi Ndoufou, John Ahui y la organización del harrismo](https://revues.acaref.net/wp-content/uploads/sites/3/2025/01/12-NDOUFOU-Yapi-Thierry.pdf).
 97. [Iglesia Evangélica de Hermanos de Gijón, historia de las Asambleas de Hermanos](https://prendespando22.org/quienes-somos/historia/).
+98. [Celestial Church of Christ, explicación de sus prácticas y fiestas](https://celestialchurch.com/document/lecture-on-the-tenets-of-celestial-church-of-christ/).
+99. [Musée protestant, origen y uso de la cruz hugonote](https://museeprotestant.org/en/notice/the-huguenot-cross/?parc=63959).

@@ -7,14 +7,20 @@
   "importancia": 1,
   "padres": [
     {
-      "id": "anglicanismo",
+      "id": "cristianismo",
       "relacion": "derivacion"
     }
   ],
   "influencias": [
+    "anglicanismo",
     "yoruba"
   ],
-  "icono": null,
-  "fieles": 13600000,
-  "fieles_fuente": "Wikipedia, List of Christian denominations by number of members (Querubines y Serafines e Iglesia del Señor)"
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Figura arrodillada en oración, práctica compartida por las iglesias aladura",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://commons.wikimedia.org/wiki/File:Praying_member.jpg"
+  }
 }

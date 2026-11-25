@@ -4,6 +4,10 @@ El registro de entregas recoge el trabajo incorporado. Las fases pendientes deta
 
 ## Registro de entregas
 
+- [x] E21 · 21.1. [Iglesias aladura](enciclopedia/es/religiones/aladura.md). 10.040 palabras de cuerpo y 13 figuras. Versión 1.7.78.
+- [x] E21 · 21.1. [Iglesias reformadas (calvinismo)](enciclopedia/es/religiones/reformada.md). 10.017 palabras de cuerpo y 12 figuras. Versión 1.7.78.
+  - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.
+
 - [x] E20 · 20.6. [Iglesia harrista](enciclopedia/es/religiones/harrismo.md). 10.008 palabras de cuerpo y 10 figuras. Versión 1.7.77.
 - [x] E20 · 20.6. [Hermanos de Plymouth](enciclopedia/es/religiones/hermanos-plymouth.md). 10.039 palabras de cuerpo y 11 figuras. Versión 1.7.77.
   - Actualizados los seis temas de E01. Verificados recuentos, atribución visual, enlaces e iconos de la tanda.
