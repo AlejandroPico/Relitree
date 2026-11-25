@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2708
+palabras: 2771
 fuentes:
   - "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
   - "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/"
@@ -136,6 +136,9 @@ fuentes:
   - "https://www.research.ed.ac.uk/en/publications/a-home-away-from-home-the-proliferation-of-celestial-church-of-ch/"
   - "https://wcrc.eu/about/"
   - "https://oikoumene.org/organization/world-communion-of-reformed-churches"
+  - "https://www.scotlandscensus.gov.uk/2022-reports/scotland-s-census-2022-ethnic-group-national-identity-language-and-religion/"
+  - "https://pcusa.org/sites/default/files/2025-05/2024_IV-B1_Comparative_Summaries_Statistics.pdf"
+  - "https://usreligioncensus.org/sites/default/files/2023-10/2020_US_Religion_Census.pdf"
 ---
 
 # Mapa religioso actual: demografía y tendencias
@@ -414,6 +417,12 @@ La [[harrismo|Iglesia harrista]] se organiza desde Costa de Marfil y tiene prese
 
 La ficha de las [[aladura|iglesias aladura]] diferencia instituciones del suroeste nigeriano, Benín y la diáspora. Las cifras publicadas por la Comunión Mundial de [[reformada|Iglesias Reformadas]] describen el alcance de su red de miembros, con un ámbito distinto al de una estimación de toda la tradición. [113, 114, 115, 116, 117]
 
+## E21.2 · Presbiterianismo, Movimiento de Restauración
+
+### Identidad censal y registros Stone-Campbell
+
+El censo de Escocia de 2022 mide la identidad religiosa declarada, mientras las estadísticas de la PC(USA) recogen datos de su denominación. Son ámbitos diferentes del [[presbiterianismo|presbiterianismo]]. Para el [[restauracionismo|Movimiento de Restauración]], el U.S. Religion Census de 2020 registra en Estados Unidos 398.072 adherentes vinculados a 3.135 congregaciones de los Discípulos de Cristo y enumera por separado otras ramas. [118, 119, 120]
+
 ## Fuentes
 
 - Conrad Hackett y colaboradores. [How the Global Religious Landscape Changed From 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/). Pew Research Center, 2025.
@@ -549,3 +558,6 @@ La ficha de las [[aladura|iglesias aladura]] diferencia instituciones del suroes
 115. [Afe Adogame, A Home Away from Home, Universidad de Edimburgo](https://www.research.ed.ac.uk/en/publications/a-home-away-from-home-the-proliferation-of-celestial-church-of-ch/).
 116. [Comunión Mundial de Iglesias Reformadas, presentación de su red](https://wcrc.eu/about/).
 117. [Consejo Mundial de Iglesias, Comunión Mundial de Iglesias Reformadas y sus miembros](https://oikoumene.org/organization/world-communion-of-reformed-churches).
+118. [National Records of Scotland, resultados del censo de 2022 sobre identidad y religión](https://www.scotlandscensus.gov.uk/2022-reports/scotland-s-census-2022-ethnic-group-national-identity-language-and-religion/).
+119. [Presbyterian Church (U.S.A.), series comparativas de estadísticas de 2024](https://pcusa.org/sites/default/files/2025-05/2024_IV-B1_Comparative_Summaries_Statistics.pdf).
+120. [Association of Statisticians of American Religious Bodies, U.S. Religion Census 2020](https://usreligioncensus.org/sites/default/files/2023-10/2020_US_Religion_Census.pdf).

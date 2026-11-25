@@ -12,7 +12,12 @@
     }
   ],
   "influencias": [],
-  "icono": null,
-  "fieles": 3100000,
-  "fieles_fuente": "Wikipedia, List of Christian denominations by number of members (Iglesias de Cristo e iglesias cristianas)"
+  "icono": {
+    "archivo": "icono.svg",
+    "fuente": "propio",
+    "motivo": "Copa y pan de la Cena en la tradición Stone-Campbell",
+    "licencia": "Dibujo original de Relitree",
+    "autor": "Relitree",
+    "motivo_fuente": "https://commons.wikimedia.org/wiki/File:Old_communion_set_P6200131.jpg"
+  }
 }

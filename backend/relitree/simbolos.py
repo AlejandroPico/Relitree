@@ -1173,7 +1173,15 @@ def _():
     suelo = P("M20 85H84")
     return orante + suelo
 
+@motivo("copa_pan_stone_campbell", "Copa y pan de la Cena en la tradición Stone-Campbell")
+def _():
+    copa = P("M47 22H79L77 35Q75 46 63 47Q51 46 49 35ZM63 47V72M53 73H73")
+    pan = P("M17 59Q19 52 28 51H34Q42 52 43 60V72H17ZM23 58L27 61M31 55L35 58")
+    return copa + pan
+
+
 ASIGNACION = {
+    'restauracionismo': 'copa_pan_stone_campbell',
     'aladura': 'oracion_arrodillada_aladura',
     'harrismo': 'baston_cruz_bautismo',
     'hermanos-plymouth': 'mesa_partimiento',

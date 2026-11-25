@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2681
+palabras: 2727
 fuentes:
   - "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf"
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
@@ -114,6 +114,9 @@ fuentes:
   - "https://prendespando22.org/quienes-somos/historia/"
   - "https://celestialchurch.com/document/lecture-on-the-tenets-of-celestial-church-of-christ/"
   - "https://museeprotestant.org/en/notice/the-huguenot-cross/?parc=63959"
+  - "https://presbyterianireland.org/resources/press-and-media/burning-bush"
+  - "https://disciples.org/our-identity/the-chalice/"
+  - "https://commons.wikimedia.org/wiki/File:Old%20communion%20set%20P6200131.jpg"
 ---
 
 # Simbología religiosa comparada
@@ -382,6 +385,12 @@ La [[harrismo|Iglesia harrista]] conserva la memoria del bastón con cruz y del 
 
 La túnica blanca tiene usos y explicaciones bíblicas documentadas en la Iglesia Celestial de Cristo, tratada en [[aladura|Iglesias aladura]]. La cruz hugonote tiene una historia propia en las [[reformada|iglesias reformadas]] de lengua francesa. [98, 99]
 
+## E21.2 · Presbiterianismo, Movimiento de Restauración
+
+### La zarza ardiente y la mesa Stone-Campbell
+
+La zarza ardiente del Éxodo aparece en la tradición del [[presbiterianismo|presbiterianismo]] escocés e irlandés. La copa y el pan documentan la práctica de la Cena en el [[restauracionismo|Movimiento de Restauración]]. El cáliz con el aspa de san Andrés pertenece a la Iglesia Cristiana (Discípulos de Cristo). [100, 101, 102]
+
 ## Fuentes
 
 - The Metropolitan Museum of Art. [The Art of South and Southeast Asia: A Resource for Educators](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_South_and_Southeast_Asia_A_Resource_for_Educators.pdf). Apartados de iconografía budista.
@@ -496,3 +505,6 @@ La túnica blanca tiene usos y explicaciones bíblicas documentadas en la Iglesi
 97. [Iglesia Evangélica de Hermanos de Gijón, historia de las Asambleas de Hermanos](https://prendespando22.org/quienes-somos/historia/).
 98. [Celestial Church of Christ, explicación de sus prácticas y fiestas](https://celestialchurch.com/document/lecture-on-the-tenets-of-celestial-church-of-christ/).
 99. [Musée protestant, origen y uso de la cruz hugonote](https://museeprotestant.org/en/notice/the-huguenot-cross/?parc=63959).
+100. [Presbyterian Church in Ireland, la zarza ardiente en la tradición presbiteriana](https://presbyterianireland.org/resources/press-and-media/burning-bush).
+101. [Christian Church (Disciples of Christ), explicación institucional del cáliz](https://disciples.org/our-identity/the-chalice/).
+102. [Procedencia visual de Copa y otras piezas de un antiguo juego de comunión conservado en Bethany](https://commons.wikimedia.org/wiki/File:Old%20communion%20set%20P6200131.jpg).

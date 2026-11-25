@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2814
+palabras: 2863
 fuentes:
   - "https://github.com/AlejandroPico/Relitree/blob/main/agentes.md"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -130,6 +130,10 @@ fuentes:
   - "https://hls-dhs-dss.ch/de/articles/011430/2006-10-16/"
   - "https://museeprotestant.org/en/notice/jean-calvin-1509-1564/?parc=56919"
   - "https://www.crcna.org/welcome/beliefs/confessions/belgic-confession?language=en&vm=r"
+  - "https://www.scotlandspeople.gov.uk/help-and-support/guides/church-court-records"
+  - "https://pcusa.org/resource/book-order-spanish"
+  - "https://www.cambridge.org/core/books/abs/cambridge-companion-to-american-protestantism/stonecampbell-movement/1F4959CCE0BD59A2F2A00E4B2D22D2C6"
+  - "https://www.oikoumene.org/church-families/disciples-of-christ/churches-of-christ"
 ---
 
 # Glosario general
@@ -504,6 +508,12 @@ En la [[harrismo|Iglesia harrista]], el colegio de apóstoles se ocupa de asunto
 
 Aladura se refiere en yoruba a quien ora y da nombre a las [[aladura|iglesias aladura]]. En las [[reformada|iglesias reformadas]], una confesión formula enseñanzas comunes. Consistorio designa en el ejemplo ginebrino el órgano de disciplina con pastores y ancianos. [102, 103, 104, 105, 106]
 
+## E21.2 · Presbiterianismo, Movimiento de Restauración
+
+### Presbiterio, sesión y restauración Stone-Campbell
+
+Presbiterio designa, en el [[presbiterianismo|presbiterianismo]], un órgano de gobierno que reúne a ministros y ancianos de distintas congregaciones. La sesión gobierna una congregación. En el [[restauracionismo|Movimiento de Restauración]], restauración alude al proyecto de modelar la Iglesia a partir del Nuevo Testamento. El nombre Stone-Campbell acota una familia histórica concreta. [107, 108, 109, 110]
+
 ## Fuentes
 
 - Relitree. [Guía para agentes y colaboradores](https://github.com/AlejandroPico/Relitree/blob/main/agentes.md).
@@ -633,3 +643,7 @@ Aladura se refiere en yoruba a quien ora y da nombre a las [[aladura|iglesias al
 104. [Diccionario histórico de Suiza, iglesias evangélicas reformadas](https://hls-dhs-dss.ch/de/articles/011430/2006-10-16/).
 105. [Musée protestant, biografía de Juan Calvino](https://museeprotestant.org/en/notice/jean-calvin-1509-1564/?parc=56919).
 106. [Christian Reformed Church, Confesión belga](https://www.crcna.org/welcome/beliefs/confessions/belgic-confession?language=en&vm=r).
+107. [Scotland’s People, guía de tribunales y asambleas de la Iglesia](https://www.scotlandspeople.gov.uk/help-and-support/guides/church-court-records).
+108. [Presbyterian Church (U.S.A.), Libro de Orden en español, edición 2025–2027](https://pcusa.org/resource/book-order-spanish).
+109. [Cambridge Companion to American Protestantism, el Movimiento Stone-Campbell](https://www.cambridge.org/core/books/abs/cambridge-companion-to-american-protestantism/stonecampbell-movement/1F4959CCE0BD59A2F2A00E4B2D22D2C6).
+110. [Consejo Mundial de Iglesias, familia de los Discípulos de Cristo e Iglesias de Cristo](https://www.oikoumene.org/church-families/disciples-of-christ/churches-of-christ).

@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2560
+palabras: 2602
 fuentes:
   - "https://aa.usno.navy.mil/faq/calendars"
   - "https://digitallibrary.un.org/record/4085431/files/A_AC.172_2025_L.2-EN.pdf"
@@ -120,6 +120,10 @@ fuentes:
   - "https://oikoumene.org/member-churches/the-church-of-the-lord-prayer-fellowship-worldwide"
   - "https://celestialchurch.com/cause/imeko-building-fund/"
   - "https://www.crcna.org/welcome/beliefs/confessions/heidelberg-catechism"
+  - "https://www.churchofscotland.org.uk/about-us/our-faith"
+  - "https://www.scotlandspeople.gov.uk/help-and-support/guides/church-court-records"
+  - "https://christianhistoryinstitute.org/magazine/article/how-to-speak-stone-campbell"
+  - "https://disciples.org/resources/lectionary/what-is-the-lectionary/"
 ---
 
 # Calendarios y festividades del mundo
@@ -388,6 +392,12 @@ En julio la [[harrismo|Iglesia harrista]] celebra la Semana Espiritual del Medio
 
 La Iglesia del Señor celebra Tabiẹorar el 22 de agosto e Imeko acoge una peregrinación navideña de la Iglesia Celestial, dos prácticas de las [[aladura|iglesias aladura]]. El Catecismo de Heidelberg divide las preguntas en domingos, una estructura destinada a la enseñanza de las [[reformada|iglesias reformadas]] que lo reciben. [103, 104, 105]
 
+## E21.2 · Presbiterianismo, Movimiento de Restauración
+
+### La celebración dominical y los ciclos de lecturas
+
+Las reuniones dominicales y las ocasiones de comunión estructuraron el año parroquial del [[presbiterianismo|presbiterianismo]]. La Cena semanal tuvo un lugar central en el [[restauracionismo|Movimiento de Restauración]]. Algunas congregaciones de los Discípulos siguen el Leccionario Común Revisado en un ciclo de tres años. [106, 107, 108, 109]
+
 ## Fuentes
 
 - U.S. Naval Observatory. [Introduction to Calendars](https://aa.usno.navy.mil/faq/calendars).
@@ -507,3 +517,7 @@ La Iglesia del Señor celebra Tabiẹorar el 22 de agosto e Imeko acoge una pere
 103. [Consejo Mundial de Iglesias, The Church of the Lord (Prayer Fellowship) Worldwide](https://oikoumene.org/member-churches/the-church-of-the-lord-prayer-fellowship-worldwide).
 104. [Celestial Church of Christ, Imeko y la peregrinación navideña](https://celestialchurch.com/cause/imeko-building-fund/).
 105. [Christian Reformed Church, Catecismo de Heidelberg](https://www.crcna.org/welcome/beliefs/confessions/heidelberg-catechism).
+106. [Iglesia de Escocia, presentación de su fe](https://www.churchofscotland.org.uk/about-us/our-faith).
+107. [Scotland’s People, guía de tribunales y asambleas de la Iglesia](https://www.scotlandspeople.gov.uk/help-and-support/guides/church-court-records).
+108. [Christian History Institute, vocabulario y prácticas del Movimiento Stone-Campbell](https://christianhistoryinstitute.org/magazine/article/how-to-speak-stone-campbell).
+109. [Christian Church (Disciples of Christ), uso del leccionario común revisado](https://disciples.org/resources/lectionary/what-is-the-lectionary/).

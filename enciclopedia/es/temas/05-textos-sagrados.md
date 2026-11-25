@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2935
+palabras: 2993
 fuentes:
   - "https://ich.unesco.org/en/RL/vedic-chanting-00062"
   - "https://suttacentral.net/about"
@@ -130,6 +130,10 @@ fuentes:
   - "https://dacb.org/stories/nigeria/crowther3-samuel/"
   - "https://www.crcna.org/welcome/beliefs/confessions/heidelberg-catechism"
   - "https://www.crcna.org/welcome/beliefs/confessions/belgic-confession?language=en&vm=r"
+  - "https://2020.opc.org/documents/WCF_orig.html"
+  - "https://pcusa.org/about-pcusa/agencies-entities/life-witness/ministry-areas/constitutional-interpretation/constitution"
+  - "https://discipleshistory.org/wiki/campbell-alexander-1788-1866/"
+  - "https://digitalcommons.discipleshistory.org/files/Thomas%20Campbell%20Declaration%20and%20Address%20of%20the%20Christian%20Associa.pdf"
 ---
 
 # Textos sagrados del mundo comparados
@@ -412,6 +416,12 @@ La [[harrismo|Iglesia harrista]] reconoce la Biblia como autoridad doctrinal y d
 
 En las [[aladura|iglesias aladura]], la Biblia se lee en un entorno de traducción y transmisión oral en varias lenguas. En las [[reformada|iglesias reformadas]], la Biblia es la referencia doctrinal. Catecismos como el de Heidelberg y confesiones como la belga expresan su recepción en iglesias determinadas. [110, 111, 112, 113]
 
+## E21.2 · Presbiterianismo, Movimiento de Restauración
+
+### Estándares de Westminster y lectura Stone-Campbell
+
+En el [[presbiterianismo|presbiterianismo]], la Biblia ocupa el lugar principal y diversas iglesias reciben los estándares de Westminster como texto confesional. El [[restauracionismo|Movimiento de Restauración]] hizo del Nuevo Testamento una referencia para el culto y la organización. La Declaration and Address de 1809 es una propuesta de reforma, y The Living Oracles es una edición de una traducción bíblica. [114, 115, 116, 117]
+
 ## Fuentes
 
 - UNESCO. [Tradition of Vedic chanting](https://ich.unesco.org/en/RL/vedic-chanting-00062).
@@ -541,3 +551,7 @@ En las [[aladura|iglesias aladura]], la Biblia se lee en un entorno de traducci�
 111. [Dictionary of African Christian Biography, Samuel Ajayi Crowther](https://dacb.org/stories/nigeria/crowther3-samuel/).
 112. [Christian Reformed Church, Catecismo de Heidelberg](https://www.crcna.org/welcome/beliefs/confessions/heidelberg-catechism).
 113. [Christian Reformed Church, Confesión belga](https://www.crcna.org/welcome/beliefs/confessions/belgic-confession?language=en&vm=r).
+114. [Orthodox Presbyterian Church, Confesión de Westminster y revisiones estadounidenses](https://2020.opc.org/documents/WCF_orig.html).
+115. [Presbyterian Church (U.S.A.), Constitución, documentos doctrinales y de gobierno](https://pcusa.org/about-pcusa/agencies-entities/life-witness/ministry-areas/constitutional-interpretation/constitution).
+116. [Disciples Historical Society, Alexander Campbell](https://discipleshistory.org/wiki/campbell-alexander-1788-1866/).
+117. [Thomas Campbell, Declaration and Address of the Christian Association of Washington, edición de archivo](https://digitalcommons.discipleshistory.org/files/Thomas%20Campbell%20Declaration%20and%20Address%20of%20the%20Christian%20Associa.pdf).

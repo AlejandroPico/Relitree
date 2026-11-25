@@ -1,7 +1,7 @@
 ---
 estado: borrador
 fase: E01
-palabras: 2665
+palabras: 2713
 fuentes:
   - "https://www.press.jhu.edu/books/title/1644/genealogies-religion"
   - "https://plato.stanford.edu/entries/concept-religion/"
@@ -145,6 +145,11 @@ fuentes:
   - "https://www.research.ed.ac.uk/en/publications/a-home-away-from-home-the-proliferation-of-celestial-church-of-ch/"
   - "https://academic.oup.com/edited-volume/37088/chapter/323186686"
   - "https://academic.oup.com/book/27805/chapter-abstract/198069883"
+  - "https://www.nrscotland.gov.uk/learning-and-events/research-guides/church-records/"
+  - "https://www.scotlandspeople.gov.uk/help-and-support/guides/church-court-records"
+  - "https://digitalcommons.acu.edu/scr/"
+  - "https://digitalcommons.acu.edu/acu_library_books/29/"
+  - "https://discipleshistory.org/wiki/sarah-lue-bostick/"
 ---
 
 # Historia del estudio de las religiones
@@ -417,6 +422,12 @@ La [[harrismo|Iglesia harrista]] se estudia con fuentes de la marcha de Harris, 
 
 Para estudiar las [[aladura|iglesias aladura]], se ponen en relación la investigación de J. D. Y. Peel, las biografías de sus protagonistas y los estudios de O. A. Adeboye y Afe Adogame. Para las [[reformada|iglesias reformadas]], la bibliografía histórica compara ciudades europeas y la recepción internacional de sus acuerdos. [119, 120, 121, 122, 123]
 
+## E21.2 · Presbiterianismo, Movimiento de Restauración
+
+### Tribunales eclesiásticos, prensa y archivos de comunidad
+
+Scotland’s People clasifica los registros del [[presbiterianismo|presbiterianismo]] por el órgano que los produjo. Los archivos Stone-Campbell permiten documentar el [[restauracionismo|Movimiento de Restauración]] con actas, publicaciones y correspondencia. Los estudios de Edward J. Robinson sobre Texas y el archivo de Sarah Lue Bostick aportan perspectivas sobre las congregaciones afroamericanas. [124, 125, 126, 127, 128]
+
 ## Fuentes
 
 - Talal Asad. [Genealogies of Religion](https://www.press.jhu.edu/books/title/1644/genealogies-religion). Johns Hopkins University Press, 1993.
@@ -561,3 +572,8 @@ Para estudiar las [[aladura|iglesias aladura]], se ponen en relación la investi
 121. [Afe Adogame, A Home Away from Home, Universidad de Edimburgo](https://www.research.ed.ac.uk/en/publications/a-home-away-from-home-the-proliferation-of-celestial-church-of-ch/).
 122. [Oxford Handbook of the Protestant Reformations, las reformas protestantes y católicas en Europa](https://academic.oup.com/edited-volume/37088/chapter/323186686).
 123. [Oxford University Press, Calvinism on the Frontier y la circulación internacional de la Reforma](https://academic.oup.com/book/27805/chapter-abstract/198069883).
+124. [National Records of Scotland, guía de los archivos eclesiásticos](https://www.nrscotland.gov.uk/learning-and-events/research-guides/church-records/).
+125. [Scotland’s People, guía de tribunales y asambleas de la Iglesia](https://www.scotlandspeople.gov.uk/help-and-support/guides/church-court-records).
+126. [Abilene Christian University, colecciones de historia Stone-Campbell](https://digitalcommons.acu.edu/scr/).
+127. [Edward J. Robinson, historia de congregaciones afroamericanas de las Iglesias de Cristo en Texas](https://digitalcommons.acu.edu/acu_library_books/29/).
+128. [Disciples Historical Society, Sarah Lue Bostick](https://discipleshistory.org/wiki/sarah-lue-bostick/).

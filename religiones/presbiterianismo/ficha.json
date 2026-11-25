@@ -15,9 +15,9 @@
   "icono": {
     "archivo": "icono.svg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Burning_bush_icon.svg",
-    "licencia": "Public domain",
-    "autor": "Original: Presbyterian Church in Ireland\nDerivative work: Hogweard"
-  },
-  "fieles": 50000000,
-  "fieles_fuente": "Wikipedia, List of Christian denominations by number of members"
+    "licencia": "Dominio público, según la ficha de procedencia",
+    "autor": "Presbyterian Church in Ireland (original) y Hogweard (adaptación)",
+    "motivo": "Zarza ardiente de la tradición presbiteriana",
+    "motivo_fuente": "https://presbyterianireland.org/resources/press-and-media/burning-bush"
+  }
 }
